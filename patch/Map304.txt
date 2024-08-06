@@ -1,0 +1,42 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+"グリフォン"
+> CONTEXT: Map304/events/9/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いらっしゃいませ。
+　何をお探しでしょうか？
+> CONTEXT: Map304/events/9/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……………………………
+> CONTEXT: Map304/events/9/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map215/events/10/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いやよ、オレさ、
+　こう人間の道具屋でよ、
+　接客してみたかったんだ、一度。
+> CONTEXT: Map304/events/9/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「だから別に何か売ってるわけじゃ
+　ないんだけど………
+> CONTEXT: Map304/events/9/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…イイよな、これ。
+　うん。
+> CONTEXT: Map304/events/9/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,187 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+/../
+> CONTEXT: Map170/events/1/pages/0/27/InlineScript/2:31 < UNTRANSLATED
+> CONTEXT: Troops/331/pages/3/2/InlineScript/2:31 < UNTRANSLATED
+> CONTEXT: Map015/events/2/pages/0/18/InlineScript/2:31 < UNTRANSLATED
+> CONTEXT: Map002/events/8/pages/0/0/InlineScript/2:31 < UNTRANSLATED
+> CONTEXT: Commonevents/500/424/InlineScript/2:31 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……\\v[1]……\\v[2]……………
+> CONTEXT: Map170/events/1/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「まだこんなところにいたのか。
+　賢王様も待ってるぜ。
+> CONTEXT: Map170/events/1/pages/0/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「世界の運命が俺たちにかかってるんだ。
+　気合入れていこうぜ。
+> CONTEXT: Map170/events/1/pages/0/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]ッ！
+> CONTEXT: Map170/events/1/pages/0/111/Dialogue < UNTRANSLATED
+> CONTEXT: Map171/events/8/pages/1/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map160/events/6/pages/0/213/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/331/pages/3/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]、あたしね、
+　リスヴェグで魔法を勉強してきたのよ！
+> CONTEXT: Map170/events/1/pages/0/131/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「これからは、あたしも
+　\\n[1]の力になれるわ！
+> CONTEXT: Map170/events/1/pages/0/133/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「だから、ずっと………
+> CONTEXT: Map170/events/1/pages/0/139/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「これから、ずっと………
+> CONTEXT: Map170/events/1/pages/0/148/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「一…緒………に………………
+> CONTEXT: Map170/events/1/pages/0/151/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「コワがらなくていいのよ。
+　私はルヴィッサ。
+> CONTEXT: Map170/events/1/pages/0/252/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/19/pages/0/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ねえ、\\n[1]も
+　夢魔が憎いでしょう？
+> CONTEXT: Map170/events/1/pages/0/254/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]・オヴェルーク。
+　お前に『勇者』の称号を与える。
+> CONTEXT: Map170/events/1/pages/0/302/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「勇者さまーっ\\e[0]
+> CONTEXT: Map170/events/1/pages/0/328/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"兵士"
+> CONTEXT: Map170/events/1/pages/0/351/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「勇者様、ばんざぁいっ！
+> CONTEXT: Map170/events/1/pages/0/352/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「魔王を殺せ！
+　みんなのカタキを！！
+> CONTEXT: Map170/events/1/pages/0/376/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[25]「あなたが魔王です！！
+> CONTEXT: Map170/events/1/pages/0/425/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もうやめにしたら？
+> CONTEXT: Map170/events/1/pages/0/456/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「オリビアはもう、元に戻らないわよ。
+> CONTEXT: Map170/events/1/pages/0/473/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「夢魔を倒してその後どうするつもり？
+> CONTEXT: Map170/events/1/pages/0/474/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あなたの力は、魔王の力。
+> CONTEXT: Map170/events/1/pages/0/475/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あなたは、魔王。
+> CONTEXT: Map170/events/1/pages/0/476/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「全てが終わった後、
+　世界にどうされちゃうのかしらね……？
+> CONTEXT: Map170/events/1/pages/0/477/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふ、何をしているの？
+> CONTEXT: Map170/events/1/pages/0/535/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\r[夢魔,あたし]がそんなに憎い？
+> CONTEXT: Map170/events/1/pages/0/536/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\dいいわ\\d。
+　\\dならばそうやって\\d、
+> CONTEXT: Map170/events/1/pages/0/538/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\dずっとその剣を\\d
+　\\d振り回してなさい\\d………。
+> CONTEXT: Map170/events/1/pages/0/540/Dialogue < UNTRANSLATED
+
+> END STRING

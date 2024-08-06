@@ -1,0 +1,78 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「おっ、また来たゼ。
+　エストの言った通りだ。
+> CONTEXT: Map058/events/6/pages/0/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ココにいりゃエサに困ることは無さそうだ。
+　なあメローナ。
+> CONTEXT: Map058/events/6/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あれ、でもコイツ人間だよ～
+> CONTEXT: Map058/events/6/pages/0/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ねえストゥーナ、
+　コイツひょっとして例の勇者クンじゃない？
+> CONTEXT: Map058/events/6/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何でもいいだろ。
+　それにちょうど魔物にも飽きてたしな。
+> CONTEXT: Map058/events/6/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あは\\e[0]
+　それもそうだねぇ～
+> CONTEXT: Map058/events/6/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それじゃ～……
+> CONTEXT: Map058/events/6/pages/0/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「オレの魅力でカチカチに……
+> CONTEXT: Map058/events/6/pages/0/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「アタシの魅力でフニャフニャにぃ～っ
+> CONTEXT: Map058/events/6/pages/0/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「カタくしてやるぜっ！
+「溶かしてあげるぅ～っ\\e[0]
+> CONTEXT: Map058/events/6/pages/0/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「悪りィ、エスト……
+> CONTEXT: Map058/events/6/pages/0/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「先イくわぁ～っ
+> CONTEXT: Map058/events/6/pages/0/87/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,800 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+SQ_Millanda2
+> CONTEXT: Map051/bgm/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"受付"
+> CONTEXT: Map051/events/8/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map051/events/8/pages/0/16/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map051/events/8/pages/0/24/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map051/events/8/pages/0/42/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map051/events/8/pages/0/50/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map051/events/8/pages/0/59/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map051/events/8/pages/0/105/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map051/events/8/pages/0/128/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いらっしゃいませ。
+　愛の宿、ミランダへようこそ。
+> CONTEXT: Map051/events/8/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「割引券をお持ちですね。
+　お泊りは \\b10,000G\\f になります。
+> CONTEXT: Map051/events/8/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\b10,000G\\f でお泊りしますか？
+> CONTEXT: Map051/events/8/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お金が足りてませんよ。
+> CONTEXT: Map051/events/8/pages/0/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/8/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お泊りは \\b100,000G\\f になります。
+> CONTEXT: Map051/events/8/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\b100,000G\\f でお泊りしますか？
+> CONTEXT: Map051/events/8/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それではお楽しみ下さい。
+> CONTEXT: Map051/events/8/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あら、今日のお客さんはあなた？
+> CONTEXT: Map051/events/8/pages/0/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それじゃ、服脱いで……
+　楽しみましょ♪
+> CONTEXT: Map051/events/8/pages/0/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あぁん……っ
+　イかされっちゃったぁ……\\e[0]
+> CONTEXT: Map051/events/8/pages/0/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お客さんにイかされたことなんて
+　なかったのになぁ～。
+> CONTEXT: Map051/events/8/pages/0/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あなたスゴいのね。
+　ご褒美にこれアゲちゃう♪
+> CONTEXT: Map051/events/8/pages/0/87/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「隣の部屋の子が摘んできたお花よ。
+　キレイでしょ♪
+> CONTEXT: Map051/events/8/pages/0/93/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それじゃ、また来てねぇ♪
+> CONTEXT: Map051/events/8/pages/0/97/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/8/pages/0/120/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お楽しみいただけましたか？
+> CONTEXT: Map051/events/8/pages/0/106/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/8/pages/0/129/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んふっ、
+　おつかれさまぁ♪
+> CONTEXT: Map051/events/8/pages/0/118/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ガールハンター"
+> CONTEXT: Map051/events/9/pages/0/3/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map051/events/9/pages/0/13/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map051/events/9/pages/0/42/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map051/events/9/pages/0/83/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map051/events/9/pages/1/2/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map051/events/9/pages/1/31/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map051/events/9/pages/2/2/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map051/events/9/pages/2/31/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map051/events/9/pages/3/2/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map051/events/9/pages/3/30/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map051/events/9/pages/3/38/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map051/events/9/pages/3/56/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map051/events/9/pages/4/0/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お前のイかせた女の数は……
+　\\b\\v[27]\\f 人か。
+> CONTEXT: Map051/events/9/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/9/pages/0/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/9/pages/1/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/9/pages/2/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/9/pages/3/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/9/pages/4/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「俺がイかせた女の数は……
+> CONTEXT: Map051/events/9/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/9/pages/4/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あんまり多すぎて数え切れなくなっちまった。
+　でもきっとお前より多いぜ。
+> CONTEXT: Map051/events/9/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/9/pages/4/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふっ、百人斬りにはまだまだだな。
+> CONTEXT: Map051/events/9/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ほお、なかなかやるじゃないか。
+　百人斬りに届きそうだな。
+> CONTEXT: Map051/events/9/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どうだ、ひとつ俺と勝負しようぜ。
+　どっちが先に百人斬り達成するかだ。
+> CONTEXT: Map051/events/9/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「俺がイかせた女の数は \\b\\v[1]\\f 人だ。
+　どっちが勝つか楽しみだな。
+> CONTEXT: Map051/events/9/pages/0/28/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/9/pages/0/47/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/9/pages/0/69/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/9/pages/0/88/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/9/pages/0/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「俺がイかせた女の数は \\b\\v[1]\\f 人だ。
+> CONTEXT: Map051/events/9/pages/0/34/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/9/pages/0/75/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/9/pages/0/116/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/9/pages/1/5/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/9/pages/2/5/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/9/pages/3/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「参ったな。 俺より先に
+　百人斬り達成してる奴がいたか……。
+> CONTEXT: Map051/events/9/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「これをやるよ。
+　俺に勝った奴にやろうって決めてたんだ。
+> CONTEXT: Map051/events/9/pages/0/37/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/9/pages/0/78/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/9/pages/0/119/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/9/pages/1/26/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/9/pages/2/26/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/9/pages/3/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「だがこれで終わりと思うなよ。
+　次は五百人斬りだ。
+> CONTEXT: Map051/events/9/pages/0/43/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/9/pages/1/32/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/9/pages/1/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どっちが先に達成するか勝負だ。
+　五百人イかせたらまたここに来な。
+> CONTEXT: Map051/events/9/pages/0/45/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/9/pages/1/34/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/9/pages/1/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふっ、五百人斬りにはまだまだだな。
+> CONTEXT: Map051/events/9/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ほお、なかなかやるじゃないか。
+　五百人斬りに届きそうだな。
+> CONTEXT: Map051/events/9/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どうだ、ひとつ俺と勝負しようぜ。
+　どっちが先に五百人斬り達成するかだ。
+> CONTEXT: Map051/events/9/pages/0/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「参ったな。 俺より先に
+　五百人斬り達成してる奴がいたか……。
+> CONTEXT: Map051/events/9/pages/0/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「だがこれで終わりと思うなよ。
+　次は千人斬りだ。
+> CONTEXT: Map051/events/9/pages/0/84/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/9/pages/2/32/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/9/pages/2/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どっちが先に達成するか勝負だ。
+　千人イかせたらまたここに来な。
+> CONTEXT: Map051/events/9/pages/0/86/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/9/pages/2/34/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/9/pages/2/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふっ、千人斬りにはまだまだだな。
+> CONTEXT: Map051/events/9/pages/0/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ほお、なかなかやるじゃないか。
+　千人斬りに届きそうだな。
+> CONTEXT: Map051/events/9/pages/0/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どうだ、ひとつ俺と勝負しようぜ。
+　どっちが先に千人斬り達成するかだ。
+> CONTEXT: Map051/events/9/pages/0/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「参ったな。 俺より先に
+　千人斬り達成してる奴がいたか……。
+> CONTEXT: Map051/events/9/pages/0/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「百人斬り達成したらまた来な。
+　ま、先に達成するのは俺だがな。
+> CONTEXT: Map051/events/9/pages/1/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふっふっふ、
+　どうやら俺の勝ちのようだな。
+> CONTEXT: Map051/events/9/pages/1/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/9/pages/2/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/9/pages/3/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「だが気を落とすなよ、
+　次はどっちが先に五百人斬り達成するか
+　勝負しようぜ。
+> CONTEXT: Map051/events/9/pages/1/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「五百人斬り達成したらまた来な。
+> CONTEXT: Map051/events/9/pages/1/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くっ、
+　どうやら俺の負けのようだな……。
+> CONTEXT: Map051/events/9/pages/1/24/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/9/pages/2/24/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/9/pages/3/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お前も百人斬り達成していたか……
+　なかなかやるな。
+> CONTEXT: Map051/events/9/pages/1/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どちらが先に達成したか分からんから、
+　勝負は引き分けだな。
+> CONTEXT: Map051/events/9/pages/1/41/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/9/pages/2/41/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/9/pages/3/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「五百人斬り達成したらまた来な。
+　ま、先に達成するのは俺だがな。
+> CONTEXT: Map051/events/9/pages/2/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「だが気を落とすなよ、
+　次はどっちが先に千人斬り達成するか
+　勝負しようぜ。
+> CONTEXT: Map051/events/9/pages/2/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「千人斬り達成したらまた来な。
+> CONTEXT: Map051/events/9/pages/2/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お前も五百人斬り達成していたか……
+　なかなかやるな。
+> CONTEXT: Map051/events/9/pages/2/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「千人斬り達成したらまた来な。
+　ま、先に達成するのは俺だがな。
+> CONTEXT: Map051/events/9/pages/3/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「だが気を落とすなよ、
+　愛の道に終わりはない。
+> CONTEXT: Map051/events/9/pages/3/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お互い精進していこうぜ。
+> CONTEXT: Map051/events/9/pages/3/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それにしても、まさかほんとに
+　千人斬りやっちまうとは大した奴だ。
+> CONTEXT: Map051/events/9/pages/3/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「これもやろう。
+　俺からの祝いだ。
+> CONTEXT: Map051/events/9/pages/3/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「だが愛の道に終わりはない。
+　これからもお互い精進しようぜ。
+> CONTEXT: Map051/events/9/pages/3/39/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/9/pages/3/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お前も千人斬り達成していたか……
+　なかなかやるな。
+> CONTEXT: Map051/events/9/pages/3/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それにしても、俺のほかに
+　千人斬り達成する奴がいるとはな。
+　たいした奴だ。
+> CONTEXT: Map051/events/9/pages/3/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「勝負は引き分けたがこれをやろう。
+　俺からの祝いだ。
+> CONTEXT: Map051/events/9/pages/3/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"中年の男"
+> CONTEXT: Map051/events/10/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map051/events/10/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map051/events/10/pages/2/0/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いけね、リンへのプレゼント
+　部屋に忘れてきちまったや。
+> CONTEXT: Map051/events/10/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ガキ共、ちゃんと
+　留守番してんだろォなァ……
+> CONTEXT: Map051/events/10/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うん？ 賢王様？
+> CONTEXT: Map051/events/10/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あの人はお城に数え切れないほど
+　女囲ってんだろぉ？
+　こんなとこに来るはずねえじゃねえか。
+> CONTEXT: Map051/events/10/pages/1/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………ぐがああぁぁ……
+> CONTEXT: Map051/events/10/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カウンターに突っ伏して眠っている……
+> CONTEXT: Map051/events/10/pages/2/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"女"
+> CONTEXT: Map051/events/11/pages/0/3/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map051/events/11/pages/0/17/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map051/events/11/pages/0/29/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あら…、お兄さん
+　\\c[3]ムーンドロップス\\c[0]を持ってるわね。
+> CONTEXT: Map051/events/11/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それ、私にくれない？
+　お礼にイイもの……あげちゃうわよ\\e[0]
+> CONTEXT: Map051/events/11/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\c[3]ムーンドロップス\\c[0]を手に入れたら
+　またいらっしゃい。
+> CONTEXT: Map051/events/11/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……用もないのに話しかけないでくれる？
+> CONTEXT: Map051/events/11/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"愛の常連"
+> CONTEXT: Map051/events/13/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map051/events/13/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どんな困難の下でも、
+　どんな危機の中でも、
+　決して忘れてはいけないもの……
+> CONTEXT: Map051/events/13/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私たちの生きる希望…生きる意味……
+　それが『愛』よっ！
+> CONTEXT: Map051/events/13/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ここは愛の宿。 愛の巣。 愛のたまり場。
+　その名はミランダ！
+> CONTEXT: Map051/events/13/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あなた新顔ね？
+　これからよろしく\\e[0]
+> CONTEXT: Map051/events/13/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「愛……ああここが………
+　ほんとの…愛の……………
+> CONTEXT: Map051/events/13/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"遊女"
+> CONTEXT: Map051/events/14/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map051/events/14/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map051/events/18/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map051/events/18/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map051/events/20/pages/0/0/InlineScript/1:37 < UNTRANSLATED
+> CONTEXT: Map051/events/20/pages/0/93/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そこの隅っこにいる子、ちょっと変わってるけど
+　お客さんには人気なのよね～。
+> CONTEXT: Map051/events/14/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あの子の相手したヒトみんな、
+　精気を吸われたみたいにフラフラになって
+　出てくるのよ。
+> CONTEXT: Map051/events/14/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「案外悪魔か何かだったりしてね？
+　あはははっ
+> CONTEXT: Map051/events/14/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どうしたのかしら……
+　みんな急に居眠りしだしちゃって……
+> CONTEXT: Map051/events/14/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そういう私も…ふぁ……
+　ちょっと眠い…わ………
+> CONTEXT: Map051/events/14/pages/1/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「世界のどこかには、
+　エッチなアイテムを専門に扱う
+　お店があるそうよ。
+> CONTEXT: Map051/events/18/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「興味津々よねぇ\\e[0]
+> CONTEXT: Map051/events/18/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…こっくり…こっくり……
+> CONTEXT: Map051/events/18/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「男のヒトでも\\c[2]弱点\\c[0]があるヒトがいて、
+　ソコ狙うとすっごく感じてくれるのよねぇ～\\e[0]
+> CONTEXT: Map051/events/20/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あなたも何か弱点あるのかしら？
+> CONTEXT: Map051/events/20/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何か弱点あるのかしら？」
+> CONTEXT: Map051/events/20/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何が弱点なの？
+　教えてぇ\\e[0]
+> CONTEXT: Map051/events/20/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「恥ずかしがらなくっていいのにぃ\\e[0]
+> CONTEXT: Map051/events/20/pages/0/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/20/pages/0/94/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]の弱点はなくなった！
+> CONTEXT: Map051/events/20/pages/0/21/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/20/pages/0/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何が弱点なの？」
+> CONTEXT: Map051/events/20/pages/0/30/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/20/pages/0/55/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/20/pages/0/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+手でせめられるのに弱い
+> CONTEXT: Map051/events/20/pages/0/31/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お口でせめられるのに弱い
+> CONTEXT: Map051/events/20/pages/0/31/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+他 ⇒
+> CONTEXT: Map051/events/20/pages/0/31/Choice/2 < UNTRANSLATED
+> CONTEXT: Map051/events/20/pages/0/56/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふ～ん……
+　いいこと聞いちゃったぁ\\e[0]
+> CONTEXT: Map051/events/20/pages/0/34/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/20/pages/0/44/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/20/pages/0/59/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/20/pages/0/69/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/20/pages/0/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+手が\\n[1]の弱点になった！
+> CONTEXT: Map051/events/20/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+口が\\n[1]の弱点になった！
+> CONTEXT: Map051/events/20/pages/0/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おっぱいでせめられるのに弱い
+> CONTEXT: Map051/events/20/pages/0/56/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+足でせめられるのに弱い
+> CONTEXT: Map051/events/20/pages/0/56/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+胸が\\n[1]の弱点になった！
+> CONTEXT: Map051/events/20/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+足が\\n[1]の弱点になった！
+> CONTEXT: Map051/events/20/pages/0/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アソコでせめられるのに弱い
+> CONTEXT: Map051/events/20/pages/0/81/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やっぱり弱点は無い
+> CONTEXT: Map051/events/20/pages/0/81/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+戻る ⇒
+> CONTEXT: Map051/events/20/pages/0/81/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アソコが\\n[1]の弱点になった！
+> CONTEXT: Map051/events/20/pages/0/88/Dialogue < UNTRANSLATED
+
+> END STRING

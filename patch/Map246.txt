@@ -1,0 +1,63 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「ふふふふふふふ！
+> CONTEXT: Map246/events/4/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+日誌とおぼしきものが壁に刻まれている
+> CONTEXT: Map246/events/5/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「王国暦231年　蛇神の月　19日
+
+　古文書に従い魔法陣と呪文による
+　召喚を試みるも失敗。
+> CONTEXT: Map246/events/5/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「王国暦231年　蛇神の月　23日
+
+　南の魔女のところからかっぱらった秘薬を
+　触媒にするも失敗。 命がけであったのに。
+> CONTEXT: Map246/events/5/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「王国暦231年　海神の月　2日
+
+　終日寝ずに儀式を行うも失敗。
+　少し疲れてきた。
+> CONTEXT: Map246/events/5/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「王国暦231年　海神の月　4日
+
+　召喚後の計画を立て直していたところ
+　僅かに反応がある。
+> CONTEXT: Map246/events/5/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「王国暦231年　海神の月　5日
+
+　わかったぞ！ わかったぞ！ わかったぞ！
+　こうだ！！
+> CONTEXT: Map246/events/5/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+日誌はそこで終わっている
+> CONTEXT: Map246/events/5/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING

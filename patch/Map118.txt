@@ -1,0 +1,38 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「\\n[1]君、
+　君には本当に感謝してる。
+> CONTEXT: Map118/events/5/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/5/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map089/events/5/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map089/events/5/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\d言葉\\dでは言い表せないぐらいにね。
+> CONTEXT: Map118/events/5/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/5/pages/1/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map089/events/5/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map089/events/5/pages/1/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「リスヴェグには、エルフやドーワフっていった
+　グルッペンにはいない種族がいるそうよ。
+> CONTEXT: Map118/events/6/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/6/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いろんな人たちに
+　私たちの\\r[詩,うた]を聞かせられるの、
+　今からとっても楽しみだわ。
+> CONTEXT: Map118/events/6/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map118/events/6/pages/1/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map089/events/6/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map089/events/6/pages/1/3/Dialogue < UNTRANSLATED
+
+> END STRING

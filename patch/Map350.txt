@@ -1,0 +1,357 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+"マグナス/Magnus"
+> CONTEXT: Map350/events/2/pages/0/2/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map360/events/17/pages/0/35/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map361/events/17/pages/0/41/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map313/events/10/pages/0/31/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map313/events/10/pages/0/42/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map316/events/10/pages/0/31/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map316/events/10/pages/0/42/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map313/events/10/pages/0/77/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map316/events/10/pages/0/77/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map313/events/10/pages/0/136/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map316/events/10/pages/0/136/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map313/events/10/pages/0/154/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map316/events/10/pages/0/154/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map313/events/16/pages/0/31/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map313/events/16/pages/0/42/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map316/events/16/pages/0/31/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map316/events/16/pages/0/42/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map313/events/16/pages/0/77/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map313/events/16/pages/0/83/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map316/events/16/pages/0/77/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map316/events/16/pages/0/83/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map313/events/16/pages/0/110/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map316/events/16/pages/0/110/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map313/events/16/pages/0/161/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map313/events/16/pages/0/175/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map290/events/3/pages/0/18/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map316/events/16/pages/0/161/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map316/events/16/pages/0/175/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map313/events/16/pages/0/200/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map316/events/16/pages/0/200/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map313/events/16/pages/0/215/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map316/events/16/pages/0/215/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map313/events/16/pages/0/224/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map316/events/16/pages/0/224/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map313/events/17/pages/0/94/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map313/events/17/pages/0/152/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map313/events/17/pages/0/156/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map244/events/1/pages/0/10/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map244/events/1/pages/0/15/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/1/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/3/pages/0/135/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/3/pages/0/158/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map213/events/17/pages/1/12/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map213/events/17/pages/1/61/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/3/pages/0/224/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map193/events/10/pages/0/31/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/3/pages/0/241/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map213/events/17/pages/1/123/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map193/events/10/pages/0/42/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map193/events/10/pages/0/77/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/3/pages/0/269/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map213/events/17/pages/1/226/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/3/pages/0/274/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/3/pages/0/304/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map174/events/5/pages/0/33/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map193/events/10/pages/0/136/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/3/pages/0/318/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map174/events/5/pages/0/93/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/3/pages/0/321/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map213/events/17/pages/1/364/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map193/events/10/pages/0/154/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map174/events/5/pages/0/129/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/3/pages/0/341/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map213/events/17/pages/1/405/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map193/events/16/pages/0/31/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map193/events/16/pages/0/42/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/3/pages/0/362/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map213/events/17/pages/1/444/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map193/events/16/pages/0/77/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/3/pages/0/377/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map193/events/16/pages/0/83/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map213/events/17/pages/1/455/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/3/pages/0/384/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map170/events/1/pages/0/301/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map193/events/16/pages/0/110/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/3/pages/0/390/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map193/events/16/pages/0/161/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map193/events/16/pages/0/175/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map193/events/16/pages/0/200/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/14/pages/2/1/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/3/pages/0/446/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map193/events/16/pages/0/215/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/14/pages/2/26/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map193/events/16/pages/0/224/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/14/pages/2/42/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map193/events/17/pages/0/32/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map193/events/17/pages/0/48/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map193/events/17/pages/0/61/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map193/events/17/pages/0/156/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/24/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/24/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map193/events/17/pages/0/357/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/24/pages/2/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/24/pages/3/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/24/pages/4/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map193/events/17/pages/0/438/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map193/events/17/pages/0/450/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map193/events/17/pages/0/456/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map193/events/17/pages/0/463/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map193/events/17/pages/0/498/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map193/events/17/pages/0/502/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map193/events/17/pages/0/509/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map193/events/17/pages/0/519/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/137/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/160/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/226/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/243/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/271/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/276/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/306/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/320/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/323/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/21/pages/2/1/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/343/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/21/pages/2/26/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/364/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/21/pages/2/43/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/379/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/386/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/392/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/448/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/137/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map113/events/16/pages/0/255/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/160/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map113/events/16/pages/0/271/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map113/events/16/pages/0/298/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map113/events/16/pages/0/306/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/226/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map113/events/16/pages/0/343/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/243/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map113/events/16/pages/0/351/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/271/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/276/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map113/events/16/pages/0/421/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/306/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map113/events/16/pages/0/451/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/320/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/323/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/343/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/364/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/379/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map044/events/7/pages/0/20/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/386/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/392/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map044/events/7/pages/0/34/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map044/events/7/pages/0/44/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map044/events/7/pages/0/65/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/448/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/30/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map044/events/7/pages/0/99/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/30/pages/0/37/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map044/events/7/pages/0/106/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/30/pages/0/45/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/30/pages/0/53/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/30/pages/0/61/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map044/events/7/pages/0/133/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map044/events/7/pages/0/148/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/30/pages/0/84/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map044/events/7/pages/0/164/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/30/pages/0/116/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map044/events/7/pages/0/180/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/30/pages/0/126/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/30/pages/0/151/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[140]「ここは……
+　ここは夢ではない！
+> CONTEXT: Map350/events/2/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[140]「ここは\\r[現世,うつしよ]だ！
+　まやかしよ去れッ！！
+> CONTEXT: Map350/events/2/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"聖職者"
+> CONTEXT: Map350/events/10/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map350/events/10/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map360/events/23/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map361/events/23/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map266/events/4/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map215/events/9/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map215/events/10/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/2/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map211/events/1/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map216/events/10/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/4/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map216/events/10/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map213/events/10/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/4/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map213/events/10/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map211/events/17/pages/0/59/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map211/events/17/pages/0/75/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map211/events/17/pages/0/88/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map216/events/17/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map211/events/20/pages/0/59/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map211/events/20/pages/0/75/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map211/events/20/pages/0/88/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map211/events/21/pages/0/59/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map211/events/21/pages/0/75/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map211/events/21/pages/0/88/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map211/events/22/pages/0/59/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map211/events/22/pages/0/75/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map211/events/22/pages/0/88/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map213/events/23/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map213/events/23/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map211/events/23/pages/0/59/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map211/events/23/pages/0/75/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map211/events/23/pages/0/88/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map161/events/23/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/17/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map040/events/30/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map040/events/30/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「神よ、神よ、
+　悪しき淫魔どもをこの世界から
+　消し去りたまえ……
+> CONTEXT: Map350/events/10/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map213/events/10/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ぉ……ぉ…………
+　止めなさい……私は…………
+> CONTEXT: Map350/events/10/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map213/events/10/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああっ…………
+> CONTEXT: Map350/events/10/pages/1/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map213/events/10/pages/1/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+顔を紅潮させて眠っている……
+> CONTEXT: Map350/events/10/pages/1/5/Dialogue < UNTRANSLATED
+> CONTEXT: Map213/events/5/pages/1/5/Dialogue < UNTRANSLATED
+> CONTEXT: Map216/events/10/pages/1/5/Dialogue < UNTRANSLATED
+> CONTEXT: Map213/events/10/pages/1/5/Dialogue < UNTRANSLATED
+> CONTEXT: Map214/events/17/pages/1/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map214/events/19/pages/1/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map040/events/13/pages/1/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map039/events/44/pages/1/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"魔術士"
+> CONTEXT: Map350/events/12/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map350/events/12/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map333/events/15/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map333/events/15/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map266/events/5/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map213/events/5/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/3/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/3/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/6/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map213/events/12/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map213/events/12/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map140/events/37/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/19/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/19/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map065/events/30/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map065/events/30/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map042/events/13/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map042/events/13/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map042/events/13/pages/1/13/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map039/events/43/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map042/events/13/pages/1/34/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map042/events/13/pages/2/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map042/events/13/pages/2/6/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map039/events/43/pages/0/22/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map039/events/43/pages/0/27/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map039/events/44/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map042/events/13/pages/2/26/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map042/events/49/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「我らエーランドの魔術士は、
+　こうして神に祈りをささげる事で
+　神の御力である魔法を行使します。
+> CONTEXT: Map350/events/12/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map213/events/12/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「リスヴェグのエルフどもは
+　魔法は人間の秘めた力などと言いますが、
+　とんでもないことです。
+> CONTEXT: Map350/events/12/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map213/events/12/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………………………
+> CONTEXT: Map350/events/12/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map313/events/10/pages/0/131/Dialogue < UNTRANSLATED
+> CONTEXT: Map316/events/10/pages/0/131/Dialogue < UNTRANSLATED
+> CONTEXT: Map277/events/1/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map238/events/3/pages/3/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map214/events/3/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map213/events/12/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/10/pages/0/131/Dialogue < UNTRANSLATED
+> CONTEXT: Map213/events/21/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map213/events/23/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map045/events/5/pages/2/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/10/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/11/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map037/events/2/pages/0/141/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+穏やかな顔で眠っている……
+> CONTEXT: Map350/events/12/pages/1/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map238/events/3/pages/3/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map212/events/1/pages/1/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map214/events/3/pages/1/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map213/events/12/pages/1/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map214/events/7/pages/2/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map216/events/14/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map216/events/15/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map216/events/17/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map213/events/21/pages/1/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map165/events/23/pages/1/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/4/pages/5/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/24/pages/4/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map140/events/34/pages/1/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map214/events/18/pages/1/5/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/25/pages/3/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map124/events/13/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/10/pages/1/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/11/pages/1/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map040/events/22/pages/1/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map042/events/49/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING

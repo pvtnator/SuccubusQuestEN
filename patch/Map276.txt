@@ -1,0 +1,362 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+"町娘"
+> CONTEXT: Map276/events/3/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map170/events/1/pages/0/327/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map065/events/8/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map065/events/8/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map065/events/15/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map065/events/15/pages/2/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map065/events/16/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map039/events/10/pages/0/37/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map039/events/10/pages/0/41/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map039/events/48/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map039/events/48/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map039/events/48/pages/2/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map039/events/50/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map039/events/50/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map039/events/50/pages/2/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map014/events/18/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map014/events/18/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map039/events/57/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map039/events/57/pages/0/8/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map039/events/57/pages/0/47/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map039/events/57/pages/0/71/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map039/events/60/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map039/events/60/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map039/events/60/pages/2/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map039/events/62/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map039/events/62/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map039/events/62/pages/2/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map014/events/36/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「オーリョースの町へようこそ！
+> CONTEXT: Map276/events/3/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「オーリョースの町へようこそ？
+> CONTEXT: Map276/events/3/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ここはオーリョースの町？
+> CONTEXT: Map276/events/3/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"町の住人"
+> CONTEXT: Map276/events/6/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map276/events/11/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map276/events/11/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map276/events/11/pages/2/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map276/events/29/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ちょっと前まで、
+　このあたりにこんな\\r[町,もの]は
+　なかったんだ。
+> CONTEXT: Map276/events/6/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「誰かが、誰かを助けようとしている…
+　…そんな気がするよ。
+> CONTEXT: Map276/events/6/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ゴアデーモン"
+> CONTEXT: Map276/events/7/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map276/events/8/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「覚えているのか？
+　オレたちのことを。
+> CONTEXT: Map276/events/7/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「オレたちも、夢を見るんだ。
+> CONTEXT: Map276/events/7/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ここはオマエの夢。
+　ここはオレたちの夢。
+> CONTEXT: Map276/events/8/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+扉は固く閉ざされている……
+> CONTEXT: Map276/events/9/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map276/events/21/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map276/events/22/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map276/events/23/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map276/events/24/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map276/events/25/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map158/events/2/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map149/events/1/pages/0/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map043/events/1/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ガラの悪い羊"
+> CONTEXT: Map276/events/10/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map276/events/10/pages/0/9/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map276/events/10/pages/0/16/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ん、なんだオメェそりゃ、
+　\\c[4]魔王のかけら\\c[0]？
+> CONTEXT: Map276/events/10/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「物騒なモン持ってるな。
+　おれによこしな。
+> CONTEXT: Map276/events/10/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「オレによこしな」
+> CONTEXT: Map276/events/10/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「はいじゃねえだろはいじゃ。
+> CONTEXT: Map276/events/10/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「大事なモンなんだろ。
+　俺にはとれねえ。
+> CONTEXT: Map276/events/10/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「分かってるぜ。
+　大事なモンなんだろ。
+> CONTEXT: Map276/events/10/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ステラって夢魔が来てから、
+　この白い建物には
+　入れなくなってしまったんだ。
+> CONTEXT: Map276/events/11/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map276/events/11/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「この町に着いた奴も、
+　もう何人も\\c[1]ステラの部屋\\c[0]に
+　行ってしまった。
+> CONTEXT: Map276/events/11/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map276/events/11/pages/1/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「俺が行ってやっつけてやっても
+　いいんだが………
+> CONTEXT: Map276/events/11/pages/0/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map276/events/11/pages/1/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………いや、
+　やっぱりああいうタイプは……
+　ちょっとな。
+> CONTEXT: Map276/events/11/pages/0/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map276/events/11/pages/1/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「この建物にも
+　入れるようになったみたいだな。
+> CONTEXT: Map276/events/11/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「だけど、俺が入っても
+　いつのまにか元の場所に
+　戻ってるんだ。
+> CONTEXT: Map276/events/11/pages/2/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「きっと、
+　俺じゃない誰かのために
+　つくられたんだな。
+> CONTEXT: Map276/events/11/pages/2/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"左の侍女"
+> CONTEXT: Map276/events/15/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/12/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/14/pages/0/80/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/14/pages/0/101/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/14/pages/0/118/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/14/pages/0/133/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/14/pages/0/142/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/14/pages/0/176/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/14/pages/0/185/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/14/pages/2/22/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/14/pages/2/39/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map193/events/17/pages/0/19/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/16/pages/0/80/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/16/pages/0/100/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/16/pages/0/123/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/16/pages/0/139/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/16/pages/0/146/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/16/pages/0/161/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/16/pages/0/196/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/21/pages/0/82/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/21/pages/0/103/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/21/pages/0/120/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/21/pages/0/135/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/21/pages/0/144/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/21/pages/0/178/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/21/pages/0/187/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/21/pages/2/22/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/21/pages/2/39/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map113/events/16/pages/0/282/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map044/events/7/pages/0/40/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「賢王…様………
+> CONTEXT: Map276/events/15/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どこ……に………
+> CONTEXT: Map276/events/15/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"右の侍女"
+> CONTEXT: Map276/events/16/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/11/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/14/pages/0/37/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/14/pages/0/74/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/14/pages/0/95/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/14/pages/0/106/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/14/pages/0/116/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/14/pages/0/126/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/14/pages/0/139/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/14/pages/0/173/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/14/pages/0/180/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/14/pages/0/183/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/14/pages/2/16/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map193/events/17/pages/0/7/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/16/pages/0/37/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/16/pages/0/74/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/16/pages/0/94/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/16/pages/0/105/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/16/pages/0/118/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/16/pages/0/126/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/16/pages/0/134/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/16/pages/0/143/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/16/pages/0/150/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/16/pages/0/158/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/16/pages/0/192/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/21/pages/0/39/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/21/pages/0/76/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/21/pages/0/97/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/21/pages/0/108/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/21/pages/0/118/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/21/pages/0/128/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/21/pages/0/141/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/21/pages/0/175/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/21/pages/0/182/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/21/pages/0/185/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/21/pages/2/16/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map113/events/16/pages/0/259/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map044/events/7/pages/0/32/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お傍に………私を……
+> CONTEXT: Map276/events/16/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「賢王様…………
+> CONTEXT: Map276/events/16/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「このあたり……
+　夢魔の気配を感じないわね。
+> CONTEXT: Map276/events/18/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map276/events/19/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map276/events/20/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/23/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「油断はできないけど……
+　どうして夜の国に
+　こんな場所があるのかしら。
+> CONTEXT: Map276/events/18/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map276/events/19/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map276/events/20/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/23/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「このところ、
+　夜の国が急速に広がっているのを
+　感じます。
+> CONTEXT: Map276/events/29/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「きっと、別な世界がまた
+　夜の国に取り込まれようと
+　しているのでしょう。
+> CONTEXT: Map276/events/29/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING

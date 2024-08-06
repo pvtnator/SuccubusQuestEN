@@ -1,0 +1,362 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+SQ_Castel02
+> CONTEXT: Map044/bgm/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「神よ、感謝しよう！
+　よくぞここに勇者を戻らせた！
+> CONTEXT: Map044/events/7/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「今やグルッペンの全ての民が、
+　いや、そればかりでなく全ての草花、
+　野に遊ぶ獣までもが、
+> CONTEXT: Map044/events/7/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お前の帰還を喜んでいるのだ！
+　勇者\\n[1]！
+> CONTEXT: Map044/events/7/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああしかし、賢王様。
+> CONTEXT: Map044/events/7/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……わかっている。
+> CONTEXT: Map044/events/7/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「魔王城へ向かったのは
+　勇者様お一人ではなかったはず。
+> CONTEXT: Map044/events/7/pages/0/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「しかしお戻りになったのは……
+> CONTEXT: Map044/events/7/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「わかっていると言っている！
+　……おお、我が千の同胞！
+> CONTEXT: Map044/events/7/pages/0/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]、本当なのか。
+　その魔王と入れ替わりにあらわれたという
+　魔物に、
+> CONTEXT: Map044/events/7/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「我がグルッペンの精兵…そして
+　お前までもが
+> CONTEXT: Map044/events/7/pages/0/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ほとんど抵抗すらできずに
+　\\r[恣,ほしいまま]　\\dにされてしまった\\dというのは！
+> CONTEXT: Map044/events/7/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どうやら間違いないようだ。
+　それは……
+> CONTEXT: Map044/events/7/pages/0/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「グランマルッ！
+> CONTEXT: Map044/events/7/pages/0/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「はッ！
+> CONTEXT: Map044/events/7/pages/0/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「調べましたところ
+　その魔物は『夢魔』といい、
+> CONTEXT: Map044/events/7/pages/0/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「今から五百年ほど前……初代国王、
+　ラドゥフス・ローゼンクランツ一世の時代にも
+　あらわれているようでございまする。
+> CONTEXT: Map044/events/7/pages/0/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「記録によりますれば…、
+> CONTEXT: Map044/events/7/pages/0/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「　　”その魔物一切の剣も炎も通さず、
+　　　 魔物もまた何者も傷つけることなく、
+> CONTEXT: Map044/events/7/pages/0/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「　　”ただ愛を求めし
+> CONTEXT: Map044/events/7/pages/0/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「　　”魔物と交わりし者、男であればその精を奪われ、
+　　　 女であれば彼女もまた魔物となる
+> CONTEXT: Map044/events/7/pages/0/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「　　”全てを拒みし時、魔物は夢へと還る
+> CONTEXT: Map044/events/7/pages/0/91/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……と、ございまする。
+> CONTEXT: Map044/events/7/pages/0/93/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「また近頃このグルッペン近辺でも、
+　この夢魔と思われる魔物が
+　出現しているようですじゃ。
+> CONTEXT: Map044/events/7/pages/0/94/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……ふざけた魔物だ。
+> CONTEXT: Map044/events/7/pages/0/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「しかし捨て置くわけには
+　いきますまい。
+> CONTEXT: Map044/events/7/pages/0/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「無論だ！
+　早急に対策を練った上、
+　討伐隊を編成しよう。
+> CONTEXT: Map044/events/7/pages/0/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ときに\\n[1]よ、
+　エルヴィンとオリビアはどうした。
+> CONTEXT: Map044/events/7/pages/0/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いや、エルヴィンの姿は
+　既に兵が確認していたが……
+> CONTEXT: Map044/events/7/pages/0/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「！
+　まさかオリビア殿まで……
+> CONTEXT: Map044/events/7/pages/0/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おお！
+　神は何処へ去りたもうた！？
+> CONTEXT: Map044/events/7/pages/0/125/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「これぞ死より惨い仕打ちというもの！
+　このグルッペン中のそれを
+　掻き集めても届くことはあるまい！
+> CONTEXT: Map044/events/7/pages/0/127/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「かの乙女の純潔！
+　そしてそれが剥ぎ取られた跡の
+　深い暗黒には！
+> CONTEXT: Map044/events/7/pages/0/130/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「止めよ、グランマル。
+> CONTEXT: Map044/events/7/pages/0/134/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「今、この男の胸の内こそ
+　どのような嘆きも届かぬ
+　深い闇に満ちているのだ。
+> CONTEXT: Map044/events/7/pages/0/135/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……\\n[1]、オリビアとその魔物は
+　ドゥヂチへ向かったと言ったな。
+> CONTEXT: Map044/events/7/pages/0/138/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………そうか…………
+　…………ドゥヂチか…………
+> CONTEXT: Map044/events/7/pages/0/149/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「賢王様！
+　かくなる上はすぐにでも
+　討伐隊を編成し！
+> CONTEXT: Map044/events/7/pages/0/158/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]殿とこのグランマルを先鋒に、
+　オリビア殿救出の任を
+　お与え下さいますようッ！
+> CONTEXT: Map044/events/7/pages/0/161/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……それは許さぬ。
+> CONTEXT: Map044/events/7/pages/0/165/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いや、無理なのだ。
+　ドゥヂチへ行くには
+　\\c[2]西の街道\\c[0]を通る必要がある。
+> CONTEXT: Map044/events/7/pages/0/166/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お前も知っていよう。
+　街道は魔物に荒らされ
+　とても人が通れる状態ではない。
+> CONTEXT: Map044/events/7/pages/0/169/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それに、正体の知れぬ敵に
+　何の準備もなしに
+　お前らを挑ませるわけにはいかぬ。
+> CONTEXT: Map044/events/7/pages/0/172/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「し、しかし急がねばオリビア殿が……！
+> CONTEXT: Map044/events/7/pages/0/176/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「街道の復旧など、我が騎士団が
+　総力をあげればすぐにでも終わりましょう！
+　何とぞッ！
+> CONTEXT: Map044/events/7/pages/0/177/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くどいぞ、グランマル。
+> CONTEXT: Map044/events/7/pages/0/181/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ドゥヂチへ向かう人選は私が行う。
+　それまで休んでいるがいい。
+> CONTEXT: Map044/events/7/pages/0/182/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「オリビアも兵どもも、
+　必ず助け出す。
+> CONTEXT: Map044/events/7/pages/0/184/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]、お前の手にしたという
+　夢魔に対抗する力……、
+> CONTEXT: Map044/events/7/pages/0/186/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それについては
+　後で詳しく聞かせてもらおう。
+　それまで城にいるのだ。
+> CONTEXT: Map044/events/7/pages/0/188/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「二人とも、下がっていいぞ。
+> CONTEXT: Map044/events/7/pages/0/191/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………はっ……………
+> CONTEXT: Map044/events/7/pages/0/193/Dialogue < UNTRANSLATED
+
+> END STRING

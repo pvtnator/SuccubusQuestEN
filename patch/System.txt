@@ -1,0 +1,796 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+003-System03
+> CONTEXT: System/cancel_se/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+003-Victory03
+> CONTEXT: System/battle_end_me/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+010-System10
+> CONTEXT: System/escape_se/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+006-System06
+> CONTEXT: System/shop_se/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+002-System02
+> CONTEXT: System/decision_se/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+装飾
+> CONTEXT: System/words/armor3/ < UNTRANSLATED
+> CONTEXT: System/words/armor4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精力
+> CONTEXT: System/words/str/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+TP
+> CONTEXT: System/words/sp/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+G
+> CONTEXT: System/words/gold/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+平常心
+> CONTEXT: System/words/mdef/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精神力
+> CONTEXT: System/words/int/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+テクニック
+> CONTEXT: System/words/skill/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+服
+> CONTEXT: System/words/armor2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り
+> CONTEXT: System/words/pdef/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EP
+> CONTEXT: System/words/hp/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+装備
+> CONTEXT: System/words/equip/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+素早さ
+> CONTEXT: System/words/agi/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+愛撫
+> CONTEXT: System/words/attack/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+頭
+> CONTEXT: System/words/armor1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アイテム
+> CONTEXT: System/words/item/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+攻め
+> CONTEXT: System/words/atk/ < UNTRANSLATED
+> CONTEXT: Commonevents/171/68/Label < UNTRANSLATED
+> CONTEXT: Commonevents/171/82/Label < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+技巧
+> CONTEXT: System/words/dex/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+コーディネート
+> CONTEXT: System/words/weapon/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+耐える
+> CONTEXT: System/words/guard/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+SQ_Battle01
+> CONTEXT: System/battle_bgm/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+SQ_Encounting
+> CONTEXT: System/battle_start_se/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+005-System05
+> CONTEXT: System/equip_se/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スキル名表示
+> CONTEXT: System/elements/1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+クライシス中不可
+> CONTEXT: System/elements/2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+着衣中不可(自分)
+> CONTEXT: System/elements/3/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+着衣中不可(相手)
+> CONTEXT: System/elements/4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+挿入中不可(自分)
+> CONTEXT: System/elements/5/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+挿入中不可(相手)
+> CONTEXT: System/elements/6/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+挿入中のみ可
+> CONTEXT: System/elements/7/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+回避可能
+> CONTEXT: System/elements/8/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+使用：手
+> CONTEXT: System/elements/9/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+使用：舌
+> CONTEXT: System/elements/10/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+使用：胸
+> CONTEXT: System/elements/11/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+使用：足
+> CONTEXT: System/elements/12/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+使用：♂
+> CONTEXT: System/elements/13/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+使用：♀
+> CONTEXT: System/elements/14/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+使用：その他物理
+> CONTEXT: System/elements/15/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+使用：声
+> CONTEXT: System/elements/16/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+対象：キス
+> CONTEXT: System/elements/17/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+対象：胸
+> CONTEXT: System/elements/18/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+対象：乳首
+> CONTEXT: System/elements/19/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+対象：尻
+> CONTEXT: System/elements/20/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+対象：視覚
+> CONTEXT: System/elements/21/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+対象：聴覚
+> CONTEXT: System/elements/22/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+対象：神経
+> CONTEXT: System/elements/23/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+対象：♂
+> CONTEXT: System/elements/24/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+対象：♀
+> CONTEXT: System/elements/25/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+対象：全身
+> CONTEXT: System/elements/26/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ステート（魅力）
+> CONTEXT: System/elements/28/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ステート（精力）
+> CONTEXT: System/elements/29/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ステート（技巧）
+> CONTEXT: System/elements/30/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ステート（素早さ）
+> CONTEXT: System/elements/31/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ステート（精神力）
+> CONTEXT: System/elements/32/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ラグジャラス+30%
+> CONTEXT: System/elements/33/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ラグジャラス100%
+> CONTEXT: System/elements/34/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+SPエフェクト
+> CONTEXT: System/elements/35/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EP/SPエフェクト
+> CONTEXT: System/elements/36/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+剣技
+> CONTEXT: System/elements/37/ < UNTRANSLATED
+> CONTEXT: States/276/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔力
+> CONTEXT: System/elements/38/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ツール
+> CONTEXT: System/elements/39/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ライトテクニック
+> CONTEXT: System/elements/41/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ノーマルテクニック
+> CONTEXT: System/elements/42/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヘヴィテクニック
+> CONTEXT: System/elements/43/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サポートスキル
+> CONTEXT: System/elements/45/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナンセンススキル
+> CONTEXT: System/elements/46/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トークスキル
+> CONTEXT: System/elements/48/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瀕死攻撃
+> CONTEXT: System/elements/49/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精力上昇Lv1
+> CONTEXT: System/elements/50/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精力上昇Lv2
+> CONTEXT: System/elements/51/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精力上昇Lv3
+> CONTEXT: System/elements/52/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精力低下Lv1
+> CONTEXT: System/elements/53/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精力低下Lv2
+> CONTEXT: System/elements/54/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+技量上昇Lv1
+> CONTEXT: System/elements/56/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+技量上昇Lv2
+> CONTEXT: System/elements/57/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+技量上昇Lv3
+> CONTEXT: System/elements/58/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+技量低下Lv1
+> CONTEXT: System/elements/59/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+技量低下Lv2
+> CONTEXT: System/elements/60/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+素早さ上昇Lv1
+> CONTEXT: System/elements/62/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+素早さ上昇Lv2
+> CONTEXT: System/elements/63/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+素早さ上昇Lv3
+> CONTEXT: System/elements/64/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+素早さ低下Lv1
+> CONTEXT: System/elements/65/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+素早さ低下Lv2
+> CONTEXT: System/elements/66/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精神力上昇Lv1
+> CONTEXT: System/elements/68/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精神力上昇Lv2
+> CONTEXT: System/elements/69/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精神力上昇Lv3
+> CONTEXT: System/elements/70/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精神力低下Lv1
+> CONTEXT: System/elements/71/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精神力低下Lv2
+> CONTEXT: System/elements/72/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力上昇Lv1
+> CONTEXT: System/elements/74/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力上昇Lv2
+> CONTEXT: System/elements/75/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力上昇Lv3
+> CONTEXT: System/elements/76/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力低下Lv1
+> CONTEXT: System/elements/77/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力低下Lv2
+> CONTEXT: System/elements/78/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+攻撃力上昇Lv1
+> CONTEXT: System/elements/80/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+攻撃力上昇Lv2
+> CONTEXT: System/elements/81/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+攻撃力上昇Lv3
+> CONTEXT: System/elements/82/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+攻撃力低下Lv1
+> CONTEXT: System/elements/83/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+攻撃力低下Lv2
+> CONTEXT: System/elements/84/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+防御力上昇Lv1
+> CONTEXT: System/elements/86/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+防御力上昇Lv2
+> CONTEXT: System/elements/87/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+防御力上昇Lv3
+> CONTEXT: System/elements/88/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+防御力低下Lv1
+> CONTEXT: System/elements/89/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+防御力低下Lv2
+> CONTEXT: System/elements/90/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+使用：手属性+80%
+> CONTEXT: System/elements/92/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+使用：舌属性+80%
+> CONTEXT: System/elements/93/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+使用：胸属性+80%
+> CONTEXT: System/elements/94/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+使用：足属性+80%
+> CONTEXT: System/elements/95/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+使用：♂属性+80%
+> CONTEXT: System/elements/96/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+使用：♀属性+80%
+> CONTEXT: System/elements/97/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+対象：キス属性+80%
+> CONTEXT: System/elements/98/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+対象：胸属性+80%
+> CONTEXT: System/elements/99/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+対象：乳首属性+80%
+> CONTEXT: System/elements/100/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+対象：尻属性+80%
+> CONTEXT: System/elements/101/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+対象：♂属性+80%
+> CONTEXT: System/elements/102/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+対象：♀属性+80%
+> CONTEXT: System/elements/103/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+全属性+10%
+> CONTEXT: System/elements/104/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+全属性+20%
+> CONTEXT: System/elements/105/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+全属性+40%
+> CONTEXT: System/elements/106/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ティー
+> CONTEXT: System/elements/108/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+図鑑登録無効
+> CONTEXT: System/elements/109/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+001-System01
+> CONTEXT: System/cursor_se/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+136-Light02
+> CONTEXT: System/enemy_collapse_se/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+SQ_Title
+> CONTEXT: System/title_bgm/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+008-System08
+> CONTEXT: System/load_se/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+004-System04
+> CONTEXT: System/buzzer_se/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+006-Defeat02
+> CONTEXT: System/gameover_me/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+011-System11
+> CONTEXT: System/actor_collapse_se/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+007-System07
+> CONTEXT: System/save_se/name/ < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,14 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「久しぶりの航海だ！
+　腕が鳴るぜぇ！
+> CONTEXT: Map117/events/4/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「風よーし！
+　波よーしっ！
+> CONTEXT: Map117/events/5/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING

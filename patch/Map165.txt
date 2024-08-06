@@ -1,0 +1,237 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+　　　　　　　　　　　　　　　　　　スティグ・オヴェルーク
+　　　　　　　　　　　　　　　　　　ソフィア・オヴェルーク
+　　　　　　　　　　　　　　　　　　　　　　ここに眠る
+> CONTEXT: Map165/events/5/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map165/events/5/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「誰のお墓？
+> CONTEXT: Map165/events/5/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……………？
+　\\n[1]？
+> CONTEXT: Map165/events/5/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どうしたの？
+　\\n[1]………………
+> CONTEXT: Map165/events/5/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おやおや、ここは……
+> CONTEXT: Map165/events/19/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「魔王城……
+　ではなさそうですね。
+> CONTEXT: Map165/events/19/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「失敗かい。
+> CONTEXT: Map165/events/19/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そのようです。
+> CONTEXT: Map165/events/19/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「術の最中に娘のことなど考えて
+　魔法を失敗させるたあ、
+> CONTEXT: Map165/events/19/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ハグロフスの坊も
+　えらくなったもんだねえ。
+> CONTEXT: Map165/events/19/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…私のせいではありませんよ。
+> CONTEXT: Map165/events/19/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ラルスさん、ここはあなたが
+　無意識に求めた場所のはずです。
+> CONTEXT: Map165/events/19/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「この場所の記憶があまりに強いか、
+　あなたが無意識に
+　魔王城へ行くのを避けたか、
+> CONTEXT: Map165/events/19/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あるいはその両方が、
+　テレポトが失敗した理由です。
+> CONTEXT: Map165/events/19/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「たまにある話だね。
+　だったらその原因も、
+　この場所にあるはずさ。
+> CONTEXT: Map165/events/19/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「この坊が原因で
+　失敗したんでないんなら、ね。
+> CONTEXT: Map165/events/19/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…くどいですね。
+　私は術中に雑念など……
+> CONTEXT: Map165/events/19/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……！
+　いけない、もうずいぶん長く
+　娘を一人にしてしまっています。
+> CONTEXT: Map165/events/19/pages/0/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「早く行ってやらねば…失礼！
+> CONTEXT: Map165/events/19/pages/0/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…怪しいもんだねえ。
+> CONTEXT: Map165/events/19/pages/0/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…ま、何が原因で失敗したのか、
+　この村でゆっくり考えてみるといいよ。
+> CONTEXT: Map165/events/19/pages/0/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何か分かったら
+　またアタシのところへおいで。
+> CONTEXT: Map165/events/19/pages/0/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「待ってるよ。
+　クックック
+> CONTEXT: Map165/events/19/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"村娘"
+> CONTEXT: Map165/events/21/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「町を出て、森を抜けると
+　グルッペン街道に出ますよ。
+> CONTEXT: Map165/events/21/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「最近まで通れなかったのですが、
+　ようやく復旧したようです。
+> CONTEXT: Map165/events/21/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"村男"
+> CONTEXT: Map165/events/23/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map165/events/23/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「レンシェットの村へようこそ。
+> CONTEXT: Map165/events/23/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「しかしここは、一度魔王に滅ぼされ
+　いまだ復興中の村。
+> CONTEXT: Map165/events/23/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何もおもてなしできませんが、
+　ゆっくりしていって下さい。
+> CONTEXT: Map165/events/23/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「この建物は、今は宿屋になっとりますが
+　昔は立派な騎士様が
+　住んでおったのですじゃ。
+> CONTEXT: Map165/events/27/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「村が魔王に襲われたとき、
+　騎士様と奥様はお亡くなりに
+　なってしまいましたが、
+> CONTEXT: Map165/events/27/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「奥様の魔法で一人助かった息子は、
+　王都で成長し、ついには
+　魔王を倒す勇者となられたのですじゃ。
+> CONTEXT: Map165/events/27/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「この町の誇りですじゃよ。
+　ふぉっふぉっふぉ
+> CONTEXT: Map165/events/27/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING

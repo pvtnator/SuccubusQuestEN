@@ -1,0 +1,1192 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「玉座の間で賢王様がお待ちでございます。
+> CONTEXT: Map042/events/1/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map042/events/2/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map042/events/3/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]殿、
+　先ほどから少し呆けているようじゃが、
+　いかがしたかな？
+> CONTEXT: Map042/events/4/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「まさかこのグランマルをお忘れで？
+> CONTEXT: Map042/events/4/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「このグランマルをお忘れで？」
+> CONTEXT: Map042/events/4/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おお、おお、この老いぼれには
+　キツい冗談じゃ！
+> CONTEXT: Map042/events/4/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]殿がグルッペンに来て以来、
+　ずっとご一緒してきた、この……
+> CONTEXT: Map042/events/4/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「グルッペン騎士団長
+　ゲラルド・グランマルをお忘れとは！
+> CONTEXT: Map042/events/4/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おお！ かくもはかなき世の中！
+　老騎士はただ忘れ去られるのみ……
+> CONTEXT: Map042/events/4/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……と、
+　冗談はこのくらいにしようかな？
+> CONTEXT: Map042/events/4/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「玉座の間で
+　賢王マグナス様がお待ちじゃ。
+　急がんとな。
+> CONTEXT: Map042/events/4/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふぉっふぉ、
+　なに冗談じゃ。
+> CONTEXT: Map042/events/4/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「さあ、玉座の間で
+　賢王マグナス様がお待ちじゃ。
+　急がんとな。
+> CONTEXT: Map042/events/4/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おお、ラルス殿！
+> CONTEXT: Map042/events/5/pages/1/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「賢王様のこと…
+　既に聞き及んでいるようじゃの。
+> CONTEXT: Map042/events/5/pages/1/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「む、それは…？
+> CONTEXT: Map042/events/5/pages/1/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\c[4]魔王のかけら\\c[0]……
+　おお…、なんと……！
+> CONTEXT: Map042/events/5/pages/1/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「実は賢王様が調べていたという書物に、
+　その魔王のかけらに関するものと
+　おぼしき記述があったのじゃ。
+> CONTEXT: Map042/events/5/pages/1/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それによれば、
+　かつて夢魔がこの地に現れた時、
+> CONTEXT: Map042/events/5/pages/1/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「勇者は『剣』、『杖』、『槍』、『杯』、
+　そして『使い魔』の５つの\\dかけら\\dを手にし
+　夢魔を世界から追い出したと……
+> CONTEXT: Map042/events/5/pages/1/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「これがその一つ……
+　ではもしや賢王様も………
+> CONTEXT: Map042/events/5/pages/1/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「グランマル様！
+> CONTEXT: Map042/events/5/pages/1/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ご命じになられていた\\c[1]西の街道\\c[0]の
+　復旧ですが、何とか人が通れるまでには
+　復旧したとの報が入りました。
+> CONTEXT: Map042/events/5/pages/1/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おお、ご苦労！
+> CONTEXT: Map042/events/5/pages/1/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]殿！
+　今はドゥヂチへ向かいなされ！
+> CONTEXT: Map042/events/5/pages/1/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「夢魔にさらわれた
+　オリビア殿を助け出すことが、
+　今は何より先決のはずじゃ。
+> CONTEXT: Map042/events/5/pages/1/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それに、夢魔が何か目的があって
+　ドゥヂチへ向かったなら、
+> CONTEXT: Map042/events/5/pages/1/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それはドゥヂチに魔王のかけらが
+　あるということかも知れぬ。
+> CONTEXT: Map042/events/5/pages/1/91/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「賢王様がお戻りになるまで、
+　グルッペンのことは
+　このグランマルに任されよ。
+> CONTEXT: Map042/events/5/pages/1/93/Dialogue < UNTRANSLATED
+> CONTEXT: Map042/events/39/pages/3/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ドゥヂチは\\c[1]西の街道\\c[0]を進み、
+　三叉路を北に向かえば見えてこよう。
+> CONTEXT: Map042/events/5/pages/1/102/Dialogue < UNTRANSLATED
+> CONTEXT: Map042/events/39/pages/3/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くれぐれもお気をつけてくだされ。
+> CONTEXT: Map042/events/5/pages/1/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おお、ラルス殿……！
+> CONTEXT: Map042/events/5/pages/3/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「なんということじゃ！
+　まさか賢王様がお一人で
+　夢魔に立ち向かっていたとは…！
+> CONTEXT: Map042/events/5/pages/3/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それに気づかぬとは、
+　おお、このグランマル……
+> CONTEXT: Map042/events/5/pages/3/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……いや、もう嘆いていても仕方なきこと。
+> CONTEXT: Map042/events/5/pages/3/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「今はそれより、
+　これを使い賢王様のもとへ……！
+> CONTEXT: Map042/events/5/pages/3/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[4]グルッペン章\\c[0]を手に入れた！
+> CONTEXT: Map042/events/5/pages/3/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ではわしは、準備のために
+　客人を迎えねばならぬので
+　これにて失礼を。
+> CONTEXT: Map042/events/5/pages/3/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ラルス殿、頼みましたぞ……！
+> CONTEXT: Map042/events/5/pages/3/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「えっと………
+> CONTEXT: Map042/events/5/pages/3/58/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/177/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何コレ？
+　どうすればいいの？
+> CONTEXT: Map042/events/5/pages/3/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「聞いたか？
+　勇者様が魔王討伐から
+　一人で帰ってきたそうじゃないか。
+> CONTEXT: Map042/events/6/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「同行した我々の仲間は
+　一体どうなったんだ……？
+> CONTEXT: Map042/events/6/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「聞いたか？
+　今度は賢王様が
+　行方不明だそうじゃないか。
+> CONTEXT: Map042/events/6/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「一体どうなっちまってるんだ……
+> CONTEXT: Map042/events/6/pages/1/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「賢王様がお帰りになられたが、
+　またすぐにどこかへ行かれてしまった。
+> CONTEXT: Map042/events/6/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「グランマル隊長と
+　何か話していたみたいだったが……
+> CONTEXT: Map042/events/6/pages/2/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あーあァ、
+　俺も勇者様と一緒に魔王討伐行きたかったなァ～
+> CONTEXT: Map042/events/7/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「聞いた話じゃ討伐に成功したらしいし、
+　行った奴ら今頃きっといい思いしてるんだぜェ～
+> CONTEXT: Map042/events/7/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「魔王討伐に行った奴ら、
+　いつまでも帰ってこないんだよな……
+> CONTEXT: Map042/events/7/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そして賢王様……
+　な、なんかヤバいことでも起きてんのか？
+> CONTEXT: Map042/events/7/pages/1/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うう～ん……
+> CONTEXT: Map042/events/8/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「夢の女の子、今日も出てこないかな…
+　すやすや……
+> CONTEXT: Map042/events/8/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「すやすや……
+　あ、そこダメ………
+> CONTEXT: Map042/events/8/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「この先は王立図書館です。
+> CONTEXT: Map042/events/9/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]様、玉座の間にて
+　賢王様がお待ちでございます
+> CONTEXT: Map042/events/10/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map042/events/11/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map042/events/12/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私はここで、召喚魔法の研究をしております。
+> CONTEXT: Map042/events/13/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map042/events/13/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「本当は魔都リスヴェグへ行きたいのですが、
+　向こうの大陸への定期船は
+　止まってしまっていますからね。
+> CONTEXT: Map042/events/13/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……おや？
+　あなたも召喚魔法と似たような魔法が
+　使えるようですね。
+> CONTEXT: Map042/events/13/pages/1/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふむ、魔法とは違うが覚えたばかりと。
+> CONTEXT: Map042/events/13/pages/1/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「しかし私の知る召喚魔法と
+　ほぼ変わらないようですね。
+　よろしければ少しご説明しましょうか？
+> CONTEXT: Map042/events/13/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「よろしければご説明しましょうか？」
+> CONTEXT: Map042/events/13/pages/1/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\r[召喚,サモン]とは文字通り、
+　魔法生物を\\r[喚,よ]び出して共に戦う魔法です。
+> CONTEXT: Map042/events/13/pages/1/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map042/events/13/pages/2/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「しかし、単純に戦力が
+　二倍になるかというとそうはいきません。
+> CONTEXT: Map042/events/13/pages/1/16/Dialogue < UNTRANSLATED
+> CONTEXT: Map042/events/13/pages/2/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「まず\\r[召喚,サモン]を使っている間、あなたの精神は
+　徐々に磨耗していきます。
+　簡単に言うとテンションが上がりにくくなります。
+> CONTEXT: Map042/events/13/pages/1/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map042/events/13/pages/2/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「また\\r[召喚,サモン]で呼び出した使い魔は、
+　持久力があまり高くありません。
+　魔力が無くなる前に\\r[帰還,リターン]させる必要があります。
+> CONTEXT: Map042/events/13/pages/1/21/Dialogue < UNTRANSLATED
+> CONTEXT: Map042/events/13/pages/2/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「使い魔の魔力は、
+　\\r[帰還,リターン]している間徐々に回復していきます。
+> CONTEXT: Map042/events/13/pages/1/24/Dialogue < UNTRANSLATED
+> CONTEXT: Map042/events/13/pages/2/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\r[召喚,サモン]と\\r[帰還,リターン]のタイミングを
+　見極めることが、
+　召喚魔法の極意とも言えましょう。
+> CONTEXT: Map042/events/13/pages/1/26/Dialogue < UNTRANSLATED
+> CONTEXT: Map042/events/13/pages/2/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「また召喚魔法のことで知りたいことがあったら、
+　いつでも聞きにきて下さい。
+> CONTEXT: Map042/events/13/pages/1/29/Dialogue < UNTRANSLATED
+> CONTEXT: Map042/events/13/pages/2/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何か疑問が出てきたら
+　いつでも聞きに来て下さい。
+> CONTEXT: Map042/events/13/pages/1/35/Dialogue < UNTRANSLATED
+> CONTEXT: Map042/events/13/pages/2/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「召喚魔法の説明を聞きたいですか？
+> CONTEXT: Map042/events/13/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「召喚魔法の説明を聞きたいですか？」
+> CONTEXT: Map042/events/13/pages/2/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「この部屋で仕事していると、
+　たまに向かいの壁の中から
+　階段を降りるような音が聞こえてくるんです。
+> CONTEXT: Map042/events/15/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「しかしこの城に地下なんて無いはずですし……
+　……おおコワッ
+> CONTEXT: Map042/events/15/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+　* ポスト魔王時代のグルッペン郵政問題について *
+> CONTEXT: Map042/events/16/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map042/events/17/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+……あまり面白い本ではなさそうだ
+> CONTEXT: Map042/events/16/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map042/events/17/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「魔王討伐に行ったウチの兵士だけどよ、
+　何か他に目的があったって聞くぜ。
+> CONTEXT: Map042/events/19/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あいつらが戻らないのは、
+　その目的が何か関係してるのかもな。
+> CONTEXT: Map042/events/19/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「賢王様？
+　さあ……ここには来てないぜ。
+> CONTEXT: Map042/events/19/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「勇者様と我が同胞たちは！
+　ついに魔王を倒し！
+　長年の夢であった魔族掃討を成し遂げたあッ！
+> CONTEXT: Map042/events/20/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「グルッペン　ばんざぁいっ！！
+> CONTEXT: Map042/events/20/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「け、賢王様が……、消え………
+> CONTEXT: Map042/events/20/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ど、どうして………
+> CONTEXT: Map042/events/20/pages/1/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「勇者様と共に魔王討伐に向かったのは、
+　賢王様直々に選ばれた兵たち。
+　いわばエリートだ。
+> CONTEXT: Map042/events/21/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「なのにどうしてグランマル団長は
+　選ばれなかったのか……。
+　やはりお歳だからだろうか。
+> CONTEXT: Map042/events/21/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「賢王様と一緒に、
+　主だった側近もどこかに消えてしまったらしい。
+> CONTEXT: Map042/events/21/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「今やグランマル隊長だけが我々の支えだ。
+　隊長がここにいて本当に良かったよ。
+> CONTEXT: Map042/events/21/pages/1/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「凶暴な魔物は確かにいなくなったが、
+　また新しい魔物があらわれたとも聞く。
+> CONTEXT: Map042/events/22/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「学者どもの話では確か『夢魔』とかいう……
+　まだまだ気をひきしめておかねばならん。
+> CONTEXT: Map042/events/22/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「全てが上手くいったと思っていたところだけに、
+　賢王様がいなくなったショックは大きい。
+> CONTEXT: Map042/events/22/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それに加えて例の夢魔……
+　今こそ騎士団の能力が問われる時かも知れん。
+> CONTEXT: Map042/events/22/pages/1/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何か異変が起きている……
+> CONTEXT: Map042/events/22/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「しかし、それに対し
+　我々のなんと無力なことか……
+> CONTEXT: Map042/events/22/pages/2/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[3]グルッペン兵制式長剣\\c[0] を手に入れた！
+> CONTEXT: Map042/events/23/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おいおい、騎士団の備品を
+　勝手に取らないでくれよ。
+> CONTEXT: Map042/events/23/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お前みたいに弱そうなカッコしてちゃ、
+　剣の一振りでも欲しくなるのもわからんでもないがな。
+　はっはっは
+> CONTEXT: Map042/events/23/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[3]グルッペン兵制式長剣\\c[0] を箱に戻した……
+> CONTEXT: Map042/events/23/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+変な音がした
+> CONTEXT: Map042/events/23/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんと、木箱は二重底になっていた！
+> CONTEXT: Map042/events/23/pages/1/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[4]エッチなピンナップ\\c[0] をみつけた！
+> CONTEXT: Map042/events/23/pages/1/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おいおい、見つかっちまったか……
+> CONTEXT: Map042/events/23/pages/1/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それはお前にやるよ。
+　だからグランマル団長にはナイショな。
+> CONTEXT: Map042/events/23/pages/1/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おいおい、もうカンベンしてくれよ。
+> CONTEXT: Map042/events/23/pages/2/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ここはグルッペン城。
+> CONTEXT: Map042/events/28/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「グルッペン第十二代国王、
+　マグナス・ローゼンクランツ様の
+　居城であります。
+> CONTEXT: Map042/events/28/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「むにゃ…ここは………
+　…グルッペン城…………
+> CONTEXT: Map042/events/28/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…ｚ…ｚｚｚ…………
+> CONTEXT: Map042/events/28/pages/1/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「町のほうがさわがしいと思ったら、
+　勇者様が魔王討伐から
+　お帰りになったそうですね。
+> CONTEXT: Map042/events/29/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「魔王は倒されたようですが、
+　同行した私の友人は
+　無事だったのでしょうか……
+> CONTEXT: Map042/events/29/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「賢王様は玉座にいながらにして、
+　世界中のことを\\r[識,し]ると言われています。
+> CONTEXT: Map042/events/30/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「とても偉大な方だとは分かるのですが、
+　たまに恐ろしくも感じます……
+> CONTEXT: Map042/events/30/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あ、今の話、賢王様にはナイショですよっ
+> CONTEXT: Map042/events/30/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……あっ、いけないっ！
+> CONTEXT: Map042/events/30/pages/1/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…お掃除中に居眠りしちゃってたの、
+　みんなには内緒ですよ？
+> CONTEXT: Map042/events/30/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+　* 騎士団長日誌 *
+> CONTEXT: Map042/events/31/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map042/events/50/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「王国暦714年　雷神の月　7日
+　一人の少年が城を訪れ、騎士団に入りたいと言う。
+　まだ幼すぎるため、受け入れるわけにはいかない。
+　行くあてが無いというので暫く面倒を見ることにする。
+> CONTEXT: Map042/events/31/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map042/events/50/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「王国暦714年　雷神の月　8日
+　先日の少年は、レンシェットから来たらしい。
+　確か魔王の軍勢に滅ぼされた町だ。
+　どうやって来たのかなど、それ以上のことは話さない。
+> CONTEXT: Map042/events/31/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map042/events/50/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「王国暦714年　狼神の月　17日
+　少年にどうしても剣を教えて欲しいと詰め寄られる。
+　両親を魔王の軍勢に殺され、その仇が取りたいようだ。
+　しかし騎士団に入れるわけにはいかない。
+> CONTEXT: Map042/events/31/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map042/events/50/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「王国暦714年　蛇神の月　2日
+　最近、演習の帰りに少年と手合わせするのが
+　日課になりつつある。
+　筋がいい。この分ならすぐに上達するだろう。
+> CONTEXT: Map042/events/31/pages/0/16/Dialogue < UNTRANSLATED
+> CONTEXT: Map042/events/50/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おい、起きろよ、
+　起きろってば……
+> CONTEXT: Map042/events/32/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何いつまでも寝てるんだよ……
+　………おい！
+> CONTEXT: Map042/events/32/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「賢王様が帰ってきたと思ったら
+　またどこかへ行ってしまったので、
+> CONTEXT: Map042/events/37/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「相変わらず城は
+　グランマル殿がまとめておいでです。
+> CONTEXT: Map042/events/37/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「グランマル殿がいなければ、
+　この異常事態と王の不在に
+　誰も耐えられなかったでしょう。
+> CONTEXT: Map042/events/37/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ここはグルッペン騎士団長、
+　グランマル様のお部屋です。
+> CONTEXT: Map042/events/38/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「グランマル様なら、
+　勇者様をお迎えに行きましたよ。
+> CONTEXT: Map042/events/38/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\c[1]王立図書館\\c[0]へ
+　行ってみるとよいじゃろう。
+　この階の南東じゃ。
+> CONTEXT: Map042/events/39/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふむ…ドラウムニョルのほこら。
+　確かにその話は
+　耳にした覚えがあるのう。
+> CONTEXT: Map042/events/39/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「なるほど\\n[1]殿の手にした力が
+　魔王と関係しているというなら、
+　そこに行けば何か分かるかも知れんな。
+> CONTEXT: Map042/events/39/pages/1/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「このグランマルは騎士団を預かる身ゆえ
+　同行はできぬが、
+　くれぐれも気をつけるのじゃぞ。
+> CONTEXT: Map042/events/39/pages/1/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「とは言え、魔王を倒した勇者様に
+　そのような気遣いは無用じゃったかな？
+　ふぉっふぉっふぉ
+> CONTEXT: Map042/events/39/pages/1/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「口惜しや、このグランマル、
+　もう二十も若ければ
+　\\n[1]殿と共に戦えもしたものの…。
+> CONTEXT: Map042/events/39/pages/4/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「せめて賢王様不在の
+　グルッペンは、このわしが
+　お守りいたそう。
+> CONTEXT: Map042/events/39/pages/4/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]殿は気にせず、
+　夢魔どもと戦ってきてくだされ。
+> CONTEXT: Map042/events/39/pages/4/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おお、\\n[1]殿！
+　いよいよ夜の国へ向かうのじゃな！
+> CONTEXT: Map042/events/39/pages/6/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…しかしこのグランマルの
+　なんと無力なことか…
+> CONTEXT: Map042/events/39/pages/6/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「この剣の一振り、未だ錆びてはおらぬ、
+　それが何の役にも立てぬとは……
+> CONTEXT: Map042/events/39/pages/6/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うむ、そうじゃ、役立たずついでに
+　これをお渡ししておこう。
+> CONTEXT: Map042/events/39/pages/6/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[3]シャードオブソード\\c[0] を手に入れた！
+> CONTEXT: Map042/events/39/pages/6/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「覚えておられるかな。
+　\\n[1]殿がこの城に来たばかりの頃、
+　わしとの稽古で折れた剣じゃ。
+> CONTEXT: Map042/events/39/pages/6/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あの頃の\\n[1]殿は
+　親を殺し村を滅ぼした魔王への憎しみ、
+　ひたすらそれのみで動いておった。
+> CONTEXT: Map042/events/39/pages/6/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そして強かった。
+　魔物と戦ってきた城の兵士ですら、
+　すぐに敵わなくなってしまった。
+> CONTEXT: Map042/events/39/pages/6/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…今も、魔王へのあの憎しみは
+　変わってないのかの？
+> CONTEXT: Map042/events/39/pages/6/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「魔王への憎しみは変わってないのかの？」
+> CONTEXT: Map042/events/39/pages/6/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うむ…。
+　憎しみとは、心の負の働きのように
+　語られることもあるが、
+> CONTEXT: Map042/events/39/pages/6/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「しかしそれは強さじゃ。
+　敵を倒す強さに、正も負も
+　あるものではない。
+> CONTEXT: Map042/events/39/pages/6/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]殿が成長し、
+　勇者として世界を救ったのも
+　それのお陰じゃろう。
+> CONTEXT: Map042/events/39/pages/6/35/Dialogue < UNTRANSLATED
+> CONTEXT: Map042/events/39/pages/6/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「さあ、その強い意志をもって、
+　夢魔を…そして魔王を、
+　打ち倒してくるのじゃ。
+> CONTEXT: Map042/events/39/pages/6/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「大切な人を、
+　助け出すためにのう。
+> CONTEXT: Map042/events/39/pages/6/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うむ…。
+　確かに強い憎しみとは、強い心でもある。
+> CONTEXT: Map042/events/39/pages/6/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「じゃが、それで\\d倒せる\\d相手は
+　限られとるようじゃ……
+> CONTEXT: Map042/events/39/pages/6/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「わしも、この夢魔というものを知るまで、
+　そんなこと考えもせんかったのじゃがのう。
+> CONTEXT: Map042/events/39/pages/6/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「さあ、\\n[1]殿、
+　夢魔たちに必要なのは、それに代わる
+　新しい力じゃ。
+> CONTEXT: Map042/events/39/pages/6/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]殿はきっと、
+　それが何かもう分かってるはずじゃな。
+> CONTEXT: Map042/events/39/pages/6/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うむ、老人の長話もこれで終わりじゃ。
+> CONTEXT: Map042/events/39/pages/6/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「後のことは気にせず、
+　行ってくるがよろしい。
+> CONTEXT: Map042/events/39/pages/6/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「賢王様も魔術士殿も
+　あの場所から離れられぬようじゃが、
+> CONTEXT: Map042/events/39/pages/7/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「なに、このグランマル、
+　今しばらくグルッペンの平和を
+　繋ぎとめてみせましょうぞ。
+> CONTEXT: Map042/events/39/pages/7/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お帰りなさいませ、
+　勇者殿っ！
+> CONTEXT: Map042/events/41/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map042/events/41/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map042/events/41/pages/3/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……ひょっとして、
+　賢王様が行方不明などというウワサを
+　お聞きになられましたか？
+> CONTEXT: Map042/events/41/pages/1/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ウワサをお聞きになられましたか？」
+> CONTEXT: Map042/events/41/pages/1/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……あまり話が広がると
+　パニックになりかねません。
+　どうかこのことはご内密に……。
+> CONTEXT: Map042/events/41/pages/1/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あ、ならば良いのです。
+　どうぞお気にせずに。
+> CONTEXT: Map042/events/41/pages/1/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ううむ……
+　賢王様はいつになったら
+　戻られるのか………
+> CONTEXT: Map042/events/41/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふぁ…………
+> CONTEXT: Map042/events/41/pages/3/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あ、し、失礼しましたっ！
+> CONTEXT: Map042/events/41/pages/3/5/Dialogue < UNTRANSLATED
+
+> END STRING

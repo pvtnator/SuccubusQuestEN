@@ -1,0 +1,268 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「\\n[1]………
+> CONTEXT: Map311/events/5/pages/0/28/Dialogue < UNTRANSLATED
+> CONTEXT: Map208/events/4/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やっぱり来てくれたね……
+　………ありがとう。
+> CONTEXT: Map311/events/5/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「覚えてる？
+　ラウムの廃屋でのこと……
+> CONTEXT: Map311/events/5/pages/0/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あたしね、あの時\\n[1]に
+　抱いてもらって、ほんとにうれしくて、
+　だけど………
+> CONTEXT: Map311/events/5/pages/0/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「だけど……、あれは
+　本当の自分じゃないって思ってたんだ。
+> CONTEXT: Map311/events/5/pages/0/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「こんな、夢魔なんかになっちゃった
+　あたしはあたしじゃないって……
+> CONTEXT: Map311/events/5/pages/0/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それで拒んじゃったの……ごめんね。
+> CONTEXT: Map311/events/5/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………でももう分かったの。
+> CONTEXT: Map311/events/5/pages/0/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「レンシェットで\\n[1]と遊んでたあたしも、
+　魔法を覚えて魔王と戦ってたあたしも、
+> CONTEXT: Map311/events/5/pages/0/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…夢魔になったあたしも……
+> CONTEXT: Map311/events/5/pages/0/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「この一瞬一瞬があたしなのよ。
+　本当じゃないあたしなんて
+　どこにもいないの。
+> CONTEXT: Map311/events/5/pages/0/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………でもね、
+　ずっと変わってないこともあるんだ。
+> CONTEXT: Map311/events/5/pages/0/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「昔からずっと、
+　あたしのまんなかにあるもの……
+> CONTEXT: Map311/events/5/pages/0/91/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]、あたしずっとあなたが大好きよ。
+> CONTEXT: Map311/events/5/pages/0/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああ…………
+> CONTEXT: Map311/events/5/pages/0/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]……あたし……
+> CONTEXT: Map311/events/5/pages/0/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いかされちゃった…ね………
+> CONTEXT: Map311/events/5/pages/0/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でも……よかったわ………
+　最後に…………
+> CONTEXT: Map311/events/5/pages/0/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]……と…………
+　……ひとつに………………
+> CONTEXT: Map311/events/5/pages/0/175/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「なれ…………て……………
+> CONTEXT: Map311/events/5/pages/0/177/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あぁ……\\n[1]…………
+> CONTEXT: Map311/events/5/pages/0/268/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ありがとう……あたしを……………
+> CONTEXT: Map311/events/5/pages/0/269/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「愛して……くれ……て…………
+> CONTEXT: Map311/events/5/pages/0/270/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ダメ…だったの………？
+> CONTEXT: Map311/events/5/pages/0/303/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]の持つ\\c[4]魔王のかけら\\c[0]が
+まぶしく輝きはじめた！
+> CONTEXT: Map311/events/5/pages/0/309/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]……！
+> CONTEXT: Map311/events/5/pages/0/335/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もう……離れない………
+> CONTEXT: Map311/events/5/pages/0/351/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ずっと一緒よ……！
+> CONTEXT: Map311/events/5/pages/0/352/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…\\dかけら\\dの……力が………
+> CONTEXT: Map311/events/5/pages/0/370/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………！
+> CONTEXT: Map311/events/5/pages/0/376/Dialogue < UNTRANSLATED
+> CONTEXT: Map090/events/5/pages/0/181/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あら……お邪魔だった？
+> CONTEXT: Map311/events/5/pages/0/420/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「オリビア……残念ね。
+> CONTEXT: Map311/events/5/pages/0/425/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もうお友達じゃ
+　なくなっちゃうのかしら？
+> CONTEXT: Map311/events/5/pages/0/426/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「せっかくあなたが望むように
+　してあげたのにね。
+> CONTEXT: Map311/events/5/pages/0/428/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「エスト……ごめんなさい。
+> CONTEXT: Map311/events/5/pages/0/431/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でもあたし、
+　もうあなたたちの誘惑には負けない。
+> CONTEXT: Map311/events/5/pages/0/432/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やっと見つけることができたの。
+　あたしがあたしでいられる\\r[術,すべ]。
+> CONTEXT: Map311/events/5/pages/0/434/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………ふうん？
+> CONTEXT: Map311/events/5/pages/0/437/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……あなたには、
+　きっとわからないわ。
+> CONTEXT: Map311/events/5/pages/0/439/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あたしは夢の中にはいない。
+> CONTEXT: Map311/events/5/pages/0/441/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あたしの立っている場所は、
+　もう、現実よ。
+> CONTEXT: Map311/events/5/pages/0/442/Dialogue < UNTRANSLATED
+
+> END STRING

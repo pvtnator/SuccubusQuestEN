@@ -1,0 +1,14 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\a[140]「お前が守れないなら、
+　オリビアは俺が守るッ！
+> CONTEXT: Map355/events/12/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[140]「軟弱な勇者サマには
+　もう任せておけねえんだよッ！！
+> CONTEXT: Map355/events/12/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING

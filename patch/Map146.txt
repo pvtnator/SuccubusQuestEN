@@ -1,0 +1,262 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+気を失っているようだ……
+> CONTEXT: Map146/events/2/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map146/events/3/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"女魔術士"
+> CONTEXT: Map146/events/7/pages/0/12/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map146/events/7/pages/0/18/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map146/events/7/pages/0/157/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map146/events/7/pages/0/180/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map146/events/7/pages/0/184/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あんっ……あぁっ………
+　あひっ………！
+> CONTEXT: Map146/events/7/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あ、あぁぁあぁーーっ！！
+> CONTEXT: Map146/events/7/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ぁん……や……やめて…………
+> CONTEXT: Map146/events/7/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あ……やあぁぁーーっ！
+> CONTEXT: Map146/events/7/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"男魔術士"
+> CONTEXT: Map146/events/7/pages/0/22/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map146/events/7/pages/0/64/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あ…わわ……あわゎゎっ……！
+> CONTEXT: Map146/events/7/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あはっ、こーふんしちゃってる？
+　ちょっと待っててね……
+> CONTEXT: Map146/events/7/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「この子たちイかせたら、
+　次は君の番だからね\\e[0]
+> CONTEXT: Map146/events/7/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「さてっと……\\e[0]
+> CONTEXT: Map146/events/7/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふ\\e[0]
+> CONTEXT: Map146/events/7/pages/0/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そんな…これって………
+> CONTEXT: Map146/events/7/pages/0/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……夢魔っ！
+> CONTEXT: Map146/events/7/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あ…ああっ、
+　たすけ……助けてえっ！
+> CONTEXT: Map146/events/7/pages/0/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あら、新しいエサ？
+> CONTEXT: Map146/events/7/pages/0/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やだ、こっちのがおいしそうじゃん\\e[0]
+> CONTEXT: Map146/events/7/pages/0/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そうね、
+　こっちから食べちゃえっ\\e[0]
+> CONTEXT: Map146/events/7/pages/0/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「襲われてた子たち、
+　大丈夫かしら？
+> CONTEXT: Map146/events/7/pages/0/141/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……あ…………
+> CONTEXT: Map146/events/7/pages/0/143/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あ…あぁ……いいわぁっ………
+　おいしいぃっ
+> CONTEXT: Map146/events/7/pages/0/158/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あぁんっ、はやく私にもぉっ！
+> CONTEXT: Map146/events/7/pages/0/160/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「渇く…渇くのよぉっ、
+　下のお口があっ！
+> CONTEXT: Map146/events/7/pages/0/161/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もっとちょうだぁいっ！！
+> CONTEXT: Map146/events/7/pages/0/163/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あン、もう打ち止めぇ？
+> CONTEXT: Map146/events/7/pages/0/181/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やぁん……
+> CONTEXT: Map146/events/7/pages/0/185/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あ、でもそこにいるじゃん。
+　イキのよさそうなのがっ♪
+> CONTEXT: Map146/events/7/pages/0/188/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あはっ、ほんとだあ♪
+> CONTEXT: Map146/events/7/pages/0/192/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そんな……
+　ここにまで魔物が………
+> CONTEXT: Map146/events/7/pages/0/240/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\dかけら\\dがあるのを
+　嗅ぎ付けられたのね、
+　きっと……。
+> CONTEXT: Map146/events/7/pages/0/243/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どうするの？
+　あなたもうお家に帰ったら？
+> CONTEXT: Map146/events/7/pages/0/270/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……いいえ！
+　\\n[1]さんが目的を果たすまで、
+　ずっと一緒にいます！
+> CONTEXT: Map146/events/7/pages/0/275/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「また私の魔法が
+　役に立つことだって、
+　きっとあります！
+> CONTEXT: Map146/events/7/pages/0/278/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……ま、好きにしたらいいわ。
+> CONTEXT: Map146/events/7/pages/0/282/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でも夢魔がいる間は
+　おとなしく隠れててね。
+> CONTEXT: Map146/events/7/pages/0/283/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あなたまで夢魔になられちゃ
+　かなわないわ。
+> CONTEXT: Map146/events/7/pages/0/285/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………はい。
+> CONTEXT: Map146/events/7/pages/0/288/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「夢魔の犠牲になった魔術士たちは、
+　救出してホロスで治療しています。
+> CONTEXT: Map146/events/26/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「しかし、まだ夢魔は
+　そのあたりにいるはずです。
+　気をつけてください。
+> CONTEXT: Map146/events/26/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING

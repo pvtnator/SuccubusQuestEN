@@ -1,0 +1,21 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+何も起こらない………
+> CONTEXT: Map128/events/4/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「その奥にあるのは、
+　魔都ホロスへと続くテレポーターです。
+> CONTEXT: Map128/events/8/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ホロスの魔導士ハグロフスの魔力で
+　動いているそうですが、
+　その魔導士がいなくて今は使えないようです。
+> CONTEXT: Map128/events/8/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING

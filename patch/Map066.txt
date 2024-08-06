@@ -1,0 +1,20 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+岩肌が崩れそうだ……
+> CONTEXT: Map066/events/7/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map066/events/7/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+調べますか？
+> CONTEXT: Map066/events/7/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+008-Wave01
+> CONTEXT: Map066/bgs/name/ < UNTRANSLATED
+> CONTEXT: Map064/bgs/name/ < UNTRANSLATED
+
+> END STRING

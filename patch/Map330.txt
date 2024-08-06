@@ -1,0 +1,243 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+SQ_Lindval
+> CONTEXT: Map330/bgm/name/ < UNTRANSLATED
+> CONTEXT: Map212/bgm/name/ < UNTRANSLATED
+> CONTEXT: Map141/bgm/name/ < UNTRANSLATED
+> CONTEXT: Map122/bgm/name/ < UNTRANSLATED
+> CONTEXT: Map067/bgm/name/ < UNTRANSLATED
+> CONTEXT: Map049/bgm/name/ < UNTRANSLATED
+> CONTEXT: Map016/bgm/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"リンドヴァル店員"
+> CONTEXT: Map330/events/1/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map330/events/1/pages/0/10/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map212/events/1/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map212/events/1/pages/0/9/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map212/events/1/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map141/events/1/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map141/events/1/pages/0/9/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map141/events/1/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map141/events/1/pages/1/12/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map122/events/1/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map122/events/1/pages/0/9/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map067/events/1/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map067/events/1/pages/0/9/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map049/events/1/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map049/events/1/pages/0/8/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map016/events/1/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map016/events/1/pages/0/7/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map016/events/1/pages/0/16/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map016/events/1/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map016/events/1/pages/1/7/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やすらぎの店、リンドヴァルへようこそ！
+> CONTEXT: Map330/events/1/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map212/events/1/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/1/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/1/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map122/events/1/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map067/events/1/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map049/events/1/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map016/events/1/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map016/events/1/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「またいらしてくださいね♪
+　メェ～ッ♪
+> CONTEXT: Map330/events/1/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+　* リンドヴァル　商品案内 *
+> CONTEXT: Map330/events/4/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map330/events/6/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map212/events/4/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map212/events/6/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/4/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/6/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map122/events/4/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map122/events/6/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map067/events/4/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map067/events/6/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map049/events/5/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map049/events/6/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map016/events/9/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map016/events/11/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「〔インセンス〕
+　一度使うと一定時間少しずつ効果を得られます。
+　効果はEP回復、テンションアップ、ムードアップなど
+　様々です。
+> CONTEXT: Map330/events/4/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map330/events/6/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map212/events/4/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map212/events/6/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/4/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/6/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map122/events/4/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map122/events/6/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map067/events/4/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map067/events/6/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map049/events/5/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map049/events/6/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map016/events/9/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map016/events/11/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「〔ティー〕
+　EP回復、テンションアップの効果がすぐに得られます。
+　インセンスに比べ安価ですが、
+　お取り込み中にご使用なさるのは難しいでしょう。
+> CONTEXT: Map330/events/4/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map330/events/6/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map212/events/4/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map212/events/6/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/4/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/6/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map122/events/4/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map122/events/6/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map067/events/4/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map067/events/6/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map049/events/5/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map049/events/6/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map016/events/9/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map016/events/11/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「〔エッセンス〕
+　センシブになったりナーバスになったりなど、あなたにとって
+　好ましくない状態から回復するのに向いております。
+　お取り込み中でもご使用なさることができます。
+> CONTEXT: Map330/events/4/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map330/events/6/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map212/events/4/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map212/events/6/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/4/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/6/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map122/events/4/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map122/events/6/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map067/events/4/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map067/events/6/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+　* インセンスのすすめ *
+> CONTEXT: Map330/events/7/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map330/events/8/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map212/events/7/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map212/events/8/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/7/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/8/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map122/events/7/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map122/events/8/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map067/events/7/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map067/events/8/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map049/events/7/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map049/events/8/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map016/events/8/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map016/events/12/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「インセンスには種類によってさまざまな効果があり、
+　状況に応じて使い分けることが大切です。
+> CONTEXT: Map330/events/7/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map330/events/8/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map212/events/7/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map212/events/8/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/7/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/8/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map122/events/7/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map122/events/8/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map067/events/7/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map067/events/8/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map049/events/7/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map049/events/8/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map016/events/8/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map016/events/12/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「たとえば興奮を落ちつけたい時は
+　\\c[3]シダーウッド\\c[0]でリラックスしたり、
+　元気を出したい時は\\c[3]ペパーミント\\c[0]で
+　テンションを上げたりするといいでしょう。
+> CONTEXT: Map330/events/7/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map330/events/8/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map212/events/7/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map212/events/8/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/7/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/8/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map122/events/7/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map122/events/8/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map067/events/7/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map067/events/8/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map049/events/7/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map049/events/8/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map016/events/8/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map016/events/12/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\c[3]ジャスミン\\c[0]など魅惑的な花の香りは、
+　恋人との甘いひとときに最適です。
+> CONTEXT: Map330/events/7/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map330/events/8/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map212/events/7/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map212/events/8/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/7/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/8/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map122/events/7/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map122/events/8/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map067/events/7/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map067/events/8/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map049/events/7/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map049/events/8/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map016/events/8/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map016/events/12/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ただし一度インセンスを使うと、
+　そのインセンスの香りが消えるまで
+　他のインセンスは使えないので注意しましょう。
+> CONTEXT: Map330/events/7/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map330/events/8/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map212/events/7/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map212/events/8/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/7/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/8/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map122/events/7/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map122/events/8/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map067/events/7/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map067/events/8/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map049/events/7/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map049/events/8/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map016/events/8/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map016/events/12/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING

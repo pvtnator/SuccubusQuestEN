@@ -1,0 +1,1047 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+031-Castle01
+> CONTEXT: Map142/bgm/name/ < UNTRANSLATED
+> CONTEXT: Map002/bgm/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「二階に部屋を用意してあります。
+　そちらでお休み下さい。
+> CONTEXT: Map142/events/17/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「魔女ベルナドットは、
+　ここホロスの南にある
+　迷路に住んでいます。
+> CONTEXT: Map142/events/17/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ルグブロードの南の
+　テレポーターから行けるはずです。
+> CONTEXT: Map142/events/17/pages/1/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「幸運を祈りますよ。
+　\\n[1]さん。
+> CONTEXT: Map142/events/17/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あの村に、テレポトが失敗した
+　理由があるはずです。
+> CONTEXT: Map142/events/17/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何か気にかかってることでも
+　あるのではないですか？
+> CONTEXT: Map142/events/17/pages/2/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ん………
+　何ですか、何かご用ですか？
+> CONTEXT: Map142/events/17/pages/3/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「クリスティンになら会わせませんよ。
+> CONTEXT: Map142/events/17/pages/3/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「わたし、もう子供じゃないのに………
+> CONTEXT: Map142/events/18/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map142/events/24/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おお、\\n[1]さん！
+> CONTEXT: Map142/events/19/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ようこそお越しくださいました。
+> CONTEXT: Map142/events/19/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「改めてご挨拶しましょう。
+　私は魔導士ハグロフス。
+　このリスヴェグの統主を勤める者です。
+> CONTEXT: Map142/events/19/pages/0/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「しかし、こんなに早く
+　訪ねて来ていただけるとは……。
+> CONTEXT: Map142/events/19/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何かホロスにご用でも？
+> CONTEXT: Map142/events/19/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\c[4]魔王のかけら\\c[0]を探しているの。
+　魔王の魔力を持った\\dかけら\\dよ。
+> CONTEXT: Map142/events/19/pages/0/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「この近くに落ちてこなかったかしら？
+　あなた、魔導士なら分かるでしょ？
+> CONTEXT: Map142/events/19/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ほお、これは珍しい。
+　召喚魔法ですか？
+> CONTEXT: Map142/events/19/pages/0/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あまり強そうな召喚ではありませんが……
+　後で調べさせていただいても？
+> CONTEXT: Map142/events/19/pages/0/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………人の話聞いてる？
+> CONTEXT: Map142/events/19/pages/0/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お父さん………、
+　その方………………？
+> CONTEXT: Map142/events/19/pages/0/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やっぱり、\\n[1]さん……！
+> CONTEXT: Map142/events/19/pages/0/98/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「クリスティン！
+　だめじゃないですか、寝ていなくては。
+> CONTEXT: Map142/events/19/pages/0/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もう大丈夫よ、お父さん。
+> CONTEXT: Map142/events/19/pages/0/103/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それに、\\n[1]さんが来て下さってるのに
+　寝てるわけにいかないわ。
+> CONTEXT: Map142/events/19/pages/0/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……ずっと会いたかったんですもの。
+> CONTEXT: Map142/events/19/pages/0/120/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「クリスティン？
+> CONTEXT: Map142/events/19/pages/0/122/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あ、その、お礼が言いたくて……。
+> CONTEXT: Map142/events/19/pages/0/127/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…………………………
+　………クリスティン、こちらに来なさい。
+> CONTEXT: Map142/events/19/pages/0/129/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……それで、
+　\\c[4]魔王のかけら\\c[0]でしたか。
+> CONTEXT: Map142/events/19/pages/0/149/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「実は、しばらく前に下のルグブロード平原に
+　魔力を持った何かの欠片が落ちてきました。
+> CONTEXT: Map142/events/19/pages/0/151/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「言われてみれば、グルッペンの勇者が
+　魔王を倒したとの報があったのと
+　ほぼ同時期でのことでしたね……
+> CONTEXT: Map142/events/19/pages/0/153/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もしやそれのことではないでしょうか？
+> CONTEXT: Map142/events/19/pages/0/156/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それよ！
+　それは今どこにあるの？
+> CONTEXT: Map142/events/19/pages/0/158/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「妖しい魔力を持っていたため、
+　東の\\c[1]リスヴェグ魔導院\\c[0]で
+　保管・研究しています。
+> CONTEXT: Map142/events/19/pages/0/162/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「魔導院は機密保護のため、
+　我々リスヴェグの民、それも魔力の高い
+　魔導士しか入れません。
+> CONTEXT: Map142/events/19/pages/0/165/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「よろしければ、
+　後ほど私が案内しましょう。
+> CONTEXT: Map142/events/19/pages/0/168/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「わあ、助かるわっ♪
+> CONTEXT: Map142/events/19/pages/0/171/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それじゃ、早速明日にでも行きましょっ
+> CONTEXT: Map142/events/19/pages/0/172/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ただ娘が完全に回復するまで、
+　もう数日かかります。
+> CONTEXT: Map142/events/19/pages/0/174/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「部屋をひとつお貸ししますので、
+　それまでそちらでお休み下さい。
+> CONTEXT: Map142/events/19/pages/0/176/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「え、その子も一緒に行くの？
+> CONTEXT: Map142/events/19/pages/0/179/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もちろんですよ。
+　私が娘の側を
+　離れるわけにはいきません。
+> CONTEXT: Map142/events/19/pages/0/181/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………あ、そう……
+> CONTEXT: Map142/events/19/pages/0/185/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お父さん、私ならだいじょうぶよ。
+> CONTEXT: Map142/events/19/pages/0/189/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いえ…私が一人で案内するわ。
+> CONTEXT: Map142/events/19/pages/0/192/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「薬を持ってきてくれた
+　恩返しがしたいの。
+> CONTEXT: Map142/events/19/pages/0/193/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「馬鹿なことを言うんじゃありませんッ！
+　クリスティン！
+> CONTEXT: Map142/events/19/pages/0/196/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あなたはまだ子供です。
+　一人では魔導院の門すら
+　開けられないでしょう。
+> CONTEXT: Map142/events/19/pages/0/198/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そんなことないわ！
+　私だって……
+> CONTEXT: Map142/events/19/pages/0/202/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おとなしく寝ていなさい。
+> CONTEXT: Map142/events/19/pages/0/205/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…では\\n[1]さん、
+　二階に部屋を用意しておきます。
+> CONTEXT: Map142/events/19/pages/0/211/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「しばらくそちらにご滞在下さい。
+> CONTEXT: Map142/events/19/pages/0/213/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ハグロフス様………
+> CONTEXT: Map142/events/19/pages/2/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どうしました？
+　こんな夜更けに。
+> CONTEXT: Map142/events/19/pages/2/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「実は…………………
+> CONTEXT: Map142/events/19/pages/2/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……………まさか……
+> CONTEXT: Map142/events/19/pages/2/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ハグロフス様も既に
+　感じ取られているはずです。
+　あの少年の奇異な魔力を。
+> CONTEXT: Map142/events/19/pages/2/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「確かに気になってはいました。
+　あの魔力は尋常のものではない。
+> CONTEXT: Map142/events/19/pages/2/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「しかし、彼は
+　クリスティンを助けてくれました。
+　それがまさか………
+> CONTEXT: Map142/events/19/pages/2/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お嬢様のために判断を誤ってはならぬと、
+　常々申し上げているはずです。
+> CONTEXT: Map142/events/19/pages/2/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それに、
+　私は魔王と直に対峙したことがあります。
+　間違いありません。
+> CONTEXT: Map142/events/19/pages/2/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……わかりました。
+> CONTEXT: Map142/events/19/pages/2/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それが事実なら、
+　こうしてはいられません。
+> CONTEXT: Map142/events/19/pages/2/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「はい、すぐにでも魔導院に応援を……
+> CONTEXT: Map142/events/19/pages/2/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「その必要はありません。
+> CONTEXT: Map142/events/19/pages/2/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ハグロフス様っ！
+> CONTEXT: Map142/events/19/pages/2/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……断っておきますが、
+　\\n[1]さん、
+> CONTEXT: Map142/events/19/pages/3/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私はまだ、あなたを完全に
+　信用したわけではありませんよ。
+> CONTEXT: Map142/events/19/pages/3/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あなたには
+　魔王ギルデンスターンの力が
+　宿っている……
+> CONTEXT: Map142/events/19/pages/3/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「その事実には
+　変わりがないのですから。
+> CONTEXT: Map142/events/19/pages/3/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………もういいじゃない。
+　その話は。
+> CONTEXT: Map142/events/19/pages/3/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それより、あなたもう二度も
+　\\n[1]に助けられてるのよ。
+　わかってる？
+> CONTEXT: Map142/events/19/pages/3/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「分かっているから
+　こうして協力を申し出ているのです。
+　……ええと、
+> CONTEXT: Map142/events/19/pages/3/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ルヴィッサよ。
+> CONTEXT: Map142/events/19/pages/3/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ルヴィッサさん。
+> CONTEXT: Map142/events/19/pages/3/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それに、私の治めるリスヴェグを
+　夢魔などという魔物に
+　好きにさせるわけにもいきませんしね。
+> CONTEXT: Map142/events/19/pages/3/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……急に指導者ぶっちゃって………
+> CONTEXT: Map142/events/19/pages/3/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何か言いましたか？
+> CONTEXT: Map142/events/19/pages/3/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いいえ、何も。
+> CONTEXT: Map142/events/19/pages/3/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それより早く教えてちょうだい。
+　分かるのよね？
+> CONTEXT: Map142/events/19/pages/3/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「はい。
+　あの\\dかけら\\dの放つ魔力は、
+　非常に特殊なものでしたからね。
+> CONTEXT: Map142/events/19/pages/3/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私の魔法で
+　探せるはずです。
+> CONTEXT: Map142/events/19/pages/3/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……この鏡を使いましょうか。
+> CONTEXT: Map142/events/19/pages/3/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それでは……
+> CONTEXT: Map142/events/19/pages/3/127/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「これは…鏡の通信魔法……
+> CONTEXT: Map142/events/19/pages/3/143/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……何て書いてあるの？
+> CONTEXT: Map142/events/19/pages/3/145/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「『盃のかけらは魔王城に在り。
+　　勇者よ来たれ。
+　　　　　　　　　　　　　　　　　　－エスト　　』」
+> CONTEXT: Map142/events/19/pages/3/147/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……署名は違いますが、
+　おそらくグスタフスの魔法でしょう。
+> CONTEXT: Map142/events/19/pages/3/150/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「代筆といったところでしょうか。
+　古臭い手を使ってくれます。
+> CONTEXT: Map142/events/19/pages/3/152/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「エスト……
+　またあの夢魔ね。
+> CONTEXT: Map142/events/19/pages/3/155/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でも、自分から
+　\\dかけら\\dの場所を教えるなんて
+　何考えてるのかしら……
+> CONTEXT: Map142/events/19/pages/3/157/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ハグロフス様、大変です！
+> CONTEXT: Map142/events/19/pages/3/175/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「町中の鏡に、血文字が……！
+> CONTEXT: Map142/events/19/pages/3/184/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……おそらくこの町だけでなく、
+　リスヴェグ中……
+> CONTEXT: Map142/events/19/pages/3/186/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いや、世界中に
+　送られているのでしょう。
+> CONTEXT: Map142/events/19/pages/3/188/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あの\\dかけら\\dをエサに、
+　他の\\dかけら\\dを集めている人間を
+　おびきよせようっていうの！？
+> CONTEXT: Map142/events/19/pages/3/193/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……あるいはグスタフスの
+　言っていたように、ただ
+　遊んでるだけかも知れませんね。
+> CONTEXT: Map142/events/19/pages/3/197/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いいわ……
+　望むところじゃない………
+> CONTEXT: Map142/events/19/pages/3/201/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「逆に私たちが全部奪って、
+　夢魔もみんなやっつけてやるんだから！
+> CONTEXT: Map142/events/19/pages/3/203/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「夢魔に味方するような人間も同罪よ！
+　みんな消してやるわ！
+> CONTEXT: Map142/events/19/pages/3/205/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ね！\\n[1]！
+> CONTEXT: Map142/events/19/pages/3/207/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………とにかく、
+　魔王城に行かないことには
+　始まりませんね。
+> CONTEXT: Map142/events/19/pages/3/228/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「しかし聞くところによれば、
+　\\n[1]さんが魔王を倒して以来
+　魔王城には近寄れなくなっているとか。
+> CONTEXT: Map142/events/19/pages/3/235/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……そうね、そうだったわ。
+> CONTEXT: Map142/events/19/pages/3/239/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あそこは最初に夢魔が
+　入ってきた場所だから、
+> CONTEXT: Map142/events/19/pages/3/240/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もう周りの山脈ごと、ほとんど
+　夜の国に\\dなっている\\dのよ。
+> CONTEXT: Map142/events/19/pages/3/242/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でも\\dかけら\\dが城にあるなら、
+　直接城まで行ければ何とか……
+> CONTEXT: Map142/events/19/pages/3/244/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「空からとか、
+　瞬間移動の魔法とか……
+> CONTEXT: Map142/events/19/pages/3/246/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\r[瞬間移動魔法,テ　　レ　　ポ　　ト]は
+　使えないんですか？
+> CONTEXT: Map142/events/19/pages/3/249/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]は魔法は使えないのよ。
+> CONTEXT: Map142/events/19/pages/3/252/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふむ……ならば………
+> CONTEXT: Map142/events/19/pages/3/254/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ここホロスの南に、
+　\\c[1]ベルナドット\\c[0]という
+　魔女が住んでいます。
+> CONTEXT: Map142/events/19/pages/3/256/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「魔法の使えない者でも、
+　彼女の力を借りれば
+　テレポトぐらい使えるでしょう。
+> CONTEXT: Map142/events/19/pages/3/259/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「彼女の家には、ルグブロードの
+　南のテレポーターから行けるはずです。
+　訪ねてみてはどうでしょうか。
+> CONTEXT: Map142/events/19/pages/3/262/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……あなたはやってくれないの？
+> CONTEXT: Map142/events/19/pages/3/266/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私は魔王城に行ったことがないので、
+　私のテレポトで城まで
+　連れていくのは無理です。
+> CONTEXT: Map142/events/19/pages/3/268/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それに、
+　他人に魔力を分け与えるような術は
+　どうも苦手でして。
+> CONTEXT: Map142/events/19/pages/3/271/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………そう。
+> CONTEXT: Map142/events/19/pages/3/275/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ベルナドットは
+　迷路に住んでいる偏屈な魔女で
+　訪れる者に必ず試験を与えますが、
+> CONTEXT: Map142/events/19/pages/3/277/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……まあ、先ほどの
+　\\n[1]さんの活躍を見ている限り、
+　大丈夫でしょう。
+> CONTEXT: Map142/events/19/pages/3/280/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どういう意味？
+> CONTEXT: Map142/events/19/pages/3/284/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「紹介状を差し上げましょう。
+　これが無いと迷路に入ることすら
+　できないはずです。
+> CONTEXT: Map142/events/19/pages/3/286/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[4]ハグロフスの紹介状\\c[0]を手に入れた！
+> CONTEXT: Map142/events/19/pages/3/292/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「幸運を祈ります。
+> CONTEXT: Map142/events/19/pages/3/294/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……………。
+> CONTEXT: Map142/events/19/pages/3/296/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ここの執事長のグフタフスさんは、
+　真面目で頭が良くてとても立派な方です。
+> CONTEXT: Map142/events/27/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「実は、昔ハグロフス様と
+　リスヴェグトップの座を争った
+　熟達の魔術士でもあります。
+> CONTEXT: Map142/events/27/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「かつてのライバルの下に仕えるなんて、
+　よほど人間ができてなきゃ無理ですわよね。
+> CONTEXT: Map142/events/27/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+　* 黒魔法大全 *
+> CONTEXT: Map142/events/28/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map142/events/29/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+殺傷能力の高い魔法の数々が
+記されている
+> CONTEXT: Map142/events/28/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map142/events/29/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+　* 統主論　～良い統主となるためには～ *
+> CONTEXT: Map142/events/30/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map142/events/31/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ホコリをかぶっている
+今は誰も読んでいないようだ
+> CONTEXT: Map142/events/30/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map142/events/31/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+　* 思い出のアルバム *
+> CONTEXT: Map142/events/32/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map142/events/33/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女の子の成長の記録が
+細やかに記されている
+> CONTEXT: Map142/events/32/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map142/events/33/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どうやらクリスティンのようだ
+> CONTEXT: Map142/events/32/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map142/events/33/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ハグロフス様は
+　世間から親バカと揶揄されていますが、
+　それには理由があります。
+> CONTEXT: Map142/events/34/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「以前政務で家を離れていた際に
+　ホロスが魔王の攻撃にあい、
+　奥様を亡くされてしまったのです。
+> CONTEXT: Map142/events/34/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「グスタフスさんや他の魔術士のおかげで
+　クリスティン様は無事でしたが、
+> CONTEXT: Map142/events/34/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それ以来ハグロフス様は
+　片時もクリスティン様のそばを
+　離れようとなさいません。
+> CONTEXT: Map142/events/34/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+特に興味を引く本はないようだ
+> CONTEXT: Map142/events/35/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map142/events/36/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map142/events/49/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map142/events/50/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map142/events/51/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map142/events/52/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map142/events/53/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map142/events/54/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map142/events/55/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map142/events/56/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+　* ソーサラー・タクティクス *
+> CONTEXT: Map142/events/37/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map142/events/38/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔法を使った実戦的な戦術の数々が
+記されている
+> CONTEXT: Map142/events/37/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map142/events/38/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私、だめですね……。
+　結局またお父さんの足を
+　引っ張っちゃいました。
+> CONTEXT: Map142/events/41/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私、まだ大人じゃないのかな………。
+> CONTEXT: Map142/events/41/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「魔導院と連絡が取れなくなって、
+　グスタフスさんも
+　いつの間にかいなくなっていて……
+> CONTEXT: Map142/events/47/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でもまさか、
+　こんなことになっていたなんて……。
+> CONTEXT: Map142/events/47/pages/1/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「最近、お父さんが
+　色々うるさく聞いてくるんです。
+> CONTEXT: Map142/events/48/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]さん……
+　あの日のことは、
+　ずっと二人の秘密ですよ\\e[0]
+> CONTEXT: Map142/events/48/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING

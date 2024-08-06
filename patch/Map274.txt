@@ -1,0 +1,68 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+"グスタフス"
+> CONTEXT: Map274/events/6/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map194/events/5/pages/0/20/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map194/events/7/pages/0/20/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map194/events/8/pages/0/20/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map194/events/9/pages/0/20/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map194/events/11/pages/0/20/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map160/events/6/pages/0/90/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map160/events/6/pages/0/106/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map160/events/6/pages/0/116/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map160/events/6/pages/0/123/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map160/events/6/pages/0/161/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map160/events/6/pages/0/174/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map160/events/6/pages/0/214/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map160/events/6/pages/0/267/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map160/events/6/pages/0/275/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map160/events/6/pages/0/282/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map143/events/8/pages/0/5/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map143/events/8/pages/0/37/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map143/events/8/pages/0/45/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map160/events/6/pages/0/321/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map143/events/9/pages/0/11/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map143/events/9/pages/0/40/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map143/events/9/pages/0/44/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map160/events/6/pages/0/354/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map143/events/9/pages/0/52/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map160/events/6/pages/0/363/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map143/events/10/pages/0/11/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map160/events/6/pages/0/377/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map143/events/10/pages/0/43/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map143/events/10/pages/0/51/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/18/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map160/events/6/pages/0/457/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map214/events/18/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map160/events/6/pages/0/474/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map160/events/6/pages/0/480/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map160/events/6/pages/0/517/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map160/events/6/pages/0/524/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map142/events/19/pages/2/13/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map142/events/19/pages/2/19/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map142/events/19/pages/2/27/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map142/events/19/pages/2/37/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map142/events/19/pages/2/47/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map142/events/19/pages/2/77/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「エスト…様……
+> CONTEXT: Map274/events/6/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おお、さっきまでここに……
+　見えてたのに…？
+> CONTEXT: Map274/events/6/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああ、何故……
+　何故………
+> CONTEXT: Map274/events/6/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING

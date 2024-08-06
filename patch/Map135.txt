@@ -1,0 +1,21 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+SQ_Field02
+> CONTEXT: Map135/bgm/name/ < UNTRANSLATED
+> CONTEXT: Map128/bgm/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+　*　魔王……た……の…力……　*
+> CONTEXT: Map135/events/2/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔王に関する本のようだ。
+ボロボロにすりきれていて読めない。
+> CONTEXT: Map135/events/2/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING

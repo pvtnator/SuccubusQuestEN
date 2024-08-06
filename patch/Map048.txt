@@ -1,0 +1,49 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「高い買い物ばっかりしてると、
+　すぐお金がなくなっちゃうわよね。
+> CONTEXT: Map048/events/1/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いらなくなった物は
+　売っちゃった方がいいこともあるわよ。
+> CONTEXT: Map048/events/1/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「こちらのフロアでは、
+　宝石やアクセサリーなど
+　取り扱っております。
+> CONTEXT: Map048/events/9/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「最近お客さんが少ないんですが、
+　どうしちゃったんですかね。
+> CONTEXT: Map048/events/10/pages/4/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あなたが何を目的に
+　ここの品物を買うかは存じませんけど、
+> CONTEXT: Map048/events/13/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「値段と性能は必ずしも見合わないとは
+　覚えておいた方がよろしくてよ。
+> CONTEXT: Map048/events/13/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何か下が騒がしいわね…？
+> CONTEXT: Map048/events/13/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING

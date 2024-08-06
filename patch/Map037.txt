@@ -1,0 +1,238 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「この家は比較的マトモそうだな。
+> CONTEXT: Map037/events/2/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ベッドまであるぜ。
+　今夜はここで休ませてもらおう。
+> CONTEXT: Map037/events/2/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……みつけて………はやく……
+> CONTEXT: Map037/events/2/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………奪……る………
+　……前に…………………
+> CONTEXT: Map037/events/2/pages/0/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………ラルス、今何か言ったか？
+> CONTEXT: Map037/events/2/pages/0/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………そうか。
+　気のせいかな………
+> CONTEXT: Map037/events/2/pages/0/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……いや、気のせいじゃねえ。
+> CONTEXT: Map037/events/2/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「表に誰かいるぜ。
+　\\n[1]、武器取っとけよ。
+> CONTEXT: Map037/events/2/pages/0/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……剣の通る相手ならいいんだけどな。
+> CONTEXT: Map037/events/2/pages/0/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「開けるぜ……
+> CONTEXT: Map037/events/2/pages/0/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「オ…オリビア………！？
+> CONTEXT: Map037/events/2/pages/0/143/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…………………
+　………エルヴィン…………
+　……\\n[1]……………
+> CONTEXT: Map037/events/2/pages/0/150/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どうしてここに…･･･
+　いや、それよりお前、無事だったのか！？
+> CONTEXT: Map037/events/2/pages/0/154/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………会いたかったわ……
+> CONTEXT: Map037/events/2/pages/0/157/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…俺たちもだ。
+　それより……
+> CONTEXT: Map037/events/2/pages/0/159/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「本当に………ふふ………
+　…………\\n[1]………
+> CONTEXT: Map037/events/2/pages/0/163/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「オリビア…？
+　お前…………
+> CONTEXT: Map037/events/2/pages/0/166/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふ……ふふ……
+　……あは………
+> CONTEXT: Map037/events/2/pages/0/184/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あはっ、あはははっ…！
+> CONTEXT: Map037/events/2/pages/0/186/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…ごめんなさいね、エルヴィン。
+> CONTEXT: Map037/events/2/pages/0/187/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ねぇ、\\n[1]………
+> CONTEXT: Map037/events/2/pages/0/232/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……………………
+　……愛してるわ………
+> CONTEXT: Map037/events/2/pages/0/235/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]………ッ！
+> CONTEXT: Map037/events/2/pages/0/242/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……つなぎ…とめて……
+> CONTEXT: Map037/events/2/pages/0/247/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あたしを……
+> CONTEXT: Map037/events/2/pages/0/248/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]…\\n[1]……………
+> CONTEXT: Map037/events/2/pages/0/272/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「たすけ……て………
+> CONTEXT: Map037/events/2/pages/0/273/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やっぱりこの子たちのとこにいたのね、
+　オリビア。
+> CONTEXT: Map037/events/2/pages/0/290/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「急に引き返したりして……
+　まあこんなことだろうとは思ったわ。
+> CONTEXT: Map037/events/2/pages/0/294/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"オリビア/Olvia"
+> CONTEXT: None < UNUSED
+
+> END STRING
+
+> BEGIN STRING
+「エスト………
+> CONTEXT: Map037/events/2/pages/0/297/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「オリビア……行くなあっ！
+> CONTEXT: Map037/events/2/pages/0/319/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あなたたちも久しぶりね。
+　何かたくましくなったじゃない？
+> CONTEXT: Map037/events/2/pages/0/352/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でも残念ね、今急いでるの。
+> CONTEXT: Map037/events/2/pages/0/360/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「またの機会に
+　じっくりお相手してあげるわ\\e[0]
+> CONTEXT: Map037/events/2/pages/0/361/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………くそおおおぉっ！！
+> CONTEXT: Map037/events/2/pages/0/386/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エルヴィンがいない………
+> CONTEXT: Map037/events/2/pages/0/413/Dialogue < UNTRANSLATED
+
+> END STRING

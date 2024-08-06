@@ -1,0 +1,110 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+"店主"
+> CONTEXT: Map343/events/3/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map343/events/3/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map333/events/3/pages/0/1/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map216/events/8/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map216/events/8/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map169/events/12/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map169/events/12/pages/0/8/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map169/events/12/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map169/events/12/pages/1/6/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map126/events/2/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map126/events/2/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map093/events/1/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map093/events/1/pages/0/9/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map086/events/18/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お客さんかい？
+　珍しいね……
+> CONTEXT: Map343/events/3/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…………………
+> CONTEXT: Map343/events/3/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map315/events/7/pages/0/149/Dialogue < UNTRANSLATED
+> CONTEXT: Map214/events/14/pages/0/165/Dialogue < UNTRANSLATED
+> CONTEXT: Map160/events/6/pages/0/281/Dialogue < UNTRANSLATED
+> CONTEXT: Map214/events/16/pages/0/184/Dialogue < UNTRANSLATED
+> CONTEXT: Map214/events/21/pages/0/167/Dialogue < UNTRANSLATED
+> CONTEXT: Map124/events/13/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map142/events/19/pages/3/209/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/30/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/30/pages/0/48/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/30/pages/0/38/Dialogue < UNTRANSLATED
+> CONTEXT: Map017/events/24/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/11/pages/0/402/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…いけない、客が少なくて
+　つい眠りそうになるね。
+> CONTEXT: Map343/events/3/pages/1/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"男性客"
+> CONTEXT: Map343/events/6/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map343/events/6/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map126/events/16/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map067/events/5/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map086/events/10/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map086/events/10/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map049/events/2/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map040/events/11/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map040/events/11/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map040/events/19/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map040/events/26/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map040/events/26/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map018/events/13/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「旅の人かァ？
+　珍しいな！
+> CONTEXT: Map343/events/6/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「よぅし、よく聞け、いいか、
+　この村はなァ、あの魔王を倒した
+　勇者様を輩出した村だ！
+> CONTEXT: Map343/events/6/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「一度は魔王に滅ぼされ、
+　まだ見ての通りの寂れようだが……
+> CONTEXT: Map343/events/6/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「勇者様がお帰りになりゃァ、
+　たちまちにぎわうってもんさ！
+> CONTEXT: Map343/events/6/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…おお、勇者さまあああ……
+> CONTEXT: Map343/events/6/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ぐごおおおおお…………
+> CONTEXT: Map343/events/6/pages/1/2/Dialogue < UNTRANSLATED
+
+> END STRING

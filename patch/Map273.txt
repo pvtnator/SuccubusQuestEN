@@ -1,0 +1,13 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「どこに……
+　ああ、どこに…グスタフス様……
+> CONTEXT: Map273/events/6/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あい…たい………
+> CONTEXT: Map273/events/6/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING

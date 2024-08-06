@@ -1,0 +1,26 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「フレデリカ！！
+> CONTEXT: Map095/events/6/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……ローズニル………
+　………ひどい人……………
+> CONTEXT: Map095/events/6/pages/0/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「まだ私を………
+　……あなたから離れさせて………
+> CONTEXT: Map095/events/6/pages/0/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くれない……のね………………
+> CONTEXT: Map095/events/6/pages/0/52/Dialogue < UNTRANSLATED
+
+> END STRING

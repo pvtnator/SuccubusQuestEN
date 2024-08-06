@@ -1,0 +1,225 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「…\\v[1]………………………
+　………………\\v[2]………………
+> CONTEXT: Map015/events/2/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]！
+　おい、\\n[1]！
+> CONTEXT: Map015/events/2/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お。 やっと目が覚めたか。
+> CONTEXT: Map015/events/2/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……何だ？
+　ずいぶんボッとしてるな。
+　大丈夫か？
+> CONTEXT: Map015/events/2/pages/0/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ここはヴィドヴィン山脈のふもと、
+　シプリの町だ。
+　お前ずいぶん眠ってたぜ。
+> CONTEXT: Map015/events/2/pages/0/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……まだ頭が
+　ハッキリしてないみたいだな。
+> CONTEXT: Map015/events/2/pages/0/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「まあいいや、とりあえずメシにしよう。
+> CONTEXT: Map015/events/2/pages/0/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「町の西のBARで待ってるぜ。
+　前にも来たの、覚えてるだろ？
+> CONTEXT: Map015/events/2/pages/0/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お目覚めになられたのですね。
+　良かった……
+> CONTEXT: Map015/events/4/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「鎧も何もつけずにここに来て、
+　そのまま倒れこんでしまったので
+　心配していたんですよ。
+> CONTEXT: Map015/events/4/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「魔王との戦いは
+　よほど凄まじいものだったんですね……
+　ああ、聞くのも恐ろしい！
+> CONTEXT: Map015/events/4/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「勇者様にはサービスしますね\\e[0]
+　一晩 \\b20G\\f ですが、お泊りになりますか？
+> CONTEXT: Map015/events/4/pages/1/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/4/pages/2/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\b20G\\f で宿屋に泊まりますか？
+> CONTEXT: Map015/events/4/pages/1/5/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/4/pages/2/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あら、おはようございます。
+> CONTEXT: Map015/events/5/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「この宿、ちょっと広いだろ？
+　\\c[2]ダッシュ\\c[0]でもしないと移動も大変だよな。
+> CONTEXT: Map015/events/6/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「決定ボタンを押しながら動けば
+　\\c[2]ダッシュ\\c[0]できるぜ。
+> CONTEXT: Map015/events/6/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「魔物がいなくなったと聞いたので
+　隣町から出てきたのですが、
+　息子がどこかいなくなってしまったのです。
+> CONTEXT: Map015/events/8/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「噂じゃこの町の女の子に
+　たぶらかされたとか聞きますけど……
+　……まさかねぇ。
+> CONTEXT: Map015/events/8/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「息子は戻ってきましたが、
+　衰弱しきってていて
+　しばらくここから動けなさそうです。
+> CONTEXT: Map015/events/8/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「まさか女にやられるなんて……
+　はァ、情けない…。
+> CONTEXT: Map015/events/8/pages/1/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もう帰ろうと思ってるのですが、
+　息子が眠ったまま
+　目を覚まさないのです。
+> CONTEXT: Map015/events/8/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああ、一体何が……
+> CONTEXT: Map015/events/8/pages/2/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「息子もついに
+　女にたぶらかされるような歳になったか！
+　結構結構！
+> CONTEXT: Map015/events/9/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いつか女をたぶらかすようになれば良し！
+　わしが母さんを捕まえたみたいにな！
+　がっはっは
+> CONTEXT: Map015/events/9/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どうも息子はあのマーシャとかいう女に、
+　本気で惚れてしまったらしい。
+> CONTEXT: Map015/events/9/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「まあそれも結構結構！
+　実はわしが母さんに捕まった時も
+　そんな感じだったしな！がっはっは
+> CONTEXT: Map015/events/9/pages/1/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「息子め、夢の中の女から
+　別れたくないと見える！
+> CONTEXT: Map015/events/9/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「まあわしも母さんと出会ったばかりは
+　そんな夢ばかり見てたがな！
+　がっはっは
+> CONTEXT: Map015/events/9/pages/2/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]様！
+　お部屋にお荷物をお忘れですよ！
+> CONTEXT: Map015/events/10/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"息子"
+> CONTEXT: Map015/events/13/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うぅ……マ………
+　……マーシャぁ………\\e[0]
+> CONTEXT: Map015/events/13/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING

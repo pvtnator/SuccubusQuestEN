@@ -1,0 +1,115 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+（…………ねえ、姉さん……
+> CONTEXT: Map240/events/5/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（なあに？
+> CONTEXT: Map240/events/5/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（なんかさっきは
+　勢いに呑まれちゃったけど……
+> CONTEXT: Map240/events/5/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（こいつ、ほんとに
+　魔王様なのかしら……？
+> CONTEXT: Map240/events/5/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（…………さあ……
+> CONTEXT: Map240/events/5/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ほんと言うと、アタシにも
+　よくわかんないわ。
+> CONTEXT: Map240/events/5/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（やっぱり！？
+　偽者ならここから突き落として……
+> CONTEXT: Map240/events/5/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（……でもね、リズ・ラズ。
+> CONTEXT: Map240/events/5/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（アタシなんだか、
+　前ほどこの子のこと
+　憎く思えないのよ。
+> CONTEXT: Map240/events/5/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（何言ってるのよ姉さん！
+　こいつは私たちの敵で、
+　魔王様のカタキで…、
+> CONTEXT: Map240/events/5/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（でもあたしも、
+　また気持ちイイことしたいなぁ～～\\e[0]
+> CONTEXT: Map240/events/5/pages/0/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ロッコ、あんたは黙ってなさいよ！
+> CONTEXT: Map240/events/5/pages/0/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（………そうね。
+　前よりこっちの方がいいわね。
+> CONTEXT: Map240/events/5/pages/0/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（………！
+　姉さんまで……
+> CONTEXT: Map240/events/5/pages/0/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おいおい！
+　お喋りしてないで急いでくれよ！
+> CONTEXT: Map240/events/5/pages/0/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「魔王様が復活したら
+　幹部に取り立ててやるからよ！
+> CONTEXT: Map240/events/5/pages/0/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…はい、はい。
+> CONTEXT: Map240/events/5/pages/0/58/Dialogue < UNTRANSLATED
+
+> END STRING

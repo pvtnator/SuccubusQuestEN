@@ -1,0 +1,511 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+SQ_Town03
+> CONTEXT: Map071/bgm/name/ < UNTRANSLATED
+> CONTEXT: Map070/bgm/name/ < UNTRANSLATED
+> CONTEXT: Map065/bgm/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ん、君は……
+> CONTEXT: Map071/events/2/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おお、海辺で介抱してくれた
+　少年じゃないか。
+> CONTEXT: Map071/events/2/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「しかし……
+　おお、すまない……
+> CONTEXT: Map071/events/2/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「今の俺にはもう、君にお礼に
+　あげられるようなものは何も無いのだ。
+　ただこの陳腐な言葉を除いては。
+> CONTEXT: Map071/events/2/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「少年よ、ありがとう。
+　もし君に慈悲あらば、拾い集めてくれ、
+　この言葉から、
+> CONTEXT: Map071/events/2/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「この俺の感謝の気持ちを。
+　ありがとう。
+> CONTEXT: Map071/events/2/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……悪いが、一人にしてくれないか。
+> CONTEXT: Map071/events/2/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…………ん、また君か。
+　悪いが……
+> CONTEXT: Map071/events/2/pages/3/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……俺に頼みごと？
+> CONTEXT: Map071/events/2/pages/3/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……ふっ、面白い話だな。
+> CONTEXT: Map071/events/2/pages/3/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「魔物退治に君が必要なのは
+　鱗を貫く刃でも
+　甲羅を砕く槌でもなく、
+> CONTEXT: Map071/events/2/pages/3/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「その心臓を直に掴み、
+　激しく揺さぶる愛の言葉というわけか。
+> CONTEXT: Map071/events/2/pages/3/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「しかしどこで聞いたのか知らないが、
+　俺の口説き文句をまるで
+　魔法みたいに思ってないか？
+> CONTEXT: Map071/events/2/pages/3/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「魔法みたいに思ってないか？」
+> CONTEXT: Map071/events/2/pages/3/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「その通り。
+　魔法なのさ。
+> CONTEXT: Map071/events/2/pages/3/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「魔法なんだよ。
+> CONTEXT: Map071/events/2/pages/3/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「心を動かす言葉ってのは魔法と同じさ。
+　魔力がこもるんだ。
+> CONTEXT: Map071/events/2/pages/3/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふ～ん、さすが詩人ね。
+　ステキなこと言うじゃない。
+> CONTEXT: Map071/events/2/pages/3/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ね、ちょっと私のことも
+　口説いてみてよ\\e[0]
+> CONTEXT: Map071/events/2/pages/3/109/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……召喚魔法かい？
+　珍しいな。
+> CONTEXT: Map071/events/2/pages/3/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でも悪いなお嬢ちゃん、
+　子供には手を出さない主義なんだ。
+> CONTEXT: Map071/events/2/pages/3/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「なっ………子ど……………
+> CONTEXT: Map071/events/2/pages/3/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「確かにちょっと小さめかも知れないけど……
+　好きでこのカラダになったわけじゃ……
+> CONTEXT: Map071/events/2/pages/3/118/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………知らないッ！
+> CONTEXT: Map071/events/2/pages/3/120/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おや、怒らせてしまったかな。
+> CONTEXT: Map071/events/2/pages/3/159/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そうだな、君には恩もあるし、
+　今の詫びも兼ねて
+　ぜひ引き受けたいところだが……
+> CONTEXT: Map071/events/2/pages/3/160/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「だが……
+　もう女性を口説く気にはなれないんだ。
+> CONTEXT: Map071/events/2/pages/3/164/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「こんな俺でも、決まった恋人はいる。
+> CONTEXT: Map071/events/2/pages/3/166/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「フレデリカが………その恋人が…、
+> CONTEXT: Map071/events/2/pages/3/167/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……どうせ言っても信じないだろうが……
+> CONTEXT: Map071/events/2/pages/3/168/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……人魚になってしまったんだ。
+> CONTEXT: Map071/events/2/pages/3/169/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……あれは、この町の近くにある
+　『人魚のすみか』と呼ばれている場所を
+　二人で歩いていた時だ。
+> CONTEXT: Map071/events/2/pages/3/173/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どこからか今まで聞いたこともないような
+　美しい歌声が聞こえてきて……
+　気が遠くなって………
+> CONTEXT: Map071/events/2/pages/3/176/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……気がついた時、目の前にあったのは
+　人ならぬ姿で人魚たちと交わっている
+　フレデリカの姿だった。
+> CONTEXT: Map071/events/2/pages/3/179/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そして、次に俺を襲おうとしてきた
+　人魚たちから必死に逃げてきたのさ……
+　……フレデリカをおいて………
+> CONTEXT: Map071/events/2/pages/3/185/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「後でもう一度『人魚のすみか』へ行ったが、
+　フレデリカは完全に
+　人魚の仲間になっていた。
+> CONTEXT: Map071/events/2/pages/3/188/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もう\\dこっち\\dへ戻ってくることは
+　ないのだろう……
+> CONTEXT: Map071/events/2/pages/3/191/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……俺はずいぶん
+　フレデリカをないがしろにしてきたからな。
+　その罰なのかも知れない。
+> CONTEXT: Map071/events/2/pages/3/193/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もう何もする気になれないんだ。
+　ましてや他の女を口説くなんて……
+> CONTEXT: Map071/events/2/pages/3/196/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………今更だけどな。
+> CONTEXT: Map071/events/2/pages/3/198/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ここにいるのは恋人も歌も、
+　言葉も失った間抜けな男さ。
+> CONTEXT: Map071/events/2/pages/3/201/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「悪いが君たちの助けにはなれない。
+> CONTEXT: Map071/events/2/pages/3/203/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「分かったらもう少し……
+　………一人にしておいてくれ。
+> CONTEXT: Map071/events/2/pages/3/205/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「こちらにお泊りのローズニル様ですか？
+　先程ふらりと出て行かれましたが……
+> CONTEXT: Map071/events/5/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「行き先までは存じ上げませんわ。
+> CONTEXT: Map071/events/5/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「本当にありがとう………
+　……君のおかげだ。
+> CONTEXT: Map071/events/6/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「医者の話では、体力を消耗しているだけで
+　じきに目を覚ますらしい。
+> CONTEXT: Map071/events/6/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「目が覚めたら……
+　もう一度話し合ってみることにするよ。
+> CONTEXT: Map071/events/6/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あんたの痴話話なんて
+　どうでもいいんだけどさっ！
+> CONTEXT: Map071/events/6/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「これで貸しができたんだから、
+　こっちの頼みも聞いてもらえる？
+> CONTEXT: Map071/events/6/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああ、そうだったな。
+　俺の魔法の口説き文句を
+　借りたいって話だったかな？
+> CONTEXT: Map071/events/6/pages/0/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そうだけど……なんかムカつくわね。
+> CONTEXT: Map071/events/6/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「だけど、君にはもう俺の言葉なんて
+　必要ないんじゃないかな？
+> CONTEXT: Map071/events/6/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「前に、心を動かす言葉は
+　魔法と同じだと言ったね。
+> CONTEXT: Map071/events/6/pages/0/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あれはウソだ。
+　言葉に魔力なんて無い。
+> CONTEXT: Map071/events/6/pages/0/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「俺とフレデリカのやり取りを
+　君も聞いていただろ？
+　言葉は時として何の役にも立たない。
+> CONTEXT: Map071/events/6/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あの時、俺の気持ちを伝えたのは
+　言葉じゃなく、二人で奏でた曲だった。
+> CONTEXT: Map071/events/6/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……何よそれ…………
+　\\n[1]に今から楽器の練習でも
+　させろって言うの？
+> CONTEXT: Map071/events/6/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふっ、そうじゃない。
+> CONTEXT: Map071/events/6/pages/0/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「言葉も音楽も、
+　心を伝えるための手段に過ぎない。
+> CONTEXT: Map071/events/6/pages/0/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それは魔法なんかじゃない。
+　魔力や…心が、愛が、それに\\dこもっている\\d
+　なんて、俺は信じていない。
+> CONTEXT: Map071/events/6/pages/0/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「大切なのは君自身の心だ。
+　それを伝えようとする意志だ。
+> CONTEXT: Map071/events/6/pages/0/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「君にできることをすればいいんだ。
+> CONTEXT: Map071/events/6/pages/0/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…………………
+　……なんだかよくわかんないけど。
+> CONTEXT: Map071/events/6/pages/0/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「自分で口説けって言ってるのかしら？
+> CONTEXT: Map071/events/6/pages/0/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「君ならできるはずだ。
+　俺になり代わり、フレデリカを
+　悦ばせることのできた君ならね。
+> CONTEXT: Map071/events/6/pages/0/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…………ま、いいわ。
+> CONTEXT: Map071/events/6/pages/0/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……\\n[1]の口説き文句ってのも
+　聞いてみたいしね\\e[0]
+> CONTEXT: Map071/events/6/pages/0/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]は\\c[1]甘い言葉\\c[0]を覚えた！
+> CONTEXT: Map071/events/6/pages/0/109/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「う………ん……………
+> CONTEXT: Map071/events/7/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+気を失ってるだけのようだ
+> CONTEXT: Map071/events/7/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「言葉をうまく使えば、
+　今までとは違った世界が見えてくる。
+> CONTEXT: Map071/events/8/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「今までできなかったことも、
+　できるようになってるかも知れないね。
+> CONTEXT: Map071/events/8/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING

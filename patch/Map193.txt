@@ -1,0 +1,381 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「ぁ……あンっ………
+　ああんっ………！\\a[80]
+> CONTEXT: Map193/events/17/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「や……いや……
+　あぁあんっ………！\\a[80]
+> CONTEXT: Map193/events/17/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………くぅっ！\\a[80]
+> CONTEXT: Map193/events/17/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あらあら、さっきまでの威勢は
+　どうしちゃったのかしら？
+> CONTEXT: Map193/events/17/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「切り裂け！
+　グラ……\\a[40]
+> CONTEXT: Map193/events/17/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ぐ……っ！
+> CONTEXT: Map193/events/17/pages/0/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やぁン、
+　そんなに激しく動かないでぇ\\e[0]
+> CONTEXT: Map193/events/17/pages/0/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふ………。
+　さ、ステラ、
+　\\r[犯,ヤ]っちゃいなさい。
+> CONTEXT: Map193/events/17/pages/0/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あれぇ？
+　お姉ちゃんも一緒にヤるんじゃ
+　ないのぉ？
+> CONTEXT: Map193/events/17/pages/0/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そうね。
+　アタシは……
+> CONTEXT: Map193/events/17/pages/0/87/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「この子から先に
+　食べることにするわ\\e[0]
+> CONTEXT: Map193/events/17/pages/0/150/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……\\n[1]ッ！
+> CONTEXT: Map193/events/17/pages/0/157/Dialogue < UNTRANSLATED
+> CONTEXT: Map119/events/8/pages/0/136/Dialogue < UNTRANSLATED
+> CONTEXT: Map115/events/8/pages/0/138/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あれ！\\c[4]魔王のかけら\\c[0]！
+> CONTEXT: Map193/events/17/pages/0/197/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そしてあなたがいるって事は……
+> CONTEXT: Map193/events/17/pages/0/217/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「揃うわ！
+　ここで全部の\\dかけら\\dが！
+> CONTEXT: Map193/events/17/pages/0/225/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「バカね。
+　それをさせないために
+　アタシたちがいるんじゃない？
+> CONTEXT: Map193/events/17/pages/0/230/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\r[グスタフス,オ　　モ　　チャ]が壊されちゃったのは
+　予定外だったけど……
+> CONTEXT: Map193/events/17/pages/0/233/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いいわ。
+　新しい\\r[男,オモチャ]が\\d３つ\\dも
+　手に入るし。
+> CONTEXT: Map193/events/17/pages/0/235/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]ッ！！\\a[20]
+> CONTEXT: Map193/events/17/pages/0/254/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くっ……
+　オリビアはどこだッ！？
+> CONTEXT: Map193/events/17/pages/0/267/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もうとっくに夜の国にいるわ。
+　あなたたちの手の届かないところよ。
+> CONTEXT: Map193/events/17/pages/0/270/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でも心配しないで……。
+　もうそんなこと、
+　気にすることもなくなるんだから。
+> CONTEXT: Map193/events/17/pages/0/274/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ここでみんな終わるのよ。
+　そして始まるの。
+> CONTEXT: Map193/events/17/pages/0/277/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いよいよね。
+　誘ってあげる……
+> CONTEXT: Map193/events/17/pages/0/279/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……いらっしゃい、夢の世界へ。
+> CONTEXT: Map193/events/17/pages/0/281/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……あァンッ………\\e[0]
+> CONTEXT: Map193/events/17/pages/0/305/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………イイわあ……
+　気持ちイイ………
+> CONTEXT: Map193/events/17/pages/0/306/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……それじゃ、二回戦
+　イきましょうか\\e[0]
+> CONTEXT: Map193/events/17/pages/0/308/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そんな………
+　なんともないの！？
+> CONTEXT: Map193/events/17/pages/0/311/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふ………。
+　足りないわよ。その程度じゃ。
+> CONTEXT: Map193/events/17/pages/0/314/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ここはもうほとんど夜の国。
+> CONTEXT: Map193/events/17/pages/0/316/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「バラバラの\\dかけら\\dなんかの力じゃ、
+　もう届かないわよ。
+> CONTEXT: Map193/events/17/pages/0/317/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………ならば……………
+> CONTEXT: Map193/events/17/pages/0/321/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「これなら………
+　…どうだ………？
+> CONTEXT: Map193/events/17/pages/0/322/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「　"……『杯』よ……闇を満たせ……
+　　 深く…、夜の闇よりも深く………！"
+> CONTEXT: Map193/events/17/pages/0/358/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ステラたち……
+　イかされちゃったのね。
+> CONTEXT: Map193/events/17/pages/0/428/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「え……
+　何………？
+> CONTEXT: Map193/events/17/pages/0/433/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「賢王………
+　何をッ！？
+> CONTEXT: Map193/events/17/pages/0/436/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…やはり何も知らずに
+　\\dかけら\\dを集めていたか。
+> CONTEXT: Map193/events/17/pages/0/439/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……\\d魔王そのもののことだ\\dッ！！
+> CONTEXT: Map193/events/17/pages/0/455/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そしてこの\\c[4]ガルドル\\c[0]こそは、
+　魔王の復活を執り行うための『杯』。
+> CONTEXT: Map193/events/17/pages/0/457/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「全ての\\dかけら\\dがひとところに集いし今、
+　この\\c[4]ガルドル\\c[0]の力で……！
+> CONTEXT: Map193/events/17/pages/0/464/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「勇者君を
+　魔王にしようっていうのかしら？
+> CONTEXT: Map193/events/17/pages/0/470/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「面白いアイデアね。
+　\\r[好きな人,オ　リ　ビ　ア]を取られちゃった彼なら、
+　すぐに\\r[夢魔,アタシたち]を消そうとするでしょうし
+> CONTEXT: Map193/events/17/pages/0/472/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「その後暴れだす前に殺しちゃえば、
+　しばらく夢魔も魔王もいない
+　平和な世界がくるってところかしら。
+> CONTEXT: Map193/events/17/pages/0/475/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「バカな！
+　そんなことさせるかッ！！
+> CONTEXT: Map193/events/17/pages/0/484/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…………………
+　……………………
+> CONTEXT: Map193/events/17/pages/0/487/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……………そうよ。
+　させないわ。
+> CONTEXT: Map193/events/17/pages/0/489/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]は、\\n[1]のままで
+　夢魔に勝つのよ！
+> CONTEXT: Map193/events/17/pages/0/491/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]を\\n[1]じゃなくなんて、
+　させないわっ！！
+> CONTEXT: Map193/events/17/pages/0/493/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「　"………深淵に……
+　　 …名を轟かせよ……………"
+> CONTEXT: Map193/events/17/pages/0/503/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……無理よ。
+　今ならまだ、
+　夜の国の力の方が強いわ。
+> CONTEXT: Map193/events/17/pages/0/506/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「　"\\d我が名は\\d！！"
+> CONTEXT: Map193/events/17/pages/0/510/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「させない！
+> CONTEXT: Map193/events/17/pages/0/515/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「　"\\d魔王\\dッ！！"
+> CONTEXT: Map193/events/17/pages/0/520/Dialogue < UNTRANSLATED
+
+> END STRING

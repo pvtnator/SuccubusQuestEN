@@ -1,0 +1,78 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+"研究者"
+> CONTEXT: Map256/events/1/pages/0/1/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map256/events/1/pages/0/9/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map256/events/1/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そこの箱に\\c[4]丸皿\\c[0]がありますが、
+　勝手に持っていかないで下さいね。
+> CONTEXT: Map256/events/1/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「大事な研究対象なのです。
+> CONTEXT: Map256/events/1/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何かご用ですか？
+　私はシーザーサラダの研究で
+　忙しいのです。
+> CONTEXT: Map256/events/1/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map256/events/1/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「しかし夜の国は、
+　積み重ねられていくお皿のように
+　どんどん広がっています。
+> CONTEXT: Map256/events/1/pages/0/13/Dialogue < UNTRANSLATED
+> CONTEXT: Map256/events/1/pages/1/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「こうしている今も、
+　別な世界の一部が新たな夜の国として
+　積み重ねられているのです。
+> CONTEXT: Map256/events/1/pages/0/16/Dialogue < UNTRANSLATED
+> CONTEXT: Map256/events/1/pages/1/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それはあなたの世界かもしれませんね。
+> CONTEXT: Map256/events/1/pages/0/19/Dialogue < UNTRANSLATED
+> CONTEXT: Map256/events/1/pages/1/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「さあ、もう行ってください。
+　私はピッツァ・マルゲリータの研究で
+　忙しいのです。
+> CONTEXT: Map256/events/1/pages/0/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map256/events/1/pages/1/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[4]丸皿\\c[0]を手に入れた！
+> CONTEXT: Map256/events/5/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+箱は空っぽだった……
+> CONTEXT: Map256/events/5/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map043/events/8/pages/1/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map043/events/9/pages/1/0/Dialogue < UNTRANSLATED
+
+> END STRING

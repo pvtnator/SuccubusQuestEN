@@ -1,0 +1,14 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「ここは宝物庫。
+　勝手に入ってはなりません。
+> CONTEXT: Map215/events/9/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+安らかな顔で
+眠っている……
+> CONTEXT: Map215/events/10/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING

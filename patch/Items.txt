@@ -1,0 +1,2212 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+〔インセンス〕　EP回復(小)
+> CONTEXT: Items/1/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+105-Heal01
+> CONTEXT: Items/1/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/2/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/3/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/4/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/31/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/32/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/246/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/247/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/248/menu_se/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サイプレスウッド
+> CONTEXT: Items/2/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔インセンス〕　EP回復(中)
+> CONTEXT: Items/2/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔インセンス〕　EP回復 / ムードアップ
+> CONTEXT: Items/3/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔インセンス〕　EP回復(大)
+> CONTEXT: Items/4/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔インセンス〕　テンションアップ(小)
+> CONTEXT: Items/5/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+108-Heal04
+> CONTEXT: Items/5/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/6/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/33/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/34/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/40/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/41/menu_se/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+メリッサ
+> CONTEXT: Items/6/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔インセンス〕　テンションアップ(中)
+> CONTEXT: Items/6/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔インセンス〕　テンションアップ / ムードアップ
+> CONTEXT: Items/7/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔インセンス〕　テンションアップ(大)
+> CONTEXT: Items/8/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔インセンス〕　ムードアップ(小)
+> CONTEXT: Items/9/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔インセンス〕　ムードアップ(中)
+> CONTEXT: Items/10/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔インセンス〕　ムードアップ(大)
+> CONTEXT: Items/11/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔インセンス〕　EP回復 / テンション低下
+> CONTEXT: Items/12/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔インセンス〕　EP回復 / 恍惚無効 / テンション低下
+> CONTEXT: Items/13/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔インセンス〕　EP回復 / テンションアップ / ムードアップ
+> CONTEXT: Items/14/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ゼラニウム
+> CONTEXT: Items/15/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔エッセンス〕　パニック回復
+> CONTEXT: Items/15/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+113-Remedy01
+> CONTEXT: Items/15/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/16/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/17/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/203/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/204/menu_se/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カモミール
+> CONTEXT: Items/16/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔エッセンス〕　センシブ回復 / ナーバス回復
+> CONTEXT: Items/16/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ディル
+> CONTEXT: Items/17/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔エッセンス〕　クラムジ回復 / ミニマム回復 / ヴィジョン回復
+> CONTEXT: Items/17/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■■ティー■■
+> CONTEXT: Items/20/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミントティー
+> CONTEXT: Items/21/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ティー〕　EP回復
+> CONTEXT: Items/21/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ローズティー
+> CONTEXT: Items/22/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ティー〕　EP回復 / テンションアップ
+> CONTEXT: Items/22/description/ < UNTRANSLATED
+> CONTEXT: Items/23/description/ < UNTRANSLATED
+> CONTEXT: Items/24/description/ < UNTRANSLATED
+> CONTEXT: Items/25/description/ < UNTRANSLATED
+> CONTEXT: Items/26/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+107-Heal03
+> CONTEXT: Items/22/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/27/menu_se/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アールグレイ
+> CONTEXT: Items/23/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リスヴェグティー
+> CONTEXT: Items/24/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+チャーイ
+> CONTEXT: Items/25/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エーランドブレンド
+> CONTEXT: Items/26/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ロイヤルグルッペン
+> CONTEXT: Items/27/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ティー〕　EP回復 / テンションアップ (Max)
+> CONTEXT: Items/27/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マジックハーブティー
+> CONTEXT: Items/29/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ティー〕 ルヴィッサのMP回復
+> CONTEXT: Items/29/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+109-Heal05
+> CONTEXT: Items/29/menu_se/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■■ドラッグ■■
+> CONTEXT: Items/30/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+鎮静剤
+> CONTEXT: Items/31/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ドラッグ〕 EP回復 / 副作用もあるかも…？
+> CONTEXT: Items/31/description/ < UNTRANSLATED
+> CONTEXT: Items/32/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+強化鎮静剤
+> CONTEXT: Items/32/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+興奮剤
+> CONTEXT: Items/33/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ドラッグ〕 テンションアップ / 副作用もあるかも…？
+> CONTEXT: Items/33/description/ < UNTRANSLATED
+> CONTEXT: Items/34/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+強化興奮剤
+> CONTEXT: Items/34/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シンセミア
+> CONTEXT: Items/36/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ドラッグ〕 効果：EP回復 / テンションアップ / 副作用もあるかも…？
+> CONTEXT: Items/36/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+112-Heal08
+> CONTEXT: Items/36/menu_se/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+歪んだ時計
+> CONTEXT: Items/38/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+全員のEP・TP・ムードを元に戻す
+> CONTEXT: Items/38/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■■ムーンドロップス■■
+> CONTEXT: Items/39/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ムーンドロップス
+> CONTEXT: Items/40/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夢魔の好む不思議なキャンディ
+> CONTEXT: Items/40/description/ < UNTRANSLATED
+> CONTEXT: Items/41/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナイトドロップス
+> CONTEXT: Items/41/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+チャミングブーケ
+> CONTEXT: Items/43/name/ < UNTRANSLATED
+> CONTEXT: Skills/534/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ツール〕 相手一人を恍惚状態にする花束
+> CONTEXT: Items/43/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミスリルアイアン
+> CONTEXT: Items/44/name/ < UNTRANSLATED
+> CONTEXT: Skills/532/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ツール〕 相手一人をバインド状態にする枷
+> CONTEXT: Items/44/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夢魔の触手
+> CONTEXT: Items/45/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ツール〕 相手一人に一定ターンの間快感を与え続ける触手
+> CONTEXT: Items/45/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エーテルローション
+> CONTEXT: Items/46/name/ < UNTRANSLATED
+> CONTEXT: Skills/533/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ツール〕 相手一人をセンシブ状態にする媚薬
+> CONTEXT: Items/46/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+人魚の竪琴
+> CONTEXT: Items/48/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+美しい音色を奏でる竪琴
+> CONTEXT: Items/48/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ムーディーメディウム
+> CONTEXT: Items/49/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔導人形用の特殊触媒　興奮作用がある
+> CONTEXT: Items/49/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■■食事■■
+> CONTEXT: Items/50/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔食事〕 フォルミダーグ全土で食されるルイス麦で作った黒パン
+> CONTEXT: Items/51/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+SQ_Food
+> CONTEXT: Items/51/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/52/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/53/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/54/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/61/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/62/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/63/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/64/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/65/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/71/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/72/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/73/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/74/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/75/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/76/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/80/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/81/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/82/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/83/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/84/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/85/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/86/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/96/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/100/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/101/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/102/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/103/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/104/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/105/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/106/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/107/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/108/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/115/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/117/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/118/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/119/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/120/menu_se/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔食事〕 チーズとたっぷりの玉ネギを乗せたシプリ名物オープンサンド
+> CONTEXT: Items/52/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+レンバスブレッド
+> CONTEXT: Items/53/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔食事〕 リスヴェグで食されるレンバス粉でつくった白パン
+> CONTEXT: Items/53/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔食事〕 寒い地方で育つルイス麦とドゥム草の葉で作ったリゾット
+> CONTEXT: Items/54/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔食事〕 緑の野菜を鮮やかに盛り付けたヘルシーなサラダ
+> CONTEXT: Items/61/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔食事〕 森で採れるナッツをふんだんに使ったサラダ
+> CONTEXT: Items/62/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔食事〕 ルグブロードを流れる川で採れる新鮮なザリガニを使ったサラダ
+> CONTEXT: Items/63/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+蝶のホロス風
+> CONTEXT: Items/64/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔食事〕 美しい羽根の蝶をその形を保ったまま魔法でローストした料理
+> CONTEXT: Items/64/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔食事〕 数種のミントとリスヴェグパセリのサラダ
+> CONTEXT: Items/65/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ニシンの塩漬け
+> CONTEXT: Items/71/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔食事〕 塩辛く漬けた小ぶりのニシン
+> CONTEXT: Items/71/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+イワシのマリネ
+> CONTEXT: Items/72/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔食事〕 新鮮なイワシをブドウ酢とミョッズ酒に短時間漬けた料理
+> CONTEXT: Items/72/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スモークサーモン
+> CONTEXT: Items/73/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔食事〕 サケの切り身を樹木のチップで燻製にした料理
+> CONTEXT: Items/73/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔食事〕 直火で焼いたサンマに岩塩をふり、シトラスの果汁をかけた料理
+> CONTEXT: Items/74/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔食事〕 サバを発酵させた大豆と共にトロトロに煮込んだ料理
+> CONTEXT: Items/75/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔食事〕 新鮮なイカを丸のまま網焼きにした料理
+> CONTEXT: Items/76/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔食事〕 保存・携帯に便利な羊の干し肉
+> CONTEXT: Items/80/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+仔鳩のグリル
+> CONTEXT: Items/81/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔食事〕 柔らかい仔鳩を直火でグリルした料理
+> CONTEXT: Items/81/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔食事〕 山羊の肉をさまざまなハーブと共に焼いたステーキ
+> CONTEXT: Items/82/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔食事〕 野ウサギを香ばしくソテーしたグルッペン名物料理
+> CONTEXT: Items/83/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔食事〕 ルグブロードに生息するトカゲを丸のまま焼いた料理
+> CONTEXT: Items/84/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔食事〕 雪ウサギの肉をとろとろになるまで煮込んだシチュー
+> CONTEXT: Items/85/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔食事〕 衣をつけて揚げた豚肉と香辛料のたっぷり入ったスープの料理
+> CONTEXT: Items/86/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エルドチーズ
+> CONTEXT: Items/96/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔食事〕 少しクセのある羊乳で作ったチーズ
+> CONTEXT: Items/96/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ベイクドアップル
+> CONTEXT: Items/100/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔食事〕 シナモンとミレットシュガーを詰めたリンゴをオーブンで焼いた料理
+> CONTEXT: Items/100/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハニービスケット
+> CONTEXT: Items/101/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔食事〕 蜂蜜を塗って硬めに焼いた焼き菓子
+> CONTEXT: Items/101/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+木いちごのケーキ
+> CONTEXT: Items/102/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔食事〕 木いちごのジャムをふんだんに使ったスポンジケーキ
+> CONTEXT: Items/102/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+チュロス
+> CONTEXT: Items/103/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔食事〕 グルッペンで人気の棒状の焼き菓子
+> CONTEXT: Items/103/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+人魚の口づけ
+> CONTEXT: Items/104/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔食事〕 フリーベリで売られているゼリー状のお菓子
+> CONTEXT: Items/104/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+プッラ
+> CONTEXT: Items/105/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔食事〕 リスヴェグで人気の球状の焼き菓子
+> CONTEXT: Items/105/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ディバインプディング
+> CONTEXT: Items/106/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔食事〕 苦めのカラメルで仕上げた高級プリン
+> CONTEXT: Items/106/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+グルッペンゴールド
+> CONTEXT: Items/107/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔食事〕 今では使われていないグルッペン金貨を模した小さなパンケーキ
+> CONTEXT: Items/107/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シュー・ア・ラ・クレーム
+> CONTEXT: Items/108/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔食事〕 中が空洞になるよう焼いた生地にクリームを詰めた焼き菓子
+> CONTEXT: Items/108/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マムシのカルパッチョ
+> CONTEXT: Items/115/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔食事〕 新鮮なマムシの生肉を薄切りにしマヨネーズソースをかけた料理
+> CONTEXT: Items/115/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スコピオロースト
+> CONTEXT: Items/117/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔食事〕 生きたサソリを石釜でパリッと歯ごたえ良く焼いた料理
+> CONTEXT: Items/117/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アマガエルのポワレ
+> CONTEXT: Items/118/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔食事〕 鍋に活きの良い雨蛙とバターを入れ蒸し焼きにした料理
+> CONTEXT: Items/118/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+海蛇のエスカベッシュ
+> CONTEXT: Items/119/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔食事〕 巨大な海蛇の切り身を衣をつけて揚げ、酢漬けにした料理
+> CONTEXT: Items/119/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+コウモリのディアボラ
+> CONTEXT: Items/120/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔食事〕 コウモリの羽根をたっぷりの香辛料と共に焼いた料理
+> CONTEXT: Items/120/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴィドヴィンウォータ
+> CONTEXT: Items/141/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ドリンク〕 ヴィドヴィン山脈に湧く天然水
+> CONTEXT: Items/141/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+SQ_Drink
+> CONTEXT: Items/141/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/142/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/143/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/144/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/145/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/146/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/147/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/148/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/149/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/155/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/156/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/157/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/158/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/159/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/160/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/161/menu_se/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+クヴァラットミルク
+> CONTEXT: Items/142/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ドリンク〕 甘くて飲みやすい羊のミルク
+> CONTEXT: Items/142/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミョッズ
+> CONTEXT: Items/143/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ドリンク〕 蜂蜜を発酵させて作った蜜酒
+> CONTEXT: Items/143/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ベルモットミョッズ
+> CONTEXT: Items/144/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ドリンク〕 ハーブとシトラスで風味をつけた蜜酒
+> CONTEXT: Items/144/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ファドゥルサワー
+> CONTEXT: Items/145/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ドリンク〕 ファドゥル麦を発酵させて作った麦酒
+> CONTEXT: Items/145/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リスヴェグワイン
+> CONTEXT: Items/146/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ドリンク〕 魔法により短期間で作られるリスヴェグ産の葡萄酒
+> CONTEXT: Items/146/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マタタビワイン
+> CONTEXT: Items/147/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ドリンク〕 マタタビの実から作った果実酒
+> CONTEXT: Items/147/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ライスワイン
+> CONTEXT: Items/148/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ドリンク〕 フリーベリ地方で飲まれるコメから作った醸造酒
+> CONTEXT: Items/148/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エスプレッソ
+> CONTEXT: Items/149/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ドリンク〕 遠く異国の地で飲まれている謎の黒い飲み物
+> CONTEXT: Items/149/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シプリズホワイト
+> CONTEXT: Items/155/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ドリンク〕 透き通るような味のシプリ特産葡萄酒
+> CONTEXT: Items/155/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+レッドグルッペン
+> CONTEXT: Items/156/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ドリンク〕 力強い味のグルッペン特産葡萄酒
+> CONTEXT: Items/156/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ブルーフリーベリ
+> CONTEXT: Items/157/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ドリンク〕 青いボトルが美しいフリーベリ特産醸造酒
+> CONTEXT: Items/157/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ポッパナアンバー
+> CONTEXT: Items/158/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ドリンク〕 琥珀色に輝くポッパナ特産蒸留酒
+> CONTEXT: Items/158/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴィリジアンホロス
+> CONTEXT: Items/159/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ドリンク〕 魔法のハーブを漬け込んだホロス特産蒸留酒
+> CONTEXT: Items/159/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ブラウンレンシェット
+> CONTEXT: Items/160/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ドリンク〕 ワイルドな味わいのレンシェット特産蒸留酒
+> CONTEXT: Items/160/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スノウオブヴァーサ
+> CONTEXT: Items/161/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ドリンク〕 淡い味わいのヴァーサ特産葡萄酒
+> CONTEXT: Items/161/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■■その他■■
+> CONTEXT: Items/198/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夜の絵本
+> CONTEXT: Items/199/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+出会った夢魔の姿かたちがひとりでに描かれる絵本
+> CONTEXT: Items/199/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夢紡ぎの糸
+> CONTEXT: Items/200/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ドラウムニョルのほこらへワープする　　夢魔のいる場所では使えない
+> CONTEXT: Items/200/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+デイドリーマー
+> CONTEXT: Items/201/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+使うといつのまにか最後に眠った場所にいる魔法の薬
+> CONTEXT: Items/201/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まどろみの一滴
+> CONTEXT: Items/202/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+使うといつのまにかバトルから離脱している魔法の薬
+> CONTEXT: Items/202/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+グラトニーベリー
+> CONTEXT: Items/203/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+たちまちお腹がすいてくる消化作用の強い草の実
+> CONTEXT: Items/203/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シリアスシリアル
+> CONTEXT: Items/204/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+酔い覚ましの効果がある麦の実
+> CONTEXT: Items/204/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カースドアイアン
+> CONTEXT: Items/210/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ツール〕 呪われた拘束具
+> CONTEXT: Items/210/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルゥインローション
+> CONTEXT: Items/211/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ツール〕 呪われた媚薬
+> CONTEXT: Items/211/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+悪意の触手
+> CONTEXT: Items/212/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ツール〕 呪われた触手
+> CONTEXT: Items/212/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+レベルリミッター
+> CONTEXT: Items/213/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+相手に合わせて自分のレベルを制限する
+> CONTEXT: Items/213/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スペードのエース
+> CONTEXT: Items/214/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精力を上げる
+> CONTEXT: Items/214/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハートのクィーン
+> CONTEXT: Items/215/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力を上げる
+> CONTEXT: Items/215/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ダイアのキング
+> CONTEXT: Items/216/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守りを上げる
+> CONTEXT: Items/216/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+第十シグネット
+> CONTEXT: Items/218/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ドラウムニョルの地下、第十層へワープする
+> CONTEXT: Items/218/description/ < UNTRANSLATED
+> CONTEXT: Items/221/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+第二十五シグネット
+> CONTEXT: Items/219/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ドラウムニョルの地下、第二十五層へワープする
+> CONTEXT: Items/219/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+第四十シグネット
+> CONTEXT: Items/220/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ドラウムニョルの地下、第四十層へワープする
+> CONTEXT: Items/220/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+第五十五シグネット
+> CONTEXT: Items/221/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+銀のティーカップ
+> CONTEXT: Items/243/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ティーの効果アップ
+> CONTEXT: Items/243/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+水晶の盃
+> CONTEXT: Items/244/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お酒の効果アップ / 悪酔いしなくなる
+> CONTEXT: Items/244/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヒールポーション
+> CONTEXT: Items/246/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+HP回復
+> CONTEXT: Items/246/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マジックポーション
+> CONTEXT: Items/247/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+MP回復
+> CONTEXT: Items/247/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フルリカバラー
+> CONTEXT: Items/248/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+HP・MP全回復 / 全状態異常解除
+> CONTEXT: Items/248/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■キーアイテム■
+> CONTEXT: Items/250/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔王のかけら
+> CONTEXT: Items/251/name/
+Demon King's Shard
+> END STRING
+
+> BEGIN STRING
+砕け散ったギルデンスターンの一部　強い魔力を感じる…
+> CONTEXT: Items/251/description/
+A shard of shattered Guildenstern. Has strong magical power...
+> END STRING
+
+> BEGIN STRING
+エッチなピンナップ
+> CONTEXT: Items/252/name/
+Naughty Pinup
+> END STRING
+
+> BEGIN STRING
+リスヴェグの応用魔術で印画されたセクシーなエルフの肖像
+> CONTEXT: Items/252/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エッチな本
+> CONTEXT: Items/253/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+グルッペンのモグリの画家が描いた女性の裸の画集
+> CONTEXT: Items/253/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+オモチャの剣
+> CONTEXT: Items/254/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+軽い木でできたオモチャの剣
+> CONTEXT: Items/254/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミランダ紹介状
+> CONTEXT: Items/255/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+愛の宿・ミランダに入るために必要な紹介状
+> CONTEXT: Items/255/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+乗船券
+> CONTEXT: Items/256/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フリーベリ～ポッパナ間の乗船券
+> CONTEXT: Items/256/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+デフィーラの花
+> CONTEXT: Items/257/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+セーデル砂漠の奥地に咲く魔力を秘めた花
+> CONTEXT: Items/257/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔導院のカギ
+> CONTEXT: Items/258/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔導院の地下へ降りるためのカギ
+> CONTEXT: Items/258/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+グルッペン章
+> CONTEXT: Items/259/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+グルッペンの紋章が刻印された重厚な金属板
+> CONTEXT: Items/259/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トネリコのたいまつ
+> CONTEXT: Items/260/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トネリコの木でつくられたたいまつ
+> CONTEXT: Items/260/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ビトルの火種
+> CONTEXT: Items/261/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+生ける炎ビトルの宿ったたいまつ
+> CONTEXT: Items/261/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ビトルの炎
+> CONTEXT: Items/262/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+激しい魔力を宿した生ける炎
+> CONTEXT: Items/262/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+丸皿
+> CONTEXT: Items/263/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夜の国で手に入れた何の変哲もない丸皿
+> CONTEXT: Items/263/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+迷子の子供
+> CONTEXT: Items/264/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夜の国で迷子になっていた子供
+> CONTEXT: Items/264/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+姫百合の花
+> CONTEXT: Items/265/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夜の国で摘んだ、可憐な姫百合の花
+> CONTEXT: Items/265/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハグロフスの紹介状
+> CONTEXT: Items/266/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+迷路の魔女、ベルナドット宛に書かれた紹介状
+> CONTEXT: Items/266/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ドゥヂチシグネット
+> CONTEXT: Items/267/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ドゥヂチの塔の警備に当たる兵士に配布される印章
+> CONTEXT: Items/267/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+虫取り網
+> CONTEXT: Items/268/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+昆虫を捕まえるためにデザインされた網
+> CONTEXT: Items/268/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミランダ割引券
+> CONTEXT: Items/269/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+愛の宿・ミランダに半額でお泊りできる特別割引券
+> CONTEXT: Items/269/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+砕け散ったギルデンスターンの一部　「使い魔」のかけら
+> CONTEXT: Items/270/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+砕け散ったギルデンスターンの一部　「槍」のかけら
+> CONTEXT: Items/271/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+グラム
+> CONTEXT: Items/272/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+砕け散ったギルデンスターンの一部　「剣」のかけら
+> CONTEXT: Items/272/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+砕け散ったギルデンスターンの一部　「杖」のかけら
+> CONTEXT: Items/273/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ガルドル
+> CONTEXT: Items/274/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+砕け散ったギルデンスターンの一部　「杯」のかけら
+> CONTEXT: Items/274/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+手紙
+> CONTEXT: Items/275/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+誰かからの手紙　「真夜中の教会で待ってます」と書かれている
+> CONTEXT: Items/275/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フォルスヴィジョン
+> CONTEXT: Items/280/name/ < UNTRANSLATED
+> CONTEXT: Items/281/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔王のかけらの中に浮かびあがる虚のヴィジョン
+> CONTEXT: Items/280/description/ < UNTRANSLATED
+> CONTEXT: Items/281/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トゥルーヴィジョン
+> CONTEXT: Items/282/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔王のかけらの中に浮かびあがる真のヴィジョン
+> CONTEXT: Items/282/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴィジャラスヴィジョン
+> CONTEXT: Items/283/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔王のかけらの中に浮かびあがるヴィジョン
+> CONTEXT: Items/283/description/ < UNTRANSLATED
+> CONTEXT: Items/284/description/ < UNTRANSLATED
+> CONTEXT: Items/285/description/ < UNTRANSLATED
+> CONTEXT: Items/286/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ファシネイティヴヴィジョン
+> CONTEXT: Items/284/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ノーブルヴィジョン
+> CONTEXT: Items/285/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ジェントルヴィジョン
+> CONTEXT: Items/286/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+幻想の指輪
+> CONTEXT: Items/298/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+目に見えなく手でも触れられないが、存在だけはそこにある奇妙な指輪
+> CONTEXT: Items/298/description/ < UNTRANSLATED
+> CONTEXT: Items/299/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+虚構の指輪
+> CONTEXT: Items/299/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■エネミー対応スペシャルアイテム
+> CONTEXT: Items/300/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+----
+> CONTEXT: Items/301/name/ < UNTRANSLATED
+> CONTEXT: Items/302/name/ < UNTRANSLATED
+> CONTEXT: Items/303/name/ < UNTRANSLATED
+> CONTEXT: Items/304/name/ < UNTRANSLATED
+> CONTEXT: Items/305/name/ < UNTRANSLATED
+> CONTEXT: Items/306/name/ < UNTRANSLATED
+> CONTEXT: Items/307/name/ < UNTRANSLATED
+> CONTEXT: Items/308/name/ < UNTRANSLATED
+> CONTEXT: Items/313/name/ < UNTRANSLATED
+> CONTEXT: Items/314/name/ < UNTRANSLATED
+> CONTEXT: Items/318/name/ < UNTRANSLATED
+> CONTEXT: Items/319/name/ < UNTRANSLATED
+> CONTEXT: Items/320/name/ < UNTRANSLATED
+> CONTEXT: Items/323/name/ < UNTRANSLATED
+> CONTEXT: Items/324/name/ < UNTRANSLATED
+> CONTEXT: Items/325/name/ < UNTRANSLATED
+> CONTEXT: Items/326/name/ < UNTRANSLATED
+> CONTEXT: Items/330/name/ < UNTRANSLATED
+> CONTEXT: Items/331/name/ < UNTRANSLATED
+> CONTEXT: Items/337/name/ < UNTRANSLATED
+> CONTEXT: Items/338/name/ < UNTRANSLATED
+> CONTEXT: Items/344/name/ < UNTRANSLATED
+> CONTEXT: Items/345/name/ < UNTRANSLATED
+> CONTEXT: Items/349/name/ < UNTRANSLATED
+> CONTEXT: Items/350/name/ < UNTRANSLATED
+> CONTEXT: Items/355/name/ < UNTRANSLATED
+> CONTEXT: Items/356/name/ < UNTRANSLATED
+> CONTEXT: Items/360/name/ < UNTRANSLATED
+> CONTEXT: Items/361/name/ < UNTRANSLATED
+> CONTEXT: Items/365/name/ < UNTRANSLATED
+> CONTEXT: Items/366/name/ < UNTRANSLATED
+> CONTEXT: Items/373/name/ < UNTRANSLATED
+> CONTEXT: Items/374/name/ < UNTRANSLATED
+> CONTEXT: Items/379/name/ < UNTRANSLATED
+> CONTEXT: Items/380/name/ < UNTRANSLATED
+> CONTEXT: Items/385/name/ < UNTRANSLATED
+> CONTEXT: Items/386/name/ < UNTRANSLATED
+> CONTEXT: Items/387/name/ < UNTRANSLATED
+> CONTEXT: Items/388/name/ < UNTRANSLATED
+> CONTEXT: Items/389/name/ < UNTRANSLATED
+> CONTEXT: Items/390/name/ < UNTRANSLATED
+> CONTEXT: Items/391/name/ < UNTRANSLATED
+> CONTEXT: Items/392/name/ < UNTRANSLATED
+> CONTEXT: Items/393/name/ < UNTRANSLATED
+> CONTEXT: Items/394/name/ < UNTRANSLATED
+> CONTEXT: Items/395/name/ < UNTRANSLATED
+> CONTEXT: Items/396/name/ < UNTRANSLATED
+> CONTEXT: Items/397/name/ < UNTRANSLATED
+> CONTEXT: Items/398/name/ < UNTRANSLATED
+> CONTEXT: Items/399/name/ < UNTRANSLATED
+> CONTEXT: Items/400/name/ < UNTRANSLATED
+> CONTEXT: Items/401/name/ < UNTRANSLATED
+> CONTEXT: Items/402/name/ < UNTRANSLATED
+> CONTEXT: Items/403/name/ < UNTRANSLATED
+> CONTEXT: Items/404/name/ < UNTRANSLATED
+> CONTEXT: Items/405/name/ < UNTRANSLATED
+> CONTEXT: Items/406/name/ < UNTRANSLATED
+> CONTEXT: Items/407/name/ < UNTRANSLATED
+> CONTEXT: Items/408/name/ < UNTRANSLATED
+> CONTEXT: Items/410/name/ < UNTRANSLATED
+> CONTEXT: Items/411/name/ < UNTRANSLATED
+> CONTEXT: Items/412/name/ < UNTRANSLATED
+> CONTEXT: Items/413/name/ < UNTRANSLATED
+> CONTEXT: Items/414/name/ < UNTRANSLATED
+> CONTEXT: Items/415/name/ < UNTRANSLATED
+> CONTEXT: Items/416/name/ < UNTRANSLATED
+> CONTEXT: Items/417/name/ < UNTRANSLATED
+> CONTEXT: Items/418/name/ < UNTRANSLATED
+> CONTEXT: Items/419/name/ < UNTRANSLATED
+> CONTEXT: Items/420/name/ < UNTRANSLATED
+> CONTEXT: Items/421/name/ < UNTRANSLATED
+> CONTEXT: Items/422/name/ < UNTRANSLATED
+> CONTEXT: Items/423/name/ < UNTRANSLATED
+> CONTEXT: Items/424/name/ < UNTRANSLATED
+> CONTEXT: Items/425/name/ < UNTRANSLATED
+> CONTEXT: Items/426/name/ < UNTRANSLATED
+> CONTEXT: Items/427/name/ < UNTRANSLATED
+> CONTEXT: Items/428/name/ < UNTRANSLATED
+> CONTEXT: Items/429/name/ < UNTRANSLATED
+> CONTEXT: Items/430/name/ < UNTRANSLATED
+> CONTEXT: Items/431/name/ < UNTRANSLATED
+> CONTEXT: Items/432/name/ < UNTRANSLATED
+> CONTEXT: Items/433/name/ < UNTRANSLATED
+> CONTEXT: Items/434/name/ < UNTRANSLATED
+> CONTEXT: Items/435/name/ < UNTRANSLATED
+> CONTEXT: Items/436/name/ < UNTRANSLATED
+> CONTEXT: Items/437/name/ < UNTRANSLATED
+> CONTEXT: Items/438/name/ < UNTRANSLATED
+> CONTEXT: Items/439/name/ < UNTRANSLATED
+> CONTEXT: Items/440/name/ < UNTRANSLATED
+> CONTEXT: Items/441/name/ < UNTRANSLATED
+> CONTEXT: Items/442/name/ < UNTRANSLATED
+> CONTEXT: Items/443/name/ < UNTRANSLATED
+> CONTEXT: Items/444/name/ < UNTRANSLATED
+> CONTEXT: Items/445/name/ < UNTRANSLATED
+> CONTEXT: Items/446/name/ < UNTRANSLATED
+> CONTEXT: Items/447/name/ < UNTRANSLATED
+> CONTEXT: Items/448/name/ < UNTRANSLATED
+> CONTEXT: Items/449/name/ < UNTRANSLATED
+> CONTEXT: Items/452/name/ < UNTRANSLATED
+> CONTEXT: Items/453/name/ < UNTRANSLATED
+> CONTEXT: Items/456/name/ < UNTRANSLATED
+> CONTEXT: Items/457/name/ < UNTRANSLATED
+> CONTEXT: Items/458/name/ < UNTRANSLATED
+> CONTEXT: Items/461/name/ < UNTRANSLATED
+> CONTEXT: Items/462/name/ < UNTRANSLATED
+> CONTEXT: Items/465/name/ < UNTRANSLATED
+> CONTEXT: Items/466/name/ < UNTRANSLATED
+> CONTEXT: Items/470/name/ < UNTRANSLATED
+> CONTEXT: Items/471/name/ < UNTRANSLATED
+> CONTEXT: Items/475/name/ < UNTRANSLATED
+> CONTEXT: Items/476/name/ < UNTRANSLATED
+> CONTEXT: Items/477/name/ < UNTRANSLATED
+> CONTEXT: Items/478/name/ < UNTRANSLATED
+> CONTEXT: Items/479/name/ < UNTRANSLATED
+> CONTEXT: Items/480/name/ < UNTRANSLATED
+> CONTEXT: Items/481/name/ < UNTRANSLATED
+> CONTEXT: Items/482/name/ < UNTRANSLATED
+> CONTEXT: Items/483/name/ < UNTRANSLATED
+> CONTEXT: Items/484/name/ < UNTRANSLATED
+> CONTEXT: Items/485/name/ < UNTRANSLATED
+> CONTEXT: Items/486/name/ < UNTRANSLATED
+> CONTEXT: Items/487/name/ < UNTRANSLATED
+> CONTEXT: Items/488/name/ < UNTRANSLATED
+> CONTEXT: Items/489/name/ < UNTRANSLATED
+> CONTEXT: Items/490/name/ < UNTRANSLATED
+> CONTEXT: Items/491/name/ < UNTRANSLATED
+> CONTEXT: Items/492/name/ < UNTRANSLATED
+> CONTEXT: Items/493/name/ < UNTRANSLATED
+> CONTEXT: Items/494/name/ < UNTRANSLATED
+> CONTEXT: Items/495/name/ < UNTRANSLATED
+> CONTEXT: Items/496/name/ < UNTRANSLATED
+> CONTEXT: Items/497/name/ < UNTRANSLATED
+> CONTEXT: Items/498/name/ < UNTRANSLATED
+> CONTEXT: Items/499/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サキュバス*
+> CONTEXT: Items/309/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+インプ*
+> CONTEXT: Items/310/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ドライアド*
+> CONTEXT: Items/311/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ピクシー*
+> CONTEXT: Items/312/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シルフ*
+> CONTEXT: Items/315/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ネコマタ* リンクスマフス
+> CONTEXT: Items/316/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ワーウルフ*
+> CONTEXT: Items/317/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴィレッジャ* サヴァントブラウス
+> CONTEXT: Items/321/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴヴィレッジャ* サヴァントカチューシャ
+> CONTEXT: Items/322/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ラミア*
+> CONTEXT: Items/327/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハーピー*
+> CONTEXT: Items/328/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リザードマン*
+> CONTEXT: Items/329/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マーメイド* ミニマルビキニ
+> CONTEXT: Items/332/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+メロー* コーラルドレス
+> CONTEXT: Items/333/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アプサラス*
+> CONTEXT: Items/334/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウンディーネ*
+> CONTEXT: Items/335/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スキュラ*
+> CONTEXT: Items/336/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アルプ*
+> CONTEXT: Items/339/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キヨヒメ*
+> CONTEXT: Items/340/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キュウビ*
+> CONTEXT: Items/341/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+モーショボー*
+> CONTEXT: Items/342/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エンプーサ* ルナバレッタ
+> CONTEXT: Items/343/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+デルフィネ*
+> CONTEXT: Items/346/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アルケニー*
+> CONTEXT: Items/347/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スフィンクス*
+> CONTEXT: Items/348/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ケットシー* リンクスファー
+> CONTEXT: Items/351/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+セイレーン*
+> CONTEXT: Items/352/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リャナンシー* アイボリードレス
+> CONTEXT: Items/353/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヒノエンマ*
+> CONTEXT: Items/354/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウィッチ*
+> CONTEXT: Items/357/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+メフィスト*
+> CONTEXT: Items/358/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エルズリー*
+> CONTEXT: Items/359/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アルラウネ*
+> CONTEXT: Items/362/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キンナリー*
+> CONTEXT: Items/363/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エアリアル*
+> CONTEXT: Items/364/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エンジェル*
+> CONTEXT: Items/367/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アスタロテ*
+> CONTEXT: Items/368/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+メリュジーヌ*
+> CONTEXT: Items/369/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バンシー*
+> CONTEXT: Items/370/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ティターニア*
+> CONTEXT: Items/371/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+クィーンメイヴ*
+> CONTEXT: Items/372/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ユキジョロウ*
+> CONTEXT: Items/375/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルサールカ*
+> CONTEXT: Items/376/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルーガルー*
+> CONTEXT: Items/377/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カリュブディス*
+> CONTEXT: Items/378/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サラマンダー*
+> CONTEXT: Items/381/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シェロブ*
+> CONTEXT: Items/382/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヤクシニー*
+> CONTEXT: Items/383/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ダーキニー*
+> CONTEXT: Items/384/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+セルマ*
+> CONTEXT: Items/409/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナイトメア*
+> CONTEXT: Items/450/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リリム*
+> CONTEXT: Items/451/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴェルデレット*
+> CONTEXT: Items/454/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ノルン*
+> CONTEXT: Items/455/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+グリマルキン*
+> CONTEXT: Items/459/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ストリガ*
+> CONTEXT: Items/460/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウェパル*
+> CONTEXT: Items/463/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ティアマト*
+> CONTEXT: Items/464/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ランダ*
+> CONTEXT: Items/467/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アルバスタ*
+> CONTEXT: Items/468/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ゴモリー*
+> CONTEXT: Items/469/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴィーヴル*
+> CONTEXT: Items/472/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ゴルゴン*
+> CONTEXT: Items/473/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+モーリアン*
+> CONTEXT: Items/474/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+デバッガー
+> CONTEXT: Items/500/name/ < UNTRANSLATED
+
+> END STRING

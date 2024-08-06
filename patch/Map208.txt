@@ -1,0 +1,54 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+020-Field03
+> CONTEXT: Map208/bgm/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]、大丈夫？
+> CONTEXT: Map208/events/4/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\r[私,かけら]なら無事よ。
+　\\c[4]グングニル\\c[0]もあるわ。
+> CONTEXT: Map208/events/4/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何が起こったのかしら。
+　ここは……
+> CONTEXT: Map208/events/4/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……山脈の北側ね。
+　向こうの尾根に、
+　魔王城が見えるわ……。
+> CONTEXT: Map208/events/4/pages/0/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……\\d寒い\\d…………
+> CONTEXT: Map208/events/4/pages/0/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「変ね……、
+　私、寒さなんて感じないはずなのに……
+> CONTEXT: Map208/events/4/pages/0/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「山を降りて町を探しましょう……。
+　凍えちゃいそうだわ。
+> CONTEXT: Map208/events/4/pages/0/91/Dialogue < UNTRANSLATED
+
+> END STRING

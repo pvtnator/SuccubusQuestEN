@@ -1,0 +1,74 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+どこかで見たことのある\\dかけら\\dが、
+きらきらと光っている
+> CONTEXT: Map290/events/1/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map289/events/1/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map288/events/1/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map287/events/1/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map286/events/1/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map285/events/1/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map284/events/1/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map283/events/1/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map281/events/1/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map280/events/1/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map281/events/3/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map062/events/4/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\dかけら\\dに触れますか？
+> CONTEXT: Map290/events/1/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map289/events/1/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map288/events/1/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map287/events/1/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map286/events/1/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map285/events/1/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map284/events/1/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map283/events/1/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map281/events/1/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map280/events/1/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map281/events/3/pages/1/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map062/events/4/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[4]ノーブルヴィジョン\\c[0]を手に入れた！
+> CONTEXT: Map290/events/2/pages/1/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]の最大EPが上がった！
+\\n[1]の基本TPが上がった！
+> CONTEXT: Map290/events/2/pages/1/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「絶望……憎悪……………
+> CONTEXT: Map290/events/3/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それらに支配された時、
+　お前はギルデンスターンと
+　同じ道を歩むことになる。
+> CONTEXT: Map290/events/3/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……もう、世界を救えとは言うまい。
+> CONTEXT: Map290/events/3/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お前が愛する者を、助けに行け。
+> CONTEXT: Map290/events/3/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING

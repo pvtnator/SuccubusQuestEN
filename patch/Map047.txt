@@ -1,0 +1,97 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「グルッペン高級服飾店へようこそ。
+> CONTEXT: Map047/events/1/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/1/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/1/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あ…あわわわ……
+> CONTEXT: Map047/events/1/pages/3/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…あ、お客様ですか？
+> CONTEXT: Map047/events/1/pages/3/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"悩める戦士"
+> CONTEXT: Map047/events/2/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map047/events/2/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「彼女に、これからは戦士も
+　服に気を使わなきゃダメだって
+　言われて来たんだが……
+> CONTEXT: Map047/events/2/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「今までヨロイ以外の見かけなんて
+　気にしたことなかったからなあ……
+　参ったよ。
+> CONTEXT: Map047/events/2/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「な、何だよこれっ、
+　魔物の仕業か！？
+> CONTEXT: Map047/events/2/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「武器はまだ捨ててないぞ！
+　来るならこいっ！
+> CONTEXT: Map047/events/2/pages/1/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"女性の声"
+> CONTEXT: Map047/events/3/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「覗かないでよ、エッチ！
+> CONTEXT: Map047/events/3/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+　更衣室
+> CONTEXT: Map047/events/4/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ひとつのアイテムが使える\\c[2]コーディネート\\c[0]は
+　ひとつだけとは限らないわよ。
+> CONTEXT: Map047/events/10/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「逆に、あるコーディネートで使うアイテムを
+　別な似たアイテムで代用できたりもするかもね。
+> CONTEXT: Map047/events/10/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いらっしゃいませ。
+　ごゆっくりご覧下さいね。
+> CONTEXT: Map047/events/11/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,444 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「…そうか……
+> CONTEXT: Map192/events/11/pages/0/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「えっ？
+> CONTEXT: Map192/events/11/pages/0/108/Dialogue < UNTRANSLATED
+> CONTEXT: Map159/events/1/pages/0/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ニャ！
+　アレ～～っ！
+> CONTEXT: Map192/events/11/pages/0/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お前が先かッ！
+　\\n[1]！
+> CONTEXT: Map192/events/11/pages/0/140/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「フニャーッ！
+> CONTEXT: Map192/events/11/pages/0/145/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ガルルルルルル！！
+> CONTEXT: Map192/events/11/pages/0/149/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「その言い方からすると、
+　あなたが持っているのもまだ
+　『槍』のかけら一つだけね。
+> CONTEXT: Map192/events/11/pages/0/173/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「残念だわ\\e[0]
+　他の二つもあれば、ここで
+　全部揃ったのに。
+> CONTEXT: Map192/events/11/pages/0/176/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ハッ！
+　こっちのセリフだぜ！
+> CONTEXT: Map192/events/11/pages/0/180/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「俺をナメるなよ、
+　この\\c[4]グングニル\\c[0]の……
+> CONTEXT: Map192/events/11/pages/0/182/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…いや………
+> CONTEXT: Map192/events/11/pages/0/184/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「このエルヴィン・レイグラフの強さ！
+　お前にもう一度教えてやる！
+　\\n[1]ッ！！
+> CONTEXT: Map192/events/11/pages/0/185/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ご主人様！
+　アタシ達に！
+> CONTEXT: Map192/events/11/pages/0/193/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ここは任せるニャぁっ！
+> CONTEXT: Map192/events/11/pages/0/201/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ガオォンッ！！
+> CONTEXT: Map192/events/11/pages/0/208/Dialogue < UNTRANSLATED
+> CONTEXT: Map175/events/2/pages/0/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ご主人様は、\\dかけら\\dをっ！
+> CONTEXT: Map192/events/11/pages/0/210/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「させないわっ！
+> CONTEXT: Map192/events/11/pages/0/216/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いいや！ 行くのは見届けてからだ！
+　こいつが崩れ落ちるのをなッ！
+> CONTEXT: Map192/events/11/pages/0/219/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]ッ！
+　ここで\\dけり\\dをつけようぜッ！！
+> CONTEXT: Map192/events/11/pages/0/224/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あぁンッ………………
+> CONTEXT: Map192/events/11/pages/0/286/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"バンダスナッチ"
+> CONTEXT: Map192/events/11/pages/0/287/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ニャ…ニャぁ…………
+> CONTEXT: Map192/events/11/pages/0/288/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「チッ！
+　やはり俺がッ………
+> CONTEXT: Map192/events/11/pages/0/294/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あ…あぁ……
+　ご主人様……
+> CONTEXT: Map192/events/11/pages/0/345/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「き………
+　消え…る……
+> CONTEXT: Map192/events/11/pages/0/347/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「！？
+> CONTEXT: Map192/events/11/pages/0/355/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何だ……
+　どういうことだ！？
+> CONTEXT: Map192/events/11/pages/0/356/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……\\dかけら\\dの力よ。
+> CONTEXT: Map192/events/11/pages/0/364/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「夢魔の存在を、
+　文字通り完全に消し去る
+　魔王の本当の力。
+> CONTEXT: Map192/events/11/pages/0/365/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私だけじゃその力はないけど……、
+> CONTEXT: Map192/events/11/pages/0/368/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「その子たちはあまりに長く、
+　\\c[4]グングニル\\c[0]の影響を
+　受けすぎたのね。
+> CONTEXT: Map192/events/11/pages/0/369/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「な…に……
+> CONTEXT: Map192/events/11/pages/0/373/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ご主人……様………
+> CONTEXT: Map192/events/11/pages/0/380/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ガ…ガルゥ…………
+> CONTEXT: Map192/events/11/pages/0/385/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どうしようもないわね。
+> CONTEXT: Map192/events/11/pages/0/388/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]がその子たちに与えている
+　\\dかけら\\dの力を弱めれば
+　消えないですむかも知れないけど、
+> CONTEXT: Map192/events/11/pages/0/389/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]には
+　そんな器用なことできないし、
+　大体そんな義理もないわ。
+> CONTEXT: Map192/events/11/pages/0/392/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でもいいじゃない。
+　夢魔なんて別にどうなったって。
+> CONTEXT: Map192/events/11/pages/0/398/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]と\\dけり\\dをつけるんでしょう？
+　早くしなさいよ。
+> CONTEXT: Map192/events/11/pages/0/400/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それともまさか……、
+　夢魔に情でも移ったの？
+> CONTEXT: Map192/events/11/pages/0/402/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]……？
+> CONTEXT: Map192/events/11/pages/0/414/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………そんな……！
+> CONTEXT: Map192/events/11/pages/0/499/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お前……ら………
+> CONTEXT: Map192/events/11/pages/0/502/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああっ、ご主人様……！
+> CONTEXT: Map192/events/11/pages/0/511/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「よかったニャぁ……
+　まだ一緒にいられるニャあっ！
+> CONTEXT: Map192/events/11/pages/0/516/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…\\n[1]…………
+> CONTEXT: Map192/events/11/pages/0/525/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そうか……それが……………
+　お前の手に入れた……………
+> CONTEXT: Map192/events/11/pages/0/533/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……強さ…………
+　…………か………………
+> CONTEXT: Map192/events/11/pages/0/535/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\c[4]グングニル\\c[0]………
+　お前が持っていけ。
+> CONTEXT: Map192/events/11/pages/0/542/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「一応教えておいてあげるけどさ。
+> CONTEXT: Map192/events/11/pages/0/552/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「魔王のかけらを急に手放したら、
+　反動で衰弱がくるわよ。
+> CONTEXT: Map192/events/11/pages/0/553/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「その子たちも
+　\\c[4]グングニル\\c[0]の支配から
+　解かれるだろうし……
+> CONTEXT: Map192/events/11/pages/0/555/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どうされちゃうのかしらね？
+> CONTEXT: Map192/events/11/pages/0/558/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ま、自業自得かしら。
+> CONTEXT: Map192/events/11/pages/0/566/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……………………………
+　……………………
+> CONTEXT: Map192/events/11/pages/0/571/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]！
+　受け取れッ！！
+> CONTEXT: Map192/events/11/pages/0/576/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[4]グングニル\\c[0]を手に入れた！
+> CONTEXT: Map192/events/11/pages/0/584/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ご主人様ぁ………、
+　大丈夫……？
+> CONTEXT: Map192/events/11/pages/0/616/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「クゥン………
+> CONTEXT: Map192/events/11/pages/0/621/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……\\n[1]………………
+> CONTEXT: Map192/events/11/pages/0/625/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/2/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「俺の…………
+　…\\r[敗,ま]けだ………。
+> CONTEXT: Map192/events/11/pages/0/626/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「俺も体が動くようになったら、
+　お前の後を追う。
+> CONTEXT: Map192/events/11/pages/0/654/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\c[4]魔王のかけら\\c[0]が無くても
+　少しは力になれるつもりだ。
+> CONTEXT: Map192/events/11/pages/0/656/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]、お前は先に行け。
+　賢王より先に
+　\\dかけら\\dを手に入れるんだ。
+> CONTEXT: Map192/events/11/pages/0/658/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「賢王には気をつけろ。
+　あいつは……何か企んでる……
+> CONTEXT: Map192/events/11/pages/0/661/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「無事でいろよ。
+　\\n[1]。
+> CONTEXT: Map192/events/11/pages/0/663/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,108 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+"？？？/Sitri"
+> CONTEXT: Map251/events/4/pages/0/100/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map251/events/4/pages/0/105/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「世界は終わらぬ夢なれど、
+　色夢の数は我が指次第……
+> CONTEXT: Map251/events/4/pages/0/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おお！ よくぞ来たな！
+　我が主人公よ！
+> CONTEXT: Map251/events/4/pages/0/106/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「我はシトリー！
+　夢と現の回遊者、薄絹の鍵の管理人…
+> CONTEXT: Map251/events/4/pages/0/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そして…ふふ！
+　おお！ 我が\\r[俳優殿,ア ク タ ー]よ！！
+> CONTEXT: Map251/events/4/pages/0/111/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\c[4]夜の絵本\\c[0]を開くがいい！
+　ここは夢の果てにして中心！
+> CONTEXT: Map251/events/4/pages/0/113/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そこに\\dしるし\\dがありさえすれば！
+　ふふ！ 全ては思いのままに！
+> CONTEXT: Map251/events/4/pages/0/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あらゆる夢を眼前に！
+　ふふふ！ さあ！ つまりは！
+> CONTEXT: Map251/events/4/pages/0/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「楽しんでいくがいい！！
+　ふふふふふふふ！
+> CONTEXT: Map251/events/4/pages/0/119/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふふふ！
+　まずはゲームクリアおめでとう！
+> CONTEXT: Map251/events/4/pages/2/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「さて、如何だったかな？
+　この壮大にして馬鹿馬鹿しき
+　悲劇的喜劇！
+> CONTEXT: Map251/events/4/pages/2/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いや、あるいは喜劇的悲劇、
+　悲劇的牧歌劇、牧歌的英雄劇、
+　英雄的牧歌的悲劇的喜劇！
+> CONTEXT: Map251/events/4/pages/2/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふ！
+　全て君のお陰で無事終幕を迎え！
+　君には特別の謝辞を！！
+> CONTEXT: Map251/events/4/pages/2/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「さあしかし、
+　此処はご存知の舞台裏。
+> CONTEXT: Map251/events/4/pages/2/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふふ！
+　最後に存分に楽しんでいくがいい！！
+> CONTEXT: Map251/events/4/pages/2/20/Dialogue < UNTRANSLATED
+
+> END STRING

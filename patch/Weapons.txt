@@ -1,0 +1,300 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+エクスカリバー/0/0
+> CONTEXT: Weapons/1/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+攻撃+190 / 光耐性+80 / アンデッドにダメージ2倍
+> CONTEXT: Weapons/1/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ダークランス/0/0
+> CONTEXT: Weapons/3/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+攻撃+220 / 対象の防御力20%カット
+> CONTEXT: Weapons/3/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルナティックロッド/0/10
+> CONTEXT: Weapons/5/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+攻撃+130 / 魔力+20 / 追加効果：混乱
+> CONTEXT: Weapons/5/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+----------
+> CONTEXT: Weapons/7/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウッズマンスタイル/3/0/0
+> CONTEXT: Weapons/8/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力+3 / 精力+1
+> CONTEXT: Weapons/8/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ペザントルック/3/0/0
+> CONTEXT: Weapons/9/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力+3 / 精神力+2
+> CONTEXT: Weapons/9/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+セイジ・イン・フォレスト/1/0/0
+> CONTEXT: Weapons/10/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力+1 / 精神力+3 / 最大EP+10%
+> CONTEXT: Weapons/10/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+静謐なる心/3/0/0
+> CONTEXT: Weapons/11/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+2 / 魅力+3 / 精神力+2 / 歌に耐性+50%
+> CONTEXT: Weapons/11/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミルキーシルキー/3/0/0
+> CONTEXT: Weapons/12/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力+3 / 技巧+3
+> CONTEXT: Weapons/12/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ロイヤルカジュアル/3/0/0
+> CONTEXT: Weapons/13/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力+3 / 精力+3 / 精神力+3
+> CONTEXT: Weapons/13/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マリーナ・フリーベリ/4/0/0
+> CONTEXT: Weapons/15/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力+4 / 素早さ+7
+> CONTEXT: Weapons/15/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キアズマ・トライバル/5/0/0
+> CONTEXT: Weapons/17/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+3 / 魅力+5 / 精神力+3
+> CONTEXT: Weapons/17/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ビーチボーイ/6/0/0
+> CONTEXT: Weapons/18/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力+6 / 精力+6 / 素早さ+2
+> CONTEXT: Weapons/18/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サマーノーブル/3/0/0
+> CONTEXT: Weapons/19/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+2 / 魅力+3 / 精神力+3
+> CONTEXT: Weapons/19/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+灰燼の賢者/3/0/0
+> CONTEXT: Weapons/20/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+4 / 魅力+3 / 精神力+4 / 魔法に耐性+50%
+> CONTEXT: Weapons/20/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+花ざかりの季節/5/0/0
+> CONTEXT: Weapons/21/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+3 / 魅力+5 / 精神力+2 / 最大EP+10%
+> CONTEXT: Weapons/21/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バロックウィザード/5/0/0
+> CONTEXT: Weapons/22/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力+5 / 精神力+5 / ルヴィッサのMP+10%
+> CONTEXT: Weapons/22/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リスヴェグ・アヴァンギャルド/3/0/0
+> CONTEXT: Weapons/23/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+5 / 魅力+3 / 魅力+10% / TP+5
+> CONTEXT: Weapons/23/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フェティッシュグラマー/5/0/1
+> CONTEXT: None < UNUSED
+
+> END STRING
+
+> BEGIN STRING
+守り+4 / 魅力+5 / 精力+5 / 幸運+1
+> CONTEXT: Weapons/24/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ホーリーローリーボーイ/11/0/0
+> CONTEXT: Weapons/25/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+7 / 魅力+11 / 精神力+3 / 精神力+10%
+> CONTEXT: Weapons/25/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+グルッペン・トラディショナル/7/0/0
+> CONTEXT: Weapons/26/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+9 / 魅力+7 / 精神力+7 / EP+10%
+> CONTEXT: Weapons/26/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ギャラクシー/15/0/0
+> CONTEXT: Weapons/27/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力+15 / 全てのバッドステートに耐性+10%
+> CONTEXT: Weapons/27/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カバリエ・ロマンティカ/3/0/0
+> CONTEXT: Weapons/28/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+3 / 魅力+3 / 精神力+3 / テンダーキッス効果アップ
+> CONTEXT: Weapons/28/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナイトロマンサー/5/0/0
+> CONTEXT: Weapons/29/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力+5 / 魅力+10% / 恍惚耐性-10% / ムード上昇率アップ
+> CONTEXT: Weapons/29/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サウザンズ・エキセントリカ/0/0/0
+> CONTEXT: Weapons/30/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+相手の人数に比例して能力値アップ
+> CONTEXT: Weapons/30/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フェティッシュグラマー/5/1/0
+> CONTEXT: Weapons/24/name/ < UNTRANSLATED
+
+> END STRING

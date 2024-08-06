@@ -1,0 +1,340 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「いらっしゃいませ！
+> CONTEXT: Map161/events/1/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お飲み物をどうぞ。
+> CONTEXT: Map161/events/2/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「その昔、とある召喚士が願いを叶えるため
+　シトリーという悪魔を呼び出そうとしたそうです。
+> CONTEXT: Map161/events/9/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「召喚が成功したのか、
+　その召喚士がその後どうなったかは
+　誰も分かりませんが、
+> CONTEXT: Map161/events/9/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「召喚の儀式に使った洞窟は、
+　今もルグブロード平原のどこかに
+　そのまま残っているようです。
+> CONTEXT: Map161/events/9/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ここの植物はみんな、
+　魔導院の人たちが開発した
+　魔法の力で育ってるんだ。
+> CONTEXT: Map161/events/11/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「水や光を自分で生み出してるんだってさ。
+　スゴいだろ？
+> CONTEXT: Map161/events/11/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「え？ 西のテレポーター？
+> CONTEXT: Map161/events/11/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああ、昔は名も無い小さな町が
+　あったみたいだけどね。
+> CONTEXT: Map161/events/11/pages/1/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でももう何百年も前に滅ぼされてて、
+　テレポーターもずっと
+　使われてないはずだよ。
+> CONTEXT: Map161/events/11/pages/1/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「船でグルッペンから
+　遊びに来たんだけど……
+> CONTEXT: Map161/events/12/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…エルフの料理って
+　口に合わないみたいだわ。
+> CONTEXT: Map161/events/12/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そこかしこで急に眠っちゃう人が
+　増えてるみたいだけど……
+> CONTEXT: Map161/events/12/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「一体どうなってるのかしらね。
+> CONTEXT: Map161/events/12/pages/1/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「クリスティンちゃんも可哀想よ。
+　そろそろ恋でもしたい
+　年頃でしょうに……
+> CONTEXT: Map161/events/13/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「近寄る男はみんなあの父親が
+　追い払ってしまうんですもの。
+> CONTEXT: Map161/events/13/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「クリスティンちゃん、
+　ついに家出しちゃったんですって？
+> CONTEXT: Map161/events/13/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「まったく、これであのハグロフスも
+　少しは考え直してくれると
+　いいんですがね。
+> CONTEXT: Map161/events/13/pages/1/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おい！ 知ってるか？
+　クリスティンちゃんが今、病気で
+　寝込んでるらしいぜ。
+> CONTEXT: Map161/events/14/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何でも砂漠に咲く花が特効薬なんだが、
+　あのハグロフスですらなかなか
+　手に入れられないでいるらしい。
+> CONTEXT: Map161/events/14/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ここでサッと花を採って渡せば、
+　あの頑固親父も俺を認め、そして
+　クリスティンちゃんは命の恩人の俺に……
+> CONTEXT: Map161/events/14/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………ああ！
+> CONTEXT: Map161/events/14/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おい！ 知ってるか？
+　クリスティンちゃんが、誰かと
+　駆け落ちしたらしいぜ。
+> CONTEXT: Map161/events/14/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「すぐにハグロフスに
+　連れ戻されたみたいだが…ああ！
+　一体誰なんだ！？その相手は！
+> CONTEXT: Map161/events/14/pages/1/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"魔術士風の男"
+> CONTEXT: Map161/events/15/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map143/events/8/pages/0/2/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map143/events/9/pages/0/8/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map143/events/10/pages/0/8/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おや……
+　あなた、\\n[1]さんでは？
+> CONTEXT: Map161/events/15/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おお、やはり。
+　ハグロフス様からお話は聞いております。
+> CONTEXT: Map161/events/15/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「よろしければ屋敷までおいで下さい。
+　町の中央にある建物です。
+> CONTEXT: Map161/events/15/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私ももう戻らねば……
+> CONTEXT: Map161/events/15/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"エルフの女"
+> CONTEXT: Map161/events/16/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map161/events/16/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map140/events/31/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map126/events/5/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map126/events/6/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map121/events/31/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map121/events/31/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ルグブロードは
+　この空中都市ホロスのほかに、
+　魔法研究施設の魔導院や、
+> CONTEXT: Map161/events/16/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「伝説の魔女が住んでいるってウワサの
+　大迷路なんかにもつながってるのよ。
+> CONTEXT: Map161/events/16/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そのせいか、別な世界のモノが
+　迷い込んで来やすいっても言うわ。
+> CONTEXT: Map161/events/16/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「クヴァラットって知ってる？
+　そうそう、ミルクで有名な町よ。
+> CONTEXT: Map161/events/16/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「羊がたくさんいて、のどかで、
+　すっごく素敵な町なんですって。
+> CONTEXT: Map161/events/16/pages/1/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でもすっごく遠くにあるから、
+　誰も行ったことがないの。
+　みんな想像で話してるだけなのよ。
+> CONTEXT: Map161/events/16/pages/1/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「え、ミルクはどうしてるって？
+> CONTEXT: Map161/events/16/pages/1/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やあね、あれはただの名前よ。
+　ほんとにクヴァラットで
+　搾られたミルクってわけじゃないわ。
+> CONTEXT: Map161/events/16/pages/1/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ハグロフス様にはクリスティンという
+　一人娘がいますが、その可愛がり方ったら
+　尋常じゃありません。
+> CONTEXT: Map161/events/17/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「病気にでもなろうものなら、
+　公務もほったらかして、文字通り
+　片時も離れずに看病してますわ。
+> CONTEXT: Map161/events/17/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ご存知？
+　この間、ハグロフス様のお屋敷で
+　物凄い音がしたでしょう。
+> CONTEXT: Map161/events/17/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「魔王が人間に化けて
+　クリスティンちゃんをさらいに来たそうよ。
+　ああ恐ろしい。
+> CONTEXT: Map161/events/17/pages/1/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ハグロフス様は、魔王の攻撃で
+　奥様を亡くされています。
+> CONTEXT: Map161/events/18/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そのせいか、普段は飄々としていますが
+　魔王の事になると人が変わったように
+　なるそうです。
+> CONTEXT: Map161/events/18/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「邪魔しないでくれ。
+> CONTEXT: Map161/events/23/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「今、神サマと二日酔いについて
+　語り合ってるところなんだ。
+> CONTEXT: Map161/events/23/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,68 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+"マーシャの父の声"
+> CONTEXT: Map020/events/1/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「娘の部屋に勝手に入らんでください！
+> CONTEXT: Map020/events/1/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「入っていいわよ
+> CONTEXT: Map020/events/1/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ね、実は夢魔になってた時のことも
+　少し覚えてるのよ。
+> CONTEXT: Map020/events/3/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でもやっぱり、
+　本当に起こったこととも思えないの。
+　まるで夢みたい。
+> CONTEXT: Map020/events/3/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…わたし、前にもおんなじこと言ったかしら？
+> CONTEXT: Map020/events/3/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あっ、勇者様！
+> CONTEXT: Map020/events/3/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/4/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「これ…夢魔の仕業でしょ？
+　町の人がつぎつぎ
+　眠らされてるの……
+> CONTEXT: Map020/events/3/pages/1/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私もたまに意識が遠くなるの。
+　あの夢魔に襲われた時みたいに……
+> CONTEXT: Map020/events/3/pages/1/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「勇者様、お願い、助けて…
+　このままじゃ……
+> CONTEXT: Map020/events/3/pages/1/7/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,13 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+熱い！
+> CONTEXT: Map112/events/3/pages/0/2/Dialogue
+> CONTEXT: Map107/events/1/pages/0/2/Dialogue
+> CONTEXT: Map107/events/2/pages/0/2/Dialogue
+> CONTEXT: Map011/events/10/pages/0/1/Dialogue
+> CONTEXT: Map011/events/11/pages/0/1/Dialogue
+> CONTEXT: Map011/events/12/pages/0/1/Dialogue
+> CONTEXT: Map011/events/13/pages/0/1/Dialogue
+> CONTEXT: Map005/events/1/pages/0/2/Dialogue
+Hot!
+> END STRING

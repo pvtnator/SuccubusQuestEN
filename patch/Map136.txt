@@ -1,0 +1,333 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「久しぶりだな、\\n[1]。
+> CONTEXT: Map136/events/1/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いずれ俺の方から行くつもりだったが……
+> CONTEXT: Map136/events/1/pages/0/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お前が先にここに来るとはな。
+> CONTEXT: Map136/events/1/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「こんなところに何の用だ？
+　花でも摘みに来たか？
+> CONTEXT: Map136/events/1/pages/0/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「当ててやるぜ。
+　どうせまた見ず知らずの誰かに頼まれて、
+　のこのこお使いにでも来たんだろ。
+> CONTEXT: Map136/events/1/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「さらわれたオリビアもほったらかしてな。
+> CONTEXT: Map136/events/1/pages/0/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…あなた、\\n[1]が魔王を倒した時
+　一緒にいた戦士よね。
+> CONTEXT: Map136/events/1/pages/0/91/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あなたこそ何でこんなところに……
+> CONTEXT: Map136/events/1/pages/0/93/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「だけどな、\\n[1]。
+> CONTEXT: Map136/events/1/pages/0/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もういいぜ。
+　お前はもう旅を続けなくてもよ。
+> CONTEXT: Map136/events/1/pages/0/103/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くだらないお使いも、
+　魔物退治も、
+　お姫様を助けるのも、もういいんだ。
+> CONTEXT: Map136/events/1/pages/0/105/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\d勇者サマ\\dの役目はもう終わりだ。
+　後は………
+> CONTEXT: Map136/events/1/pages/0/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「俺がやってやるからよッ！！
+> CONTEXT: Map136/events/1/pages/0/135/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ガオォォンッ！
+> CONTEXT: Map136/events/1/pages/0/139/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ニャぉんっ！
+> CONTEXT: Map136/events/1/pages/0/141/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何言ってるの！？
+　あなた\\n[1]の仲間でしょ！？
+> CONTEXT: Map136/events/1/pages/0/145/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「夢魔にあやつられてるのねっ！
+> CONTEXT: Map136/events/1/pages/0/147/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うるせえッ！！
+> CONTEXT: Map136/events/1/pages/0/151/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…\\n[1]………
+> CONTEXT: Map136/events/1/pages/0/152/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「オリビアは………
+> CONTEXT: Map136/events/1/pages/0/153/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ラウムでオリビアは…
+　…お前に会いに来たんだ……
+> CONTEXT: Map136/events/1/pages/0/154/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お前を愛するために、
+　夢魔の支配から抜け出してきたんだッ！
+> CONTEXT: Map136/events/1/pages/0/156/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それが何だてめえはッ！
+　一度抱いておきながら
+　簡単に逃げられやがってッ！！
+> CONTEXT: Map136/events/1/pages/0/158/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お前が守れないなら、
+　オリビアは俺が守るッ！
+> CONTEXT: Map136/events/1/pages/0/161/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「軟弱な勇者サマには
+　もう任せておけねえんだよッ！！
+> CONTEXT: Map136/events/1/pages/0/163/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それに、俺があやつられてるだと？
+> CONTEXT: Map136/events/1/pages/0/171/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「逆だ！
+　俺が支配してるのさ！
+> CONTEXT: Map136/events/1/pages/0/172/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ご主人様ぁ……
+> CONTEXT: Map136/events/1/pages/0/184/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「早く……アレ……
+　ください…………
+> CONTEXT: Map136/events/1/pages/0/185/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…\\c[4]魔王のかけら\\c[0]！？
+> CONTEXT: Map136/events/1/pages/0/192/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……あの時、
+　魔王が砕け散った時、
+> CONTEXT: Map136/events/1/pages/0/199/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\dかけら\\dを手に入れたのは、
+　\\n[1]、
+　お前だけじゃないんだぜ！
+> CONTEXT: Map136/events/1/pages/0/201/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それもお前みたいに、
+　まどろっこしいやり方しか
+　できない力じゃねえ。
+> CONTEXT: Map136/events/1/pages/0/204/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どんな夢魔でも
+　俺に従えさせる力……
+> CONTEXT: Map136/events/1/pages/0/207/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「『槍』のかけら、
+　\\c[4]グングニル\\c[0]ッ！！
+> CONTEXT: Map136/events/1/pages/0/221/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「襲え、夢魔ども！
+　あいつの\\dかけら\\dを奪えッ！！
+> CONTEXT: Map136/events/1/pages/0/223/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「コイツをぶち込んでやるのはその後だ！
+　抵抗するならヤッちまえッ！！
+> CONTEXT: Map136/events/1/pages/0/225/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ニャぁん………
+> CONTEXT: Map136/events/1/pages/0/312/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あン……そんな………
+> CONTEXT: Map136/events/1/pages/0/314/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くそッ！
+　無傷で済ませてやろうと
+　思ったのによ！
+> CONTEXT: Map136/events/1/pages/0/321/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「仕方ねえ………！
+> CONTEXT: Map136/events/1/pages/0/324/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「だ……ダメ………
+　ご主人様…………
+> CONTEXT: Map136/events/1/pages/0/337/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「！？
+　おい！ 離せっ！
+> CONTEXT: Map136/events/1/pages/0/355/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ダメ……ご主人様に…………
+> CONTEXT: Map136/events/1/pages/0/358/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もしものことが…あったら………
+> CONTEXT: Map136/events/1/pages/0/359/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………くッ！
+> CONTEXT: Map136/events/1/pages/0/400/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]ッ！
+　これで終わったと思うなッ！！
+> CONTEXT: Map136/events/1/pages/0/401/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何もかも！
+　最後に手に入れるのは俺だッ！！
+> CONTEXT: Map136/events/1/pages/0/403/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……誰かいるわ………
+　…………でも夢魔じゃない………
+> CONTEXT: Map136/events/3/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「人間………？
+> CONTEXT: Map136/events/3/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,36 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「この辺りは気温が高いので、
+　熱病にかかる旅の方が多いんです。
+> CONTEXT: Map122/events/3/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あなたも気をつけてくださいね。
+> CONTEXT: Map122/events/3/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あなたの連れているルヴィッサのMPは、
+　\\r[召喚,サモン]していない時に
+　徐々に回復していきます。
+> CONTEXT: Map122/events/9/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ただし、回復量は一定ではなく、
+　\\r[召喚,サモン]していない時間に
+　比例して伸びていきます。
+> CONTEXT: Map122/events/9/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「一度\\r[帰還,リターン]させたら、MPが回復するまで
+　ゆっくり休ませるといいでしょう。
+> CONTEXT: Map122/events/9/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING

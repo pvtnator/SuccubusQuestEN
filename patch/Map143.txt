@@ -1,0 +1,289 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「改めて初めまして。
+　私はここの執事長、グスタフスと申す者です。
+> CONTEXT: Map143/events/8/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map143/events/9/pages/0/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map143/events/10/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「こちらにお部屋の準備ができております。
+　どうぞごゆるりと。
+> CONTEXT: Map143/events/8/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map143/events/9/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map143/events/10/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あら、なかなかいい
+　お部屋じゃない\\e[0]
+> CONTEXT: Map143/events/8/pages/0/32/Dialogue < UNTRANSLATED
+> CONTEXT: Map143/events/9/pages/0/38/Dialogue < UNTRANSLATED
+> CONTEXT: Map143/events/10/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…む……？
+　……それは…………
+> CONTEXT: Map143/events/8/pages/0/38/Dialogue < UNTRANSLATED
+> CONTEXT: Map143/events/9/pages/0/45/Dialogue < UNTRANSLATED
+> CONTEXT: Map143/events/10/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「？
+> CONTEXT: Map143/events/8/pages/0/41/Dialogue < UNTRANSLATED
+> CONTEXT: Map143/events/9/pages/0/48/Dialogue < UNTRANSLATED
+> CONTEXT: Map143/events/10/pages/0/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…いえ、何でもありません。
+　失礼しました。
+> CONTEXT: Map143/events/8/pages/0/46/Dialogue < UNTRANSLATED
+> CONTEXT: Map143/events/9/pages/0/53/Dialogue < UNTRANSLATED
+> CONTEXT: Map143/events/10/pages/0/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どうぞ、ごゆるりとお休みください。
+> CONTEXT: Map143/events/8/pages/0/48/Dialogue < UNTRANSLATED
+> CONTEXT: Map143/events/9/pages/0/55/Dialogue < UNTRANSLATED
+> CONTEXT: Map143/events/10/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「今日はもう休む？
+> CONTEXT: Map143/events/12/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「今日はもう休む？」
+> CONTEXT: Map143/events/12/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………さん……
+> CONTEXT: Map143/events/13/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「う……ん…………？
+> CONTEXT: Map143/events/13/pages/1/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]……起きないでよ………
+　私まだ眠い………
+> CONTEXT: Map143/events/13/pages/1/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お迎えに来ました、\\n[1]さん。
+> CONTEXT: Map143/events/13/pages/1/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「少し予定が変わりましてね。
+　今からお送りすることにします。
+> CONTEXT: Map143/events/13/pages/1/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「え……、
+　送ってくれるのはうれしいけど
+　…今から？
+> CONTEXT: Map143/events/13/pages/1/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…ええ。
+　ただし、行き先は魔導院ではなく、
+> CONTEXT: Map143/events/13/pages/1/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もう少し遠いところへ…ですが。
+> CONTEXT: Map143/events/13/pages/1/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「最後まで
+　ご一緒するわけにはいかないのが
+　残念ですが、
+> CONTEXT: Map143/events/13/pages/1/134/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「なるべく迅速に
+　送って差し上げましょう、
+　\\n[1]さん。
+> CONTEXT: Map143/events/13/pages/1/137/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いえ………
+　魔王ギルデンスターンッ！
+> CONTEXT: Map143/events/13/pages/1/140/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何してるのよあなた！？
+　魔王って……
+> CONTEXT: Map143/events/13/pages/1/167/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………魔王……って………
+> CONTEXT: Map143/events/13/pages/1/169/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「倒されたと見せかけ、
+　勇者の体を乗っ取ったと
+　いうところでしょうか？
+> CONTEXT: Map143/events/13/pages/1/174/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「危うく騙されるところでした。
+　しかし、正体が分かったからには……
+> CONTEXT: Map143/events/13/pages/1/177/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「妻の\\r[仇,かたき]、
+　取らせていただきます。
+> CONTEXT: Map143/events/13/pages/1/212/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やめて、お父さんっ！
+> CONTEXT: Map143/events/13/pages/1/227/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「クリスティン！？
+> CONTEXT: Map143/events/13/pages/1/261/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「クリスティン、何をしているんです？
+　そこをどきなさい。
+> CONTEXT: Map143/events/13/pages/1/271/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お父さんこそ何をしているの！？
+　この人は、私の命の恩人よっ！
+> CONTEXT: Map143/events/13/pages/1/275/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「わからないんですか？
+> CONTEXT: Map143/events/13/pages/1/278/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それは…魔王……
+> CONTEXT: Map143/events/13/pages/1/279/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「魔王ギルデンスターン！
+　お母さんの\\r[仇,かたき]ですよっ！
+> CONTEXT: Map143/events/13/pages/1/280/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「違うわっ！
+> CONTEXT: Map143/events/13/pages/1/283/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「違う……確かにこの人から、
+　かつての魔王の魔力は感じるわ……
+　………でも……
+> CONTEXT: Map143/events/13/pages/1/287/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それはもう……
+　邪悪なものじゃない………
+> CONTEXT: Map143/events/13/pages/1/290/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いえ、それがもともと邪悪なものだったか
+　どうかさえ分からない…………
+> CONTEXT: Map143/events/13/pages/1/292/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「分かってないのはお父さんの方よ！
+　この人は、魔王なんかじゃないわ！！
+> CONTEXT: Map143/events/13/pages/1/296/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……クリスティン………
+> CONTEXT: Map143/events/13/pages/1/299/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私、この人と一緒に行くわ。
+> CONTEXT: Map143/events/13/pages/1/308/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お父さんはもう………
+　追ってこないでっ！！
+> CONTEXT: Map143/events/13/pages/1/309/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「クリスティーンッ！
+> CONTEXT: Map143/events/13/pages/1/328/Dialogue < UNTRANSLATED
+
+> END STRING

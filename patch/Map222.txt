@@ -1,0 +1,62 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+冷たい氷に
+道を塞がれている……
+> CONTEXT: Map222/events/9/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ねェ……、
+　寒いの…………
+> CONTEXT: Map222/events/9/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あたためてぇ……っ！
+> CONTEXT: Map222/events/9/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あぁんっ……
+　スゴい…………\\e[0]
+> CONTEXT: Map222/events/9/pages/0/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……アタシの仲間も、
+　みんな凍えちゃってるの……
+> CONTEXT: Map222/events/9/pages/0/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お願い、
+　みんなもあたためてあげて……
+> CONTEXT: Map222/events/9/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……どうなってるのかしら。
+　この寒さって、
+　夢魔のせいなんじゃ……
+> CONTEXT: Map222/events/9/pages/0/132/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……でも夢魔の言うことなんて
+　聞いてあげることないわ！
+> CONTEXT: Map222/events/9/pages/0/135/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「先を急ぎましょ、\\n[1]。
+> CONTEXT: Map222/events/9/pages/0/137/Dialogue < UNTRANSLATED
+
+> END STRING

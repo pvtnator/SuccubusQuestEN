@@ -1,0 +1,53 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+よくできた人形のようだ
+妙に生々しい……
+> CONTEXT: Map156/events/4/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map156/events/5/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"魔術師"
+> CONTEXT: Map156/events/6/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map154/events/5/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そこにあるのは…魔力で動く
+　自動人形……です………
+　夢魔に対抗するために作った………
+> CONTEXT: Map156/events/6/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ただ……
+　うっかり女性型も作ってしまって………
+　それが…夢魔に……
+> CONTEXT: Map156/events/6/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「気持ち良かっ…た………
+> CONTEXT: Map156/events/6/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精を吸われ、衰弱している……
+> CONTEXT: Map156/events/6/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map154/events/5/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map148/events/2/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map146/events/1/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map146/events/1/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+心なしか満足げな表情だ
+> CONTEXT: Map156/events/6/pages/1/2/Dialogue < UNTRANSLATED
+
+> END STRING

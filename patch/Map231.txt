@@ -1,0 +1,1357 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+SQ_Castel01
+> CONTEXT: Map231/bgm/name/ < UNTRANSLATED
+> CONTEXT: Map230/bgm/name/ < UNTRANSLATED
+> CONTEXT: Map046/bgm/name/ < UNTRANSLATED
+> CONTEXT: Map045/bgm/name/ < UNTRANSLATED
+> CONTEXT: Map043/bgm/name/ < UNTRANSLATED
+> CONTEXT: Map042/bgm/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔術のために使う燭台のようだ
+> CONTEXT: Map231/events/2/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/12/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[4]ビトルの炎\\c[0]を燭台に点けますか？
+> CONTEXT: Map231/events/2/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/12/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ッホォゥ！
+> CONTEXT: Map231/events/2/pages/1/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/12/pages/1/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ヒョウ！
+　おおマグナス、久しぶりだな！
+> CONTEXT: Map231/events/2/pages/1/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「無事帰ってきてたとはな！
+　またイイ思いしに行くのか？
+　このこの！
+> CONTEXT: Map231/events/2/pages/1/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「なんだよ無視かよ！
+　相変わらずつれない野郎だぜ！
+> CONTEXT: Map231/events/2/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「向かいにある燭台にも点けてくれ！
+> CONTEXT: Map231/events/2/pages/2/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/12/pages/2/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何かしら、これ……
+> CONTEXT: Map231/events/3/pages/0/47/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/49/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]さん！
+> CONTEXT: Map231/events/3/pages/0/80/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/82/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お久しぶりですね、\\n[1]さん。
+> CONTEXT: Map231/events/3/pages/0/84/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/86/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"グランマル"
+> CONTEXT: Map231/events/3/pages/0/96/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/26/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/98/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/98/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map044/events/7/pages/0/72/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map042/events/4/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map044/events/7/pages/0/77/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map042/events/4/pages/0/9/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map044/events/7/pages/0/103/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map042/events/4/pages/0/25/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map042/events/5/pages/1/3/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map044/events/7/pages/0/116/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map042/events/5/pages/1/13/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map039/events/10/pages/0/53/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map044/events/7/pages/0/124/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map042/events/5/pages/1/22/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map044/events/7/pages/0/157/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map042/events/5/pages/1/60/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map042/events/5/pages/1/83/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map044/events/7/pages/0/175/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map042/events/5/pages/1/101/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map042/events/5/pages/3/3/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map044/events/7/pages/0/192/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map042/events/5/pages/3/20/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map042/events/5/pages/3/28/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map043/events/18/pages/0/3/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map042/events/5/pages/3/39/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map043/events/18/pages/0/24/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map042/events/39/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map042/events/39/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map042/events/39/pages/3/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map042/events/39/pages/4/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map042/events/39/pages/6/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map042/events/39/pages/6/12/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map042/events/39/pages/6/28/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map042/events/39/pages/6/47/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map042/events/39/pages/7/0/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おお、ラルス殿！
+　申し訳ない！
+> CONTEXT: Map231/events/3/pages/0/97/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/99/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/99/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うっかりカギの使い方を
+　言い忘れるとは！
+　このグランマル不覚なり！
+> CONTEXT: Map231/events/3/pages/0/99/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/101/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……客って、
+　あなたたちのことだったの。
+> CONTEXT: Map231/events/3/pages/0/103/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/105/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/105/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何かご不満でも？
+> CONTEXT: Map231/events/3/pages/0/106/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/108/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「世界最高の魔導士の魔術が
+　必要と聞きましてね。
+> CONTEXT: Map231/events/3/pages/0/107/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/109/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/109/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………あ、そう。
+> CONTEXT: Map231/events/3/pages/0/110/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/112/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そんなことより……、
+　これ一体何よ？
+> CONTEXT: Map231/events/3/pages/0/122/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/124/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/124/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「夜の国へ行くための魔法陣だ。
+> CONTEXT: Map231/events/3/pages/0/136/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/138/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/138/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ここまで深く、この世界に夜の国が
+　入り込んでしまった以上、
+> CONTEXT: Map231/events/3/pages/0/159/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/161/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/161/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それを進めている
+　最も魔力の高い夢魔……
+> CONTEXT: Map231/events/3/pages/0/161/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/163/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/163/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……あのエストという夢魔を、
+　魔王の力で倒す他ない。
+> CONTEXT: Map231/events/3/pages/0/163/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/165/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/165/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それには、我々が
+　直に夜の国へ
+　乗り込む必要があるのだ。
+> CONTEXT: Map231/events/3/pages/0/165/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/167/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/167/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……そのために、
+　私の魔術の出番というわけです。
+> CONTEXT: Map231/events/3/pages/0/177/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/179/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/179/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「魔王のことも気がかりですが、
+　この世界が別なものになってしまうのを
+　見過ごすわけにもいきませんからね。
+> CONTEXT: Map231/events/3/pages/0/179/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/181/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/181/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でも、今寝ちゃってる人たちは
+　もう夜の国にいるんでしょう？
+> CONTEXT: Map231/events/3/pages/0/183/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/185/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/185/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私たちも一緒に
+　寝ちゃえばいいんじゃないの？
+> CONTEXT: Map231/events/3/pages/0/185/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/187/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/187/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ルヴィッサさん、
+　あなたは
+　見かけ通り頭が悪いようですね。
+> CONTEXT: Map231/events/3/pages/0/188/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/190/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/190/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………ねえ、
+　私、痛い魔法も使えるんだけど。
+> CONTEXT: Map231/events/3/pages/0/192/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/194/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/194/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「一発ブチ込んでもいい？
+> CONTEXT: Map231/events/3/pages/0/194/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/196/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/196/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ほお、
+　この私と魔法で戦うつもりですか？
+　面白い。
+> CONTEXT: Map231/events/3/pages/0/198/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/200/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/200/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やめてよ、お父さんっ！
+> CONTEXT: Map231/events/3/pages/0/204/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/206/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/206/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……その方法で夜の国に行くには、
+　魔王の力を手放さなければ
+　ならないので意味が無い。
+> CONTEXT: Map231/events/3/pages/0/225/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/227/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/227/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それに、眠りとは
+　我々の精神が限りなく
+　無防備になる世界。
+> CONTEXT: Map231/events/3/pages/0/228/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/230/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/230/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「魔王の力どころか、
+　夢魔を倒すという意志すら
+　保てるかあやしいだろう。
+> CONTEXT: Map231/events/3/pages/0/231/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/233/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/233/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「この魔法陣は、
+　夜の国とこの世界を
+　魔力でつなげるためのもの。
+> CONTEXT: Map231/events/3/pages/0/242/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/244/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/244/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「これを発動することができれば、
+　覚醒した意識と力を持ったまま
+　夜の国へ行くことができる。
+> CONTEXT: Map231/events/3/pages/0/245/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/247/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/247/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私とバーンズ卿は、
+　魔法陣を発動させるための
+　魔力を蓄える。
+> CONTEXT: Map231/events/3/pages/0/248/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/250/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/250/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]、お前には
+　発動のための触媒となる秘薬を
+　手に入れてきて欲しいのだ。
+> CONTEXT: Map231/events/3/pages/0/251/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/253/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/253/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……それはいいけどさ。
+> CONTEXT: Map231/events/3/pages/0/255/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/257/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/257/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「これ、ずいぶん古いものよね？
+　なんでこんなものが
+　準備してあるの？
+> CONTEXT: Map231/events/3/pages/0/256/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/258/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/258/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それに、どうして
+　そんなこと知ってるの？
+　\\dかけら\\dのこともそうよ。
+> CONTEXT: Map231/events/3/pages/0/260/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/262/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/262/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あなたは、一体…………
+> CONTEXT: Map231/events/3/pages/0/268/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/270/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/270/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……これを最後に使ったのは、
+　私と私の友だからだ。
+> CONTEXT: Map231/events/3/pages/0/275/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/277/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/277/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「夢魔が最後にこの世界に現れたのは、
+　文献にあるような大昔ではない。
+> CONTEXT: Map231/events/3/pages/0/280/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/282/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/282/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「つい最近……
+　そう、十五年前のことだ。
+> CONTEXT: Map231/events/3/pages/0/282/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/284/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/284/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「現れたのはごく僅かな数で、
+　気づく者もほとんどいなかった。
+> CONTEXT: Map231/events/3/pages/0/284/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/286/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/286/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……だが、
+　奴らは友の恋人を犯し……、
+> CONTEXT: Map231/events/3/pages/0/286/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/288/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/288/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そればかりか、彼女を
+　夜の国へ連れさらってしまった。
+> CONTEXT: Map231/events/3/pages/0/288/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/290/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/290/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私達は魔王とその力のことを調べ、
+　ひとそろいで封印されていた
+　\\dかけら\\dを手に入れ、
+> CONTEXT: Map231/events/3/pages/0/290/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/292/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/292/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「この魔法陣を用い、
+　夜の国へと向かった。
+> CONTEXT: Map231/events/3/pages/0/293/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/295/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/295/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……魔王の力で
+　夢魔は倒され、
+> CONTEXT: Map231/events/3/pages/0/295/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/297/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/297/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「この世界に入ってくることも
+　できなくなった。
+> CONTEXT: Map231/events/3/pages/0/297/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/299/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/299/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…しかし…………
+　……我が友もまた…………
+> CONTEXT: Map231/events/3/pages/0/305/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/307/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/307/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「人の姿で
+　戻ってくることはなかった………
+> CONTEXT: Map231/events/3/pages/0/307/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/309/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/309/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「友の名は、
+　フランツ・ギルデンスターン。
+> CONTEXT: Map231/events/3/pages/0/319/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/321/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/321/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……友は、結局
+　恋人を助けることができなかった。
+> CONTEXT: Map231/events/3/pages/0/322/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/324/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/324/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「奴はそれまで、
+　全てのかけらを手にしながらも
+　人の姿と意識を保っていたが、
+> CONTEXT: Map231/events/3/pages/0/324/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/326/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/326/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「恋人を失った絶望が
+　魔王の力を呼び覚まし……、
+> CONTEXT: Map231/events/3/pages/0/327/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/329/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/329/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「夢魔を消し去り、
+　同時に友を魔王にした……。
+> CONTEXT: Map231/events/3/pages/0/329/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/331/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/331/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]………………
+> CONTEXT: Map231/events/3/pages/0/338/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/340/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/340/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「似てるのだ。
+　お前とギルデンスターンは。
+> CONTEXT: Map231/events/3/pages/0/342/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/344/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/344/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……でも……………
+> CONTEXT: Map231/events/3/pages/0/351/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/353/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/353/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それじゃやっぱり、夢魔を倒すには
+　誰かが魔王にならなきゃ
+　いけないんですか……？
+> CONTEXT: Map231/events/3/pages/0/359/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/361/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/361/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それは\\dかけら\\dを持つ者次第だ。
+> CONTEXT: Map231/events/3/pages/0/363/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/365/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/365/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私は結局、
+　その力を完全に引き出すことすら
+　できなかった……
+> CONTEXT: Map231/events/3/pages/0/364/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/366/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/366/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「フッ、ギルデンスターンに
+　嫌われてしまったのかも知れんな。
+> CONTEXT: Map231/events/3/pages/0/367/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/369/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/369/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そうだろう、『使い魔』よ。
+> CONTEXT: Map231/events/3/pages/0/369/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/371/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/371/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何で私にふるのよ？
+> CONTEXT: Map231/events/3/pages/0/376/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/378/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/378/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お前はギルデンスターンの
+　意志の一部であるはずだ。
+　自覚はないのか。
+> CONTEXT: Map231/events/3/pages/0/378/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/380/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/380/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……わかんないわ。　私…………
+> CONTEXT: Map231/events/3/pages/0/382/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/384/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/384/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…………でも、私は私よ。
+> CONTEXT: Map231/events/3/pages/0/383/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/385/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/385/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「だが、お前が
+　\\n[1]を選んだことには
+　意味があるはずだ。
+> CONTEXT: Map231/events/3/pages/0/385/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/387/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/387/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……賭けるしかない。
+　\\n[1]に。
+> CONTEXT: Map231/events/3/pages/0/391/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/393/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/393/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何にせよ、
+　夜の国の浸透を止めることが
+　先決です。
+> CONTEXT: Map231/events/3/pages/0/398/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/400/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/400/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「今はまだ
+　私達は平気なようですが、
+> CONTEXT: Map231/events/3/pages/0/401/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/403/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/403/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「万一クリスティンが
+　夜の国にさらわれでもしたら……
+> CONTEXT: Map231/events/3/pages/0/403/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/405/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/405/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……お父さん。
+> CONTEXT: Map231/events/3/pages/0/408/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/410/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/410/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………コホン、
+　いや、失敬。
+> CONTEXT: Map231/events/3/pages/0/410/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/412/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/412/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]さん、
+　そういうわけで一刻も早く
+　この魔法陣を動かす必要があります。
+> CONTEXT: Map231/events/3/pages/0/414/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/416/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/416/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あなたに取ってきていただきたい触媒とは、
+　\\c[1]ロドヴィン火山\\c[0]で採れる
+　\\c[4]ビトルの炎\\c[0]というものです。
+> CONTEXT: Map231/events/3/pages/0/418/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/420/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/420/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「これはまず、
+　山の中腹にある『火の池』で
+　火種を手に入れ、
+> CONTEXT: Map231/events/3/pages/0/421/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/423/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/423/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それを山頂の火口に投げ込むことで
+　入手できます。
+> CONTEXT: Map231/events/3/pages/0/424/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/426/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/426/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ただし、一度『火の池』から離れると
+　その魔力は徐々に弱ってしまうので、
+> CONTEXT: Map231/events/3/pages/0/426/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/4/pages/1/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/428/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/428/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「手に入れたらすぐに
+　ここに持ってきてもらう
+　必要があります。
+> CONTEXT: Map231/events/3/pages/0/428/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/430/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/430/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「採取にはこれを使ってください。
+> CONTEXT: Map231/events/3/pages/0/431/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/433/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/433/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[4]トネリコのたいまつ\\c[0]を手に入れた！
+> CONTEXT: Map231/events/3/pages/0/441/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/443/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/443/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ロドヴィン火山は
+　ここグルッペンの北に位置する。
+> CONTEXT: Map231/events/3/pages/0/447/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/449/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/449/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふもとまでは
+　私がテレポトで送ろう。
+> CONTEXT: Map231/events/3/pages/0/449/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/451/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/451/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「万一のため、
+　残る三つのかけらはもう少し
+　私に預からせて欲しい。
+> CONTEXT: Map231/events/3/pages/0/451/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/453/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/453/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「夜の国へ行く準備が
+　整ったならば………、
+> CONTEXT: Map231/events/3/pages/0/454/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/456/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/456/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「その時はお前に全て託そう。
+> CONTEXT: Map231/events/3/pages/0/456/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/458/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/458/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\c[4]ビトルの炎\\c[0]を手に入れるには、
+　まず山の中腹にある『火の池』で
+　火種を手に入れ、
+> CONTEXT: Map231/events/4/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それを山頂の火口に
+　投げ込んでください。
+> CONTEXT: Map231/events/4/pages/1/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「手に入れたらなるべく早く
+　ここに持ってきてもらう
+　必要があります。
+> CONTEXT: Map231/events/4/pages/1/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おや、思ったより早かったですね。
+> CONTEXT: Map231/events/4/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ではそこの燭台に
+　その炎を点けてください。
+> CONTEXT: Map231/events/4/pages/2/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「さて、では魔法陣の中央に
+　立ってください。
+> CONTEXT: Map231/events/4/pages/3/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「夜の国までお送りしましょう。
+> CONTEXT: Map231/events/4/pages/3/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「夜の国に向かう準備は
+　できましたか？
+> CONTEXT: Map231/events/4/pages/4/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「準備はできましたか？」
+> CONTEXT: Map231/events/4/pages/4/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「では………
+> CONTEXT: Map231/events/4/pages/4/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/30/pages/0/172/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「準備ができたら
+　私に話しかけてください。
+> CONTEXT: Map231/events/4/pages/4/48/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/30/pages/0/223/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「オゥ！
+　何だずいぶんカワイイ子が
+　いるじゃないか！
+> CONTEXT: Map231/events/12/pages/1/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「夜の国まで連れていっちまいたいな！
+　ハハハ！
+> CONTEXT: Map231/events/12/pages/1/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「だめよ！
+　お父さん！
+> CONTEXT: Map231/events/12/pages/1/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「なんだあの長髪！
+　このオレとやるつもりか！？
+> CONTEXT: Map231/events/12/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どこ行く気だよ！？
+　早く魔法の燭台にオレを点けてくれ！
+> CONTEXT: Map231/events/18/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/19/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/20/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ロドヴィンまでテレポトで送ろう。
+　準備はいいか？
+> CONTEXT: Map231/events/24/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「準備はいいか？」
+> CONTEXT: Map231/events/24/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「魔法陣を動かす準備はできている。
+　あとは\\c[4]ビトルの炎\\c[0]だけだ。
+> CONTEXT: Map231/events/24/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「準備ができたなら、
+　その魔法陣の中央に立つといい。
+> CONTEXT: Map231/events/24/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「夜の国とは、いわば夢の世界。
+> CONTEXT: Map231/events/24/pages/3/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「心の迷いは
+　お前の存在自体を不確かなものにする。
+　よく覚えておけ。
+> CONTEXT: Map231/events/24/pages/3/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/30/pages/0/156/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]さん、気をつけて下さい。
+> CONTEXT: Map231/events/25/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ほんとは私も、一緒に行って
+　お手伝いしたいのですが……
+> CONTEXT: Map231/events/25/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何か言いましたか、
+　クリスティン。
+> CONTEXT: Map231/events/25/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……無事をお祈りしています。
+> CONTEXT: Map231/events/25/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「よかった！
+　無事戻られたのですね！
+> CONTEXT: Map231/events/25/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どうか…お気をつけて……。
+> CONTEXT: Map231/events/25/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「賢王様も無事戻り！
+　そして、おお、\\n[1]殿！
+> CONTEXT: Map231/events/26/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「再び世界を救うため
+　旅立たんとするその姿！
+　うむ、なんと頼もしや！
+> CONTEXT: Map231/events/26/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「魔法の燭台が用意してあるはずだ！
+　それにオレを点けてくれ！
+> CONTEXT: Map231/events/27/pages/1/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「準備は整ったようだな。
+> CONTEXT: Map231/events/30/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「まだよ。
+　何か忘れてないかしら？
+> CONTEXT: Map231/events/30/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……『杖』のかけら、
+　\\c[4]ガンバンティン\\c[0]。
+> CONTEXT: Map231/events/30/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「魔王の力を魔力に変換し、
+　魔術として行使できる力を持つ。
+> CONTEXT: Map231/events/30/pages/0/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[4]ガンバンティン\\c[0]を手に入れた！
+> CONTEXT: Map231/events/30/pages/0/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「『剣』のかけら、
+　\\c[4]グラム\\c[0]。
+> CONTEXT: Map231/events/30/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「魔王の力が完全となりし時、
+　刃を生み夢魔を切り裂く力を持つ。
+> CONTEXT: Map231/events/30/pages/0/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[4]グラム\\c[0]を手に入れた！
+> CONTEXT: Map231/events/30/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そして………
+> CONTEXT: Map231/events/30/pages/0/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「『杯』のかけら、
+　\\c[4]ガルドル\\c[0]………
+> CONTEXT: Map231/events/30/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「魔王の真の力を
+　発動させるカギ………
+　だが………
+> CONTEXT: Map231/events/30/pages/0/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……お前が新たな魔王となるなら、
+　その時は…………
+> CONTEXT: Map231/events/30/pages/0/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「大丈夫よ！
+> CONTEXT: Map231/events/30/pages/0/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]さんは……
+　負けたりしないわ！
+　魔王にも！夢魔にも！
+> CONTEXT: Map231/events/30/pages/0/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「きっと………！
+> CONTEXT: Map231/events/30/pages/0/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………フッ。
+> CONTEXT: Map231/events/30/pages/0/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そうだな、今は……
+> CONTEXT: Map231/events/30/pages/0/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]、
+　お前を信じるしかない。
+> CONTEXT: Map231/events/30/pages/0/93/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[4]ガルドル\\c[0]を手に入れた！
+> CONTEXT: Map231/events/30/pages/0/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ローゼンクランツ殿！
+> CONTEXT: Map231/events/30/pages/0/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………く……
+　……大丈夫だ…………
+> CONTEXT: Map231/events/30/pages/0/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それより…………
+> CONTEXT: Map231/events/30/pages/0/119/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……何も起こらないわ。
+> CONTEXT: Map231/events/30/pages/0/123/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\c[4]グラム\\c[0]の力も
+　まだ使えないみたい。
+> CONTEXT: Map231/events/30/pages/0/124/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「まだその時ではない…か………
+> CONTEXT: Map231/events/30/pages/0/127/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「しかし、
+　のんびりしている時間も
+　ありません。
+> CONTEXT: Map231/events/30/pages/0/135/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「たとえ不完全な力でも、
+　夜の国でエストを倒し、
+　この世界への浸透を食い止める……
+> CONTEXT: Map231/events/30/pages/0/138/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それに賭けます。
+　よろしいですね。
+> CONTEXT: Map231/events/30/pages/0/141/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それしかないんでしょう？
+> CONTEXT: Map231/events/30/pages/0/144/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「その通りです。
+> CONTEXT: Map231/events/30/pages/0/146/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]、これからお前が向かう
+　夜の国は、いわば夢の世界。
+> CONTEXT: Map231/events/30/pages/0/152/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「準備ができたなら、
+　魔法陣を発動させます。
+> CONTEXT: Map231/events/30/pages/0/160/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「一度夜の国に行ったら、
+　そこから\\dさめる\\dことができない限り
+　こちらの世界には戻れないでしょう。
+> CONTEXT: Map231/events/30/pages/0/162/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「準備はよろしいですか？
+> CONTEXT: Map231/events/30/pages/0/165/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「準備はよろしいですか？」
+> CONTEXT: Map231/events/30/pages/0/167/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔方陣にはまだ魔力が残っている……
+> CONTEXT: Map231/events/30/pages/2/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/30/pages/3/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夜の国へ行きますか？
+> CONTEXT: Map231/events/30/pages/2/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/30/pages/3/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どの場所へ行きますか？
+> CONTEXT: Map231/events/30/pages/2/5/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/30/pages/3/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ビトルの場所
+> CONTEXT: Map231/events/30/pages/2/6/Choice/0 < UNTRANSLATED
+> CONTEXT: Map231/events/30/pages/3/6/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+オーリョースの町
+> CONTEXT: Map231/events/30/pages/2/6/Choice/1 < UNTRANSLATED
+> CONTEXT: Map231/events/30/pages/3/6/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ニョールの町
+> CONTEXT: Map231/events/30/pages/3/6/Choice/2 < UNTRANSLATED
+
+> END STRING

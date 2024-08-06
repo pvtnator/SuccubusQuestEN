@@ -1,0 +1,83 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「………ん？
+> CONTEXT: Map031/events/3/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「誰かに見られた感じが………
+　…気のせいか。
+> CONTEXT: Map031/events/3/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ハーピー？"
+> CONTEXT: Map031/events/3/pages/0/10/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map031/events/3/pages/0/19/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map031/events/3/pages/0/29/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map031/events/3/pages/0/38/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map031/events/3/pages/0/48/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「みつけたわぁ～～～っ！
+　にっくき勇者・ラルス！！
+> CONTEXT: Map031/events/3/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「魔王様が倒されて、
+　仲間もたくさんいなくなっちゃったけど……
+> CONTEXT: Map031/events/3/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あたし達がまだここにいるぅ！
+> CONTEXT: Map031/events/3/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「魔王様もまだ、
+　どこかで生きている！
+> CONTEXT: Map031/events/3/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「行くわよ！
+　リズ・ラズ！　ロッコ・バロッコ！
+> CONTEXT: Map031/events/3/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「待ち伏せするわ！
+　今度こそ勇者を倒すのよ！
+> CONTEXT: Map031/events/3/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「魔王様のためにっ！！
+> CONTEXT: Map031/events/3/pages/0/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「まかせて！
+　エスプラーナ姉！
+> CONTEXT: Map031/events/3/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おぅ～～～！
+> CONTEXT: Map031/events/3/pages/0/62/Dialogue < UNTRANSLATED
+
+> END STRING

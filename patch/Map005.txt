@@ -1,0 +1,13 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+宝箱は空っぽだった………
+> CONTEXT: Map005/events/2/pages/0/0/Dialogue
+> CONTEXT: Map005/events/3/pages/0/0/Dialogue
+The treasure chest was empty...
+> END STRING
+
+> BEGIN STRING
+\\c[4]魔王のかけら\\c[0]を手に入れた！
+> CONTEXT: Map005/events/4/pages/0/14/Dialogue
+You have obtained the \\c[4]Demon King's Shard\\c[0]!
+> END STRING

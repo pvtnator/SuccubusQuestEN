@@ -1,0 +1,60 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ブレイブ
+> CONTEXT: Classes/1/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アルカナ
+> CONTEXT: Classes/2/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ブレイブ(手弱点)
+> CONTEXT: Classes/3/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ブレイブ(口弱点)
+> CONTEXT: Classes/4/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ブレイブ(胸弱点)
+> CONTEXT: Classes/5/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ブレイブ(足弱点)
+> CONTEXT: Classes/6/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ブレイブ(♀弱点)
+> CONTEXT: Classes/7/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+勇者
+> CONTEXT: Classes/11/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔術士
+> CONTEXT: Classes/12/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+戦士
+> CONTEXT: Classes/13/name/ < UNTRANSLATED
+
+> END STRING

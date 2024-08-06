@@ -1,0 +1,463 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+"声"
+> CONTEXT: Map313/events/10/pages/0/28/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map316/events/10/pages/0/28/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map313/events/16/pages/0/28/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map316/events/16/pages/0/28/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map243/events/1/pages/0/101/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map222/events/9/pages/0/3/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map193/events/10/pages/0/28/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map190/events/19/pages/0/11/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map184/events/49/pages/1/4/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map170/events/1/pages/0/34/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map193/events/16/pages/0/28/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map170/events/1/pages/0/110/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map193/events/17/pages/0/320/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map142/events/19/pages/0/2/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map142/events/19/pages/0/72/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map061/events/19/pages/0/28/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/307/7/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「来たか………………
+> CONTEXT: Map313/events/10/pages/0/29/Dialogue < UNTRANSLATED
+> CONTEXT: Map316/events/10/pages/0/29/Dialogue < UNTRANSLATED
+> CONTEXT: Map313/events/16/pages/0/29/Dialogue < UNTRANSLATED
+> CONTEXT: Map316/events/16/pages/0/29/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/10/pages/0/29/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/16/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「遅かったな、\\n[1]。
+> CONTEXT: Map313/events/10/pages/0/32/Dialogue < UNTRANSLATED
+> CONTEXT: Map316/events/10/pages/0/32/Dialogue < UNTRANSLATED
+> CONTEXT: Map313/events/16/pages/0/32/Dialogue < UNTRANSLATED
+> CONTEXT: Map316/events/16/pages/0/32/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/10/pages/0/32/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/16/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ここにあった『盃』のかけら、
+　\\c[4]ガルドル\\c[0]は既に……
+> CONTEXT: Map313/events/10/pages/0/33/Dialogue < UNTRANSLATED
+> CONTEXT: Map316/events/10/pages/0/33/Dialogue < UNTRANSLATED
+> CONTEXT: Map313/events/16/pages/0/33/Dialogue < UNTRANSLATED
+> CONTEXT: Map316/events/16/pages/0/33/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/10/pages/0/33/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/16/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…………我が掌中！
+> CONTEXT: Map313/events/10/pages/0/43/Dialogue < UNTRANSLATED
+> CONTEXT: Map316/events/10/pages/0/43/Dialogue < UNTRANSLATED
+> CONTEXT: Map313/events/16/pages/0/43/Dialogue < UNTRANSLATED
+> CONTEXT: Map316/events/16/pages/0/43/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/10/pages/0/43/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/16/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「今から
+　私たちのものになるのよ！
+> CONTEXT: Map313/events/10/pages/0/69/Dialogue < UNTRANSLATED
+> CONTEXT: Map316/events/10/pages/0/69/Dialogue < UNTRANSLATED
+> CONTEXT: Map313/events/16/pages/0/68/Dialogue < UNTRANSLATED
+> CONTEXT: Map316/events/16/pages/0/68/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/10/pages/0/69/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/16/pages/0/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「『使い魔』………
+　何故そこまで\\n[1]に
+　肩入れするのか分からんが……
+> CONTEXT: Map313/events/10/pages/0/78/Dialogue < UNTRANSLATED
+> CONTEXT: Map316/events/10/pages/0/78/Dialogue < UNTRANSLATED
+> CONTEXT: Map313/events/10/pages/0/137/Dialogue < UNTRANSLATED
+> CONTEXT: Map316/events/10/pages/0/137/Dialogue < UNTRANSLATED
+> CONTEXT: Map313/events/16/pages/0/78/Dialogue < UNTRANSLATED
+> CONTEXT: Map316/events/16/pages/0/78/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/10/pages/0/78/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/10/pages/0/137/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/16/pages/0/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「だがもう抵抗もできん！
+> CONTEXT: Map313/events/10/pages/0/81/Dialogue < UNTRANSLATED
+> CONTEXT: Map316/events/10/pages/0/81/Dialogue < UNTRANSLATED
+> CONTEXT: Map313/events/16/pages/0/84/Dialogue < UNTRANSLATED
+> CONTEXT: Map316/events/16/pages/0/84/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/10/pages/0/81/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/16/pages/0/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「きゃあっ！？
+> CONTEXT: Map313/events/10/pages/0/86/Dialogue < UNTRANSLATED
+> CONTEXT: Map316/events/10/pages/0/86/Dialogue < UNTRANSLATED
+> CONTEXT: Map313/events/16/pages/0/98/Dialogue < UNTRANSLATED
+> CONTEXT: Map316/events/16/pages/0/98/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/10/pages/0/86/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/16/pages/0/98/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「止めろ！
+　賢王ッ！！
+> CONTEXT: Map313/events/10/pages/0/101/Dialogue < UNTRANSLATED
+> CONTEXT: Map316/events/10/pages/0/101/Dialogue < UNTRANSLATED
+> CONTEXT: Map313/events/16/pages/0/140/Dialogue < UNTRANSLATED
+> CONTEXT: Map316/events/16/pages/0/140/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/10/pages/0/101/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/16/pages/0/140/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やっぱりあんた………
+　魔王を復活させる気だな！？
+> CONTEXT: Map313/events/10/pages/0/114/Dialogue < UNTRANSLATED
+> CONTEXT: Map316/events/10/pages/0/114/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/10/pages/0/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「グルッペンで調べたぜ。
+　記録にある魔王と夢魔はどれも、お互い
+　入れ違いに世界に現れている。
+> CONTEXT: Map313/events/10/pages/0/116/Dialogue < UNTRANSLATED
+> CONTEXT: Map316/events/10/pages/0/116/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/10/pages/0/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「つまり……、
+　夢魔を世界から追い出すための
+　代償が魔王だ！
+> CONTEXT: Map313/events/10/pages/0/119/Dialogue < UNTRANSLATED
+> CONTEXT: Map316/events/10/pages/0/119/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/10/pages/0/119/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\dかけら\\dが集まった時に手に入る
+　夢魔に対抗する力ってのは……
+> CONTEXT: Map313/events/10/pages/0/122/Dialogue < UNTRANSLATED
+> CONTEXT: Map316/events/10/pages/0/122/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/10/pages/0/122/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\d魔王そのもののことだ\\d！
+　違うか！？
+> CONTEXT: Map313/events/10/pages/0/124/Dialogue < UNTRANSLATED
+> CONTEXT: Map316/events/10/pages/0/124/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/10/pages/0/124/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あんな奴を復活させるためじゃない！
+　俺は………
+> CONTEXT: Map313/events/10/pages/0/148/Dialogue < UNTRANSLATED
+> CONTEXT: Map316/events/10/pages/0/148/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/10/pages/0/148/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……俺は…………
+　力が欲しかっただけだ……
+> CONTEXT: Map313/events/10/pages/0/150/Dialogue < UNTRANSLATED
+> CONTEXT: Map316/events/10/pages/0/150/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/10/pages/0/150/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「夢魔を倒す力！
+　オリビアを護る力！
+> CONTEXT: Map313/events/10/pages/0/152/Dialogue < UNTRANSLATED
+> CONTEXT: Map316/events/10/pages/0/152/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/10/pages/0/152/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\dそれが魔王だ\\d！
+> CONTEXT: Map313/events/10/pages/0/155/Dialogue < UNTRANSLATED
+> CONTEXT: Map316/events/10/pages/0/155/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/10/pages/0/155/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……それに、
+　思い違いをしているようだな。
+> CONTEXT: Map313/events/10/pages/0/156/Dialogue < UNTRANSLATED
+> CONTEXT: Map316/events/10/pages/0/156/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/10/pages/0/156/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「魔王は復活するのではない。
+　かけらを集めた者が、
+　新たな魔王と\\dなる\\dのだ。
+> CONTEXT: Map313/events/10/pages/0/158/Dialogue < UNTRANSLATED
+> CONTEXT: Map316/events/10/pages/0/158/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/10/pages/0/158/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…………何！？
+> CONTEXT: Map313/events/10/pages/0/164/Dialogue < UNTRANSLATED
+> CONTEXT: Map316/events/10/pages/0/164/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/10/pages/0/164/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「さあ………
+　\\n[1]………！
+> CONTEXT: Map313/events/16/pages/0/111/Dialogue < UNTRANSLATED
+> CONTEXT: Map316/events/16/pages/0/111/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/16/pages/0/111/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ク………ッ！
+> CONTEXT: Map313/events/16/pages/0/153/Dialogue < UNTRANSLATED
+> CONTEXT: Map316/events/16/pages/0/153/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/16/pages/0/153/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「無駄だ……。
+　お前もそこで見ているがいい。
+> CONTEXT: Map313/events/16/pages/0/162/Dialogue < UNTRANSLATED
+> CONTEXT: Map316/events/16/pages/0/162/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/16/pages/0/162/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……新たな魔王の誕生をッ！！
+> CONTEXT: Map313/events/16/pages/0/176/Dialogue < UNTRANSLATED
+> CONTEXT: Map316/events/16/pages/0/176/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/16/pages/0/176/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「な……何………！？
+> CONTEXT: Map313/events/16/pages/0/197/Dialogue < UNTRANSLATED
+> CONTEXT: Map316/events/16/pages/0/197/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/16/pages/0/197/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………やはり何も知らずに
+　\\dかけら\\dを集めていたか。
+> CONTEXT: Map313/events/16/pages/0/201/Dialogue < UNTRANSLATED
+> CONTEXT: Map316/events/16/pages/0/201/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/16/pages/0/201/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「夢魔がこの世界を
+　犯そうとするのは、
+　これが初めてではない。
+> CONTEXT: Map313/events/16/pages/0/203/Dialogue < UNTRANSLATED
+> CONTEXT: Map316/events/16/pages/0/203/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/16/pages/0/203/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/17/pages/0/441/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それは永きに渡り
+　繰り返し行われてきたこと……。
+> CONTEXT: Map313/events/16/pages/0/206/Dialogue < UNTRANSLATED
+> CONTEXT: Map316/events/16/pages/0/206/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/16/pages/0/206/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/17/pages/0/444/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そして常に…、夢魔と入れ替わりに
+　世界現れる存在がある。
+> CONTEXT: Map313/events/16/pages/0/208/Dialogue < UNTRANSLATED
+> CONTEXT: Map316/events/16/pages/0/208/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/16/pages/0/208/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/17/pages/0/446/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………………！
+　まさか………
+> CONTEXT: Map313/events/16/pages/0/211/Dialogue < UNTRANSLATED
+> CONTEXT: Map316/events/16/pages/0/211/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/16/pages/0/211/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「魔王とは……夢魔を世界から
+　追い出すための代償！
+> CONTEXT: Map313/events/16/pages/0/216/Dialogue < UNTRANSLATED
+> CONTEXT: Map316/events/16/pages/0/216/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/16/pages/0/216/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/17/pages/0/451/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\dかけら\\dを再び集めし時手に入る
+　\\d夢魔に対抗する力\\dというのは……
+> CONTEXT: Map313/events/16/pages/0/218/Dialogue < UNTRANSLATED
+> CONTEXT: Map316/events/16/pages/0/218/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/16/pages/0/218/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/17/pages/0/453/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\d魔王そのもののことだ\\d！！
+> CONTEXT: Map313/events/16/pages/0/220/Dialogue < UNTRANSLATED
+> CONTEXT: Map316/events/16/pages/0/220/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/16/pages/0/220/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………じゃあ……
+　あんたは一体…………！？
+> CONTEXT: Map313/events/16/pages/0/222/Dialogue < UNTRANSLATED
+> CONTEXT: Map316/events/16/pages/0/222/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/16/pages/0/222/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……そしてこの\\c[4]ガルドル\\c[0]こそは、
+　魔王の復活を執り行うための『盃』。
+> CONTEXT: Map313/events/16/pages/0/225/Dialogue < UNTRANSLATED
+> CONTEXT: Map316/events/16/pages/0/225/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/16/pages/0/225/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「古に　魔なる者在り
+> CONTEXT: Map313/events/17/pages/0/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いかなる刃　いかなる炎
+　魔を傷つけることかなわず
+> CONTEXT: Map313/events/17/pages/0/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「しかし、魔もまた
+　何者も傷つけることなく
+> CONTEXT: Map313/events/17/pages/0/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ただ愛を求めし
+> CONTEXT: Map313/events/17/pages/0/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やがて　魔に抗う者在り
+> CONTEXT: Map313/events/17/pages/0/95/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「その力　魔を滅ぼすも
+　彼もまた　多くを失い
+> CONTEXT: Map313/events/17/pages/0/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「絶望のうち　新たな魔となる
+> CONTEXT: Map313/events/17/pages/0/98/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「終わらぬ螺旋　お前もまた
+> CONTEXT: Map313/events/17/pages/0/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「抜け出せなかった　その内から
+> CONTEXT: Map313/events/17/pages/0/111/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ならばその名が　我々の
+> CONTEXT: Map313/events/17/pages/0/123/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「記憶から消えぬ間に
+　まだ輝ける間に
+> CONTEXT: Map313/events/17/pages/0/124/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「葬りましょう　跡形もなく
+> CONTEXT: Map313/events/17/pages/0/126/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「覚悟、魔王………
+> CONTEXT: Map313/events/17/pages/0/153/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……魔王、\\n[1]！！
+> CONTEXT: Map313/events/17/pages/0/157/Dialogue < UNTRANSLATED
+
+> END STRING

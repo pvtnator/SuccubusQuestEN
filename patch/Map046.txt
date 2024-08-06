@@ -1,0 +1,631 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「困ったわ…
+　あの人たち、すごく真剣に
+　わけわからない話してて……
+> CONTEXT: Map046/events/4/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「『安くすませる今夜の一品おかず』どこですか？
+　…なんてとても聞けない……
+> CONTEXT: Map046/events/4/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/4/pages/1/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「困ったわ…
+　あの人たち、ますます真剣に
+　おかしな話してて……
+> CONTEXT: Map046/events/4/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「夢魔たちは『夜の国』を拠点に、
+　いくつもの世界を渡り歩いているといいます。
+> CONTEXT: Map046/events/5/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「見たこともない精霊や魔物たちは、
+　きっと他の世界の生き物が
+　夢魔となった姿なのでしょう。
+> CONTEXT: Map046/events/5/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+　* 魔王…そ…転……方… *
+> CONTEXT: Map046/events/7/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/32/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔王に関する本のようだが、
+ボロボロでほとんど読めない
+> CONTEXT: Map046/events/7/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/32/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ページの横にメモが書かれている
+> CONTEXT: Map046/events/7/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/32/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+　　　　　　　　　　　　　　槍、　　　盃、　　　剣、
+　　　　　　　　　　　　　　　　杖、　　　使い魔
+> CONTEXT: Map046/events/7/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/32/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+　　　　　　　　　　　　　　　　　杖は　我が手に
+> CONTEXT: Map046/events/7/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/32/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+　* 夢への抗い *
+> CONTEXT: Map046/events/8/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/36/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「夢魔とは夢そのものである。
+　夢を寄せ付けないためには、
+　現実を集めればよい。
+> CONTEXT: Map046/events/8/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/36/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「たとえば人や建物のたくさんある
+　町や村などは、
+　もっとも効果的な現実の集まりである。
+> CONTEXT: Map046/events/8/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/36/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「逆に深い森や洞窟は、
+　いつのまにか夢魔のすみかへと
+　つながっていることがある。
+　ゆめゆめ気をつけるべし。
+> CONTEXT: Map046/events/8/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/36/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おお、よくぞいらっしゃいました\\n[1]殿。
+> CONTEXT: Map046/events/9/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「グランマル様に命じれられ、
+　お役に立ちそうな書物を集めてございます。
+> CONTEXT: Map046/events/9/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「少し前に、戦士風の方がいらっしゃって
+　調べ物をしていきました。
+> CONTEXT: Map046/events/9/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どうもその方もドラウムニョルのほこらに
+　興味を持っていたようです。
+> CONTEXT: Map046/events/9/pages/1/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おや、それは
+　\\c[4]グルッペン章\\c[0]ではありませんか。
+> CONTEXT: Map046/events/9/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それは、この城のどこかに通じる
+　カギの役割をしているものです。
+> CONTEXT: Map046/events/9/pages/2/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「西の\\c[1]ドラウムニョルのほこら\\c[0]に
+　夢魔らしき魔物が集まっていると聞きます。
+> CONTEXT: Map046/events/10/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ドラウムニョルは大昔に魔物が造ったと
+　言われる\\dほこら\\dですが、
+　今はもう打ち捨てられていたはず……。
+> CONTEXT: Map046/events/10/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ここにも関係した本があったはずなので、
+　興味がおありなら調べてみるとよろしいでしょう。
+> CONTEXT: Map046/events/10/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\c[1]ドラウムニョル\\c[0]は大昔に魔物が造ったと
+　言われる\\dほこら\\dですが、
+　今はもう打ち捨てられていたはず……。
+> CONTEXT: Map046/events/10/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ここの書庫にも関係した本があったはずなので、
+　興味がおありなら調べてみるとよろしいでしょう。
+> CONTEXT: Map046/events/10/pages/1/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おお勇者様、
+　ドラウムニョルへ行ってきたのですか？
+> CONTEXT: Map046/events/10/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「実はあの場所には、魔王ギルデンスターンも
+　何度か訪れていたようなのです。
+> CONTEXT: Map046/events/10/pages/2/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あの場所にこそ
+　魔王の力の秘密があるのではと、
+　私はにらんでおります。
+> CONTEXT: Map046/events/10/pages/2/5/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/10/pages/3/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「実はドラウムニョルのほこらには、
+　魔王ギルデンスターンも
+　何度か訪れていたようなのです。
+> CONTEXT: Map046/events/10/pages/3/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「夢魔に精を吸われた男は、
+　そのあまりに強い快楽のため、
+> CONTEXT: Map046/events/11/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「精神をも犯され廃人になってしまうか、
+　運よく正気を保っても
+　夢魔以外とは交われなくなってしまうそうです。
+> CONTEXT: Map046/events/11/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「つまり、放っておけば私たちは
+　子孫を残せなくなり、
+　ゆっくりと滅んでいくということ……
+> CONTEXT: Map046/events/11/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「このグルッペンの近くに
+　魔王が自ら足を運ぶ場所があると聞き、
+　調査隊を派遣したことがあります。
+> CONTEXT: Map046/events/12/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「しかし結果は失敗、
+　調査隊は誰一人として帰還しませんでした。
+> CONTEXT: Map046/events/12/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「奇妙なのは、魔物と戦った形跡すら
+　どこにも見当たらなかったことです。
+　彼らは一体どこに行ってしまったのか……
+> CONTEXT: Map046/events/12/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「以前にも、今回のように
+　倒された魔王がバラバラの\\dかけら\\dに
+　分かれたことがあるようです。
+> CONTEXT: Map046/events/12/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「『剣』のかけら\\c[4]グラム\\c[0]には
+　魔王の破壊の力が、
+> CONTEXT: Map046/events/12/pages/1/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「『杖』のかけら\\c[4]ガンバンティン\\c[0]には
+　魔王の魔力が、
+> CONTEXT: Map046/events/12/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「『槍』のかけら\\c[4]グングニル\\c[0]には
+　魔王のカリスマが、
+> CONTEXT: Map046/events/12/pages/1/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「『使い魔』のかけら\\c[4]ルヴィッサ\\c[0]には
+　魔王の意志が、
+> CONTEXT: Map046/events/12/pages/1/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そして『杯』のかけら\\c[4]ガルドル\\c[0]には
+　魔王が次なる魔王を生み出すための力が、
+　それぞれ封じ込まれているといいます。
+> CONTEXT: Map046/events/12/pages/1/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「『魔王』は今まで、何度も世界に
+　あらわれていると古い記録にあります。
+> CONTEXT: Map046/events/13/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「となれば今考えるべきは、
+　次なる魔王の出現を阻止すること……
+> CONTEXT: Map046/events/13/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「魔王に何か目的があったのならば、
+　それを断つことが一番なのでしょう。
+> CONTEXT: Map046/events/13/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+　* 魔王論 *
+> CONTEXT: Map046/events/14/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/26/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「幾度倒せどもいずれ必ず復活する魔王。
+　これは天の神々が人に課した試練に違いない。
+　魔王が復活するのは、
+　人がまだ試練に打ち勝てていないからなのだ。
+> CONTEXT: Map046/events/14/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/26/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「その試練とはすなわち、
+　全ての人間が聖エーランドの崇高なる教えに従い、
+　あらゆる欲を捨て去り清廉なる生を送ることである。
+> CONTEXT: Map046/events/14/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/26/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「その先には必ず、
+　魔王のいない幸福な世界が待っているであろう。
+> CONTEXT: Map046/events/14/pages/0/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/26/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エーランド教会　著
+> CONTEXT: Map046/events/14/pages/0/13/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/26/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+　* 幻想動物図鑑 *
+> CONTEXT: Map046/events/15/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/24/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+幻想的な動物たちの姿が
+緻密なタッチで描かれている
+> CONTEXT: Map046/events/15/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/24/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+中には実際に戦ったことがある
+モンスターの姿もある
+> CONTEXT: Map046/events/15/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/24/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「夢魔たちは『夜の国』と呼ばれる場所から来て、
+　力が弱まるとまた『夜の国』へ帰ると
+　言われています。
+> CONTEXT: Map046/events/16/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「しかしどの文献を探しても、
+　『夜の国』そのものに関する記録が無いのです。
+　どこにそんな場所があるのでしょう……
+> CONTEXT: Map046/events/16/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+本の間になにか挟まっている……
+> CONTEXT: Map046/events/21/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/22/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+　* パラダイムとしての魔法社会学　　　　　　　　　　  *
+　* ～リスヴェグ応用魔術の認知哲学的考察～ *
+> CONTEXT: Map046/events/23/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/23/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/23/pages/2/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/25/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/25/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/25/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+……手に取る気も起きない
+> CONTEXT: Map046/events/23/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/25/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+……勇気を出してページをめくってみた
+> CONTEXT: Map046/events/23/pages/1/5/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/25/pages/1/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんと、カバーの中身は\\c[3]エッチな本\\c[0]だった！
+> CONTEXT: Map046/events/23/pages/1/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/25/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カバーだけがむなしく置かれている
+> CONTEXT: Map046/events/23/pages/2/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/25/pages/2/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+　* 魔王と私 *
+> CONTEXT: Map046/events/27/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/28/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私の彼は魔王様。
+　今夜も私を壊しに来る。
+　悪魔のテクニックで、魔獣の激しさで、
+　私の理性はもう……
+> CONTEXT: Map046/events/27/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/28/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+……ただのエッチな小説のようだ
+> CONTEXT: Map046/events/27/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/28/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+　* ドラウムニョル調査報告書 *
+> CONTEXT: Map046/events/29/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/30/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「王都よりさほど遠くない、木々に囲まれた洞窟。
+　そこを通り抜け、ついに我々は
+　目的の場所へとたどり着いた。
+> CONTEXT: Map046/events/29/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/30/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「この古いほこらは今から千年以上前に
+　造られたものと見られる。
+　噂では魔物がこれを造ったということだが、
+　それにしては何か神聖なものを感じる。
+> CONTEXT: Map046/events/29/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/30/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「辺りには魔物が多いが、我々騎士団の敵ではない。
+　そういえば魔王がどうのと口走っていた魔物がいた。
+　この小さなほこらと魔王と何か関係があるのだろうか？
+> CONTEXT: Map046/events/29/pages/0/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/30/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「明日には内部を調査する予定だ。
+　追って報告を送る。
+> CONTEXT: Map046/events/29/pages/0/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/30/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+報告はそこで途切れている……
+> CONTEXT: Map046/events/29/pages/0/16/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/30/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そういえば数日前、賢王様がここに来て
+　何か熱心に調べておりました。
+> CONTEXT: Map046/events/31/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いやはや、
+　あのお方の仕事熱心ぶりには
+　頭が下がります。
+> CONTEXT: Map046/events/31/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「賢王さまがいなくなられたそうですが、
+　まさかここで調べていたことに
+　何か関係があるのでしょうか……
+> CONTEXT: Map046/events/31/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+　* 人はいつ夢魔となるか *
+> CONTEXT: Map046/events/35/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/39/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「この世の者が新たな夢魔となった時、
+　その者は二重の身体を持つ。
+> CONTEXT: Map046/events/35/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/39/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「すなわち、夜の国に住まう夢の体と
+　まだこの世との繋がりを持つ
+　現実の体の二つが同居するのである。
+> CONTEXT: Map046/events/35/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/39/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「しかし夢魔となって長い時間が経てば、
+　徐々に現実の体は失われ、
+　そう見えるものもまやかしでしかなくなるだろう。
+> CONTEXT: Map046/events/35/pages/0/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/39/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「この大図書館こそは、
+　マグナス様が賢王と呼ばれる
+　ゆえんの一つであります。
+> CONTEXT: Map046/events/43/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おかしいな……ここにあった本……
+> CONTEXT: Map046/events/43/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「なくなっている………
+　誰かが持っていったかな………
+> CONTEXT: Map046/events/43/pages/1/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「こっくり…こっくり……
+> CONTEXT: Map046/events/43/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+立ったまま居眠りしているようだ
+> CONTEXT: Map046/events/43/pages/2/3/Dialogue < UNTRANSLATED
+
+> END STRING

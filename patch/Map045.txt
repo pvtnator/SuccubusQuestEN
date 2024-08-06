@@ -1,0 +1,114 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+"侍女"
+> CONTEXT: Map045/events/4/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map045/events/4/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map043/events/2/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map043/events/2/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map043/events/2/pages/2/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map043/events/5/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map043/events/7/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map043/events/19/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map043/events/19/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map043/events/22/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map043/events/22/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map043/events/22/pages/2/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map043/events/22/pages/3/0/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「マグナス様って、
+　ちょうど魔王があらわれた頃に即位されたから、
+　もうお歳は40に近いはずなのよね。
+> CONTEXT: Map045/events/4/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………見えないわよねーっ？
+> CONTEXT: Map045/events/4/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ねえ聞いた？
+　賢王様がいなくなっちゃったって。
+> CONTEXT: Map045/events/4/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でも誘拐されるような人じゃないし……
+　きっとふらっと戻ってくるわよ。
+> CONTEXT: Map045/events/4/pages/1/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「数日前、賢王様の側近の方々が
+　この庭で何かを探していました。
+> CONTEXT: Map045/events/5/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「失くしものでもしたんでしょうかね？
+> CONTEXT: Map045/events/5/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「庭はいいですね………
+　心が安らぎます……。
+> CONTEXT: Map045/events/5/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あァ……ヒマだ………
+> CONTEXT: Map045/events/6/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map045/events/6/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ほんの数日前まで、命をかけて
+　魔物と戦ってたのが夢のようだ………
+> CONTEXT: Map045/events/6/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………なんて言ってられなくなったな。
+　もはや何が起こるか分からん。
+> CONTEXT: Map045/events/6/pages/1/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「先ほど、
+　賢王様がお帰りになられたようです。
+> CONTEXT: Map045/events/6/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「しかしただごとではない様子でした。
+　一体………
+> CONTEXT: Map045/events/6/pages/2/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何かが落ちていた跡がある
+> CONTEXT: Map045/events/10/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ここ……、
+　かすかに魔力を感じるわね。
+> CONTEXT: Map045/events/10/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,48 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\a[100]「でも………
+> CONTEXT: Map362/events/3/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[140]「\\n[1]となら、私、
+　どこでも……
+> CONTEXT: Map362/events/3/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[100]「ほら、早く……
+> CONTEXT: Map362/events/3/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[100]「行きましょう！
+> CONTEXT: Map362/events/3/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"？？？/Sitri/09"
+> CONTEXT: Map362/events/3/pages/0/78/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map360/events/17/pages/0/91/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map246/events/4/pages/0/4/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふ………
+> CONTEXT: Map362/events/3/pages/0/79/Dialogue < UNTRANSLATED
+> CONTEXT: Map360/events/17/pages/0/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふ……ふふふ………
+　ふふふふふふふ！
+> CONTEXT: Map362/events/3/pages/0/80/Dialogue < UNTRANSLATED
+> CONTEXT: Map360/events/17/pages/0/93/Dialogue < UNTRANSLATED
+
+> END STRING

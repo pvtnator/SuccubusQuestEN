@@ -1,0 +1,46 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「ここまで人がくるなんて
+　珍しいニャぁ～～
+> CONTEXT: Map129/events/12/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「自分からここに来るなんて……
+　バカな人間ね…\\e[0]
+> CONTEXT: Map129/events/12/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\dごほうび\\dの時間までまだあるし、
+　ちょっとつまみ食いしちゃおっかニャ♪
+> CONTEXT: Map129/events/12/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「グルルル…………
+> CONTEXT: Map129/events/12/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「しばらく様子をみましょ……
+　…命拾いしたわね、人間。
+> CONTEXT: Map129/events/12/pages/0/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「たべたかったニャぁ～っ
+> CONTEXT: Map129/events/12/pages/0/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ガオォンッ！
+> CONTEXT: Map129/events/12/pages/0/76/Dialogue < UNTRANSLATED
+
+> END STRING

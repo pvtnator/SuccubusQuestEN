@@ -1,0 +1,68 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「イタズラ好きな魔物には、
+　男の\\dアレ\\dを小さくしちまう
+　魔法を使う奴もいるらしい……
+> CONTEXT: Map049/events/2/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「か、考えただけでも恐ろしいぜ……・
+> CONTEXT: Map049/events/2/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ここで売っている\\c[2]エッセンス\\c[0]で
+　治療できるバッドステートは、
+　どれも自然には治らないものばかりです。
+> CONTEXT: Map049/events/3/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ちょっと余分に持っていた方が
+　安心かも知れませんね。
+> CONTEXT: Map049/events/3/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「本日は『安らぎの店　リンドヴァル』にお越しいただき
+　誠にありがとうございます。
+　こちらでは、リンドヴァルで扱っております
+　商品の種類についてご案内しております。
+> CONTEXT: Map049/events/5/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map049/events/6/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map016/events/9/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map016/events/11/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「〔エッセンス〕
+　センシブになったりナーバスになったりなど、あなたにとって
+　好ましくない状態から回復するのに向いております。
+　お取り込み中でもご使用なさることが可能です。
+> CONTEXT: Map049/events/5/pages/0/16/Dialogue < UNTRANSLATED
+> CONTEXT: Map049/events/6/pages/0/16/Dialogue < UNTRANSLATED
+> CONTEXT: Map016/events/9/pages/0/16/Dialogue < UNTRANSLATED
+> CONTEXT: Map016/events/11/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「魔王もいなくなったし、
+　これからは恋する乙女になるのよっ
+> CONTEXT: Map049/events/9/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「甘ぁ～い香水で、
+　今町にいる勇者様のこと
+　誘惑しちゃおっと♪
+> CONTEXT: Map049/events/9/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING

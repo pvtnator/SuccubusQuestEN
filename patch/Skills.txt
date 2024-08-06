@@ -1,0 +1,3499 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+■主人公用基本スキル
+> CONTEXT: Skills/1/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+服を脱ぐ
+> CONTEXT: Skills/2/name/ < UNTRANSLATED
+> CONTEXT: Skills/201/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ベーススキル
+> CONTEXT: Skills/2/description/ < UNTRANSLATED
+> CONTEXT: Skills/3/description/ < UNTRANSLATED
+> CONTEXT: Skills/4/description/ < UNTRANSLATED
+> CONTEXT: System/elements/47/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+服を脱がせる
+> CONTEXT: Skills/3/name/ < UNTRANSLATED
+> CONTEXT: Skills/202/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+インサート
+> CONTEXT: Skills/4/name/ < UNTRANSLATED
+> CONTEXT: System/elements/44/ < UNTRANSLATED
+> CONTEXT: Skills/203/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サモン
+> CONTEXT: Skills/5/name/ < UNTRANSLATED
+> CONTEXT: Skills/252/name/ < UNTRANSLATED
+> CONTEXT: Skills/319/name/ < UNTRANSLATED
+> CONTEXT: Skills/663/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルヴィッサを呼び出す
+> CONTEXT: Skills/5/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リターン
+> CONTEXT: Skills/6/name/ < UNTRANSLATED
+> CONTEXT: Skills/91/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルヴィッサを帰還させる
+> CONTEXT: Skills/6/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ガード
+> CONTEXT: Skills/7/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+1ターンだけ快感から身を守る
+> CONTEXT: Skills/7/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アナライズ
+> CONTEXT: Skills/8/name/ < UNTRANSLATED
+> CONTEXT: Skills/660/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+相手の性格や弱点を調べる
+> CONTEXT: Skills/8/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アナライズ(デバッグ専用)
+> CONTEXT: Skills/9/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+相手のデータをチェックする
+> CONTEXT: Skills/9/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アトラクト
+> CONTEXT: Skills/10/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夢魔をおびき寄せる
+> CONTEXT: Skills/10/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+服を脱がせる(必中)
+> CONTEXT: Skills/11/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ベーススキル　イベント用
+> CONTEXT: Skills/11/description/ < UNTRANSLATED
+> CONTEXT: Skills/12/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+インサート(必中)
+> CONTEXT: Skills/12/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もがく
+> CONTEXT: Skills/13/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もがいて拘束から逃れる
+> CONTEXT: Skills/13/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■主人公用トークスキル
+> CONTEXT: Skills/14/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+甘い言葉
+> CONTEXT: Skills/16/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔トーク〕 成功率：ムードに比例
+> CONTEXT: Skills/16/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■主人公用回復スキル
+> CONTEXT: Skills/20/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+クリアマインド/-1/0/0
+> CONTEXT: Skills/21/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+気分を一新させ、EPとTPを回復する　[リチャージ：バトル]
+> CONTEXT: Skills/21/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カームブレス
+> CONTEXT: Skills/22/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+落ち着いた呼吸でEPを回復する
+> CONTEXT: Skills/22/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+106-Heal02
+> CONTEXT: Skills/22/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Skills/23/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/21/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/23/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/24/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/25/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/26/menu_se/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+メディテーション/10/0/0
+> CONTEXT: Skills/23/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精神を集中させEPを回復する [リチャージ：10ターン]
+> CONTEXT: Skills/23/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■主人公用補助スキル
+> CONTEXT: Skills/30/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ファシネイトキッス/5/0/0
+> CONTEXT: Skills/31/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅惑のキスで相手一人を恍惚状態にする　[リチャージ：5]
+> CONTEXT: Skills/31/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ファシネイトアイ
+> CONTEXT: Skills/32/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+視線で魅惑する [リチャージ：5ターン]
+> CONTEXT: Skills/32/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ファシネイトオーラ/5/0/0
+> CONTEXT: Skills/33/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔の魅力を発散し相手全員を魅了する　[リチャージ：5ターン]
+> CONTEXT: Skills/33/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エキサイト/7/0/0
+> CONTEXT: Skills/34/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エキサイト状態になる(テンションアップ、守りダウン)　[リチャージ：7]
+> CONTEXT: Skills/34/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+クールダウン/7/0/0
+> CONTEXT: Skills/35/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+クール状態になる（守りアップ、テンションダウン）　[リチャージ：7]
+> CONTEXT: Skills/35/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+手加減して与える快感を抑える
+> CONTEXT: Skills/36/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほんき
+> CONTEXT: Skills/37/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+手加減するのをやめる
+> CONTEXT: Skills/37/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■主人公用本番スキル
+> CONTEXT: Skills/45/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ピストン/0/50/0
+> CONTEXT: Skills/46/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+腰をふる　[必要TP：50]
+> CONTEXT: Skills/46/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ダブルピストン/0/110/2
+> CONTEXT: Skills/47/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+激しく腰をふる [必要TP：110]
+> CONTEXT: Skills/47/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■主人公用攻撃スキル
+> CONTEXT: Skills/60/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キッス
+> CONTEXT: Skills/61/name/ < UNTRANSLATED
+> CONTEXT: Skills/375/name/ < UNTRANSLATED
+> CONTEXT: Skills/653/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+熱いキスをかわす
+> CONTEXT: Skills/61/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バスト
+> CONTEXT: Skills/62/name/ < UNTRANSLATED
+> CONTEXT: Commonevents/114/26/Label < UNTRANSLATED
+> CONTEXT: Commonevents/117/36/Label < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+胸をせめる
+> CONTEXT: Skills/62/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヒップ
+> CONTEXT: Skills/63/name/ < UNTRANSLATED
+> CONTEXT: Commonevents/114/37/Label < UNTRANSLATED
+> CONTEXT: Commonevents/117/54/Label < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お尻をせめる
+> CONTEXT: Skills/63/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴァッジ
+> CONTEXT: Skills/64/name/ < UNTRANSLATED
+> CONTEXT: Commonevents/114/48/Label < UNTRANSLATED
+> CONTEXT: Commonevents/117/72/Label < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アソコをせめる
+> CONTEXT: Skills/64/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キッス・ヘヴィ
+> CONTEXT: Skills/65/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ヘヴィ〕 熱いキスをかわす
+> CONTEXT: Skills/65/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バスト・ヘヴィ
+> CONTEXT: Skills/66/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ヘヴィ〕 胸をせめる
+> CONTEXT: Skills/66/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヒップ・ヘヴィ
+> CONTEXT: Skills/67/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ヘヴィ〕 お尻をせめる
+> CONTEXT: Skills/67/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴァッジ・ヘヴィ
+> CONTEXT: Skills/68/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ヘヴィ〕 アソコをせめる
+> CONTEXT: Skills/68/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キッス・ラッシュ
+> CONTEXT: Skills/69/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ラッシュ〕 熱いキスをかわす
+> CONTEXT: Skills/69/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バスト・ラッシュ
+> CONTEXT: Skills/70/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ラッシュ〕 胸をせめる
+> CONTEXT: Skills/70/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヒップ・ラッシュ
+> CONTEXT: Skills/71/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ラッシュ〕 お尻をせめる
+> CONTEXT: Skills/71/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴァッジ・ラッシュ
+> CONTEXT: Skills/72/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+〔ラッシュ〕 アソコをせめる
+> CONTEXT: Skills/72/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+テンダーキッス
+> CONTEXT: Skills/73/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+優しいキッスでムードアップ
+> CONTEXT: Skills/73/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フラート
+> CONTEXT: Skills/74/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+次に与える快感アップ / ムードアップ(小)
+> CONTEXT: Skills/74/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+チャージ/0/100/0
+> CONTEXT: Skills/75/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ランダムに激しくせめる [必要TP：100]
+> CONTEXT: Skills/75/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ラッシュ/0/105/0
+> CONTEXT: Skills/76/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ランダムに連続してせめる [必要TP：105]
+> CONTEXT: Skills/76/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■ルヴィッサ用スキル
+> CONTEXT: Skills/90/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ラルスのもとへ帰還する
+> CONTEXT: Skills/91/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+チェンジ
+> CONTEXT: Skills/92/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+装飾品を１つ装備しなおす
+> CONTEXT: Skills/92/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フリスギルデ/17/0/0
+> CONTEXT: Skills/93/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+秘められた魔王の力を一時的に呼び覚ます　　[リチャージ：17ターン]
+> CONTEXT: Skills/93/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+グリマギルデ/17/0/0
+> CONTEXT: Skills/94/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+隠された魔王の力を一時的に呼び覚ます　　[リチャージ：17ターン]
+> CONTEXT: Skills/94/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミュリンギルデ/17/0/0
+> CONTEXT: Skills/95/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+失われた魔王の力を一時的に呼び覚ます　　[リチャージ：17ターン]
+> CONTEXT: Skills/95/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ドルンバ/3/0/0
+> CONTEXT: Skills/96/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+相手一人の気をそらす / 成功率：ムードに反比例 [リチャージ：3ターン]
+> CONTEXT: Skills/96/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ロギン
+> CONTEXT: Skills/97/name/ < UNTRANSLATED
+> CONTEXT: Skills/315/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EP回復
+> CONTEXT: Skills/97/description/ < UNTRANSLATED
+> CONTEXT: Skills/99/description/ < UNTRANSLATED
+> CONTEXT: Skills/158/description/ < UNTRANSLATED
+> CONTEXT: Skills/267/description/ < UNTRANSLATED
+> CONTEXT: Skills/277/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+モル・ロギン/5/0/0
+> CONTEXT: Skills/98/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+徐々にEP回復 [リチャージ：5ターン]
+> CONTEXT: Skills/98/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ファル・ロギン
+> CONTEXT: Skills/99/name/ < UNTRANSLATED
+> CONTEXT: Skills/317/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アルス・ロギン
+> CONTEXT: Skills/100/name/ < UNTRANSLATED
+> CONTEXT: Skills/330/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EP全回復
+> CONTEXT: Skills/100/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+センスイーサ
+> CONTEXT: Skills/103/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+センシブ解除 / ナーバス解除
+> CONTEXT: Skills/103/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カースイーサ
+> CONTEXT: Skills/104/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミニマム解除 / ヴィジョン解除 / クラムジ解除
+> CONTEXT: Skills/104/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マインイーサ
+> CONTEXT: Skills/105/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+恍惚解除 / 暴走解除 / パニック解除
+> CONTEXT: Skills/105/description/ < UNTRANSLATED
+> CONTEXT: Skills/339/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バインイーサ
+> CONTEXT: Skills/106/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バインド解除
+> CONTEXT: Skills/106/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アルスイーサ
+> CONTEXT: Skills/110/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+全てのバッドステートを元に戻す
+> CONTEXT: Skills/110/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウルズグン
+> CONTEXT: Skills/112/name/ < UNTRANSLATED
+> CONTEXT: Skills/285/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精力アップ
+> CONTEXT: Skills/112/description/ < UNTRANSLATED
+> CONTEXT: Skills/119/description/ < UNTRANSLATED
+> CONTEXT: Skills/644/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ラグズグン
+> CONTEXT: Skills/113/name/ < UNTRANSLATED
+> CONTEXT: Skills/286/name/ < UNTRANSLATED
+> CONTEXT: Commonevents/150/279/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/153/282/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+技巧アップ
+> CONTEXT: Skills/113/description/ < UNTRANSLATED
+> CONTEXT: Skills/120/description/ < UNTRANSLATED
+> CONTEXT: Skills/283/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハガルグン
+> CONTEXT: Skills/114/name/ < UNTRANSLATED
+> CONTEXT: Skills/287/name/ < UNTRANSLATED
+> CONTEXT: Commonevents/150/279/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/153/282/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+素早さアップ
+> CONTEXT: Skills/114/description/ < UNTRANSLATED
+> CONTEXT: Skills/121/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エオルグン
+> CONTEXT: Skills/115/name/ < UNTRANSLATED
+> CONTEXT: Skills/288/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精神力アップ
+> CONTEXT: Skills/115/description/ < UNTRANSLATED
+> CONTEXT: Skills/122/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シギルグン
+> CONTEXT: Skills/116/name/ < UNTRANSLATED
+> CONTEXT: Skills/289/name/ < UNTRANSLATED
+> CONTEXT: Commonevents/150/407/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/153/410/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力アップ
+> CONTEXT: Skills/116/description/ < UNTRANSLATED
+> CONTEXT: Skills/123/description/ < UNTRANSLATED
+> CONTEXT: Skills/244/description/ < UNTRANSLATED
+> CONTEXT: Skills/282/description/ < UNTRANSLATED
+> CONTEXT: Skills/351/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ペルスグン
+> CONTEXT: Skills/117/name/ < UNTRANSLATED
+> CONTEXT: Skills/290/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+幸運アップ
+> CONTEXT: Skills/117/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ファル・ウルズグン
+> CONTEXT: Skills/119/name/ < UNTRANSLATED
+> CONTEXT: Skills/301/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ファル・ラグズグン
+> CONTEXT: Skills/120/name/ < UNTRANSLATED
+> CONTEXT: Skills/302/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ファル・ハガルグン
+> CONTEXT: Skills/121/name/ < UNTRANSLATED
+> CONTEXT: Skills/303/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ファル・エオルグン
+> CONTEXT: Skills/122/name/ < UNTRANSLATED
+> CONTEXT: Skills/304/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ファル・シギルグン
+> CONTEXT: Skills/123/name/ < UNTRANSLATED
+> CONTEXT: Skills/305/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アルスグン
+> CONTEXT: Skills/124/name/ < UNTRANSLATED
+> CONTEXT: Skills/162/name/ < UNTRANSLATED
+> CONTEXT: Skills/306/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+全能力アップ
+> CONTEXT: Skills/124/description/ < UNTRANSLATED
+> CONTEXT: Skills/162/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウルズフニ
+> CONTEXT: Skills/125/name/ < UNTRANSLATED
+> CONTEXT: Skills/291/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+相手の精力ダウン
+> CONTEXT: Skills/125/description/ < UNTRANSLATED
+> CONTEXT: Skills/291/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ラグズフニ
+> CONTEXT: Skills/126/name/ < UNTRANSLATED
+> CONTEXT: Skills/292/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+相手の技巧ダウン
+> CONTEXT: Skills/126/description/ < UNTRANSLATED
+> CONTEXT: Skills/292/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハガルフニ
+> CONTEXT: Skills/127/name/ < UNTRANSLATED
+> CONTEXT: Skills/293/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+相手の素早さダウン
+> CONTEXT: Skills/127/description/ < UNTRANSLATED
+> CONTEXT: Skills/293/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エオルフニ
+> CONTEXT: Skills/128/name/ < UNTRANSLATED
+> CONTEXT: Skills/294/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+相手の精神力ダウン
+> CONTEXT: Skills/128/description/ < UNTRANSLATED
+> CONTEXT: Skills/294/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シギルフニ
+> CONTEXT: Skills/129/name/ < UNTRANSLATED
+> CONTEXT: Skills/295/name/ < UNTRANSLATED
+> CONTEXT: Commonevents/150/407/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/153/410/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+相手の魅力ダウン
+> CONTEXT: Skills/129/description/ < UNTRANSLATED
+> CONTEXT: Skills/295/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アルスフニ
+> CONTEXT: Skills/130/name/ < UNTRANSLATED
+> CONTEXT: Skills/251/name/ < UNTRANSLATED
+> CONTEXT: Skills/312/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+相手の全能力ダウン
+> CONTEXT: Skills/130/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+イーサグン
+> CONTEXT: Skills/131/name/ < UNTRANSLATED
+> CONTEXT: Skills/313/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+相手にかかっているグン系の魔法を打ち消す
+> CONTEXT: Skills/131/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+イーサフニ
+> CONTEXT: Skills/132/name/ < UNTRANSLATED
+> CONTEXT: Skills/314/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+味方にかかっているフニ系の魔法を打ち消す
+> CONTEXT: Skills/132/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リスティル
+> CONTEXT: Skills/134/name/ < UNTRANSLATED
+> CONTEXT: Skills/310/name/ < UNTRANSLATED
+> CONTEXT: Commonevents/150/279/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/153/282/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルヴィッサ自身の魔力と魅力アップ
+> CONTEXT: Skills/134/description/ < UNTRANSLATED
+> CONTEXT: Skills/135/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ファル・リスティル
+> CONTEXT: Skills/135/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+パースヴァル
+> CONTEXT: Skills/137/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+動物に変身する
+> CONTEXT: Skills/137/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ベオクヴァル
+> CONTEXT: Skills/138/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アイテムを生成する
+> CONTEXT: Skills/138/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トリック/5/0/0
+> CONTEXT: Skills/140/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ターンを終わらせる [リチャージ：5ターン]
+> CONTEXT: Skills/140/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ラプチャ/7/0/0
+> CONTEXT: Skills/141/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+相手一人を恍惚状態にする [リチャージ：7ターン]
+> CONTEXT: Skills/141/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルート
+> CONTEXT: Skills/142/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+相手一人をバインド：足状態にする
+> CONTEXT: Skills/142/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バインド/7/0/0
+> CONTEXT: Skills/143/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+相手一人をバインド状態にする [リチャージ：7ターン]
+> CONTEXT: Skills/143/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+相手全員をセンシブ状態にする
+> CONTEXT: Skills/144/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルゥイン
+> CONTEXT: Skills/145/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+相手一人の守りダウン
+> CONTEXT: Skills/145/description/ < UNTRANSLATED
+> CONTEXT: Skills/146/description/ < UNTRANSLATED
+> CONTEXT: Skills/242/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ファル・ルゥイン
+> CONTEXT: Skills/146/name/ < UNTRANSLATED
+> CONTEXT: Skills/242/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ファル・ドルンバ/5/0/0
+> CONTEXT: Skills/147/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+相手全員の気をそらす / 成功率：ムードに反比例 [リチャージ：5ターン]
+> CONTEXT: Skills/147/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ファル・ラプチャ/7/0/0
+> CONTEXT: Skills/148/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+相手全員を恍惚状態にする [リチャージ：7ターン]
+> CONTEXT: Skills/148/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アクアクロス
+> CONTEXT: Skills/149/name/ < UNTRANSLATED
+> CONTEXT: Skills/235/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守りアップ
+> CONTEXT: Skills/149/description/ < UNTRANSLATED
+> CONTEXT: Skills/150/description/ < UNTRANSLATED
+> CONTEXT: Skills/152/description/ < UNTRANSLATED
+> CONTEXT: Skills/235/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウィンドクロス
+> CONTEXT: Skills/150/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トワイス/10/0/0
+> CONTEXT: Skills/151/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+たまに2回行動するようになる [リチャージ：10ターン]
+> CONTEXT: Skills/151/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ストームクロス
+> CONTEXT: Skills/152/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ダリッシュ/3/0/0
+> CONTEXT: Skills/153/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一度だけ快感を受けなくする [リチャージ：3ターン]
+> CONTEXT: Skills/153/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+セション
+> CONTEXT: Skills/154/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ラルスのテンションを上げる
+> CONTEXT: Skills/154/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+服を脱がせる成功率アップ / インサート成功率アップ
+> CONTEXT: Skills/155/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+テンションが上がりやすくなる
+> CONTEXT: Skills/156/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サック
+> CONTEXT: Skills/157/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ラルスのテンションを下げ、MPを回復する
+> CONTEXT: Skills/157/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+プチ・ロギン
+> CONTEXT: Skills/158/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+相手全員を魔法を使えなくする
+> CONTEXT: Skills/159/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フレッシュ/9/0/0
+> CONTEXT: Skills/160/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+毎ターン全員のEP回復・テンションアップ [リチャージ：9ターン]
+> CONTEXT: Skills/160/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サイズ/3/0/0
+> CONTEXT: Skills/161/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔法を使う相手からMPを奪う [リチャージ：3ターン]
+> CONTEXT: Skills/161/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ストック/-1/0/0
+> CONTEXT: Skills/163/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ストックを1増やす [リチャージ：バトル]
+> CONTEXT: Skills/163/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エフワズ
+> CONTEXT: Skills/189/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔法でかけられた鍵を開ける
+> CONTEXT: Skills/189/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+140-Darkness03
+> CONTEXT: Skills/189/menu_se/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■剣技
+> CONTEXT: Skills/190/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+クロスブレード
+> CONTEXT: Skills/191/name/
+> CONTEXT: Skills/612/name/
+Cross-blade
+> END STRING
+
+> BEGIN STRING
+十字に斬りつける
+> CONTEXT: Skills/191/description/
+> CONTEXT: Skills/612/description/
+Slash in cross shape
+> END STRING
+
+> BEGIN STRING
+自身のHPを回復
+> CONTEXT: Skills/192/description/
+> CONTEXT: Skills/613/description/
+Recover own HP
+> END STRING
+
+> BEGIN STRING
+自身の攻撃力アップ
+> CONTEXT: Skills/193/description/
+> CONTEXT: Skills/614/description/
+Increase own attack power
+> END STRING
+
+> BEGIN STRING
+ソードオブマイト
+> CONTEXT: Skills/194/name/
+> CONTEXT: Skills/615/name/
+Sword of Might
+> END STRING
+
+> BEGIN STRING
+クリティカルヒット率の高い攻撃
+> CONTEXT: Skills/194/description/
+> CONTEXT: Skills/615/description/
+Attack with high critical rate
+> END STRING
+
+> BEGIN STRING
+ヴァンクィッシング
+> CONTEXT: Skills/195/name/
+> CONTEXT: Skills/616/name/
+Vanquish
+> END STRING
+
+> BEGIN STRING
+聖なる力で斬りつける
+> CONTEXT: Skills/195/description/
+> CONTEXT: Skills/616/description/
+Slash with holy power
+> END STRING
+
+> BEGIN STRING
+■エネミー用基本スキル
+> CONTEXT: Skills/200/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+逃げる
+> CONTEXT: Skills/204/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+立ち去る
+> CONTEXT: Skills/205/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+服を脱がせる（必中）
+> CONTEXT: Skills/206/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+インサート（必中）
+> CONTEXT: Skills/207/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+服を脱ぐ（イベント用）
+> CONTEXT: Skills/208/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■エネミー用挿入スキル
+> CONTEXT: Skills/210/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+グラインド
+> CONTEXT: Skills/211/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エナジードレイン
+> CONTEXT: Skills/212/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ワイルドスウィング/0/0/2
+> CONTEXT: Skills/213/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ワイルドスウィング/0/0/3
+> CONTEXT: Skills/214/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エナジードレイン(発動用)
+> CONTEXT: Skills/215/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■エネミー用補助スキル
+> CONTEXT: Skills/230/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+インセンス打消し+特殊インセンス付加
+> CONTEXT: Skills/236/description/ < UNTRANSLATED
+> CONTEXT: Skills/260/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+森の守り
+> CONTEXT: Skills/237/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EP回復+精神力回復
+> CONTEXT: Skills/237/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+センシャルエレクト
+> CONTEXT: Skills/238/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+高確率センシブ
+> CONTEXT: Skills/238/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ガンバンティン
+> CONTEXT: Skills/239/name/ < UNTRANSLATED
+> CONTEXT: Items/273/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+コモンイベントで連続魔法 / ルヴィッサ専用
+> CONTEXT: Skills/239/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サイズ
+> CONTEXT: Skills/240/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔法を使う相手からMPを奪う
+> CONTEXT: Skills/240/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ドルンバ
+> CONTEXT: Skills/241/name/ < UNTRANSLATED
+> CONTEXT: Commonevents/150/407/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/153/410/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+相手一人の気をそらす
+> CONTEXT: Skills/241/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔法を使えなくする
+> CONTEXT: Skills/243/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+オーロラルグロウ
+> CONTEXT: Skills/244/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ディスペルソング
+> CONTEXT: Skills/245/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+グン系打消し
+> CONTEXT: Skills/245/description/ < UNTRANSLATED
+> CONTEXT: Skills/313/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+デイスペルソング
+> CONTEXT: Skills/246/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フニ系打消し
+> CONTEXT: Skills/246/description/ < UNTRANSLATED
+> CONTEXT: Skills/314/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+クリアソウル
+> CONTEXT: Skills/247/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+全ステート治療
+> CONTEXT: Skills/247/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ファンシーヴィジョン
+> CONTEXT: Skills/248/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+視覚 / ヴィジョン必中
+> CONTEXT: Skills/248/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ペトラアイズ
+> CONTEXT: Skills/249/name/ < UNTRANSLATED
+> CONTEXT: Skills/259/name/ < UNTRANSLATED
+> CONTEXT: Skills/643/name/ < UNTRANSLATED
+> CONTEXT: Skills/644/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+視線 / 高確率バインド
+> CONTEXT: Skills/249/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+セクシーアイ
+> CONTEXT: Skills/250/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+中確率恍惚
+> CONTEXT: Skills/250/description/ < UNTRANSLATED
+> CONTEXT: Skills/265/description/ < UNTRANSLATED
+> CONTEXT: Skills/275/description/ < UNTRANSLATED
+> CONTEXT: Skills/300/description/ < UNTRANSLATED
+> CONTEXT: Skills/352/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+全能力値ダウン
+> CONTEXT: Skills/251/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+追加敵召喚 / ランダ用
+> CONTEXT: Skills/252/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あたふたする
+> CONTEXT: Skills/253/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナンセンス
+> CONTEXT: Skills/253/description/ < UNTRANSLATED
+> CONTEXT: Skills/263/description/ < UNTRANSLATED
+> CONTEXT: Skills/264/description/ < UNTRANSLATED
+> CONTEXT: Skills/270/description/ < UNTRANSLATED
+> CONTEXT: Skills/278/description/ < UNTRANSLATED
+> CONTEXT: Skills/280/description/ < UNTRANSLATED
+> CONTEXT: Skills/323/description/ < UNTRANSLATED
+> CONTEXT: Skills/324/description/ < UNTRANSLATED
+> CONTEXT: Skills/331/description/ < UNTRANSLATED
+> CONTEXT: Skills/340/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+鼓舞の舞
+> CONTEXT: Skills/254/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+テンションアップ
+> CONTEXT: Skills/254/description/ < UNTRANSLATED
+> CONTEXT: Skills/274/description/ < UNTRANSLATED
+> CONTEXT: Skills/652/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+セクシーウィンク
+> CONTEXT: Skills/255/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+高確率ドキドキ
+> CONTEXT: Skills/255/description/ < UNTRANSLATED
+> CONTEXT: Skills/261/description/ < UNTRANSLATED
+> CONTEXT: Skills/269/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+メルティキッス
+> CONTEXT: Skills/256/name/ < UNTRANSLATED
+> CONTEXT: Skills/257/name/ < UNTRANSLATED
+> CONTEXT: Skills/646/name/ < UNTRANSLATED
+> CONTEXT: Skills/647/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精神力ダウン
+> CONTEXT: Skills/256/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精力ダウン
+> CONTEXT: Skills/257/description/ < UNTRANSLATED
+> CONTEXT: Skills/647/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ダリッシュスキン
+> CONTEXT: Skills/258/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バインド：手足
+> CONTEXT: Skills/259/description/ < UNTRANSLATED
+> CONTEXT: Skills/643/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+プリティスマイル
+> CONTEXT: Skills/261/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+プリティキッス
+> CONTEXT: Skills/262/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+低確率恍惚
+> CONTEXT: Skills/262/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+くすくす笑う
+> CONTEXT: Skills/263/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぱたぱた飛ぶ
+> CONTEXT: Skills/264/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フェアリーサークル
+> CONTEXT: Skills/265/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+センシブパウダー
+> CONTEXT: Skills/266/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リジェネレーション
+> CONTEXT: Skills/267/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+センシブリキッド
+> CONTEXT: Skills/268/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おたけび
+> CONTEXT: Skills/269/name/ < UNTRANSLATED
+> CONTEXT: Skills/322/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+顔を洗う
+> CONTEXT: Skills/270/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トゥレイルルート
+> CONTEXT: Skills/271/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バインド
+> CONTEXT: Skills/271/description/ < UNTRANSLATED
+> CONTEXT: Skills/299/name/ < UNTRANSLATED
+> CONTEXT: Skills/637/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ボディミミック
+> CONTEXT: Skills/272/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+コモンイベントで処理
+> CONTEXT: Skills/272/description/ < UNTRANSLATED
+> CONTEXT: Skills/273/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ラヴトラップ
+> CONTEXT: Skills/273/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+パッションフレイム
+> CONTEXT: Skills/274/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+誘惑の歌
+> CONTEXT: Skills/275/name/ < UNTRANSLATED
+> CONTEXT: Skills/654/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+混乱の歌
+> CONTEXT: Skills/276/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+中確率パニック
+> CONTEXT: Skills/276/description/ < UNTRANSLATED
+> CONTEXT: Skills/333/description/ < UNTRANSLATED
+> CONTEXT: Skills/338/description/ < UNTRANSLATED
+> CONTEXT: Skills/347/description/ < UNTRANSLATED
+> CONTEXT: Skills/353/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+平穏の歌
+> CONTEXT: Skills/277/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+高笑い
+> CONTEXT: Skills/278/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+羽根吹雪
+> CONTEXT: Skills/279/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+中確率センシブ
+> CONTEXT: Skills/279/description/ < UNTRANSLATED
+> CONTEXT: Skills/309/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+恥ずかしがる
+> CONTEXT: Skills/280/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まきつき
+> CONTEXT: Skills/281/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+尻尾 / 中確率バインド
+> CONTEXT: Skills/281/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+祝福のキッス
+> CONTEXT: Skills/282/name/ < UNTRANSLATED
+> CONTEXT: Skills/283/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+運命のキッス
+> CONTEXT: Skills/284/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+幸運アップ+バインド
+> CONTEXT: Skills/284/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精力アップ(エネミー用)
+> CONTEXT: Skills/285/description/ < UNTRANSLATED
+> CONTEXT: Skills/301/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+技巧アップ(エネミー用)
+> CONTEXT: Skills/286/description/ < UNTRANSLATED
+> CONTEXT: Skills/302/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+素早さアップ(エネミー用)
+> CONTEXT: Skills/287/description/ < UNTRANSLATED
+> CONTEXT: Skills/303/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精神力アップ(エネミー用)
+> CONTEXT: Skills/288/description/ < UNTRANSLATED
+> CONTEXT: Skills/304/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力アップ(エネミー用)
+> CONTEXT: Skills/289/description/ < UNTRANSLATED
+> CONTEXT: Skills/305/description/ < UNTRANSLATED
+> CONTEXT: Skills/310/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+幸運アップ(エネミー用)
+> CONTEXT: Skills/290/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+中確率ミニマム
+> CONTEXT: Skills/296/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+中確率クラムジ
+> CONTEXT: Skills/297/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+中確率ヴィジョン
+> CONTEXT: Skills/298/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+中確率バインド
+> CONTEXT: Skills/299/description/ < UNTRANSLATED
+> CONTEXT: Skills/332/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ラプチャ
+> CONTEXT: Skills/300/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+全能力アップ(エネミー用)
+> CONTEXT: Skills/306/description/ < UNTRANSLATED
+> CONTEXT: Skills/307/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ファル・アルスグン
+> CONTEXT: Skills/307/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ホルド
+> CONTEXT: Skills/308/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+全身バインド
+> CONTEXT: Skills/308/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フィーブル
+> CONTEXT: Skills/311/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+全能力ダウン+防御ダウン(エネミー用)
+> CONTEXT: Skills/311/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+相手の全能力ダウン(エネミー用)
+> CONTEXT: Skills/312/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EP回復(個別)
+> CONTEXT: Skills/315/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ラル・ロギン
+> CONTEXT: Skills/316/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EP回復(全体)
+> CONTEXT: Skills/316/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EP回復(大)
+> CONTEXT: Skills/317/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハパピィ
+> CONTEXT: Skills/318/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+中確率混乱
+> CONTEXT: Skills/318/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+追加敵召喚
+> CONTEXT: Skills/319/description/ < UNTRANSLATED
+> CONTEXT: Skills/659/description/ < UNTRANSLATED
+> CONTEXT: Skills/666/description/ < UNTRANSLATED
+> CONTEXT: Skills/676/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何もしない
+> CONTEXT: Skills/320/name/ < UNTRANSLATED
+> CONTEXT: Skills/638/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナンセンス / メッセージなし
+> CONTEXT: Skills/320/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+風の悪戯
+> CONTEXT: Skills/321/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+強制脱衣
+> CONTEXT: Skills/321/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+中確率ナーバス
+> CONTEXT: Skills/322/description/ < UNTRANSLATED
+> CONTEXT: Skills/337/description/ < UNTRANSLATED
+> CONTEXT: Skills/346/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+鋭く見つめる
+> CONTEXT: Skills/323/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+軽く踊る
+> CONTEXT: Skills/324/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+センシブウォーター
+> CONTEXT: Skills/325/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+誘惑の舞い
+> CONTEXT: Skills/326/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+恍惚
+> CONTEXT: Skills/326/description/ < UNTRANSLATED
+> CONTEXT: Skills/350/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ロマンスソング
+> CONTEXT: Skills/327/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ムードアップ
+> CONTEXT: Skills/327/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ファル･ラグズグン
+> CONTEXT: Skills/328/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナンセンス（魔法失敗）
+> CONTEXT: Skills/328/description/ < UNTRANSLATED
+> CONTEXT: Skills/329/description/ < UNTRANSLATED
+> CONTEXT: Skills/330/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ファル･シギルグン
+> CONTEXT: Skills/329/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+冷ややかに見つめる
+> CONTEXT: Skills/331/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ワインドウェッブ
+> CONTEXT: Skills/332/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ムーンリットダンス
+> CONTEXT: Skills/333/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+浄化の炎
+> CONTEXT: Skills/334/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バッドステート治療
+> CONTEXT: Skills/334/description/ < UNTRANSLATED
+> CONTEXT: Skills/349/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+怨みの炎
+> CONTEXT: Skills/335/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+グッドステート打消し
+> CONTEXT: Skills/335/description/ < UNTRANSLATED
+> CONTEXT: Skills/342/description/ < UNTRANSLATED
+> CONTEXT: Skills/355/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+セクシーポーズ
+> CONTEXT: Skills/336/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+中確率暴走
+> CONTEXT: Skills/336/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+狐火
+> CONTEXT: Skills/337/name/ < UNTRANSLATED
+> CONTEXT: Skills/338/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スラップ
+> CONTEXT: Skills/339/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+鼻歌
+> CONTEXT: Skills/340/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リドル
+> CONTEXT: Skills/341/name/ < UNTRANSLATED
+> CONTEXT: Skills/358/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なぞかけ / 猫口調
+> CONTEXT: Skills/341/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ディスペルバーク
+> CONTEXT: Skills/342/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ワンダートリップ
+> CONTEXT: Skills/343/name/ < UNTRANSLATED
+> CONTEXT: Skills/344/name/ < UNTRANSLATED
+> CONTEXT: Skills/345/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+高確率パニック / ジャバウォック用
+> CONTEXT: Skills/343/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+高確率パニック / ジャブジャブ用
+> CONTEXT: Skills/344/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+高確率パニック / バンダースナッチ用
+> CONTEXT: Skills/345/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+鬼火
+> CONTEXT: Skills/346/name/ < UNTRANSLATED
+> CONTEXT: Skills/347/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バインドコード
+> CONTEXT: Skills/348/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+クララ専用 / 全身バインド / 必中
+> CONTEXT: Skills/348/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+メンテナンス
+> CONTEXT: Skills/349/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ラプチャパウダー
+> CONTEXT: Skills/350/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+花ざかり
+> CONTEXT: Skills/351/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+誘惑の調べ
+> CONTEXT: Skills/352/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+混乱の調べ
+> CONTEXT: Skills/353/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ジェントリーウィープ
+> CONTEXT: Skills/354/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+追加効果：テンションダウン
+> CONTEXT: Skills/354/description/ < UNTRANSLATED
+> CONTEXT: Skills/416/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ディスペルクライ
+> CONTEXT: Skills/355/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ブリザード
+> CONTEXT: Skills/356/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+インセンス打消し
+> CONTEXT: Skills/356/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フロストリング
+> CONTEXT: Skills/357/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+テンションダウン
+> CONTEXT: Skills/357/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なぞかけ / 妖精口調
+> CONTEXT: Skills/358/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■エネミー用攻撃スキル
+> CONTEXT: Skills/360/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+手で弄る
+> CONTEXT: Skills/361/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+手で焦らす
+> CONTEXT: Skills/362/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+追加効果：♂敏感
+> CONTEXT: Skills/362/description/ < UNTRANSLATED
+> CONTEXT: Skills/366/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+手でしごく
+> CONTEXT: Skills/364/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+舌で舐める
+> CONTEXT: Skills/365/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+舌で焦らす
+> CONTEXT: Skills/366/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+口でしごく
+> CONTEXT: Skills/367/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+口で吸う
+> CONTEXT: Skills/368/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+胸でさする
+> CONTEXT: Skills/369/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+追加効果：胸に敏感
+> CONTEXT: Skills/369/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+胸でしごく
+> CONTEXT: Skills/370/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+足でさする
+> CONTEXT: Skills/371/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+追加効果：足に敏感
+> CONTEXT: Skills/371/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+足でしごく
+> CONTEXT: Skills/372/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+素股
+> CONTEXT: Skills/373/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+全身でしごく
+> CONTEXT: Skills/374/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+耳たぶ
+> CONTEXT: Skills/376/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+追加効果：全身敏感(強)
+> CONTEXT: Skills/376/description/ < UNTRANSLATED
+> CONTEXT: Skills/377/description/ < UNTRANSLATED
+> CONTEXT: Skills/378/description/ < UNTRANSLATED
+> CONTEXT: Skills/408/description/ < UNTRANSLATED
+> CONTEXT: Skills/421/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+首筋
+> CONTEXT: Skills/377/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+乳首
+> CONTEXT: Skills/378/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+睾丸
+> CONTEXT: Skills/379/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+追加効果：クライシス
+> CONTEXT: Skills/379/description/ < UNTRANSLATED
+> CONTEXT: Skills/380/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お尻
+> CONTEXT: Skills/380/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ライトキス
+> CONTEXT: Skills/381/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+撫でまわす
+> CONTEXT: Skills/382/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+追加効果：手に対して敏感
+> CONTEXT: Skills/382/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+舐めまわす
+> CONTEXT: Skills/383/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+追加効果：舌に対して敏感
+> CONTEXT: Skills/383/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぱふぱふ(弱)
+> CONTEXT: Skills/384/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+追加効果：恍惚(弱)
+> CONTEXT: Skills/384/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シッポでいじる
+> CONTEXT: Skills/385/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シッポでしごく
+> CONTEXT: Skills/386/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+吐息
+> CONTEXT: Skills/387/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+追加効果：全身敏感(弱)　必中
+> CONTEXT: Skills/387/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+顔面騎乗
+> CONTEXT: Skills/388/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+追加効果：低確率恍惚
+> CONTEXT: Skills/388/description/ < UNTRANSLATED
+> CONTEXT: Skills/389/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+空中顔面騎乗
+> CONTEXT: Skills/389/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+胸押し付け
+> CONTEXT: Skills/390/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+追加効果：胸に対して敏感
+> CONTEXT: Skills/390/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+太もも
+> CONTEXT: Skills/391/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+水の愛撫
+> CONTEXT: Skills/392/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フレデリカ専用　追加効果：全身敏感　必中
+> CONTEXT: Skills/392/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おぼれくるえ
+> CONTEXT: Skills/393/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フレデリカ専用　特大ダメージ
+> CONTEXT: Skills/393/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+手でしごく(連続)/0/0/to398
+> CONTEXT: Skills/394/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+口でしごく(連続)/0/0/to398
+> CONTEXT: Skills/395/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+胸でしごく(連続)/0/0/to398
+> CONTEXT: Skills/396/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+足でしごく(連続)/0/0/to398
+> CONTEXT: Skills/397/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+連続しごき用
+> CONTEXT: Skills/398/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+風の愛撫
+> CONTEXT: Skills/399/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+追加効果：全身敏感
+> CONTEXT: Skills/399/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+にくきゅう
+> CONTEXT: Skills/400/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぱふぱふ(強)
+> CONTEXT: Skills/401/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+追加効果：恍惚(強)
+> CONTEXT: Skills/401/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+触手(3回)/0/0/3
+> CONTEXT: Skills/402/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+触手(5回)/0/0/5
+> CONTEXT: Skills/403/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+触手(7回)/0/0/7
+> CONTEXT: Skills/404/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+触手(2回)/0/0/2
+> CONTEXT: Skills/405/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ブラッドサック
+> CONTEXT: Skills/406/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+追加効果：テンション吸収
+> CONTEXT: Skills/406/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+羽根でくすぐる
+> CONTEXT: Skills/407/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+羽根でくすぐる(強)
+> CONTEXT: Skills/408/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+弱点突き(手)
+> CONTEXT: Skills/409/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+弱点突き(口)
+> CONTEXT: Skills/410/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+弱点突き(胸)
+> CONTEXT: Skills/411/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+弱点突き(足)
+> CONTEXT: Skills/412/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+弱点突き(♀)
+> CONTEXT: Skills/413/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウィップ
+> CONTEXT: Skills/414/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スパンク
+> CONTEXT: Skills/415/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雪の口溶け
+> CONTEXT: Skills/416/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+運命繰り
+> CONTEXT: Skills/417/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+追加効果：テクニック制限
+> CONTEXT: Skills/417/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ソウルスナップ
+> CONTEXT: Skills/418/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+追加効果：ストック-1
+> CONTEXT: Skills/418/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ソックスでしごく
+> CONTEXT: Skills/419/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+惑乱の手練
+> CONTEXT: Skills/420/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+追加効果：防御低下
+> CONTEXT: Skills/420/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+くすぐる
+> CONTEXT: Skills/421/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+連続キッス/0/0/2
+> CONTEXT: Skills/422/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+グングニル
+> CONTEXT: Skills/423/name/ < UNTRANSLATED
+> CONTEXT: Items/271/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■アイテム対応スキル
+> CONTEXT: Skills/530/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スキュラの触手
+> CONTEXT: Skills/531/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■制御不可行動
+> CONTEXT: Skills/550/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+パニック：何もしない
+> CONTEXT: Skills/551/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+パニック：抱きつく
+> CONTEXT: Skills/552/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+パニック：暴走
+> CONTEXT: Skills/553/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+パニック：食べる
+> CONTEXT: Skills/554/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+パニック：飲む
+> CONTEXT: Skills/555/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マタタビ：興奮
+> CONTEXT: Skills/560/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マタタビ：恍惚
+> CONTEXT: Skills/561/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+酔い：トーク
+> CONTEXT: Skills/571/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+酔い：抱きつく
+> CONTEXT: Skills/572/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+酔い：攻撃
+> CONTEXT: Skills/573/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+酔い：何もしない
+> CONTEXT: Skills/574/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+酔い：悪酔い
+> CONTEXT: Skills/575/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+酔い：暴走
+> CONTEXT: Skills/576/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+酔い：ハッスル
+> CONTEXT: Skills/577/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■魔王戦専用
+> CONTEXT: Skills/600/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+攻撃
+> CONTEXT: Skills/601/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+防御
+> CONTEXT: Skills/604/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+攻撃（ギルデンスターン）
+> CONTEXT: Skills/606/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+攻撃（ギルデンスターン2）
+> CONTEXT: Skills/607/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アンフォルメルテラー
+> CONTEXT: Skills/608/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ソウルイーター/0/0/to610
+> CONTEXT: Skills/609/name/
+Soul Eater/0/0/to610
+> END STRING
+
+> BEGIN STRING
+ソウルイーター
+> CONTEXT: Skills/610/name/
+Soul Eater
+> END STRING
+
+> BEGIN STRING
+デッドリーペイン
+> CONTEXT: Skills/611/name/
+Deadly Pain
+> END STRING
+
+> BEGIN STRING
+ペイン
+> CONTEXT: Skills/618/name/
+Pain
+> END STRING
+
+> BEGIN STRING
+ウィザースラスト
+> CONTEXT: Skills/619/name/
+Wither Thrust
+> END STRING
+
+> BEGIN STRING
+槍の一閃
+> CONTEXT: Skills/619/description/
+A flash of the spear
+> END STRING
+
+> BEGIN STRING
+ヘヴィレイン/0/0/to621
+> CONTEXT: Skills/620/name/
+Heavy Rain/0/0/to621
+> END STRING
+
+> BEGIN STRING
+連続攻撃
+> CONTEXT: Skills/620/description/
+Continuous Attack
+> END STRING
+
+> BEGIN STRING
+ヘヴィレイン/0/0/to622
+> CONTEXT: Skills/621/name/
+Heavy Rain/0/0/to622
+> END STRING
+
+> BEGIN STRING
+連繋用
+> CONTEXT: Skills/621/description/
+> CONTEXT: Skills/622/description/
+For linking
+> END STRING
+
+> BEGIN STRING
+ヘヴィレイン/0/0/
+> CONTEXT: Skills/622/name/
+Heavy Rain/0/0/
+> END STRING
+
+> BEGIN STRING
+エアダンサー
+> CONTEXT: Skills/623/name/
+Air Dancer
+> END STRING
+
+> BEGIN STRING
+全体攻撃
+> CONTEXT: Skills/623/description/
+All-out attack
+> END STRING
+
+> BEGIN STRING
+クラウドスロウト
+> CONTEXT: Skills/624/name/
+Cloud Throat
+> END STRING
+
+> BEGIN STRING
+全体攻撃 / 追加効果：スタン
+> CONTEXT: Skills/624/description/
+All-out attack / Additional effect: Stun
+> END STRING
+
+> BEGIN STRING
+アースヒール
+> CONTEXT: Skills/625/name/
+Earth Heal
+> END STRING
+
+> BEGIN STRING
+地属性 / 味方単体を回復
+> CONTEXT: Skills/625/description/
+Earth attribute / Heals a single ally
+> END STRING
+
+> BEGIN STRING
+エリアルブラスト
+> CONTEXT: Skills/626/name/
+Aerial Blast
+> END STRING
+
+> BEGIN STRING
+風属性 / 単体攻撃
+> CONTEXT: Skills/626/description/
+Wind attribute / Single target attack
+> END STRING
+
+> BEGIN STRING
+アクアフレア
+> CONTEXT: Skills/627/name/
+Aqua Flare
+> END STRING
+
+> BEGIN STRING
+水属性 / 全体攻撃
+> CONTEXT: Skills/627/description/
+Water attribute / All-target attack
+> END STRING
+
+> BEGIN STRING
+グレイスウィンズ
+> CONTEXT: Skills/628/name/
+Gracewinds
+> END STRING
+
+> BEGIN STRING
+風属性 / 味方全体の素早さと攻撃力アップ
+> CONTEXT: Skills/628/description/
+Wind attribute / Increases speed and attack power of all allies
+> END STRING
+
+> BEGIN STRING
+マーシーシャワー
+> CONTEXT: Skills/629/name/
+Mercy Shower
+> END STRING
+
+> BEGIN STRING
+水属性 / 味方全体を回復
+> CONTEXT: Skills/629/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シュリルヴォイド
+> CONTEXT: Skills/630/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+風属性 / 全体攻撃
+> CONTEXT: Skills/630/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ドラウンドロップ
+> CONTEXT: Skills/631/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+水属性 / 単体攻撃 / 追加効果：防御力ダウン
+> CONTEXT: Skills/631/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+チェインライトニング
+> CONTEXT: Skills/632/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雷属性 / 全体攻撃
+> CONTEXT: Skills/632/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+コモンイベント\#301
+> CONTEXT: Skills/633/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+コモンイベント\#302
+> CONTEXT: Skills/634/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エンディング用闇攻撃
+> CONTEXT: Skills/636/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エンディング専用
+> CONTEXT: Skills/636/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+服を脱がせる（イベント用）
+> CONTEXT: Skills/639/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■イベント専用■
+> CONTEXT: Skills/640/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エナジードレイン(マーシャ)
+> CONTEXT: Skills/641/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マーシャ専用
+> CONTEXT: Skills/641/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ペトラアイズ（発動）
+> CONTEXT: Skills/642/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+メルティキッス（発動）
+> CONTEXT: Skills/645/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バインド回復
+> CONTEXT: Skills/646/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+狂乱の歌
+> CONTEXT: Skills/648/name/ < UNTRANSLATED
+> CONTEXT: Skills/649/name/ < UNTRANSLATED
+> CONTEXT: Skills/650/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フレデリカ専用　無敵化
+> CONTEXT: Skills/648/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フレデリカ専用　水流攻撃
+> CONTEXT: Skills/649/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フレデリカ専用　何もしない
+> CONTEXT: Skills/650/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナイトメア
+> CONTEXT: Skills/651/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エスト専用
+> CONTEXT: Skills/651/description/ < UNTRANSLATED
+> CONTEXT: Skills/664/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+イベント用
+> CONTEXT: Skills/652/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナンセンス / イベント用
+> CONTEXT: Skills/653/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+恍惚 / 必中 / イベント用
+> CONTEXT: Skills/654/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+上天の道行き(発動)
+> CONTEXT: Skills/655/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エスプラーナ専用
+> CONTEXT: Skills/655/description/ < UNTRANSLATED
+> CONTEXT: Skills/656/description/ < UNTRANSLATED
+> CONTEXT: Skills/657/description/ < UNTRANSLATED
+> CONTEXT: Skills/658/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+上天の道行き
+> CONTEXT: Skills/656/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+上天の道行き(発動2)
+> CONTEXT: Skills/657/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+上天の道行き(発動3)
+> CONTEXT: Skills/658/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+インビテーション
+> CONTEXT: Skills/659/name/ < UNTRANSLATED
+> CONTEXT: Skills/677/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+クララ専用
+> CONTEXT: Skills/660/description/ < UNTRANSLATED
+> CONTEXT: Skills/662/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マキーナ・エロティカ
+> CONTEXT: Skills/661/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+クララ専用　瀕死ダメージ
+> CONTEXT: Skills/661/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+出力上昇
+> CONTEXT: Skills/662/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ベルナドット専用
+> CONTEXT: Skills/663/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エナジードレイン(エスト)
+> CONTEXT: Skills/664/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウィンターミュート
+> CONTEXT: Skills/665/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フィムブルヴェト専用
+> CONTEXT: Skills/665/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+狐眷來々
+> CONTEXT: Skills/666/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カウンター：オモチャになっちゃえ
+> CONTEXT: Skills/667/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ステラ戦用カウンター処理
+> CONTEXT: Skills/667/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+オモチャになっちゃえ
+> CONTEXT: Skills/668/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ステラ用カウンター
+> CONTEXT: Skills/668/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ラッシュ(ルヴィッサ)
+> CONTEXT: Skills/669/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルヴィッサ専用
+> CONTEXT: Skills/669/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+コーラス
+> CONTEXT: Skills/670/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ローレライ専用
+> CONTEXT: Skills/670/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+コーラス用誘惑
+> CONTEXT: Skills/671/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+コーラスのコモンイベント内部で使用
+> CONTEXT: Skills/671/description/ < UNTRANSLATED
+> CONTEXT: Skills/672/description/ < UNTRANSLATED
+> CONTEXT: Skills/673/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+コーラス用平穏
+> CONTEXT: Skills/672/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+コーラス用魅惑
+> CONTEXT: Skills/673/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リアライズ
+> CONTEXT: Skills/674/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+変身
+> CONTEXT: Skills/674/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マジカルハック
+> CONTEXT: Skills/675/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴィヴィアン専用
+> CONTEXT: Skills/675/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+クリエイション
+> CONTEXT: Skills/676/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アリス呼び出し専用　実際には何もせずバトルイベントで設定
+> CONTEXT: Skills/677/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トランプ
+> CONTEXT: Skills/678/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アリス専用
+> CONTEXT: Skills/678/description/ < UNTRANSLATED
+
+> END STRING

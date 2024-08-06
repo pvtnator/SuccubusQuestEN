@@ -1,0 +1,73 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「それではごゆっくりお休み下さい
+> CONTEXT: Map219/events/1/pages/0/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map171/events/4/pages/0/13/Dialogue < UNTRANSLATED
+> CONTEXT: Map167/events/1/pages/0/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map124/events/4/pages/0/13/Dialogue < UNTRANSLATED
+> CONTEXT: Map070/events/2/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おはようございます。
+　今日もがんばって下さいね\\e[0]
+> CONTEXT: Map219/events/1/pages/0/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map171/events/4/pages/0/16/Dialogue < UNTRANSLATED
+> CONTEXT: Map167/events/1/pages/0/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map124/events/4/pages/0/16/Dialogue < UNTRANSLATED
+> CONTEXT: Map070/events/2/pages/0/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map050/events/2/pages/0/16/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/4/pages/1/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/4/pages/2/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……すやすや………………
+> CONTEXT: Map219/events/1/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map042/events/49/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+安らかな顔で眠っている……
+> CONTEXT: Map219/events/1/pages/1/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map214/events/4/pages/1/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map045/events/5/pages/2/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map042/events/26/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map042/events/48/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「寒くて外に出られないから、
+　本でも読んでようとしてたんだが……
+> CONTEXT: Map219/events/9/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「置いてあるのは
+　エーランド教の本ばかりで、
+　もううんざりさ
+> CONTEXT: Map219/events/9/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+少し眠りますか？
+> CONTEXT: Map219/events/10/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+特に興味を引く本は無いようだ
+> CONTEXT: Map219/events/11/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map219/events/12/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map219/events/13/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map219/events/14/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map219/events/15/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map219/events/16/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING

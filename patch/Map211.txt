@@ -1,0 +1,350 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「ここはエーランドの祝福されし町、
+　神都ヴァーサ。
+> CONTEXT: Map211/events/1/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あなたもエーランドの庇護を受けに
+　おいでなさったのですか？
+> CONTEXT: Map211/events/1/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ここはね　ずっと　ゆきこんこん
+　なの！
+> CONTEXT: Map211/events/15/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「だからね　いっぱい　ゆきだるま
+　つくっちゃうの！
+> CONTEXT: Map211/events/15/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ゆきが　おおすぎて
+　みんな　こまってるから
+> CONTEXT: Map211/events/16/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ぼくたちが　ぜんぶ　ゆきだるまに
+　してあげるんだ！
+> CONTEXT: Map211/events/16/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「わあ………
+　見て、\\n[1]！
+> CONTEXT: Map211/events/17/pages/0/23/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/20/pages/0/23/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/21/pages/0/23/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/22/pages/0/23/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/23/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「きれいね……。
+　こんな建物、初めて見たわ。
+> CONTEXT: Map211/events/17/pages/0/36/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/20/pages/0/36/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/21/pages/0/36/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/22/pages/0/36/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/23/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おや、旅の方ですか？
+> CONTEXT: Map211/events/17/pages/0/60/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/20/pages/0/60/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/21/pages/0/60/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/22/pages/0/60/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/23/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ここはエーランド教の本拠、
+　ヴァーサ大聖ど……
+> CONTEXT: Map211/events/17/pages/0/61/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/20/pages/0/61/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/21/pages/0/61/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/22/pages/0/61/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/23/pages/0/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お……おぉっ！？
+> CONTEXT: Map211/events/17/pages/0/67/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/20/pages/0/67/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/21/pages/0/67/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/22/pages/0/67/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/23/pages/0/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「な、なんという
+　はしたない格好を！
+> CONTEXT: Map211/events/17/pages/0/68/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/20/pages/0/68/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/21/pages/0/68/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/22/pages/0/68/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/23/pages/0/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「え？
+　…………私？
+> CONTEXT: Map211/events/17/pages/0/73/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/20/pages/0/73/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/21/pages/0/73/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/22/pages/0/73/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/23/pages/0/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「こ、ここは神の地。
+　そのような格好で入ることは
+　まかりなりません。
+> CONTEXT: Map211/events/17/pages/0/76/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/20/pages/0/76/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/21/pages/0/76/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/22/pages/0/76/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/23/pages/0/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「こ、これをお貸ししましょう。
+> CONTEXT: Map211/events/17/pages/0/82/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/20/pages/0/82/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/21/pages/0/82/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/22/pages/0/82/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/23/pages/0/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[3]カセドラルローブ\\c[0]を手に入れた！
+> CONTEXT: Map211/events/17/pages/0/87/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/20/pages/0/87/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/21/pages/0/87/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/22/pages/0/87/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/23/pages/0/87/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「で、で、では、
+　私はこれで……！
+> CONTEXT: Map211/events/17/pages/0/89/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/20/pages/0/89/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/21/pages/0/89/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/22/pages/0/89/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/23/pages/0/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………変なの。
+> CONTEXT: Map211/events/17/pages/0/117/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/20/pages/0/117/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/21/pages/0/117/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/22/pages/0/117/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/23/pages/0/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あれで夢魔に襲われたりしたら
+　どうなっちゃうのかしら。
+> CONTEXT: Map211/events/17/pages/0/118/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/20/pages/0/118/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/21/pages/0/118/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/22/pages/0/118/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/23/pages/0/118/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私こんなの着れないし、
+　\\n[1]にあげるわ。
+> CONTEXT: Map211/events/17/pages/0/122/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/20/pages/0/122/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/21/pages/0/122/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/22/pages/0/122/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/23/pages/0/122/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「このあたりは元々寒い土地ですが、
+　最近の寒さは異常です。
+> CONTEXT: Map211/events/24/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「寒さで倒れて、
+　大聖堂に運ばれた人もいるそうです。
+> CONTEXT: Map211/events/24/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「寒さが、心なしか和らいだ気がします。
+> CONTEXT: Map211/events/24/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ニャ～、こんなに\\dうぶ\\dで
+　おいしそうな男がいっぱいいるのに、
+　一人もたべられないなんて～～
+> CONTEXT: Map211/events/25/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ご主人様の命令といえど
+　辛いニャ～～～
+> CONTEXT: Map211/events/25/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ガルゥ………
+> CONTEXT: Map211/events/27/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あっ、アンタ……
+> CONTEXT: Map211/events/28/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………やめとこ。
+　また消されそうになったら
+　かなわないわ……。
+> CONTEXT: Map211/events/28/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+移動先を選んで下さい
+> CONTEXT: Map211/events/30/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/30/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/31/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/31/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/32/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map211/events/32/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/6/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/7/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/14/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/19/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map039/events/18/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map039/events/18/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map039/events/18/pages/2/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map039/events/18/pages/3/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map039/events/19/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map039/events/19/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map039/events/19/pages/2/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map039/events/19/pages/3/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map039/events/20/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/6/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map039/events/20/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/6/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map039/events/20/pages/2/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/6/pages/2/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map039/events/20/pages/3/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/6/pages/3/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/6/pages/4/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/7/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/12/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/13/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/27/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/29/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/29/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/29/pages/2/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/29/pages/3/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/29/pages/4/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴィドヴィン山脈
+> CONTEXT: Map211/events/30/pages/0/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Map211/events/30/pages/1/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Map211/events/31/pages/0/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Map211/events/31/pages/1/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Map211/events/32/pages/0/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Map211/events/32/pages/1/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Map014/events/12/pages/0/1/Choice/0 < UNTRANSLATED
+> CONTEXT: Map014/events/13/pages/0/1/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+戻る
+> CONTEXT: Map211/events/30/pages/0/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Map211/events/30/pages/1/2/Choice/2 < UNTRANSLATED
+> CONTEXT: Map211/events/31/pages/0/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Map211/events/31/pages/1/2/Choice/2 < UNTRANSLATED
+> CONTEXT: Map211/events/32/pages/0/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Map211/events/32/pages/1/2/Choice/2 < UNTRANSLATED
+> CONTEXT: Map065/events/6/pages/1/2/Choice/2 < UNTRANSLATED
+> CONTEXT: Map065/events/7/pages/1/2/Choice/2 < UNTRANSLATED
+> CONTEXT: Map065/events/14/pages/1/2/Choice/2 < UNTRANSLATED
+> CONTEXT: Map065/events/19/pages/1/2/Choice/2 < UNTRANSLATED
+> CONTEXT: Map036/events/1/pages/2/2/Choice/2 < UNTRANSLATED
+> CONTEXT: Map036/events/2/pages/2/2/Choice/2 < UNTRANSLATED
+> CONTEXT: Map039/events/18/pages/0/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Map039/events/18/pages/1/2/Choice/2 < UNTRANSLATED
+> CONTEXT: Map036/events/3/pages/2/2/Choice/2 < UNTRANSLATED
+> CONTEXT: Map039/events/18/pages/2/2/Choice/3 < UNTRANSLATED
+> CONTEXT: Map039/events/19/pages/0/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Map039/events/19/pages/1/2/Choice/2 < UNTRANSLATED
+> CONTEXT: Map039/events/19/pages/2/2/Choice/3 < UNTRANSLATED
+> CONTEXT: Map039/events/20/pages/0/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Map014/events/6/pages/0/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Map039/events/20/pages/1/2/Choice/2 < UNTRANSLATED
+> CONTEXT: Map014/events/6/pages/1/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Map039/events/20/pages/2/2/Choice/3 < UNTRANSLATED
+> CONTEXT: Map014/events/6/pages/2/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Map014/events/6/pages/3/2/Choice/2 < UNTRANSLATED
+> CONTEXT: Map014/events/6/pages/4/2/Choice/2 < UNTRANSLATED
+> CONTEXT: Map014/events/7/pages/1/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Map014/events/12/pages/0/1/Choice/1 < UNTRANSLATED
+> CONTEXT: Map014/events/13/pages/0/1/Choice/1 < UNTRANSLATED
+> CONTEXT: Map014/events/27/pages/1/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Map014/events/29/pages/0/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Map014/events/29/pages/1/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Map014/events/29/pages/2/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Map014/events/29/pages/3/2/Choice/2 < UNTRANSLATED
+> CONTEXT: Map014/events/29/pages/4/2/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+万年氷の宮殿
+> CONTEXT: Map211/events/30/pages/1/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Map211/events/31/pages/1/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Map211/events/32/pages/1/2/Choice/1 < UNTRANSLATED
+
+> END STRING

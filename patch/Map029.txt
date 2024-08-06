@@ -1,0 +1,144 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+"マーシャの父"
+> CONTEXT: Map029/events/2/pages/2/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map029/events/2/pages/2/6/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map029/events/2/pages/3/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map029/events/9/pages/0/10/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map019/events/2/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map019/events/2/pages/1/1/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map019/events/2/pages/1/10/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map019/events/2/pages/2/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map019/events/2/pages/3/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map018/events/5/pages/0/120/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map018/events/12/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おお、そういえばお礼をすっかり忘れていました。
+> CONTEXT: Map029/events/2/pages/2/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map019/events/2/pages/1/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どうぞ、これをお納めください。
+> CONTEXT: Map029/events/2/pages/2/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map019/events/2/pages/1/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ドゥヂチはここから西、
+　グルッペンを越えてさらにずっと先にある
+　魔法塔です。
+> CONTEXT: Map029/events/2/pages/2/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map029/events/2/pages/3/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map019/events/2/pages/1/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「しかし今は使われていないはず……
+　あそこに何があるというのでしょう。
+> CONTEXT: Map029/events/2/pages/2/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map029/events/2/pages/3/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map019/events/2/pages/1/5/Dialogue < UNTRANSLATED
+> CONTEXT: Map019/events/2/pages/2/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「倒れていた男の人たちは、
+　みんな生きてるけど衰弱しきってたわ。
+> CONTEXT: Map029/events/7/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……わたしがやったのよね……
+> CONTEXT: Map029/events/7/pages/1/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"マーシャの母"
+> CONTEXT: Map029/events/8/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map029/events/9/pages/0/2/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map019/events/7/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map019/events/7/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map018/events/13/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「しかし夢魔とは………
+> CONTEXT: Map029/events/8/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「マーシャもその夢魔に襲われたせいで、
+　夢魔と同じになっていたというのでしょうか。
+> CONTEXT: Map029/events/8/pages/1/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああ、なんとおそろしい。
+> CONTEXT: Map029/events/8/pages/1/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「本当にありがとうございます。
+　なんとお礼を言っていいのか……
+> CONTEXT: Map029/events/9/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……あ、あの、
+　\\n[1]様、わたし………
+> CONTEXT: Map029/events/9/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「マーシャ、もういいんだ。
+　もう気にしてないと
+　勇者様も言っているだろう。
+> CONTEXT: Map029/events/9/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ううん、そうじゃないの。
+　\\n[1]様、魔王を倒す前にも一度
+　この町に来てくれたでしょ。
+> CONTEXT: Map029/events/9/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「その時\\n[1]様と一緒にいた女の子……、
+　わたしを襲った夢魔と一緒にいたような
+　気がするの。
+> CONTEXT: Map029/events/9/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「確か\\c[1]ドゥヂチ\\c[0]に向かうって
+　話してたと思うわ。
+> CONTEXT: Map029/events/9/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でも見間違いかも……
+　……その子、ハネが生えてたし………
+> CONTEXT: Map029/events/9/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING

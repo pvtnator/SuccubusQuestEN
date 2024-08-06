@@ -1,0 +1,14 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「あそこへ……
+　あの場所の力さえ…あれば……
+> CONTEXT: Map055/events/2/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「魔王様………
+　無念……です……………
+> CONTEXT: Map055/events/2/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING

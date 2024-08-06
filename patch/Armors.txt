@@ -1,0 +1,2123 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ディバインクラウン/0/0
+> CONTEXT: Armors/1/name/
+Divine Crown/0/0
+> END STRING
+
+> BEGIN STRING
+防御+70 / 風耐性+40 / 雷耐性+40
+> CONTEXT: Armors/1/description/
+Def +70 / Wind Res. +40 / Lightning Res. +40
+> END STRING
+
+> BEGIN STRING
+ホーリーブレスト/0/0
+> CONTEXT: Armors/3/name/
+Holy Breast/0/0
+> END STRING
+
+> BEGIN STRING
+防御+190 / 闇耐性+80 / 斬撃・刺突ダメージカット
+> CONTEXT: Armors/3/description/
+Def +190 / Darkness Res. +80 / Slash/Pierce Def
+> END STRING
+
+> BEGIN STRING
+ガルガリンシールド/0/0
+> CONTEXT: Armors/5/name/
+Gargarin Shield/0/0
+> END STRING
+
+> BEGIN STRING
+防御+110 / 氷耐性+40 / 炎耐性+40 / ブレス反射
+> CONTEXT: Armors/5/description/
+Def +110 / Ice Res. +40 / Fire Res. +40 / Breath Reflection
+> END STRING
+
+> BEGIN STRING
+手作りの護符/0/1
+> CONTEXT: Armors/7/name/
+> CONTEXT: Armors/8/name/
+Handmade Talisman/0/1
+> END STRING
+
+> BEGIN STRING
+幸運+1
+> CONTEXT: Armors/7/description/
+Luck +1
+> END STRING
+
+> BEGIN STRING
+守り+1 / 幸運+1
+> CONTEXT: Armors/8/description/
+Def +1 / Luck +1
+> END STRING
+
+> BEGIN STRING
+シニルバンド/0/0
+> CONTEXT: Armors/9/name/
+Shinilband/0/0
+> END STRING
+
+> BEGIN STRING
+防御+55 / HP+25% / 腕力+20 / クリティカルヒット率アップ
+> CONTEXT: Armors/9/description/
+Def +55 / HP +25% / Str +20 / Crit rate up
+> END STRING
+
+> BEGIN STRING
+ヘルヴォルハーネス/0/0
+> CONTEXT: Armors/11/name/
+Hellvor Harness/0/0
+> END STRING
+
+> BEGIN STRING
+防御+155 / 腕力+20 / 素早さ+10 / 時々2回攻撃できる
+> CONTEXT: Armors/11/description/
+Def +155 / Str +20 / Agility +10 / Sometimes attack twice
+> END STRING
+
+> BEGIN STRING
+メタルブレスレット/0/0
+> CONTEXT: Armors/13/name/
+Metal Bracelet/0/0
+> END STRING
+
+> BEGIN STRING
+防御+1
+> CONTEXT: Armors/13/description/
+> CONTEXT: Armors/21/description/
+Def +1
+> END STRING
+
+> BEGIN STRING
+白金の髪飾り/0/0
+> CONTEXT: Armors/15/name/
+Platinum Ornament/0/0
+> END STRING
+
+> BEGIN STRING
+防御+20 / 光耐性+10 / 闇耐性+10 / MP+100
+> CONTEXT: Armors/15/description/
+Def +20 / Light Res. +10 / Dark Res. +10 / MP +100
+> END STRING
+
+> BEGIN STRING
+アンフィリィベスト/0/0
+> CONTEXT: Armors/17/name/
+Amphiry Vest/0/0
+> END STRING
+
+> BEGIN STRING
+防御+55 / 魔力+20
+> CONTEXT: Armors/17/description/
+Def +55 / Magic +20
+> END STRING
+
+> BEGIN STRING
+イージス/0/0
+> CONTEXT: Armors/19/name/
+Aegis/0/0
+> END STRING
+
+> BEGIN STRING
+防御+90 / 魔法防御+110 / 発動時MP消費
+> CONTEXT: Armors/19/description/
+Def +90 / M. Def +110 / Use MP to activate
+> END STRING
+
+> BEGIN STRING
+パールネックレス/0/0
+> CONTEXT: Armors/21/name/
+Pearl Necklace/0/0
+> END STRING
+
+> BEGIN STRING
+■■頭防具■■
+> CONTEXT: Armors/24/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+レザーバンダナ/1/0
+> CONTEXT: Armors/25/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力+1
+> CONTEXT: Armors/25/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+野鳥の羽飾り/3/0
+> CONTEXT: Armors/26/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力+3
+> CONTEXT: Armors/26/description/ < UNTRANSLATED
+> CONTEXT: Armors/96/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ストローハット/2/0
+> CONTEXT: Armors/27/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力+2 / 精神力+1
+> CONTEXT: Armors/27/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+枝のかんむり/0/0
+> CONTEXT: Armors/28/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+3 / センシブ耐性+30% / ナーバス耐性+30%
+> CONTEXT: Armors/28/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+羽帽子/7/0
+> CONTEXT: Armors/29/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力+7
+> CONTEXT: Armors/29/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スカーレットフェザー/9/0
+> CONTEXT: Armors/30/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力+9 / 精力+1 / 素早さ+1
+> CONTEXT: Armors/30/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サークレット/0/0
+> CONTEXT: Armors/31/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+2 / 精神力+3
+> CONTEXT: Armors/31/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+白銀のサークレット/0/0
+> CONTEXT: Armors/32/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+5 / 精神力+3 / 最大EP+5%
+> CONTEXT: Armors/32/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+セーラーキャップ/5/0
+> CONTEXT: Armors/33/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力+5 / 素早さ+3
+> CONTEXT: Armors/33/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ジェットグラス/6/0
+> CONTEXT: Armors/35/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力+6 / 視覚に耐性+20%
+> CONTEXT: Armors/35/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ポッパナハット/5/0
+> CONTEXT: Armors/36/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力+5 / 精神力+2
+> CONTEXT: Armors/36/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+プリズムサークレット/6/0
+> CONTEXT: Armors/37/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+3 / 魅力+6 / 最大EP+5% / ヴィジョン耐性+20%
+> CONTEXT: Armors/37/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴォヤージュキャップ/4/0
+> CONTEXT: Armors/38/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力+4 / 精力+2 / 精神力+2
+> CONTEXT: Armors/38/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トリブヌスマスク/7/0
+> CONTEXT: Armors/43/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+5 / 魅力+7 / 精力+3 / 素早さ+3
+> CONTEXT: Armors/43/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+花のかんむり/8/0
+> CONTEXT: Armors/44/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+5 / 魅力+8 / 全てのバッドステートに耐性+10%
+> CONTEXT: Armors/44/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+干草のペタソス/3/0
+> CONTEXT: Armors/45/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+1 / 魅力+3 / 精神力+3
+> CONTEXT: Armors/45/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウィザードウィッグ/4/0
+> CONTEXT: Armors/46/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力+4 / 精神力+6
+> CONTEXT: Armors/46/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ロマンスティアラ/10/0
+> CONTEXT: Armors/47/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力+10 / 全てのバッドステートに耐性+5%
+> CONTEXT: Armors/47/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■■胴防具■■
+> CONTEXT: Armors/59/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+コットンシャツ/6/0
+> CONTEXT: Armors/60/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力+6
+> CONTEXT: Armors/60/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リーヴスヴェスト/8/0
+> CONTEXT: Armors/61/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力+8
+> CONTEXT: Armors/61/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ペザントブラウス/7/0
+> CONTEXT: Armors/62/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力+7 / 精神力+1
+> CONTEXT: Armors/62/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シルクシャツ/13/0
+> CONTEXT: Armors/63/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力+13
+> CONTEXT: Armors/63/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ノーブルチュニック/11/0
+> CONTEXT: Armors/64/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力+11 / 精神力+3
+> CONTEXT: Armors/64/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カバリエブラウス/17/0
+> CONTEXT: Armors/65/name/ < UNTRANSLATED
+> CONTEXT: Armors/75/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力+17 / 精神力+3 / 素早さ+3
+> CONTEXT: Armors/65/description/ < UNTRANSLATED
+> CONTEXT: Armors/75/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+細波の衣/9/0
+> CONTEXT: Armors/66/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+1 / 魅力+9 / 精神力+2 / パニック耐性+10%
+> CONTEXT: Armors/66/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フリーベリボーダー/12/0
+> CONTEXT: Armors/67/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力+12
+> CONTEXT: Armors/67/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ホワイトリンネル/15/0
+> CONTEXT: Armors/69/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力+15 / 精神力+3
+> CONTEXT: Armors/69/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハパピィシャツ/18/0
+> CONTEXT: Armors/70/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力+18
+> CONTEXT: Armors/70/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+インディゴジャケット/16/0
+> CONTEXT: Armors/71/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力+16 / 精力+2 / 素早さ+2
+> CONTEXT: Armors/71/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+新緑のシャツ/15/0
+> CONTEXT: Armors/72/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力+15
+> CONTEXT: Armors/72/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+幻灰のローブ/13/0
+> CONTEXT: Armors/73/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力+13 / 精神力+3
+> CONTEXT: Armors/73/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フェティッシュヴェスト/18/0
+> CONTEXT: Armors/74/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力+18 / 精力+3 / 素早さ+3
+> CONTEXT: Armors/74/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ドリームシュラウド/23/0
+> CONTEXT: Armors/76/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力+23
+> CONTEXT: Armors/76/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カセドラルポンチョ/5/0
+> CONTEXT: Armors/83/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力+5 / 精神力+7
+> CONTEXT: Armors/83/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルミナスチュニック/20/0
+> CONTEXT: Armors/84/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力+20 / ナーバス耐性+20%
+> CONTEXT: Armors/84/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+センチュリオンコート/12/0
+> CONTEXT: Armors/85/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+3 / 魅力+12 / 精神力+5
+> CONTEXT: Armors/85/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+セーブルブラウス/10/0
+> CONTEXT: Armors/86/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+5 / 魅力+10 / 精神力+10
+> CONTEXT: Armors/86/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴィンテージチュニック/17/0
+> CONTEXT: Armors/87/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力+17 / 精神力+5 / 恍惚耐性+20% / 暴走耐性+20%
+> CONTEXT: Armors/87/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■■アクセサリ■■
+> CONTEXT: Armors/94/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+愛のしるし/12/0
+> CONTEXT: Armors/95/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+12 / 魅力+12 / TP+5 / 全てのバッドステートに耐性+50%
+> CONTEXT: Armors/95/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シルバーネックレス/3/0
+> CONTEXT: Armors/96/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+青銅のブレスレット/1/0
+> CONTEXT: Armors/97/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+2 / 魅力+1 / 精神力+2
+> CONTEXT: Armors/97/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+刃のペンダント/1/0
+> CONTEXT: Armors/98/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力+1 / 精力+5
+> CONTEXT: Armors/98/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シルクガントレット/2/0
+> CONTEXT: Armors/99/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力+2 / 技巧+2
+> CONTEXT: Armors/99/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+清流の腕輪/0/0
+> CONTEXT: Armors/100/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+1 / 精神力+3 / 恍惚耐性+10%
+> CONTEXT: Armors/100/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バタフライブローチ/3/0
+> CONTEXT: Armors/101/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+3 / 魅力+3
+> CONTEXT: Armors/101/description/ < UNTRANSLATED
+> CONTEXT: Armors/154/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+クリムゾンバッヂ/1/0
+> CONTEXT: Armors/102/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精力+3 / 精神力+3 / EP+5% / TP+5
+> CONTEXT: Armors/102/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+琥珀のブレスレット/1/0
+> CONTEXT: Armors/103/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+5 / 魅力+1 / 精神力+3
+> CONTEXT: Armors/103/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シェルイヤリング/4/0
+> CONTEXT: Armors/104/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力+4
+> CONTEXT: Armors/104/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+セーラータイ/5/0
+> CONTEXT: Armors/105/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力+3 / 素早さ+3
+> CONTEXT: Armors/105/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ダイアモンドチャーム/0/0
+> CONTEXT: Armors/106/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+7 / バインド耐性+50%
+> CONTEXT: Armors/106/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+クリスタルチャーム/0/0
+> CONTEXT: Armors/107/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+7 / 恍惚耐性+50%
+> CONTEXT: Armors/107/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ペリドットチャーム/0/0
+> CONTEXT: Armors/108/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+7 / センシブ耐性+50% / ナーバス耐性+50%
+> CONTEXT: Armors/108/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エメラルドチャーム/0/0
+> CONTEXT: Armors/109/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+7 / 暴走耐性+50% / パニック耐性+50%
+> CONTEXT: Armors/109/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サファイアチャーム/0/0
+> CONTEXT: Armors/110/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+7 / ミニマム耐性+50% / クラムジ耐性+50% /  ヴィジョン耐性+50%
+> CONTEXT: Armors/110/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+鼓舞の銀鱗/0/1
+> CONTEXT: Armors/111/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+3 / TP+5 / 幸運+1
+> CONTEXT: Armors/111/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔石のペンダント/2/0
+> CONTEXT: Armors/113/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+6 / 魅力+2 / 魔法に耐性+30%
+> CONTEXT: Armors/113/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ブルーベルブーケ/-9/0
+> CONTEXT: Armors/114/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+3 / 魅力-9 / 夢魔に出会いにくくなる
+> CONTEXT: Armors/114/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ネレイスチャーム/0/0
+> CONTEXT: Armors/115/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+5 / 精神力+6 / 恍惚耐性+30%
+> CONTEXT: Armors/115/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+銀のピアス/8/0
+> CONTEXT: Armors/116/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+1 / 魅力+8 / 技巧+1 / 素早さ+5
+> CONTEXT: Armors/116/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ドラゴンフライブローチ/6/0
+> CONTEXT: Armors/117/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+6 / 魅力+6
+> CONTEXT: Armors/117/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フォシルペンダント/2/0
+> CONTEXT: Armors/118/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+6 / 魅力+2 / 精神力+4
+> CONTEXT: Armors/118/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もえさしの首飾り/0/0
+> CONTEXT: Armors/119/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+6 / 精神力+4
+> CONTEXT: Armors/119/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ネロリの手袋/3/0
+> CONTEXT: Armors/120/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+2 / 魅力+3 / 技巧+4
+> CONTEXT: Armors/120/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+コンプレクススカーフ/7/0
+> CONTEXT: Armors/121/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+2 / 魅力+7 / 技巧+2 / パニック耐性+20%
+> CONTEXT: Armors/121/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+月長石のブレスレット/3/0
+> CONTEXT: Armors/122/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+7 / 魅力+3 / 精神力+5
+> CONTEXT: Armors/122/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ファイアフライブローチ/8/0
+> CONTEXT: Armors/123/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+8 / 魅力+8
+> CONTEXT: Armors/123/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪瑙のピアス/10/0
+> CONTEXT: Armors/124/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+2 / 魅力+10 / 素早さ+5
+> CONTEXT: Armors/124/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ビロードガントレット/7/0
+> CONTEXT: Armors/125/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力+7 / 技巧+5
+> CONTEXT: Armors/125/description/ < UNTRANSLATED
+> CONTEXT: Armors/126/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サテンゴルゲット/7/0
+> CONTEXT: Armors/126/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サードニクスチャーム/0/0
+> CONTEXT: Armors/127/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+7 / 精力+5% / 技巧+5% / 素早さ+5%
+> CONTEXT: Armors/127/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ターコイズチャーム/0/0
+> CONTEXT: Armors/128/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+7 / 技巧+5% / 素早さ+5% / 精神力+5%
+> CONTEXT: Armors/128/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キッスリング/6/0
+> CONTEXT: Armors/135/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+5 / 魅力+6 / キッスの効果アップ
+> CONTEXT: Armors/135/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バストリング/6/0
+> CONTEXT: Armors/136/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+5 / 魅力+6 / バストの効果アップ
+> CONTEXT: Armors/136/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヒップリング/6/0
+> CONTEXT: Armors/137/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+5 / 魅力+6 / ヒップの効果アップ
+> CONTEXT: Armors/137/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴァッジリング/6/0
+> CONTEXT: Armors/138/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+5 / 魅力+6 / ヴァッジの効果アップ
+> CONTEXT: Armors/138/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スムーチュリング/10/0
+> CONTEXT: Armors/139/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+9 / 魅力+10 / キッスの効果アップ
+> CONTEXT: Armors/139/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ニップルリング/10/0
+> CONTEXT: Armors/140/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+9 / 魅力+10 / バストの効果アップ
+> CONTEXT: Armors/140/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アナルリング/10/0
+> CONTEXT: Armors/141/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+9 / 魅力+10 / ヒップの効果アップ
+> CONTEXT: Armors/141/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+クリティリング/10/0
+> CONTEXT: Armors/142/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+9 / 魅力+10 / ヴァッジの効果アップ
+> CONTEXT: Armors/142/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+古びたロザリオ/-1/0
+> CONTEXT: Armors/143/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力-1 / 精神力+6
+> CONTEXT: Armors/143/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+レギオンシール/10/0
+> CONTEXT: Armors/144/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+10 / 魅力+10
+> CONTEXT: Armors/144/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雄兎の前足/3/2
+> CONTEXT: Armors/145/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+7 / 魅力+3 / 精力+3 / 幸運+2
+> CONTEXT: Armors/145/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+黒猫の骨/7/2
+> CONTEXT: Armors/146/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+3 / 魅力+7 / 素早さ+3 / 幸運+2
+> CONTEXT: Armors/146/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+イモリの黒焼き/0/0
+> CONTEXT: Armors/147/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精力+9 / EP+20% / TP+5
+> CONTEXT: Armors/147/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ドッグカラー/6/0
+> CONTEXT: Armors/148/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力+6 / 精神力-6
+> CONTEXT: Armors/148/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シャードオブソード/0/0
+> CONTEXT: Armors/149/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+7 / 精力+5 / 精神力+5 / 恍惚耐性+30%
+> CONTEXT: Armors/149/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シャードオブソード/5/0
+> CONTEXT: Armors/150/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+7 / 魅力+5 / 精神力+5 / バインド耐性+30%
+> CONTEXT: Armors/150/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+鼠のインタリオ/5/0
+> CONTEXT: Armors/151/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+5 / 魅力+5 / クライシス時精力、技巧、素早さ、テンションアップ
+> CONTEXT: Armors/151/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+牡鹿のインタリオ/5/0
+> CONTEXT: Armors/152/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+守り+5 / 魅力+5 / クライシス時技巧、素早さ、精神力、テンションアップ
+> CONTEXT: Armors/152/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+宵闇の飾り紐/10/0
+> CONTEXT: Armors/153/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力+10 / ルヴィッサのMP+10%
+> CONTEXT: Armors/153/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+白蝶貝のネックレス/3/0
+> CONTEXT: Armors/154/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+赤い靴/20/0
+> CONTEXT: Armors/155/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力+20 / 技巧+10 / 素早さ+10 / 精神力-30 / 逃げられなくなる
+> CONTEXT: Armors/155/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アクアネックレス/0/0
+> CONTEXT: Armors/156/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精神力+20
+> CONTEXT: Armors/156/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■ルヴィッサ着替え用
+> CONTEXT: Armors/169/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アルケインリボン/10/0
+> CONTEXT: Armors/170/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力+10 / 魔力+5
+> CONTEXT: Armors/170/description/ < UNTRANSLATED
+> CONTEXT: Armors/172/description/ < UNTRANSLATED
+> CONTEXT: Armors/174/description/ < UNTRANSLATED
+> CONTEXT: Armors/176/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+クリプティリボン/10/0
+> CONTEXT: Armors/171/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力+10 / 魔力+10 / MP+10%
+> CONTEXT: Armors/171/description/ < UNTRANSLATED
+> CONTEXT: Armors/173/description/ < UNTRANSLATED
+> CONTEXT: Armors/175/description/ < UNTRANSLATED
+> CONTEXT: Armors/177/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リンクスマフス/10/0
+> CONTEXT: Armors/172/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+グリマルキンマフス/10/0
+> CONTEXT: Armors/173/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サヴァントカチューシャ/10/0
+> CONTEXT: Armors/174/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+メイデンカチューシャ/10/0
+> CONTEXT: Armors/175/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルナバレッタ/10/0
+> CONTEXT: Armors/176/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+セレスシャルバレッタ/10/0
+> CONTEXT: Armors/177/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アルケインドレス/15/0
+> CONTEXT: Armors/179/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力+15 / 魔力+5
+> CONTEXT: Armors/179/description/ < UNTRANSLATED
+> CONTEXT: Armors/181/description/ < UNTRANSLATED
+> CONTEXT: Armors/183/description/ < UNTRANSLATED
+> CONTEXT: Armors/185/description/ < UNTRANSLATED
+> CONTEXT: Armors/187/description/ < UNTRANSLATED
+> CONTEXT: Armors/189/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+クリプティドレス/15/0
+> CONTEXT: Armors/180/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅力+15 / 魔力+15 / MP+10%
+> CONTEXT: Armors/180/description/ < UNTRANSLATED
+> CONTEXT: Armors/182/description/ < UNTRANSLATED
+> CONTEXT: Armors/184/description/ < UNTRANSLATED
+> CONTEXT: Armors/186/description/ < UNTRANSLATED
+> CONTEXT: Armors/188/description/ < UNTRANSLATED
+> CONTEXT: Armors/190/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+コーラルドレス/15/0
+> CONTEXT: Armors/181/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ダマスクドレス/15/0
+> CONTEXT: Armors/182/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アイボリードレス/15/0
+> CONTEXT: Armors/183/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アラバスタドレス/15/0
+> CONTEXT: Armors/184/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リンクスファー/15/0
+> CONTEXT: Armors/185/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+グリマルキンファー/15/0
+> CONTEXT: Armors/186/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サヴァントブラウス/15/0
+> CONTEXT: Armors/187/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+メイデンブラウス/15/0
+> CONTEXT: Armors/188/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミニマルビキニ/15/0
+> CONTEXT: Armors/189/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エンプティビキニ/15/0
+> CONTEXT: Armors/190/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■ルヴィッサアクセサリ
+> CONTEXT: Armors/192/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夢魔の翼/0/0/0/134
+> CONTEXT: Armors/193/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：リスティル / 素早さ+5
+> CONTEXT: Armors/193/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+根の杖/0/0/0/142
+> CONTEXT: Armors/194/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：ルート / 魔力+5
+> CONTEXT: Armors/194/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウィンドワンド/0/0/0/150
+> CONTEXT: Armors/195/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：ウィンドクロス / 魔力+5
+> CONTEXT: Armors/195/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アクアワンド/0/0/0/149
+> CONTEXT: Armors/196/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：アクアクロス / 魔力+5
+> CONTEXT: Armors/196/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+紅の飾り羽根/0/0/0/144
+> CONTEXT: Armors/197/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：センシブ / 素早さ+10
+> CONTEXT: Armors/197/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カースドテンタクル/0/0/0/151
+> CONTEXT: Armors/198/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：トワイス / MP-30%
+> CONTEXT: Armors/198/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+浄火の腕輪/0/0/0/131m132
+> CONTEXT: Armors/199/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：イーサグン / 習得：イーサフニ
+> CONTEXT: Armors/199/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+狐の尻尾/0/0/0/147
+> CONTEXT: Armors/200/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：ファル・ドルンバ / 魔力+3
+> CONTEXT: Armors/200/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+快楽の尾/6/0/0/143m145
+> CONTEXT: Armors/201/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：バインド / 習得：ルゥイン / 魅力+6 / 魔力-3
+> CONTEXT: Armors/201/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+難問のタリスマン/0/0/0/125m127m128
+> CONTEXT: Armors/202/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：ウルズフニ / 習得：エオルフニ / 習得：ハガルフニ
+> CONTEXT: Armors/202/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+タペストリー/0/0/0/143m106
+> CONTEXT: Armors/203/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：バインド / 習得：バインイーサ
+> CONTEXT: Armors/203/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マナキャンディ/0/0/0/
+> CONTEXT: Armors/204/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔力+15 / MP+5%
+> CONTEXT: Armors/204/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+水鳥の尾羽/0/0/0/159
+> CONTEXT: Armors/205/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：クヮイエト / 素早さ+5 / 魔力+2
+> CONTEXT: Armors/205/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+漆のかんざし/0/0/0/131
+> CONTEXT: Armors/206/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：イーサグン / 魔力+5 / 素早さ+5
+> CONTEXT: Armors/206/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+契約の杖/0/0/0/
+> CONTEXT: Armors/207/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔法の消費MP-3
+> CONTEXT: Armors/207/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+博士の呪文書/0/0/0/134m116
+> CONTEXT: None < UNUSED
+
+> END STRING
+
+> BEGIN STRING
+サモン時にテンションアップ / MP+5%
+> CONTEXT: Armors/208/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+紫苑の薄絹/7/0/0/134m116m141
+> CONTEXT: Armors/209/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：シギルグン / 習得：ラプチャ / 魅力+7
+> CONTEXT: None < UNUSED
+
+> END STRING
+
+> BEGIN STRING
+マンドレイク/3/0/0/142m141
+> CONTEXT: Armors/210/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：ルート / 習得：ラプチャ / 魅力+3 / 魔力+3
+> CONTEXT: Armors/210/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+天上のシタール/0/0/0/98
+> CONTEXT: Armors/211/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：モル・ロギン / 素早さ+5 / 魔力+5
+> CONTEXT: Armors/211/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マイティピック/0/0/0/145
+> CONTEXT: Armors/212/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：ルゥイン / 素早さ+5
+> CONTEXT: Armors/212/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ストームワンド/0/0/0/152
+> CONTEXT: Armors/213/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：ストームクロス / 魔力+5
+> CONTEXT: Armors/213/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エンジェルハロ/0/0/0/98m105
+> CONTEXT: Armors/214/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：モル・ロギン / 習得：マインイーサ
+> CONTEXT: Armors/214/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+月光の翼/0/0/0/134m157
+> CONTEXT: Armors/215/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：リスティル / 習得：サック / MP+5%
+> CONTEXT: Armors/215/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+悲恋のアミュレット/0/0/0/123
+> CONTEXT: Armors/216/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：ファル・シギルグン / MP-30% / 魔力-10
+> CONTEXT: Armors/216/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+弔辞のタリスマン/0/0/0/131m125m126
+> CONTEXT: Armors/217/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：イーサグン /  習得：ウルズフニ / 習得：ラグズフニ
+> CONTEXT: Armors/217/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夏至の魔力/7/0/0/116
+> CONTEXT: Armors/218/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：シギルグン / MP+10% / 魅力+7 / 魔力+7 / 素早さ+7
+> CONTEXT: Armors/218/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ブラッディミョッズ/0/0/0/154m141
+> CONTEXT: Armors/219/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：セション / 習得：ラプチャ
+> CONTEXT: Armors/219/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+秘窟の鍵/0/0/0/155m128
+> CONTEXT: Armors/220/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：フォシブル / 習得：エオルフニ / 魔力+3
+> CONTEXT: Armors/220/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+水の羽衣/5/0/0/116
+> CONTEXT: Armors/221/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：シギルグン / 魅力+5 / 素早さ+7 / 魔力+3
+> CONTEXT: Armors/221/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アーマースケイル/0/0/0/153
+> CONTEXT: Armors/222/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：ダリッシュ
+> CONTEXT: Armors/222/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+花冷えの霜/0/0/0/125m129
+> CONTEXT: Armors/223/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：ウルズフニ / 習得：シギルフニ
+> CONTEXT: Armors/223/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+グリードテンタクル/-20/0/0/151
+> CONTEXT: Armors/224/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：トワイス / 魅力-20 / 魔力-20
+> CONTEXT: Armors/224/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+水底の花/5/0/0/141m145
+> CONTEXT: Armors/225/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：ルゥイン / 習得：ラプチャ / 魅力+5
+> CONTEXT: Armors/225/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ポリモフサッシュ/0/0/0/137
+> CONTEXT: Armors/226/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：パースヴァル
+> CONTEXT: Armors/226/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+火蜥蜴の尻尾/3/0/0/156m105
+> CONTEXT: Armors/227/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：パッション / 習得：マインイーサ
+> CONTEXT: Armors/227/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+影の糸/0/0/0/143m126m127
+> CONTEXT: Armors/228/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：バインド / 習得：ハガルフニ /　習得：ラグズフニ
+> CONTEXT: Armors/228/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+髑髏の首飾り/0/0/0/155m119
+> CONTEXT: Armors/229/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：フォシブル / 習得：ファル・ウルズグン
+> CONTEXT: Armors/229/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トリックリング/0/0/0/140
+> CONTEXT: Armors/230/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：トリック / 魔力+3 / 素早さ+3 / MP+3%
+> CONTEXT: Armors/230/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ホイールオブフォーチュン/0/0/0/117
+> CONTEXT: Armors/231/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：ペルスグン / 魔力+10
+> CONTEXT: Armors/231/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+豊穣の鞘/0/0/0/98m132
+> CONTEXT: Armors/232/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：モル・ロギン / 習得：イーサフニ
+> CONTEXT: Armors/232/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウルヴスファー/0/0/0/155
+> CONTEXT: Armors/233/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：フォシブル / 素早さ+10
+> CONTEXT: Armors/233/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+新緑の語り部/0/0/0/160
+> CONTEXT: Armors/234/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：フレッシュ / 魔力+7
+> CONTEXT: Armors/234/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+猫の髭/0/0/0/121m147
+> CONTEXT: Armors/235/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：ファル・ドルンバ / 習得：ファル・ハガルグン / 魔力+3
+> CONTEXT: Armors/235/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+血染めの牙/0/0/0/161
+> CONTEXT: Armors/236/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：サイズ
+> CONTEXT: Armors/236/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+深海の王笏/0/0/0/122
+> CONTEXT: Armors/237/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：ファル・エオルグン / MP-20% / 素早さ-20
+> CONTEXT: Armors/237/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+創造の床/0/0/0/138
+> CONTEXT: Armors/238/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：ベオクヴァル
+> CONTEXT: Armors/238/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+メビウスリング/0/0/0/154m157
+> CONTEXT: Armors/239/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：セション / 習得：サック / 魔力+5
+> CONTEXT: Armors/239/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ソウルガード/0/0/0/163
+> CONTEXT: Armors/240/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：ストック
+> CONTEXT: Armors/240/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+淑女の冠/10/0/0/134m146
+> CONTEXT: Armors/241/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：リスティル / 習得：ファル・ルゥイン / 魅力+10 / 魔力+5
+> CONTEXT: Armors/241/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+竜石/0/0/0/124
+> CONTEXT: Armors/242/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：アルスグン
+> CONTEXT: Armors/242/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+嘆きの盾/0/0/0/142m153m129
+> CONTEXT: None < UNUSED
+
+> END STRING
+
+> BEGIN STRING
+習得：バインド / 習得：ダリッシュ / 習得：シギルフニ
+> CONTEXT: Armors/243/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+愛憎のアミュレット/0/0/0/123
+> CONTEXT: None < UNUSED
+
+> END STRING
+
+> BEGIN STRING
+習得：ファル・ラグズグン / MP-30% / 魔力-10
+> CONTEXT: Armors/244/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+妖精の羽/0/0/0/158
+> CONTEXT: Armors/245/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：プチ・ロギン / 魔力+1 / 素早さ+1
+> CONTEXT: Armors/245/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夢魔の微笑み/10/0/0/148m130
+> CONTEXT: Armors/246/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：ファル・ラプチャ / 習得：アルスフニ / 魅力+10
+> CONTEXT: Armors/246/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夢喰いの翼/10/0/0/148m110
+> CONTEXT: Armors/247/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：ファル・ラプチャ / 習得：アルスイーサ / 魔力+10
+> CONTEXT: Armors/247/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+白の錠前/0/0/0/189
+> CONTEXT: Armors/250/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：エフワズ
+> CONTEXT: Armors/250/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+博士の呪文書/0/0/0/
+> CONTEXT: Armors/208/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+習得：リスティル / 習得：シギルグン / 習得：ラプチャ / 魅力+7
+> CONTEXT: Armors/209/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+嘆きの盾/0/0/0/143m153m129
+> CONTEXT: Armors/243/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+愛憎のアミュレット/0/0/0/120
+> CONTEXT: Armors/244/name/ < UNTRANSLATED
+
+> END STRING

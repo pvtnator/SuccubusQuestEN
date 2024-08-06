@@ -1,0 +1,96 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+SQ_Town06
+> CONTEXT: Map171/bgm/name/ < UNTRANSLATED
+> CONTEXT: Map165/bgm/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「旅人の宿屋へようこそ！
+> CONTEXT: Map171/events/4/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map124/events/4/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/4/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/4/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「一晩 \\b15G\\f ですが、お泊りになりますか？
+> CONTEXT: Map171/events/4/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\b15G\\f で宿屋に泊まりますか？
+> CONTEXT: Map171/events/4/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「よかった……
+　気がついたのね。
+> CONTEXT: Map171/events/8/pages/1/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お墓の前で急に倒れちゃって、
+　町の人がここまで運んでくれたのよ。
+> CONTEXT: Map171/events/8/pages/1/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「え？
+　夢を見てた？
+> CONTEXT: Map171/events/8/pages/1/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…せっかく私が心配してあげてたのに……
+　呑気なものね。
+> CONTEXT: Map171/events/8/pages/1/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あら、それ何？
+> CONTEXT: Map171/events/8/pages/1/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]の全てのステータスが上がった！
+\\n[1]のストックが \\b1\\f増えた！
+> CONTEXT: Map171/events/8/pages/1/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「さっきまでこんなの
+　なかったわよね……
+> CONTEXT: Map171/events/8/pages/1/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…夢の中で手に入れた……？
+> CONTEXT: Map171/events/8/pages/1/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…ふぅん………
+> CONTEXT: Map171/events/8/pages/1/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ま、いいわ。 動けるならさっさと
+　あなたが気になってるってこと解決して、
+　魔王城へ行きましょ。
+> CONTEXT: Map171/events/8/pages/1/65/Dialogue < UNTRANSLATED
+
+> END STRING

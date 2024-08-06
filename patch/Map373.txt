@@ -1,0 +1,7 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ルヴィッサの今頭に装備しているものを
+衣装架けにかけますか？
+> CONTEXT: Map373/events/5/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING

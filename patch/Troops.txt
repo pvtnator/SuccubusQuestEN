@@ -1,0 +1,3914 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+EV_ギルデンスターン
+> CONTEXT: Troops/1/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ギルデンスターン/Guildenstern"
+> CONTEXT: Troops/1/pages/0/0/InlineScript/1:4
+> CONTEXT: Troops/1/pages/2/13/InlineScript/1:4
+> CONTEXT: Troops/1/pages/2/129/InlineScript/1:4
+> CONTEXT: Troops/332/pages/0/2/InlineScript/1:4
+"Guildenstern/Guildenstern"
+> END STRING
+
+> BEGIN STRING
+「夢に想うは人！
+　夢に棲まうは魔！
+> CONTEXT: Troops/1/pages/0/1/Dialogue
+「Humans see dreams!
+　Demons live in dreams!
+> END STRING
+
+> BEGIN STRING
+「報いを受けよ！　わきまえぬ者ども！
+　夢を\\r[身体,からだ]に降ろさんとす者ども！！
+> CONTEXT: Troops/1/pages/0/3/Dialogue
+「Receive your punishment, fools!
+　You, who would bring dreams upon yourselves!!
+> END STRING
+
+> BEGIN STRING
+「おお過ぎたる夢よ！
+　犯されし世界よ！
+　我が名において戒めん！！
+> CONTEXT: Troops/1/pages/0/5/Dialogue
+「Oh, far-fetched dream!
+　Oh, violated world!
+　I admonish you in my name!!
+> END STRING
+
+> BEGIN STRING
+「我は魔なり！
+　かつてあらゆる夜において！
+> CONTEXT: Troops/1/pages/0/8/Dialogue
+「I am the demon!
+　Once upon a time, in every night!
+> END STRING
+
+> BEGIN STRING
+「あらゆる夢に在りし魔なり！
+　我は！！
+> CONTEXT: Troops/1/pages/0/10/Dialogue
+「I am the demon that resides in every dream!
+　I am!!
+> END STRING
+
+> BEGIN STRING
+「魔王なりッ！！！
+> CONTEXT: Troops/1/pages/0/12/Dialogue
+「I am the Demon King!!!
+> END STRING
+
+> BEGIN STRING
+"エルヴィン/Elvin"
+> CONTEXT: Troops/1/pages/1/0/InlineScript/1:4
+> CONTEXT: Map355/events/12/pages/0/2/InlineScript/1:4
+> CONTEXT: Troops/1/pages/2/20/InlineScript/1:4
+> CONTEXT: Troops/1/pages/2/41/InlineScript/1:4
+> CONTEXT: Troops/1/pages/2/62/InlineScript/1:4
+> CONTEXT: Troops/1/pages/2/71/InlineScript/1:4
+> CONTEXT: Troops/4/pages/2/4/InlineScript/1:4
+> CONTEXT: Troops/4/pages/3/3/InlineScript/1:4
+> CONTEXT: Troops/4/pages/3/10/InlineScript/1:4
+> CONTEXT: Map313/events/10/pages/0/100/InlineScript/1:4
+> CONTEXT: Map313/events/10/pages/0/113/InlineScript/1:4
+> CONTEXT: Map316/events/10/pages/0/100/InlineScript/1:4
+> CONTEXT: Map316/events/10/pages/0/113/InlineScript/1:4
+> CONTEXT: Map313/events/10/pages/0/147/InlineScript/1:4
+> CONTEXT: Map316/events/10/pages/0/147/InlineScript/1:4
+> CONTEXT: Map313/events/10/pages/0/163/InlineScript/1:4
+> CONTEXT: Map316/events/10/pages/0/163/InlineScript/1:4
+> CONTEXT: Map313/events/16/pages/0/139/InlineScript/1:4
+> CONTEXT: Map313/events/16/pages/0/152/InlineScript/1:4
+> CONTEXT: Map316/events/16/pages/0/139/InlineScript/1:4
+> CONTEXT: Map316/events/16/pages/0/152/InlineScript/1:4
+> CONTEXT: Map313/events/16/pages/0/196/InlineScript/1:4
+> CONTEXT: Map316/events/16/pages/0/196/InlineScript/1:4
+> CONTEXT: Map313/events/16/pages/0/210/InlineScript/1:4
+> CONTEXT: Map316/events/16/pages/0/210/InlineScript/1:4
+> CONTEXT: Map313/events/16/pages/0/221/InlineScript/1:4
+> CONTEXT: Map316/events/16/pages/0/221/InlineScript/1:4
+> CONTEXT: Map284/events/3/pages/0/57/InlineScript/1:4
+> CONTEXT: Map313/events/17/pages/0/109/InlineScript/1:4
+> CONTEXT: Map213/events/17/pages/1/54/InlineScript/1:4
+> CONTEXT: Map192/events/11/pages/0/103/InlineScript/1:4
+> CONTEXT: Map214/events/13/pages/0/0/InlineScript/1:4
+> CONTEXT: Map192/events/11/pages/0/139/InlineScript/1:4
+> CONTEXT: Map214/events/14/pages/0/23/InlineScript/1:4
+> CONTEXT: Map213/events/17/pages/1/216/InlineScript/1:4
+> CONTEXT: Map214/events/14/pages/0/39/InlineScript/1:4
+> CONTEXT: Map192/events/11/pages/0/179/InlineScript/1:4
+> CONTEXT: Map193/events/10/pages/0/100/InlineScript/1:4
+> CONTEXT: Map193/events/10/pages/0/113/InlineScript/1:4
+> CONTEXT: Map213/events/17/pages/1/252/InlineScript/1:4
+> CONTEXT: Map214/events/14/pages/0/88/InlineScript/1:4
+> CONTEXT: Map192/events/11/pages/0/218/InlineScript/1:4
+> CONTEXT: Map175/events/2/pages/0/15/InlineScript/1:4
+> CONTEXT: Map213/events/17/pages/1/339/InlineScript/1:4
+> CONTEXT: Map175/events/2/pages/0/61/InlineScript/1:4
+> CONTEXT: Map193/events/10/pages/0/147/InlineScript/1:4
+> CONTEXT: Map192/events/11/pages/0/293/InlineScript/1:4
+> CONTEXT: Map193/events/10/pages/0/163/InlineScript/1:4
+> CONTEXT: Map192/events/11/pages/0/354/InlineScript/1:4
+> CONTEXT: Map170/events/1/pages/0/66/InlineScript/1:4
+> CONTEXT: Map192/events/11/pages/0/372/InlineScript/1:4
+> CONTEXT: Map214/events/14/pages/0/137/InlineScript/1:4
+> CONTEXT: Map214/events/14/pages/0/145/InlineScript/1:4
+> CONTEXT: Map192/events/11/pages/0/395/InlineScript/1:4
+> CONTEXT: Map214/events/14/pages/0/160/InlineScript/1:4
+> CONTEXT: Map193/events/16/pages/0/139/InlineScript/1:4
+> CONTEXT: Map193/events/16/pages/0/152/InlineScript/1:4
+> CONTEXT: Map214/events/14/pages/0/168/InlineScript/1:4
+> CONTEXT: Map192/events/11/pages/0/501/InlineScript/1:4
+> CONTEXT: Map193/events/16/pages/0/196/InlineScript/1:4
+> CONTEXT: Map192/events/11/pages/0/524/InlineScript/1:4
+> CONTEXT: Map192/events/11/pages/0/532/InlineScript/1:4
+> CONTEXT: Map193/events/16/pages/0/210/InlineScript/1:4
+> CONTEXT: Map192/events/11/pages/0/541/InlineScript/1:4
+> CONTEXT: Map193/events/16/pages/0/221/InlineScript/1:4
+> CONTEXT: Map214/events/14/pages/2/86/InlineScript/1:4
+> CONTEXT: Map192/events/11/pages/0/570/InlineScript/1:4
+> CONTEXT: Map214/events/16/pages/0/23/InlineScript/1:4
+> CONTEXT: Map192/events/11/pages/0/575/InlineScript/1:4
+> CONTEXT: Map214/events/16/pages/0/39/InlineScript/1:4
+> CONTEXT: Map192/events/11/pages/0/624/InlineScript/1:4
+> CONTEXT: Map192/events/11/pages/0/653/InlineScript/1:4
+> CONTEXT: Map214/events/16/pages/0/88/InlineScript/1:4
+> CONTEXT: Map214/events/16/pages/0/115/InlineScript/1:4
+> CONTEXT: Map193/events/17/pages/0/253/InlineScript/1:4
+> CONTEXT: Map214/events/16/pages/0/129/InlineScript/1:4
+> CONTEXT: Map193/events/17/pages/0/266/InlineScript/1:4
+> CONTEXT: Map214/events/16/pages/0/155/InlineScript/1:4
+> CONTEXT: Map214/events/16/pages/0/164/InlineScript/1:4
+> CONTEXT: Map214/events/16/pages/0/179/InlineScript/1:4
+> CONTEXT: Map214/events/16/pages/0/187/InlineScript/1:4
+> CONTEXT: Map193/events/17/pages/0/435/InlineScript/1:4
+> CONTEXT: Map136/events/1/pages/0/58/InlineScript/1:4
+> CONTEXT: Map193/events/17/pages/0/483/InlineScript/1:4
+> CONTEXT: Map136/events/1/pages/0/95/InlineScript/1:4
+> CONTEXT: Map136/events/1/pages/0/102/InlineScript/1:4
+> CONTEXT: Map136/events/1/pages/0/134/InlineScript/1:4
+> CONTEXT: Map214/events/21/pages/0/25/InlineScript/1:4
+> CONTEXT: Map214/events/21/pages/0/41/InlineScript/1:4
+> CONTEXT: Map136/events/1/pages/0/150/InlineScript/1:4
+> CONTEXT: Map136/events/1/pages/0/170/InlineScript/1:4
+> CONTEXT: Map214/events/21/pages/0/90/InlineScript/1:4
+> CONTEXT: Map136/events/1/pages/0/198/InlineScript/1:4
+> CONTEXT: Map136/events/1/pages/0/220/InlineScript/1:4
+> CONTEXT: Map136/events/1/pages/0/320/InlineScript/1:4
+> CONTEXT: Map214/events/21/pages/0/139/InlineScript/1:4
+> CONTEXT: Map136/events/1/pages/0/354/InlineScript/1:4
+> CONTEXT: Map214/events/21/pages/0/147/InlineScript/1:4
+> CONTEXT: Map136/events/1/pages/0/399/InlineScript/1:4
+> CONTEXT: Map214/events/21/pages/0/162/InlineScript/1:4
+> CONTEXT: Map214/events/21/pages/0/170/InlineScript/1:4
+> CONTEXT: Map214/events/21/pages/2/87/InlineScript/1:4
+> CONTEXT: Map037/events/2/pages/0/7/InlineScript/1:4
+> CONTEXT: Map036/events/1/pages/0/0/InlineScript/1:4
+> CONTEXT: Map037/events/2/pages/0/46/InlineScript/1:4
+> CONTEXT: Map037/events/2/pages/0/56/InlineScript/1:4
+> CONTEXT: Map037/events/2/pages/0/65/InlineScript/1:4
+> CONTEXT: Map036/events/2/pages/0/0/InlineScript/1:4
+> CONTEXT: Map037/events/2/pages/0/111/InlineScript/1:4
+> CONTEXT: Map037/events/2/pages/0/142/InlineScript/1:4
+> CONTEXT: Map034/events/1/pages/0/96/InlineScript/1:4
+> CONTEXT: Map036/events/3/pages/0/0/InlineScript/1:4
+> CONTEXT: Map037/events/2/pages/0/153/InlineScript/1:4
+> CONTEXT: Map031/events/3/pages/0/1/InlineScript/1:4
+> CONTEXT: Map037/events/2/pages/0/158/InlineScript/1:4
+> CONTEXT: Map037/events/2/pages/0/165/InlineScript/1:4
+> CONTEXT: Map036/events/4/pages/0/12/InlineScript/1:4
+> CONTEXT: Map036/events/4/pages/0/17/InlineScript/1:4
+> CONTEXT: Map034/events/1/pages/0/239/InlineScript/1:4
+> CONTEXT: Map036/events/5/pages/0/0/InlineScript/1:4
+> CONTEXT: Map036/events/7/pages/0/0/InlineScript/1:4
+> CONTEXT: Map036/events/8/pages/0/0/InlineScript/1:4
+> CONTEXT: Map036/events/11/pages/0/0/InlineScript/1:4
+> CONTEXT: Map034/events/11/pages/0/88/InlineScript/1:4
+> CONTEXT: Map037/events/2/pages/0/318/InlineScript/1:4
+> CONTEXT: Map037/events/2/pages/0/385/InlineScript/1:4
+> CONTEXT: Map034/events/11/pages/0/235/InlineScript/1:4
+> CONTEXT: Map018/events/5/pages/0/2/InlineScript/1:4
+> CONTEXT: Map018/events/5/pages/0/29/InlineScript/1:4
+> CONTEXT: Map015/events/2/pages/0/48/InlineScript/1:4
+> CONTEXT: Map018/events/5/pages/0/36/InlineScript/1:4
+> CONTEXT: Map015/events/2/pages/0/62/InlineScript/1:4
+> CONTEXT: Map018/events/5/pages/0/59/InlineScript/1:4
+> CONTEXT: Map012/events/11/pages/0/72/InlineScript/1:4
+> CONTEXT: Map018/events/5/pages/0/64/InlineScript/1:4
+> CONTEXT: Map010/events/1/pages/0/12/InlineScript/1:4
+> CONTEXT: Map012/events/11/pages/0/81/InlineScript/1:4
+> CONTEXT: Map012/events/11/pages/0/109/InlineScript/1:4
+> CONTEXT: Map010/events/14/pages/0/30/InlineScript/1:4
+> CONTEXT: Map018/events/5/pages/0/76/InlineScript/1:4
+> CONTEXT: Map012/events/11/pages/0/117/InlineScript/1:4
+> CONTEXT: Map007/events/1/pages/0/10/InlineScript/1:4
+> CONTEXT: Map018/events/5/pages/0/81/InlineScript/1:4
+> CONTEXT: Map012/events/11/pages/0/135/InlineScript/1:4
+> CONTEXT: Map007/events/2/pages/0/10/InlineScript/1:4
+> CONTEXT: Map007/events/3/pages/0/10/InlineScript/1:4
+> CONTEXT: Map018/events/5/pages/0/110/InlineScript/1:4
+> CONTEXT: Map006/events/1/pages/0/0/InlineScript/1:4
+> CONTEXT: Map007/events/4/pages/0/10/InlineScript/1:4
+> CONTEXT: Map012/events/11/pages/0/169/InlineScript/1:4
+> CONTEXT: Map010/events/14/pages/0/49/InlineScript/1:4
+> CONTEXT: Map006/events/2/pages/0/0/InlineScript/1:4
+> CONTEXT: Map007/events/7/pages/0/8/InlineScript/1:4
+> CONTEXT: Map018/events/5/pages/0/127/InlineScript/1:4
+> CONTEXT: Map010/events/14/pages/0/58/InlineScript/1:4
+> CONTEXT: Map006/events/10/pages/0/0/InlineScript/1:4
+> CONTEXT: Map007/events/8/pages/0/10/InlineScript/1:4
+> CONTEXT: Map006/events/12/pages/0/0/InlineScript/1:4
+> CONTEXT: Map018/events/5/pages/3/0/InlineScript/1:4
+> CONTEXT: Map012/events/11/pages/0/306/InlineScript/1:4
+> CONTEXT: Map006/events/13/pages/0/0/InlineScript/1:4
+> CONTEXT: Map007/events/9/pages/0/10/InlineScript/1:4
+> CONTEXT: Map018/events/5/pages/3/8/InlineScript/1:4
+> CONTEXT: Map007/events/10/pages/0/10/InlineScript/1:4
+> CONTEXT: Map018/events/5/pages/3/50/InlineScript/1:4
+> CONTEXT: Map012/events/11/pages/0/335/InlineScript/1:4
+> CONTEXT: Map007/events/11/pages/0/10/InlineScript/1:4
+> CONTEXT: Map012/events/11/pages/0/389/InlineScript/1:4
+> CONTEXT: Map007/events/12/pages/0/5/InlineScript/1:4
+> CONTEXT: Map012/events/11/pages/0/394/InlineScript/1:4
+> CONTEXT: Map007/events/15/pages/0/10/InlineScript/1:4
+> CONTEXT: Map007/events/16/pages/0/10/InlineScript/1:4
+> CONTEXT: Map012/events/11/pages/0/596/InlineScript/1:4
+> CONTEXT: Map012/events/11/pages/0/607/InlineScript/1:4
+> CONTEXT: Map012/events/11/pages/0/645/InlineScript/1:4
+> CONTEXT: Map012/events/11/pages/0/657/InlineScript/1:4
+> CONTEXT: Commonevents/500/316/InlineScript/1:4
+> CONTEXT: Map314/events/5/pages/0/46/InlineScript/1:4
+> CONTEXT: Map314/events/5/pages/0/61/InlineScript/1:4
+> CONTEXT: Map314/events/5/pages/0/67/InlineScript/1:4
+> CONTEXT: Map314/events/5/pages/0/76/InlineScript/1:4
+"Elvin/Elvin"
+> END STRING
+
+> BEGIN STRING
+「どこ見てしゃべってンだ？
+　ワケのわかんねぇことばっかりよ！
+> CONTEXT: Troops/1/pages/1/1/Dialogue
+「What are you on about?
+　You're not making any sense!
+> END STRING
+
+> BEGIN STRING
+「もうお終いだ！魔王！
+　命乞いならもっと
+　わかりやすくやるんだなッ！！
+> CONTEXT: Troops/1/pages/1/3/Dialogue
+「It's all over, Demon King! 
+　If you're begging for your life, 
+　make it clearer!!
+> END STRING
+
+> BEGIN STRING
+"オリビア/Olivia"
+> CONTEXT: Troops/1/pages/1/10/InlineScript/1:4
+> CONTEXT: Troops/1/pages/2/0/InlineScript/1:4
+> CONTEXT: Troops/1/pages/2/6/InlineScript/1:4
+> CONTEXT: Troops/1/pages/2/59/InlineScript/1:4
+> CONTEXT: Map318/events/2/pages/0/5/InlineScript/1:4
+> CONTEXT: Map311/events/5/pages/0/27/InlineScript/1:4
+> CONTEXT: Map311/events/5/pages/0/51/InlineScript/1:4
+> CONTEXT: Map311/events/5/pages/0/76/InlineScript/1:4
+> CONTEXT: Map311/events/5/pages/0/88/InlineScript/1:4
+> CONTEXT: Map311/events/5/pages/0/95/InlineScript/1:4
+> CONTEXT: Map311/events/5/pages/0/113/InlineScript/1:4
+> CONTEXT: Map311/events/5/pages/0/267/InlineScript/1:4
+> CONTEXT: Map311/events/5/pages/0/334/InlineScript/1:4
+> CONTEXT: Map311/events/5/pages/0/350/InlineScript/1:4
+> CONTEXT: Map311/events/5/pages/0/430/InlineScript/1:4
+> CONTEXT: Map311/events/5/pages/0/438/InlineScript/1:4
+> CONTEXT: Map170/events/1/pages/0/130/InlineScript/1:4
+> CONTEXT: Troops/331/pages/3/12/InlineScript/1:4
+> CONTEXT: Map037/events/2/pages/0/140/InlineScript/1:4
+> CONTEXT: Map037/events/2/pages/0/149/InlineScript/1:4
+> CONTEXT: Troops/331/pages/4/8/InlineScript/1:4
+> CONTEXT: Map037/events/2/pages/0/156/InlineScript/1:4
+> CONTEXT: Map037/events/2/pages/0/162/InlineScript/1:4
+> CONTEXT: Map037/events/2/pages/0/183/InlineScript/1:4
+> CONTEXT: Map037/events/2/pages/0/231/InlineScript/1:4
+> CONTEXT: Map037/events/2/pages/0/241/InlineScript/1:4
+> CONTEXT: Map037/events/2/pages/0/246/InlineScript/1:4
+> CONTEXT: Map037/events/2/pages/0/266/InlineScript/1:4
+> CONTEXT: Map012/events/11/pages/0/21/InlineScript/1:4
+> CONTEXT: Map010/events/1/pages/0/8/InlineScript/1:4
+> CONTEXT: Map012/events/11/pages/0/74/InlineScript/1:4
+> CONTEXT: Map010/events/1/pages/0/14/InlineScript/1:4
+> CONTEXT: Map010/events/14/pages/0/27/InlineScript/1:4
+> CONTEXT: Map010/events/14/pages/0/33/InlineScript/1:4
+> CONTEXT: Map010/events/14/pages/0/47/InlineScript/1:4
+> CONTEXT: Map007/events/7/pages/0/0/InlineScript/1:4
+> CONTEXT: Map010/events/14/pages/0/54/InlineScript/1:4
+> CONTEXT: Map012/events/11/pages/0/219/InlineScript/1:4
+> CONTEXT: Map007/events/7/pages/0/11/InlineScript/1:4
+> CONTEXT: Map007/events/8/pages/0/0/InlineScript/1:4
+> CONTEXT: Map007/events/8/pages/0/13/InlineScript/1:4
+> CONTEXT: Map007/events/9/pages/0/0/InlineScript/1:4
+> CONTEXT: Map012/events/11/pages/0/310/InlineScript/1:4
+> CONTEXT: Map007/events/9/pages/0/13/InlineScript/1:4
+> CONTEXT: Map012/events/11/pages/0/318/InlineScript/1:4
+> CONTEXT: Map007/events/10/pages/0/0/InlineScript/1:4
+> CONTEXT: Map012/events/11/pages/0/325/InlineScript/1:4
+> CONTEXT: Map007/events/10/pages/0/13/InlineScript/1:4
+> CONTEXT: Map007/events/11/pages/0/0/InlineScript/1:4
+> CONTEXT: Map012/events/11/pages/0/337/InlineScript/1:4
+> CONTEXT: Map007/events/11/pages/0/13/InlineScript/1:4
+> CONTEXT: Map007/events/12/pages/0/1/InlineScript/1:4
+> CONTEXT: Map012/events/11/pages/0/391/InlineScript/1:4
+> CONTEXT: Map007/events/12/pages/0/8/InlineScript/1:4
+> CONTEXT: Map007/events/15/pages/0/0/InlineScript/1:4
+> CONTEXT: Map007/events/15/pages/0/13/InlineScript/1:4
+> CONTEXT: Map007/events/16/pages/0/0/InlineScript/1:4
+> CONTEXT: Map007/events/16/pages/0/13/InlineScript/1:4
+> CONTEXT: Map012/events/11/pages/0/510/InlineScript/1:4
+> CONTEXT: Commonevents/301/14/InlineScript/1:4
+> CONTEXT: Commonevents/500/468/InlineScript/1:4
+> CONTEXT: Commonevents/500/490/InlineScript/1:4
+> CONTEXT: Map314/events/5/pages/0/12/InlineScript/1:4
+> CONTEXT: Map314/events/5/pages/0/19/InlineScript/1:4
+> CONTEXT: Map314/events/5/pages/0/51/InlineScript/1:4
+> CONTEXT: Map037/events/2/pages/0/296/InlineScript/1:4
+"Olivia/Olivia"
+> END STRING
+
+> BEGIN STRING
+「報いを受けるのはあなたよッ！
+　魔王ギルデンスターン！
+> CONTEXT: Troops/1/pages/1/11/Dialogue
+「You will receive your punishment! 
+　Demon King Guildenstern!
+> END STRING
+
+> BEGIN STRING
+「あたしと……
+　あたしと\\n[1]の町の！みんなの！
+> CONTEXT: Troops/1/pages/1/13/Dialogue
+「I...
+　\\n[1] and I of the town! Everyone!
+> END STRING
+
+> BEGIN STRING
+「カタキッ！！
+> CONTEXT: Troops/1/pages/1/15/Dialogue
+「Revenge!!
+> END STRING
+
+> BEGIN STRING
+「負けないっ！
+> CONTEXT: Troops/1/pages/2/1/Dialogue
+「We won't lose!
+> END STRING
+
+> BEGIN STRING
+「あなたを倒す！
+　世界を解放するのよ！！
+> CONTEXT: Troops/1/pages/2/7/Dialogue
+「We will defeat you! 
+　We will free the world!
+> END STRING
+
+> BEGIN STRING
+「……………
+> CONTEXT: Troops/1/pages/2/14/Dialogue
+> CONTEXT: Map192/events/11/pages/0/396/Dialogue
+> CONTEXT: Map071/events/2/pages/3/183/Dialogue
+> CONTEXT: Map043/events/22/pages/0/1/Dialogue
+> CONTEXT: Map043/events/22/pages/2/1/Dialogue
+> CONTEXT: Map040/events/22/pages/1/1/Dialogue
+> CONTEXT: Commonevents/23/135/Dialogue
+> CONTEXT: Commonevents/23/145/Dialogue
+「......
+> END STRING
+
+> BEGIN STRING
+「しつこいぜッ！
+　くたばれ！魔王オオッ！！
+> CONTEXT: Troops/1/pages/2/21/Dialogue
+「So persistent!
+　Die, Demon King!!
+> END STRING
+
+> BEGIN STRING
+「な…何だ？
+> CONTEXT: Troops/1/pages/2/42/Dialogue
+「Wh-what?
+> END STRING
+
+> BEGIN STRING
+「何…？
+　この感じ……
+> CONTEXT: Troops/1/pages/2/60/Dialogue
+「Huh...?
+　This feeling...
+> END STRING
+
+> BEGIN STRING
+「くそッ！
+　何してやがる！？
+> CONTEXT: Troops/1/pages/2/63/Dialogue
+「Damm!
+　The hell are you doing?!
+> END STRING
+
+> BEGIN STRING
+「足掻くんじゃねぇぜッ！！
+> CONTEXT: Troops/1/pages/2/65/Dialogue
+「Stop struggling!!
+> END STRING
+
+> BEGIN STRING
+「今だ！ \\n[1]ッ！
+　やれーーーーーッ！
+> CONTEXT: Troops/1/pages/2/72/Dialogue
+「Now! \\n[1]!
+　Do iiit!
+> END STRING
+
+> BEGIN STRING
+「とどめだッ！！
+> CONTEXT: Troops/1/pages/2/74/Dialogue
+「The finishing blow!!
+> END STRING
+
+> BEGIN STRING
+"/Lars"
+> CONTEXT: Troops/1/pages/2/75/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map321/events/3/pages/0/3/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map333/events/12/pages/0/9/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map333/events/13/pages/0/9/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map333/events/13/pages/0/23/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map333/events/13/pages/0/37/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map333/events/13/pages/0/51/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map333/events/13/pages/0/65/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map299/events/4/pages/0/3/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map299/events/4/pages/1/3/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map333/events/14/pages/0/18/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map299/events/4/pages/2/3/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map315/events/7/pages/1/116/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map279/events/1/pages/0/3/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map275/events/2/pages/0/24/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map271/events/6/pages/0/3/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map276/events/10/pages/0/5/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map275/events/3/pages/0/25/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map263/events/4/pages/0/5/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map278/events/9/pages/0/13/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map277/events/4/pages/1/30/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map250/events/1/pages/0/2/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map278/events/9/pages/0/36/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map245/events/27/pages/0/3/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map243/events/1/pages/0/495/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map164/events/8/pages/0/19/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/4/pages/4/3/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/24/pages/0/3/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map144/events/2/pages/1/7/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map144/events/2/pages/1/45/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map143/events/12/pages/0/2/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Troops/302/pages/4/3/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map140/events/39/pages/0/28/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map140/events/39/pages/0/34/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map140/events/39/pages/1/3/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map140/events/39/pages/1/40/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map140/events/39/pages/1/46/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Troops/314/pages/2/5/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map116/events/19/pages/0/3/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map072/events/9/pages/0/8/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map071/events/2/pages/3/19/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map064/events/1/pages/0/19/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map072/events/9/pages/1/7/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map113/events/16/pages/0/405/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map061/events/19/pages/0/163/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map061/events/19/pages/0/233/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map065/events/30/pages/0/14/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map050/events/7/pages/0/3/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map041/events/12/pages/0/2/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map042/events/4/pages/0/5/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map065/events/30/pages/1/2/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map231/events/30/pages/0/166/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map026/events/1/pages/0/8/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map016/events/1/pages/0/3/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map042/events/13/pages/1/9/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map018/events/5/pages/0/72/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map010/events/14/pages/0/43/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map042/events/13/pages/2/2/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map039/events/43/pages/0/18/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map051/events/20/pages/0/6/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map051/events/20/pages/0/29/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map014/events/16/pages/1/7/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map039/events/57/pages/0/4/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/23/25/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map014/events/19/pages/1/7/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/0/4/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map042/events/39/pages/6/24/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map042/events/41/pages/1/6/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map014/events/34/pages/0/5/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map014/events/37/pages/0/5/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/133/3/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/134/2/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/150/12/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/150/46/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/150/80/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/150/114/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/150/149/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/150/213/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/150/277/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/150/341/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/150/405/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/150/469/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/153/12/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/153/47/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/153/82/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/153/117/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/153/152/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/153/216/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/153/280/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/153/344/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/153/408/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/153/472/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/170/102/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/170/134/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/171/37/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/171/76/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/171/102/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/171/122/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/171/197/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/171/218/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/172/32/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/172/45/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/172/95/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/172/123/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/173/34/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/173/58/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/173/92/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/173/157/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/173/171/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/174/34/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/174/58/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/175/30/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/175/51/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/175/83/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/175/127/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/178/35/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/178/55/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/179/39/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/179/52/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/179/109/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/179/124/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/180/49/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/180/73/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/180/107/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/181/33/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/181/53/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/181/63/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/181/111/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/181/142/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/181/183/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/181/197/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/181/215/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/181/242/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/182/34/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/182/58/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/183/41/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/183/65/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/253/3/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/174/83/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/174/130/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/174/194/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/174/208/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/176/53/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/176/107/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/177/131/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/177/174/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/177/192/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/182/83/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/182/136/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/182/205/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/182/219/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/182/286/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/182/300/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/183/90/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/183/137/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/183/201/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/183/215/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Commonevents/251/14/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/251/54/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/251/94/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/251/134/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/251/174/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/251/213/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/251/230/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/251/238/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/251/256/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/251/274/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/251/295/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔王にとどめを刺しますか？
+> CONTEXT: Troops/1/pages/2/76/Dialogue
+Finish off the Demon King?
+> END STRING
+
+> BEGIN STRING
+「…見るがいい……
+> CONTEXT: Troops/1/pages/2/130/Dialogue
+「...Look...
+> END STRING
+
+> BEGIN STRING
+「闇払われし後の恐怖……
+　夢の果ての滅びを……
+> CONTEXT: Troops/1/pages/2/131/Dialogue
+「The fear after the darkness is banished...
+　The destruction at the end of dreams...
+> END STRING
+
+> BEGIN STRING
+「もう……逃れ……
+　られん………………
+> CONTEXT: Troops/1/pages/2/133/Dialogue
+「There's...no...
+　escape......
+> END STRING
+
+> BEGIN STRING
+EV_ゴアデーモン
+> CONTEXT: Troops/2/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EV_サキュバス
+> CONTEXT: Troops/3/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EV_サキュバス*3 1
+> CONTEXT: Troops/4/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「てめっ…
+　ふざけやがって……
+> CONTEXT: Troops/4/pages/2/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふ、
+　いつまで強がってられるかしら？
+> CONTEXT: Troops/4/pages/2/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「う…うぅ……っ！
+> CONTEXT: Troops/4/pages/3/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もらうわね。
+　あなたの精…\\e[0]
+> CONTEXT: Troops/4/pages/3/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うああぁっ！
+> CONTEXT: Troops/4/pages/3/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]エルヴィンはイってしまった！
+\\w[\\v[105]]エルヴィンの精が夢魔に吸い取られる…！
+\\w[\\v[105]]
+> CONTEXT: Troops/4/pages/3/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]エルヴィンは倒された…\\w[\\v[104]]
+> CONTEXT: Troops/4/pages/3/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「次はあなたの番ね…\\e[0]
+> CONTEXT: Troops/4/pages/3/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EV_サキュバス*3 2
+> CONTEXT: Troops/5/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[4]魔王のかけら\\c[0]から声が聞こえる……
+> CONTEXT: Troops/5/pages/1/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"？？？/Rovissa/09"
+> CONTEXT: Troops/5/pages/1/8/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map037/events/2/pages/0/38/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map015/events/2/pages/0/25/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map012/events/11/pages/0/401/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map012/events/11/pages/0/485/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それじゃダメ。
+　まだわからないの？
+> CONTEXT: Troops/5/pages/1/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あなたの勇者としてのチカラなんて
+　もう意味無いのよ。 ぜ～んぜんね。
+> CONTEXT: Troops/5/pages/1/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「逆らわないで。
+　夢魔の望むようにしてあげなさい。
+　夢魔の望むことをしてあげなさい。
+> CONTEXT: Troops/5/pages/1/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それが夢魔の弱点。
+　……言ってること、わかるわね？
+> CONTEXT: Troops/5/pages/1/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EV_サキュバス*3 3
+> CONTEXT: Troops/6/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]辺りに残る魔王の力が
+\\n[1]にそそぎ込む！
+> CONTEXT: Troops/6/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]\\n[1]の全ての能力が上がった！
+> CONTEXT: Troops/6/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やあっ、まだこっちにいたいのに……
+> CONTEXT: Troops/6/pages/2/2/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/6/pages/3/2/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/6/pages/4/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でもダメ…、止めらんない……、
+　イっちゃう～っ！
+> CONTEXT: Troops/6/pages/2/3/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/6/pages/3/3/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/6/pages/4/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\\\a[\\\\v[105]]"
+> CONTEXT: Troops/6/pages/2/10/InlineScript/2:31 < UNTRANSLATED
+> CONTEXT: Troops/6/pages/3/10/InlineScript/2:31 < UNTRANSLATED
+> CONTEXT: Troops/6/pages/4/10/InlineScript/2:31 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]辺りに残る魔王の力が
+\\n[1]にそそぎ込む！
+\\k
+> CONTEXT: Troops/6/pages/5/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]\\n[1]のEPが\\b \\v[1] \\f回復した！
+> CONTEXT: Troops/6/pages/5/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]\\v[1]
+> CONTEXT: Troops/6/pages/5/12/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/50/13/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/177/46/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/177/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+テスト用
+> CONTEXT: Troops/8/name/ < UNTRANSLATED
+> CONTEXT: Troops/9/name/ < UNTRANSLATED
+> CONTEXT: Troops/10/name/ < UNTRANSLATED
+> CONTEXT: Troops/11/name/ < UNTRANSLATED
+> CONTEXT: Troops/12/name/ < UNTRANSLATED
+> CONTEXT: Troops/13/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どうして消えてくれないの……？
+> CONTEXT: Troops/306/pages/1/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]ローズニルは竪琴を奏で続けている……
+> CONTEXT: Troops/306/pages/1/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]ローズニルは竪琴を奏で続けている！
+> CONTEXT: Troops/306/pages/1/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……どうして…………
+> CONTEXT: Troops/306/pages/1/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああ………やめて…………
+> CONTEXT: Troops/306/pages/1/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「この……………
+　………曲…………
+> CONTEXT: Troops/306/pages/1/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「思い出させ…ないで………
+> CONTEXT: Troops/306/pages/1/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……私の歌……………
+> CONTEXT: Troops/306/pages/1/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………どこへ……届くの………
+> CONTEXT: Troops/306/pages/1/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私の声……………
+> CONTEXT: Troops/306/pages/1/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「誰に………届けば……………
+> CONTEXT: Troops/306/pages/1/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私は…………
+> CONTEXT: Troops/306/pages/1/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私は……竪琴…………
+> CONTEXT: Troops/306/pages/1/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どこに………
+　私の……弾き手……………
+> CONTEXT: Troops/306/pages/1/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「奏でて……私を…………
+> CONTEXT: Troops/306/pages/1/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「甘い歌を……………
+> CONTEXT: Troops/306/pages/1/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どこからともなく、
+ローズニルの竪琴の音が聞こえる………
+> CONTEXT: Troops/306/pages/2/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「まだ…そこに………
+　いるの…………？
+> CONTEXT: Troops/306/pages/2/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「嫌……やめて…………
+> CONTEXT: Troops/306/pages/2/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やめて……………っ！
+> CONTEXT: Troops/306/pages/2/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いくわよ！ リズ・ラズ！
+　ロッコ・バロッコ！
+> CONTEXT: None < UNUSED
+
+> END STRING
+
+> BEGIN STRING
+SP_ロドヴィン(1)
+> CONTEXT: Troops/19/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+SP_ロドヴィン(2)
+> CONTEXT: Troops/20/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+SP_ロドヴィン(3)
+> CONTEXT: Troops/21/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+SP_ロドヴィン(4)
+> CONTEXT: Troops/22/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+SP_ロドヴィン(5)
+> CONTEXT: Troops/23/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+SP_ロドヴィン(6)
+> CONTEXT: Troops/24/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+SP_ナイトメア
+> CONTEXT: Troops/26/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[104]]見えないエストの手が\\n[1]を愛撫している！
+\\k
+> CONTEXT: Troops/26/pages/1/5/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/27/pages/1/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]\\n[1]は \\b\\v[1]\\f の快感を受けた！
+> CONTEXT: Troops/26/pages/1/8/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/27/pages/1/8/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/35/46/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/35/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+SP_ナイトメア(ボス)
+> CONTEXT: Troops/27/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EV_ミミック(ドラウムニョル)
+> CONTEXT: Troops/29/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EV_ミミック(ドゥヂチ)
+> CONTEXT: Troops/30/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EV_ミミック(大迷路)
+> CONTEXT: Troops/31/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EV_ミミック(魔王城)
+> CONTEXT: Troops/32/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+SP_人魚のすみか(1)
+> CONTEXT: Troops/35/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]\\n[1]はマーメイドの歌で
+恍惚となってしまった！
+> CONTEXT: Troops/35/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/36/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/37/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+SP_人魚のすみか(2)
+> CONTEXT: Troops/36/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+SP_人魚のすみか(3)
+> CONTEXT: Troops/37/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■ベルツェリーの森
+> CONTEXT: Troops/40/name/ < UNTRANSLATED
+> CONTEXT: Enemies/8/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サキュバス*1
+> CONTEXT: Troops/41/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サキュバス*2
+> CONTEXT: Troops/42/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+インプ*1
+> CONTEXT: Troops/43/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+インプ*2
+> CONTEXT: Troops/44/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ドライアド*1
+> CONTEXT: Troops/45/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ドライアド*2
+> CONTEXT: Troops/46/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ピクシー*2
+> CONTEXT: Troops/47/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ピクシー*3
+> CONTEXT: Troops/48/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サキュバス+インプ
+> CONTEXT: Troops/49/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+インプaddインプ*2
+> CONTEXT: Troops/50/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ドライアド+ピクシー
+> CONTEXT: Troops/51/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+インプ+ピクシー
+> CONTEXT: Troops/52/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+インプ+ピクシー*2
+> CONTEXT: Troops/53/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サキュバス+インプ*2
+> CONTEXT: Troops/54/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■イェルベル峡谷
+> CONTEXT: Troops/55/name/ < UNTRANSLATED
+> CONTEXT: Enemies/14/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シルフ*1
+> CONTEXT: Troops/56/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ネコマタ*1
+> CONTEXT: Troops/57/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ワーウルフ*1
+> CONTEXT: Troops/58/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シルフ*2
+> CONTEXT: Troops/59/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シルフ+ピクシー*2
+> CONTEXT: Troops/60/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シルフ+ドライアド
+> CONTEXT: Troops/61/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ネコマタ+ワーウルフ
+> CONTEXT: Troops/62/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ネコマタ*2
+> CONTEXT: Troops/63/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ワーウルフ*2
+> CONTEXT: Troops/64/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ネコマタaddネコマタ+ワーウルフ
+> CONTEXT: Troops/65/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ネコマタaddネコマタ*2
+> CONTEXT: Troops/66/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サキュバス*3
+> CONTEXT: Troops/67/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+インプ*3
+> CONTEXT: Troops/68/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シルフ+ドライアド+ピクシー
+> CONTEXT: Troops/69/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■グルッペン街道
+> CONTEXT: Troops/70/name/ < UNTRANSLATED
+> CONTEXT: Enemies/20/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴィレッジャ*1
+> CONTEXT: Troops/71/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴィレッジャ*2
+> CONTEXT: Troops/72/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+インプ*5
+> CONTEXT: Troops/73/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■ドラウムニョルへの洞窟
+> CONTEXT: Troops/75/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ラミア*1
+> CONTEXT: Troops/76/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ラミア*2
+> CONTEXT: Troops/77/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハーピー*1
+> CONTEXT: Troops/78/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハーピー*2
+> CONTEXT: Troops/79/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハーピー*3
+> CONTEXT: Troops/80/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リザード*1
+> CONTEXT: Troops/81/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リザード*2
+> CONTEXT: Troops/82/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リザード+ラミア
+> CONTEXT: Troops/83/name/ < UNTRANSLATED
+> CONTEXT: Troops/86/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハーピー+ネコマタ
+> CONTEXT: Troops/84/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハーピー+ネコマタ+ワーウルフ
+> CONTEXT: Troops/85/name/ < UNTRANSLATED
+> CONTEXT: Troops/90/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ネコマタ*3
+> CONTEXT: Troops/87/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リザードaddラミア
+> CONTEXT: Troops/88/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハーピーaddハーピー*2
+> CONTEXT: Troops/89/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■人魚のすみか
+> CONTEXT: Troops/92/name/ < UNTRANSLATED
+> CONTEXT: Enemies/31/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マーメイド*1
+> CONTEXT: Troops/93/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マーメイド*2
+> CONTEXT: Troops/94/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アプサラス*1
+> CONTEXT: Troops/95/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アプサラス*2
+> CONTEXT: Troops/96/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マーメイド+ウンディーネ
+> CONTEXT: Troops/97/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マーメイド*3
+> CONTEXT: Troops/98/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウンディーネ*1
+> CONTEXT: Troops/99/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウンディーネ*2
+> CONTEXT: Troops/100/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マーメイド+メロー
+> CONTEXT: Troops/101/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マーメイド*2+メロー
+> CONTEXT: Troops/102/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スキュラ*1
+> CONTEXT: Troops/103/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+メロー+ウンディーネ
+> CONTEXT: Troops/104/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マーメイドaddウンディーネ*2
+> CONTEXT: Troops/105/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マーメイド+ウンディーネ*2
+> CONTEXT: Troops/106/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スキュラ+ウンディーネ
+> CONTEXT: Troops/107/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■ドゥヂチの塔
+> CONTEXT: Troops/109/name/ < UNTRANSLATED
+> CONTEXT: Enemies/38/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アルプ*2
+> CONTEXT: Troops/110/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キヨヒメ*1
+> CONTEXT: Troops/111/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+モーショボー*1
+> CONTEXT: Troops/112/name/ < UNTRANSLATED
+> CONTEXT: Troops/127/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+クズノハ*1
+> CONTEXT: Troops/113/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エンプーサ*1
+> CONTEXT: Troops/114/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キヨヒメ+クズノハ
+> CONTEXT: Troops/115/name/ < UNTRANSLATED
+> CONTEXT: Troops/116/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+モーショボー*2
+> CONTEXT: Troops/117/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+モーショボー*3
+> CONTEXT: Troops/118/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アルプ*3
+> CONTEXT: Troops/119/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スキュラ*2
+> CONTEXT: Troops/120/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エンプーサ*2
+> CONTEXT: Troops/121/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エンプーサ+アルプ
+> CONTEXT: Troops/122/name/ < UNTRANSLATED
+> CONTEXT: Troops/125/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エンプーサ+アルプ*2
+> CONTEXT: Troops/123/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キュウビ*2
+> CONTEXT: Troops/124/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アルプ add エンプーサ
+> CONTEXT: Troops/126/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キヨヒメ*2
+> CONTEXT: Troops/128/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■セーデル砂漠
+> CONTEXT: Troops/130/name/ < UNTRANSLATED
+> CONTEXT: Enemies/45/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+デルフィネ*1
+> CONTEXT: Troops/131/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+デルフィネ*2
+> CONTEXT: Troops/132/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アルケニー*1
+> CONTEXT: Troops/133/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アルケニー*2
+> CONTEXT: Troops/134/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アルケニー+デルフィネ
+> CONTEXT: Troops/135/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スフィンクス
+> CONTEXT: Troops/136/name/ < UNTRANSLATED
+> CONTEXT: Commonevents/179/31/Label < UNTRANSLATED
+> CONTEXT: Commonevents/179/92/Label < UNTRANSLATED
+> CONTEXT: Commonevents/179/173/Label < UNTRANSLATED
+> CONTEXT: Commonevents/179/189/Label < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スフィンクス*2
+> CONTEXT: Troops/137/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アルケニー + アルプ
+> CONTEXT: Troops/138/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アルプ add アルケニー
+> CONTEXT: Troops/139/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アルケニー + スフィンクス
+> CONTEXT: Troops/140/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■ルグブロード平原
+> CONTEXT: Troops/142/name/ < UNTRANSLATED
+> CONTEXT: Enemies/50/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ケットシー*1
+> CONTEXT: Troops/143/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ケットシー*2
+> CONTEXT: Troops/144/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+セイレーン*1
+> CONTEXT: Troops/145/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+セイレーン*2
+> CONTEXT: Troops/146/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ケットシー+セイレーン
+> CONTEXT: Troops/147/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ケットシー+リャナンシー*2
+> CONTEXT: Troops/148/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リャナンシー+ケットシー
+> CONTEXT: Troops/149/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+セイレーン+リャナンシー
+> CONTEXT: Troops/150/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リャナンシー*2
+> CONTEXT: Troops/151/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リャナンシー*3
+> CONTEXT: Troops/152/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヒノエンマ*1
+> CONTEXT: Troops/153/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヒノエンマ*2
+> CONTEXT: Troops/154/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■魔導院
+> CONTEXT: Troops/156/name/ < UNTRANSLATED
+> CONTEXT: Enemies/56/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウィッチ+(サモン)
+> CONTEXT: Troops/157/name/ < UNTRANSLATED
+> CONTEXT: Troops/158/name/ < UNTRANSLATED
+> CONTEXT: Troops/163/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウィッチ*2+(サモン)
+> CONTEXT: Troops/159/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+メフィスト*1
+> CONTEXT: Troops/160/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+メフィスト*2
+> CONTEXT: Troops/161/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エルズリー*1
+> CONTEXT: Troops/162/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■ベルナドットの大迷路
+> CONTEXT: Troops/165/name/ < UNTRANSLATED
+> CONTEXT: Enemies/61/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アルラウネ*1
+> CONTEXT: Troops/166/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アルラウネ*2
+> CONTEXT: Troops/167/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キンナリー*1
+> CONTEXT: Troops/168/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キンナリー*2
+> CONTEXT: Troops/169/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キンナリー+リャナンシー
+> CONTEXT: Troops/170/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エルズリー+セイレーン
+> CONTEXT: Troops/171/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エルズリー+エアリアル
+> CONTEXT: Troops/172/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エアリアル+リャナンシー
+> CONTEXT: Troops/173/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エアリアル+リャナンシー*2
+> CONTEXT: Troops/174/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エアリアル+アルラウネ
+> CONTEXT: Troops/175/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キンナリー+セイレーン
+> CONTEXT: Troops/176/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アルラウネ+リャナンシー*2
+> CONTEXT: Troops/177/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エアリアル*1
+> CONTEXT: Troops/178/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■グルッペン街道（シプリ）
+> CONTEXT: Troops/180/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴァージンヴィレッジャ*1
+> CONTEXT: Troops/181/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■魔王城
+> CONTEXT: Troops/183/name/ < UNTRANSLATED
+> CONTEXT: Enemies/66/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アスタロテ*1
+> CONTEXT: Troops/184/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アスタロテ*2
+> CONTEXT: Troops/185/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アスタロテ+エンジェル
+> CONTEXT: Troops/186/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+メリュジーヌ*1
+> CONTEXT: Troops/187/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+メリュジーヌ*2
+> CONTEXT: Troops/188/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+メリュジーヌ+ティターニア
+> CONTEXT: Troops/189/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バンシー*1
+> CONTEXT: Troops/190/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バンシー*2
+> CONTEXT: Troops/191/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ティターニア*1
+> CONTEXT: Troops/192/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ティターニア*2
+> CONTEXT: Troops/193/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ティターニア+リャナンシー+ピクシー
+> CONTEXT: Troops/194/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+クィーンメイヴ*1
+> CONTEXT: Troops/195/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+クィーンメイヴ*2
+> CONTEXT: Troops/196/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+クィーンメイヴ+ティターニア
+> CONTEXT: Troops/197/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エンジェル*1
+> CONTEXT: Troops/198/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エンジェル+メフィスト
+> CONTEXT: Troops/199/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エンジェル*2
+> CONTEXT: Troops/200/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アスタロテ+メフィスト
+> CONTEXT: Troops/201/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+クィーンメイヴ*4
+> CONTEXT: Troops/202/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■万年氷の宮殿
+> CONTEXT: Troops/203/name/ < UNTRANSLATED
+> CONTEXT: Enemies/74/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ユキジョロウ*1
+> CONTEXT: Troops/204/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ユキジョロウ*2
+> CONTEXT: Troops/205/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ユキジョロウ+ルーガルー
+> CONTEXT: Troops/206/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルサールカ*1
+> CONTEXT: Troops/207/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルサールカ*2
+> CONTEXT: Troops/208/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルサールカ+ルーガルー
+> CONTEXT: Troops/209/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルーガルー*1
+> CONTEXT: Troops/210/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルーガルー*2
+> CONTEXT: Troops/211/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カリュブディス*1
+> CONTEXT: Troops/212/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■ロドヴィン火山
+> CONTEXT: Troops/214/name/ < UNTRANSLATED
+> CONTEXT: Enemies/80/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サラマンダー*1
+> CONTEXT: Troops/215/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サラマンダー*2
+> CONTEXT: Troops/216/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サラマンダー*3
+> CONTEXT: Troops/217/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サラマンダー+シェロブ
+> CONTEXT: Troops/218/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シェロブ*1
+> CONTEXT: Troops/219/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヤクシニー*1
+> CONTEXT: Troops/220/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヤクシニー*2
+> CONTEXT: Troops/221/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ダーキニー*1
+> CONTEXT: Troops/222/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ダーキニー+ヤクシニー
+> CONTEXT: Troops/223/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ダーキニー+ヤクシニー*2
+> CONTEXT: Troops/224/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■夜の国
+> CONTEXT: Troops/226/name/ < UNTRANSLATED
+> CONTEXT: Enemies/149/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴェルデレット*1
+> CONTEXT: Troops/227/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴェルデレット*2
+> CONTEXT: Troops/228/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴェルデレット*3
+> CONTEXT: Troops/229/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴェルデレット+アルラウネ
+> CONTEXT: Troops/230/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴェルデレット+アルラウネ+ドライアド
+> CONTEXT: Troops/231/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴェルデレット+ティターニア*2
+> CONTEXT: Troops/232/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴェルデレット+ノルン
+> CONTEXT: Troops/233/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴェルデレット+ノルン+ティターニア*2
+> CONTEXT: Troops/234/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ノルン*1
+> CONTEXT: Troops/235/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ノルン*2
+> CONTEXT: Troops/236/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ノルン*3
+> CONTEXT: Troops/237/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ノルン+ティターニア*2
+> CONTEXT: Troops/238/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ノルン+ティターニア*3
+> CONTEXT: Troops/239/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ノルン+リャナンシー*2+ティターニア
+> CONTEXT: Troops/240/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ノルン+全妖精
+> CONTEXT: Troops/241/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+グリマルキン*1
+> CONTEXT: Troops/243/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+グリマルキン*2
+> CONTEXT: Troops/244/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+グリマルキン*3
+> CONTEXT: Troops/245/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+グリマルキン+メフィスト*2
+> CONTEXT: Troops/246/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+グリマルキン+アスタロテ
+> CONTEXT: Troops/247/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+グリマルキン+ケットシー*3
+> CONTEXT: Troops/248/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+グリマルキン+スフィンクス*2
+> CONTEXT: Troops/249/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+グリマルキン+ネコマタ*2
+> CONTEXT: Troops/250/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+グリマルキン*4
+> CONTEXT: Troops/251/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ストリガ*1
+> CONTEXT: Troops/252/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ストリガ*2
+> CONTEXT: Troops/253/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ストリガ*3
+> CONTEXT: Troops/254/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ストリガ+グリマルキン
+> CONTEXT: Troops/255/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ストリガ+グリマルキン*2
+> CONTEXT: Troops/256/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ストリガ+ワーウルフ+ルーガルー
+> CONTEXT: Troops/257/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウェパル*1
+> CONTEXT: Troops/259/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウェパル*2
+> CONTEXT: Troops/260/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウェパル*3
+> CONTEXT: Troops/261/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウェパル+ウンディーネ*2
+> CONTEXT: Troops/262/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウェパル+ルサルカ*2
+> CONTEXT: Troops/263/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウェパル+マーメイド+メロウ
+> CONTEXT: Troops/264/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ティアマト*1
+> CONTEXT: Troops/265/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ティアマト*2
+> CONTEXT: Troops/266/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ティアマト+スキュラ
+> CONTEXT: Troops/267/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウェパル+ウンディーネ+ルサルカ
+> CONTEXT: Troops/268/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ランダ*1
+> CONTEXT: Troops/270/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ランダ*2
+> CONTEXT: Troops/271/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ランダ*3
+> CONTEXT: Troops/272/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ランダ+(サモン)
+> CONTEXT: Troops/273/name/ < UNTRANSLATED
+> CONTEXT: Troops/274/name/ < UNTRANSLATED
+> CONTEXT: Troops/275/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ランダ+ウィッチ
+> CONTEXT: Troops/276/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ランダ+ファミリア*2
+> CONTEXT: Troops/277/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アルバスタ*1
+> CONTEXT: Troops/278/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アルバスタ*2
+> CONTEXT: Troops/279/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アルバスタ*3
+> CONTEXT: Troops/280/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アルバスタ+バンシー
+> CONTEXT: Troops/281/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アルバスタ+バンシー*2
+> CONTEXT: Troops/282/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アルバスタ+バンシー*3
+> CONTEXT: Troops/283/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アルバスタ*2+バンシー
+> CONTEXT: Troops/284/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ゴモリー*1
+> CONTEXT: Troops/285/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ゴモリー*2
+> CONTEXT: Troops/286/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ゴモリー*3
+> CONTEXT: Troops/287/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ゴモリー+アルプ*2
+> CONTEXT: Troops/288/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ゴモリー+アルプ*4
+> CONTEXT: Troops/289/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ゴモリー+アルプ*2+インプ*2
+> CONTEXT: Troops/290/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ゴモリー+アスタロテ
+> CONTEXT: Troops/291/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ゴモリー+サキュバス
+> CONTEXT: Troops/292/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ゴモリー+クィーンメイヴ
+> CONTEXT: Troops/293/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ゴモリー+クィーンメイヴ*2
+> CONTEXT: Troops/294/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■イベントバトル
+> CONTEXT: Troops/299/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マップエネミー戦闘
+> CONTEXT: Troops/300/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EV_マーシャ
+> CONTEXT: Troops/301/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EV_オリビア
+> CONTEXT: Troops/302/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]オリビアは\\n[1]を強く抱きしめた！
+> CONTEXT: Troops/302/pages/2/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]、あたし………きれい？
+> CONTEXT: Troops/302/pages/4/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あたし………きれい？」
+> CONTEXT: Troops/302/pages/4/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「よかった………
+> CONTEXT: Troops/302/pages/4/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そう………
+> CONTEXT: Troops/302/pages/4/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああ、\\n[1]………
+　…………\\n[1]……ッ！
+> CONTEXT: Troops/302/pages/6/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]…………、
+　き…きて…………
+> CONTEXT: Troops/302/pages/7/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+予備
+> CONTEXT: Troops/303/name/ < UNTRANSLATED
+> CONTEXT: Troops/321/name/ < UNTRANSLATED
+> CONTEXT: Troops/322/name/ < UNTRANSLATED
+> CONTEXT: Enemies/4/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EV_ストゥーナ+メローナ
+> CONTEXT: Troops/304/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EV_モルガン
+> CONTEXT: Troops/305/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「逃げてもいいんだよ？
+　別にアンタなんかに興味ないからさ。
+> CONTEXT: Troops/305/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EV_フレデリカ
+> CONTEXT: Troops/306/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EV_ハーピー姉妹
+> CONTEXT: Troops/307/name/ < UNTRANSLATED
+> CONTEXT: Troops/326/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EV_3獣人
+> CONTEXT: Troops/308/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ん、待って………
+　こいつもしかして…………
+> CONTEXT: Troops/308/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ご主人様の言ってた………
+> CONTEXT: Troops/308/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ニャぁっ！
+　言われてみれば……
+> CONTEXT: Troops/308/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「勝手に食べちゃ
+　マズいかニャぁ……
+> CONTEXT: Troops/308/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ガルぅ………
+> CONTEXT: Troops/308/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EV_リン
+> CONTEXT: Troops/309/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EV_バンダースナッチ
+> CONTEXT: Troops/310/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いちばんのりだニャ～っ♪
+> CONTEXT: Troops/310/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ちゃっちゃと終わらせて、
+　いっぱいご褒美もらっちゃうニャぁ\\e[0]
+> CONTEXT: Troops/310/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EV_ジャブジャブ
+> CONTEXT: Troops/311/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……早く…………
+　………欲しいのに………
+> CONTEXT: Troops/311/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…ウザいんだよ………
+　とっととイっちまいなよ、ザコめっ！
+> CONTEXT: Troops/311/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EV_ジャバウォック
+> CONTEXT: Troops/312/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「アオオオォォォォォンッ！
+> CONTEXT: Troops/312/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EV_クリスティン
+> CONTEXT: Troops/313/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あぁんっ………！
+　\\n[1]さん…
+　\\n[1]さん………っ！！
+> CONTEXT: Troops/313/pages/2/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[1]クリスティンは絶頂に達すると同時に、
+\\w[\\v[104]]強くアソコを締め付けてきた！\\k
+> CONTEXT: Troops/313/pages/2/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]\\w[\\v[104]]
+ラグジャラスヒット！\\w[\\v[105]]
+\\n[1]は\\b \\v[1] \\fの快感を受けた！
+\\k
+> CONTEXT: Troops/313/pages/2/17/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/328/pages/3/27/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/331/pages/6/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]クリスティンは絶頂に達した！
+> CONTEXT: Troops/313/pages/2/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]\\n[1]は絶頂に達した！\\w[20]
+> CONTEXT: Troops/313/pages/2/32/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/328/pages/3/43/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/331/pages/6/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[1]
+> CONTEXT: Troops/313/pages/2/39/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/317/pages/3/33/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/328/pages/3/50/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/331/pages/6/41/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/10/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EV_クララ
+> CONTEXT: Troops/314/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「対象…識別……
+> CONTEXT: Troops/314/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]・オヴェルーク様、
+　ご奉仕させていただきます。
+> CONTEXT: Troops/314/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ご主人様、
+　今宵はどのようにいたしますか？
+> CONTEXT: Troops/314/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「じっくり時間をかける『スローモード』と、
+　激しく行う『ハードモード』が選択可能です。
+> CONTEXT: Troops/314/pages/2/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「今宵はどのようにいたしますか？」
+> CONTEXT: Troops/314/pages/2/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハードモード
+> CONTEXT: Troops/314/pages/2/7/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+答えない
+> CONTEXT: Troops/314/pages/2/7/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「かしこまりました…
+　…感度センサーOFF……
+> CONTEXT: Troops/314/pages/2/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「かしこまりました…
+　出力最大…リミッター解除……
+> CONTEXT: Troops/314/pages/2/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「かしこまりました…
+> CONTEXT: Troops/314/pages/2/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それでは、いつもの
+　縛って！MY　MAID！モードで
+　参ります。
+> CONTEXT: Troops/314/pages/2/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「魔力回路に…異常確認……
+　修復…不能……
+> CONTEXT: Troops/314/pages/4/3/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/314/pages/4/14/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/314/pages/4/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「通常モードに移行…します…
+> CONTEXT: Troops/314/pages/4/5/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/314/pages/4/16/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/314/pages/4/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EV_ベルナドット
+> CONTEXT: Troops/315/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]ベルナドットは絶頂に達した！
+> CONTEXT: Troops/315/pages/4/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EV_ナイトメア
+> CONTEXT: Troops/316/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EV_3獣人(2)
+> CONTEXT: Troops/317/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]エルヴィンは\\c[4]グングニル\\c[0]を構え、
+\\w[\\v[104]]\\v[1]に向けた！
+\\k
+> CONTEXT: Troops/317/pages/2/10/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/317/pages/3/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]妖しい光が\\v[1]を貫く！
+> CONTEXT: Troops/317/pages/2/18/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/317/pages/3/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]\\v[1]のEPが \\b\\v[2]\\f 回復した！
+\\w[\\v[104]]\\v[1]のテンションが上がった！
+> CONTEXT: Troops/317/pages/2/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]\\v[1]のEPが \\b\\v[2]\\f 回復した！
+\\w[\\v[104]]\\v[1]のテンションが上がった！
+\\k
+> CONTEXT: Troops/317/pages/3/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]\\v[1]は我を取り戻した！
+> CONTEXT: Troops/317/pages/3/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EV_エスト
+> CONTEXT: Troops/318/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+SP_氷の洞窟(1)
+> CONTEXT: Troops/319/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+不思議な寒さで
+\\n[1]のテンションが下がった！\\a[\\v[105]]
+> CONTEXT: Troops/319/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/319/pages/3/1/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/320/pages/0/13/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/320/pages/3/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あなたのアツいの………
+　ちょうだぁいっ\\e[0]
+> CONTEXT: Troops/319/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+不思議な寒さで
+ムードが下がった！\\a[\\v[105]]
+> CONTEXT: Troops/319/pages/2/1/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/320/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+SP_氷の洞窟(2)
+> CONTEXT: Troops/320/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EV_フィムブルヴェト
+> CONTEXT: Troops/323/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あァ………
+> CONTEXT: Troops/323/pages/2/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…暑…い……
+> CONTEXT: Troops/323/pages/2/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Boss-Fim2"
+> CONTEXT: Troops/323/pages/2/6/InlineScript/1:39 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]フィムブルヴェトは服を少し脱いだ！
+> CONTEXT: Troops/323/pages/2/7/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/323/pages/3/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やぁ…っ、
+　もっと……
+> CONTEXT: Troops/323/pages/3/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「熱くして…っ！
+> CONTEXT: Troops/323/pages/3/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Boss-Fim3"
+> CONTEXT: Troops/323/pages/3/7/InlineScript/1:39 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EV_ストゥーナ
+> CONTEXT: Troops/324/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ちくしょぉっ！
+　もうヤケだ！ヤってやるぜ！
+> CONTEXT: Troops/324/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EV_メローナ
+> CONTEXT: Troops/325/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あぁん、もぉ～～～～～っ
+> CONTEXT: Troops/325/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……せめて優しくシてねぇ？
+> CONTEXT: Troops/325/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エスプラーナは絶頂に達した！\\a[\\v[105]]
+> CONTEXT: Troops/326/pages/2/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"リズ･ラズ"
+> CONTEXT: Troops/326/pages/2/6/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ハァ…ハァ……
+　やっと戻れたわ………
+> CONTEXT: Troops/326/pages/2/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ね、姉さんごめん、
+　うっかり自分に………
+> CONTEXT: Troops/326/pages/2/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あ、あれ、姉さん？
+　ロッコ？
+> CONTEXT: Troops/326/pages/2/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「え……えええ？？
+> CONTEXT: Troops/326/pages/2/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リズ・ラズは絶頂に達した！\\a[\\v[105]]
+> CONTEXT: Troops/326/pages/3/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あぅぅ～～、
+　エス姉ごめん～～～っ！
+> CONTEXT: Troops/326/pages/3/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「え…、エス姉？
+　リズ姉？
+> CONTEXT: Troops/326/pages/3/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あう～～～！？
+> CONTEXT: Troops/326/pages/3/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EV_ステラ
+> CONTEXT: Troops/327/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EV_オリビア(2)
+> CONTEXT: Troops/328/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あ、そのお守り
+　まだつけててくれたんだ……
+> CONTEXT: Troops/328/pages/2/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「嬉しい……。
+> CONTEXT: Troops/328/pages/2/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もうこわくない。
+> CONTEXT: Troops/328/pages/2/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あたし、ずっとあたしでいられるわ。
+> CONTEXT: Troops/328/pages/2/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あぁっ……！
+　\\n[1]ーーッ！！
+> CONTEXT: Troops/328/pages/3/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[1]オリビアは絶頂に達する寸前に
+\\w[\\v[104]]激しく腰を振ってきた！\\k
+> CONTEXT: Troops/328/pages/3/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]オリビアは絶頂に達した！
+\\k
+> CONTEXT: Troops/328/pages/3/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EV_エスト(2a)
+> CONTEXT: Troops/329/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]！
+　\\c[4]グラム\\c[0]を使って！
+> CONTEXT: Troops/329/pages/2/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「今なら斬れるはずよ！
+　\\r[夢魔,そいつ]をッ！！
+> CONTEXT: Troops/329/pages/2/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EV_エスト(2b)
+> CONTEXT: Troops/330/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あら、お目覚め？
+　…ふふふふ……\\e[0]
+> CONTEXT: Troops/330/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EV_ルヴィッサ
+> CONTEXT: Troops/331/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]……残念よ………
+> CONTEXT: Troops/331/pages/2/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「だけど……支配してあげるッ！
+> CONTEXT: Troops/331/pages/2/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「心も……カラダも……！
+> CONTEXT: Troops/331/pages/2/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私の、私たちの\\r[意志,ウィル]の下にッ！！
+> CONTEXT: Troops/331/pages/2/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どこからか声が聞こえる……
+> CONTEXT: Troops/331/pages/3/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"？？？/Olivia/09"
+> CONTEXT: Troops/331/pages/3/9/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…\\v[1]……………
+　………\\v[2]………
+> CONTEXT: Troops/331/pages/3/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……\\n[1]…どこ…？
+　みえない……
+> CONTEXT: Troops/331/pages/3/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でも分かる…………
+　……届いてッ！
+> CONTEXT: Troops/331/pages/3/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………り………に………
+> CONTEXT: Troops/331/pages/4/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「二人きり…なのに……
+> CONTEXT: Troops/331/pages/4/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「邪魔よ…邪魔よ邪魔よっ！
+　消えてっ！！
+> CONTEXT: Troops/331/pages/4/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[104]]「きゃあっ！？
+> CONTEXT: Troops/331/pages/4/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]オリビアの意識がどこかへ飛ばされた！
+> CONTEXT: Troops/331/pages/4/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ラルス…ラルス……
+　あなたを………
+> CONTEXT: Troops/331/pages/5/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「のみこみたい……
+　のみこまれたい……
+> CONTEXT: Troops/331/pages/5/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ひとつに…なりたい…ッ！
+> CONTEXT: Troops/331/pages/5/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あ……あぁッ………
+　そんな………
+> CONTEXT: Troops/331/pages/6/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あぁーーーっ！！
+> CONTEXT: Troops/331/pages/6/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[1]ウィル・ルヴィッサは絶頂に達する寸前に
+\\w[\\v[104]]激しく腰を振ってきた！\\k
+> CONTEXT: Troops/331/pages/6/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]ウィル・ルヴィッサは絶頂に達した！
+\\k
+> CONTEXT: Troops/331/pages/6/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]ウィル・ルヴィッサは絶頂に達した！
+> CONTEXT: Troops/331/pages/6/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ENDING_ギルデンスターン
+> CONTEXT: Troops/332/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[80]「夢に想うは人！
+　夢に棲まうは魔！
+> CONTEXT: Troops/332/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■シトリーの部屋
+> CONTEXT: Troops/339/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+G_エネミー*1
+> CONTEXT: Troops/340/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+G_エネミー*2
+> CONTEXT: Troops/341/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+G_エネミー*3
+> CONTEXT: Troops/342/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+G_ベルナドット
+> CONTEXT: Troops/344/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+G_リン
+> CONTEXT: Troops/345/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+G_ハーピー姉妹
+> CONTEXT: Troops/346/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+G_ストゥーナ+メローナ
+> CONTEXT: Troops/347/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■夜の国（続き）
+> CONTEXT: Troops/360/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴィーヴル*1
+> CONTEXT: Troops/361/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴィーヴル*2
+> CONTEXT: Troops/362/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴィーヴル*3
+> CONTEXT: Troops/363/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴィーヴル+リザード*3
+> CONTEXT: Troops/364/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴィーヴル+キヨヒメ+サラマンダー
+> CONTEXT: Troops/365/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴィーヴル+メリュジーヌ
+> CONTEXT: Troops/366/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴィーヴル+メリュジーヌ*2
+> CONTEXT: Troops/367/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴィーヴル+ゴルゴン
+> CONTEXT: Troops/368/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ゴルゴン*1
+> CONTEXT: Troops/369/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ゴルゴン*2
+> CONTEXT: Troops/370/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ゴルゴン*3
+> CONTEXT: Troops/371/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ゴルゴン+ラミア*2
+> CONTEXT: Troops/372/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ゴルゴン+デルフィネ*2
+> CONTEXT: Troops/373/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+モーリアン*1
+> CONTEXT: Troops/374/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+モーリアン*2
+> CONTEXT: Troops/375/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+モーリアン*3
+> CONTEXT: Troops/376/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+モーリアン+ハーピー*3
+> CONTEXT: Troops/377/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+モーリアン+ハーピー+セイレーン
+> CONTEXT: Troops/378/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+モーリアン*2+セイレーン
+> CONTEXT: Troops/379/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+モーリアン+グリマルキン+ストリガ
+> CONTEXT: Troops/380/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナイトメア*1
+> CONTEXT: Troops/382/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナイトメア*2
+> CONTEXT: Troops/383/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナイトメア*3
+> CONTEXT: Troops/384/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナイトメア+ノルン*2
+> CONTEXT: Troops/385/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナイトメア+ゴモリー
+> CONTEXT: Troops/386/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナイトメア+ヴィーヴル
+> CONTEXT: Troops/387/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナイトメア+リリム
+> CONTEXT: Troops/388/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナイトメア+リリム*2
+> CONTEXT: Troops/389/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナイトメア+リリム*3
+> CONTEXT: Troops/390/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リリム*1
+> CONTEXT: Troops/391/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リリム*2
+> CONTEXT: Troops/392/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リリム*3
+> CONTEXT: Troops/393/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リリム+アルプ*2
+> CONTEXT: Troops/394/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リリム+アルプ*4
+> CONTEXT: Troops/395/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キュウビ*1
+> CONTEXT: Troops/397/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴァルキリー*1
+> CONTEXT: Troops/398/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ローレライ*1
+> CONTEXT: Troops/399/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アスカフロア*1
+> CONTEXT: Troops/400/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■ドラウムニョル地下
+> CONTEXT: Troops/410/name/ < UNTRANSLATED
+> CONTEXT: Enemies/182/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エレトリア*1
+> CONTEXT: Troops/411/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エレトリア*2
+> CONTEXT: Troops/412/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エレトリア*3
+> CONTEXT: Troops/413/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ラフィ*1
+> CONTEXT: Troops/414/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ラフィ*2
+> CONTEXT: Troops/415/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ラフィ*3
+> CONTEXT: Troops/416/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ザフリエル*1
+> CONTEXT: Troops/417/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ザフリエル*2
+> CONTEXT: Troops/418/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ザフリエル*3
+> CONTEXT: Troops/419/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エレトリア+ラフィ+ザフリエル
+> CONTEXT: Troops/420/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エレトリア+ラフィ
+> CONTEXT: Troops/421/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ザフリエル+ラフィ
+> CONTEXT: Troops/422/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エレトリア+ザフリエル
+> CONTEXT: Troops/423/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アスカフロア*3
+> CONTEXT: Troops/425/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ローレライ*2
+> CONTEXT: Troops/426/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴァルキリー*3
+> CONTEXT: Troops/427/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ダッキ+キュウビ*2
+> CONTEXT: Troops/428/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ニュクス*1
+> CONTEXT: Troops/429/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マイェスト*3
+> CONTEXT: Troops/430/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴィヴィアン*1
+> CONTEXT: Troops/431/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エキドナ*1
+> CONTEXT: Troops/432/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フーリー*18
+> CONTEXT: Troops/433/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]後ろから新たなフーリーがあらわれた！
+> CONTEXT: Troops/433/pages/2/8/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/433/pages/3/8/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/433/pages/4/8/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/433/pages/5/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+3獣人+アリス
+> CONTEXT: Troops/434/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]バンダースナッチは絶頂に達した！
+> CONTEXT: Troops/434/pages/2/4/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/434/pages/2/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]どこからかアリスがあらわれた！
+> CONTEXT: Troops/434/pages/2/9/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/434/pages/3/8/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/434/pages/4/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]バンダースナッチは場に
+\\c[3]ハートのクィーン\\c[0]を残していった！
+> CONTEXT: Troops/434/pages/2/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]ジャバウォックは絶頂に達した！
+> CONTEXT: Troops/434/pages/3/3/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/434/pages/3/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]ジャバウォックは場に
+\\c[3]スペードのエース\\c[0]を残していった！
+> CONTEXT: Troops/434/pages/3/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]ジャブジャブは絶頂に達した！
+> CONTEXT: Troops/434/pages/4/3/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/434/pages/4/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]ジャブジャブは場に
+\\c[3]ダイアのキング\\c[0]を残していった！
+> CONTEXT: Troops/434/pages/4/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]アリスは絶頂に達した！
+> CONTEXT: Troops/434/pages/5/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リリス
+> CONTEXT: Troops/435/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■追加
+> CONTEXT: Troops/440/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アスタロテ+エンジェル*2
+> CONTEXT: Troops/441/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+メリュジーヌ*3
+> CONTEXT: Troops/442/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ティターニア*3
+> CONTEXT: Troops/443/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ティターニア+リャナンシー*3
+> CONTEXT: Troops/444/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リリム+エンジェル*2
+> CONTEXT: Troops/445/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナイトメア+エンジェル
+> CONTEXT: Troops/446/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リリム+ナイトメア+エンジェル
+> CONTEXT: Troops/447/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]さん……、
+　私、もう……っ！
+> CONTEXT: Troops/8/pages/1/3/Dialogue < UNTRANSLATED
+
+> END STRING

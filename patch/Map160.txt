@@ -1,0 +1,484 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「…勇者様のお出ましか。
+> CONTEXT: Map160/events/6/pages/0/91/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ハグロフスが仕損じるとは…
+　おかげで面倒なことになった…。
+> CONTEXT: Map160/events/6/pages/0/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「グスタフス…さん……？
+> CONTEXT: Map160/events/6/pages/0/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やっぱり一緒だったか。
+　クリスティンのお嬢様。
+> CONTEXT: Map160/events/6/pages/0/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あんたがこいつといなくなった後の
+　ハグロフスの取り乱しよう……
+> CONTEXT: Map160/events/6/pages/0/109/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「見ものだったよ。
+　くくっ…
+> CONTEXT: Map160/events/6/pages/0/111/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何を……
+　何をしているんです…！？
+> CONTEXT: Map160/events/6/pages/0/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もう知っているんじゃないのか？
+　夜の国とこの世界を繋げるお手伝いさ。
+> CONTEXT: Map160/events/6/pages/0/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「エスト様のご命令でね。
+> CONTEXT: Map160/events/6/pages/0/119/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そんな！
+　あなた、自分が何をしているか……
+> CONTEXT: Map160/events/6/pages/0/121/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「分かってるさ……
+　…何だってするよ……
+> CONTEXT: Map160/events/6/pages/0/124/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あの方の与えてくれる、
+　あの快楽のためなら……
+> CONTEXT: Map160/events/6/pages/0/126/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そうそう、勇者様のお探し物なら
+　もうここにはないよ。
+> CONTEXT: Map160/events/6/pages/0/128/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「邪魔だったからな。
+　遠くに持って行かせてもらったよ。
+> CONTEXT: Map160/events/6/pages/0/130/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「人間のあなたに、
+　邪魔な\\dかけら\\dを持っていかせて
+　魔術で手伝いまでさせて……
+> CONTEXT: Map160/events/6/pages/0/156/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…夜の国とこの世界を繋げる……
+　それが夢魔の目的なの？
+> CONTEXT: Map160/events/6/pages/0/159/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「目的？
+> CONTEXT: Map160/events/6/pages/0/162/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ハハ、馬鹿な。
+　あの方々に目的なんて無いよ。
+> CONTEXT: Map160/events/6/pages/0/163/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「欲望の赴くまま、本能の赴くまま。
+　それだけさ。他に何も無い。
+> CONTEXT: Map160/events/6/pages/0/165/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「美しいだろう。
+　生き物のあるべき姿だ。
+> CONTEXT: Map160/events/6/pages/0/167/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「夜の国を\\dこっち\\dに持ってこようと
+　してるのだって、
+　餌場が近くなるぐらいのものさ。
+> CONTEXT: Map160/events/6/pages/0/169/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そんな…それだけで……
+> CONTEXT: Map160/events/6/pages/0/173/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お前らこそどうして夢魔を拒むんだ？
+　気持ちいいこと好きだろ…？
+> CONTEXT: Map160/events/6/pages/0/175/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「一緒に……
+　楽になろうじゃないか……
+> CONTEXT: Map160/events/6/pages/0/180/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「動けないだろう？
+　ここじゃ夜の国に満ちる魔力全てが
+　俺の味方だ。
+> CONTEXT: Map160/events/6/pages/0/215/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「待ってろよ、
+　今特上の夢魔を……
+> CONTEXT: Map160/events/6/pages/0/218/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そこまでです。
+> CONTEXT: Map160/events/6/pages/0/222/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お父さん………っ！
+> CONTEXT: Map160/events/6/pages/0/246/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「大丈夫ですか？
+　クリスティン。
+> CONTEXT: Map160/events/6/pages/0/250/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それと…………
+> CONTEXT: Map160/events/6/pages/0/252/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………\\n[1]さん。
+> CONTEXT: Map160/events/6/pages/0/253/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「遅いお出ましじゃないか。
+　ハグロフス。
+> CONTEXT: Map160/events/6/pages/0/268/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…快楽に屈しましたか。
+　グスタフス。
+> CONTEXT: Map160/events/6/pages/0/273/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あんたに言われたくはないな。
+> CONTEXT: Map160/events/6/pages/0/276/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「娘愛しさに国の仕事もほったらかし、
+　人の迷惑も顧みない。
+　自分の好きなように生きてるあんたにはな。
+> CONTEXT: Map160/events/6/pages/0/277/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それに、俺は今でも
+　あんた達のためにやってるんだよ。
+> CONTEXT: Map160/events/6/pages/0/283/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あんたも…クリスティンも……
+　誰もが思いのままに欲望を貪る……
+> CONTEXT: Map160/events/6/pages/0/285/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「すばらしい世界じゃないか。
+　そんな世界が他にあるか？
+> CONTEXT: Map160/events/6/pages/0/287/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………いや、
+> CONTEXT: Map160/events/6/pages/0/289/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「人間だけだ……
+　人間だけが自分の欲望に
+　理由や体裁をつけたがる……
+> CONTEXT: Map160/events/6/pages/0/290/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くだらんね……醜いよ……
+　それに比べて、あの夢魔たちの
+　なんと美しいことか……
+> CONTEXT: Map160/events/6/pages/0/293/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「世界にとこしえの夜を！
+　人に幸福なる夢を！
+> CONTEXT: Map160/events/6/pages/0/302/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「手伝ってやろうというのさ！
+　このグスタフスが！！
+> CONTEXT: Map160/events/6/pages/0/304/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…おしゃべりは終わりですか？
+> CONTEXT: Map160/events/6/pages/0/312/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「！
+> CONTEXT: Map160/events/6/pages/0/322/Dialogue < UNTRANSLATED
+> CONTEXT: Map143/events/13/pages/1/306/Dialogue < UNTRANSLATED
+> CONTEXT: Map113/events/1/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map142/events/19/pages/3/142/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ここに\\dある\\d夜の国は、
+　あなたの魔力によるものでしょう？
+> CONTEXT: Map160/events/6/pages/0/324/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ならば、私も魔力で
+　対抗できるはずですね。
+> CONTEXT: Map160/events/6/pages/0/326/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私も手伝うわ、
+　お父さんっ！
+> CONTEXT: Map160/events/6/pages/0/337/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「く、くうっ！
+> CONTEXT: Map160/events/6/pages/0/355/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……\\n[1]さん！
+> CONTEXT: Map160/events/6/pages/0/362/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……させんよ！
+　来い、クララ！
+> CONTEXT: Map160/events/6/pages/0/364/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ご主人様…お呼びですか…？
+> CONTEXT: Map160/events/6/pages/0/374/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「これは、魔導院の……
+> CONTEXT: Map160/events/6/pages/0/376/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「リスヴェグ応用魔術の結晶、
+　自動人形さ。
+> CONTEXT: Map160/events/6/pages/0/378/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「今は夜の国の魔力で動いてるから、
+　夢魔と同じ…いや、
+　下手な夢魔よりよほど凄いぞ。
+> CONTEXT: Map160/events/6/pages/0/380/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「さあクララ、
+　今日のご主人様はその三人だ。
+> CONTEXT: Map160/events/6/pages/0/383/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「足腰立たなくなるまで
+　ご奉仕してやれッ！
+> CONTEXT: Map160/events/6/pages/0/385/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]さん、
+　私達はこの男を押さえます。
+> CONTEXT: Map160/events/6/pages/0/388/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あなたはその人形をっ！
+> CONTEXT: Map160/events/6/pages/0/390/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「う…ぬぅ………
+> CONTEXT: Map160/events/6/pages/0/458/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「魔力が……
+　夜の国が…………
+> CONTEXT: Map160/events/6/pages/0/459/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「終わりです。
+　グスタフス。
+> CONTEXT: Map160/events/6/pages/0/463/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くっ…………
+> CONTEXT: Map160/events/6/pages/0/475/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「"とこしえの闇、万物を覆え！
+　 ひとすじの光芒、我が\\r[眼,まなこ]を射抜け！
+　 虚は実に、正は奇に………"
+> CONTEXT: Map160/events/6/pages/0/481/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「逃がしませんよ！
+> CONTEXT: Map160/events/6/pages/0/492/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……う………………
+> CONTEXT: Map160/events/6/pages/0/498/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やだ……
+　…こんな…ときに……
+> CONTEXT: Map160/events/6/pages/0/499/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「！
+　クリスティンッ！！
+> CONTEXT: Map160/events/6/pages/0/510/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「"うつろえ！
+　 わが身を移せ！"
+> CONTEXT: Map160/events/6/pages/0/518/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…しまった！
+> CONTEXT: Map160/events/6/pages/0/523/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「"テレポト！！"
+> CONTEXT: Map160/events/6/pages/0/525/Dialogue < UNTRANSLATED
+
+> END STRING

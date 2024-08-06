@@ -1,0 +1,710 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+"BARの主人"
+> CONTEXT: Map018/events/1/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いらっしゃい。
+　お持ち帰りもあるよ。
+> CONTEXT: Map018/events/1/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]！こっちだ！
+> CONTEXT: Map018/events/5/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「座れよ。
+　…何から話すかな
+> CONTEXT: Map018/events/5/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………オリビアはいない。
+> CONTEXT: Map018/events/5/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ヴィドヴィンから魔王の城へ
+　引き返して探そうともしたんだが…
+> CONTEXT: Map018/events/5/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…もう見たか？
+　妙な霧がかかっていて、先に進めない。
+> CONTEXT: Map018/events/5/pages/0/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あのふざけた魔物…夢魔っていったか…
+　ここまでは追って来ないみたいだが、
+> CONTEXT: Map018/events/5/pages/0/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ま、夢じゃなかったって事だな……
+> CONTEXT: Map018/events/5/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お待たせしました。
+> CONTEXT: Map018/events/5/pages/0/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おっ、きたきた。
+> CONTEXT: Map018/events/5/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それでだ…モグ…
+　一度\\c[2]王都グルッペン\\c[0]まで
+　戻ってみようと思うんだ。
+> CONTEXT: Map018/events/5/pages/0/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「グルッペンの賢王マグナス様なら
+　きっと何か知ってるはずだぜ。
+> CONTEXT: Map018/events/5/pages/0/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「賢王様の助けを借りるんだ。
+　それがいいだろ？
+> CONTEXT: Map018/events/5/pages/0/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それがいいだろ？」
+> CONTEXT: Map018/events/5/pages/0/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「なら決まりだ。
+　早速ここからグルッペンへの道を探そうぜ。
+> CONTEXT: Map018/events/5/pages/0/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お前が焦るのも分かるけどよ…
+　他に方法も無いだろ？
+> CONTEXT: Map018/events/5/pages/0/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ここからグルッペンへ戻る道を探そうぜ。
+> CONTEXT: Map018/events/5/pages/0/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"恰幅のいい男"
+> CONTEXT: Map018/events/5/pages/0/100/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map018/events/5/pages/0/113/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あの、もし……
+> CONTEXT: Map018/events/5/pages/0/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お話が耳に入ったもので……
+　もしやあなた方は、勇者様のご一行では？
+> CONTEXT: Map018/events/5/pages/0/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああ、まあ、
+　ご一行っても今は二人しかいないけどな
+> CONTEXT: Map018/events/5/pages/0/111/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おお、これぞ天の助け……！
+　どうか、私たちのマーシャを
+　探し出してくれませんか！
+> CONTEXT: Map018/events/5/pages/0/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「マーシャは私たちの一人娘です。
+　しかし数日前から急に姿を消してしまい、
+　どこを探しても見つからないのです。
+> CONTEXT: Map018/events/5/pages/0/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「誘拐されたと噂する者もおりますが、
+　これまで何の音沙汰もなく
+> CONTEXT: Map018/events/5/pages/0/121/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「さらには探しに行った町の男まで
+　行方不明になる始末で……
+> CONTEXT: Map018/events/5/pages/0/123/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もう勇者様におすがりする他ないのです！
+　どうか、どうかお力を……！
+> CONTEXT: Map018/events/5/pages/0/125/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「俺たちは人探しじゃないし、
+　今急いでんだがな……
+> CONTEXT: Map018/events/5/pages/0/128/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「仕方ねえ、グルッペンへの道は
+　俺が一人で調べよう。
+　\\n[1]、こっちの件はお前に任せるぜ
+> CONTEXT: Map018/events/5/pages/0/132/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「魔物も消えた今、
+　大した事件でもないだろうし
+　それに……
+> CONTEXT: Map018/events/5/pages/0/137/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「こういう人助けは
+　勇者様がやった方がいいだろ？
+> CONTEXT: Map018/events/5/pages/0/140/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「先行くぜ。
+　それ、食べないなら包んでもらえよ
+> CONTEXT: Map018/events/5/pages/0/142/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"戦士風の男"
+> CONTEXT: Map018/events/5/pages/2/0/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ケッ、勇者が………
+　ケッ、なんでィッ………
+> CONTEXT: Map018/events/5/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「バ～～～～カヤロオッ！
+> CONTEXT: Map018/events/5/pages/2/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お、来たか。
+　そっちはどうだった？
+> CONTEXT: Map018/events/5/pages/3/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……そうか、そっちにも夢魔が出たか。
+> CONTEXT: Map018/events/5/pages/3/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「実は俺も道探しの途中で襲われたのさ。
+　返り討ちにしてやったけどよ。
+> CONTEXT: Map018/events/5/pages/3/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……何だよその顔……
+　魔王の城でのはちょっと……
+　………油断しただけでな………
+> CONTEXT: Map018/events/5/pages/3/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……まあいいや。
+> CONTEXT: Map018/events/5/pages/3/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それよりそのマーシャって娘、
+　夢魔に襲われてそうなったってんなら……
+> CONTEXT: Map018/events/5/pages/3/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……オリビアが心配だな。
+> CONTEXT: Map018/events/5/pages/3/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「グルッペンへ急ごうぜ。
+　街道はやっぱり通れない状態だったが、
+　\\c[1]イェルベル峡谷\\c[0]を通れば行けそうだ。
+> CONTEXT: Map018/events/5/pages/3/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「来る時はオリビアの魔法で
+　楽だったんだよなあ………
+> CONTEXT: Map018/events/5/pages/3/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ま、準備ができたら早速行こうぜ。
+　町の西から行けるはずだ。
+> CONTEXT: Map018/events/5/pages/3/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「バトルはお前に任せるぜ。
+> CONTEXT: Map018/events/5/pages/3/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「俺じゃイかせることはできても、
+　お前みたいに夢魔を
+　元の世界に追い返したりできないからな。
+> CONTEXT: Map018/events/5/pages/3/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ねぇ知ってる？
+　今この町の宿屋に勇者様がいるんですってよ！
+> CONTEXT: Map018/events/9/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map018/events/19/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「仕事サボって
+　こっそり見に行っちゃおかなぁ♪
+> CONTEXT: Map018/events/9/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map018/events/19/pages/1/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"憐れむ男"
+> CONTEXT: Map018/events/9/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そこの戦士風の客……、
+　うるさいけどほっといてやれよ。
+> CONTEXT: Map018/events/9/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「魔物退治で金取ってたんだが、
+　勇者が魔王を倒しちまったせいで
+　失業だとよ。
+> CONTEXT: Map018/events/9/pages/1/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"まとめる男"
+> CONTEXT: Map018/events/10/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ナニをするにしても、
+　\\c[2]ムード\\c[0]と\\c[2]テンション\\c[0]、
+　この２つは重要だな。
+> CONTEXT: Map018/events/10/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ムードがないとテンションも上がらないし、
+　テンションが上がらないと
+　何もできなくなるってわけだからな。
+> CONTEXT: Map018/events/10/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おおありがとうございます勇者様！
+　無事見つけ出してくださったなら
+　お礼はいかようにでも！
+> CONTEXT: Map018/events/12/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おぉ、私のマーシャ、優しくて健気な…
+　…あんないい子がどうしてあんな目に……
+> CONTEXT: Map018/events/13/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あんたらグルッペンに行くらしいな？
+　だったらいいことを教えてやろう。
+> CONTEXT: Map018/events/13/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「グルッペンには、普通の宿屋のほかに
+　もう一軒裏の宿屋があるそうだ。
+> CONTEXT: Map018/events/13/pages/1/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ナニするとこかは……分かるよな？
+　くそぉ、俺も行ってみたいぜ。
+> CONTEXT: Map018/events/13/pages/1/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ほろ酔い客"
+> CONTEXT: Map018/events/16/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map018/events/16/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map018/events/16/pages/2/0/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「女にはそれぞれ\\c[2]弱点\\c[0]があるもんだ。
+　胸だったり、尻だったりな。
+> CONTEXT: Map018/events/16/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うまく\\c[2]弱点\\c[0]を責めれば
+　早くイかせることもできるだろうぜ。
+> CONTEXT: Map018/events/16/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「だからって同じとこばっかり責めてると
+　\\c[2]飽き\\c[0]ちまうかも知れないから、
+　そこは気をつけないとな。
+> CONTEXT: Map018/events/16/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……っていきなり何て話してんだ俺…
+　飲みすぎたかな……
+> CONTEXT: Map018/events/16/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ちゃんと\\c[2]アナライズ\\c[0]してるか？
+> CONTEXT: Map018/events/16/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「弱点をつくには
+　まず弱点を調べることだぜ。
+　……ヒック
+> CONTEXT: Map018/events/16/pages/1/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「なんか最近、
+　やけに人が少なくなっちまったな……
+> CONTEXT: Map018/events/16/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「みんな家でイイことしてんだぜきっと…
+　チクショォ……ヒック……
+> CONTEXT: Map018/events/16/pages/2/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"事情を知る客"
+> CONTEXT: Map018/events/18/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map018/events/18/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map018/events/18/pages/2/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map018/events/18/pages/3/0/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あそこにいる両親は
+　無かったことにしたいみたいだが……
+　実はマーシャな、
+> CONTEXT: Map018/events/18/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「姿を消す前に\\c[1]ベルツェリーの森\\c[0]で
+　\\dおそわれた\\dって話さ…しかも女にな。
+> CONTEXT: Map018/events/18/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それがショックで家に閉じこもってると思ってたら、
+　いきなりいなくなってたんだ。
+> CONTEXT: Map018/events/18/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やっと魔王が倒されたってのに、
+　嫌な事件も起きるもんさ。
+> CONTEXT: Map018/events/18/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「マーシャが襲われたのは\\c[1]ベルツェリーの森\\c[0]だ。
+　町の南から出れば行けるよ。
+> CONTEXT: Map018/events/18/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あんたら、今度はイェルベル峡谷を抜けるって？
+> CONTEXT: Map018/events/18/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あそこはまだ魔王がいたころ、
+　凶暴な魔物がすみついてた場所だ。
+　気をつけなよ。
+> CONTEXT: Map018/events/18/pages/2/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「誘拐事件も解決したし、
+　最近じゃこれといったニュースも聞かないな。
+> CONTEXT: Map018/events/18/pages/3/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ま、この町は依然平和ってことかな。
+> CONTEXT: Map018/events/18/pages/3/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「勇者様、もう次の町に行っちゃったみたいね…。
+> CONTEXT: Map018/events/19/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あ～、会いたかったなぁ～～
+> CONTEXT: Map018/events/19/pages/2/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お飲み物はいかがでしょう？
+> CONTEXT: Map018/events/20/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"手練の男"
+> CONTEXT: Map018/events/22/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map018/events/22/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「コトの始めにはまず\\c[2]優しくキッス\\c[0]だな。
+　紳士のたしなみってやつだ。
+> CONTEXT: Map018/events/22/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そうして\\c[2]ムード\\c[0]を上げていけば、
+　しぜんと二人の\\c[2]テンション\\c[0]も高まるってもんさ。
+> CONTEXT: Map018/events/22/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ムードを上げるテクニックを使うなら、
+　コトが始まってすぐにやらないと効果が薄いぜ。
+> CONTEXT: Map018/events/22/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"初々しい男"
+> CONTEXT: Map018/events/23/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「こ、今度彼女と寝れそうなんだ。
+　でも初めてだしどうすりゃいいのか……
+> CONTEXT: Map018/events/23/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「とりあえずうまい食事で
+　\\c[2]精力\\c[0]つけておこうかな……
+> CONTEXT: Map018/events/23/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"初々しかった男"
+> CONTEXT: Map018/events/23/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やったよ、上手くいったよ！
+> CONTEXT: Map018/events/23/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ムードに気を配ったおかげで、
+　俺も彼女もテンション上がりっぱなしさ！
+> CONTEXT: Map018/events/23/pages/1/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"プレイボーイ"
+> CONTEXT: Map018/events/27/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「俺ぐらいのプレイボーイになるとな、
+　一度に複数の女の子を
+　相手しなきゃならないことも多いんだ。
+> CONTEXT: Map018/events/27/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そういうのってすごく大変だけど、
+　一人一人やるより経験はたくさん積めるぜ。
+> CONTEXT: Map018/events/27/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「自分が先にイきたくないなら、
+　最初に誰か一人は\\c[2]ファシネイト(魅惑)\\c[0]して
+　\\c[2]恍惚\\c[0]とさせとくのがコツだな。
+> CONTEXT: Map018/events/27/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"基本を説く客"
+> CONTEXT: Map018/events/28/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「悪いことは言わないから、町を出る前には
+　必ず\\c[2]セーブ\\c[0]しておいた方がいいわよ。
+> CONTEXT: Map018/events/28/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「え、そんなこともう分かってる？
+　でもみんな忘れがちなことなのよ。
+> CONTEXT: Map018/events/28/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「街道が復旧したから
+　レンシェットから来たんだけど、
+　途中森に変な夢魔がいたよ。
+> CONTEXT: Map018/events/28/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「品定めでもするみたいに
+　こっちのことじっと見つめて……
+> CONTEXT: Map018/events/28/pages/1/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「結局襲ってこなかったんだが、
+　なんだったのかね、ありゃ。
+> CONTEXT: Map018/events/28/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING

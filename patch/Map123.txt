@@ -1,0 +1,150 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+"番兵"
+> CONTEXT: Map123/events/1/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map123/events/2/pages/0/2/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map116/events/1/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map116/events/2/pages/0/2/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map116/events/2/pages/2/5/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map116/events/3/pages/0/2/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map116/events/3/pages/2/5/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map014/events/15/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map014/events/15/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map014/events/22/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map014/events/22/pages/1/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map014/events/22/pages/2/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map014/events/22/pages/3/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map014/events/22/pages/4/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map014/events/22/pages/5/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map014/events/22/pages/6/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map014/events/22/pages/7/0/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「この先はグルッペン王国の港町フリーベリ、
+　およびキアズマ王国クルムス港への
+　定期船が出る船着場です。
+> CONTEXT: Map123/events/1/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「しかし先ほどフリーベリから来た
+　船乗りの話によりますと、
+> CONTEXT: Map123/events/1/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「海に凶悪な魔物が出るそうなので
+　運行は休止させていただいております。
+> CONTEXT: Map123/events/1/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もうしわけありませんが、
+　現在定期船の運航は
+　休止させていただいております。
+> CONTEXT: Map123/events/2/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"フリーベリの船乗り"
+> CONTEXT: Map123/events/3/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「本当だって！
+　人魚が出たんだよ！
+> CONTEXT: Map123/events/3/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ポッパナの船乗り"
+> CONTEXT: Map123/events/4/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「人魚だと？どうも信じられん………
+　幻でも見たんじゃないのか？
+> CONTEXT: Map123/events/4/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「無事に航海が済んで何よりだ。
+> CONTEXT: Map123/events/8/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「言っとくけど、
+　借りができたなんて思わないからね。
+> CONTEXT: Map123/events/8/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「借り？
+　何のことだい？
+> CONTEXT: Map123/events/8/pages/0/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………ま、いいわ。
+> CONTEXT: Map123/events/8/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「僕たちは、
+　この国をいろいろ周ってみることにするよ。
+> CONTEXT: Map123/events/8/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「探しもの、みつかるといいわね。
+> CONTEXT: Map123/events/8/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「幸運を祈るよ。
+> CONTEXT: Map123/events/8/pages/0/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「また会いましょう！
+> CONTEXT: Map123/events/8/pages/0/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あの人たち、魔王の力も、
+　何の魔力も持ってないのに、
+> CONTEXT: Map123/events/8/pages/0/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どうして夢魔を追い返したり
+　できたのかしら………
+> CONTEXT: Map123/events/8/pages/0/87/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「わからない………
+　わからないわ………。
+> CONTEXT: Map123/events/8/pages/0/89/Dialogue < UNTRANSLATED
+
+> END STRING

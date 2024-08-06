@@ -1,0 +1,650 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+SQ_Dungeon07
+> CONTEXT: Map164/bgm/name/ < UNTRANSLATED
+> CONTEXT: Map162/bgm/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"猫"
+> CONTEXT: Map164/events/1/pages/0/1/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map164/events/1/pages/1/1/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map164/events/1/pages/2/1/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ベルナドット様、
+　いつになくスゴかったニャ～\\e[0]
+> CONTEXT: Map164/events/1/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（魔王城は広いニャ～
+　行くならしっかり
+　準備を整えてくニャ～～
+> CONTEXT: Map164/events/1/pages/1/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（遊びに来たニャ？
+　嬉しいニャ～～\\e[0]
+> CONTEXT: Map164/events/1/pages/2/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……いよいよね。
+> CONTEXT: Map164/events/4/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ドゥヂチで『剣』を奪ってった
+　\\dかけら\\d泥棒や、
+> CONTEXT: Map164/events/4/pages/1/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「セーデルの『槍』を持ってた
+　ツンツン頭にも、
+　あの鏡のメッセージは伝わってるはずよ。
+> CONTEXT: Map164/events/4/pages/1/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「先を越されるわけにいかないわ。
+　急ぎましょ。
+> CONTEXT: Map164/events/4/pages/1/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「準備はできたかい？
+> CONTEXT: Map164/events/7/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map164/events/7/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…まだみたいだね。
+　今やっても、結果は同じだよ。
+> CONTEXT: Map164/events/7/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何がテレポトを失敗させているのか、
+　あの村でゆっくり考えておいで。
+> CONTEXT: Map164/events/7/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…何かを乗り越えたみたいだね。
+　力が溢れてるよ。
+> CONTEXT: Map164/events/7/pages/1/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「その魔方陣に、
+　あらかじめ魔力を込めておいたよ。
+> CONTEXT: Map164/events/7/pages/1/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map164/events/7/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「今のあんたなら
+　一人でテレポトを発動できるはずさ。
+> CONTEXT: Map164/events/7/pages/1/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map164/events/7/pages/2/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ただし一方通行だ。
+　一度行ったら簡単には戻れないからね。
+　注意おし。
+> CONTEXT: Map164/events/7/pages/1/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map164/events/7/pages/2/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それじゃ、気をつけて行っといで。
+> CONTEXT: Map164/events/7/pages/1/15/Dialogue < UNTRANSLATED
+> CONTEXT: Map164/events/7/pages/2/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何事か起こってるようだねぇ。
+　世界が夢に呑まれようとしているのか、
+　はたまた、実はその逆か……
+> CONTEXT: Map164/events/7/pages/3/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「クックック、
+　どっちにしてもなかなか楽しいじゃないか、
+　ねぇ？
+> CONTEXT: Map164/events/7/pages/3/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おや、珍しいねえ。
+　お客さんかい。
+> CONTEXT: Map164/events/8/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何そんなとこに突っ立ってんだい？
+　アタシに用があって来たんだろ？
+> CONTEXT: Map164/events/8/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「アタシに用があって来たんだろ？」
+> CONTEXT: Map164/events/8/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それじゃあこっちへおいで。
+> CONTEXT: Map164/events/8/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……若いねえ。
+　素直だねえ。
+> CONTEXT: Map164/events/8/pages/0/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それじゃ、
+　いただきますかねえ\\e[0]
+> CONTEXT: Map164/events/8/pages/0/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おや、それじゃあ迷子かい。
+　それは不憫だねえ。
+> CONTEXT: Map164/events/8/pages/0/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「悪いけど、こんなおいしそうな男
+　逃がす手はないからねえ\\e[0]
+> CONTEXT: Map164/events/8/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どおれ、
+　いただきますか\\e[0]
+> CONTEXT: Map164/events/8/pages/0/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………はあ\\e[0]
+> CONTEXT: Map164/events/8/pages/1/48/Dialogue < UNTRANSLATED
+> CONTEXT: Map164/events/8/pages/0/125/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やっぱり若い男はイイねえ\\e[0]
+> CONTEXT: Map164/events/8/pages/1/49/Dialogue < UNTRANSLATED
+> CONTEXT: Map164/events/8/pages/0/126/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……あなた、
+　夢魔じゃなかったの？
+> CONTEXT: Map164/events/8/pages/1/73/Dialogue < UNTRANSLATED
+> CONTEXT: Map164/events/8/pages/0/150/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あ？
+　何だいこの小娘は。
+> CONTEXT: Map164/events/8/pages/1/78/Dialogue < UNTRANSLATED
+> CONTEXT: Map164/events/8/pages/0/155/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「初対面で人を魔物扱いとは
+　いい度胸じゃないかね。
+> CONTEXT: Map164/events/8/pages/1/80/Dialogue < UNTRANSLATED
+> CONTEXT: Map164/events/8/pages/0/157/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「小っ……
+> CONTEXT: Map164/events/8/pages/1/83/Dialogue < UNTRANSLATED
+> CONTEXT: Map164/events/8/pages/0/160/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それより坊や、
+　アタシに用があるんだったね。
+> CONTEXT: Map164/events/8/pages/0/165/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それより坊や、
+　ほんとはアタシに用があって
+　来たんだろ？
+> CONTEXT: Map164/events/8/pages/0/170/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「話してごらん。
+　聞いてあげるよ。
+> CONTEXT: Map164/events/8/pages/1/98/Dialogue < UNTRANSLATED
+> CONTEXT: Map164/events/8/pages/0/175/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……ほお、テレポトねえ。
+> CONTEXT: Map164/events/8/pages/1/113/Dialogue < UNTRANSLATED
+> CONTEXT: Map164/events/8/pages/0/190/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お安い御用…と言いたいが
+　一人じゃちと難しいねえ。
+> CONTEXT: Map164/events/8/pages/0/191/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どれ、あの坊にでも手伝ってもらうかね。
+> CONTEXT: Map164/events/8/pages/0/193/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何故いけないんですか、
+　クリスティンッ！！
+> CONTEXT: Map164/events/8/pages/1/131/Dialogue < UNTRANSLATED
+> CONTEXT: Map164/events/8/pages/0/208/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「昔はあんなに仲良く、
+　一緒にお風呂に
+　入ってたじゃないですかっ！？
+> CONTEXT: Map164/events/8/pages/0/210/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…………はっ。
+> CONTEXT: Map164/events/8/pages/0/215/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「クックックッ、
+　相変わらずだねえ。
+> CONTEXT: Map164/events/8/pages/1/140/Dialogue < UNTRANSLATED
+> CONTEXT: Map164/events/8/pages/0/217/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…急に呼び出すのは
+　止めてもらえますか。
+　ベルナドットさん。
+> CONTEXT: Map164/events/8/pages/0/222/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「こうしているということは、
+　\\n[1]さんは無事
+　試験に合格したのですね。
+> CONTEXT: Map164/events/8/pages/0/232/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああ。 なかなかいい男
+　\\r[寄越,よ　こ]してくれるじゃないか。
+> CONTEXT: Map164/events/8/pages/0/236/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「だが魔法の使えない人間に
+　いきなりテレポトを使わせろとは、
+　ちと難儀な話だからねえ。
+> CONTEXT: Map164/events/8/pages/1/161/Dialogue < UNTRANSLATED
+> CONTEXT: Map164/events/8/pages/0/238/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あんたにも手伝ってもらうことにしたのさ。
+> CONTEXT: Map164/events/8/pages/1/164/Dialogue < UNTRANSLATED
+> CONTEXT: Map164/events/8/pages/0/241/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…それは構いませんが、
+　クリスティンも
+　ここに呼んではもらえませんか？
+> CONTEXT: Map164/events/8/pages/0/243/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私がいなくなって、
+　不安がってるはずです。
+> CONTEXT: Map164/events/8/pages/1/169/Dialogue < UNTRANSLATED
+> CONTEXT: Map164/events/8/pages/0/246/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あんたの娘なら、
+　一人で風呂に入ってるようだよ。
+> CONTEXT: Map164/events/8/pages/1/172/Dialogue < UNTRANSLATED
+> CONTEXT: Map164/events/8/pages/0/249/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「せいせいしたって顔してるがねえ。
+　クックックッ
+> CONTEXT: Map164/events/8/pages/1/174/Dialogue < UNTRANSLATED
+> CONTEXT: Map164/events/8/pages/0/251/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「なっ…………
+> CONTEXT: Map164/events/8/pages/0/254/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…ラルスさん、そう言えば
+　クリスティンの様子がおかしいのは
+　あなたと会ったあの日からです。
+> CONTEXT: Map164/events/8/pages/0/260/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「妙に色気づいたり、
+　私を避け始めたり……
+> CONTEXT: Map164/events/8/pages/1/186/Dialogue < UNTRANSLATED
+> CONTEXT: Map164/events/8/pages/0/263/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あなたまさか……
+> CONTEXT: Map164/events/8/pages/0/265/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「クックックッ、
+　おやめおやめ。
+> CONTEXT: Map164/events/8/pages/1/190/Dialogue < UNTRANSLATED
+> CONTEXT: Map164/events/8/pages/0/267/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それよりテレポトさ。
+　早く帰りたいなら
+　早く済ませようじゃないか。
+> CONTEXT: Map164/events/8/pages/1/196/Dialogue < UNTRANSLATED
+> CONTEXT: Map164/events/8/pages/0/273/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やれやれ……
+　仕方ありませんね。
+> CONTEXT: Map164/events/8/pages/1/200/Dialogue < UNTRANSLATED
+> CONTEXT: Map164/events/8/pages/0/277/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「坊や、そこの魔方陣の上にお立ち。
+> CONTEXT: Map164/events/8/pages/1/206/Dialogue < UNTRANSLATED
+> CONTEXT: Map164/events/8/pages/0/283/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いいですか、目をつぶって、
+　目的の場所を心に思い描くのです。
+> CONTEXT: Map164/events/8/pages/1/231/Dialogue < UNTRANSLATED
+> CONTEXT: Map164/events/8/pages/0/308/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「できるだけはっきりと、
+　一歩前に進めば、
+　もうたどり着けるくらいにです。
+> CONTEXT: Map164/events/8/pages/1/238/Dialogue < UNTRANSLATED
+> CONTEXT: Map164/events/8/pages/0/315/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そして唱えるのさ。
+　アタシ達に続いて……
+> CONTEXT: Map164/events/8/pages/0/319/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ハグロフス、ベルナドット"
+> CONTEXT: Map164/events/8/pages/1/246/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map164/events/8/pages/0/323/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「とこしえの闇、万物を覆え
+「とこしえの闇、万物を覆え
+> CONTEXT: Map164/events/8/pages/1/247/Dialogue < UNTRANSLATED
+> CONTEXT: Map164/events/8/pages/0/324/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ひとすじの光芒、わが\\r[眼,まなこ]を射抜け
+「ひとすじの光芒、わが\\r[眼,まなこ]を射抜け
+> CONTEXT: Map164/events/8/pages/1/249/Dialogue < UNTRANSLATED
+> CONTEXT: Map164/events/8/pages/0/326/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「虚は実に　正は奇に
+「虚は実に　正は奇に
+> CONTEXT: Map164/events/8/pages/1/251/Dialogue < UNTRANSLATED
+> CONTEXT: Map164/events/8/pages/0/328/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うつろえ　わが身を移せ
+「うつろえ　わが身を移せ
+> CONTEXT: Map164/events/8/pages/1/253/Dialogue < UNTRANSLATED
+> CONTEXT: Map164/events/8/pages/0/330/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「テレポト！！
+「テレポト！！
+> CONTEXT: Map164/events/8/pages/1/255/Dialogue < UNTRANSLATED
+> CONTEXT: Map164/events/8/pages/0/332/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おやおや、もう終わりかい？
+　若いのにだらしないねえ。
+> CONTEXT: Map164/events/8/pages/1/281/Dialogue < UNTRANSLATED
+> CONTEXT: Map164/events/8/pages/0/99/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「出直しておいで。
+> CONTEXT: Map164/events/8/pages/1/283/Dialogue < UNTRANSLATED
+> CONTEXT: Map164/events/8/pages/0/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おや、また来たのかい。
+> CONTEXT: Map164/events/8/pages/1/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どれどれ、
+　また楽しませてもらおうかねえ\\e[0]
+> CONTEXT: Map164/events/8/pages/1/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それより坊や、
+　あたしに用があるんだったね。
+> CONTEXT: Map164/events/8/pages/1/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それより坊や、
+　ほんとはあたしに用があって
+　来たんだろ？
+> CONTEXT: Map164/events/8/pages/1/93/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お安い御用……と言いたいが
+　一人じゃちと難しいねえ。
+> CONTEXT: Map164/events/8/pages/1/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「助っ人を呼ぼうかね。
+> CONTEXT: Map164/events/8/pages/1/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「前まであんなに仲良く、
+　一緒にお風呂に
+　入ってたじゃないですかっ！！
+> CONTEXT: Map164/events/8/pages/1/133/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………………はっ。
+> CONTEXT: Map164/events/8/pages/1/138/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………急に呼び出すのは
+　止めてもらえますか。
+　ベルナドットさん。
+> CONTEXT: Map164/events/8/pages/1/145/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「こうしているということは、
+　\\n[1]君は無事
+　試験に合格したのですね。
+> CONTEXT: Map164/events/8/pages/1/155/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああ。 なかなかいい男
+　\\r[寄越,よこ]してくれるじゃないか。
+> CONTEXT: Map164/events/8/pages/1/159/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……それは構いませんが、
+　クリスティンも
+　ここに呼んではもらえませんか？
+> CONTEXT: Map164/events/8/pages/1/166/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「なっ………………
+> CONTEXT: Map164/events/8/pages/1/177/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………ラルスさん、そう言えば
+　クリスティンの様子がおかしいのは
+　あなたと会ったあの日からです。
+> CONTEXT: Map164/events/8/pages/1/183/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あなたまさか………………
+> CONTEXT: Map164/events/8/pages/1/188/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そして唱えるのさ。
+　アタシ達に続いて………
+> CONTEXT: Map164/events/8/pages/1/242/Dialogue < UNTRANSLATED
+
+> END STRING

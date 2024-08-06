@@ -1,0 +1,61 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\c[4]ヴィジャラスヴィジョン\\c[0]を手に入れた！
+> CONTEXT: Map284/events/2/pages/1/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]の精力が上がった！
+> CONTEXT: Map284/events/2/pages/1/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"エルヴィン"
+> CONTEXT: Map284/events/3/pages/0/18/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map190/events/19/pages/0/15/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map190/events/19/pages/0/25/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map190/events/19/pages/0/35/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]、オマエはどうせ
+　きづいてなかっただろうけど
+> CONTEXT: Map284/events/3/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「オリビアは、
+　オマエのせいでくるしんでたんだ。
+> CONTEXT: Map284/events/3/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「だからオレは、
+　オマエがにくくて、
+> CONTEXT: Map284/events/3/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「オマエがうらやましかったんだ。
+> CONTEXT: Map284/events/3/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……必ず助け出せよ。
+> CONTEXT: Map284/events/3/pages/0/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お前のモノにするんだ。
+　しくじったら、承知しねえ。
+> CONTEXT: Map284/events/3/pages/0/59/Dialogue < UNTRANSLATED
+
+> END STRING

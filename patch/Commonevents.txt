@@ -1,0 +1,5909 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\b\\v[22]G\\f 手に入れた！
+> CONTEXT: Commonevents/10/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もうこれ以上夢は見れない
+> CONTEXT: Commonevents/13/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここでは使えない
+> CONTEXT: Commonevents/13/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ビトルを連れたまま
+それを使うことはできない
+> CONTEXT: Commonevents/13/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ここで\\n[1]のEPとTPは
+　回復できるみたいだけど、
+　私のMPは回復しないからね。
+> CONTEXT: Commonevents/15/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でも心配しないで。
+　呼び出さずに休ませてくれさえすれば、
+　少しずつ回復するから。
+> CONTEXT: Commonevents/15/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"encounting"
+> CONTEXT: Commonevents/315/9/InlineScript/1:29 < UNTRANSLATED
+> CONTEXT: Commonevents/16/15/InlineScript/7:29 < UNTRANSLATED
+> CONTEXT: Commonevents/16/36/InlineScript/7:29 < UNTRANSLATED
+> CONTEXT: Commonevents/17/15/InlineScript/7:29 < UNTRANSLATED
+> CONTEXT: Commonevents/17/36/InlineScript/7:29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+現在のマップ：\\v[1]
+> CONTEXT: Commonevents/21/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+レベル設定
+> CONTEXT: Commonevents/21/9/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+所持金設定
+> CONTEXT: Commonevents/21/9/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+全回復
+> CONTEXT: Commonevents/21/9/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ビトルを連れて
+そこに行くことはできない
+> CONTEXT: Commonevents/22/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+クリスティンを連れて
+そこに行くことはできない
+> CONTEXT: Commonevents/22/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]…
+　いっぱい話しかけてくれたわね。
+> CONTEXT: Commonevents/23/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私、\\n[1]に必要なのよね？
+> CONTEXT: Commonevents/23/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私、\\n[1]に必要なのよね？」
+> CONTEXT: Commonevents/23/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふっ、
+　言われなくたって分かってるけどね\\e[0]
+> CONTEXT: Commonevents/23/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そう…？
+　強がったりしなくていいのに。
+> CONTEXT: Commonevents/23/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もうすぐよ………
+　…分かるわ。
+> CONTEXT: Commonevents/23/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\c[4]グラム\\c[0]も力を取り戻しつつある……
+> CONTEXT: Commonevents/23/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「終わらせましょう、夢を。
+> CONTEXT: Commonevents/23/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どうしてかしら、ここ、
+　いるだけで楽しくてわくわくして……
+> CONTEXT: Commonevents/23/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…だけど、すごく嫌な気分……。
+> CONTEXT: Commonevents/23/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どんどん人が眠っていってるわ……
+> CONTEXT: Commonevents/23/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「みんな夜の国へ
+　連れ去られてるのよ。
+　早く助けなきゃ。
+> CONTEXT: Commonevents/23/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「魔法の準備ができたら、
+　いよいよ夜の国へ向かうのね…
+> CONTEXT: Commonevents/23/95/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]……、
+　\\n[1]は負けないわよね。
+　夢魔にも、\\dかけら\\dの力にも…。
+> CONTEXT: Commonevents/23/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「自分でグルッペンに来いとか
+　言っときながら……
+　一体どこ行ったのかしら？
+> CONTEXT: Commonevents/23/105/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「みんな…みんな眠ってるわ……
+> CONTEXT: Commonevents/23/113/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「はやく連れ戻さなきゃ…\\n[1]！
+> CONTEXT: Commonevents/23/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いいわね、みんなは
+　炎で暖を取ることができて…
+> CONTEXT: Commonevents/23/120/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私、どうやって暖まれば
+　いいのかしら…。
+> CONTEXT: Commonevents/23/122/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…寒い…………
+> CONTEXT: Commonevents/23/129/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…ん、何でもない……
+> CONTEXT: Commonevents/23/136/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/23/146/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…でも、さっき目が覚めてから、
+　\\n[1]ちょっと
+　変わった気がするわ。
+> CONTEXT: Commonevents/23/137/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/23/147/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「こんなところで
+　もたもたしたくないんだけどね……
+> CONTEXT: Commonevents/23/155/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「早く気になってること解決して、
+　魔王城へいきましょ！
+> CONTEXT: Commonevents/23/157/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あの男…
+　人間のクセに夢魔に味方するなんて
+　信じらんないわ！
+> CONTEXT: Commonevents/23/164/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あの子、ちゃんとついてきてるわね。
+> CONTEXT: Commonevents/23/173/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あんな純情な子を
+　こんなことに巻き込んで……
+　悪い男ね\\e[0]
+> CONTEXT: Commonevents/23/174/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あ～ぁ、
+　後先考えずに抱いたりしちゃって……
+> CONTEXT: Commonevents/23/179/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「後でどうなっても
+　知らないわよぉ\\e[0]
+> CONTEXT: Commonevents/23/181/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「参ったわね。
+　\\dかけら\\dのありかが分かったのはいいけど、
+　数日足止めされるなんて……
+> CONTEXT: Commonevents/23/196/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あのハグロフスって人、
+　とんだ親バカね。
+> CONTEXT: Commonevents/23/199/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ドゥヂチで賢王が言ってたのは、
+　あの『槍』の\\dかけら\\dのことだったのかしら？
+> CONTEXT: Commonevents/23/206/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でも、あの\\dかけら\\dは
+　リスヴェグに落ちたわけじゃないしね……。
+　もっと探してみましょ。
+> CONTEXT: Commonevents/23/208/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「はあ………
+　なかなか\\dかけら\\dが手に入らないわね……
+> CONTEXT: Commonevents/23/216/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……ずいぶん強引な人だったわね。
+> CONTEXT: Commonevents/23/223/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でも、夢魔がたくさんいるってことは、
+　もしかしたら\\dかけら\\dも
+　そこにあるかも知れないわね。
+> CONTEXT: Commonevents/23/224/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「がんばってね、\\n[1]\\dさん\\d\\e[0]
+> CONTEXT: Commonevents/23/227/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「異国かあ……
+　やっぱりグルッペンとは
+　ちょっと違う雰囲気ね。
+> CONTEXT: Commonevents/23/235/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何かワクワクしちゃうわ\\e[0]
+> CONTEXT: Commonevents/23/238/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「リスヴェグに\\dかけら\\dがあるって言っても、
+　ずいぶん広い国みたいね。
+> CONTEXT: Commonevents/23/241/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どこから探そうかしら。
+> CONTEXT: Commonevents/23/243/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……もしオリビアを無事助けられたら………
+　\\n[1]は旅を止めちゃう……？
+> CONTEXT: Commonevents/23/251/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……ううん、何でもないわ。
+> CONTEXT: Commonevents/23/253/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「リスヴェグか……
+　ずいぶん遠くまで飛んじゃったのね。
+> CONTEXT: Commonevents/23/259/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「海を渡らなきゃならないわね。
+　どうしようかしら？
+> CONTEXT: Commonevents/23/261/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ここまで来るのに
+　ずいぶんかかっちゃったわね。
+> CONTEXT: Commonevents/23/270/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でもまだ\\dかけら\\dの力は感じるわ。
+　先を急ぎましょう。
+> CONTEXT: Commonevents/23/272/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あの女も退かしたし、
+　早くドゥヂチの先へ進みましょ。
+> CONTEXT: Commonevents/23/276/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…それにしても、\\n[1]の口から
+　あんな甘い言葉が
+　出るなんてね～…\\e[0]
+> CONTEXT: Commonevents/23/278/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「さっき手に入れた\\c[4]夢の指輪\\c[0]……
+> CONTEXT: Commonevents/23/285/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ドラウムニョルへ持っていけば
+　何か起こりそうな気がするわよ。
+> CONTEXT: Commonevents/23/286/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「さ、早くドゥヂチへいきましょ！
+> CONTEXT: Commonevents/23/295/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]、どんなふうに
+　あの女を口説くのかしら……
+　楽しみね\\e[0]
+> CONTEXT: Commonevents/23/296/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……………何よ？
+> CONTEXT: Commonevents/23/305/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…結局こんなとこに来て……
+　おひとよしなんだから……
+> CONTEXT: Commonevents/23/311/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ローズニルの話してた人魚ってのは
+　きっと夢魔ね。
+> CONTEXT: Commonevents/23/323/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でもそんなの関係ないわ！
+　あんな奴に頼ることなんてないわよ！
+> CONTEXT: Commonevents/23/325/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あなたが一人でなんとかしてっ！
+> CONTEXT: Commonevents/23/327/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「さ、早くローズニルのところに行きましょ。
+> CONTEXT: Commonevents/23/333/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ねえ、
+　さっき道端に倒れてる人いなかった？
+> CONTEXT: Commonevents/23/340/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/23/378/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああいうの無視するのって、
+　どうかと思うわよ？
+> CONTEXT: Commonevents/23/342/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/23/380/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……ああいう女は、
+　カラダをどうせめても
+　感じてくれないのかもね。
+> CONTEXT: Commonevents/23/351/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あの無感動な心を
+　動かさなきゃダメなのよ。
+　きっと。
+> CONTEXT: Commonevents/23/354/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……別に曲聴きたかったわけでも
+　ないんだけどね。
+> CONTEXT: Commonevents/23/362/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「まあいいわ。
+　早くドゥヂチを目指しましょ。
+> CONTEXT: Commonevents/23/364/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/24/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あのローズニルって人、
+　どうしてあんなところに倒れてたのかしら？
+> CONTEXT: Commonevents/23/372/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/23/389/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……でも、
+　ちょっとカッコイイ人だったわね\\e[0]
+> CONTEXT: Commonevents/23/374/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/23/391/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\dかけら\\dには不思議な引力があって、
+　チカラのある人や場所に引かれるの。
+> CONTEXT: Commonevents/23/398/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私が\\n[1]に引かれたみたいにね。
+> CONTEXT: Commonevents/23/400/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ドゥヂチへ行ってみましょう。
+　あのお爺さんの言う通り、
+　そこにも\\dかけら\\dがあると思うわ。
+> CONTEXT: Commonevents/23/401/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「夢魔も自分たちが追い出されないように
+　先に\\dかけら\\dを見つけようとしてるはずよ。
+> CONTEXT: Commonevents/23/408/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「夢魔が何か目的を持って動いてるなら、
+　その先に\\dかけら\\dがあるかもしれないわね。
+> CONTEXT: Commonevents/23/410/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何だかおかしな町ね…。
+> CONTEXT: Commonevents/24/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何だったのかしら…今の………
+> CONTEXT: Commonevents/24/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「人間ったら、
+　\\dかけら\\dに名前なんてつけてたのね。
+　私は『使い魔』かしら？
+> CONTEXT: Commonevents/24/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……別にお礼なんて
+　期待してなかったけどね。
+> CONTEXT: Commonevents/24/19/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/24/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それより、あのドゥヂチの女を
+　どうにかしなくっちゃね。
+> CONTEXT: Commonevents/24/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お菓子かあ……
+　ちょっとおいしそうだったわね？\\e[0]
+> CONTEXT: Commonevents/24/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「こんなところに何か用？
+　今はドゥヂチの塔に行くのが先でしょ。
+> CONTEXT: Commonevents/24/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そう。 そうやって話すのよ。
+　なかなか飲み込みが早いじゃない\\e[0]
+> CONTEXT: Commonevents/24/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[4]夜の絵本\\c[0]から夢魔を呼び出しますか？
+> CONTEXT: Commonevents/28/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]続けて\\v[1]たちが襲ってきた！
+> CONTEXT: Commonevents/32/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]\\n[1]は不意をつかれた！
+> CONTEXT: Commonevents/34/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「なにその首輪……
+> CONTEXT: Commonevents/34/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…そう、犬って呼んでほしいのね？
+　犬になりたいのね？
+> CONTEXT: Commonevents/34/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「この犬！ 犬っ！！
+　あはははははっ\\e[0]
+> CONTEXT: Commonevents/34/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]\\v[1]のテンションが上がった！
+\\w[\\v[104]]\\n[1]の魅力が上がった！
+> CONTEXT: Commonevents/34/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[104]]フレッシュの効果！
+\\k
+> CONTEXT: Commonevents/35/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]全員のEPが \\b\\v[1]\\f 回復した！
+\\w[\\v[104]]全員のテンションが上がった！
+> CONTEXT: Commonevents/35/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[104]]モル・ロギンの効果！
+\\k
+> CONTEXT: Commonevents/35/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]\\n[1]のEPが \\b\\v[1]\\f 回復した！
+> CONTEXT: Commonevents/35/34/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/138/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[104]]\\n[1]は幻覚に攻められている！
+\\k
+> CONTEXT: Commonevents/35/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[104]]無数の触手が\\n[1]の全身を愛撫する！
+\\k
+> CONTEXT: Commonevents/35/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あたりに残る \\c[7]\\v[1]\\c[0] のムードが、
+何かの形になっていく……
+> CONTEXT: Commonevents/36/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[4]夢の指輪\\c[0]を手に入れた！
+> CONTEXT: Commonevents/36/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]の\\c[2]ストック\\c[0]が \\b1\\f増えた！
+> CONTEXT: Commonevents/36/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+* \\c[2]ストック\\c[0]がある状態では、
+  一度イかされても\\c[2]衰弱\\c[0]状態で復活して
+　再びバトルできるようになります。
+> CONTEXT: Commonevents/36/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+* ストックはイかされると減ってしまいますが、
+  宿屋に泊まることで回復します。
+> CONTEXT: Commonevents/36/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"しかし、\#{$m.name}は"
+> CONTEXT: Commonevents/50/0/InlineScript/8:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"しかし、\#{$m.name}たちは"
+> CONTEXT: Commonevents/50/0/InlineScript/9:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"すばやく回りこんできた！"
+> CONTEXT: Commonevents/50/0/InlineScript/10:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「逃がさないわよ……
+> CONTEXT: Commonevents/50/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「つ～かま～えたっ\\e[0]
+> CONTEXT: Commonevents/50/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「逃がさないわよ…\\e[0]
+> CONTEXT: Commonevents/50/25/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/50/58/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/50/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「逃げちゃ嫌ぁ……
+> CONTEXT: Commonevents/50/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「逃がしませんわよ……
+> CONTEXT: Commonevents/50/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「逃げられると思ってんの…？
+　\\w[\\v[104]]あはははっ\\e[0]
+> CONTEXT: Commonevents/50/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「やぁん、遊んでよぉ～っ
+> CONTEXT: Commonevents/50/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「ふふ…つかまえた…\\e[0]
+> CONTEXT: Commonevents/50/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「つ～かま～えたっ☆
+> CONTEXT: Commonevents/50/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「に…逃げないでよ……
+> CONTEXT: Commonevents/50/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「逃がさないニャ～ぁ\\e[0]
+> CONTEXT: Commonevents/50/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「ガルルルルル！
+> CONTEXT: Commonevents/50/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「逃げちゃ嫌……
+> CONTEXT: Commonevents/50/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+辺りに残る魔王の力が
+\\n[1]にそそぎ込む！
+> CONTEXT: Commonevents/52/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]のEPが\\b 327 \\f回復した！
+> CONTEXT: Commonevents/52/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]\\n[1]は\\n[28]に
+イかされてしまった……
+> CONTEXT: Commonevents/52/80/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/52/191/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]しかし、\\n[1]は強い意志で
+再び立ち上がった！
+> CONTEXT: Commonevents/52/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「やぁん、いっぱぁ～いっ♪
+> CONTEXT: Commonevents/52/199/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「ほらほら、
+\\w[\\v[104]]　もっともっと出してぇ～～っ\\w[\\v[105]]
+> CONTEXT: Commonevents/52/200/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「あははははっ♪
+> CONTEXT: Commonevents/52/202/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「ふふっ、イイわぁ……
+\\w[\\v[104]]　おいしい……\\e[0]
+> CONTEXT: Commonevents/52/206/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「でもまだよ……
+\\w[\\v[104]]　もっと…いっぱいちょうだぁいっ！
+> CONTEXT: Commonevents/52/208/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「あぁん、ステキっ……
+> CONTEXT: Commonevents/52/213/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「さぁ、もっと………\\e[0]
+> CONTEXT: Commonevents/52/214/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「あら、もうおしまい…？
+> CONTEXT: Commonevents/52/218/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「でも私、
+　まだイってませんわよ…？
+\\w[\\v[105]]　ふふっ\\e[0]
+> CONTEXT: Commonevents/52/220/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「それじゃ、後は連れ帰って……
+\\w[\\v[104]]　ふふふふっ\\e[0]
+> CONTEXT: Commonevents/52/225/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「あら、もうおしまい？
+> CONTEXT: Commonevents/52/232/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「でもあたし、
+　まだイってないわよ…？
+\\w[\\v[105]]　ふふ\\e[0]
+> CONTEXT: Commonevents/52/234/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「それじゃ、後は連れ帰って……
+\\w[\\v[104]]　ふふふふ…\\e[0]
+> CONTEXT: Commonevents/52/239/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「あはははっ、
+　もうイっちゃったぁ？\\w[\\v[105]]
+> CONTEXT: Commonevents/52/246/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「このまま搾りつくしてアゲル……
+　\\w[\\v[104]]あははははっ\\e[0]\\w[\\v[105]]
+> CONTEXT: Commonevents/52/248/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「え～っ、イっちゃったのぉ～？
+> CONTEXT: Commonevents/52/253/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「つまんなぁい、
+\\w[\\v[104]]　もっと遊んでぇ～～っ！\\w[\\v[105]]
+> CONTEXT: Commonevents/52/254/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「ああ…もっと……
+> CONTEXT: Commonevents/52/259/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「もっと…ちょうだい…\\e[0]
+> CONTEXT: Commonevents/52/260/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「きゃんっ、おいしぃ～っ☆
+> CONTEXT: None < UNUSED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「ほらほら、
+　もっともっと出してぇ～～っ\\w[\\v[105]]
+> CONTEXT: None < UNUSED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「あははははっ☆
+> CONTEXT: None < UNUSED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「ふふ…美味しい……\\e[0]
+> CONTEXT: Commonevents/52/264/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「さあ、
+　共に果てまでいきましょう…\\e[0]
+> CONTEXT: Commonevents/52/265/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「あぁん、もうイっちゃったの？
+> CONTEXT: Commonevents/52/270/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「でもまだまだ許さないけど…\\e[0]
+\\w[\\v[104]]　搾り尽くしてあげるわっ
+> CONTEXT: Commonevents/52/271/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「やだっ、
+　何勝手にイってんのよっ！？
+> CONTEXT: Commonevents/52/276/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「ま…まだ許さないんだからっ！
+> CONTEXT: Commonevents/52/278/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「アオオオォォォンッ\\e[0]
+> CONTEXT: Commonevents/52/289/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「ニャぁん、もうイっちゃったニャぁ？\\w[\\v[105]]
+> CONTEXT: Commonevents/52/293/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「でもボク、まだまだ
+\\w[\\v[104]]　遊び足りないニャ～ぁ\\e[0]\\w[\\v[105]]
+> CONTEXT: Commonevents/52/294/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「え…やだ……イっちゃった？
+> CONTEXT: Commonevents/52/299/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「あたしでイったのね…？
+\\w[\\v[104]]　……うれしいっ\\e[0]
+> CONTEXT: Commonevents/52/300/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「ふふ…
+　まだまだ終わらせないぜ……
+> CONTEXT: Commonevents/52/305/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「搾り尽くしてやるよ…
+\\w[\\v[104]]　ほらほらほらっ！
+> CONTEXT: Commonevents/52/307/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「勝った……？
+> CONTEXT: Commonevents/52/312/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「勝ったわ……！
+\\w[\\v[104]]　勇者に勝ったのよっ！
+> CONTEXT: Commonevents/52/313/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「ほ～ほっほっほっほっほ！
+> CONTEXT: Commonevents/52/315/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「あ…、イった……？
+> CONTEXT: Commonevents/52/319/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「えっと…勝った？
+\\w[\\v[104]]　勇者に勝ったのねっ！？
+> CONTEXT: Commonevents/52/320/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「ざまあみなさいっ！
+\\a[\\v[104]]　アタシたちの実力にかかれば、
+　アンタなんてこんなもんよっ！\\a[\\v[104]]
+> CONTEXT: Commonevents/52/322/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「あぅ～～っ\\\\e[0]
+\\w[\\v[104]]　イかせちゃったぁ～\\\\e[0]
+> CONTEXT: None < UNUSED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「ん～っと……
+\\w[\\v[104]]　これであたしたちの勝ちぃ？
+> CONTEXT: Commonevents/52/330/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「やったぁ～～っ\\\\e[0]
+\\a[\\v[104]]　あははぁっ\\\\e[0]
+> CONTEXT: None < UNUSED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「放出…確認……
+> CONTEXT: Commonevents/52/337/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「ご命令により、
+　限界までイかせ続けて差し上げます……\\a[\\v[105]]
+> CONTEXT: Commonevents/52/338/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「ふふっ、イっちゃったね\\e[0]
+> CONTEXT: Commonevents/52/343/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「これから一生、
+　オモチャにしてかわいがってあげるぅ\\e[0]\\a[\\v[105]]
+> CONTEXT: Commonevents/52/344/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「あはっ、いっぱい出たね～っ\\e[0]
+> CONTEXT: Commonevents/52/349/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「もっとサービスしてあげよっか\\e[0]
+> CONTEXT: Commonevents/52/350/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「気持ちよかった…？
+\\a[\\v[104]]　みんな、そうして溺れていくのよ……
+> CONTEXT: Commonevents/52/354/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「さあ、
+　もっと深くへ…快感の果てへ………\\a[\\v[105]]
+> CONTEXT: Commonevents/52/356/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「あン、イっちゃったのぉ？
+> CONTEXT: Commonevents/52/361/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「でもまだ
+　抜いてあげないからぁ\\e[0]
+> CONTEXT: Commonevents/52/363/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「でもまだ
+　終わらせてあげないからぁ\\e[0]
+> CONTEXT: Commonevents/52/367/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「あァンっ…すごいっ…\\w[\\v[104]]
+　こんな\\r[男,ひと]、はじめてっ……\\w[\\v[105]]
+> CONTEXT: Commonevents/52/375/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「ああっ、もっとおっ……\\e[0]
+> CONTEXT: Commonevents/52/377/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「あら………\\w[\\v[104]]
+　村の外の\\r[男,ひと]も
+　案外大したことないのね。\\w[\\v[105]]
+> CONTEXT: Commonevents/52/380/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「ま、いいわ。
+　\\w[\\v[104]]あなたもこの森で、
+　ずっと楽しみましょう…\\e[0]\\w[\\v[105]]
+> CONTEXT: Commonevents/52/383/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「あン…ッ、やあっ、
+\\w[\\v[104]]　もっと………\\e[0]
+> CONTEXT: Commonevents/52/392/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「まだ終わらせないわ……
+\\w[\\v[104]]　もっとぉっ！
+> CONTEXT: Commonevents/52/394/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「あはっ、
+\\w[\\v[104]]　もうイっちゃったぁ？\\w[\\v[105]]
+> CONTEXT: Commonevents/52/398/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「大したことなかったわね……
+\\w[\\v[104]]　搾り尽くしてアゲルわ\\e[0]\\w[\\v[105]]
+> CONTEXT: Commonevents/52/400/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「ふふ…\\e[0]
+\\w[\\v[104]]　これでやっとあなたも……\\w[\\v[105]]
+> CONTEXT: Commonevents/52/407/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「夢の…住人………\\w[\\v[105]]
+> CONTEXT: Commonevents/52/409/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「ほほ、これぞ美貌の秘訣…
+\\w[\\v[105]]　さあ、いただくよぉ\\e[0]\\w[\\v[105]]
+> CONTEXT: Commonevents/52/413/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「ああ、あなたも………
+\\w[\\v[104]]　ダメだったのね…せめて……\\w[\\v[105]]
+> CONTEXT: Commonevents/52/418/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「気持ちよく…いかせてあげるわ…\\w[\\v[105]]
+> CONTEXT: Commonevents/52/420/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「\\n[1]！
+\\w[\\v[104]]　ああ……っ！\\w[\\v[105]]
+> CONTEXT: Commonevents/52/425/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「\\n[1]のが…あたしの…中に……\\w[\\v[105]]
+> CONTEXT: Commonevents/52/427/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「ああっ、とまんない……っ
+\\w[\\v[104]]　\\n[1]…\\n[1]……ッ！\\w[\\v[105]]
+> CONTEXT: Commonevents/52/428/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/52/433/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「ぜんぶ…ちょうだい……っ！\\w[\\v[105]]
+> CONTEXT: Commonevents/52/430/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/52/435/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[104]]アリスは\\c[3]スペードのエース\\c[0]を使った！
+\\k
+> CONTEXT: Commonevents/100/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]アリスの精力が　\\b\\v[1]\\f 上がった！
+\\w[\\v[104]]アリスのEPが \\b\\v[2]\\f 回復した！
+> CONTEXT: Commonevents/100/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[104]]アリスは\\c[3]ハートのクイーン\\c[0]を使った！
+\\k
+> CONTEXT: Commonevents/100/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]アリスの魅力が　\\b\\v[1]\\f 上がった！
+\\w[\\v[104]]アリスのEPが \\b\\v[2]\\f 回復した！
+> CONTEXT: Commonevents/100/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[104]]アリスは\\c[3]ダイアのキング\\c[0]を使った！
+\\k
+> CONTEXT: Commonevents/100/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]アリスの守りが　\\b\\v[1]\\f 上がった！
+\\w[\\v[104]]アリスのEPが \\b\\v[2]\\f 回復した！
+> CONTEXT: Commonevents/100/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ね、アタシきれいでしょ？
+> CONTEXT: Commonevents/104/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「今まで知らなかったのよ。
+　アタシがこんなにきれいなんて。
+　アタシにこんなことができるなんて
+> CONTEXT: None < UNUSED
+
+> END STRING
+
+> BEGIN STRING
+「男の子に話しかけられるのさえ
+　こわかったのに………
+> CONTEXT: Commonevents/104/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ねえ、本当に夢みたいよ。
+> CONTEXT: Commonevents/104/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ほら…わかるでしょ？
+　目の前にあるのよ。
+> CONTEXT: Commonevents/104/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\d目の前に全てがあるのよ\\d。
+　ほら………
+> CONTEXT: Commonevents/104/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ほら…きれいでしょ？
+　目をそらさないで。
+> CONTEXT: Commonevents/104/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いいのよ。
+　あなたの好きなようにして…\\e[0]
+> CONTEXT: Commonevents/104/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔王のかけらが微かに反応している……
+\\c[4]夢の指輪\\c[0]を手に入れられるかも知れない
+> CONTEXT: Commonevents/109/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"名前："
+> CONTEXT: Commonevents/110/1/InlineScript/1:3 < UNTRANSLATED
+> CONTEXT: Commonevents/110/13/InlineScript/1:3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"　レベル："
+> CONTEXT: Commonevents/110/1/InlineScript/2:1 < UNTRANSLATED
+> CONTEXT: Commonevents/110/13/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"　精力："
+> CONTEXT: Commonevents/110/1/InlineScript/3:1 < UNTRANSLATED
+> CONTEXT: Commonevents/110/13/InlineScript/3:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"　技力："
+> CONTEXT: Commonevents/110/1/InlineScript/4:1 < UNTRANSLATED
+> CONTEXT: Commonevents/110/13/InlineScript/4:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"　素早さ："
+> CONTEXT: Commonevents/110/1/InlineScript/5:1 < UNTRANSLATED
+> CONTEXT: Commonevents/110/13/InlineScript/5:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"　精神力："
+> CONTEXT: Commonevents/110/1/InlineScript/6:1 < UNTRANSLATED
+> CONTEXT: Commonevents/110/13/InlineScript/6:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"　魅力："
+> CONTEXT: Commonevents/110/1/InlineScript/7:1 < UNTRANSLATED
+> CONTEXT: Commonevents/110/13/InlineScript/7:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"　攻撃："
+> CONTEXT: Commonevents/110/1/InlineScript/8:1 < UNTRANSLATED
+> CONTEXT: Commonevents/110/13/InlineScript/8:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"　防御："
+> CONTEXT: Commonevents/110/1/InlineScript/9:1 < UNTRANSLATED
+> CONTEXT: Commonevents/110/13/InlineScript/9:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"　精神防御："
+> CONTEXT: Commonevents/110/1/InlineScript/10:1 < UNTRANSLATED
+> CONTEXT: Commonevents/110/13/InlineScript/10:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"　タイプ："
+> CONTEXT: Commonevents/110/1/InlineScript/11:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"　性格："
+> CONTEXT: Commonevents/110/1/InlineScript/12:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ムードポイント："
+> CONTEXT: Commonevents/110/23/InlineScript/1:3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]\\n[27]は話を聞ける状態じゃない！
+> CONTEXT: Commonevents/111/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]\\n[28]のEPが \\b\\v[1]\\f 回復した！
+\\w[\\v[105]]\\n[28]のテンションが上がった！
+> CONTEXT: Commonevents/112/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"装備なし"
+> CONTEXT: Commonevents/115/1/InlineScript/6:24 < UNTRANSLATED
+> CONTEXT: Commonevents/115/1/InlineScript/11:24 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どちらの装飾品をチェンジしますか？
+> CONTEXT: Commonevents/115/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\v[2]
+> CONTEXT: Commonevents/115/14/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/500/45/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/500/58/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/500/73/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]ルヴィッサは\\c[3]\\v[2]\\c[0]を装備した！
+> CONTEXT: Commonevents/116/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]ルヴィッサは\\c[3]\\v[1]\\c[0]を外し、
+\\c[3]\\v[2]\\c[0]を装備した！
+> CONTEXT: Commonevents/116/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]\\n[1]のEPが回復しなくなった！
+> CONTEXT: Commonevents/120/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]あたりが官能的な香りにつつまれた！
+> CONTEXT: Commonevents/121/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]\\n[27]のMPを \\b\\v[1]\\f 奪い取った！
+> CONTEXT: Commonevents/123/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]\\n[27]には効果がなかった！
+> CONTEXT: Commonevents/123/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]\\n[28]のEPが \\b\\v[1]\\f 回復した！
+> CONTEXT: Commonevents/124/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]\\n[1]の\\c[3]\\v[1]\\c[0]は
+オモチャになってしまった！\\w[\\v[104]]
+\\w[\\v[105]]\\n[1]はアイテムを使えなかった！
+> CONTEXT: Commonevents/125/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]\\n[1]のストックが \\b1\\f 減ってしまった！
+> CONTEXT: Commonevents/127/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「さァ……、
+　\\w[\\v[104]]注いで……\\e[0]
+> CONTEXT: Commonevents/128/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[104]]\\n[1]の精力が吸い取られる！
+\\k
+> CONTEXT: Commonevents/128/17/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/129/15/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/130/17/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/163/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]\\b\\v[1]\\f の精力をエストに吸い取られた！
+> CONTEXT: Commonevents/128/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]\\b\\v[1]\\f の精力を\\n[27]に吸い取られた！
+> CONTEXT: Commonevents/129/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「ねェ………、
+　\\w[\\v[104]]ちょうだい………\\e[0]
+> CONTEXT: Commonevents/130/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]\\b\\v[1]\\f の精力をマーシャに吸い取られた！
+> CONTEXT: Commonevents/130/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"str"
+> CONTEXT: Commonevents/131/0/InlineScript/4:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"dex"
+> CONTEXT: Commonevents/131/0/InlineScript/7:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"agi"
+> CONTEXT: Commonevents/131/0/InlineScript/10:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]ミミックの精力が
+\\n[1]と同じになった！
+> CONTEXT: Commonevents/131/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]ミミックの技巧が
+\\n[1]と同じになった！
+> CONTEXT: Commonevents/131/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]ミミックの素早さが
+\\n[1]と同じになった！
+> CONTEXT: Commonevents/131/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「ね、きてぇ……\\e[0]
+> CONTEXT: Commonevents/132/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おい、カタくシて欲しいだろ？
+> CONTEXT: Commonevents/133/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「カタくシて欲しいだろ？」
+> CONTEXT: Commonevents/133/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふ……
+　そぉらっ！
+> CONTEXT: Commonevents/133/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あぁ！？
+　つべこべ言ってないでくらいなっ！！
+> CONTEXT: Commonevents/133/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ねえ、フニャフニャにしてあげよっかぁ？
+> CONTEXT: Commonevents/134/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「フニャフニャにしてあげよっかぁ？」
+> CONTEXT: Commonevents/134/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んふふっ\\e[0]
+> CONTEXT: Commonevents/134/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「遠慮しなくていいのにぃ～
+> CONTEXT: Commonevents/134/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]しかし、\\n[27]は既にハダカだった！
+> CONTEXT: Commonevents/135/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]不思議な風が
+\\n[27]の服を脱がせてしまった！
+\\k
+> CONTEXT: Commonevents/135/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]\\n[1]はハダカになった！
+> CONTEXT: Commonevents/135/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]\\n[28]は恍惚となってしまった！
+> CONTEXT: Commonevents/136/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]\\n[1]のテンションが奪われた！
+> CONTEXT: Commonevents/139/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「リズ・ラズ！ ロッコ・バロッコ！
+　準備はいい！？
+> CONTEXT: Commonevents/140/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「例のやつ、いくわよっ！
+> CONTEXT: Commonevents/140/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「さあ！
+　やっておしまいっ！
+> CONTEXT: Commonevents/140/28/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/141/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「きゃははははっ♪
+> CONTEXT: Commonevents/140/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ロッコ…なに遊んでるのよ……
+> CONTEXT: Commonevents/140/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あぅ！
+　ごめん～～っ！
+> CONTEXT: Commonevents/140/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あのね…リズ……
+> CONTEXT: Commonevents/140/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「せっかくアタシがこうしてるんだから、
+　もっと他にやること……
+> CONTEXT: Commonevents/140/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「え？
+　……あ！
+> CONTEXT: Commonevents/140/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ご、ごめん、エス姉……
+> CONTEXT: Commonevents/140/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あぁっ…も、もう限界………
+> CONTEXT: Commonevents/140/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]エスプラーナは\\n[1]を離した！
+\\k
+> CONTEXT: Commonevents/140/53/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/141/56/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/142/142/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]\\n[1]は解放された！
+> CONTEXT: Commonevents/140/58/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/141/61/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/142/147/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「リズ・ラズ！ ロッコ・バロッコ！
+　今度こそいくわよ！？
+> CONTEXT: Commonevents/141/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ん……ちゅぱ………\\e[0]
+> CONTEXT: Commonevents/141/33/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/142/56/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/142/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んふ……\\e[0]
+　どぉ……？
+> CONTEXT: Commonevents/141/38/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/142/61/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/142/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふっ、もうイきそうね？
+> CONTEXT: Commonevents/141/45/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/142/68/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/142/94/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/142/122/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「リズ・ラズ！ ロッコ・バロッコ！
+　あと一息よっ！
+> CONTEXT: Commonevents/141/46/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/142/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「まだイかないの？
+　…しぶといわね……
+> CONTEXT: Commonevents/141/51/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/142/74/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/142/100/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/142/128/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「リズ・ラズ！ ロッコ・バロッコ！
+　一気にいくわよっ！
+> CONTEXT: Commonevents/142/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「リズ・ラズ！
+　一気にいくわよっ！
+> CONTEXT: Commonevents/142/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ロッコ・バロッコ！
+　一気にいくわよっ！
+> CONTEXT: Commonevents/142/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「さあ！
+　トドメよっ！
+> CONTEXT: Commonevents/142/50/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/142/81/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/142/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「リズ・ラズ！
+　あと一息よっ！
+> CONTEXT: Commonevents/142/95/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ロッコ・バロッコ！
+　あと一息よっ！
+> CONTEXT: Commonevents/142/123/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あら…アタシ一人……？
+> CONTEXT: Commonevents/142/135/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「あははっ、
+\\w[\\v[104]]　ねぇ、女王様って呼んでごらんよ……
+\\w[\\v[105]]　あははははっ\\e[0]
+> CONTEXT: Commonevents/143/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/144/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/145/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/146/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/147/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「ふふ、手でされるのが好きなの？
+> CONTEXT: Commonevents/143/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「このまま、アタシの手の中で
+　イかせてあげる…\\e[0]\\w[\\v[104]]
+> CONTEXT: Commonevents/143/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「私の手…、すべすべでしょう？
+> CONTEXT: Commonevents/143/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「ふふ、
+\\w[\\v[104]]　気持ちよくいかせて差し上げますわ\\e[0]
+> CONTEXT: Commonevents/143/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「どぉ？
+\\w[\\v[104]]　私の手、気持ちいいでしょ。
+> CONTEXT: Commonevents/143/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「たくさん弄ってあげる…\\e[0]
+> CONTEXT: Commonevents/143/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「\\n[1]、こういうの……
+\\w[\\v[104]]　好きなの…？
+> CONTEXT: Commonevents/143/29/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/144/29/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/145/23/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/146/34/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/147/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「コレがイイんでしょ？
+\\w[\\v[104]]　知ってるんだから\\e[0]
+> CONTEXT: Commonevents/143/34/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/144/34/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/145/28/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/146/39/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/147/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「…知ってるのよ……
+> CONTEXT: Commonevents/143/39/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/144/39/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/145/33/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/146/44/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/147/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「私が…一番知ってるのよ！
+\\w[\\v[104]]　あなたのこと！
+> CONTEXT: Commonevents/143/40/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/144/40/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/145/34/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/146/45/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/147/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「ほら…ほら………
+> CONTEXT: Commonevents/143/42/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/144/42/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/145/36/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/146/47/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/147/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「ほらほらほらほらっ！
+> CONTEXT: Commonevents/143/43/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/144/43/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/145/37/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/146/48/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/147/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「ちゅ……くちゅ………\\e[0]
+> CONTEXT: Commonevents/144/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「おっきくて舐めがいあるわぁ…\\e[0]
+\\w[\\v[104]]　……ちゅぱ………
+> CONTEXT: Commonevents/144/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「ん……ちゅ………
+\\w[\\v[104]]　…ちゅぱ……\\e[0]
+> CONTEXT: Commonevents/144/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「ニャぁ……
+\\w[\\v[104]]　ボクのお口、そんなにイイかニャぁ～？
+> CONTEXT: Commonevents/144/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「あン、おいしぃ～\\e[0]
+> CONTEXT: Commonevents/144/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「もっとぺろぺろさせてぇ～っ\\e[0]
+> CONTEXT: Commonevents/144/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「ふふ…ずっとあたしの
+　胸ばっかり見てたでしょ？\\w[\\v[104]]
+> CONTEXT: Commonevents/145/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「あらあら、あたしのおっぱい
+　そんなに気に入っちゃった？\\w[\\v[104]]
+> CONTEXT: Commonevents/145/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「吸わせてあげようか？
+\\w[\\v[104]]　ふふ…\\e[0]
+> CONTEXT: Commonevents/145/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「こんなので気持ちいいの？
+\\w[\\v[104]]　変態さんねえ…\\e[0]
+> CONTEXT: Commonevents/146/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「…………
+\\w[\\v[104]]　足、きもちいいの……？
+> CONTEXT: Commonevents/146/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「あははっ、
+\\w[\\v[104]]　足でヤられて気持ちいいの？
+> CONTEXT: Commonevents/146/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「まるでバカみたいね…
+\\w[\\v[104]]　あはははははっ\\e[0]
+> CONTEXT: Commonevents/146/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「や、やだ…あたしの足で…
+\\w[\\v[104]]　そんなに気持ちよさそうに……
+> CONTEXT: Commonevents/146/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「この変態…変態！ 変態ッ！！
+> CONTEXT: Commonevents/146/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「ほら、お舐めなさい\\e[0]
+> CONTEXT: Commonevents/147/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「アタシのアソコで窒息しちゃいなっ！
+\\w[\\v[104]]　あははははっ\\e[0]
+> CONTEXT: Commonevents/147/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「ほら、舐めてもいいのよ？
+\\w[\\v[104]]　それともニオイかぎたい？
+> CONTEXT: Commonevents/147/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「ふふふふっ\\e[0]
+> CONTEXT: Commonevents/147/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]\\n[28]は\\v[1]をうみだした！
+> CONTEXT: Commonevents/148/9/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/148/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]どこからか\\v[1]が現れた！
+> CONTEXT: Commonevents/148/12/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/148/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]\\n[28]は\\v[1]を呼び出した！
+> CONTEXT: Commonevents/149/9/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/152/8/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/152/19/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/157/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「問題ニャぁ～～
+　\\b10\\f 秒以内に答えるニャっ！
+> CONTEXT: Commonevents/150/8/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/42/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/144/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/337/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[60]「\\b5\\f × \\b13\\f － \\b9\\f は幾つだニャ？
+> CONTEXT: Commonevents/150/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\b5\\f ×\\b13\\f － \\b9\\f は幾つだニャ？」
+> CONTEXT: Commonevents/150/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ぶ～～～っ！
+　時間切れだニャ～ぁ
+> CONTEXT: Commonevents/150/19/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/53/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/87/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/121/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/157/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/176/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/190/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/221/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/240/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/259/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/285/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/304/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/323/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/349/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/368/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/382/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/413/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/432/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/446/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/477/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/496/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/510/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ぶ～～～っ！
+　ハズレだニャ～ぁ
+> CONTEXT: Commonevents/150/31/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/65/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/99/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/133/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/165/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/198/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/229/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/248/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/293/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/312/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/357/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/390/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/421/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/454/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/485/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/518/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[60]「\\b36\\f ÷ \\b6\\f ＋ \\b39\\f は幾つだニャ？
+> CONTEXT: Commonevents/150/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\b36\\f ÷ \\b6\\f ＋ \\b39\\f は幾つだニャ？」
+> CONTEXT: Commonevents/150/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「問題ニャぁ～～
+　\\b5\\f 秒以内に答えるニャっ！
+> CONTEXT: Commonevents/150/76/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/110/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/209/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/273/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/401/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/150/465/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[60]「\\b17\\f ＋ \\b21\\f × \\b0\\f は幾つだニャ？
+> CONTEXT: Commonevents/150/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\b17\\f ＋ \\b21\\f × \\b0\\f は幾つだニャ？」
+> CONTEXT: Commonevents/150/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[60]「\\b3\\f × \\b7\\f × \\b0\\f ÷ \\b3\\f は幾つだニャ？
+> CONTEXT: Commonevents/150/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\b3\\f × \\b7\\f × \\b0\\f ÷ \\b3\\f は幾つだニャ？」
+> CONTEXT: Commonevents/150/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[100]「次のうち、シッポの数が一番多いのは
+　どの組み合わせかニャ？
+> CONTEXT: Commonevents/150/146/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「シッポの数が一番多いのは？」
+> CONTEXT: Commonevents/150/150/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/153/153/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サキュバス + インプ + リザードマン
+> CONTEXT: Commonevents/150/151/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エンプーサ + ネコマタ + シルフ
+> CONTEXT: Commonevents/150/151/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ラミア + ハーピー + ワーウルフ
+> CONTEXT: Commonevents/150/151/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[60]「次のうち、弱点が胸じゃないのは誰かニャ？
+> CONTEXT: Commonevents/150/211/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「弱点が胸じゃないのは誰かニャ？」
+> CONTEXT: Commonevents/150/214/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ラミア
+> CONTEXT: Commonevents/150/215/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エンプーサ
+> CONTEXT: Commonevents/150/215/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ドライアド
+> CONTEXT: Commonevents/150/215/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[60]「次のうち、素早さを上げる魔法はどれかニャ？
+> CONTEXT: Commonevents/150/275/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「素早さを上げる魔法はどれかニャ？」
+> CONTEXT: Commonevents/150/278/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[60]「グルッペンの王サマは何て名前かニャ？
+> CONTEXT: Commonevents/150/339/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「グルッペンの王サマは何て名前かニャ？」
+> CONTEXT: Commonevents/150/342/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マグナス・グルッペンXIV世
+> CONTEXT: Commonevents/150/343/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マグナス・ローゼンクランツ
+> CONTEXT: Commonevents/150/343/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マグナス・フォルミダーグ
+> CONTEXT: Commonevents/150/343/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[60]「次のうち、魅力を下げる魔法はどれかニャ？
+> CONTEXT: Commonevents/150/403/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「魅力を下げる魔法はどれかニャ？」
+> CONTEXT: Commonevents/150/406/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[60]「次のうち、羽を持ってないのは誰かニャ？
+> CONTEXT: Commonevents/150/467/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「羽を持ってないのは誰かニャ？」
+> CONTEXT: Commonevents/150/470/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+インプ
+> CONTEXT: Commonevents/150/471/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シルフ
+> CONTEXT: Commonevents/150/471/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴィレッジャ
+> CONTEXT: Commonevents/150/471/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/153/474/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ニャ～～、アタリだニャ～っ\\e[0]
+> CONTEXT: Commonevents/150/533/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ごほぉびにコレあげるニャぁ\\e[0]
+> CONTEXT: Commonevents/150/537/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ごほぉびに
+　キモチよくしてあげるニャぁ\\e[0]
+> CONTEXT: Commonevents/150/556/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「答えられなかった子は
+　食べちゃうニャぁ～～\\e[0]
+> CONTEXT: Commonevents/150/567/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「血圧上昇中…レベルE突破確認。
+> CONTEXT: Commonevents/151/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ご主人様、フィニッシュに移ります。
+> CONTEXT: Commonevents/151/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Boss-Clala_SP3"
+> CONTEXT: Commonevents/151/10/InlineScript/1:19 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Boss-Clala_N"
+> CONTEXT: Commonevents/151/14/InlineScript/1:19 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Boss-Clala_SP1"
+> CONTEXT: Commonevents/151/19/InlineScript/1:19 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「オプション…装着…
+　いつもので参ります。
+> CONTEXT: Commonevents/151/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Boss-Clala_SP2"
+> CONTEXT: Commonevents/151/27/InlineScript/1:19 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Boss-Clala"
+> CONTEXT: Commonevents/151/31/InlineScript/1:19 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「興奮度低……
+　足りないのかしら……
+> CONTEXT: Commonevents/151/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「じゃあ問題～っ！
+　\\b10\\f 秒以内に答えてね\\e[0]
+> CONTEXT: Commonevents/153/8/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/153/43/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/153/147/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/153/340/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[60]「\\b5\\f × \\b13\\f － \\b9\\f は幾つ？
+> CONTEXT: Commonevents/153/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\b5\\f ×\\b13\\f － \\b9\\f は幾つ？」
+> CONTEXT: Commonevents/153/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ぶ～～～っ！
+　時間切れぇ～～っ！
+> CONTEXT: Commonevents/153/19/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/153/54/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/153/89/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/153/124/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/153/160/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/153/179/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/153/193/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/153/224/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/153/238/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/153/257/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/153/288/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/153/307/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/153/326/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/153/352/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/153/371/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/153/385/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/153/416/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/153/435/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/153/449/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/153/480/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/153/499/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/153/513/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ぶ～～～っ！
+　ハズレぇ～～っ！
+> CONTEXT: Commonevents/153/31/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/153/66/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/153/101/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/153/136/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/153/168/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/153/201/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/153/246/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/153/265/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/153/296/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/153/315/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/153/360/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/153/393/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/153/424/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/153/457/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/153/488/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/153/521/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[60]「\\b36\\f ÷ \\b6\\f ＋ \\b39\\f は幾つ？
+> CONTEXT: Commonevents/153/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\b36\\f ÷ \\b6\\f ＋ \\b39\\f は幾つ？」
+> CONTEXT: Commonevents/153/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「じゃあ問題～っ！
+　\\b5\\f 秒以内に答えてね\\e[0]
+> CONTEXT: Commonevents/153/78/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/153/113/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/153/212/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/153/276/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/153/404/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/153/468/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[60]「\\b17\\f ＋ \\b21\\f × \\b0\\f は幾つ？
+> CONTEXT: Commonevents/153/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\b17\\f ＋ \\b21\\f × \\b0\\f は幾つ？」
+> CONTEXT: Commonevents/153/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[60]「\\b3\\f × \\b7\\f × \\b0\\f ÷ \\b3\\f は幾つ？
+> CONTEXT: Commonevents/153/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\b3\\f × \\b7\\f × \\b0\\f ÷ \\b3\\f は幾つ？」
+> CONTEXT: Commonevents/153/118/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[100]「次のうち、シッポの数が一番多いのは
+　どの組み合わせ？
+> CONTEXT: Commonevents/153/149/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アスタロテ + エンジェル + ラミア
+> CONTEXT: Commonevents/153/154/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キンナリー + ネコマタ + アルプ
+> CONTEXT: Commonevents/153/154/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+メリュジーヌ + ハーピー + ワーウルフ
+> CONTEXT: Commonevents/153/154/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[60]「次のうち、弱点がお尻じゃないのは誰？
+> CONTEXT: Commonevents/153/214/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「弱点がお尻じゃないのは誰？」
+> CONTEXT: Commonevents/153/217/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キンナリー
+> CONTEXT: Commonevents/153/218/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アルラウネ
+> CONTEXT: Commonevents/153/218/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エルズリー
+> CONTEXT: Commonevents/153/218/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[60]「次のうち、魅力を上げる魔法はどれ？
+> CONTEXT: Commonevents/153/278/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「魅力を上げる魔法はどれ？」
+> CONTEXT: Commonevents/153/281/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[60]「リスヴェグの統主って何て名前？
+> CONTEXT: Commonevents/153/342/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「リスヴェグの統主って何て名前？」
+> CONTEXT: Commonevents/153/345/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハクロフズ・バーンズ
+> CONTEXT: Commonevents/153/346/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハグロフス・バーンズ
+> CONTEXT: Commonevents/153/346/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハクロブス・バーンズ
+> CONTEXT: Commonevents/153/346/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[60]「次のうち、魅力を下げる魔法はどれ？
+> CONTEXT: Commonevents/153/406/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「魅力を下げる魔法はどれ？」
+> CONTEXT: Commonevents/153/409/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[60]「次のうち、羽を持ってないのは誰？
+> CONTEXT: Commonevents/153/470/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「羽を持ってないのは誰？」
+> CONTEXT: Commonevents/153/473/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バンシー
+> CONTEXT: Commonevents/153/474/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アルプ
+> CONTEXT: Commonevents/153/474/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「わぁ、アタリぃ～っ\\e[0]
+> CONTEXT: Commonevents/153/536/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ごほぉびにコレあげるぅ\\e[0]
+> CONTEXT: Commonevents/153/540/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ごほぉびに
+　キモチよくしてあげるぅ\\e[0]
+> CONTEXT: Commonevents/153/559/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「答えられなかった子は
+　食べちゃうぞぉ～～\\e[0]
+> CONTEXT: Commonevents/153/570/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]\\n[1]のテンションが下がった！
+\\w[\\v[104]]ムードが下がった！
+> CONTEXT: Commonevents/154/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]\\n[1]のテクニックが制限された！
+> CONTEXT: Commonevents/155/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]しかし何も起こらなかった！
+> CONTEXT: Commonevents/157/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/157/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]\\n[1]のテンションが下がった！
+\\w[\\v[104]]\\n[2]のMPが \\b\\v[1]\\f 回復した！
+> CONTEXT: Commonevents/159/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]\\n[2]のMPが \\b\\v[1]\\f 奪い取られた！
+> CONTEXT: Commonevents/162/8/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/168/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]\\b\\v[1]\\f の精力を吸い取られた！
+> CONTEXT: Commonevents/163/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]\\n[28]は別の夢魔に姿を変えた！
+> CONTEXT: Commonevents/167/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あン……あ…あンっ、
+　ああぁあンっ！
+> CONTEXT: Commonevents/170/10/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/170/24/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/170/94/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/170/125/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/170/188/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/170/204/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/170/219/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/170/233/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/170/251/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/170/266/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]\\n[27]は話を聞いていない！
+> CONTEXT: Commonevents/170/13/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/170/27/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/170/97/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/170/128/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/170/191/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/170/207/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/170/222/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/170/236/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/170/254/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/170/269/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/171/15/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/172/15/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/173/15/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/174/15/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/175/15/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/176/27/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/177/15/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/178/13/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/179/15/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/180/28/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/181/14/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/182/15/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/183/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…そんな言葉で
+　惑わされるとでも思って？
+> CONTEXT: Commonevents/170/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「え？ やだ、
+　アタシに言ってんの？
+> CONTEXT: Commonevents/170/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ええっ、そんなこと言われたの初めて……
+　どうしよう……\\e[0]
+> CONTEXT: Commonevents/170/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「や……もっと…………
+　もっとぉ………っ！
+> CONTEXT: Commonevents/170/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「え……………？
+　え？ え？
+> CONTEXT: Commonevents/170/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「なっ、
+　何言い出すのよいきなりっ！
+> CONTEXT: Commonevents/170/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]セルマは急に恥ずかしがりはじめた！
+> CONTEXT: Commonevents/170/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やだ………それ………
+　アタシに言ってるの……？
+> CONTEXT: Commonevents/170/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そんな…………
+　そんなこと…………
+> CONTEXT: Commonevents/170/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]セルマの警戒が解けた！
+> CONTEXT: Commonevents/170/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Boss-SelmaB"
+> CONTEXT: Commonevents/170/67/InlineScript/1:39 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あァ……もう……………
+> CONTEXT: Commonevents/170/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「好きに……
+　して……………
+> CONTEXT: Commonevents/170/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…言葉はもう…たくさん……
+> CONTEXT: Commonevents/170/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]フレデリカは話を聞く気がない！
+> CONTEXT: Commonevents/170/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…理解不能……
+> CONTEXT: Commonevents/170/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]クララには効果がなかった！
+> CONTEXT: Commonevents/170/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ナンだよ、命乞いか？
+> CONTEXT: Commonevents/170/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「命乞いか？」
+> CONTEXT: Commonevents/170/103/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あはははっ！
+　動けないのに必死でもがく奴を
+　ヤるのがいいんだよ\\e[0]
+> CONTEXT: Commonevents/170/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「へっ、生意気言うぜ。
+> CONTEXT: Commonevents/170/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「なぁにぃ？
+　アタシを口説きたいのぉ？
+> CONTEXT: Commonevents/170/132/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「アタシを口説きたいのぉ？」
+> CONTEXT: Commonevents/170/135/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やん、かわいぃ～\\e[0]
+> CONTEXT: Commonevents/170/139/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やん、生意気ぃ。
+> CONTEXT: Commonevents/170/145/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あぁンッ……！
+　\\n[1]さん…\\n[1]さん……ッ！
+> CONTEXT: Commonevents/170/154/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あぁっ………、
+　\\n[1]さんッ……\\e[0]
+> CONTEXT: Commonevents/170/160/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…ずっと…………
+> CONTEXT: Commonevents/170/173/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ずっと、私にも…って
+　思ってたのに……
+> CONTEXT: Commonevents/170/174/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何よ今ごろ……しらないっ！
+> CONTEXT: Commonevents/170/176/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]ウィル・ルヴィッサは話を聞く気がない！
+> CONTEXT: Commonevents/170/182/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふ………
+　ステキなこと言うように
+　なったじゃない\\e[0]
+> CONTEXT: Commonevents/170/195/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あら………
+　ステキなこと言ってくれるのね\\e[0]
+> CONTEXT: Commonevents/170/211/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]…うれしい……
+> CONTEXT: Commonevents/170/226/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…いままで、いろんな男のひとが
+　あたしにそういうこと言ってきたわ。
+> CONTEXT: Commonevents/170/240/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でも、こわくて逃げちゃってたの…
+　だけど今なら……
+> CONTEXT: Commonevents/170/242/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「今なら、素直に受け止められるわ…\\e[0]
+> CONTEXT: Commonevents/170/244/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あはっ、
+　ウソでも嬉しいわよ♪
+> CONTEXT: Commonevents/170/258/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ほほっ、
+　口のきき方は心得てるみたいだねぇ\\e[0]
+> CONTEXT: Commonevents/170/273/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あぁンッ……！
+　いい…いいわぁっ！
+> CONTEXT: Commonevents/170/281/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああ、そうよ、もっと……
+> CONTEXT: Commonevents/170/288/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もっと…私を熱くして……っ！
+> CONTEXT: Commonevents/170/289/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「素敵……、
+　もっと……！
+> CONTEXT: Commonevents/170/295/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああ…っ\\e[0]
+> CONTEXT: Commonevents/170/302/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あとは…お願い……
+> CONTEXT: Commonevents/170/304/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もっと……
+　このカラダに…！
+> CONTEXT: Commonevents/170/305/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いいえ…もう……、
+> CONTEXT: Commonevents/170/311/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あとは……
+　このカラダに………
+> CONTEXT: Commonevents/170/312/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あン、素敵……\\e[0]
+> CONTEXT: Commonevents/171/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ね、もっとぉ～～\\e[0]
+> CONTEXT: Commonevents/171/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あン、あ…あンっ！
+　あぁぁんっ\\e[0]
+> CONTEXT: Commonevents/171/12/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/172/12/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/173/12/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/174/12/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/175/12/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/176/24/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/177/12/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/180/25/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/181/11/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/182/12/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/183/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あはっ、いきなり何言い出すのぉ？
+> CONTEXT: Commonevents/171/26/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/171/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「黙って気持ちよく
+　されちゃってなさい、ね\\e[0]
+> CONTEXT: Commonevents/171/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そんなに気持ちよくしてもらいたいの？
+> CONTEXT: Commonevents/171/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そんなに気持ちよくしてもらいたいの？」
+> CONTEXT: Commonevents/171/38/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/172/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふ…イっちゃいそうなクセに\\e[0]
+> CONTEXT: Commonevents/171/43/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/171/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あら、素直じゃない…。
+　お望み通りにシてあげる\\e[0]
+> CONTEXT: Commonevents/171/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ほんとにぃ？
+> CONTEXT: Commonevents/171/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふ…これでも？
+> CONTEXT: Commonevents/171/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ほらほら、
+　まだ生意気なこと言えるかしら？
+> CONTEXT: Commonevents/171/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「まだ生意気なこと言えるかしら？」
+> CONTEXT: Commonevents/171/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふぅん……
+　やる気出ちゃうじゃない\\e[0]
+> CONTEXT: Commonevents/171/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あははっ\\e[0]
+　最初から素直にそう言えばいいのよ。
+> CONTEXT: Commonevents/171/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「無駄な時間取らせた罰に、
+　少し吸わせてもらおうかしら？
+> CONTEXT: Commonevents/171/99/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「吸わせてもらおうかしら？」
+> CONTEXT: Commonevents/171/103/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふ……\\e[0]
+> CONTEXT: Commonevents/171/108/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/181/202/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あんっ、おいしい……\\e[0]
+> CONTEXT: Commonevents/171/113/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/175/42/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/175/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あん、ちょっと薄いわ…\\w[\\v[105]]
+　もう一口いただこうかしら？
+> CONTEXT: Commonevents/171/120/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もう一口いただこうかしら？」
+> CONTEXT: Commonevents/171/123/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふぅん……
+　いいわ、力ずくで犯ってあげる\\e[0]
+> CONTEXT: Commonevents/171/139/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あら、つれないわね…。
+> CONTEXT: Commonevents/171/144/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あら、素敵なこと言うじゃない…\\e[0]
+> CONTEXT: Commonevents/171/186/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あら、素敵なこと言うじゃない…\\e[0]
+　本気で言ってるの？
+> CONTEXT: Commonevents/171/195/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「本気で言ってるの？」
+> CONTEXT: Commonevents/171/198/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふうん…
+　じゃあカラダで示してもらおうかしら\\e[0]
+> CONTEXT: Commonevents/171/202/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふっ\\e[0]
+> CONTEXT: Commonevents/171/208/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/182/311/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふっ\\e[0]
+　もっと感じてくれるわよね？
+> CONTEXT: Commonevents/171/216/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もっと感じてくれるわよね？」
+> CONTEXT: Commonevents/171/219/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あら、つまんない…
+> CONTEXT: Commonevents/171/226/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふ…アタシをおちょくろうなんて
+　いい度胸ね？
+> CONTEXT: Commonevents/171/235/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「高くつくわよ…そうね…
+> CONTEXT: Commonevents/171/237/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「とりあえず吸わせてもらおうかしら？
+> CONTEXT: Commonevents/171/238/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…おちょくってんの？
+> CONTEXT: Commonevents/171/243/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああんっ、
+　\\n[27]、とろけちゃう～～っ\\e[0]
+> CONTEXT: Commonevents/172/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ん～～？
+　\\n[27]、よくわかんないや\\e[0]
+> CONTEXT: Commonevents/172/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ん～～？
+　そんなに気持ちよくしてもらいたいの？
+> CONTEXT: Commonevents/172/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「じゃあいっぱいシてあげるぅ\\e[0]
+> CONTEXT: Commonevents/172/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おにいさんって、変態さん？
+> CONTEXT: Commonevents/172/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おにいさんって、変態さん？」
+> CONTEXT: Commonevents/172/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あはっ、
+　じゃあもっとおかしくしてあげるぅ♪
+> CONTEXT: Commonevents/172/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「こわ～い……
+> CONTEXT: Commonevents/172/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「よくわかんなーい
+> CONTEXT: Commonevents/172/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ん～～～～、
+> CONTEXT: Commonevents/172/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ね、そんなことより
+　何か甘いモノちょうだぁい\\e[0]
+> CONTEXT: Commonevents/172/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「甘いモノちょうだぁい\\e[0]」
+> CONTEXT: Commonevents/172/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「え～、何も持ってないじゃん！
+　うそつき～～～
+> CONTEXT: Commonevents/172/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「まあいっか、かわりにあなたの精で
+　ガマンしてあげるぅ\\e[0]
+> CONTEXT: Commonevents/172/105/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/172/154/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[27]、その
+　\\c[3]\\v[2]\\c[0]が食べたいなぁ\\e[0]
+> CONTEXT: Commonevents/172/121/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\c[3]\\v[2]\\c[0]が食べたいなぁ\\e[0]」
+> CONTEXT: Commonevents/172/124/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「わぁい、ありがとぉ～～っ\\e[0]
+> CONTEXT: Commonevents/172/129/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ん～～、でも
+　まだちょっと足りないかなぁ～
+> CONTEXT: Commonevents/172/136/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ね、もういっこ甘いモノちょうだぁい\\e[0]
+> CONTEXT: Commonevents/172/138/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「え～、くれるっていったのに！
+　うそつき～～～！
+> CONTEXT: Commonevents/172/143/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「え～、けちんぼ～～っ！
+> CONTEXT: Commonevents/172/152/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やぁん、
+　\\n[27]うれしぃ～っ\\e[0]
+> CONTEXT: Commonevents/172/175/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああんっ、イイわ……
+　ステキ……っ\\e[0]
+> CONTEXT: Commonevents/173/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/174/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/175/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/176/16/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/182/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/183/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……いきなり何言い出すの？
+> CONTEXT: Commonevents/173/24/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/174/24/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/182/24/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/183/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふぅん……
+　信用できないわね。
+> CONTEXT: Commonevents/173/30/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/174/30/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/182/30/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/183/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「誠意を見せてもらおうかしら？
+> CONTEXT: Commonevents/173/32/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/174/32/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/182/32/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/183/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「誠意を見せてもらおうかしら？」
+> CONTEXT: Commonevents/173/35/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/174/35/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/182/35/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/183/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どうしますか？
+> CONTEXT: Commonevents/173/40/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/174/40/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/180/55/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/181/64/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/181/143/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/181/216/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/181/243/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/182/40/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/183/47/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/177/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+黙ってキスする
+> CONTEXT: Commonevents/173/41/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/174/41/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/180/56/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/181/35/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/181/65/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/181/144/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/181/217/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/181/244/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/182/41/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/183/48/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/177/61/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/177/61/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お金を貢ぐ
+> CONTEXT: Commonevents/173/41/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/174/41/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/180/56/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/182/41/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/183/48/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/177/61/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/177/61/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アイテムを貢ぐ
+> CONTEXT: Commonevents/173/41/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/174/41/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/180/56/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/181/35/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/181/65/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/181/144/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/181/217/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/181/244/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/182/41/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/183/48/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/177/61/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/177/61/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ん……、ステキ\\e[0]
+> CONTEXT: Commonevents/173/46/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/174/46/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/181/41/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/182/46/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/183/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]しかし\\n[27]は
+　冷ややかな目でこちらを見ている！
+> CONTEXT: Commonevents/173/53/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/182/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……おしまい？
+> CONTEXT: Commonevents/173/57/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/174/57/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/180/72/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/181/52/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/182/57/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/183/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おしまい？」
+> CONTEXT: Commonevents/173/59/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/174/59/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/180/74/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/181/54/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/182/59/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/183/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「つまんないわね……
+> CONTEXT: Commonevents/173/63/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/174/63/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/180/78/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/181/58/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/182/63/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/183/70/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/174/113/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/182/118/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/182/335/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/183/120/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…おカネなんて興味無いわ。
+> CONTEXT: Commonevents/173/77/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/180/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…ロクなモノ持ってないじゃない。
+> CONTEXT: Commonevents/173/85/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/180/100/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/174/123/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/182/129/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/183/130/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そうね、それじゃ……
+> CONTEXT: Commonevents/173/90/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/180/105/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/181/109/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/174/80/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/174/128/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/182/80/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/182/134/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/183/87/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/183/135/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「その\\c[3]\\v[2]\\c[0]をくださる？
+> CONTEXT: Commonevents/173/91/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/180/106/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/181/110/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/174/129/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/182/135/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/183/136/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\c[3]\\v[2]\\c[0]をくださる？」
+> CONTEXT: Commonevents/173/93/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/180/108/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/181/112/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/174/131/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/177/132/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/182/137/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/183/138/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふっ、ありがと\\e[0]
+> CONTEXT: Commonevents/173/102/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/173/163/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/180/117/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/181/189/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/174/90/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/174/140/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/174/200/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/182/95/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/182/146/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/182/211/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/183/97/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/183/147/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/183/207/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でもまだ物足りないわね……
+> CONTEXT: Commonevents/173/120/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/180/135/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/174/157/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/182/168/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/183/164/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…そんな覚悟で
+　よく声なんてかけられたものね？
+> CONTEXT: Commonevents/173/125/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/180/140/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/182/173/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…バカにしてるのかしら？
+> CONTEXT: Commonevents/173/136/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/174/173/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/182/184/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/183/180/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あら…ステキなこと言うわね\\e[0]
+> CONTEXT: Commonevents/173/155/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/173/222/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/181/180/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/181/274/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/174/192/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/174/259/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/182/203/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/182/266/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/183/199/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/183/258/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私、そんなにキレイ？
+> CONTEXT: Commonevents/173/156/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/181/182/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/174/193/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/182/204/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/183/200/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そんなにキレイ？」
+> CONTEXT: Commonevents/173/158/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/181/184/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/174/195/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/182/206/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/183/202/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私とずっと一緒にいたい？
+> CONTEXT: Commonevents/173/170/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/174/207/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/183/214/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ずっと一緒にいたい？」
+> CONTEXT: Commonevents/173/172/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/174/209/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/183/216/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふ……
+　お望みどおりにしてあげる\\e[0]
+> CONTEXT: Commonevents/173/176/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/174/213/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/182/224/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/183/220/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…なんだかバカにされた気がするわ。
+> CONTEXT: Commonevents/173/199/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/181/214/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/174/236/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/182/239/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/183/235/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あら…私をどうしたいのかしら？
+> CONTEXT: Commonevents/173/207/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/181/241/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/174/244/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/182/251/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/183/243/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……あら、そう。
+> CONTEXT: Commonevents/173/211/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/181/257/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/174/248/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/182/255/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/183/247/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]しかし\\n[27]は
+冷ややかな目でこちらを見ている！
+> CONTEXT: Commonevents/174/53/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/180/68/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/181/48/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/183/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\b\\v[1]G\\f いただけるかしら？
+> CONTEXT: Commonevents/174/81/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/182/81/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/183/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\b\\v[1]G\\f いただけるかしら？」
+> CONTEXT: Commonevents/174/84/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/182/84/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/183/91/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それじゃ、
+　あと \\b\\v[1]G\\f いただけるかしら？
+> CONTEXT: Commonevents/174/99/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/182/104/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/183/106/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やだ、\\b\\v[1]G\\f ぽっちも持ってないの？
+> CONTEXT: Commonevents/174/105/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/176/77/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/182/110/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/183/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…そんなんで
+　よく声なんてかけられたものね？
+> CONTEXT: Commonevents/174/162/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/183/169/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「急にそんなこと言われても……
+　なんかウソっぽいなぁ～
+> CONTEXT: Commonevents/175/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「じゃあ証拠に、
+　あなたの精を少しちょうだい\\e[0]
+> CONTEXT: Commonevents/175/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あなたの精を少しちょうだい\\e[0]」
+> CONTEXT: Commonevents/175/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「わぁ、ほんとにくれるの？
+　ありがと\\e[0]
+> CONTEXT: Commonevents/175/36/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/175/93/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ね、もう一口ちょうだい\\e[0]
+> CONTEXT: Commonevents/175/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もう一口ちょうだい\\e[0]」
+> CONTEXT: Commonevents/175/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うぅ…、やっぱり
+　あたしなんてキライなのね……
+> CONTEXT: Commonevents/175/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「じゃあ証拠に、
+　その\\c[3]\\v[2]\\c[0]ちょうだい\\e[0]
+> CONTEXT: Commonevents/175/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\c[3]\\v[2]\\c[0]ちょうだい\\e[0]」
+> CONTEXT: Commonevents/175/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やっぱりウソだったのね……
+> CONTEXT: Commonevents/175/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ええっ、ステキぃ～っ\\e[0]
+> CONTEXT: Commonevents/175/124/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それじゃ、あたしの恋人に
+　なってくれるのねっ？
+> CONTEXT: Commonevents/175/125/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「恋人になってくれるのねっ？」
+> CONTEXT: Commonevents/175/128/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「わぁいっ\\e[0]
+　いっぱい愛し合いましょっ\\e[0]
+> CONTEXT: Commonevents/175/132/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「からかってるのね……
+> CONTEXT: Commonevents/175/144/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「え…素敵……
+> CONTEXT: Commonevents/175/155/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もう好きにしてぇ～っ\\e[0]
+> CONTEXT: Commonevents/175/156/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あはっ、
+　自分がイきそうなクセに
+　何言ってんのよ？
+> CONTEXT: Commonevents/176/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ばかみたい！
+　あはははははっ\\e[0]
+> CONTEXT: Commonevents/176/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あはっ、キモチよすぎて
+　おかしくなっちゃったぁ？
+> CONTEXT: Commonevents/176/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もっとおかしくしてあげるわよ。
+　あははははっ！
+> CONTEXT: Commonevents/176/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふぅん………
+> CONTEXT: Commonevents/176/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ねぇ、それじゃ
+　\\b\\v[1]G\\f ちょうだい。
+> CONTEXT: Commonevents/176/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\b\\v[1]G\\f ちょうだい」
+> CONTEXT: Commonevents/176/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「素直に払っちゃってバカみたい……
+　あははははっ\\e[0]
+> CONTEXT: Commonevents/176/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「これっぽちじゃあなたの気持ち、
+　分からないわね。
+> CONTEXT: Commonevents/176/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もう \\b\\v[1]G\\f ちょうだい。
+> CONTEXT: Commonevents/176/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「興味持ったアタシがバカだったわ……
+> CONTEXT: Commonevents/176/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あははっ、
+　急に何言い出すのぉ？
+> CONTEXT: Commonevents/176/104/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/176/136/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ねぇ、それホンキで言ってるの？
+> CONTEXT: Commonevents/176/106/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ホンキで言ってるの？」
+> CONTEXT: Commonevents/176/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あはっ、バカじゃないの！？
+　あははははっ\\e[0]
+> CONTEXT: Commonevents/176/113/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「はぁ？ 何よそれ？
+　バカにしてんの！？
+> CONTEXT: Commonevents/176/124/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「バカじゃないの？
+　あははははははっ\\e[0]
+> CONTEXT: Commonevents/176/138/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あ…あぁっ……、
+　お願い………もっとぉ……っ！
+> CONTEXT: Commonevents/177/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「え？
+　…………………え？
+> CONTEXT: Commonevents/177/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]\\n[27]はきょとんとした顔で
+　こちらを見ている！
+> CONTEXT: Commonevents/177/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]\\n[27]は固まってしまった！
+> CONTEXT: Commonevents/177/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「え…………？
+> CONTEXT: Commonevents/177/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「こ…こわい………
+> CONTEXT: Commonevents/177/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あたしをどうしたいの？
+> CONTEXT: Commonevents/177/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「や……っ\\e[0]
+> CONTEXT: Commonevents/177/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「きゃ……っ！？
+> CONTEXT: Commonevents/177/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しかしお金を\\b1G\\fも持っていない！
+> CONTEXT: Commonevents/177/95/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[27]に \\b\\v[1]G\\f 手渡した
+> CONTEXT: Commonevents/177/103/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「え……、
+> CONTEXT: Commonevents/177/105/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あ、ありがとう……
+> CONTEXT: Commonevents/177/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あ、ありがとう……？
+> CONTEXT: Commonevents/177/113/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しかし渡せるようなものを持っていない！
+> CONTEXT: Commonevents/177/121/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「えっと、それじゃ……
+> CONTEXT: Commonevents/177/129/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「その\\c[3]\\v[2]\\c[0]…くれるの？
+> CONTEXT: Commonevents/177/130/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「わ…ありがと\\e[0]
+> CONTEXT: Commonevents/177/141/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「弄んだのね……
+> CONTEXT: Commonevents/177/159/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あたし、夢見てるのかな…？
+> CONTEXT: Commonevents/177/173/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「夢見てるのかな…？」
+> CONTEXT: Commonevents/177/175/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「じゃあこのまま……
+　素敵な夢、みせて\\e[0]
+> CONTEXT: Commonevents/177/184/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あたしを弄んでるのね？
+> CONTEXT: Commonevents/177/191/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あたしを弄んでるのね？」
+> CONTEXT: Commonevents/177/193/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ひどい……
+> CONTEXT: Commonevents/177/197/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でもあなた、
+　夢に出てきた王子様に似てるわ\\e[0]
+> CONTEXT: Commonevents/177/214/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そうね…。
+　あなたも眠たそうな
+　カオしてるものね。
+> CONTEXT: Commonevents/177/221/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「え…あたし………
+> CONTEXT: Commonevents/177/231/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そ……そんなぁっ\\e[0]
+> CONTEXT: Commonevents/177/232/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「アオォンッ\\e[0]
+> CONTEXT: Commonevents/178/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「アオォンッ！
+> CONTEXT: Commonevents/178/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「グルルルルル！
+> CONTEXT: Commonevents/178/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[27]は話を聞いていない！
+> CONTEXT: Commonevents/178/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ガルルルル……
+> CONTEXT: Commonevents/178/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ガォンッ！！
+> CONTEXT: Commonevents/178/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どうやら肉を欲しがっているようだ
+> CONTEXT: Commonevents/178/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+肉を渡しますか？
+> CONTEXT: Commonevents/178/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しかし\\n[1]は肉を持っていなかった！
+> CONTEXT: Commonevents/178/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ガルルルルルルル！！
+> CONTEXT: Commonevents/178/45/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/178/76/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/178/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ガル…ガオォンッ！
+> CONTEXT: Commonevents/178/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どうやら\\c[3]\\v[2]\\c[0]を
+欲しがっているようだ
+> CONTEXT: Commonevents/178/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[3]\\v[2]\\c[0]を渡しますか？
+> CONTEXT: Commonevents/178/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ガオォンッ\\e[0]
+> CONTEXT: Commonevents/178/62/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/178/95/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ガルルルル！
+> CONTEXT: Commonevents/178/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まだ足りないみたいだ
+> CONTEXT: Commonevents/178/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[27]は喜んでいるようだ！
+> CONTEXT: Commonevents/178/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ニャぁっ、
+　とろけちゃいそうニャ～っ\\e[0]
+> CONTEXT: Commonevents/179/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ニャ…ニャぁンっ！
+　ニャぁぁぁぁんっ\\e[0]
+> CONTEXT: Commonevents/179/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ニャ～？
+　なにゆってるかよくわかんないニャ\\e[0]
+> CONTEXT: Commonevents/179/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ニャ～～？
+　そんなに気持ちよくしてもらいたいニャぁ？
+> CONTEXT: Commonevents/179/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そんなに気持ちよくしてもらいたいニャぁ？」
+> CONTEXT: Commonevents/179/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「じゃあいっぱいシてあげるニャぁ\\e[0]
+> CONTEXT: Commonevents/179/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「キミ変態さんかニャぁ？
+> CONTEXT: Commonevents/179/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「キミ変態さんかニャぁ？」
+> CONTEXT: Commonevents/179/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ニャはっ、じゃあ一緒に
+　もっとおかしくなろうニャぁ～♪
+> CONTEXT: Commonevents/179/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「変態さんコワいニャぁ……
+> CONTEXT: Commonevents/179/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「よくわかんないニャ～
+> CONTEXT: Commonevents/179/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ニャ～～？
+> CONTEXT: Commonevents/179/103/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そんなことより、
+　ボクお魚さん欲しいニャぁ\\e[0]
+> CONTEXT: Commonevents/179/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お魚さん欲しいニャぁ\\e[0]」
+> CONTEXT: Commonevents/179/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お魚さん持ってないニャー！
+　ウソツキさんニャー！
+> CONTEXT: Commonevents/179/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「その\\c[3]\\v[2]\\c[0]ちょうだいニャ\\e[0]
+> CONTEXT: Commonevents/179/123/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\c[3]\\v[2]\\c[0]ちょうだいニャ\\e[0]」
+> CONTEXT: Commonevents/179/125/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ニャぁ～～～～\\e[0]
+> CONTEXT: Commonevents/179/130/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ニャ～、まだ足りないニャ～～
+> CONTEXT: Commonevents/179/137/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もういっこお魚さん欲しいニャぁ\\e[0]
+> CONTEXT: Commonevents/179/138/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ニャー！
+　くれるって言ったのに
+　ウソツキニャー！
+> CONTEXT: Commonevents/179/143/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ニャぉん……
+> CONTEXT: Commonevents/179/153/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ニャ？ ボクに言ってるニャ？
+　うれしぃニャ～っ\\e[0]
+> CONTEXT: Commonevents/179/164/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「むニャ～ぁ？
+> CONTEXT: Commonevents/179/191/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ボクのなぞなぞに答えられたら
+　考えてあげるニャぁ～\\e[0]
+> CONTEXT: Commonevents/179/192/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「イきそうになってるクセに、
+　何言い出すのよ？
+> CONTEXT: Commonevents/180/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ハァハァ言いながら
+　必死になっちゃって……不様ね？
+> CONTEXT: Commonevents/180/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「不様ね？ 不様ね？
+　きゃはははっ\\e[0]
+> CONTEXT: Commonevents/180/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あ…あぁっ……、
+　あ…もっとぉ……っ！
+> CONTEXT: Commonevents/180/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「はぁ？ 急に何言い出すのよ……
+　馬鹿じゃないの？
+> CONTEXT: Commonevents/180/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そ…そんな言葉なんかで
+　惑わされないんだからねっ！
+> CONTEXT: Commonevents/180/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……ほ……ホンキなら何か
+　行動で示してよ……
+> CONTEXT: Commonevents/180/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「行動で示してよ」
+> CONTEXT: Commonevents/180/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「え…、やあっ………\\e[0]
+> CONTEXT: Commonevents/180/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ばか！ ばか！
+　ばかっ！！
+> CONTEXT: Commonevents/180/151/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「え…な…何言い出すのよっ！
+> CONTEXT: Commonevents/180/163/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ば…馬鹿じゃないの！？
+　ふんっ！
+> CONTEXT: Commonevents/180/164/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あン……ステキ……\\e[0]
+> CONTEXT: Commonevents/181/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ごめんなさい……、
+　そういう冗談好きじゃないわ……。
+> CONTEXT: Commonevents/181/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あなたは私に、何をしてくれるの？
+> CONTEXT: Commonevents/181/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何をしてくれるの？」
+> CONTEXT: Commonevents/181/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+歌を歌う
+> CONTEXT: Commonevents/181/35/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/181/65/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/181/144/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/181/217/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/181/244/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]はたからかに歌った！
+> CONTEXT: Commonevents/181/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あなた…バカにしてるの？
+> CONTEXT: Commonevents/181/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…私の欲しいモノは
+　持ってないみたいね……
+> CONTEXT: Commonevents/181/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ありがとう、嬉しいわ\\e[0]
+> CONTEXT: Commonevents/181/121/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でもこんなものじゃまだ、
+　あなたの気持ちは表せないわね？
+> CONTEXT: Commonevents/181/140/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そう…。
+　私で遊んでるのね……
+> CONTEXT: Commonevents/181/158/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私の歌、聴いてくれる？
+> CONTEXT: Commonevents/181/195/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私の歌、聴いてくれる？」
+> CONTEXT: Commonevents/181/198/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「さわらないで！
+> CONTEXT: Commonevents/181/221/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それじゃ、私の歌聴いてくれる？
+> CONTEXT: Commonevents/181/264/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私に捕まっちゃいたい？
+> CONTEXT: Commonevents/182/218/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「捕まっちゃいたい？」
+> CONTEXT: Commonevents/182/220/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私の技が見たいのかしら？
+> CONTEXT: Commonevents/182/285/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私の技が見たいのかしら？」
+> CONTEXT: Commonevents/182/287/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「じゃ、じっとしてて…\\e[0]
+> CONTEXT: Commonevents/182/290/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「気持ちよかったかしら？
+> CONTEXT: Commonevents/182/299/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「気持ちよかったかしら？」
+> CONTEXT: Commonevents/182/301/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「じゃあ、もっとたくさんシてあげる\\e[0]
+> CONTEXT: Commonevents/182/306/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あら……
+　私をどうしたいの？
+> CONTEXT: Commonevents/182/317/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/182/330/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「強がっちゃって…\\e[0]
+> CONTEXT: Commonevents/182/322/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「犬が生意気に口きいてんじゃないわよっ！
+> CONTEXT: Commonevents/183/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]夢魔の触手はなくなってしまった！
+> CONTEXT: Commonevents/201/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]ミスリルアイアンはなくなってしまった！
+> CONTEXT: Commonevents/202/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]エーテルローションはなくなってしまった！
+> CONTEXT: Commonevents/203/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]チャミングブーケはなくなってしまった！
+> CONTEXT: Commonevents/204/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]冷たい枷が\\n[1]の全身を拘束する！
+\\w[\\v[104]]\\n[1]は身動きが取れなくなった！
+> CONTEXT: Commonevents/205/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]ピンクの液体が\\n[1]を濡らす！
+\\w[\\v[104]]\\n[1]は感じやすくなってしまった！
+> CONTEXT: Commonevents/206/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]無数の触手が\\n[1]を襲う！
+\\w[\\v[104]]\\n[1]は触手にとりつかれた！
+> CONTEXT: Commonevents/207/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+レベルを制限しますか？
+> CONTEXT: Commonevents/208/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+レベルは制限されています。
+制限を解除しますか？
+> CONTEXT: Commonevents/208/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]クララの思考回路が僅かに乱れた！
+> CONTEXT: Commonevents/209/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]しかし\\n[27]には効果がなかった！
+> CONTEXT: Commonevents/209/6/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/210/7/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/210/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]拙い音色が\\n[27]の心を
+微かに動かした！
+> CONTEXT: Commonevents/210/2/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/210/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]全員のEP・TPが元に戻った！
+> CONTEXT: Commonevents/211/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]\\n[1]の精力が \\b\\v[1]\\f 上がった！
+> CONTEXT: Commonevents/212/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]\\n[1]の魅力が \\b\\v[1]\\f 上がった！
+> CONTEXT: Commonevents/213/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]\\n[1]の守りが \\b\\v[1]\\f 上がった！
+> CONTEXT: Commonevents/214/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\c[7]メローナ\\c[0]は\\c[7]ストゥーナ\\c[0]としか
+　一緒に呼べないがどうする？
+> CONTEXT: Commonevents/251/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+メローナだけ呼ぶ
+> CONTEXT: Commonevents/251/15/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/251/15/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+メローナとストゥーナを呼ぶ
+> CONTEXT: Commonevents/251/15/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/251/15/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やっぱりやめる
+> CONTEXT: Commonevents/251/15/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/251/15/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/251/55/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/251/55/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/251/95/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/251/95/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/251/135/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/251/135/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/251/175/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/251/175/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/251/214/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/251/214/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふふふ！
+> CONTEXT: Commonevents/251/31/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/251/71/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/251/111/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/251/151/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/251/191/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/251/323/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\c[7]ストゥーナ\\c[0]は\\c[7]メローナ\\c[0]としか
+　一緒に呼べないがどうする？
+> CONTEXT: Commonevents/251/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ストゥーナだけ呼ぶ
+> CONTEXT: Commonevents/251/55/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/251/55/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ストゥーナとメローナを呼ぶ
+> CONTEXT: Commonevents/251/55/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/251/55/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\c[7]エスプラーナ\\c[0]は姉妹としか
+　一緒に呼べないがどうする？
+> CONTEXT: Commonevents/251/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エスプラーナだけ呼ぶ
+> CONTEXT: Commonevents/251/95/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/251/95/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハーピー三姉妹を呼ぶ
+> CONTEXT: Commonevents/251/95/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/251/95/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/251/135/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/251/135/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/251/175/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/251/175/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\c[7]リズ・ラズ\\c[0]は姉妹としか
+　一緒に呼べないがどうする？
+> CONTEXT: Commonevents/251/132/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リズ・ラズだけ呼ぶ
+> CONTEXT: Commonevents/251/135/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/251/135/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\c[7]ロッコ・バロッコ\\c[0]は姉妹としか
+　一緒に呼べないがどうする？
+> CONTEXT: Commonevents/251/172/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ロッコ・バロッコだけ呼ぶ
+> CONTEXT: Commonevents/251/175/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/251/175/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\c[7]\\v[1]\\c[0]は他の者と
+　一緒に呼べないがどうする？
+> CONTEXT: Commonevents/251/211/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\v[1]を呼ぶ
+> CONTEXT: Commonevents/251/214/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/251/214/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\c[7]\\v[1]\\c[0]を呼ぶのだな？
+> CONTEXT: Commonevents/251/229/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\c[7]\\v[1]\\c[0]を呼ぶのだな？」
+> CONTEXT: Commonevents/251/231/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「他に呼びたい者はいるか？
+> CONTEXT: Commonevents/251/237/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「他に呼びたい者はいるか？」
+> CONTEXT: Commonevents/251/239/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\c[7]\\v[1]\\c[0]と\\c[7]\\v[2]\\c[0]
+　でよいのだな？
+> CONTEXT: Commonevents/251/254/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\c[7]\\v[1]\\c[0]と\\c[7]\\v[2]\\c[0]と
+　\\c[7]\\v[3]\\c[0]でよいのだな？
+> CONTEXT: Commonevents/251/272/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/251/293/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ではもう一度
+　選びなおすがいいだろう。
+> CONTEXT: Commonevents/251/314/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「キキッ！
+　ナンか要るモンがあったら売ってやるゼ！
+> CONTEXT: Commonevents/252/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「キキッ！
+　もう帰りたイか？
+> CONTEXT: Commonevents/253/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「帰りたイか？」
+> CONTEXT: Commonevents/253/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「キキッ！
+　また会おうゼ！
+> CONTEXT: Commonevents/253/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふ……夢から覚めるか、
+　覚めた先が夢か………
+> CONTEXT: Commonevents/253/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どちらでもよかろう。
+　君こそは我が親愛なる主人公。
+> CONTEXT: Commonevents/253/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふ…！
+　いつでも戻ってくるがいい！
+> CONTEXT: Commonevents/253/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「また　会おう！！
+> CONTEXT: Commonevents/253/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"game_clear"
+> CONTEXT: Commonevents/253/36/InlineScript/2:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「キキッ！
+　気がすむまで楽しンできナ！
+> CONTEXT: Commonevents/253/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「む……？
+> CONTEXT: Commonevents/256/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おお！
+　なんと\\c[4]夜の絵本\\c[0]の頁を
+　全て埋めてしまったのか！
+> CONTEXT: Commonevents/256/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふ！ ふふふふ！
+　素晴らしい！！
+> CONTEXT: Commonevents/256/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふ！この裏方より祝いを贈ろう！
+　おめでとう！ 受け取るがいい！！
+> CONTEXT: Commonevents/256/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルヴィッサが全ての魔法を覚えた！
+> CONTEXT: Commonevents/256/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふふ！
+　もっともっと楽しむといいぞ！
+> CONTEXT: Commonevents/256/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふ！ さあ！ \\c[4]夜の絵本\\c[0]から
+　呼び出したい者を選ぶといい！
+> CONTEXT: Commonevents/256/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………？
+> CONTEXT: Commonevents/301/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふっ。
+　大人しくしててね…\\e[0]
+> CONTEXT: Commonevents/302/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[1]サキュバスはエルヴィンのペニスを口でくわえ、
+\\w[\\v[104]]激しくしゃぶってきた！\\k
+> CONTEXT: Commonevents/303/2/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/305/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]\\w[\\v[104]]
+エルヴィンは\\b \\v[1] \\fの快感を受けた！
+> CONTEXT: Commonevents/303/6/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/304/6/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/304/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[1]サキュバスはエルヴィンのペニスを手でつかみ、
+\\w[\\v[104]]激しくしごいてきた！\\k
+> CONTEXT: Commonevents/304/2/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/304/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]\\w[\\v[104]]
+ラグジャラスヒット！\\w[\\v[105]]
+エルヴィンは\\b \\v[1] \\fの快感を受けた！
+> CONTEXT: Commonevents/305/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ねえねえ、街の人の話聞いてるとさ、
+　あのローズニルって人
+　女の子を口説くのがすごく上手みたいね？
+> CONTEXT: Commonevents/306/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ねえいいこと思いついちゃった！
+　ドゥヂチのあの女の相手、
+　あの人にしてもらいましょうよ！
+> CONTEXT: Commonevents/306/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あの人の口説きでメロメロにしてやって、
+　そのスキにえいっ、って\\e[0]
+> CONTEXT: Commonevents/306/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「名案ね\\e[0]
+　さっそく頼みに行きましょ。
+> CONTEXT: Commonevents/306/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「錨を上げろーぉっ！
+> CONTEXT: Commonevents/307/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「面舵いっぱぁーいっ！
+> CONTEXT: Commonevents/307/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「船が出るみたいね。
+> CONTEXT: Commonevents/307/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]、表に出ましょっ！
+> CONTEXT: Commonevents/307/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「わぁ、素敵ぃ･･･！
+> CONTEXT: Commonevents/307/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私、海に出るのって初めてよ！
+> CONTEXT: Commonevents/307/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あ、みて！
+　魚が跳ねたわ！
+> CONTEXT: Commonevents/307/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「食べちゃうわよぉ\\e[0]
+> CONTEXT: Commonevents/308/3/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/308/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「まてまて～～っ♪
+> CONTEXT: Commonevents/308/9/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/308/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「つーかまーえたっ\\e[0]
+> CONTEXT: Commonevents/308/21/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/308/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ちょびっと魔力が弱まってきたぜ……
+　そろそろ急いでくれよォ。
+> CONTEXT: Commonevents/309/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ぐむ……ヤバいぜ……
+　急いでくれ………
+> CONTEXT: Commonevents/309/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「も…う…だ…め…だ……………
+> CONTEXT: Commonevents/309/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[4]ビルトの火種\\c[0]が
+消えてしまった…………
+> CONTEXT: Commonevents/309/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちょうちょを捕まえた！
+> CONTEXT: Commonevents/310/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+捕まえたちょうちょは \\b \\v[59] \\f匹になった！
+> CONTEXT: Commonevents/310/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]のテンションが少し上がった！
+> CONTEXT: Commonevents/311/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]のEPが少し回復した！
+> CONTEXT: Commonevents/311/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「イイ夢みせてあげるわ……\\e[0]
+> CONTEXT: Commonevents/314/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+扉はもう開いている
+> CONTEXT: Commonevents/319/7/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/319/29/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/319/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここでは何も起きなかった……
+> CONTEXT: Commonevents/319/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"精力"
+> CONTEXT: Commonevents/500/8/InlineScript/1:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"技巧"
+> CONTEXT: Commonevents/500/8/InlineScript/2:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"+2"
+> CONTEXT: Commonevents/500/15/InlineScript/2:20 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"無効"
+> CONTEXT: Commonevents/500/15/InlineScript/4:17 < UNTRANSLATED
+> CONTEXT: Commonevents/500/15/InlineScript/5:17 < UNTRANSLATED
+> CONTEXT: Commonevents/500/15/InlineScript/6:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]\\c[4]魔王のかけら\\c[0]が妖しく光りだした……
+> CONTEXT: Commonevents/500/26/Dialogue
+\\a[\\v[105]]\\c[4]The Demon King's fragment\\c[0] began to glow mysteriously...
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]\\c[4]魔王のかけら\\c[0]から更なる力が
+\\n[1]に流れ込む！
+> CONTEXT: Commonevents/500/31/Dialogue
+More power flows from the\\a[\\v[105]]\\c[4]Demon King's fragment\\c[0]
+\\n[1]!
+> END STRING
+
+> BEGIN STRING
+どの能力値を上げますか？
+> CONTEXT: Commonevents/500/34/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/500/44/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/500/57/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/500/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\v[3]
+> CONTEXT: Commonevents/500/58/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/500/73/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\v[4]
+> CONTEXT: Commonevents/500/73/Choice/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\\\a[100]\\\\c[4]\\\\v[22]\\\\c[0] を手に入れた！"
+> CONTEXT: Commonevents/500/88/InlineScript/1:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「無知なる英雄よ！
+　傲慢なる勇者よ！
+　見るがいい！！
+> CONTEXT: Commonevents/500/262/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「その夢想の果てに拡がる滅びを！
+　闇払われし跡の虚無を！！
+> CONTEXT: Commonevents/500/265/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「呪われよ！！
+　貴様の行く手には既に闇すら無く！
+> CONTEXT: Commonevents/500/267/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「光を捨て夜に抗い、
+　無となるまでもがき続けるのだッ！！
+> CONTEXT: Commonevents/500/269/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…！
+> CONTEXT: Commonevents/500/299/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「こっ…、今度は何だよ……！？
+> CONTEXT: Commonevents/500/317/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…まだいたのね、ギルデンスターン。
+> CONTEXT: Commonevents/500/319/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でも残念ね。
+　そんな姿じゃ愛してあげられないじゃない。
+> CONTEXT: Commonevents/500/327/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「砕いてあげるわ。
+　きれいに、粉々に…。
+> CONTEXT: Commonevents/500/333/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ギルデンスターンの声/Guildenstern/9"
+> CONTEXT: Commonevents/500/338/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/500/431/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Commonevents/500/442/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………………………夢魔…………………
+> CONTEXT: Commonevents/500/339/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………好きには……………………
+　……………………させん………………
+> CONTEXT: Commonevents/500/340/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……アナタはもう負けたのよ。
+　ギルデンスターン。
+> CONTEXT: Commonevents/500/388/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「夜の国への扉は開いたわ。
+　もう何をしても無駄なの。　わからない？
+> CONTEXT: Commonevents/500/390/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………我が………………………
+　………………力……………………
+> CONTEXT: Commonevents/500/432/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………我が………………………
+　………………呪い…………………
+> CONTEXT: Commonevents/500/434/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……………\\v[1]……………………………
+　……………………………\\v[2]……………
+> CONTEXT: Commonevents/500/443/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……さよなら\\e[0]
+> CONTEXT: Commonevents/500/447/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]は\\c[4]魔王のかけら\\c[0]を手に入れた！
+> CONTEXT: Commonevents/500/467/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「砕け…た………？
+> CONTEXT: Commonevents/500/474/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……今のは、魔王……………？
+　…………どうして……？
+> CONTEXT: Commonevents/500/475/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……さ、その坊やたちは
+　好きにしていいわよ。
+> CONTEXT: Commonevents/500/482/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私はこの子をいただくわ。
+　オリビアっていったかしら？
+> CONTEXT: Commonevents/500/484/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やぁっ…！
+　\\v[1]……\\n[1]ッ！！
+> CONTEXT: Commonevents/500/491/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「あら、
+　誰がイっていいって言ったかしら？
+> CONTEXT: Commonevents/52/282/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「まだまだお仕置きが必要みたいね……
+\\w[\\v[105]]　ふふ\\e[0]
+> CONTEXT: Commonevents/52/284/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「あぅ～～っ\\e[0]
+\\w[\\v[104]]　イかせちゃったぁ～\\e[0]
+> CONTEXT: Commonevents/52/328/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[\\v[105]]「やったぁ～～っ\\e[0]
+\\a[\\v[104]]　あははぁっ\\e[0]
+> CONTEXT: Commonevents/52/332/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「今まで知らなかったのよ。
+　アタシがこんなにきれいなんて。
+　アタシにこんなことができるなんて。
+> CONTEXT: Commonevents/104/7/Dialogue < UNTRANSLATED
+
+> END STRING

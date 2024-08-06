@@ -1,0 +1,25 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「…だれ……？
+> CONTEXT: Map418/events/14/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あの人じゃ…ないのね。
+> CONTEXT: Map418/events/14/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もう人間なんて、興味ないんだけど……
+> CONTEXT: Map418/events/14/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いいわ。
+　食べてあげる。
+> CONTEXT: Map418/events/14/pages/0/31/Dialogue < UNTRANSLATED
+
+> END STRING

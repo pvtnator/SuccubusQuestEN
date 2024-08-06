@@ -1,0 +1,758 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+逃げました
+> CONTEXT: Map002/events/1/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+負けました
+> CONTEXT: Map002/events/1/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"エーランド神殿騎士"
+> CONTEXT: Map002/events/2/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map002/events/2/pages/0/14/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map002/events/2/pages/0/28/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map002/events/2/pages/0/38/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map002/events/2/pages/0/64/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map002/events/2/pages/0/69/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「なぜ私が夢魔の研究なんかに…
+　ああ神よ、私を淫らなる誘惑からお守り下さい…
+　ぶつぶつ……
+> CONTEXT: Map002/events/2/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あ、し、失礼しました…。
+　私は夢魔と\\c[2]ステータス\\c[0]について研究しています。
+　何を説明しましょうか？
+> CONTEXT: Map002/events/2/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「精力」と「技巧」について
+> CONTEXT: Map002/events/2/pages/0/12/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「精神力」について
+> CONTEXT: Map002/events/2/pages/0/12/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「魅力」について
+> CONTEXT: Map002/events/2/pages/0/12/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+別にいい
+> CONTEXT: Map002/events/2/pages/0/12/Choice/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\c[2]精力\\c[0]と\\c[2]技巧\\c[0]は共に攻めに関係する
+　ステータスです。　『バスト』などほとんどのテクニックには、
+　\\c[2]技巧\\c[0]が大きく関係します。
+> CONTEXT: Map002/events/2/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「しかし『ピストン』など…ええと…その……
+　\\w[40]相手と一体になった後に使うテクニックに関しては
+　\\c[2]精力\\c[0]が大きく関係してきます。
+> CONTEXT: Map002/events/2/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「また\\c[2]精力\\c[0]が高いと、一度…イ…
+　\\w[40]いや、せ、性的絶頂に達してしまった後でも、
+　『衰弱』状態でバトルを続けられる可能性があります。
+> CONTEXT: Map002/events/2/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何を説明しましょうか？
+> CONTEXT: Map002/events/2/pages/0/24/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/2/pages/0/34/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/2/pages/0/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\c[2]精神力\\c[0]は守りに関係するステータスです。
+　高い精神力を持てば、悪の快楽になど
+　屈しなくなることでしょう
+> CONTEXT: Map002/events/2/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「肉体的な快感だけでなく、『恍惚』などで
+　精神を惑わされる確立も減らせます。
+> CONTEXT: Map002/events/2/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\c[2]魅力\\c[0]は主に三つのことに関係します。
+　一つは攻め、一つは『ファシネイトキッス』など
+　補助テクニックの成功率、
+> CONTEXT: Map002/events/2/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もう一つは\\c[2]ムード\\c[0]の上昇率、
+　それと関連して\\c[2]トーク\\c[0]の成功率にも関係します。
+> CONTEXT: Map002/events/2/pages/0/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ほかにイン…
+　\\w[25]コホン、インサート…\\w[15]分かりますね…？
+　\\w[25]…などの成功率にも関係してきます。
+> CONTEXT: Map002/events/2/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「とにかく様々なことに関係する
+　重要なステータスだということです。
+> CONTEXT: Map002/events/2/pages/0/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おおそうだ、魅力と言えば丁度今
+　とても魅力的な我がエーランド教の
+　ロザリオを持っています。
+> CONTEXT: Map002/events/2/pages/0/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あなたに差し上げましょう。 なにお礼など要りません。
+　このロザリオの魅力で夢魔どもをイ…
+　\\w[40]いや…ええと…改心させてやって下さいませ。
+> CONTEXT: Map002/events/2/pages/0/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+古びたロザリオを手に入れた！
+> CONTEXT: Map002/events/2/pages/0/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それではお気をつけて。
+> CONTEXT: Map002/events/2/pages/0/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（帰りたい……
+　神よ、私を本国へ帰したまえ………
+> CONTEXT: Map002/events/2/pages/0/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'shell32.dll'
+> CONTEXT: Map002/events/3/pages/0/0/InlineScript/1:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ShellExecuteA'
+> CONTEXT: Map002/events/3/pages/0/0/InlineScript/1:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+%w(p
+p p p p i)
+> CONTEXT: Map002/events/3/pages/0/0/InlineScript/1:48 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'i'
+> CONTEXT: Map002/events/3/pages/0/0/InlineScript/2:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'open'
+> CONTEXT: Map002/events/3/pages/0/0/InlineScript/3:11 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"help.html"
+> CONTEXT: Map002/events/3/pages/0/0/InlineScript/3:19 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「簡易体験版ゆえ、この部屋より外には出られません。
+　なにとぞご了承下さい。
+> CONTEXT: Map002/events/4/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/15/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/16/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お疲れ様です。
+　EPとTPを回復させていただきます。
+> CONTEXT: Map002/events/5/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「EPが0になると
+　ゲームオーバーとなってしまいます。
+> CONTEXT: Map002/events/5/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「EPは相手のテクニックだけでなく、
+　"ピストン"など自分自身の行動によっても
+　減ることがありますのでお気をつけ下さい。
+> CONTEXT: Map002/events/5/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\d夢よ\\d、眠る男を身軽にしてやれ
+エロア、女体の天使、\\r[嵐,エオル]をひしぐもの、
+びろうどの\\r[海,う]\\r[洋,み]の中で
+　　　　　　　　　　　　　　　　　　　　　　　　　　　 ―ジャン・コクトー
+> CONTEXT: Map002/events/5/pages/1/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/11/pages/1/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"アルバイター"
+> CONTEXT: Map002/events/6/pages/0/0/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Map002/events/6/pages/0/7/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Map002/events/6/pages/0/12/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Map002/events/6/pages/0/54/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Map002/events/6/pages/0/74/InlineScript/1:6 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「このゲームのバトルは、
+　\\C[2]ムード\\C[0]がすっごく大切なのよ。
+> CONTEXT: Map002/events/6/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\C[2]ムード\\C[0]のことはもう知ってる？
+> CONTEXT: Map002/events/6/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+知ってる
+> CONTEXT: Map002/events/6/pages/0/5/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+知らない
+> CONTEXT: Map002/events/6/pages/0/5/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「せっかく勉強したのになぁ…
+　ああ誰かに話したい！ムードの話！
+> CONTEXT: Map002/events/6/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「教えてあげる！
+　私すっごく勉強したんだから。
+> CONTEXT: Map002/events/6/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ムードってのは一言で言うと、
+　バトルの『雰囲気』とか、『盛り上がり』のことね。
+> CONTEXT: Map002/events/6/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「バトル中、画面右下にでてくる
+　ハート型のゲージ…
+> CONTEXT: Map002/events/6/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そうコレ。
+　コレが\\C[2]ムードゲージ\\C[0]っていって、
+　ムードの高まりを表すの。
+> CONTEXT: Map002/events/6/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何かムードを高める行動をすると…
+> CONTEXT: Map002/events/6/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「こんな風に光るの。
+　それでもっとムードが高まると…
+> CONTEXT: Map002/events/6/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「こんな感じにハートが色づいていくの。
+　素敵でしょ？
+> CONTEXT: Map002/events/6/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でも逆に、雰囲気ぶち壊しぃ～
+　なことやっちゃうと…
+> CONTEXT: Map002/events/6/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「せっかく上げたムードも
+　台無しになっちゃうわ。
+> CONTEXT: Map002/events/6/pages/0/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何がムードを上げて何がムードを下げるかは、
+　状況によっても相手によっても変わるから
+　一言じゃ言えないの。
+> CONTEXT: Map002/events/6/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「自分でいろんなひとと相手して試してみてね。
+> CONTEXT: Map002/events/6/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「えっと、
+　ムードがバトルにどんな影響を与えるか、
+　についても聞きたい？
+> CONTEXT: Map002/events/6/pages/0/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聞きたい
+> CONTEXT: Map002/events/6/pages/0/52/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もういい
+> CONTEXT: Map002/events/6/pages/0/52/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ここまで聞いたなら予想できてるかもしれないけど、
+　すっごくいろんなことに影響するのよ。ムードって。
+> CONTEXT: Map002/events/6/pages/0/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いちばん分かりやすいのは、受ける快感が増すことかな？
+　中にはムードを上げないと
+　ほとんど感じてくれないようなひともいると思うわ。
+> CONTEXT: Map002/events/6/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「自分から服を脱がせたりインサートしたり
+　したい時も、ムードが無いと成功しづらいわね。
+> CONTEXT: Map002/events/6/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もちろん相手の行動も、
+　ムードによって変わってくるわ。
+> CONTEXT: Map002/events/6/pages/0/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それとね、すっごくムードを高めてから
+　相手をいかせると、何かご褒美がもらえることも
+　あるらしいわよ？
+> CONTEXT: Map002/events/6/pages/0/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「相手の攻めが激しくなることもあるから
+　あなたにとって絶対有利ってわけじゃないけど、
+　ムードは上げるようにしてた方がいいわね。
+> CONTEXT: Map002/events/6/pages/0/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「だいたい…
+　ムードのないバトルなんてつまらないわよ。
+> CONTEXT: Map002/events/6/pages/0/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あっそう…？
+> CONTEXT: Map002/events/6/pages/0/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\v[1]
+\\v[2]
+> CONTEXT: Map002/events/8/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"アスプルンド・ザ・シープ"
+> CONTEXT: Map002/events/9/pages/0/0/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/0/8/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/0/37/InlineScript/1:6 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（何で羊がこんなところにいるかって？
+> CONTEXT: Map002/events/9/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（君に\\c[2]テンション\\c[0]について教えるためさ。
+　メェェ～～！
+> CONTEXT: Map002/events/9/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+教えて
+> CONTEXT: Map002/events/9/pages/0/5/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+結構です
+> CONTEXT: Map002/events/9/pages/0/5/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（君の名前の下にある\\c[2]TP\\c[0]って数字、
+　それが\\c[2]テンション\\c[0]さ。　　メエェ～
+> CONTEXT: Map002/events/9/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（テンションは\\c[2]テクニック\\c[0]を使うのに
+　必要で、テクニックを使うと
+　減っていっちゃうのさ。　　メェ～～
+> CONTEXT: Map002/events/9/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（でもテンションは、バトル中\\c[2]ムード\\c[0]が高くなると
+　ちょっとづつ回復する。　だから…
+> CONTEXT: Map002/events/9/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ムードを高められそうなら、
+　テンションをたくさん使うテクニックも積極的に
+　使っていったほうがいいってことさ。　メエエェ～！
+> CONTEXT: Map002/events/9/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ただし『メディテーション』や『ガード』みたいに
+　防御や回復する技は、
+> CONTEXT: Map002/events/9/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（テンションが大幅に下がっちゃう上に、
+　ムードの上昇も見込めないから
+　注意した方がいいね。　　メェ～～
+> CONTEXT: Map002/events/9/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（テンションを高く保って、ムードも上げて、
+　エキサイティングなバトルを！　メエェェェ～～～！！
+
+> CONTEXT: Map002/events/9/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（メエェ～～～…
+> CONTEXT: Map002/events/9/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"リスヴェグ魔導騎士"
+> CONTEXT: Map002/events/10/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map002/events/10/pages/0/24/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map002/events/10/pages/0/48/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\a[1]「ガルルルルルルルル！！\\k
+> CONTEXT: Map002/events/10/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ラルスはリスヴェグ魔導騎士に押し倒された！
+> CONTEXT: Map002/events/10/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…っはっはっは、冗談冗談。
+　なに怒るな、 君に\\c[2]レジストゲージ\\c[0]について
+　説明してあげようってのさ。
+> CONTEXT: Map002/events/10/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いいかい、君はバトル中夢魔に
+　\\c[2]抵抗する機会\\c[0]を得ることがある。
+　そのとき表示されるのが今の\\c[2]レジストゲージ\\c[0]だ。
+> CONTEXT: Map002/events/10/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「レジストゲージが表示されたら、
+　とにかく\\c[2]決定ボタンを連打\\c[0]するんだ。
+　うまくいけば相手をはらいのけることができる。
+> CONTEXT: Map002/events/10/pages/0/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ただし！
+　あんまり抵抗してばかりいると相手の機嫌を損ねて、
+　\\c[2]ムード\\c[0]が下がることもあるから気をつけてな。
+> CONTEXT: Map002/events/10/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「愛の戦いは奥が深いのだよ。
+　ふっふっふ
+> CONTEXT: Map002/events/10/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そう、\\c[2]ムード\\c[0]のことを知らないなら
+　そこのバイトの子に聞くといい。
+　いろいろ教えておいたから詳しく知ってるはずだ。
+> CONTEXT: Map002/events/10/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いろいろと、な。
+　ふっふっふ
+> CONTEXT: Map002/events/10/pages/0/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ラルスはリスヴェグ魔導騎士をはねのけた！
+> CONTEXT: Map002/events/10/pages/0/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お、\\c[2]レジストゲージ\\c[0]のことは
+　もう分かってるようだな。　感心感心。
+> CONTEXT: Map002/events/10/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「キーボードの操作について
+　説明しましょう。
+> CONTEXT: Map002/events/11/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\c[2]Cボタン(キーボードのC、Enter、Space)で
+　決定\\c[0]、\\c[2]Bボタン(キーボードのX、Esc)で
+　キャンセル\\c[0]となります。 この二つは基本ですね。
+> CONTEXT: Map002/events/11/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「移動中は\\c[2]Bボタンでメニュー画面\\c[0]が
+　開きます。 また、\\c[2]Cボタンを押しっぱなしにすると
+　ダッシュ移動\\c[0]ができます。
+> CONTEXT: Map002/events/11/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「バトル中のスキル選択時など、選択画面の下に
+　タブが出ている時には、\\c[2]LまたはRボタン(キーボードの
+　QまたはW)でタブの切り替え\\c[0]ができます。
+> CONTEXT: Map002/events/11/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ここまで覚えて下されば、
+　通常のゲーム操作に支障はありません。
+> CONTEXT: Map002/events/11/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「さらにバトル中に限り\\c[2]Xボタン(キーボードのA)で
+　ゲームの一時停止\\c[0]、\\c[2]Yボタン（キーボードのS）
+　でメッセージの一時消去\\c[0]ができます。
+> CONTEXT: Map002/events/11/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「メニューの『アイテム』画面と『そうび』画面では、
+　\\c[2]Xボタン\\c[0]で選択中のアイテムの
+　詳細を見ることができます。
+> CONTEXT: Map002/events/11/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「わからなくなったらまたお聞き下さい。
+> CONTEXT: Map002/events/11/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バトルメッセージの速度を調整できます
+> CONTEXT: Map002/events/14/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+速く
+> CONTEXT: Map002/events/14/pages/0/3/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+標準
+> CONTEXT: Map002/events/14/pages/0/3/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+遅く
+> CONTEXT: Map002/events/14/pages/0/3/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\v[1]
+> CONTEXT: Map002/events/18/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/109/2/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/109/5/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/115/14/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/500/35/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/500/45/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/500/58/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/500/73/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/500/94/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/500/99/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/500/104/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/500/109/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/500/113/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/500/127/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/500/132/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/500/137/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/500/142/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/500/146/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/500/160/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/500/165/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/500/170/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/500/175/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/500/179/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/500/193/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/500/198/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/500/203/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/500/208/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/500/212/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/500/226/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/500/231/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/500/236/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/500/241/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/500/245/Dialogue < UNTRANSLATED
+
+> END STRING

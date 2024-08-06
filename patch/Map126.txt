@@ -1,0 +1,163 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「さあ食べた食べた！
+　ポッパナの魚料理は世界一だよ！
+　キアズマの珍しい料理もあるよ！
+> CONTEXT: Map126/events/2/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「なんだいなんだい、
+　みんな急に眠いとか言って
+　眠りだしちまったい。
+> CONTEXT: Map126/events/2/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ウチの料理食べりゃぁ
+　眠気なんて吹き飛ぶのになぁ！
+　ほら！
+> CONTEXT: Map126/events/2/pages/1/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"女将"
+> CONTEXT: Map126/events/4/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いらっしゃい！
+　ご注文は？
+> CONTEXT: Map126/events/4/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「魔都ホロスは、
+　ルグブロード平原上空に浮かぶ
+　巨大な浮島の上にあります。
+> CONTEXT: Map126/events/5/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「魔法で浮いてるそうですが、
+　実際見てもなかなか
+　信じられないと思いますわ。
+> CONTEXT: Map126/events/5/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ホロスに興味があるの？
+　でも今は行けないわよ。
+> CONTEXT: Map126/events/6/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「リスヴェグの統主、
+　魔導士ハグロフス様が行方不明で
+　テレポーターが止まっちゃったの。
+> CONTEXT: Map126/events/6/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「まあ、ハグロフス様が急にいなくなるなんて
+　今に始まったことじゃないんだけどな。
+> CONTEXT: Map126/events/7/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「グルッペンが羨ましいぜ。
+　名君で名高い賢王マグナス様なら
+　絶対にそんなことしないだろ？
+> CONTEXT: Map126/events/7/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"あぶない男"
+> CONTEXT: Map126/events/8/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ここの手伝いしてる子、
+　かわいいよなあ………
+> CONTEXT: Map126/events/8/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あっ、へ、
+　変な意味で言ったんじゃないぞっ
+> CONTEXT: Map126/events/8/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「この町を出て、南の\\c[2]セーデル砂漠\\c[0]を越えると
+　広大な\\c[2]ルグブロード平原\\c[0]に出ます。
+> CONTEXT: Map126/events/9/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\c[2]ルグブロード平原\\c[0]は
+　\\c[2]魔都ホロス\\c[0]をはじめ、
+　リスヴェグの各地と繋がっていますよ。
+> CONTEXT: Map126/events/9/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"遊びに来たエルフ"
+> CONTEXT: Map126/events/13/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ホロスから遊びにきたんだけど、
+　テレポーターが止まって
+　帰れなくなっちゃったのよ。
+> CONTEXT: Map126/events/13/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「統主がいなくなったせいだって聞くわ。
+　まったく、
+　ちゃんと働いて欲しいわよね！
+> CONTEXT: Map126/events/13/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「女に\\c[2]甘い言葉\\c[0]をかけるなら、
+　ムードだけじゃなく
+　相手の状態にも気を遣えよ。
+> CONTEXT: Map126/events/16/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「当たり前だけど、
+　恍惚としてる奴に声かけても
+　聞いちゃいないだろうからな。
+> CONTEXT: Map126/events/16/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「イきそうになってる奴なんかも、
+　ちゃんと聞いてるか怪しいもんだぜ。
+> CONTEXT: Map126/events/16/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING

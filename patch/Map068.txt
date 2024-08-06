@@ -1,0 +1,12 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+どこからともなく歌が聞こえる……
+> CONTEXT: Map068/events/4/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+体が勝手に引き寄せられる！
+> CONTEXT: Map068/events/4/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING

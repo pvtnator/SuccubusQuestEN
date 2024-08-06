@@ -1,0 +1,266 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+SQ_Town02
+> CONTEXT: Map050/bgm/name/ < UNTRANSLATED
+> CONTEXT: Map048/bgm/name/ < UNTRANSLATED
+> CONTEXT: Map047/bgm/name/ < UNTRANSLATED
+> CONTEXT: Map040/bgm/name/ < UNTRANSLATED
+> CONTEXT: Map039/bgm/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「この宿に滞在し、はや幾日……
+> CONTEXT: Map050/events/1/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「未だ『裏の宿』が
+　どこにあるのか分からん……
+　うううむ………
+> CONTEXT: Map050/events/1/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………こ…これが裏の………
+　ついに……ｚｚ……………
+> CONTEXT: Map050/events/1/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「宿屋、王の休息へようこそ。
+> CONTEXT: Map050/events/2/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そこの隣のテーブルに座ってる方、
+　ちょっと素敵じゃない？
+> CONTEXT: Map050/events/3/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いつも真剣な顔で何か考えてて……
+　きっと有名な作家さんか何かよ\\e[0]
+> CONTEXT: Map050/events/3/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「隣のテーブルの方、
+　急に眠り込んじゃったの。
+> CONTEXT: Map050/events/3/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「きっと疲れてたのね……
+> CONTEXT: Map050/events/3/pages/1/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…介抱して部屋まで連れてったら
+　お近づきになれるかしら\\e[0]
+> CONTEXT: Map050/events/3/pages/1/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おとうさんが　やどやに　いっちゃって、
+　わたしたち　いいこで　おるすばんなの！
+> CONTEXT: Map050/events/6/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でも　やどやって　ここだよね？
+　へんなの！
+> CONTEXT: Map050/events/6/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おとうさん　かえってこないし
+　みんな　おねむしちゃってるし
+　つまんない！
+> CONTEXT: Map050/events/6/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ねえねえ、
+　たからさがし　しようよ！
+> CONTEXT: Map050/events/7/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「たからさがし　しようよ！」
+> CONTEXT: Map050/events/7/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「このへやに　たからもの　かくしたんだ！
+　さがしてみて！
+> CONTEXT: Map050/events/7/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「つまんないの！
+> CONTEXT: Map050/events/7/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やったね！　おめでとう！
+> CONTEXT: Map050/events/7/pages/1/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それは　たからものだから
+　あげられないけど、
+　かわりに　これ　あげるよ！
+> CONTEXT: Map050/events/7/pages/1/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\c[4]オモチャの剣\\c[0] を返して、かわりに
+\\c[3]バタフライブローチ\\c[0] を手に入れた！
+> CONTEXT: Map050/events/7/pages/1/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「また　あそぼうね！
+> CONTEXT: Map050/events/7/pages/1/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いちど　しらべたからって
+　おしまいとおもっちゃ　おおまちがいだよ！
+> CONTEXT: Map050/events/7/pages/1/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おとうさん　まだかなあ……
+> CONTEXT: Map050/events/7/pages/2/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map050/events/7/pages/3/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]は棚の引き出しを調べた
+> CONTEXT: Map050/events/8/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map050/events/9/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+特に変わったものは無いようだ
+> CONTEXT: Map050/events/8/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map050/events/9/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map050/events/9/pages/2/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]は棚をよく調べた
+> CONTEXT: Map050/events/9/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんと、棚の裏側に
+\\c[4]オモチャの剣\\c[0]が隠してあった！
+> CONTEXT: Map050/events/9/pages/1/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]は棚を調べた
+> CONTEXT: Map050/events/9/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]は額に入った絵を調べた
+> CONTEXT: Map050/events/10/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+普通の風景画のようだ
+> CONTEXT: Map050/events/10/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]はイスとテーブルを調べた
+> CONTEXT: Map050/events/11/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map050/events/12/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+特に何もみあたらない
+> CONTEXT: Map050/events/11/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map050/events/12/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map050/events/13/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map050/events/14/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map050/events/15/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]は灯り台を調べた
+> CONTEXT: Map050/events/13/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]はベッドを調べた
+> CONTEXT: Map050/events/14/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map050/events/15/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「北西のフリーベリの町は、
+　人魚の町と呼ばれています。
+> CONTEXT: Map050/events/16/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「その昔人間と恋に落ちた人魚がいたという
+　伝説からそう呼ばれているそうです。
+　ロマンチックですね。
+> CONTEXT: Map050/events/16/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いつもごひいきにしていただき
+　ありがとうございます。
+> CONTEXT: Map050/events/17/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/5/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あら、お一人ですか？
+　お部屋に女の方がいたような……
+> CONTEXT: Map050/events/17/pages/1/2/Dialogue < UNTRANSLATED
+
+> END STRING

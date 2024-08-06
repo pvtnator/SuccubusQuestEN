@@ -1,0 +1,369 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「現実？ 夢？
+> CONTEXT: Map315/events/7/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あなた、
+　本当にその境が分かるの？
+> CONTEXT: Map315/events/7/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「アタシが教えてアゲルわ……
+> CONTEXT: Map315/events/7/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そんなもの、
+　本当は無いってコト。
+> CONTEXT: Map315/events/7/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あ……あ……………
+> CONTEXT: Map315/events/7/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"？？？/Guildenstern/09"
+> CONTEXT: Map315/events/7/pages/0/60/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map315/events/7/pages/0/66/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map315/events/7/pages/0/72/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map315/events/7/pages/0/368/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map315/events/7/pages/0/380/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map315/events/7/pages/0/401/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map315/events/7/pages/1/282/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map315/events/7/pages/1/288/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map315/events/7/pages/1/294/InlineScript/1:4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そう……だ…………
+> CONTEXT: Map315/events/7/pages/0/61/Dialogue < UNTRANSLATED
+> CONTEXT: Map315/events/7/pages/1/283/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「憎め………………
+> CONTEXT: Map315/events/7/pages/0/67/Dialogue < UNTRANSLATED
+> CONTEXT: Map315/events/7/pages/1/289/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「滅ぼせ……………！
+> CONTEXT: Map315/events/7/pages/0/73/Dialogue < UNTRANSLATED
+> CONTEXT: Map315/events/7/pages/1/295/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あ……あぁッ…………！
+> CONTEXT: Map315/events/7/pages/0/135/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そんな……\\r[夢魔,アタシ]まで………
+> CONTEXT: Map315/events/7/pages/0/145/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「愛せるって…………………
+　……言うの…………？
+> CONTEXT: Map315/events/7/pages/0/146/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここまでの進行をセーブしますか？
+> CONTEXT: Map315/events/7/pages/0/153/Dialogue < UNTRANSLATED
+> CONTEXT: Map311/events/5/pages/0/358/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]の持つ\\c[4]魔王のかけら\\c[0]が
+さらにまぶしく輝きはじめた！
+> CONTEXT: Map315/events/7/pages/0/167/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「気持ち…いいわ……
+　包み込まれる…………
+> CONTEXT: Map315/events/7/pages/0/183/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「これが…ギルデンスターンの……
+　あなたの…………
+> CONTEXT: Map315/events/7/pages/0/185/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ほんとうの…力…………
+> CONTEXT: Map315/events/7/pages/0/252/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いいえ……
+> CONTEXT: Map315/events/7/pages/0/257/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「違う……違うわ、こんなの！
+> CONTEXT: Map315/events/7/pages/0/365/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……ぜ………だ……………
+> CONTEXT: Map315/events/7/pages/0/369/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]……どうして……？
+> CONTEXT: Map315/events/7/pages/0/371/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どうしてっ！？
+　どうして夢魔を許すなんて
+　できるの！？
+> CONTEXT: Map315/events/7/pages/0/372/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「忘れたの！？
+　夢魔にされたこと！
+> CONTEXT: Map315/events/7/pages/0/375/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あなたの世界も……
+　あなたの大切な人も……
+> CONTEXT: Map315/events/7/pages/0/377/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「全部奪われるところだったのよ！
+> CONTEXT: Map315/events/7/pages/0/379/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…………を……………
+　………た………ように……
+> CONTEXT: Map315/events/7/pages/0/381/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]……剣を取って。
+> CONTEXT: Map315/events/7/pages/0/384/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「滅ぼすのよ。
+　かつてあなたが……
+> CONTEXT: Map315/events/7/pages/0/385/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「魔王をそうしたようにッ！
+> CONTEXT: Map315/events/7/pages/0/387/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……………………
+> CONTEXT: Map315/events/7/pages/0/402/Dialogue < UNTRANSLATED
+> CONTEXT: Map313/events/16/pages/0/214/Dialogue < UNTRANSLATED
+> CONTEXT: Map316/events/16/pages/0/214/Dialogue < UNTRANSLATED
+> CONTEXT: Map278/events/8/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map278/events/8/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map214/events/4/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/3/pages/0/270/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/16/pages/0/214/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/4/pages/5/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/12/pages/1/25/Dialogue < UNTRANSLATED
+> CONTEXT: Map144/events/2/pages/1/31/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/24/pages/4/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map140/events/34/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/25/pages/3/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/28/pages/0/272/Dialogue < UNTRANSLATED
+> CONTEXT: Map071/events/2/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/29/pages/0/272/Dialogue < UNTRANSLATED
+> CONTEXT: Map071/events/2/pages/4/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map039/events/53/pages/2/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map042/events/26/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map042/events/48/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…………そう……
+> CONTEXT: Map315/events/7/pages/0/405/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「なら……そのカラダ………
+> CONTEXT: Map315/events/7/pages/0/406/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「力ずくでも………！
+> CONTEXT: Map315/events/7/pages/0/407/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「………ああ……………
+> CONTEXT: Map315/events/7/pages/1/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]……残念よ………
+　ほんとうに……………
+> CONTEXT: Map315/events/7/pages/1/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でも……あなたが変わっても……
+> CONTEXT: Map315/events/7/pages/1/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ずっと…一緒……に………
+> CONTEXT: Map315/events/7/pages/1/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]……………
+> CONTEXT: Map315/events/7/pages/1/49/Dialogue < UNTRANSLATED
+> CONTEXT: Map037/events/2/pages/0/267/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/101/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そう……………
+　私…まで……………
+> CONTEXT: Map315/events/7/pages/1/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……ありが……とう…………
+> CONTEXT: Map315/events/7/pages/1/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ねえ、答えて………
+> CONTEXT: Map315/events/7/pages/1/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\n[1]にとって……私は………
+> CONTEXT: Map315/events/7/pages/1/113/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「現実………？
+　それとも……夢……？
+> CONTEXT: Map315/events/7/pages/1/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「現実？それとも夢？」
+> CONTEXT: Map315/events/7/pages/1/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+現実
+> CONTEXT: Map315/events/7/pages/1/118/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夢
+> CONTEXT: Map315/events/7/pages/1/118/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふふ…………
+　\\n[1]…………
+> CONTEXT: Map315/events/7/pages/1/129/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「楽しかったわ……
+　…これ、ほんとうよ………
+> CONTEXT: Map315/events/7/pages/1/131/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\r[現実,ほんとう]の私の気持ちよ…………
+> CONTEXT: Map315/events/7/pages/1/133/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私、あなたを……
+> CONTEXT: Map315/events/7/pages/1/134/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「好きだった……かもね………
+> CONTEXT: Map315/events/7/pages/1/135/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そう…それで………
+> CONTEXT: Map315/events/7/pages/1/254/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いいの……よ………
+> CONTEXT: Map315/events/7/pages/1/255/Dialogue < UNTRANSLATED
+
+> END STRING
