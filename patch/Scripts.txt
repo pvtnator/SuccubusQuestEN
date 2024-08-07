@@ -6279,7 +6279,7 @@
 "シダーウッド"
 > CONTEXT: Scripts/RPG::Item(detail)/13:12 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Battle 5/10:17 < UNTRANSLATED
-
+"Sandalwood"
 > END STRING
 
 > BEGIN STRING
@@ -6310,7 +6310,7 @@
 "サイプレスウッド"
 > CONTEXT: Scripts/RPG::Item(detail)/16:12 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Battle 5/15:17 < UNTRANSLATED
-
+"Cypress Wood"
 > END STRING
 
 > BEGIN STRING
@@ -6335,7 +6335,7 @@
 "サンダルウッド"
 > CONTEXT: Scripts/RPG::Item(detail)/19:12 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Battle 5/20:17 < UNTRANSLATED
-
+"Cedarwood"
 > END STRING
 
 > BEGIN STRING
@@ -6372,7 +6372,7 @@
 "アローズウッド"
 > CONTEXT: Scripts/RPG::Item(detail)/23:12 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Battle 5/26:17 < UNTRANSLATED
-
+"Arousewood"
 > END STRING
 
 > BEGIN STRING
@@ -6415,7 +6415,7 @@
 "ペパーミント"
 > CONTEXT: Scripts/RPG::Item(detail)/27:12 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Battle 5/31:17 < UNTRANSLATED
-
+"Peppermint"
 > END STRING
 
 > BEGIN STRING
@@ -6464,7 +6464,7 @@
 "メリッサ"
 > CONTEXT: Scripts/RPG::Item(detail)/31:12 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Battle 5/38:17 < UNTRANSLATED
-
+"Melissa"
 > END STRING
 
 > BEGIN STRING
@@ -6507,7 +6507,7 @@
 "ローズマリー"
 > CONTEXT: Scripts/RPG::Item(detail)/35:12 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Battle 5/45:17 < UNTRANSLATED
-
+"Rosemary"
 > END STRING
 
 > BEGIN STRING
@@ -6550,7 +6550,7 @@
 "ミルトス"
 > CONTEXT: Scripts/RPG::Item(detail)/39:12 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Battle 5/53:17 < UNTRANSLATED
-
+"Miltos"
 > END STRING
 
 > BEGIN STRING
@@ -6587,7 +6587,7 @@
 "ジャスミン"
 > CONTEXT: Scripts/RPG::Item(detail)/43:12 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Battle 5/60:17 < UNTRANSLATED
-
+"Jasmin"
 > END STRING
 
 > BEGIN STRING
@@ -6631,7 +6631,7 @@
 "ラヴェンダー"
 > CONTEXT: Scripts/RPG::Item(detail)/47:12 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Battle 5/64:17 < UNTRANSLATED
-
+"Lavendar"
 > END STRING
 
 > BEGIN STRING
@@ -6674,7 +6674,7 @@
 "ムスク"
 > CONTEXT: Scripts/RPG::Item(detail)/51:12 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Battle 5/68:17 < UNTRANSLATED
-
+"Musk"
 > END STRING
 
 > BEGIN STRING
@@ -6711,7 +6711,7 @@
 "マージョラム"
 > CONTEXT: Scripts/RPG::Item(detail)/55:12 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Battle 5/72:17 < UNTRANSLATED
-
+"Marjoram"
 > END STRING
 
 > BEGIN STRING
@@ -6753,7 +6753,7 @@
 > BEGIN STRING
 "ゼラニウム"
 > CONTEXT: Scripts/RPG::Item(detail)/59:12 < UNTRANSLATED
-
+"Geranium"
 > END STRING
 
 > BEGIN STRING
@@ -6783,7 +6783,7 @@
 > BEGIN STRING
 "カモミール"
 > CONTEXT: Scripts/RPG::Item(detail)/62:12 < UNTRANSLATED
-
+"Chamomile"
 > END STRING
 
 > BEGIN STRING
@@ -6825,7 +6825,7 @@
 > BEGIN STRING
 "ディル"
 > CONTEXT: Scripts/RPG::Item(detail)/66:12 < UNTRANSLATED
-
+"Dill"
 > END STRING
 
 > BEGIN STRING
@@ -6868,7 +6868,7 @@
 "フランキンセンス"
 > CONTEXT: Scripts/RPG::Item(detail)/70:12 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Battle 5/84:17 < UNTRANSLATED
-
+"Frankincense"
 > END STRING
 
 > BEGIN STRING
@@ -6898,7 +6898,7 @@
 > BEGIN STRING
 "ミントティー"
 > CONTEXT: Scripts/RPG::Item(detail)/75:12 < UNTRANSLATED
-
+"Mint Tea"
 > END STRING
 
 > BEGIN STRING
@@ -6934,7 +6934,7 @@
 > BEGIN STRING
 "ローズティー"
 > CONTEXT: Scripts/RPG::Item(detail)/79:12 < UNTRANSLATED
-
+"Rose Tea"
 > END STRING
 
 > BEGIN STRING
@@ -6978,7 +6978,7 @@
 > BEGIN STRING
 "アールグレイ"
 > CONTEXT: Scripts/RPG::Item(detail)/83:12 < UNTRANSLATED
-
+"Earl Grey"
 > END STRING
 
 > BEGIN STRING
@@ -6997,7 +6997,7 @@
 "ヴィドヴィンウォータ"
 > CONTEXT: Scripts/Game_Battler 3-2/139:40 < UNTRANSLATED
 > CONTEXT: Scripts/RPG::Item(detail)/264:12 < UNTRANSLATED
-
+"Vidvin Water"
 > END STRING
 
 > BEGIN STRING
@@ -7016,7 +7016,7 @@
 "クヴァラットミルク"
 > CONTEXT: Scripts/Game_Battler 3-2/142:43 < UNTRANSLATED
 > CONTEXT: Scripts/RPG::Item(detail)/267:12 < UNTRANSLATED
-
+"Kvarat Milk"
 > END STRING
 
 > BEGIN STRING
@@ -7035,13 +7035,13 @@
 "ファドゥルサワー"
 > CONTEXT: Scripts/Game_Battler 3-2/150:43 < UNTRANSLATED
 > CONTEXT: Scripts/RPG::Item(detail)/272:12 < UNTRANSLATED
-
+"Fadul Sour"
 > END STRING
 
 > BEGIN STRING
 "リスヴェグティー"
 > CONTEXT: Scripts/RPG::Item(detail)/87:12 < UNTRANSLATED
-
+"Lisvegty"
 > END STRING
 
 > BEGIN STRING
@@ -7060,7 +7060,7 @@
 "ミョッズ"
 > CONTEXT: Scripts/Game_Battler 3-2/157:43 < UNTRANSLATED
 > CONTEXT: Scripts/RPG::Item(detail)/269:12 < UNTRANSLATED
-
+"Mjodz"
 > END STRING
 
 > BEGIN STRING
@@ -7073,7 +7073,7 @@
 "ベルモットミョッズ"
 > CONTEXT: Scripts/Game_Battler 3-2/164:43 < UNTRANSLATED
 > CONTEXT: Scripts/RPG::Item(detail)/278:12 < UNTRANSLATED
-
+"Vermouth Mijoze"
 > END STRING
 
 > BEGIN STRING
@@ -7099,13 +7099,13 @@
 "ライスワイン"
 > CONTEXT: Scripts/Game_Battler 3-2/171:43 < UNTRANSLATED
 > CONTEXT: Scripts/RPG::Item(detail)/284:12 < UNTRANSLATED
-
+"Rice Wine"
 > END STRING
 
 > BEGIN STRING
 "チャーイ"
 > CONTEXT: Scripts/RPG::Item(detail)/91:12 < UNTRANSLATED
-
+"Chai"
 > END STRING
 
 > BEGIN STRING
@@ -7166,13 +7166,13 @@
 > CONTEXT: Troops/331/pages/4/1/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Troops/331/pages/5/9/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Troops/331/pages/6/1/InlineScript/1:4 < UNTRANSLATED
-
+"Rovissa"
 > END STRING
 
 > BEGIN STRING
 "エーランドブレンド"
 > CONTEXT: Scripts/RPG::Item(detail)/95:12 < UNTRANSLATED
-
+"Oland Blend"
 > END STRING
 
 > BEGIN STRING
@@ -7194,7 +7194,7 @@
 > CONTEXT: Troops/328/pages/2/1/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Troops/328/pages/2/10/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Troops/328/pages/3/12/InlineScript/1:4 < UNTRANSLATED
-
+"Olivia"
 > END STRING
 
 > BEGIN STRING
@@ -7230,7 +7230,7 @@
 > BEGIN STRING
 "ロイヤルグルッペン"
 > CONTEXT: Scripts/RPG::Item(detail)/99:12 < UNTRANSLATED
-
+"Royal Gruppen"
 > END STRING
 
 > BEGIN STRING
@@ -7266,7 +7266,7 @@
 > BEGIN STRING
 "マジックハーブティー"
 > CONTEXT: Scripts/RPG::Item(detail)/103:12 < UNTRANSLATED
-
+"Magic Herbal Tea"
 > END STRING
 
 > BEGIN STRING
@@ -7341,7 +7341,7 @@
 > BEGIN STRING
 "鎮静剤"
 > CONTEXT: Scripts/RPG::Item(detail)/108:12 < UNTRANSLATED
-
+"Sedatives"
 > END STRING
 
 > BEGIN STRING
@@ -8290,7 +8290,7 @@
 > BEGIN STRING
 "魔王のかけら"
 > CONTEXT: Scripts/RPG::Item(detail)/218:12 < UNTRANSLATED
-
+"Demon King's Shard"
 > END STRING
 
 > BEGIN STRING
@@ -8546,7 +8546,7 @@
 > BEGIN STRING
 "リスヴェグワイン"
 > CONTEXT: Scripts/RPG::Item(detail)/275:12 < UNTRANSLATED
-
+"Lisvegwein"
 > END STRING
 
 > BEGIN STRING
@@ -8576,7 +8576,7 @@
 > BEGIN STRING
 "マタタビワイン"
 > CONTEXT: Scripts/RPG::Item(detail)/281:12 < UNTRANSLATED
-
+"Matatabi Wine"
 > END STRING
 
 > BEGIN STRING
@@ -8606,7 +8606,7 @@
 > BEGIN STRING
 "エスプレッソ"
 > CONTEXT: Scripts/RPG::Item(detail)/287:12 < UNTRANSLATED
-
+"Espresso"
 > END STRING
 
 > BEGIN STRING
@@ -8618,7 +8618,7 @@
 > BEGIN STRING
 "ルイスブレッド"
 > CONTEXT: Scripts/RPG::Item(detail)/290:12 < UNTRANSLATED
-
+"Louis Bread"
 > END STRING
 
 > BEGIN STRING
@@ -8672,7 +8672,7 @@
 > BEGIN STRING
 "ヴァーサ風リゾット"
 > CONTEXT: Scripts/RPG::Item(detail)/299:12 < UNTRANSLATED
-
+"Vasa Style Risotto"
 > END STRING
 
 > BEGIN STRING
@@ -8684,7 +8684,7 @@
 > BEGIN STRING
 "グリーンサラダ"
 > CONTEXT: Scripts/RPG::Item(detail)/301:12 < UNTRANSLATED
-
+"Green Salad"
 > END STRING
 
 > BEGIN STRING
@@ -8696,7 +8696,7 @@
 > BEGIN STRING
 "木の実のサラダ"
 > CONTEXT: Scripts/RPG::Item(detail)/303:12 < UNTRANSLATED
-
+"Nut Salad"
 > END STRING
 
 > BEGIN STRING
@@ -8714,7 +8714,7 @@
 > BEGIN STRING
 "エクルヴィスサラダ"
 > CONTEXT: Scripts/RPG::Item(detail)/306:12 < UNTRANSLATED
-
+"Ecruvis Salad"
 > END STRING
 
 > BEGIN STRING
@@ -8732,7 +8732,7 @@
 > BEGIN STRING
 "ニシンの塩漬け"
 > CONTEXT: Scripts/RPG::Item(detail)/309:12 < UNTRANSLATED
-
+"Salted Herring"
 > END STRING
 
 > BEGIN STRING
@@ -8768,7 +8768,7 @@
 > BEGIN STRING
 "シトラスソーリ"
 > CONTEXT: Scripts/RPG::Item(detail)/315:12 < UNTRANSLATED
-
+"Citrus Sori"
 > END STRING
 
 > BEGIN STRING
@@ -8798,7 +8798,7 @@
 > BEGIN STRING
 "ボイルドサーバー"
 > CONTEXT: Scripts/RPG::Item(detail)/320:12 < UNTRANSLATED
-
+"Boiled Server"
 > END STRING
 
 > BEGIN STRING
@@ -8816,7 +8816,7 @@
 > BEGIN STRING
 "マトンジャーキー"
 > CONTEXT: Scripts/RPG::Item(detail)/323:12 < UNTRANSLATED
-
+"Mutton Jerky"
 > END STRING
 
 > BEGIN STRING
@@ -8840,7 +8840,7 @@
 > BEGIN STRING
 "マウンテンステーキ"
 > CONTEXT: Scripts/RPG::Item(detail)/327:12 < UNTRANSLATED
-
+"Mountain Steak"
 > END STRING
 
 > BEGIN STRING
@@ -8860,7 +8860,7 @@
 > BEGIN STRING
 "雪ウサギのシチュー"
 > CONTEXT: Scripts/RPG::Item(detail)/329:12 < UNTRANSLATED
-
+"Snow Rabbit Stew"
 > END STRING
 
 > BEGIN STRING
@@ -8888,7 +8888,7 @@
 > BEGIN STRING
 "グルッペナーソテー"
 > CONTEXT: Scripts/RPG::Item(detail)/331:12 < UNTRANSLATED
-
+"Gruppen Saute"
 > END STRING
 
 > BEGIN STRING
@@ -8922,7 +8922,7 @@
 > BEGIN STRING
 "キアズマ風ポークシチュー"
 > CONTEXT: Scripts/RPG::Item(detail)/334:12 < UNTRANSLATED
-
+"Kiasma Style Pork Stew"
 > END STRING
 
 > BEGIN STRING
@@ -8940,7 +8940,7 @@
 > BEGIN STRING
 "エルドチーズ"
 > CONTEXT: Scripts/RPG::Item(detail)/337:12 < UNTRANSLATED
-
+"Eld Cheese"
 > END STRING
 
 > BEGIN STRING
@@ -8958,7 +8958,7 @@
 > BEGIN STRING
 "グリルドデヴィル"
 > CONTEXT: Scripts/RPG::Item(detail)/340:12 < UNTRANSLATED
-
+"Grilled Devil"
 > END STRING
 
 > BEGIN STRING
@@ -8970,7 +8970,7 @@
 > BEGIN STRING
 "葉トカゲのソテー"
 > CONTEXT: Scripts/RPG::Item(detail)/342:12 < UNTRANSLATED
-
+"Sauteed Leaf Lizard"
 > END STRING
 
 > BEGIN STRING
@@ -8994,7 +8994,7 @@
 > BEGIN STRING
 "香草のサラダ"
 > CONTEXT: Scripts/RPG::Item(detail)/346:12 < UNTRANSLATED
-
+"Herb salad"
 > END STRING
 
 > BEGIN STRING
@@ -9006,7 +9006,7 @@
 > BEGIN STRING
 "ハニービスケット"
 > CONTEXT: Scripts/RPG::Item(detail)/348:12 < UNTRANSLATED
-
+"Honey Biscuit"
 > END STRING
 
 > BEGIN STRING
@@ -9066,7 +9066,7 @@
 > BEGIN STRING
 "ベイクドアップル"
 > CONTEXT: Scripts/RPG::Item(detail)/358:12 < UNTRANSLATED
-
+"Baked Apple"
 > END STRING
 
 > BEGIN STRING
@@ -12164,7 +12164,7 @@
 "「………"
 > CONTEXT: Scripts/Game_Battler(msg-ennude(E))/184:12 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Battler(msg-insert(E))/203:12 < UNTRANSLATED
-
+"「..."
 > END STRING
 
 > BEGIN STRING
@@ -16661,7 +16661,7 @@
 > BEGIN STRING
 "カームブレス"
 > CONTEXT: Scripts/Game_Battler 3-1/574:41 < UNTRANSLATED
-
+"Calm Breath"
 > END STRING
 
 > BEGIN STRING
@@ -18378,7 +18378,7 @@
 > BEGIN STRING
 "ベルツェリーの森"
 > CONTEXT: Scripts/Window_SaveFile/125:14 < UNTRANSLATED
-
+"Berzelii Forest"
 > END STRING
 
 > BEGIN STRING
@@ -21270,7 +21270,7 @@
 > BEGIN STRING
 "ヘンルーダ"
 > CONTEXT: Scripts/Scene_Battle 5/78:17 < UNTRANSLATED
-
+"Common rue"
 > END STRING
 
 > BEGIN STRING
@@ -22675,7 +22675,7 @@
 "テンダーキッス"
 > CONTEXT: Scripts/Scene_Battle 4/793:66 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Battle 4/798:42 < UNTRANSLATED
-
+"Tender Kiss"
 > END STRING
 
 > BEGIN STRING

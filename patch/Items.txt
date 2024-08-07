@@ -443,7 +443,7 @@ Sedatives
 
 > BEGIN STRING
 〔食事〕 フォルミダーグ全土で食されるルイス麦で作った黒パン
-> CONTEXT: Items/51/description/ < UNTRANSLATED
+> CONTEXT: Items/51/description/
 [Food] Brown bread made from Lewis wheat, eaten throughout Formidag
 > END STRING
 
@@ -491,7 +491,7 @@ SQ_Food
 
 > BEGIN STRING
 〔食事〕 チーズとたっぷりの玉ネギを乗せたシプリ名物オープンサンド
-> CONTEXT: Items/52/description/ < UNTRANSLATED
+> CONTEXT: Items/52/description/
 [Meal] Sipuli's specialty open sandwich with cheese and onions
 > END STRING
 
@@ -521,13 +521,13 @@ SQ_Food
 
 > BEGIN STRING
 〔食事〕 森で採れるナッツをふんだんに使ったサラダ
-> CONTEXT: Items/62/description/ < UNTRANSLATED
+> CONTEXT: Items/62/description/
 [Meal] Salad made with plenty of nuts from the forest
 > END STRING
 
 > BEGIN STRING
 〔食事〕 ルグブロードを流れる川で採れる新鮮なザリガニを使ったサラダ
-> CONTEXT: Items/63/description/ < UNTRANSLATED
+> CONTEXT: Items/63/description/
 [Meal] With fresh crayfish caught in the Lugbrood river
 > END STRING
 
@@ -623,7 +623,7 @@ Salted Herring
 
 > BEGIN STRING
 〔食事〕 山羊の肉をさまざまなハーブと共に焼いたステーキ
-> CONTEXT: Items/82/description/ < UNTRANSLATED
+> CONTEXT: Items/82/description/
 [Food] Goat steak grilled with various herbs
 > END STRING
 

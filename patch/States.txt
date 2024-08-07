@@ -731,7 +731,7 @@ Rosewood
 サンダルウッド
 > CONTEXT: States/137/name/
 > CONTEXT: Items/3/name/
-Cedarwood
+Sandalwood
 > END STRING
 
 > BEGIN STRING
