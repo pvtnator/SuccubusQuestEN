@@ -1659,30 +1659,30 @@ MP+5%(博士の呪文書)
 
 > BEGIN STRING
 ルイスブレッド
-> CONTEXT: States/321/name/ < UNTRANSLATED
-> CONTEXT: Items/51/name/ < UNTRANSLATED
-
+> CONTEXT: States/321/name/
+> CONTEXT: Items/51/name/
+Louis Bread
 > END STRING
 
 > BEGIN STRING
 シプリサンド
-> CONTEXT: States/322/name/ < UNTRANSLATED
-> CONTEXT: Items/52/name/ < UNTRANSLATED
-
+> CONTEXT: States/322/name/
+> CONTEXT: Items/52/name/
+Sipulisand
 > END STRING
 
 > BEGIN STRING
 木の実のサラダ
-> CONTEXT: States/323/name/ < UNTRANSLATED
-> CONTEXT: Items/62/name/ < UNTRANSLATED
-
+> CONTEXT: States/323/name/
+> CONTEXT: Items/62/name/
+Nut Salad
 > END STRING
 
 > BEGIN STRING
 グリーンサラダ
-> CONTEXT: States/324/name/ < UNTRANSLATED
-> CONTEXT: Items/61/name/ < UNTRANSLATED
-
+> CONTEXT: States/324/name/
+> CONTEXT: Items/61/name/
+Green Salad
 > END STRING
 
 > BEGIN STRING
@@ -1693,16 +1693,16 @@ MP+5%(博士の呪文書)
 
 > BEGIN STRING
 マトンジャーキー
-> CONTEXT: States/326/name/ < UNTRANSLATED
-> CONTEXT: Items/80/name/ < UNTRANSLATED
-
+> CONTEXT: States/326/name/
+> CONTEXT: Items/80/name/
+Mutton Jerky
 > END STRING
 
 > BEGIN STRING
 マウンテンステーキ
-> CONTEXT: States/327/name/ < UNTRANSLATED
-> CONTEXT: Items/82/name/ < UNTRANSLATED
-
+> CONTEXT: States/327/name/
+> CONTEXT: Items/82/name/
+Mountain Steak
 > END STRING
 
 > BEGIN STRING
@@ -1725,9 +1725,9 @@ MP+5%(博士の呪文書)
 
 > BEGIN STRING
 グルッペナーソテー
-> CONTEXT: States/331/name/ < UNTRANSLATED
-> CONTEXT: Items/83/name/ < UNTRANSLATED
-
+> CONTEXT: States/331/name/
+> CONTEXT: Items/83/name/
+Gruppen Saute
 > END STRING
 
 > BEGIN STRING
@@ -1750,30 +1750,30 @@ MP+5%(博士の呪文書)
 
 > BEGIN STRING
 エクルヴィスサラダ
-> CONTEXT: States/335/name/ < UNTRANSLATED
-> CONTEXT: Items/63/name/ < UNTRANSLATED
-
+> CONTEXT: States/335/name/
+> CONTEXT: Items/63/name/
+Ecruvis Salad
 > END STRING
 
 > BEGIN STRING
 シトラスソーリ
-> CONTEXT: States/336/name/ < UNTRANSLATED
-> CONTEXT: Items/74/name/ < UNTRANSLATED
-
+> CONTEXT: States/336/name/
+> CONTEXT: Items/74/name/
+Citrus Sori
 > END STRING
 
 > BEGIN STRING
 ボイルドサーバー
-> CONTEXT: States/337/name/ < UNTRANSLATED
-> CONTEXT: Items/75/name/ < UNTRANSLATED
-
+> CONTEXT: States/337/name/
+> CONTEXT: Items/75/name/
+Boiled Server
 > END STRING
 
 > BEGIN STRING
 グリルドデヴィル
-> CONTEXT: States/338/name/ < UNTRANSLATED
-> CONTEXT: Items/76/name/ < UNTRANSLATED
-
+> CONTEXT: States/338/name/
+> CONTEXT: Items/76/name/
+Grilled Devil
 > END STRING
 
 > BEGIN STRING
@@ -1808,9 +1808,9 @@ MP+5%(博士の呪文書)
 
 > BEGIN STRING
 葉トカゲのソテー
-> CONTEXT: States/344/name/ < UNTRANSLATED
-> CONTEXT: Items/84/name/ < UNTRANSLATED
-
+> CONTEXT: States/344/name/
+> CONTEXT: Items/84/name/
+Sauteed Leaf Lizard
 > END STRING
 
 > BEGIN STRING
@@ -1821,9 +1821,9 @@ MP+5%(博士の呪文書)
 
 > BEGIN STRING
 香草のサラダ
-> CONTEXT: States/346/name/ < UNTRANSLATED
-> CONTEXT: Items/65/name/ < UNTRANSLATED
-
+> CONTEXT: States/346/name/
+> CONTEXT: Items/65/name/
+Herb salad
 > END STRING
 
 > BEGIN STRING
@@ -1864,23 +1864,23 @@ MP+5%(博士の呪文書)
 
 > BEGIN STRING
 キアズマ風ポークシチュー
-> CONTEXT: States/353/name/ < UNTRANSLATED
-> CONTEXT: Items/86/name/ < UNTRANSLATED
-
+> CONTEXT: States/353/name/
+> CONTEXT: Items/86/name/
+Kiasma Style Pork Stew
 > END STRING
 
 > BEGIN STRING
 雪ウサギのシチュー
-> CONTEXT: States/354/name/ < UNTRANSLATED
-> CONTEXT: Items/85/name/ < UNTRANSLATED
-
+> CONTEXT: States/354/name/
+> CONTEXT: Items/85/name/
+Snow Rabbit Stew
 > END STRING
 
 > BEGIN STRING
 ヴァーサ風リゾット
-> CONTEXT: States/355/name/ < UNTRANSLATED
-> CONTEXT: Items/54/name/ < UNTRANSLATED
-
+> CONTEXT: States/355/name/
+> CONTEXT: Items/54/name/
+Vasa Style Risotto
 > END STRING
 
 > BEGIN STRING
@@ -1903,9 +1903,9 @@ MP+10%(夏至の魔力)
 
 > BEGIN STRING
 フォシブル
-> CONTEXT: States/373/name/ < UNTRANSLATED
-> CONTEXT: Skills/155/name/ < UNTRANSLATED
-
+> CONTEXT: States/373/name/
+> CONTEXT: Skills/155/name/
+Fossible
 > END STRING
 
 > BEGIN STRING

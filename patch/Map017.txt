@@ -80,7 +80,7 @@
 > BEGIN STRING
 「ここは防具の店だ
 > CONTEXT: Map017/events/4/pages/0/1/Dialogue
-"This is an armor store.
+「This is an armor store.
 > END STRING
 
 > BEGIN STRING
@@ -89,8 +89,8 @@
 　それで洋服屋に鞍替えしたんだ。
 > CONTEXT: Map017/events/4/pages/0/2/Dialogue
 「...But then the hero defeated the Demon King 
-and there were no more monsters, right? 
-So we switched to a clothing store.
+　and there were no more monsters, right? 
+　So we switched to a clothing store.
 > END STRING
 
 > BEGIN STRING

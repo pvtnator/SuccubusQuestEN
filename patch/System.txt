@@ -98,14 +98,14 @@ EP
 
 > BEGIN STRING
 素早さ
-> CONTEXT: System/words/agi/ < UNTRANSLATED
-
+> CONTEXT: System/words/agi/
+Agility
 > END STRING
 
 > BEGIN STRING
 愛撫
-> CONTEXT: System/words/attack/ < UNTRANSLATED
-
+> CONTEXT: System/words/attack/
+Caress
 > END STRING
 
 > BEGIN STRING

@@ -444,7 +444,7 @@ Sedatives
 > BEGIN STRING
 〔食事〕 フォルミダーグ全土で食されるルイス麦で作った黒パン
 > CONTEXT: Items/51/description/ < UNTRANSLATED
-
+[Food] Brown bread made from Lewis wheat, eaten throughout Formidag
 > END STRING
 
 > BEGIN STRING
@@ -492,7 +492,7 @@ SQ_Food
 > BEGIN STRING
 〔食事〕 チーズとたっぷりの玉ネギを乗せたシプリ名物オープンサンド
 > CONTEXT: Items/52/description/ < UNTRANSLATED
-
+[Meal] Sipuli's specialty open sandwich with cheese and onions
 > END STRING
 
 > BEGIN STRING
@@ -522,13 +522,13 @@ SQ_Food
 > BEGIN STRING
 〔食事〕 森で採れるナッツをふんだんに使ったサラダ
 > CONTEXT: Items/62/description/ < UNTRANSLATED
-
+[Meal] Salad made with plenty of nuts from the forest
 > END STRING
 
 > BEGIN STRING
 〔食事〕 ルグブロードを流れる川で採れる新鮮なザリガニを使ったサラダ
 > CONTEXT: Items/63/description/ < UNTRANSLATED
-
+[Meal] With fresh crayfish caught in the Lugbrood river
 > END STRING
 
 > BEGIN STRING
@@ -551,14 +551,14 @@ SQ_Food
 
 > BEGIN STRING
 ニシンの塩漬け
-> CONTEXT: Items/71/name/ < UNTRANSLATED
-
+> CONTEXT: Items/71/name/
+Salted Herring
 > END STRING
 
 > BEGIN STRING
 〔食事〕 塩辛く漬けた小ぶりのニシン
-> CONTEXT: Items/71/description/ < UNTRANSLATED
-
+> CONTEXT: Items/71/description/
+[Food] Small salted pickled herring
 > END STRING
 
 > BEGIN STRING
@@ -624,7 +624,7 @@ SQ_Food
 > BEGIN STRING
 〔食事〕 山羊の肉をさまざまなハーブと共に焼いたステーキ
 > CONTEXT: Items/82/description/ < UNTRANSLATED
-
+[Food] Goat steak grilled with various herbs
 > END STRING
 
 > BEGIN STRING
@@ -653,20 +653,20 @@ SQ_Food
 
 > BEGIN STRING
 エルドチーズ
-> CONTEXT: Items/96/name/ < UNTRANSLATED
-
+> CONTEXT: Items/96/name/
+Eld Cheese
 > END STRING
 
 > BEGIN STRING
 〔食事〕 少しクセのある羊乳で作ったチーズ
-> CONTEXT: Items/96/description/ < UNTRANSLATED
-
+> CONTEXT: Items/96/description/
+[Food] Cheese from sheep's milk with slightly unusual taste
 > END STRING
 
 > BEGIN STRING
 ベイクドアップル
-> CONTEXT: Items/100/name/ < UNTRANSLATED
-
+> CONTEXT: Items/100/name/
+Baked Apple
 > END STRING
 
 > BEGIN STRING
@@ -833,14 +833,14 @@ Honey Biscuit
 
 > BEGIN STRING
 ヴィドヴィンウォータ
-> CONTEXT: Items/141/name/ < UNTRANSLATED
-
+> CONTEXT: Items/141/name/
+Vidvin Water
 > END STRING
 
 > BEGIN STRING
 〔ドリンク〕 ヴィドヴィン山脈に湧く天然水
-> CONTEXT: Items/141/description/ < UNTRANSLATED
-
+> CONTEXT: Items/141/description/
+[Drink] Natural spring water from the Vidvin Mountains
 > END STRING
 
 > BEGIN STRING
@@ -866,140 +866,140 @@ SQ_Drink
 
 > BEGIN STRING
 クヴァラットミルク
-> CONTEXT: Items/142/name/ < UNTRANSLATED
-
+> CONTEXT: Items/142/name/
+Kvarat Milk
 > END STRING
 
 > BEGIN STRING
 〔ドリンク〕 甘くて飲みやすい羊のミルク
-> CONTEXT: Items/142/description/ < UNTRANSLATED
-
+> CONTEXT: Items/142/description/
+[Drink] Sweet and easy to drink sheep's milk
 > END STRING
 
 > BEGIN STRING
 ミョッズ
-> CONTEXT: Items/143/name/ < UNTRANSLATED
-
+> CONTEXT: Items/143/name/
+Mjodz
 > END STRING
 
 > BEGIN STRING
 〔ドリンク〕 蜂蜜を発酵させて作った蜜酒
-> CONTEXT: Items/143/description/ < UNTRANSLATED
-
+> CONTEXT: Items/143/description/
+[Drink] Mead made by fermenting honey
 > END STRING
 
 > BEGIN STRING
 ベルモットミョッズ
-> CONTEXT: Items/144/name/ < UNTRANSLATED
-
+> CONTEXT: Items/144/name/
+Vermouth Mijoze
 > END STRING
 
 > BEGIN STRING
 〔ドリンク〕 ハーブとシトラスで風味をつけた蜜酒
-> CONTEXT: Items/144/description/ < UNTRANSLATED
-
+> CONTEXT: Items/144/description/
+[Drink] Honeydew flavored with herbs and citrus
 > END STRING
 
 > BEGIN STRING
 ファドゥルサワー
-> CONTEXT: Items/145/name/ < UNTRANSLATED
-
+> CONTEXT: Items/145/name/
+Fadul Sour
 > END STRING
 
 > BEGIN STRING
 〔ドリンク〕 ファドゥル麦を発酵させて作った麦酒
-> CONTEXT: Items/145/description/ < UNTRANSLATED
-
+> CONTEXT: Items/145/description/
+[Drink] Beer made from fermented Fadul barley
 > END STRING
 
 > BEGIN STRING
 リスヴェグワイン
-> CONTEXT: Items/146/name/ < UNTRANSLATED
-
+> CONTEXT: Items/146/name/
+Lisvegwein
 > END STRING
 
 > BEGIN STRING
 〔ドリンク〕 魔法により短期間で作られるリスヴェグ産の葡萄酒
-> CONTEXT: Items/146/description/ < UNTRANSLATED
-
+> CONTEXT: Items/146/description/
+[Drink] Lisvegg wine made in a short time by magic
 > END STRING
 
 > BEGIN STRING
 マタタビワイン
-> CONTEXT: Items/147/name/ < UNTRANSLATED
-
+> CONTEXT: Items/147/name/
+Matatabi Wine
 > END STRING
 
 > BEGIN STRING
 〔ドリンク〕 マタタビの実から作った果実酒
-> CONTEXT: Items/147/description/ < UNTRANSLATED
-
+> CONTEXT: Items/147/description/
+[Drink] Fruit liqueur made from silver vine fruit
 > END STRING
 
 > BEGIN STRING
 ライスワイン
-> CONTEXT: Items/148/name/ < UNTRANSLATED
-
+> CONTEXT: Items/148/name/
+Rice Wine
 > END STRING
 
 > BEGIN STRING
 〔ドリンク〕 フリーベリ地方で飲まれるコメから作った醸造酒
-> CONTEXT: Items/148/description/ < UNTRANSLATED
-
+> CONTEXT: Items/148/description/
+[Drink] A drink made from rice that is drunk in Friberg.
 > END STRING
 
 > BEGIN STRING
 エスプレッソ
-> CONTEXT: Items/149/name/ < UNTRANSLATED
-
+> CONTEXT: Items/149/name/
+Espresso
 > END STRING
 
 > BEGIN STRING
 〔ドリンク〕 遠く異国の地で飲まれている謎の黒い飲み物
-> CONTEXT: Items/149/description/ < UNTRANSLATED
-
+> CONTEXT: Items/149/description/
+[Drink] A mysterious black drink drunk in a faraway foreign land
 > END STRING
 
 > BEGIN STRING
 シプリズホワイト
-> CONTEXT: Items/155/name/ < UNTRANSLATED
-
+> CONTEXT: Items/155/name/
+Sipuli's White
 > END STRING
 
 > BEGIN STRING
 〔ドリンク〕 透き通るような味のシプリ特産葡萄酒
-> CONTEXT: Items/155/description/ < UNTRANSLATED
-
+> CONTEXT: Items/155/description/
+[Drink] Sipuli's specialty grape wine with a clear taste
 > END STRING
 
 > BEGIN STRING
 レッドグルッペン
-> CONTEXT: Items/156/name/ < UNTRANSLATED
-
+> CONTEXT: Items/156/name/
+Red Gruppen
 > END STRING
 
 > BEGIN STRING
 〔ドリンク〕 力強い味のグルッペン特産葡萄酒
-> CONTEXT: Items/156/description/ < UNTRANSLATED
-
+> CONTEXT: Items/156/description/
+[Drink] Strong-tasting Gruppen specialty wine
 > END STRING
 
 > BEGIN STRING
 ブルーフリーベリ
-> CONTEXT: Items/157/name/ < UNTRANSLATED
-
+> CONTEXT: Items/157/name/
+Blue Freeberry
 > END STRING
 
 > BEGIN STRING
 〔ドリンク〕 青いボトルが美しいフリーベリ特産醸造酒
-> CONTEXT: Items/157/description/ < UNTRANSLATED
-
+> CONTEXT: Items/157/description/
+[Drink] Friberg's specialty in a beautiful blue bottle
 > END STRING
 
 > BEGIN STRING
 ポッパナアンバー
-> CONTEXT: Items/158/name/ < UNTRANSLATED
-
+> CONTEXT: Items/158/name/
+Poppana Amber
 > END STRING
 
 > BEGIN STRING

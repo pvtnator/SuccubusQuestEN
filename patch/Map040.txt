@@ -308,13 +308,13 @@
 
 > BEGIN STRING
 "ウェイトレス"
-> CONTEXT: Map040/events/22/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map040/events/22/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map018/events/5/pages/0/52/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map018/events/9/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map018/events/19/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map018/events/19/pages/2/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map040/events/22/pages/0/0/InlineScript/1:4
+> CONTEXT: Map040/events/22/pages/1/0/InlineScript/1:4
+> CONTEXT: Map018/events/5/pages/0/52/InlineScript/1:4
+> CONTEXT: Map018/events/9/pages/0/0/InlineScript/1:4
+> CONTEXT: Map018/events/19/pages/1/0/InlineScript/1:4
+> CONTEXT: Map018/events/19/pages/2/0/InlineScript/1:4
+"Waitress"
 > END STRING
 
 > BEGIN STRING

@@ -1484,65 +1484,65 @@ pours into \\n[1]!
 
 > BEGIN STRING
 "名前："
-> CONTEXT: Commonevents/110/1/InlineScript/1:3 < UNTRANSLATED
-> CONTEXT: Commonevents/110/13/InlineScript/1:3 < UNTRANSLATED
-
+> CONTEXT: Commonevents/110/1/InlineScript/1:3
+> CONTEXT: Commonevents/110/13/InlineScript/1:3
+"Name:"
 > END STRING
 
 > BEGIN STRING
 "　レベル："
-> CONTEXT: Commonevents/110/1/InlineScript/2:1 < UNTRANSLATED
-> CONTEXT: Commonevents/110/13/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Commonevents/110/1/InlineScript/2:1
+> CONTEXT: Commonevents/110/13/InlineScript/2:1
+"　Level:"
 > END STRING
 
 > BEGIN STRING
 "　精力："
-> CONTEXT: Commonevents/110/1/InlineScript/3:1 < UNTRANSLATED
-> CONTEXT: Commonevents/110/13/InlineScript/3:1 < UNTRANSLATED
-
+> CONTEXT: Commonevents/110/1/InlineScript/3:1
+> CONTEXT: Commonevents/110/13/InlineScript/3:1
+"　Energy:"
 > END STRING
 
 > BEGIN STRING
 "　技力："
-> CONTEXT: Commonevents/110/1/InlineScript/4:1 < UNTRANSLATED
-> CONTEXT: Commonevents/110/13/InlineScript/4:1 < UNTRANSLATED
-
+> CONTEXT: Commonevents/110/1/InlineScript/4:1
+> CONTEXT: Commonevents/110/13/InlineScript/4:1
+"　Skill:"
 > END STRING
 
 > BEGIN STRING
 "　素早さ："
-> CONTEXT: Commonevents/110/1/InlineScript/5:1 < UNTRANSLATED
-> CONTEXT: Commonevents/110/13/InlineScript/5:1 < UNTRANSLATED
-
+> CONTEXT: Commonevents/110/1/InlineScript/5:1
+> CONTEXT: Commonevents/110/13/InlineScript/5:1
+"　Agility:"
 > END STRING
 
 > BEGIN STRING
 "　精神力："
-> CONTEXT: Commonevents/110/1/InlineScript/6:1 < UNTRANSLATED
-> CONTEXT: Commonevents/110/13/InlineScript/6:1 < UNTRANSLATED
-
+> CONTEXT: Commonevents/110/1/InlineScript/6:1
+> CONTEXT: Commonevents/110/13/InlineScript/6:1
+"　Spirit:"
 > END STRING
 
 > BEGIN STRING
 "　魅力："
-> CONTEXT: Commonevents/110/1/InlineScript/7:1 < UNTRANSLATED
-> CONTEXT: Commonevents/110/13/InlineScript/7:1 < UNTRANSLATED
-
+> CONTEXT: Commonevents/110/1/InlineScript/7:1
+> CONTEXT: Commonevents/110/13/InlineScript/7:1
+"　Charm:"
 > END STRING
 
 > BEGIN STRING
 "　攻撃："
-> CONTEXT: Commonevents/110/1/InlineScript/8:1 < UNTRANSLATED
-> CONTEXT: Commonevents/110/13/InlineScript/8:1 < UNTRANSLATED
-
+> CONTEXT: Commonevents/110/1/InlineScript/8:1
+> CONTEXT: Commonevents/110/13/InlineScript/8:1
+"　Attack:"
 > END STRING
 
 > BEGIN STRING
 "　防御："
-> CONTEXT: Commonevents/110/1/InlineScript/9:1 < UNTRANSLATED
-> CONTEXT: Commonevents/110/13/InlineScript/9:1 < UNTRANSLATED
-
+> CONTEXT: Commonevents/110/1/InlineScript/9:1
+> CONTEXT: Commonevents/110/13/InlineScript/9:1
+"　Defense:"
 > END STRING
 
 > BEGIN STRING

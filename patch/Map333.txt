@@ -99,11 +99,11 @@ SQ_Town01
 
 > BEGIN STRING
 "バーテン"
-> CONTEXT: Map333/events/5/pages/0/1/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map040/events/15/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map051/events/12/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map018/events/20/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map333/events/5/pages/0/1/InlineScript/1:4
+> CONTEXT: Map040/events/15/pages/0/0/InlineScript/1:4
+> CONTEXT: Map051/events/12/pages/0/0/InlineScript/1:4
+> CONTEXT: Map018/events/20/pages/0/0/InlineScript/1:4
+"Bartender"
 > END STRING
 
 > BEGIN STRING

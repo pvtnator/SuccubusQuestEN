@@ -8635,8 +8635,8 @@
 
 > BEGIN STRING
 "シプリサンド"
-> CONTEXT: Scripts/RPG::Item(detail)/293:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/293:12
+"Sipulisand"
 > END STRING
 
 > BEGIN STRING
@@ -17723,8 +17723,8 @@
 
 > BEGIN STRING
 "コーディネート"
-> CONTEXT: Scripts/Window_EquipRight/52:48 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_EquipRight/52:48
+"Coordination"
 > END STRING
 
 > BEGIN STRING
@@ -17877,44 +17877,44 @@
 
 > BEGIN STRING
 "精神力"
-> CONTEXT: Scripts/Window_Base/425:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_Base/425:24
+"Spirit"
 > END STRING
 
 > BEGIN STRING
 "魔力"
-> CONTEXT: Scripts/Window_Base/426:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_Base/426:24
+"Magic"
 > END STRING
 
 > BEGIN STRING
 "魅力"
-> CONTEXT: Scripts/Window_Base/430:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_Base/430:24
+"Charm"
 > END STRING
 
 > BEGIN STRING
 "最大EP"
-> CONTEXT: Scripts/Window_Base/433:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_Base/433:24
+"Max EP"
 > END STRING
 
 > BEGIN STRING
 "最大MP"
-> CONTEXT: Scripts/Window_Base/437:26 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_Base/437:26
+"Max MP"
 > END STRING
 
 > BEGIN STRING
 "基本TP"
-> CONTEXT: Scripts/Window_Base/440:26 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_Base/440:26
+"Max TP"
 > END STRING
 
 > BEGIN STRING
 "レベル"
-> CONTEXT: Scripts/Window_Base/444:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_Base/444:24
+"Level"
 > END STRING
 
 > BEGIN STRING
@@ -17925,8 +17925,8 @@
 
 > BEGIN STRING
 "次のレベルまで"
-> CONTEXT: Scripts/Window_Base/452:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_Base/452:24
+"To next level"
 > END STRING
 
 > BEGIN STRING
@@ -17949,8 +17949,8 @@
 
 > BEGIN STRING
 "装備"
-> CONTEXT: Scripts/Window_Status/44:47 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_Status/44:47
+"Equipment"
 > END STRING
 
 > BEGIN STRING
@@ -18106,8 +18106,8 @@
 
 > BEGIN STRING
 "所持数 : "
-> CONTEXT: Scripts/Window_ShopStatus/36:41 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_ShopStatus/36:41
+"Owned: "
 > END STRING
 
 > BEGIN STRING
@@ -18187,8 +18187,8 @@
 
 > BEGIN STRING
 "攻め"
-> CONTEXT: Scripts/Window_EquipLeft/68:64 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_EquipLeft/68:64
+"Attack"
 > END STRING
 
 > BEGIN STRING
@@ -18203,8 +18203,8 @@
 
 > BEGIN STRING
 "守り"
-> CONTEXT: Scripts/Window_EquipLeft/83:64 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_EquipLeft/83:64
+"Defense"
 > END STRING
 
 > BEGIN STRING
