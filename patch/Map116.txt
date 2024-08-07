@@ -166,8 +166,8 @@
 
 > BEGIN STRING
 \\c[4]乗船券\\c[0] を手に入れた！
-> CONTEXT: Map116/events/19/pages/0/17/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map116/events/19/pages/0/17/Dialogue
+\\c[4]Boarding Ticket\\c[0] obtained!
 > END STRING
 
 > BEGIN STRING

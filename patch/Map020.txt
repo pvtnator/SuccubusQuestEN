@@ -40,9 +40,9 @@
 
 > BEGIN STRING
 「あっ、勇者様！
-> CONTEXT: Map020/events/3/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/4/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map020/events/3/pages/1/1/Dialogue
+> CONTEXT: Map015/events/4/pages/0/1/Dialogue
+「Ah, hero!
 > END STRING
 
 > BEGIN STRING

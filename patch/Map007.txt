@@ -2,58 +2,64 @@
 > BEGIN STRING
 「くそッ、魔物がいるってことは
 　魔王はまだ生きてんのか？
-> CONTEXT: Map007/events/1/pages/0/11/Dialogue < UNTRANSLATED
-> CONTEXT: Map007/events/2/pages/0/11/Dialogue < UNTRANSLATED
-> CONTEXT: Map007/events/3/pages/0/11/Dialogue < UNTRANSLATED
-> CONTEXT: Map007/events/4/pages/0/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map007/events/1/pages/0/11/Dialogue
+> CONTEXT: Map007/events/2/pages/0/11/Dialogue
+> CONTEXT: Map007/events/3/pages/0/11/Dialogue
+> CONTEXT: Map007/events/4/pages/0/11/Dialogue
+「Damn, if there are monsters, 
+　does that mean the Demon King is still alive?
 > END STRING
 
 > BEGIN STRING
 「う…ん……
 　\\n[1]……？
-> CONTEXT: Map007/events/7/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map007/events/8/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map007/events/9/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map007/events/10/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map007/events/11/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map007/events/15/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map007/events/16/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map007/events/7/pages/0/1/Dialogue
+> CONTEXT: Map007/events/8/pages/0/1/Dialogue
+> CONTEXT: Map007/events/9/pages/0/1/Dialogue
+> CONTEXT: Map007/events/10/pages/0/1/Dialogue
+> CONTEXT: Map007/events/11/pages/0/1/Dialogue
+> CONTEXT: Map007/events/15/pages/0/1/Dialogue
+> CONTEXT: Map007/events/16/pages/0/1/Dialogue
+「Ugh...
+　\\n[1]...?
 > END STRING
 
 > BEGIN STRING
 「オリビア！
 　大丈夫か？
-> CONTEXT: Map007/events/7/pages/0/9/Dialogue < UNTRANSLATED
-> CONTEXT: Map007/events/8/pages/0/11/Dialogue < UNTRANSLATED
-> CONTEXT: Map007/events/9/pages/0/11/Dialogue < UNTRANSLATED
-> CONTEXT: Map007/events/10/pages/0/11/Dialogue < UNTRANSLATED
-> CONTEXT: Map007/events/11/pages/0/11/Dialogue < UNTRANSLATED
-> CONTEXT: Map007/events/15/pages/0/11/Dialogue < UNTRANSLATED
-> CONTEXT: Map007/events/16/pages/0/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map007/events/7/pages/0/9/Dialogue
+> CONTEXT: Map007/events/8/pages/0/11/Dialogue
+> CONTEXT: Map007/events/9/pages/0/11/Dialogue
+> CONTEXT: Map007/events/10/pages/0/11/Dialogue
+> CONTEXT: Map007/events/11/pages/0/11/Dialogue
+> CONTEXT: Map007/events/15/pages/0/11/Dialogue
+> CONTEXT: Map007/events/16/pages/0/11/Dialogue
+「Olivia!
+　You okay?
 > END STRING
 
 > BEGIN STRING
 「うん……。
 　何が起こったの？　魔王は？
-> CONTEXT: Map007/events/7/pages/0/12/Dialogue < UNTRANSLATED
-> CONTEXT: Map007/events/8/pages/0/14/Dialogue < UNTRANSLATED
-> CONTEXT: Map007/events/9/pages/0/14/Dialogue < UNTRANSLATED
-> CONTEXT: Map007/events/10/pages/0/14/Dialogue < UNTRANSLATED
-> CONTEXT: Map007/events/11/pages/0/14/Dialogue < UNTRANSLATED
-> CONTEXT: Map007/events/15/pages/0/14/Dialogue < UNTRANSLATED
-> CONTEXT: Map007/events/16/pages/0/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map007/events/7/pages/0/12/Dialogue
+> CONTEXT: Map007/events/8/pages/0/14/Dialogue
+> CONTEXT: Map007/events/9/pages/0/14/Dialogue
+> CONTEXT: Map007/events/10/pages/0/14/Dialogue
+> CONTEXT: Map007/events/11/pages/0/14/Dialogue
+> CONTEXT: Map007/events/15/pages/0/14/Dialogue
+> CONTEXT: Map007/events/16/pages/0/14/Dialogue
+「Yeah...
+　What happened? Where's the Demon King?
 > END STRING
 
 > BEGIN STRING
 「………そう。
 　魔王の部屋に行ってみましょう。
 　確かめなきゃ
-> CONTEXT: Map007/events/7/pages/0/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map007/events/7/pages/0/14/Dialogue
+「...I see.
+　Let's go to the Demon King's room.
+　We have to check.
 > END STRING
 
 > BEGIN STRING
@@ -71,28 +77,32 @@
 
 > BEGIN STRING
 兵士が倒れている……
-> CONTEXT: Map007/events/12/pages/0/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map007/events/12/pages/0/0/Dialogue
+The soldier is down...
 > END STRING
 
 > BEGIN STRING
 「この人…、
 　あたしたちと一緒に突入した
 　グルッペンの兵士だわ
-> CONTEXT: Map007/events/12/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map007/events/12/pages/0/2/Dialogue
+「This man...
+　is a Gruppen soldier 
+　who charged in with us.
 > END STRING
 
 > BEGIN STRING
 「魔物にやられたわけじゃなさそうだな。
 　生きてるし、特にケガも無い
-> CONTEXT: Map007/events/12/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map007/events/12/pages/0/6/Dialogue
+「It doesn't seem like he was attacked by a monster. 
+　He's alive and doesn't seem to have any injuries.
 > END STRING
 
 > BEGIN STRING
 「でも衰弱しきってるみたい……
 　…一体何が起きてるの？
-> CONTEXT: Map007/events/12/pages/0/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map007/events/12/pages/0/9/Dialogue
+「But he seems completely weakened...
+　What on earth is going on?
 > END STRING

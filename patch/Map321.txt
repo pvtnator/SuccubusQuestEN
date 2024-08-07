@@ -1,147 +1,171 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 "少年"
-> CONTEXT: Map321/events/3/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map321/events/3/pages/0/9/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map321/events/3/pages/0/16/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map321/events/3/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map321/events/3/pages/0/0/InlineScript/1:4
+> CONTEXT: Map321/events/3/pages/0/9/InlineScript/1:4
+> CONTEXT: Map321/events/3/pages/0/16/InlineScript/1:4
+> CONTEXT: Map321/events/3/pages/1/0/InlineScript/1:4
+"Boy"
 > END STRING
 
 > BEGIN STRING
 「おお、誰だか知らないが聞いてくれよ！
 　今\\c[2]インサート\\c[0]について勉強してたんだ！
-> CONTEXT: Map321/events/3/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map321/events/3/pages/0/1/Dialogue
+「Oh, I don't know who you are, but listen up!
+　I was just learning about \\c[2]insert\\c[0]!
 > END STRING
 
 > BEGIN STRING
 「聞いてくれよ！」
-> CONTEXT: Map321/events/3/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map321/events/3/pages/0/4/Dialogue
+「Have a listen!」
 > END STRING
 
 > BEGIN STRING
 「ちぇっ、
 　すごく誰かに話したいのになあ！
-> CONTEXT: Map321/events/3/pages/0/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map321/events/3/pages/0/10/Dialogue
+「Ugh, 
+　I really want to talk to someone about it!
 > END STRING
 
 > BEGIN STRING
 「いいか、まずインサートするには
 　自分と相手が両方
 　\\c[2]ハダカ\\c[0]になってる必要がある。
-> CONTEXT: Map321/events/3/pages/0/17/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map321/events/3/pages/0/17/Dialogue
+「Okay, first of all, to insert,
+　you and your opponent 
+　both need to be \\c[2]naked\\c[0].
 > END STRING
 
 > BEGIN STRING
 「\\c[2]服を脱ぐ\\c[0]とか\\c[2]服を脱がせる\\c[0]とか
 　そういう準備が必要なわけだな。
-> CONTEXT: Map321/events/3/pages/0/20/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map321/events/3/pages/0/20/Dialogue
+「\\c[2]Strip\\c[0] and \\c[2]Undress\\c[0]
+　are the kind of preparations you need.
 > END STRING
 
 > BEGIN STRING
 「だけど準備ができてても、
 　相手がインサートを受け入れてくれるとは
 　限らない。
-> CONTEXT: Map321/events/3/pages/0/22/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map321/events/3/pages/0/22/Dialogue
+「But even if you're ready, 
+　there's no guarantee that 
+　the opponent will accept the insert.
 > END STRING
 
 > BEGIN STRING
 「それには\\c[2]ムード\\c[0]とか、
 　それまで相手に与えた快感とかが
 　関係してくるんだ。
-> CONTEXT: Map321/events/3/pages/0/25/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map321/events/3/pages/0/25/Dialogue
+「It has to do with the \\c[2]mood\\c[0], 
+　the pleasure you've given the opponent 
+　up until that point, and so on.
 > END STRING
 
 > BEGIN STRING
 「相手によっては、ムードや快感が
 　一定以上じゃないと、
 　絶対にインサートさせてくれないらしいぜ。
-> CONTEXT: Map321/events/3/pages/0/28/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map321/events/3/pages/0/28/Dialogue
+「Apparently, depending on the person, 
+　they won't let you insert unless 
+　the mood or pleasure is above a certain level.
 > END STRING
 
 > BEGIN STRING
 「服を脱がせる時にも
 　同じことが言えるみたいだな。
-> CONTEXT: Map321/events/3/pages/0/31/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map321/events/3/pages/0/31/Dialogue
+「The same seems to be true 
+　when it comes to undressing.
 > END STRING
 
 > BEGIN STRING
 「インサートした後は
 　\\c[2]ピストン\\c[0]とかで強い快感を与えることが
 　できるようになるけど、
-> CONTEXT: Map321/events/3/pages/0/33/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map321/events/3/pages/0/33/Dialogue
+「After inserting, you can give 
+　strong pleasure by using \\c[2]Piston\\c[0], but
 > END STRING
 
 > BEGIN STRING
 「相手から受ける快感も
 　同じように強くなる。
-> CONTEXT: Map321/events/3/pages/0/36/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map321/events/3/pages/0/36/Dialogue
+「The pleasure you receive from 
+　your partner will also be stronger.
 > END STRING
 
 > BEGIN STRING
 「それに一度インサートすると
 　行動に制限がかかって、
 　もう逃げたりできなくなってしまうんだ。
-> CONTEXT: Map321/events/3/pages/0/38/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map321/events/3/pages/0/38/Dialogue
+「And once you insert,
+　it restricts your actions,
+　and you can't run away anymore.
 > END STRING
 
 > BEGIN STRING
 「ただインサート中はいつもより
 　\\c[2]テンション\\c[0]が上がりやすくなるし、
-> CONTEXT: Map321/events/3/pages/0/41/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map321/events/3/pages/0/41/Dialogue
+「However, during insertion, 
+　\\c[2]tension\\c[0] tends to rise more than usual,
 > END STRING
 
 > BEGIN STRING
 「インサートした状態でイかせると
 　大きくテンションが上がるのも利点だな。
-> CONTEXT: Map321/events/3/pages/0/43/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map321/events/3/pages/0/43/Dialogue
+「Another advantage is that 
+　if you make her climax while inserted,
+　it creates a lot of tension.
 > END STRING
 
 > BEGIN STRING
 「つまり全体的に見れば
 　メリットが大きいけれど、
 　必ずしもいいことばかりじゃないから、
-> CONTEXT: Map321/events/3/pages/0/45/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map321/events/3/pages/0/45/Dialogue
+「So, overall,
+　there are a lot of benefits,
+　but it's not all good,
 > END STRING
 
 > BEGIN STRING
 「状況や相手に応じて
 　考える必要がある…と、
 　そういうことかな！
-> CONTEXT: Map321/events/3/pages/0/48/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map321/events/3/pages/0/48/Dialogue
+「You need to think about the situation 
+　and the person you're dealing with... 
+　That's what I mean!
 > END STRING
 
 > BEGIN STRING
 「むにゃむにゃ…おお…
 　こいつは……
-> CONTEXT: Map321/events/3/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map321/events/3/pages/1/1/Dialogue
+「*Mumbling*...oh...
+　This thing...
 > END STRING
 
 > BEGIN STRING
 「いまこそ…イ…インサート……
-> CONTEXT: Map321/events/3/pages/1/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map321/events/3/pages/1/3/Dialogue
+「Now is the time...to insert...
 > END STRING
 
 > BEGIN STRING
 「…zzzz……
-> CONTEXT: Map321/events/3/pages/1/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map321/events/3/pages/1/4/Dialogue
+「..zzzz...
 > END STRING

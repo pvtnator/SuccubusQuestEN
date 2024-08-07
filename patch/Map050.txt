@@ -135,8 +135,9 @@ SQ_Town02
 > BEGIN STRING
 \\c[4]オモチャの剣\\c[0] を返して、かわりに
 \\c[3]バタフライブローチ\\c[0] を手に入れた！
-> CONTEXT: Map050/events/7/pages/1/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map050/events/7/pages/1/10/Dialogue
+Returned \\c[4]Toy Sword\\c[0] and 
+got a \\c[3]Butterfly Brooch\\c[0] in return!
 > END STRING
 
 > BEGIN STRING
@@ -253,14 +254,16 @@ SQ_Town02
 > BEGIN STRING
 「いつもごひいきにしていただき
 　ありがとうございます。
-> CONTEXT: Map050/events/17/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/5/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map050/events/17/pages/0/1/Dialogue
+> CONTEXT: Map015/events/5/pages/1/1/Dialogue
+「Thank you 
+　for your continued patronage.
 > END STRING
 
 > BEGIN STRING
 「あら、お一人ですか？
 　お部屋に女の方がいたような……
-> CONTEXT: Map050/events/17/pages/1/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map050/events/17/pages/1/2/Dialogue
+「Oh, are you alone?
+　I think there was a woman in the room...
 > END STRING

@@ -2,12 +2,13 @@
 > BEGIN STRING
 水辺に咲く一輪の
 美しい花をみつけた！
-> CONTEXT: Map138/events/4/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map138/events/4/pages/0/1/Dialogue
+Found a beautiful flower 
+blooming by the water!
 > END STRING
 
 > BEGIN STRING
 \\c[4]デフィーラの花\\c[0]を手に入れた！
-> CONTEXT: Map138/events/4/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map138/events/4/pages/0/4/Dialogue
+\\c[4]Defira Flower\\c[0] obtained!
 > END STRING

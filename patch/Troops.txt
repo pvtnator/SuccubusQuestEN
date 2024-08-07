@@ -658,54 +658,60 @@ EV_サキュバス*3 1
 > BEGIN STRING
 「てめっ…
 　ふざけやがって……
-> CONTEXT: Troops/4/pages/2/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/4/pages/2/5/Dialogue
+「You...
+　You're kidding me...
 > END STRING
 
 > BEGIN STRING
 「ふふ、
 　いつまで強がってられるかしら？
-> CONTEXT: Troops/4/pages/2/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/4/pages/2/8/Dialogue
+「Hehe,
+　How long will you keep up the strong act?
 > END STRING
 
 > BEGIN STRING
 「う…うぅ……っ！
-> CONTEXT: Troops/4/pages/3/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/4/pages/3/4/Dialogue
+「Ugh..uuh...!
 > END STRING
 
 > BEGIN STRING
 「もらうわね。
 　あなたの精…\\e[0]
-> CONTEXT: Troops/4/pages/3/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/4/pages/3/6/Dialogue
+「I'll take it.
+　Your sperm...\\e[0]
 > END STRING
 
 > BEGIN STRING
 「うああぁっ！
-> CONTEXT: Troops/4/pages/3/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/4/pages/3/11/Dialogue
+「Uaaah!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]エルヴィンはイってしまった！
 \\w[\\v[105]]エルヴィンの精が夢魔に吸い取られる…！
 \\w[\\v[105]]
-> CONTEXT: Troops/4/pages/3/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/4/pages/3/14/Dialogue
+\\a[\\v[105]]Elvin came!
+\\w[\\v[105]]Succubi are draining his essence...!
+\\w[\\v[105]]
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]エルヴィンは倒された…\\w[\\v[104]]
-> CONTEXT: Troops/4/pages/3/61/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/4/pages/3/61/Dialogue
+\\a[\\v[105]]Elvin has been defeated...
+\\w[\\v[104]]
 > END STRING
 
 > BEGIN STRING
 「次はあなたの番ね…\\e[0]
-> CONTEXT: Troops/4/pages/3/63/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/4/pages/3/63/Dialogue
+「Your turn's next...\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -716,8 +722,8 @@ EV_サキュバス*3 2
 
 > BEGIN STRING
 \\c[4]魔王のかけら\\c[0]から声が聞こえる……
-> CONTEXT: Troops/5/pages/1/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/5/pages/1/7/Dialogue
+A voice is coming from the \\c[4]Demon King's Shard\\c[0]...
 > END STRING
 
 > BEGIN STRING
@@ -733,30 +739,35 @@ EV_サキュバス*3 2
 > BEGIN STRING
 「それじゃダメ。
 　まだわからないの？
-> CONTEXT: Troops/5/pages/1/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/5/pages/1/9/Dialogue
+「That won't do.
+　You still don't get it?
 > END STRING
 
 > BEGIN STRING
 「あなたの勇者としてのチカラなんて
 　もう意味無いのよ。 ぜ～んぜんね。
-> CONTEXT: Troops/5/pages/1/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/5/pages/1/11/Dialogue
+「Your power as a hero is now meaningless. 
+　Compleeetely useless~.
 > END STRING
 
 > BEGIN STRING
 「逆らわないで。
 　夢魔の望むようにしてあげなさい。
 　夢魔の望むことをしてあげなさい。
-> CONTEXT: Troops/5/pages/1/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/5/pages/1/13/Dialogue
+「Do not resist.
+　Be the way the succubi desire.
+　Do what the succubi desire.
 > END STRING
 
 > BEGIN STRING
 「それが夢魔の弱点。
 　……言ってること、わかるわね？
-> CONTEXT: Troops/5/pages/1/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/5/pages/1/16/Dialogue
+「That's the succubi's weakness.
+　...You know what I'm saying, right?
 > END STRING
 
 > BEGIN STRING
@@ -768,31 +779,33 @@ EV_サキュバス*3 3
 > BEGIN STRING
 \\a[\\v[105]]辺りに残る魔王の力が
 \\n[1]にそそぎ込む！
-> CONTEXT: Troops/6/pages/0/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/6/pages/0/5/Dialogue
+\\a[\\v[105]]The lingering power of the Demon King
+pours into \\n[1]!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]\\n[1]の全ての能力が上がった！
-> CONTEXT: Troops/6/pages/0/23/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/6/pages/0/23/Dialogue
+\\a[\\v[105]]All abilities of \\n[1] have increased!
 > END STRING
 
 > BEGIN STRING
 「やあっ、まだこっちにいたいのに……
-> CONTEXT: Troops/6/pages/2/2/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/6/pages/3/2/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/6/pages/4/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/6/pages/2/2/Dialogue
+> CONTEXT: Troops/6/pages/3/2/Dialogue
+> CONTEXT: Troops/6/pages/4/2/Dialogue
+「Oh, I want to stay like this...
 > END STRING
 
 > BEGIN STRING
 「でもダメ…、止めらんない……、
 　イっちゃう～っ！
-> CONTEXT: Troops/6/pages/2/3/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/6/pages/3/3/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/6/pages/4/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/6/pages/2/3/Dialogue
+> CONTEXT: Troops/6/pages/3/3/Dialogue
+> CONTEXT: Troops/6/pages/4/3/Dialogue
+「But it's no good... I can't stop...
+　I'm going to cum!
 > END STRING
 
 > BEGIN STRING
@@ -1093,86 +1106,86 @@ SP_人魚のすみか(3)
 
 > BEGIN STRING
 サキュバス*1
-> CONTEXT: Troops/41/name/ < UNTRANSLATED
-
+> CONTEXT: Troops/41/name/
+Succubus*1
 > END STRING
 
 > BEGIN STRING
 サキュバス*2
-> CONTEXT: Troops/42/name/ < UNTRANSLATED
-
+> CONTEXT: Troops/42/name/
+Succubus*2
 > END STRING
 
 > BEGIN STRING
 インプ*1
-> CONTEXT: Troops/43/name/ < UNTRANSLATED
-
+> CONTEXT: Troops/43/name/
+Imp*1
 > END STRING
 
 > BEGIN STRING
 インプ*2
-> CONTEXT: Troops/44/name/ < UNTRANSLATED
-
+> CONTEXT: Troops/44/name/
+Imp*2
 > END STRING
 
 > BEGIN STRING
 ドライアド*1
-> CONTEXT: Troops/45/name/ < UNTRANSLATED
-
+> CONTEXT: Troops/45/name/
+Dryad*1
 > END STRING
 
 > BEGIN STRING
 ドライアド*2
-> CONTEXT: Troops/46/name/ < UNTRANSLATED
-
+> CONTEXT: Troops/46/name/
+Dryad*2
 > END STRING
 
 > BEGIN STRING
 ピクシー*2
-> CONTEXT: Troops/47/name/ < UNTRANSLATED
-
+> CONTEXT: Troops/47/name/
+Pixie*2
 > END STRING
 
 > BEGIN STRING
 ピクシー*3
-> CONTEXT: Troops/48/name/ < UNTRANSLATED
-
+> CONTEXT: Troops/48/name/
+Pixie*3
 > END STRING
 
 > BEGIN STRING
 サキュバス+インプ
-> CONTEXT: Troops/49/name/ < UNTRANSLATED
-
+> CONTEXT: Troops/49/name/
+Succubus+Imp
 > END STRING
 
 > BEGIN STRING
 インプaddインプ*2
-> CONTEXT: Troops/50/name/ < UNTRANSLATED
-
+> CONTEXT: Troops/50/name/
+ImpaddImp*2
 > END STRING
 
 > BEGIN STRING
 ドライアド+ピクシー
-> CONTEXT: Troops/51/name/ < UNTRANSLATED
-
+> CONTEXT: Troops/51/name/
+Dryad+Pixie
 > END STRING
 
 > BEGIN STRING
 インプ+ピクシー
-> CONTEXT: Troops/52/name/ < UNTRANSLATED
-
+> CONTEXT: Troops/52/name/
+Imp+Pixie
 > END STRING
 
 > BEGIN STRING
 インプ+ピクシー*2
-> CONTEXT: Troops/53/name/ < UNTRANSLATED
-
+> CONTEXT: Troops/53/name/
+Imp+Pixie*2
 > END STRING
 
 > BEGIN STRING
 サキュバス+インプ*2
-> CONTEXT: Troops/54/name/ < UNTRANSLATED
-
+> CONTEXT: Troops/54/name/
+Succubus+Imp*2
 > END STRING
 
 > BEGIN STRING

@@ -1,14 +1,14 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 「またいらしてくださいね♪
-> CONTEXT: Map212/events/1/pages/0/10/Dialogue < UNTRANSLATED
-> CONTEXT: Map141/events/1/pages/0/10/Dialogue < UNTRANSLATED
-> CONTEXT: Map141/events/1/pages/1/13/Dialogue < UNTRANSLATED
-> CONTEXT: Map122/events/1/pages/0/10/Dialogue < UNTRANSLATED
-> CONTEXT: Map067/events/1/pages/0/10/Dialogue < UNTRANSLATED
-> CONTEXT: Map049/events/1/pages/0/9/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/1/pages/1/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map212/events/1/pages/0/10/Dialogue
+> CONTEXT: Map141/events/1/pages/0/10/Dialogue
+> CONTEXT: Map141/events/1/pages/1/13/Dialogue
+> CONTEXT: Map122/events/1/pages/0/10/Dialogue
+> CONTEXT: Map067/events/1/pages/0/10/Dialogue
+> CONTEXT: Map049/events/1/pages/0/9/Dialogue
+> CONTEXT: Map016/events/1/pages/1/8/Dialogue
+「Please come again♪
 > END STRING
 
 > BEGIN STRING

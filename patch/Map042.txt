@@ -249,8 +249,8 @@
 
 > BEGIN STRING
 \\c[4]グルッペン章\\c[0]を手に入れた！
-> CONTEXT: Map042/events/5/pages/3/37/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/5/pages/3/37/Dialogue
+\\c[4]Gruppen Badge\\c[0] obtained!
 > END STRING
 
 > BEGIN STRING
@@ -659,8 +659,8 @@
 
 > BEGIN STRING
 \\c[3]グルッペン兵制式長剣\\c[0] を手に入れた！
-> CONTEXT: Map042/events/23/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/23/pages/0/3/Dialogue
+\\c[3]Gruppen Long Sword\\c[0] obtained!
 > END STRING
 
 > BEGIN STRING
@@ -988,8 +988,8 @@
 
 > BEGIN STRING
 \\c[3]シャードオブソード\\c[0] を手に入れた！
-> CONTEXT: Map042/events/39/pages/6/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/39/pages/6/11/Dialogue
+\\c[3]Shard of Frost\\c[0] obtained!
 > END STRING
 
 > BEGIN STRING

@@ -1,8 +1,8 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 〔インセンス〕　EP回復(小)
-> CONTEXT: Items/1/description/ < UNTRANSLATED
-
+> CONTEXT: Items/1/description/
+[Incense] EP Recovery (S)
 > END STRING
 
 > BEGIN STRING
@@ -21,32 +21,32 @@
 
 > BEGIN STRING
 サイプレスウッド
-> CONTEXT: Items/2/name/ < UNTRANSLATED
-
+> CONTEXT: Items/2/name/
+Cypress Wood
 > END STRING
 
 > BEGIN STRING
 〔インセンス〕　EP回復(中)
-> CONTEXT: Items/2/description/ < UNTRANSLATED
-
+> CONTEXT: Items/2/description/
+[Incense] EP Recovery (M)
 > END STRING
 
 > BEGIN STRING
 〔インセンス〕　EP回復 / ムードアップ
-> CONTEXT: Items/3/description/ < UNTRANSLATED
-
+> CONTEXT: Items/3/description/
+[Incense] EP Recovery / Mood Up
 > END STRING
 
 > BEGIN STRING
 〔インセンス〕　EP回復(大)
-> CONTEXT: Items/4/description/ < UNTRANSLATED
-
+> CONTEXT: Items/4/description/
+[Incense] EP Recovery (L)
 > END STRING
 
 > BEGIN STRING
 〔インセンス〕　テンションアップ(小)
-> CONTEXT: Items/5/description/ < UNTRANSLATED
-
+> CONTEXT: Items/5/description/
+[Incense] Tension Up (S)
 > END STRING
 
 > BEGIN STRING
@@ -62,74 +62,74 @@
 
 > BEGIN STRING
 メリッサ
-> CONTEXT: Items/6/name/ < UNTRANSLATED
-
+> CONTEXT: Items/6/name/
+Melissa
 > END STRING
 
 > BEGIN STRING
 〔インセンス〕　テンションアップ(中)
-> CONTEXT: Items/6/description/ < UNTRANSLATED
-
+> CONTEXT: Items/6/description/
+[Incense] Tension Up (M)
 > END STRING
 
 > BEGIN STRING
 〔インセンス〕　テンションアップ / ムードアップ
-> CONTEXT: Items/7/description/ < UNTRANSLATED
-
+> CONTEXT: Items/7/description/
+[Incense] Tension Up / Mood Up
 > END STRING
 
 > BEGIN STRING
 〔インセンス〕　テンションアップ(大)
-> CONTEXT: Items/8/description/ < UNTRANSLATED
-
+> CONTEXT: Items/8/description/
+[Incense] Tension Up (L)
 > END STRING
 
 > BEGIN STRING
 〔インセンス〕　ムードアップ(小)
-> CONTEXT: Items/9/description/ < UNTRANSLATED
-
+> CONTEXT: Items/9/description/
+[Incense] Mood Up (S)
 > END STRING
 
 > BEGIN STRING
 〔インセンス〕　ムードアップ(中)
-> CONTEXT: Items/10/description/ < UNTRANSLATED
-
+> CONTEXT: Items/10/description/
+[Incense] Mood Up (M)
 > END STRING
 
 > BEGIN STRING
 〔インセンス〕　ムードアップ(大)
-> CONTEXT: Items/11/description/ < UNTRANSLATED
-
+> CONTEXT: Items/11/description/
+[Incense] Mood Up (L)
 > END STRING
 
 > BEGIN STRING
 〔インセンス〕　EP回復 / テンション低下
-> CONTEXT: Items/12/description/ < UNTRANSLATED
-
+> CONTEXT: Items/12/description/
+[Incense] EP Recovery / Tension Down
 > END STRING
 
 > BEGIN STRING
 〔インセンス〕　EP回復 / 恍惚無効 / テンション低下
-> CONTEXT: Items/13/description/ < UNTRANSLATED
-
+> CONTEXT: Items/13/description/
+[Incense] EP Recovery / Nullify Ecstasy / Tension Down
 > END STRING
 
 > BEGIN STRING
 〔インセンス〕　EP回復 / テンションアップ / ムードアップ
-> CONTEXT: Items/14/description/ < UNTRANSLATED
-
+> CONTEXT: Items/14/description/
+[Incense] EP Recovery / Tension Up / Mood Up
 > END STRING
 
 > BEGIN STRING
 ゼラニウム
-> CONTEXT: Items/15/name/ < UNTRANSLATED
-
+> CONTEXT: Items/15/name/
+Geranium
 > END STRING
 
 > BEGIN STRING
 〔エッセンス〕　パニック回復
-> CONTEXT: Items/15/description/ < UNTRANSLATED
-
+> CONTEXT: Items/15/description/
+[Essence] Panic recovery
 > END STRING
 
 > BEGIN STRING
@@ -144,26 +144,26 @@
 
 > BEGIN STRING
 カモミール
-> CONTEXT: Items/16/name/ < UNTRANSLATED
-
+> CONTEXT: Items/16/name/
+Chamomile
 > END STRING
 
 > BEGIN STRING
 〔エッセンス〕　センシブ回復 / ナーバス回復
-> CONTEXT: Items/16/description/ < UNTRANSLATED
-
+> CONTEXT: Items/16/description/
+[Essence] Sensitive/Nervous Recovery
 > END STRING
 
 > BEGIN STRING
 ディル
-> CONTEXT: Items/17/name/ < UNTRANSLATED
-
+> CONTEXT: Items/17/name/
+Dill
 > END STRING
 
 > BEGIN STRING
 〔エッセンス〕　クラムジ回復 / ミニマム回復 / ヴィジョン回復
-> CONTEXT: Items/17/description/ < UNTRANSLATED
-
+> CONTEXT: Items/17/description/
+[Essence] Clumsy/Mini/Vision recovery
 > END STRING
 
 > BEGIN STRING
@@ -174,30 +174,30 @@
 
 > BEGIN STRING
 ミントティー
-> CONTEXT: Items/21/name/ < UNTRANSLATED
-
+> CONTEXT: Items/21/name/
+Mint Tea
 > END STRING
 
 > BEGIN STRING
 〔ティー〕　EP回復
-> CONTEXT: Items/21/description/ < UNTRANSLATED
-
+> CONTEXT: Items/21/description/
+[Tea] EP recovery
 > END STRING
 
 > BEGIN STRING
 ローズティー
-> CONTEXT: Items/22/name/ < UNTRANSLATED
-
+> CONTEXT: Items/22/name/
+Rose Tea
 > END STRING
 
 > BEGIN STRING
 〔ティー〕　EP回復 / テンションアップ
-> CONTEXT: Items/22/description/ < UNTRANSLATED
-> CONTEXT: Items/23/description/ < UNTRANSLATED
-> CONTEXT: Items/24/description/ < UNTRANSLATED
-> CONTEXT: Items/25/description/ < UNTRANSLATED
-> CONTEXT: Items/26/description/ < UNTRANSLATED
-
+> CONTEXT: Items/22/description/
+> CONTEXT: Items/23/description/
+> CONTEXT: Items/24/description/
+> CONTEXT: Items/25/description/
+> CONTEXT: Items/26/description/
+[Tea] EP Recovery / Tension Up
 > END STRING
 
 > BEGIN STRING
@@ -209,50 +209,50 @@
 
 > BEGIN STRING
 アールグレイ
-> CONTEXT: Items/23/name/ < UNTRANSLATED
-
+> CONTEXT: Items/23/name/
+Earl Grey
 > END STRING
 
 > BEGIN STRING
 リスヴェグティー
-> CONTEXT: Items/24/name/ < UNTRANSLATED
-
+> CONTEXT: Items/24/name/
+Lisvegty
 > END STRING
 
 > BEGIN STRING
 チャーイ
-> CONTEXT: Items/25/name/ < UNTRANSLATED
-
+> CONTEXT: Items/25/name/
+Chai
 > END STRING
 
 > BEGIN STRING
 エーランドブレンド
-> CONTEXT: Items/26/name/ < UNTRANSLATED
-
+> CONTEXT: Items/26/name/
+Oland Blend
 > END STRING
 
 > BEGIN STRING
 ロイヤルグルッペン
-> CONTEXT: Items/27/name/ < UNTRANSLATED
-
+> CONTEXT: Items/27/name/
+Royal Gruppen
 > END STRING
 
 > BEGIN STRING
 〔ティー〕　EP回復 / テンションアップ (Max)
-> CONTEXT: Items/27/description/ < UNTRANSLATED
-
+> CONTEXT: Items/27/description/
+[Tea] EP Recovery / Tension Up (Max)
 > END STRING
 
 > BEGIN STRING
 マジックハーブティー
-> CONTEXT: Items/29/name/ < UNTRANSLATED
-
+> CONTEXT: Items/29/name/
+Magic Herbal Tea
 > END STRING
 
 > BEGIN STRING
 〔ティー〕 ルヴィッサのMP回復
-> CONTEXT: Items/29/description/ < UNTRANSLATED
-
+> CONTEXT: Items/29/description/
+[Tea] Rovissa's MP recovery
 > END STRING
 
 > BEGIN STRING
@@ -269,15 +269,15 @@
 
 > BEGIN STRING
 鎮静剤
-> CONTEXT: Items/31/name/ < UNTRANSLATED
-
+> CONTEXT: Items/31/name/
+Sedatives
 > END STRING
 
 > BEGIN STRING
 〔ドラッグ〕 EP回復 / 副作用もあるかも…？
-> CONTEXT: Items/31/description/ < UNTRANSLATED
-> CONTEXT: Items/32/description/ < UNTRANSLATED
-
+> CONTEXT: Items/31/description/
+> CONTEXT: Items/32/description/
+[Drug] EP Recovery / Might have side effects...?
 > END STRING
 
 > BEGIN STRING
@@ -677,14 +677,14 @@ SQ_Food
 
 > BEGIN STRING
 ハニービスケット
-> CONTEXT: Items/101/name/ < UNTRANSLATED
-
+> CONTEXT: Items/101/name/
+Honey Biscuit
 > END STRING
 
 > BEGIN STRING
 〔食事〕 蜂蜜を塗って硬めに焼いた焼き菓子
-> CONTEXT: Items/101/description/ < UNTRANSLATED
-
+> CONTEXT: Items/101/description/
+[Food] Coated with honey and baked to a firm texture
 > END STRING
 
 > BEGIN STRING

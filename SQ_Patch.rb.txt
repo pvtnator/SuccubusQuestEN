@@ -1,0 +1,818 @@
+> BEGIN STRING
+源暎ラテゴ v2
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+GenEi LateGo v2
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+メイリオ
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Meiryo
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+ＭＳ Ｐゴシック
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+MS PGothic
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+ＭＳ ゴシック
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+MS Gothic
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Mod_Scripts/*.rb
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+./
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+バンシー
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+アイルランド伝承
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+家の守護妖精の一種。
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+家の者の死が近づくと
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+泣きまわってそれを知らせる。
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+その家系の亡霊、特に若くして死んだ
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+美しい乙女であるとされる。
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+泣きはらして真っ赤な目と、
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+流れるような長髪を持つ。
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+契約の杖
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+博士の呪文書
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Data/Map%03d.rxdata
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+P_Map%03d.rxdata
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+興奮してるの？\n\\w[\\v[105]]
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+　焦らしたくなっちゃうわね…\\e[0]
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+#{self.name}
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+R
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+blue
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+アルケインリボン
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+クリプティリボン
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+C
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+リンクスマフス
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+グリマルキンマフス
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+M
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+サヴァントカチューシャ
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+メイデンカチューシャ
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+S
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+ルナバレッタ
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+セレスシャルバレッタ
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+アルケインドレス
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+クリプティドレス
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+red
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+コーラルドレス
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+ダマスクドレス
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+white
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+アイボリードレス
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+アラバスタドレス
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+リンクスファー
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+グリマルキンファー
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+サヴァントブラウス
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+メイデンブラウス
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+ミニマルビキニ
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+エンプティビキニ
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Rovissa_
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+サキュバス
+> CONTEXT: SQ_Patch.rb
+Succubus
+> END STRING
+
+> BEGIN STRING
+ぁン、気持ちいいわぁ…\n\\w[\\v[104]]
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+　いっぱいちょうだいねぇ\\e[0]
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+ぁ…あぁんっ…\\e[0]\n\\w[\\v[104]]
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+　イイわぁ…もっといっぱいしてえっ
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+ふふふ…イきそう？ イっていいのよ？\n\\w[\\v[104]]
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+　はやく精液ちょうだい\\e[0]
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+シルフ
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+あぁん……、\n
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+　気持ちいいっ………\\e[0]
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+ふふふ……\n\\w[\\v[104]]
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+　気持ちよさそうだね\\e[0]
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Boss-
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+_
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+\005[\\v[105]]
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+gaiji
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+MessWin_back
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+MessageSpeed_1
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+MessageSpeed_2
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+MessageSpeed_3
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+MessageSpeed_4
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+MessageSpeed_5
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+SQ_Battle01
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+SQ_vsBoss01
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+SQ_vsBossOld
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+SQ_Theme_Olivia
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+SQ_vsBossEx01
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+MessWin_02
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+MessWin_01
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+\000
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+\001[#{$1}]
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+\002
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+\004[#{$1}]
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+\005[#{$1}]
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+\007
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+\022[#{$1}]
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+\026
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+\027[#{$1}]
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+\023
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+\024
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+\004
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+\005
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+\027
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+\022
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Arial
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+\666
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+\\
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+\001
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+\n
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+・
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+SelectWindow
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+SelectWindow_Tab0
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+SelectWindow_Tab1
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+SelectWindow_Tab2
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+SelectWindow_tab
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Ending_01
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Ending_02
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+CommWindow
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Line_01
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Line_02
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Sphere_gray
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Guide_01
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Guide_02
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+Graphics/Transitions/
+> CONTEXT: SQ_Patch.rb
+> CONTEXT: Mod_Scripts/Debug.rb
+
+> END STRING
+
+> BEGIN STRING
+/\/
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+/\\[Vv]\[([0-9]+)\]/
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+/\\[Nn]\[([0-9]+)\]/
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+/\\\\/
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+/\\[Cc]\[([0-9]+)\]/
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+/\\[Gg]/
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+/\\[Ww]\[([0-9]+)\]/
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+/\\[Aa]\[([0-9]+)\]/
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+/\\[Kk]/
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+/\\[Ee]\[([0-9]+)\]/
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+/\\[Dd]/
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+/\\[Rr]\[(.*?)\]/
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+/\\[Bb]/
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+/\\[Ff]/
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+/./
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+/\[([0-9]+)\]/
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+/\[(.*?)\]/
+> CONTEXT: SQ_Patch.rb
+
+> END STRING
+
+> BEGIN STRING
+/Transitions/
+> CONTEXT: SQ_Patch.rb
+> CONTEXT: Mod_Scripts/Debug.rb
+
+> END STRING
+

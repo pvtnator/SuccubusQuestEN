@@ -1,20 +1,20 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 街道は今通れないようだ
-> CONTEXT: Map014/events/6/pages/0/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/6/pages/2/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/6/pages/3/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/29/pages/0/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/29/pages/2/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/29/pages/3/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/6/pages/0/4/Dialogue
+> CONTEXT: Map014/events/6/pages/2/4/Dialogue
+> CONTEXT: Map014/events/6/pages/3/4/Dialogue
+> CONTEXT: Map014/events/29/pages/0/4/Dialogue
+> CONTEXT: Map014/events/29/pages/2/4/Dialogue
+> CONTEXT: Map014/events/29/pages/3/4/Dialogue
+The road seems impassable now.
 > END STRING
 
 > BEGIN STRING
 街道はエルヴィンが調べている
-> CONTEXT: Map014/events/6/pages/1/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/29/pages/1/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/6/pages/1/4/Dialogue
+> CONTEXT: Map014/events/29/pages/1/4/Dialogue
+Elvin is investigating the road.
 > END STRING
 
 > BEGIN STRING
@@ -25,418 +25,473 @@
 
 > BEGIN STRING
 ベルツェリーの森
-> CONTEXT: Map014/events/7/pages/1/2/Choice/0 < UNTRANSLATED
-> CONTEXT: Map014/events/27/pages/1/2/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map014/events/7/pages/1/2/Choice/0
+> CONTEXT: Map014/events/27/pages/1/2/Choice/0
+Berzelii Forest
 > END STRING
 
 > BEGIN STRING
 扉にはカギがかかっている
-> CONTEXT: Map014/events/10/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/10/pages/0/1/Dialogue
+The door is locked
 > END STRING
 
 > BEGIN STRING
 「おお、勇者殿！
 　聞きましたぞ、
 　ついに魔王を倒されたと！
-> CONTEXT: Map014/events/11/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/11/pages/0/1/Dialogue
+「Oh, hero! 
+　I heard that you have 
+　finally defeated the Demon King!
 > END STRING
 
 > BEGIN STRING
 「これでこの老いぼれも
 　余生を平穏に過ごすことができますじゃ。
 　ありがたやありがたや……
-> CONTEXT: Map014/events/11/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/11/pages/0/4/Dialogue
+「Now this old woman can live out 
+　the rest of her life in peace. 
+　Thank you, thank you...
 > END STRING
 
 > BEGIN STRING
 「おお、勇者殿！
 　聞きましたぞ、今度は夢魔とやらが
 　出てきたそうで……
-> CONTEXT: Map014/events/11/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/11/pages/1/1/Dialogue
+「Oh, hero! 
+　I heard that now, 
+　a succubus has appeared...
 > END STRING
 
 > BEGIN STRING
 「じゃが聞いた話では、
 　この老いぼれには関係なさそうな魔物ですのォ。
 　ふぉっふぉっふぉ
-> CONTEXT: Map014/events/11/pages/1/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/11/pages/1/4/Dialogue
+「However, from what I've heard,
+it's a demon that doesn't have anything to do 
+with this old man. Hehhehheh.
 > END STRING
 
 > BEGIN STRING
 "水汲み女"
-> CONTEXT: Map014/events/14/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map014/events/14/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map014/events/14/pages/0/0/InlineScript/1:4
+> CONTEXT: Map014/events/14/pages/1/0/InlineScript/1:4
+"Woman Drawing Water"
 > END STRING
 
 > BEGIN STRING
 「この川はヴィドヴィン山脈から
 　とうとうと流れてきています。
-> CONTEXT: Map014/events/14/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/14/pages/0/1/Dialogue
+「This river flows 
+　from the Vidvin Mountains.
 > END STRING
 
 > BEGIN STRING
 「あの恐ろしい魔王の城がある山から、
 　どうしてこんなに美しい水が沸くんでしょうね。
-> CONTEXT: Map014/events/14/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/14/pages/0/3/Dialogue
+「I wonder how such beautiful water 
+　can bubble up from the mountain 
+　where the terrifying Demon King's castle stands.
 > END STRING
 
 > BEGIN STRING
 「ウワサで聞きましたが、
 　ヴィドヴィンには魔王より恐ろしい魔物が
 　すみついてしまったそうですね。
-> CONTEXT: Map014/events/14/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/14/pages/1/1/Dialogue
+「I heard a rumor that a monster 
+　more terrifying than the Demon King 
+　has taken up residence in Vidvin.
 > END STRING
 
 > BEGIN STRING
 「でも変わらないこの川をみていると、
 　ずっと昔から平和が続いているような気もします。
-> CONTEXT: Map014/events/14/pages/1/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/14/pages/1/4/Dialogue
+「But when I look at this river, 
+　which has remained unchanged, 
+　I feel as if peace has continued here for a long time.
 > END STRING
 
 > BEGIN STRING
 「この先は\\c[2]ヴィドヴィン山脈\\c[0]へ続く道です。
 　あんなへんぴで危険な場所、
 　わざわざ誰も行きませんがね。
-> CONTEXT: Map014/events/15/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/15/pages/0/1/Dialogue
+「Up ahead is the road that leads to the \\c[2]Vidvin Mountains\\c[0].
+　It's such a remote and dangerous place
+　that no one bothers to go there.
 > END STRING
 
 > BEGIN STRING
 「……だから誰にも言わないで
 　やり過ごそうかと思ってるんです。
 　ヴィドヴィンが妙な霧に包まれてること……
-> CONTEXT: Map014/events/15/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/15/pages/0/4/Dialogue
+「...That's why I'm thinking of 
+　letting it go without telling anyone.
+　The fact that Vidvin is shrouded in a strange mist...
 > END STRING
 
 > BEGIN STRING
 「魔王は勇者様が倒したはずなのに、
 　一体ヴィドヴィンで
 　何が起こってるんでしょう……
-> CONTEXT: Map014/events/15/pages/0/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/15/pages/0/7/Dialogue
+「The hero defeated the Demon King, 
+　so what on earth 
+　is going on in Vidvin?
 > END STRING
 
 > BEGIN STRING
 「ああ私はいったい
 　何を見てしまったのだろう……
 　おそろしい…………
-> CONTEXT: Map014/events/15/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/15/pages/1/1/Dialogue
+「Aaaa what on earth
+　did I see...
+　It's horrible......
 > END STRING
 
 > BEGIN STRING
 「ゆうしゃさまが　まおうをたおしたから
 　おそとであそんでいいんだってね！
-> CONTEXT: Map014/events/16/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/19/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/16/pages/0/1/Dialogue
+> CONTEXT: Map014/events/19/pages/0/1/Dialogue
+「Because the hero defeated the Demon King, 
+　we can go outside and play!
 > END STRING
 
 > BEGIN STRING
 「ゆうしゃさま　ばんざい！
-> CONTEXT: Map014/events/16/pages/0/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/19/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/16/pages/0/4/Dialogue
+> CONTEXT: Map014/events/19/pages/0/4/Dialogue
+「Hurrah for the hero!
 > END STRING
 
 > BEGIN STRING
 「おれいに　ぼくのおやつ　あげるよ！
-> CONTEXT: Map014/events/16/pages/0/7/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/19/pages/0/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/16/pages/0/7/Dialogue
+> CONTEXT: Map014/events/19/pages/0/7/Dialogue
+「I'll give you my snack as a reward!
 > END STRING
 
 > BEGIN STRING
 「こんどは　『むま』　がでるから、
 　やっぱり　おそとであそんじゃ
 　いけないんだってさ！
-> CONTEXT: Map014/events/16/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/19/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/16/pages/1/1/Dialogue
+> CONTEXT: Map014/events/19/pages/1/1/Dialogue
+「Now, a 'succubus' will appear, 
+　so we shouldn't play outside after all!
 > END STRING
 
 > BEGIN STRING
 「ねえ　『むま』　ってなあに？
 　おしえて！
-> CONTEXT: Map014/events/16/pages/1/5/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/19/pages/1/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/16/pages/1/5/Dialogue
+> CONTEXT: Map014/events/19/pages/1/5/Dialogue
+「Hey, what's a 'succubus'? 
+　Tell me!
 > END STRING
 
 > BEGIN STRING
 「『むま』　ってなあに？ おしえて！
-> CONTEXT: Map014/events/16/pages/1/8/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/19/pages/1/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/16/pages/1/8/Dialogue
+> CONTEXT: Map014/events/19/pages/1/8/Dialogue
+「What is 'succubus'? Tell me!"
 > END STRING
 
 > BEGIN STRING
 \\n[1]は夢魔について詳しく説明した
-> CONTEXT: Map014/events/16/pages/1/12/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/19/pages/1/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/16/pages/1/12/Dialogue
+> CONTEXT: Map014/events/19/pages/1/12/Dialogue
+\\n[1] explained in detail about succubi.
 > END STRING
 
 > BEGIN STRING
 「なにいってるか　ぜんぜんわかんないや！
-> CONTEXT: Map014/events/16/pages/1/14/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/19/pages/1/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/16/pages/1/14/Dialogue
+> CONTEXT: Map014/events/19/pages/1/14/Dialogue
+「I have no idea what you're talking about!
 > END STRING
 
 > BEGIN STRING
 「ゆうしゃさま　ぶー！
-> CONTEXT: Map014/events/16/pages/1/16/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/16/pages/1/23/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/19/pages/1/16/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/19/pages/1/23/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/16/pages/1/16/Dialogue
+> CONTEXT: Map014/events/16/pages/1/23/Dialogue
+> CONTEXT: Map014/events/19/pages/1/16/Dialogue
+> CONTEXT: Map014/events/19/pages/1/23/Dialogue
+「Hero, boo!
 > END STRING
 
 > BEGIN STRING
 「ぼくたちが　こどもだからって
 　ばかにしてるだろ！
-> CONTEXT: Map014/events/16/pages/1/20/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/19/pages/1/20/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/16/pages/1/20/Dialogue
+> CONTEXT: Map014/events/19/pages/1/20/Dialogue
+「You're making fun of us 
+　just because we're kids!
 > END STRING
 
 > BEGIN STRING
 「ぶーーーーん！
-> CONTEXT: Map014/events/16/pages/2/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/16/pages/2/1/Dialogue
+「Boooo!
 > END STRING
 
 > BEGIN STRING
 "興味津々の男"
-> CONTEXT: Map014/events/17/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map014/events/17/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map014/events/17/pages/0/0/InlineScript/1:4
+> CONTEXT: Map014/events/17/pages/1/0/InlineScript/1:4
+"Curious Man"
 > END STRING
 
 > BEGIN STRING
 「この店、この町には最近できたんだけど
 　なんか入りづらいんだよなぁ。
-> CONTEXT: Map014/events/17/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/17/pages/0/1/Dialogue
+「This store opened in this town recently, 
+　but it's kind of hard to get in.
 > END STRING
 
 > BEGIN STRING
 「なんか独特な雰囲気があるだろ？
 　一体何売ってんだろうなぁ……
-> CONTEXT: Map014/events/17/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/17/pages/0/3/Dialogue
+「It has a unique atmosphere, you know?
+　What on earth could they be selling...
 > END STRING
 
 > BEGIN STRING
 「この店から出てきた奴らが、
 　甘いムードを盛り上げるのにどうとか
 　話してるのを聞いたんだ。
-> CONTEXT: Map014/events/17/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/17/pages/1/1/Dialogue
+「I heard some guys coming out of this store 
+　talking about how it would set a sweet mood.
 > END STRING
 
 > BEGIN STRING
 「エッチなお店なのかな？
 　なんかドキドキしてきたぜ！
-> CONTEXT: Map014/events/17/pages/1/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/17/pages/1/4/Dialogue
+「Is this a naughty store?
+　I'm starting to get excited!
 > END STRING
 
 > BEGIN STRING
 「最近ね、町の若い子たちが
 　次々いなくなっちゃってるの。
-> CONTEXT: Map014/events/18/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/18/pages/0/1/Dialogue
+「Recently, young people in town 
+　have been disappearing one after another.
 > END STRING
 
 > BEGIN STRING
 「最初にいなくなったのはマーシャって
 　女の子だったんだけど、
 　その後は男の子ばっかり……
-> CONTEXT: Map014/events/18/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/18/pages/0/3/Dialogue
+「The first one to disappear 
+　was a girl named Marsha,
+　but after that it was all boys...
 > END STRING
 
 > BEGIN STRING
 「魔物ももういないんだし、
 　誰かに誘拐されてるって
 　みんなウワサしてるわ。
-> CONTEXT: Map014/events/18/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/18/pages/0/6/Dialogue
+「The monsters are gone now, 
+　and everyone is saying that 
+　someone has kidnapped them.
 > END STRING
 
 > BEGIN STRING
 「…でもどうしてこんなに可愛いアタシが
 　ほっとかれてるのかしら？
-> CONTEXT: Map014/events/18/pages/0/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/18/pages/0/9/Dialogue
+「...But why am I being left alone 
+　when I'm so cute?
 > END STRING
 
 > BEGIN STRING
 「マーシャばっかりズルいっ！
-> CONTEXT: Map014/events/18/pages/0/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/18/pages/0/11/Dialogue
+「Marsha is so cunning!
 > END STRING
 
 > BEGIN STRING
 「まさかマーシャが誘拐してたなんてね……
-> CONTEXT: Map014/events/18/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/18/pages/1/1/Dialogue
+「I can't believe Marsha is kidnapping them...
 > END STRING
 
 > BEGIN STRING
 「でも、詳しくは知らないけど
 　気持ちいい思いしてたって聞いたわよ？
-> CONTEXT: Map014/events/18/pages/1/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/18/pages/1/2/Dialogue
+「I don't know the details, 
+　but I heard that it felt good?
 > END STRING
 
 > BEGIN STRING
 「やっぱりマーシャばっかりずるいっ！
-> CONTEXT: Map014/events/18/pages/1/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/18/pages/1/4/Dialogue
+「As expected, Marsha is the one being unfair!
 > END STRING
 
 > BEGIN STRING
 「ぶーーーん\\e[0]
-> CONTEXT: Map014/events/19/pages/2/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/19/pages/2/1/Dialogue
+「Boooo\\e[0]
 > END STRING
 
 > BEGIN STRING
 「どこに行けばいいか分からないなら、
 　まず\\c[2]BAR\\c[0]で話を聞いてみることだな。
-> CONTEXT: Map014/events/22/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/22/pages/0/1/Dialogue
+「If you don't know where to go,
+　first ask around at the \\c[2]bar\\c[0].
 > END STRING
 
 > BEGIN STRING
 「きっと何かヒントがもらえるはずだ。
-> CONTEXT: Map014/events/22/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/22/pages/0/3/Dialogue
+「I'm sure they'll have some hints.
 > END STRING
 
 > BEGIN STRING
 「\\c[2]BAR\\c[0]ならほら、すぐそこの建物だ。
 　ワインの看板が目印だな。
-> CONTEXT: Map014/events/22/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/22/pages/0/4/Dialogue
+「If you're looking for the \\c[2]bar\\c[0], 
+　look, it's the building right there.
+　Look for the wine sign.
 > END STRING
 
 > BEGIN STRING
 「ベルツェリーの森へ行きたいのか？
 　なら町の南から行けるぜ。
-> CONTEXT: Map014/events/22/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/22/pages/1/1/Dialogue
+「You want to go to Belzelly Forest? 
+　You can get there from south of town.
 > END STRING
 
 > BEGIN STRING
 「お連れさんが\\c[2]BAR\\c[0]で待ってたぜ。
-> CONTEXT: Map014/events/22/pages/2/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/22/pages/2/1/Dialogue
+「Your companion was 
+　waiting for you at the \\c[2]BAR\\c[0].
 > END STRING
 
 > BEGIN STRING
 「イェルベルを通ってグルッペンに行くなら、
 　途中ラウムの町があるはずだ。
-> CONTEXT: Map014/events/22/pages/3/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/22/pages/3/1/Dialogue
+「If you go to Gruppen through Järbel,
+　you should come across the town of Raum on the way.
 > END STRING
 
 > BEGIN STRING
 「魔王に滅ぼされて今は何もない廃墟だが、
 　一休みぐらいできるかもな。
-> CONTEXT: Map014/events/22/pages/3/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/22/pages/3/3/Dialogue
+「It was destroyed by the Demon King 
+　and is now just a ruin,
+　but maybe you can take a rest there.
 > END STRING
 
 > BEGIN STRING
 「おや、
 　グルッペンに向かったんじゃなかったのか？
-> CONTEXT: Map014/events/22/pages/4/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/22/pages/4/1/Dialogue
+「Oh, 
+　weren't you heading for Gruppen?
 > END STRING
 
 > BEGIN STRING
 「グルッペンはイェルベルを越えて、
 　ラウムの廃墟をさらに西へ進んだところだぞ。
-> CONTEXT: Map014/events/22/pages/4/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/22/pages/4/3/Dialogue
+「Gruppen is past Järbel and 
+　further west towards the ruins of Raum.
 > END STRING
 
 > BEGIN STRING
 「……ん？
 　あんたさっき急に出てこなかったか？
-> CONTEXT: Map014/events/22/pages/5/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/22/pages/5/1/Dialogue
+「...Hmm?
+　Didn't you suddenly come out just now?
 > END STRING
 
 > BEGIN STRING
 「気のせいかな……
-> CONTEXT: Map014/events/22/pages/5/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/22/pages/5/3/Dialogue
+「Maybe it's just my imagination...
 > END STRING
 
 > BEGIN STRING
 「グルッペン街道が
 　どうにか通れるようになったみたいだな。
-> CONTEXT: Map014/events/22/pages/6/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/22/pages/6/1/Dialogue
+「It looks like the Gruppen road
+　has somehow become passable.
 > END STRING
 
 > BEGIN STRING
 「…ハッ、いかん。
 　…どうも近頃、すぐに眠りそうになるのだ。
-> CONTEXT: Map014/events/22/pages/7/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/22/pages/7/5/Dialogue
+「...Ah, no good.
+　...I've been falling asleep very easily lately.
 > END STRING
 
 > BEGIN STRING
 "寂しげな男"
-> CONTEXT: Map014/events/23/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map014/events/23/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map014/events/23/pages/0/0/InlineScript/1:4
+> CONTEXT: Map014/events/23/pages/1/0/InlineScript/1:4
+"Lonely Man"
 > END STRING
 
 > BEGIN STRING
 「そこの家のマーシャって子、
 　すっげぇ美人でなぁ……
-> CONTEXT: Map014/events/23/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/23/pages/0/1/Dialogue
+「That's Marsha's residence, 
+　She's so beautiful...
 > END STRING
 
 > BEGIN STRING
 「ちょっと内気で恥ずかしがり屋なんだが、
 　そこがまたもう……
-> CONTEXT: Map014/events/23/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/23/pages/0/3/Dialogue
+「She's a bit timid and shy,
+　but that's what makes her...
 > END STRING
 
 > BEGIN STRING
 「……でも
 　さらわれちまったってウワサなんだ。
-> CONTEXT: Map014/events/23/pages/0/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/23/pages/0/5/Dialogue
+「...But 
+　there's a rumor that she was kidnapped.
 > END STRING
 
 > BEGIN STRING
 「魔王もいなくなったはずなのに、
 　一体どうなってんのかなァ……
-> CONTEXT: Map014/events/23/pages/0/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/23/pages/0/7/Dialogue
+「The Demon King is gone,
+　so I wonder what's going on...
 > END STRING
 
 > BEGIN STRING
@@ -484,195 +539,225 @@
 > BEGIN STRING
 「夢魔？ 女の魔物？
 　何言ってんだアンタ？
-> CONTEXT: Map014/events/32/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/32/pages/0/1/Dialogue
+「Succubus? Female demon? 
+　What are you talking about?
 > END STRING
 
 > BEGIN STRING
 「女なんてみんな魔物さ。
 　今に始まったことじゃないだろ。
-> CONTEXT: Map014/events/32/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/32/pages/0/3/Dialogue
+「All women are demons. 
+　It's nothing new.
 > END STRING
 
 > BEGIN STRING
 「腕力とか体力とかもう古いわ！
 　これからは\\c[2]魅力\\c[0]で
 　身に付けるものを選ぶ時代よっ！
-> CONTEXT: Map014/events/34/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/34/pages/0/1/Dialogue
+「Strength and endurance are no longer important! 
+　From now on, it's time to choose 
+　what you wear based on \\c[2]charm\\c[0]!
 > END STRING
 
 > BEGIN STRING
 「\\c[2]魅力\\c[0]について聞きたいかしら？
-> CONTEXT: Map014/events/34/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/34/pages/0/4/Dialogue
+「Would you like to talk about \\c[2]charm\\c[0]?
 > END STRING
 
 > BEGIN STRING
 「魅力について聞きたいかしら？」
-> CONTEXT: Map014/events/34/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/34/pages/0/6/Dialogue
+「Talk about charm?」
 > END STRING
 
 > BEGIN STRING
 「魅力ってのは人を魅せるチカラよ。
 　だから、他の人を相手にする行動
 　全てに関係してくるわ。
-> CONTEXT: Map014/events/34/pages/0/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/34/pages/0/10/Dialogue
+「Charm is the ability to attract people.
+　So it has a bearing on 
+　everything you do with other people.
 > END STRING
 
 > BEGIN STRING
 「いくら相手を\\c[2]攻め\\c[0]ようとしても、
 　魅力が伴ってなきゃ
 　どうにもできないわね。
-> CONTEXT: Map014/events/34/pages/0/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/34/pages/0/13/Dialogue
+「No matter how hard you try to \\c[2]attack\\c[0] someone, 
+　if you don't have any charm to back it up, 
+　you won't get anywhere.
 > END STRING
 
 > BEGIN STRING
 「特に相手を\\c[2]誘惑\\c[0]しようなんてするなら、
 　相応の高い魅力が必要よ。
-> CONTEXT: Map014/events/34/pages/0/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/34/pages/0/16/Dialogue
+「Especially if you're trying to \\c[2]seduce\\c[0] someone,
+　you need to have a high level of charm.
 > END STRING
 
 > BEGIN STRING
 「これからは剣を研いでるヒマがあったら、
 　もっと外見を研くことねっ！
-> CONTEXT: Map014/events/34/pages/0/18/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/34/pages/0/18/Dialogue
+「From now on, if you have time to sharpen your sword,
+　you should instead spend time sharpening your appearance!
 > END STRING
 
 > BEGIN STRING
 「\\c[2]魅力\\c[0]をバカにしてると
 　痛い目見るわよ！？
-> CONTEXT: Map014/events/34/pages/0/23/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/34/pages/0/23/Dialogue
+「If you make light of \\c[2]charm\\c[0], 
+　you'll get hurt!
 > END STRING
 
 > BEGIN STRING
 「山と森に囲まれた緑の町、
 　シプリへようこそ！
-> CONTEXT: Map014/events/36/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/36/pages/0/1/Dialogue
+「Welcome to Sipuli, 
+　a green town surrounded by mountains and forests!
 > END STRING
 
 > BEGIN STRING
 "女僧侶"
-> CONTEXT: Map014/events/37/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map014/events/37/pages/0/9/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map014/events/37/pages/0/25/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map014/events/37/pages/0/0/InlineScript/1:4
+> CONTEXT: Map014/events/37/pages/0/9/InlineScript/1:4
+> CONTEXT: Map014/events/37/pages/0/25/InlineScript/1:4
+"Priestess"
 > END STRING
 
 > BEGIN STRING
 「いかに時代が変わろうと、
 　\\c[2]精神力\\c[0]の重要性は
 　変わることがありません。
-> CONTEXT: Map014/events/37/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/37/pages/0/1/Dialogue
+「No matter how much the times change,
+　the importance of \\c[2]spirit\\c[0]
+　will never change.
 > END STRING
 
 > BEGIN STRING
 「\\c[2]精神力\\c[0]についてお話しましょうか？
-> CONTEXT: Map014/events/37/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/37/pages/0/4/Dialogue
+「Shall we talk about \\c[2]spirit\\c[0]?
 > END STRING
 
 > BEGIN STRING
 「精神力についてお話しましょうか？」
-> CONTEXT: Map014/events/37/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/37/pages/0/6/Dialogue
+「Talk about spirit?」
 > END STRING
 
 > BEGIN STRING
 「精神力とは自分自身を保つ力。
 　相手の誘惑に打ち勝つ力です。
-> CONTEXT: Map014/events/37/pages/0/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/37/pages/0/10/Dialogue
+「Spirit is the ability to maintain own identity. 
+　It is the ability to overcome temptations of others.
 > END STRING
 
 > BEGIN STRING
 「相手が悪魔の魅力をもって
 　あなたに接してくるなら、精神力は
 　あなたの\\c[2]守り\\c[0]になります。
-> CONTEXT: Map014/events/37/pages/0/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/37/pages/0/12/Dialogue
+「If someone approaches you with devilish charm, 
+　your spirit will be your \\c[2]protection\\c[0].
 > END STRING
 
 > BEGIN STRING
 「また精神力が高ければ高いほど、
 　\\c[2]パニック\\c[0]になったり\\c[2]恍惚\\c[0]としてしまったり
 　することが少なくなります。
-> CONTEXT: Map014/events/37/pages/0/15/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/37/pages/0/15/Dialogue
+「Also, the higher your spirit, 
+　the less likely you are to experience 
+　\\c[2]panic\\c[0] or \\c[2]trance\\c[0].
 > END STRING
 
 > BEGIN STRING
 「\\c[2]カームブレス\\c[0]で心を
 　落ち着かせたいと願うなら、その効果も
 　精神力に比例するでしょう。
-> CONTEXT: Map014/events/37/pages/0/18/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/37/pages/0/18/Dialogue
+「If you wish to calm your mind with Calm Breath, 
+　its effect will be proportional to your spirit.
 > END STRING
 
 > BEGIN STRING
 「あなたが自身を守りたいのであれば、
 　まず\\c[2]精神力\\c[0]の向上に努めるべきです。
-> CONTEXT: Map014/events/37/pages/0/21/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/37/pages/0/21/Dialogue
+「If you want to protect yourself,
+you should first work on 
+improving your \\c[2]spirit\\c[0].
 > END STRING
 
 > BEGIN STRING
 「\\c[2]精神力\\c[0]の大切さが
 　分からないのですか……
-> CONTEXT: Map014/events/37/pages/0/26/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/37/pages/0/26/Dialogue
+「Do you not understand 
+　the importance of \\c[2]spirit\\c[0]?
 > END STRING
 
 > BEGIN STRING
 「あらあら、ずいぶん立派なお方……
 　もしや王都グルッペンからおいででしょうか。
-> CONTEXT: Map014/events/38/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/38/pages/0/1/Dialogue
+「My my, what a fine person you are... 
+　Perhaps you've come from 
+　the royal capital of Gruppen?
 > END STRING
 
 > BEGIN STRING
 「王都への街道は今通れませんから、
 　お帰りは難儀でしょうねぇ。
-> CONTEXT: Map014/events/38/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/38/pages/0/3/Dialogue
+「The road to the royal capital 
+　is impassable right now,
+　so it will be difficult for you to return.
 > END STRING
 
 > BEGIN STRING
 「そこの元防具屋のご主人、
 　がんばって服のことを
 　勉強なさってるそうですわねぇ。
-> CONTEXT: Map014/events/38/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/38/pages/1/1/Dialogue
+「Seems that the former owner of that armor shop 
+　has been working hard to learn about clothing.
 > END STRING
 
 > BEGIN STRING
 「よろしければ覗いてみては？
 　品揃えが増えてるかも知れませんよ。
-> CONTEXT: Map014/events/38/pages/1/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/38/pages/1/4/Dialogue
+「Why not take a look if you have time?
+　The selection may have increased.
 > END STRING
 
 > BEGIN STRING
 どこに行けばいいか見当がつかない
 …BARで村人の話を聞いてみよう
-> CONTEXT: Map014/events/7/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/27/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/7/pages/0/2/Dialogue
+> CONTEXT: Map014/events/27/pages/0/2/Dialogue
+If you don't know where to go...
+Go to the bar and listen to the villagers' stories.
 > END STRING
 
 > BEGIN STRING
 どこに行けばいいか見当がつかない
 …BARで話を聞いてみよう
-> CONTEXT: Map014/events/7/pages/0/6/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/27/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map014/events/7/pages/0/6/Dialogue
+> CONTEXT: Map014/events/27/pages/0/6/Dialogue
+If you don't know where to go...
+Talk at the bar.
 > END STRING

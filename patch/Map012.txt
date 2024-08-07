@@ -1,124 +1,132 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 「…え……………？
-> CONTEXT: Map012/events/11/pages/0/22/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/22/Dialogue
+「..Eh......?
 > END STRING
 
 > BEGIN STRING
 "裸の女"
-> CONTEXT: Map012/events/11/pages/0/35/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/35/InlineScript/1:4
+"Naked Woman"
 > END STRING
 
 > BEGIN STRING
 「あ…あンッ！ あぁンッ
 　ああ…あンッ\\e[0]\\a[80]
-> CONTEXT: Map012/events/11/pages/0/36/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/36/Dialogue
+「Ah...ahh! Ahhh
+　Ahh...ahhh\\e[0]\\a[80]
 > END STRING
 
 > BEGIN STRING
 "羽の生えた女"
-> CONTEXT: Map012/events/11/pages/0/51/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/51/InlineScript/1:4
+"Winged Woman"
 > END STRING
 
 > BEGIN STRING
 「あン…、もっとぉ……！\\a[80]
-> CONTEXT: Map012/events/11/pages/0/52/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/52/Dialogue
+「Ah...more...!\\a[80]
 > END STRING
 
 > BEGIN STRING
 「た………
 　…たす…け………\\a[80]
-> CONTEXT: Map012/events/11/pages/0/62/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/62/Dialogue
+「H...
+　...hel..p\\a[80]
 > END STRING
 
 > BEGIN STRING
 「な、な、な、なっ！？
-> CONTEXT: Map012/events/11/pages/0/73/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/73/Dialogue
+「Wh-w-w-what?!
 > END STRING
 
 > BEGIN STRING
 「さっきの…魔物………？
 　何なの…！？
-> CONTEXT: Map012/events/11/pages/0/75/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/75/Dialogue
+「That demon...from before?
+　What is it...?!
 > END STRING
 
 > BEGIN STRING
 「何やってんだッ！？
 　てめえらッ！
-> CONTEXT: Map012/events/11/pages/0/82/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/82/Dialogue
+「What the hell?! 
+　What are you doing?!
 > END STRING
 
 > BEGIN STRING
 「あら、見てわかんない？
-> CONTEXT: Map012/events/11/pages/0/88/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/88/Dialogue
+「Oh, can't you see?
 > END STRING
 
 > BEGIN STRING
 「ふふ、あなたも混ざりたいんじゃない…？
-> CONTEXT: Map012/events/11/pages/0/93/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/93/Dialogue
+「Hehe, don't you want to join in too...?
 > END STRING
 
 > BEGIN STRING
 「てめえら……
 　おちょくってんじゃねえぜッ！
-> CONTEXT: Map012/events/11/pages/0/110/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/110/Dialogue
+「You...
+　Don't make fun of me!
 > END STRING
 
 > BEGIN STRING
 「くらえッ！！
-> CONTEXT: Map012/events/11/pages/0/118/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/118/Dialogue
+「Take this!!
 > END STRING
 
 > BEGIN STRING
 「………どうして斬れねえ……ッ！
-> CONTEXT: Map012/events/11/pages/0/136/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/136/Dialogue
+「...Why can't I hit them...!
 > END STRING
 
 > BEGIN STRING
 「くすっ、まだ勇者気取りでいるのね。
 　かわいい…\\e[0]
-> CONTEXT: Map012/events/11/pages/0/142/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/142/Dialogue
+「Haha, you're still acting like a hero.
+　How cute...\\e[0]
 > END STRING
 
 > BEGIN STRING
 「さあ、武器なんてもう捨てて…。
 　楽しみましょ\\e[0]
-> CONTEXT: Map012/events/11/pages/0/152/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/152/Dialogue
+「Now, put away your weapons...
+　Let's have some fun\\e[0]
 > END STRING
 
 > BEGIN STRING
 「\\v[1]…\\n[1]ッ！
-> CONTEXT: Map012/events/11/pages/0/172/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/172/Dialogue
+「\\v[1]...\\n[1]!
 > END STRING
 
 > BEGIN STRING
 「やだ…エルヴィン……？
 　ラルス？ 何してるの…？
-> CONTEXT: Map012/events/11/pages/0/220/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/220/Dialogue
+「Eew...Elvin...?
+　Lars? What are you doing...?
 > END STRING
 
 > BEGIN STRING
 「あたし、夢でも見てるの？
-> CONTEXT: Map012/events/11/pages/0/222/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/222/Dialogue
+「Am I...dreaming?
 > END STRING
 
 > BEGIN STRING
@@ -132,305 +140,334 @@
 
 > BEGIN STRING
 「世界は醒めない夢。\\w[20]
-> CONTEXT: Map012/events/11/pages/0/250/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/250/Dialogue
+「The world is a never-ending dream.\\w[20]
 > END STRING
 
 > BEGIN STRING
 「そうよ、これは夢……。
 　アタシたちは。 あなたも。
-> CONTEXT: Map012/events/11/pages/0/262/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/262/Dialogue
+「Yes, this is a dream....
+　For us. And you too.
 > END STRING
 
 > BEGIN STRING
 「いらっしゃい。
 　楽しみましょう…\\e[0]
-> CONTEXT: Map012/events/11/pages/0/292/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/292/Dialogue
+「Come on in. 
+　Let's have some fun...\\e[0]
 > END STRING
 
 > BEGIN STRING
 「オリビ…ア……
 　…逃…げ………ろ……
-> CONTEXT: Map012/events/11/pages/0/307/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/307/Dialogue
+「Oli..vi..a...
+　R-run...
 > END STRING
 
 > BEGIN STRING
 「あなたたちは誰？
 　何者なの…？
-> CONTEXT: Map012/events/11/pages/0/311/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/311/Dialogue
+「Who are you?
+　What are you?
 > END STRING
 
 > BEGIN STRING
 「アタシたちは夢魔。
 　快楽の夢。
-> CONTEXT: Map012/events/11/pages/0/314/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/314/Dialogue
+「We are succubi.
+　Dreams of pleasure.
 > END STRING
 
 > BEGIN STRING
 「アタシはエストよ。
 　よろしくね。
-> CONTEXT: Map012/events/11/pages/0/316/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/316/Dialogue
+「I'm Est. 
+　Nice to meet you.
 > END STRING
 
 > BEGIN STRING
 「魔王は…魔王はどうなったのよ？
-> CONTEXT: Map012/events/11/pages/0/319/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/319/Dialogue
+「The Demon King... 
+　What happened to the Demon King?
 > END STRING
 
 > BEGIN STRING
 「そう…、あなたたちには感謝してるのよ。
 　あの邪魔なギルデンスターンを
 　倒してくれたのよね？
-> CONTEXT: Map012/events/11/pages/0/321/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/321/Dialogue
+「Yes... I'm grateful to you. 
+　You defeated that troublesome 
+　Guildenstern, didn't you?
 > END STRING
 
 > BEGIN STRING
 「おかげでアタシたちはこうやって……
-> CONTEXT: Map012/events/11/pages/0/324/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/324/Dialogue
+「Thanks to that, we are now like this...
 > END STRING
 
 > BEGIN STRING
 「あたしたちは魔王を倒しに来て、
 　\\n[1]が勇者で、それで、
-> CONTEXT: Map012/events/11/pages/0/326/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/326/Dialogue
+「We came to defeat the Demon King,
+　\\n[1] is the hero, and,
 > END STRING
 
 > BEGIN STRING
 「世界を平和にするために、王様に頼まれて、
 　それで……
-> CONTEXT: Map012/events/11/pages/0/328/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/328/Dialogue
+「The king asked us to bring peace to the world,
+　and so...
 > END STRING
 
 > BEGIN STRING
 「それで、それで…、あたしは……、
 　あたし…あたし………！
-> CONTEXT: Map012/events/11/pages/0/330/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/330/Dialogue
+「So, so... I...
+　I...I...!
 > END STRING
 
 > BEGIN STRING
 「…かわいい子……\\e[0]
-> CONTEXT: Map012/events/11/pages/0/333/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/333/Dialogue
+「...Cute girl...\\e[0]
 > END STRING
 
 > BEGIN STRING
 「オリ…ビ…アァッ！
-> CONTEXT: Map012/events/11/pages/0/336/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/336/Dialogue
+「Oli..vi..aaa！
 > END STRING
 
 > BEGIN STRING
 「\\n[1]…、どうなってるの……？
-> CONTEXT: Map012/events/11/pages/0/338/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/338/Dialogue
+「\\n[1]... What's going on...?
 > END STRING
 
 > BEGIN STRING
 「助けて………っ！
-> CONTEXT: Map012/events/11/pages/0/339/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/339/Dialogue
+「Help me...!
 > END STRING
 
 > BEGIN STRING
 「な…何だ……？
-> CONTEXT: Map012/events/11/pages/0/390/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/390/Dialogue
+「Wh...what...?
 > END STRING
 
 > BEGIN STRING
 「女の人の声……？
 　……でもこの感じ…この魔力………
-> CONTEXT: Map012/events/11/pages/0/392/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/392/Dialogue
+「A woman's voice...?
+　...But this feeling...this magic...
 > END STRING
 
 > BEGIN STRING
 「この気配……まさか……
 　まだ…………
-> CONTEXT: Map012/events/11/pages/0/395/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/395/Dialogue
+「This presence... It can't be...
+　No...
 > END STRING
 
 > BEGIN STRING
 「まだいるのね。
 　ギルデンスターン。
-> CONTEXT: Map012/events/11/pages/0/399/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/399/Dialogue
+「You're still there, 
+　Guildenstern.
 > END STRING
 
 > BEGIN STRING
 「諦めが悪いわね。
 　今度はその子を使うつもり？
-> CONTEXT: Map012/events/11/pages/0/404/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/404/Dialogue
+「You're not one to give up. 
+　Are you planning to use her next?
 > END STRING
 
 > BEGIN STRING
 「今のあなたじゃ、
 　アタシたちにふれることも
 　できないのに……
-> CONTEXT: Map012/events/11/pages/0/406/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/406/Dialogue
+「The way you are now,
+　you can't even touch us...
 > END STRING
 
 > BEGIN STRING
 「……アタシたちの
 　望む方法でしか、ね\\e[0]
-> CONTEXT: Map012/events/11/pages/0/409/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/409/Dialogue
+「...The way we want
+　is the only way, you know\\e[0]
 > END STRING
 
 > BEGIN STRING
 「ふふ、どうするの……？
-> CONTEXT: Map012/events/11/pages/0/416/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/416/Dialogue
+「Fufu, what are you going to do...?
 > END STRING
 
 > BEGIN STRING
 「ま、楽しませてごらんなさい\\e[0]
-> CONTEXT: Map012/events/11/pages/0/417/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/417/Dialogue
+「Well, have fun\\e[0]
 > END STRING
 
 > BEGIN STRING
 「それでいいの。
-> CONTEXT: Map012/events/11/pages/0/486/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/486/Dialogue
+「Good.
 > END STRING
 
 > BEGIN STRING
 「…愛するのよ………
 　…倒すために………
-> CONTEXT: Map012/events/11/pages/0/487/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/487/Dialogue
+「...Love...
+　...Defeat...
 > END STRING
 
 > BEGIN STRING
 「残ってた魔力が………もう………、
 　……あとは………早く…………
-> CONTEXT: Map012/events/11/pages/0/489/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/489/Dialogue
+「The power I have left is...already...
+...the only thing left is...hurry......
 > END STRING
 
 > BEGIN STRING
 「私を……あとは…………………
-> CONTEXT: Map012/events/11/pages/0/491/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/491/Dialogue
+「I...and then......
 > END STRING
 
 > BEGIN STRING
 「……あら、もう終わっちゃったの？
-> CONTEXT: Map012/events/11/pages/0/503/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/503/Dialogue
+「...Oh, it's already over?
 > END STRING
 
 > BEGIN STRING
 「でもごめんなさいね…、アタシ今………
 　……あン………この子の……
-> CONTEXT: Map012/events/11/pages/0/504/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/504/Dialogue
+「But sorry... Now I...
+　...ah...this girl...
 > END STRING
 
 > BEGIN STRING
 「…相手で………あンッ……………
 　……………忙しいのよ……\\e[0]
-> CONTEXT: Map012/events/11/pages/0/506/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/506/Dialogue
+「...Opponent...ahhh...
+　......Busy...\\e[0]
 > END STRING
 
 > BEGIN STRING
 「あ………、や………
 　……あぁっ………………
-> CONTEXT: Map012/events/11/pages/0/511/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/511/Dialogue
+「Ah...no...
+　...ahhh......
 > END STRING
 
 > BEGIN STRING
 「……………………
 　…………\\n[1]………………ッ！！
-> CONTEXT: Map012/events/11/pages/0/513/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/513/Dialogue
+「.........
+　.....\\n[1]......!!
 > END STRING
 
 > BEGIN STRING
 「あら、気絶しちゃったわ。
-> CONTEXT: Map012/events/11/pages/0/522/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/522/Dialogue
+「Oh, she passed out.
 > END STRING
 
 > BEGIN STRING
 「ほんとにかわいい……\\e[0]
-> CONTEXT: Map012/events/11/pages/0/523/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/523/Dialogue
+「So cute...\\e[0]
 > END STRING
 
 > BEGIN STRING
 「焦らないでね。
 　あなたともたっぷり遊んであげるから\\e[0]
-> CONTEXT: Map012/events/11/pages/0/556/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/556/Dialogue
+「Don't worry. 
+　I'll have lots of fun with you\\e[0]
 > END STRING
 
 > BEGIN STRING
 「う……、
 　\\n[1]、オリビア…ッ！
-> CONTEXT: Map012/events/11/pages/0/597/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/597/Dialogue
+「Ugh...
+　\\n[1], Olivia...!
 > END STRING
 
 > BEGIN STRING
 「に…逃げるぞッ！！
-> CONTEXT: Map012/events/11/pages/0/599/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/599/Dialogue
+「R-...run away!!
 > END STRING
 
 > BEGIN STRING
 「あら、あなた
 　さっき吸われてた割に元気ね？
-> CONTEXT: Map012/events/11/pages/0/601/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/601/Dialogue
+「Oh, you're okay despite
+　just being sucked off?
 > END STRING
 
 > BEGIN STRING
 「オリビアッ！
 　こっちだッ！！
-> CONTEXT: Map012/events/11/pages/0/608/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/608/Dialogue
+「Olivia!
+　This way!!
 > END STRING
 
 > BEGIN STRING
 「ダメよぉ。
 　こんな素敵な子、渡せないわ\\e[0]
-> CONTEXT: Map012/events/11/pages/0/612/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/612/Dialogue
+「No. 
+　I can't give away such a wonderful girl\\e[0]
 > END STRING
 
 > BEGIN STRING
 「…………………くそぉッ！！
-> CONTEXT: Map012/events/11/pages/0/646/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/646/Dialogue
+「......Damn!!
 > END STRING
 
 > BEGIN STRING
 「\\n[1]ッ！！
-> CONTEXT: Map012/events/11/pages/0/658/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/658/Dialogue
+「\\n[1]!!
 > END STRING
 
 > BEGIN STRING
 \\a[60]「ふふふ……
-> CONTEXT: Map012/events/11/pages/0/693/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map012/events/11/pages/0/693/Dialogue
+\\a[60]「Hehehe...
 > END STRING

@@ -66,27 +66,27 @@
 
 > BEGIN STRING
 ガード
-> CONTEXT: Skills/7/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/7/name/
+Guard
 > END STRING
 
 > BEGIN STRING
 1ターンだけ快感から身を守る
-> CONTEXT: Skills/7/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/7/description/
+Protect yourself from pleasure for 1 turn
 > END STRING
 
 > BEGIN STRING
 アナライズ
-> CONTEXT: Skills/8/name/ < UNTRANSLATED
-> CONTEXT: Skills/660/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/8/name/
+> CONTEXT: Skills/660/name/
+Analyze
 > END STRING
 
 > BEGIN STRING
 相手の性格や弱点を調べる
-> CONTEXT: Skills/8/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/8/description/
+Examine target's personality and weaknesses
 > END STRING
 
 > BEGIN STRING
@@ -182,14 +182,14 @@
 
 > BEGIN STRING
 カームブレス
-> CONTEXT: Skills/22/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/22/name/
+Calm Breath
 > END STRING
 
 > BEGIN STRING
 落ち着いた呼吸でEPを回復する
-> CONTEXT: Skills/22/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/22/description/
+Breath calmly to restore EP
 > END STRING
 
 > BEGIN STRING
@@ -308,14 +308,14 @@
 
 > BEGIN STRING
 ピストン/0/50/0
-> CONTEXT: Skills/46/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/46/name/
+Piston/0/50/0
 > END STRING
 
 > BEGIN STRING
 腰をふる　[必要TP：50]
-> CONTEXT: Skills/46/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/46/description/
+Shake hips [TP: 50]
 > END STRING
 
 > BEGIN STRING
@@ -338,58 +338,58 @@
 
 > BEGIN STRING
 キッス
-> CONTEXT: Skills/61/name/ < UNTRANSLATED
-> CONTEXT: Skills/375/name/ < UNTRANSLATED
-> CONTEXT: Skills/653/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/61/name/
+> CONTEXT: Skills/375/name/
+> CONTEXT: Skills/653/name/
+Kiss
 > END STRING
 
 > BEGIN STRING
 熱いキスをかわす
-> CONTEXT: Skills/61/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/61/description/
+Exchange a passionate kiss
 > END STRING
 
 > BEGIN STRING
 バスト
-> CONTEXT: Skills/62/name/ < UNTRANSLATED
-> CONTEXT: Commonevents/114/26/Label < UNTRANSLATED
-> CONTEXT: Commonevents/117/36/Label < UNTRANSLATED
-
+> CONTEXT: Skills/62/name/
+> CONTEXT: Commonevents/114/26/Label
+> CONTEXT: Commonevents/117/36/Label
+Bust
 > END STRING
 
 > BEGIN STRING
 胸をせめる
-> CONTEXT: Skills/62/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/62/description/
+Attack the chest
 > END STRING
 
 > BEGIN STRING
 ヒップ
-> CONTEXT: Skills/63/name/ < UNTRANSLATED
-> CONTEXT: Commonevents/114/37/Label < UNTRANSLATED
-> CONTEXT: Commonevents/117/54/Label < UNTRANSLATED
-
+> CONTEXT: Skills/63/name/
+> CONTEXT: Commonevents/114/37/Label
+> CONTEXT: Commonevents/117/54/Label
+Hip
 > END STRING
 
 > BEGIN STRING
 お尻をせめる
-> CONTEXT: Skills/63/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/63/description/
+Attack the hip
 > END STRING
 
 > BEGIN STRING
 ヴァッジ
-> CONTEXT: Skills/64/name/ < UNTRANSLATED
-> CONTEXT: Commonevents/114/48/Label < UNTRANSLATED
-> CONTEXT: Commonevents/117/72/Label < UNTRANSLATED
-
+> CONTEXT: Skills/64/name/
+> CONTEXT: Commonevents/114/48/Label
+> CONTEXT: Commonevents/117/72/Label
+Vagina
 > END STRING
 
 > BEGIN STRING
 アソコをせめる
-> CONTEXT: Skills/64/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/64/description/
+Attack the vagina
 > END STRING
 
 > BEGIN STRING
@@ -490,14 +490,14 @@
 
 > BEGIN STRING
 テンダーキッス
-> CONTEXT: Skills/73/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/73/name/
+Tender Kiss
 > END STRING
 
 > BEGIN STRING
 優しいキッスでムードアップ
-> CONTEXT: Skills/73/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/73/description/
+A gentle kiss that raises the mood
 > END STRING
 
 > BEGIN STRING
@@ -1058,14 +1058,14 @@ EP全回復
 
 > BEGIN STRING
 バインド/7/0/0
-> CONTEXT: Skills/143/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/143/name/
+Bind/7/0/0
 > END STRING
 
 > BEGIN STRING
 相手一人をバインド状態にする [リチャージ：7ターン]
-> CONTEXT: Skills/143/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/143/description/
+Bind 1 opponent [CD: 7 turns]
 > END STRING
 
 > BEGIN STRING
@@ -1747,10 +1747,10 @@ EP回復+精神力回復
 
 > BEGIN STRING
 バインド
-> CONTEXT: Skills/271/description/ < UNTRANSLATED
-> CONTEXT: Skills/299/name/ < UNTRANSLATED
-> CONTEXT: Skills/637/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/271/description/
+> CONTEXT: Skills/299/name/
+> CONTEXT: Skills/637/name/
+Bind
 > END STRING
 
 > BEGIN STRING
@@ -3148,14 +3148,14 @@ Mercy Shower
 
 > BEGIN STRING
 チェインライトニング
-> CONTEXT: Skills/632/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/632/name/
+Chain Lightning
 > END STRING
 
 > BEGIN STRING
 雷属性 / 全体攻撃
-> CONTEXT: Skills/632/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/632/description/
+Lightning attribute / All-target attack
 > END STRING
 
 > BEGIN STRING

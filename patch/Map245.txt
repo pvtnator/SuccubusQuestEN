@@ -21,34 +21,34 @@
 
 > BEGIN STRING
 "男の子"
-> CONTEXT: Map245/events/27/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map245/events/27/pages/0/7/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map245/events/27/pages/0/13/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map245/events/27/pages/0/21/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map211/events/16/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map216/events/12/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map184/events/49/pages/1/51/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map065/events/26/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map050/events/7/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map050/events/7/pages/0/7/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map050/events/7/pages/0/13/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map050/events/7/pages/1/1/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map050/events/7/pages/1/12/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map050/events/7/pages/1/18/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map050/events/7/pages/2/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map050/events/7/pages/3/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map014/events/16/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map014/events/16/pages/0/6/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map014/events/16/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map014/events/16/pages/1/13/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map014/events/16/pages/1/19/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map014/events/16/pages/2/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map014/events/19/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map014/events/19/pages/0/6/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map014/events/19/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map014/events/19/pages/1/13/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map014/events/19/pages/1/19/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map245/events/27/pages/0/0/InlineScript/1:4
+> CONTEXT: Map245/events/27/pages/0/7/InlineScript/1:4
+> CONTEXT: Map245/events/27/pages/0/13/InlineScript/1:4
+> CONTEXT: Map245/events/27/pages/0/21/InlineScript/1:4
+> CONTEXT: Map211/events/16/pages/0/0/InlineScript/1:4
+> CONTEXT: Map216/events/12/pages/0/0/InlineScript/1:4
+> CONTEXT: Map184/events/49/pages/1/51/InlineScript/1:4
+> CONTEXT: Map065/events/26/pages/0/0/InlineScript/1:4
+> CONTEXT: Map050/events/7/pages/0/0/InlineScript/1:4
+> CONTEXT: Map050/events/7/pages/0/7/InlineScript/1:4
+> CONTEXT: Map050/events/7/pages/0/13/InlineScript/1:4
+> CONTEXT: Map050/events/7/pages/1/1/InlineScript/1:4
+> CONTEXT: Map050/events/7/pages/1/12/InlineScript/1:4
+> CONTEXT: Map050/events/7/pages/1/18/InlineScript/1:4
+> CONTEXT: Map050/events/7/pages/2/0/InlineScript/1:4
+> CONTEXT: Map050/events/7/pages/3/0/InlineScript/1:4
+> CONTEXT: Map014/events/16/pages/0/0/InlineScript/1:4
+> CONTEXT: Map014/events/16/pages/0/6/InlineScript/1:4
+> CONTEXT: Map014/events/16/pages/1/0/InlineScript/1:4
+> CONTEXT: Map014/events/16/pages/1/13/InlineScript/1:4
+> CONTEXT: Map014/events/16/pages/1/19/InlineScript/1:4
+> CONTEXT: Map014/events/16/pages/2/0/InlineScript/1:4
+> CONTEXT: Map014/events/19/pages/0/0/InlineScript/1:4
+> CONTEXT: Map014/events/19/pages/0/6/InlineScript/1:4
+> CONTEXT: Map014/events/19/pages/1/0/InlineScript/1:4
+> CONTEXT: Map014/events/19/pages/1/13/InlineScript/1:4
+> CONTEXT: Map014/events/19/pages/1/19/InlineScript/1:4
+"Boy"
 > END STRING
 
 > BEGIN STRING

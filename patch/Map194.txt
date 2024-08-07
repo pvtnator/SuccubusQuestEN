@@ -2,45 +2,49 @@
 > BEGIN STRING
 「………人……
 　………………に……………
-> CONTEXT: Map194/events/5/pages/0/21/Dialogue < UNTRANSLATED
-> CONTEXT: Map194/events/7/pages/0/21/Dialogue < UNTRANSLATED
-> CONTEXT: Map194/events/8/pages/0/21/Dialogue < UNTRANSLATED
-> CONTEXT: Map194/events/9/pages/0/21/Dialogue < UNTRANSLATED
-> CONTEXT: Map194/events/11/pages/0/21/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map194/events/5/pages/0/21/Dialogue
+> CONTEXT: Map194/events/7/pages/0/21/Dialogue
+> CONTEXT: Map194/events/8/pages/0/21/Dialogue
+> CONTEXT: Map194/events/9/pages/0/21/Dialogue
+> CONTEXT: Map194/events/11/pages/0/21/Dialogue
+「.....Human.....
 > END STRING
 
 > BEGIN STRING
 「幸福なる…………………
 　…………夢…………
 　………………を…………
-> CONTEXT: Map194/events/5/pages/0/25/Dialogue < UNTRANSLATED
-> CONTEXT: Map194/events/7/pages/0/25/Dialogue < UNTRANSLATED
-> CONTEXT: Map194/events/8/pages/0/25/Dialogue < UNTRANSLATED
-> CONTEXT: Map194/events/9/pages/0/25/Dialogue < UNTRANSLATED
-> CONTEXT: Map194/events/11/pages/0/25/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map194/events/5/pages/0/25/Dialogue
+> CONTEXT: Map194/events/7/pages/0/25/Dialogue
+> CONTEXT: Map194/events/8/pages/0/25/Dialogue
+> CONTEXT: Map194/events/9/pages/0/25/Dialogue
+> CONTEXT: Map194/events/11/pages/0/25/Dialogue
+「Happy..........
+　.....dreams.....
+　.....to.....
 > END STRING
 
 > BEGIN STRING
 全身に傷を負って
 気絶している……
-> CONTEXT: Map194/events/6/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map194/events/6/pages/1/1/Dialogue
+Unconscious with injuries 
+all over the body...
 > END STRING
 
 > BEGIN STRING
 魔王の間の扉だ。
 奥からただならぬ気配がする…。
-> CONTEXT: Map194/events/21/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map011/events/21/pages/0/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map194/events/21/pages/0/0/Dialogue
+> CONTEXT: Map011/events/21/pages/0/0/Dialogue
+This is the door to the Demon King's chambers.
+There's something unusual coming from within...
 > END STRING
 
 > BEGIN STRING
 扉を開けますか？
-> CONTEXT: Map194/events/21/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map159/events/8/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map011/events/21/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map194/events/21/pages/0/2/Dialogue
+> CONTEXT: Map159/events/8/pages/0/1/Dialogue
+> CONTEXT: Map011/events/21/pages/0/2/Dialogue
+Open the door?
 > END STRING

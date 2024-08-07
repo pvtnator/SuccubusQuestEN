@@ -1,99 +1,107 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 \\a[80]「………！？
-> CONTEXT: Map010/events/1/pages/0/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map010/events/1/pages/0/9/Dialogue
+\\a[80]「...!?
 > END STRING
 
 > BEGIN STRING
 \\a[80]「何だよ…この空……
-> CONTEXT: Map010/events/1/pages/0/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map010/events/1/pages/0/13/Dialogue
+\\a[80]「What...this sky...?
 > END STRING
 
 > BEGIN STRING
 \\a[100]「\\n[1]…
 　あたし………
-> CONTEXT: Map010/events/1/pages/0/15/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map010/events/1/pages/0/15/Dialogue
+\\a[100]「\\n[1]...
+　I...
 > END STRING
 
 > BEGIN STRING
 「初めて見る魔物…
 　魔法が…効かなかった……？
-> CONTEXT: Map010/events/14/pages/0/28/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map010/events/14/pages/0/28/Dialogue
+「I've never seen a monster...
+　That's...unaffected by magic...?
 > END STRING
 
 > BEGIN STRING
 「剣も槍もすりぬけてたぜ！？
 　どうなってんだっ
-> CONTEXT: Map010/events/14/pages/0/31/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map010/events/14/pages/0/31/Dialogue
+「Sword and spear just slipped through!?
+　What's going on?
 > END STRING
 
 > BEGIN STRING
 「\\n[1]、あたし、
 　なんだかおかしいの。
 　さっきから…
-> CONTEXT: Map010/events/14/pages/0/34/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map010/events/14/pages/0/34/Dialogue
+「\\n[1], I...
+　something's off.
+　Since a while ago...
 > END STRING
 
 > BEGIN STRING
 「なんだか自分が……
 　自分じゃなくなりそうな………
-> CONTEXT: Map010/events/14/pages/0/39/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map010/events/14/pages/0/39/Dialogue
+「It's like I'm...
+　no longer myself...
 > END STRING
 
 > BEGIN STRING
 「ねえ\\n[1]、そばにいて……
 　離れないでね？
-> CONTEXT: Map010/events/14/pages/0/41/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map010/events/14/pages/0/41/Dialogue
+「Hey \\n[1], stay by my side...
+Don't leave me, okay?
 > END STRING
 
 > BEGIN STRING
 「離れないでね？」
-> CONTEXT: Map010/events/14/pages/0/44/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map010/events/14/pages/0/44/Dialogue
+「Don't leave me, okay?」
 > END STRING
 
 > BEGIN STRING
 　はい
-> CONTEXT: Map010/events/14/pages/0/45/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map010/events/14/pages/0/45/Choice/0
+　Okay
 > END STRING
 
 > BEGIN STRING
 　いいえ
-> CONTEXT: Map010/events/14/pages/0/45/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map010/events/14/pages/0/45/Choice/1
+　No
 > END STRING
 
 > BEGIN STRING
 「ありがとう…
-> CONTEXT: Map010/events/14/pages/0/48/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map010/events/14/pages/0/48/Dialogue
+「Thank you...
 > END STRING
 
 > BEGIN STRING
 「………
-> CONTEXT: Map010/events/14/pages/0/50/Dialogue < UNTRANSLATED
-> CONTEXT: Map010/events/14/pages/0/59/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map010/events/14/pages/0/50/Dialogue
+> CONTEXT: Map010/events/14/pages/0/59/Dialogue
+「...
 > END STRING
 
 > BEGIN STRING
 「…ごめんなさい。
 　あたし、もっとしっかりしなきゃね。
-> CONTEXT: Map010/events/14/pages/0/55/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map010/events/14/pages/0/55/Dialogue
+「...I'm sorry. 
+　I, need to be more careful.
 > END STRING
 
 > BEGIN STRING
 「さ、行きましょ。
-> CONTEXT: Map010/events/14/pages/0/57/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map010/events/14/pages/0/57/Dialogue
+「Okay, let's go.
 > END STRING

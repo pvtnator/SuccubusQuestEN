@@ -8,11 +8,11 @@ SQ_Town06
 
 > BEGIN STRING
 「旅人の宿屋へようこそ！
-> CONTEXT: Map171/events/4/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map124/events/4/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/4/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/4/pages/2/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map171/events/4/pages/0/1/Dialogue
+> CONTEXT: Map124/events/4/pages/0/1/Dialogue
+> CONTEXT: Map015/events/4/pages/1/1/Dialogue
+> CONTEXT: Map015/events/4/pages/2/1/Dialogue
+「Welcome to the Traveler's Inn!
 > END STRING
 
 > BEGIN STRING

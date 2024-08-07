@@ -2,139 +2,164 @@
 > BEGIN STRING
 「…\\v[1]………………………
 　………………\\v[2]………………
-> CONTEXT: Map015/events/2/pages/0/26/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/2/pages/0/26/Dialogue
+「...\\v[1]..........
+　.......\\v[2].......
 > END STRING
 
 > BEGIN STRING
 「\\n[1]！
 　おい、\\n[1]！
-> CONTEXT: Map015/events/2/pages/0/49/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/2/pages/0/49/Dialogue
+「\\n[1]！
+　Hey, \\n[1]!
 > END STRING
 
 > BEGIN STRING
 「お。 やっと目が覚めたか。
-> CONTEXT: Map015/events/2/pages/0/63/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/2/pages/0/63/Dialogue
+「Ah. You finally woke up.
 > END STRING
 
 > BEGIN STRING
 「……何だ？
 　ずいぶんボッとしてるな。
 　大丈夫か？
-> CONTEXT: Map015/events/2/pages/0/64/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/2/pages/0/64/Dialogue
+「...What's going on?
+You seem pretty spaced out.
+Are you okay?
 > END STRING
 
 > BEGIN STRING
 「ここはヴィドヴィン山脈のふもと、
 　シプリの町だ。
 　お前ずいぶん眠ってたぜ。
-> CONTEXT: Map015/events/2/pages/0/67/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/2/pages/0/67/Dialogue
+「This is the town of Sipuli, 
+　at the foot of the Vidvin Mountains. 
+　You've been sleeping a long time.
 > END STRING
 
 > BEGIN STRING
 「……まだ頭が
 　ハッキリしてないみたいだな。
-> CONTEXT: Map015/events/2/pages/0/70/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/2/pages/0/70/Dialogue
+「...It seems 
+　your head is still not clear.
 > END STRING
 
 > BEGIN STRING
 「まあいいや、とりあえずメシにしよう。
-> CONTEXT: Map015/events/2/pages/0/72/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/2/pages/0/72/Dialogue
+「Well, never mind, 
+　let’s have something to eat for now.
 > END STRING
 
 > BEGIN STRING
 「町の西のBARで待ってるぜ。
 　前にも来たの、覚えてるだろ？
-> CONTEXT: Map015/events/2/pages/0/73/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/2/pages/0/73/Dialogue
+「I'll be waiting for you at the bar 
+　on the west side of town. 
+　We've been here before, remember?
 > END STRING
 
 > BEGIN STRING
 「お目覚めになられたのですね。
 　良かった……
-> CONTEXT: Map015/events/4/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/4/pages/0/2/Dialogue
+「You have awakened.
+　What a relief...
 > END STRING
 
 > BEGIN STRING
 「鎧も何もつけずにここに来て、
 　そのまま倒れこんでしまったので
 　心配していたんですよ。
-> CONTEXT: Map015/events/4/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/4/pages/0/4/Dialogue
+「You came here without any armor 
+　or anything and just collapsed, 
+　so I was worried.
 > END STRING
 
 > BEGIN STRING
 「魔王との戦いは
 　よほど凄まじいものだったんですね……
 　ああ、聞くのも恐ろしい！
-> CONTEXT: Map015/events/4/pages/0/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/4/pages/0/7/Dialogue
+「The battle with the Demon King 
+　must have been extremely fierce... 
+　Oh, it's frightening to even hear about it!
 > END STRING
 
 > BEGIN STRING
 「勇者様にはサービスしますね\\e[0]
 　一晩 \\b20G\\f ですが、お泊りになりますか？
-> CONTEXT: Map015/events/4/pages/1/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/4/pages/2/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/4/pages/1/2/Dialogue
+> CONTEXT: Map015/events/4/pages/2/2/Dialogue
+「I'll give you a special treat, hero\\e[0] 
+\\b20G\\f for one night. Would you like to stay?
 > END STRING
 
 > BEGIN STRING
 \\b20G\\f で宿屋に泊まりますか？
-> CONTEXT: Map015/events/4/pages/1/5/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/4/pages/2/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/4/pages/1/5/Dialogue
+> CONTEXT: Map015/events/4/pages/2/5/Dialogue
+Stay at an inn for \\b20G\\f?
 > END STRING
 
 > BEGIN STRING
 「あら、おはようございます。
-> CONTEXT: Map015/events/5/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/5/pages/0/1/Dialogue
+「Oh, good morning.
 > END STRING
 
 > BEGIN STRING
 「この宿、ちょっと広いだろ？
 　\\c[2]ダッシュ\\c[0]でもしないと移動も大変だよな。
-> CONTEXT: Map015/events/6/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/6/pages/0/1/Dialogue
+「This inn is pretty spacious, right?
+　It's slow to move around 
+　unless you \\c[2]dash\\c[0].
 > END STRING
 
 > BEGIN STRING
 「決定ボタンを押しながら動けば
 　\\c[2]ダッシュ\\c[0]できるぜ。
-> CONTEXT: Map015/events/6/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/6/pages/0/3/Dialogue
+「If you hold down the confirm button while moving,
+　you can \\c[2]dash\\c[0].
 > END STRING
 
 > BEGIN STRING
 「魔物がいなくなったと聞いたので
 　隣町から出てきたのですが、
 　息子がどこかいなくなってしまったのです。
-> CONTEXT: Map015/events/8/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/8/pages/0/1/Dialogue
+「I came from the neighboring town 
+　because I heard the monsters had disappeared, 
+　but my son had disappeared somewhere.
 > END STRING
 
 > BEGIN STRING
 「噂じゃこの町の女の子に
 　たぶらかされたとか聞きますけど……
 　……まさかねぇ。
-> CONTEXT: Map015/events/8/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/8/pages/0/4/Dialogue
+「I've heard rumors that he was tricked 
+　by a girl in this town... 
+　But... I don't think that's the case.
 > END STRING
 
 > BEGIN STRING
 「息子は戻ってきましたが、
 　衰弱しきってていて
 　しばらくここから動けなさそうです。
-> CONTEXT: Map015/events/8/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/8/pages/1/1/Dialogue
+「Our son has returned, but he is very weak 
+　and will likely not be able to move 
+　from here for a while.
 > END STRING
 
 > BEGIN STRING
@@ -162,16 +187,20 @@
 「息子もついに
 　女にたぶらかされるような歳になったか！
 　結構結構！
-> CONTEXT: Map015/events/9/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/9/pages/0/1/Dialogue
+「So my son has finally reached the age 
+　where he can be seduced by a woman! 
+　Well, well, well!
 > END STRING
 
 > BEGIN STRING
 「いつか女をたぶらかすようになれば良し！
 　わしが母さんを捕まえたみたいにな！
 　がっはっは
-> CONTEXT: Map015/events/9/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/9/pages/0/4/Dialogue
+「I hope one day you'll be able to seduce a woman!
+　Just like I did with mother!
+　Ghahaha
 > END STRING
 
 > BEGIN STRING

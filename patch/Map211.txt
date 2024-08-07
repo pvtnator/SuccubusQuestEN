@@ -140,12 +140,12 @@
 
 > BEGIN STRING
 \\c[3]カセドラルローブ\\c[0]を手に入れた！
-> CONTEXT: Map211/events/17/pages/0/87/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/20/pages/0/87/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/21/pages/0/87/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/22/pages/0/87/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/23/pages/0/87/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map211/events/17/pages/0/87/Dialogue
+> CONTEXT: Map211/events/20/pages/0/87/Dialogue
+> CONTEXT: Map211/events/21/pages/0/87/Dialogue
+> CONTEXT: Map211/events/22/pages/0/87/Dialogue
+> CONTEXT: Map211/events/23/pages/0/87/Dialogue
+\\c[3]Cathedral Robe\\c[0] obtained!
 > END STRING
 
 > BEGIN STRING

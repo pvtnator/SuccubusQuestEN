@@ -71,6 +71,6 @@
 
 > BEGIN STRING
 \\c[4]手紙\\c[0]を手に入れた！
-> CONTEXT: Map062/events/5/pages/0/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map062/events/5/pages/0/12/Dialogue
+\\c[4]Letter\\c[0] obtained!
 > END STRING

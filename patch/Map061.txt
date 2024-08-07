@@ -270,8 +270,9 @@ SQ_Draumnol
 > BEGIN STRING
 \\n[1]は\\c[4]ルヴィッサ\\c[0]を手に入れた！
 \\n[1]は\\c[1]サモン\\c[0]を覚えた！
-> CONTEXT: Map061/events/19/pages/0/284/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map061/events/19/pages/0/284/Dialogue
+\\n[1] obtained \\c[4]Rovissa\\c[0]!
+\\n[1] learned \\c[1]Summon\\c[0]!
 > END STRING
 
 > BEGIN STRING
@@ -308,9 +309,9 @@ SQ_Draumnol
 
 > BEGIN STRING
 \\c[3]\\v[22]\\c[0] を手に入れた！
-> CONTEXT: Map061/events/19/pages/1/55/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/9/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map061/events/19/pages/1/55/Dialogue
+> CONTEXT: Commonevents/9/2/Dialogue
+\\c[3]\\v[22]\\c[0] obtained!
 > END STRING
 
 > BEGIN STRING

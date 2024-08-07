@@ -48,9 +48,9 @@
 
 > BEGIN STRING
 "老人"
-> CONTEXT: Map039/events/10/pages/0/47/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map017/events/5/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map039/events/10/pages/0/47/InlineScript/1:4
+> CONTEXT: Map017/events/5/pages/0/0/InlineScript/1:4
+"Old Man"
 > END STRING
 
 > BEGIN STRING
@@ -82,14 +82,14 @@
 
 > BEGIN STRING
 "グルッペン近衛騎士"
-> CONTEXT: Map039/events/10/pages/0/58/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map039/events/10/pages/0/63/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map008/events/3/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map002/events/4/pages/0/0/InlineScript/1:6 < UNTRANSLATED
-> CONTEXT: Map002/events/5/pages/0/0/InlineScript/1:6 < UNTRANSLATED
-> CONTEXT: Map002/events/15/pages/0/0/InlineScript/1:6 < UNTRANSLATED
-> CONTEXT: Map002/events/16/pages/0/0/InlineScript/1:6 < UNTRANSLATED
-
+> CONTEXT: Map039/events/10/pages/0/58/InlineScript/1:4
+> CONTEXT: Map039/events/10/pages/0/63/InlineScript/1:4
+> CONTEXT: Map008/events/3/pages/0/0/InlineScript/1:4
+> CONTEXT: Map002/events/4/pages/0/0/InlineScript/1:6
+> CONTEXT: Map002/events/5/pages/0/0/InlineScript/1:6
+> CONTEXT: Map002/events/15/pages/0/0/InlineScript/1:6
+> CONTEXT: Map002/events/16/pages/0/0/InlineScript/1:6
+"Gruppen Knight"
 > END STRING
 
 > BEGIN STRING

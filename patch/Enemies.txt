@@ -7,8 +7,8 @@ Guildenstern/0/Z/0000000/0
 
 > BEGIN STRING
 ゴアデーモン/0/Z/0000000/0
-> CONTEXT: Enemies/2/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/2/name/
+Gore Demon/0/Z/0000000/0
 > END STRING
 
 > BEGIN STRING
@@ -19,64 +19,64 @@ Guildenstern/0/Z/0000000/0
 
 > BEGIN STRING
 サキュバス/0/Z/1100000/32
-> CONTEXT: Enemies/5/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/5/name/
+Succubus/0/Z/1100000/32
 > END STRING
 
 > BEGIN STRING
 サキュバス/3/A/1100000/32
-> CONTEXT: Enemies/6/name/ < UNTRANSLATED
-> CONTEXT: Enemies/7/name/ < UNTRANSLATED
-> CONTEXT: Enemies/9/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/6/name/
+> CONTEXT: Enemies/7/name/
+> CONTEXT: Enemies/9/name/
+Succubus/3/A/1100000/32
 > END STRING
 
 > BEGIN STRING
 インプ/2/B/0010020/30
-> CONTEXT: Enemies/10/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/10/name/
+Imp/2/B/0010020/30
 > END STRING
 
 > BEGIN STRING
 ドライアド/3/D/0000010/31
-> CONTEXT: Enemies/11/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/11/name/
+Dryad/3/D/0000010/31
 > END STRING
 
 > BEGIN STRING
 ピクシー/2/H/0010002/28
-> CONTEXT: Enemies/12/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/12/name/
+Pixie/2/H/0010002/28
 > END STRING
 
 > BEGIN STRING
 シルフ/5/J/0011000/33
-> CONTEXT: Enemies/15/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/15/name/
+Sylph/5/J/0011000/33
 > END STRING
 
 > BEGIN STRING
 ネコマタ/6/E/0010000/34
-> CONTEXT: Enemies/16/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/16/name/
+Nekomata/6/E/0010000/34
 > END STRING
 
 > BEGIN STRING
 ワーウルフ/6/F/0100020/33
-> CONTEXT: Enemies/17/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/17/name/
+Werewolf/6/F/0100020/33
 > END STRING
 
 > BEGIN STRING
 ヴィレッジャ/4/C/2001000/30
-> CONTEXT: Enemies/21/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/21/name/
+Villager/4/C/2001000/30
 > END STRING
 
 > BEGIN STRING
 ヴァージンヴィレッジャ/30/C/2001000/60
-> CONTEXT: Enemies/22/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/22/name/
+Virgin Villager/30/C/2001000/60
 > END STRING
 
 > BEGIN STRING

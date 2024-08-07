@@ -163,8 +163,6 @@
 > CONTEXT: Scripts/Game_Enemy 2(analyze)/120:66 < UNTRANSLATED
 > CONTEXT: Scripts/Sprite_Picture/38:27 < UNTRANSLATED
 > CONTEXT: Scripts/Sprite_Picture/44:25 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Event/43:27 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Event/127:25 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Character 1/38:23 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Character 1/161:38 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Character 1/173:31 < UNTRANSLATED
@@ -478,75 +476,16 @@
 > CONTEXT: Troops/1/pages/2/135/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Troops/1/pages/2/135/InlineScript/2:20 < UNTRANSLATED
 > CONTEXT: Map333/events/4/pages/0/12/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/12:10 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/92:66 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/215:10 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/216:12 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/228:16 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/230:47 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/240:10 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/242:12 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/248:26 < UNTRANSLATED
 > CONTEXT: Map331/events/1/pages/1/12/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/253:66 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/261:28 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/263:45 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/269:45 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/271:16 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/273:47 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/276:16 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/293:10 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/294:12 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/315:16 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/317:46 < UNTRANSLATED
 > CONTEXT: Map342/events/4/pages/0/37/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/327:10 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/407:16 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/489:10 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/490:12 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/493:66 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/503:10 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/504:12 < UNTRANSLATED
 > CONTEXT: Map326/events/1/pages/0/20/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/508:68 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/580:10 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/644:66 < UNTRANSLATED
 > CONTEXT: Map360/events/23/pages/0/2/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/693:12 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/706:10 < UNTRANSLATED
 > CONTEXT: Map353/events/6/pages/1/25/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/736:22 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/737:22 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/738:23 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/749:28 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/749:52 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/751:31 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/751:55 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/752:19 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/757:18 < UNTRANSLATED
 > CONTEXT: Scripts/★図鑑用詳細データ/242:12 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/759:49 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/764:18 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/764:34 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/770:36 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/778:18 < UNTRANSLATED
 > CONTEXT: Map342/events/5/pages/1/5/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Map361/events/22/pages/0/15/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/816:10 < UNTRANSLATED
 > CONTEXT: Map325/events/3/pages/0/0/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Map330/events/6/pages/0/0/InlineScript/1:3 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/853:10 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/919:10 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/1010:47 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/1023:10 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/1024:12 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/1026:41 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/1031:27 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/1031:52 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/1032:29 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/1032:55 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/1038:66 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/1046:10 < UNTRANSLATED
 > CONTEXT: Map353/events/6/pages/2/0/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Map324/events/20/pages/1/0/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Troops/4/pages/2/3/InlineScript/1:20 < UNTRANSLATED
@@ -3111,6 +3050,67 @@
 > CONTEXT: Commonevents/251/316/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Commonevents/251/324/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Commonevents/253/70/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Event/43:27 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Event/127:25 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/12:10 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/92:66 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/215:10 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/216:12 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/228:16 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/230:47 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/240:10 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/242:12 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/248:26 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/253:66 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/261:28 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/263:45 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/269:45 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/271:16 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/273:47 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/276:16 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/293:10 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/294:12 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/315:16 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/317:46 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/327:10 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/407:16 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/489:10 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/490:12 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/493:66 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/503:10 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/504:12 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/508:68 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/580:10 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/644:66 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/693:12 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/706:10 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/736:22 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/737:22 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/738:23 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/749:28 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/749:52 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/751:31 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/751:55 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/752:19 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/757:18 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/759:49 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/764:18 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/764:34 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/770:36 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/778:18 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/816:10 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/853:10 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/919:10 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/1010:47 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/1023:10 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/1024:12 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/1026:41 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/1031:27 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/1031:52 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/1032:29 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/1032:55 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/1038:66 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/1046:10 < UNTRANSLATED
 
 > END STRING
 
@@ -3172,7 +3172,6 @@
 > CONTEXT: Scripts/Game_Actor/526:61 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Actor/535:27 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Actor/535:61 < UNTRANSLATED
-> CONTEXT: Scripts/Window_Base/482:62 < UNTRANSLATED
 > CONTEXT: Scripts/Window_ShopSell/93:62 < UNTRANSLATED
 > CONTEXT: Scripts/Window_ShopBuy/87:62 < UNTRANSLATED
 > CONTEXT: Scripts/Window_BattleEquip/102:62 < UNTRANSLATED
@@ -3190,9 +3189,6 @@
 > CONTEXT: Scripts/Scene_Battle 5/376:47 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Battle 5/553:91 < UNTRANSLATED
 > CONTEXT: Scripts/★図鑑用詳細データ/17:27 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/793:54 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/795:30 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/798:30 < UNTRANSLATED
 > CONTEXT: Map061/events/19/pages/1/44/InlineScript/3:41 < UNTRANSLATED
 > CONTEXT: Commonevents/115/1/InlineScript/4:38 < UNTRANSLATED
 > CONTEXT: Commonevents/115/1/InlineScript/9:38 < UNTRANSLATED
@@ -3200,6 +3196,10 @@
 > CONTEXT: Commonevents/116/0/InlineScript/11:31 < UNTRANSLATED
 > CONTEXT: Commonevents/314/10/InlineScript/3:21 < UNTRANSLATED
 > CONTEXT: Commonevents/314/16/InlineScript/4:21 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Base/482:62 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/793:54 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/795:30 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/798:30 < UNTRANSLATED
 
 > END STRING
 
@@ -3954,10 +3954,10 @@
 > BEGIN STRING
 "Verdana"
 > CONTEXT: Scripts/RPG::Sprite/31:29 < UNTRANSLATED
+> CONTEXT: Scripts/Window_SaveFile/82:33 < UNTRANSLATED
 > CONTEXT: Scripts/Window_Base/222:32 < UNTRANSLATED
 > CONTEXT: Scripts/Window_Base/238:32 < UNTRANSLATED
 > CONTEXT: Scripts/Window_Base/252:32 < UNTRANSLATED
-> CONTEXT: Scripts/Window_SaveFile/82:33 < UNTRANSLATED
 
 > END STRING
 
@@ -3965,10 +3965,10 @@
 "Arial"
 > CONTEXT: Scripts/RPG::Sprite/31:40 < UNTRANSLATED
 > CONTEXT: Scripts/Sprite_Timer/15:29 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Message/245:37 < UNTRANSLATED
 > CONTEXT: Scripts/Window_Base/222:42 < UNTRANSLATED
 > CONTEXT: Scripts/Window_Base/238:42 < UNTRANSLATED
 > CONTEXT: Scripts/Window_Base/252:42 < UNTRANSLATED
-> CONTEXT: Scripts/Window_Message/245:37 < UNTRANSLATED
 
 > END STRING
 
@@ -6019,65 +6019,65 @@
 
 > BEGIN STRING
 "\#{myname}は絶頂に達した！"
-> CONTEXT: Scripts/RPG::State (message)/18:19 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/18:19
+"\#{myname} climaxed!"
 > END STRING
 
 > BEGIN STRING
 "\#{myname}を倒した！"
-> CONTEXT: Scripts/RPG::State (message)/19:19 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/19:19
+"\#{myname} was defeated!"
 > END STRING
 
 > BEGIN STRING
 "\#{myname}はイってしまった…"
-> CONTEXT: Scripts/RPG::State (message)/21:19 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/21:19
+"\#{myname} came..."
 > END STRING
 
 > BEGIN STRING
 "\#{myname}は倒れてしまった！"
-> CONTEXT: Scripts/RPG::State (message)/22:19 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/22:19
+"\#{myname} collapsed!"
 > END STRING
 
 > BEGIN STRING
 "\#{myname}は動けるようになった！"
-> CONTEXT: Scripts/RPG::State (message)/27:19 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/27:19
+"\#{myname} can move now!"
 > END STRING
 
 > BEGIN STRING
 "\#{myname}は体に力が入らない…"
-> CONTEXT: Scripts/RPG::State (message)/28:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/28:18
+"\#{myname} can't move..."
 > END STRING
 
 > BEGIN STRING
 "\#{myname}は衰弱から回復した！"
-> CONTEXT: Scripts/RPG::State (message)/30:19 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/30:19
+"\#{myname} recovered from weakness!"
 > END STRING
 
 > BEGIN STRING
 "\#{myname}はイきそうになってきた…！"
-> CONTEXT: Scripts/RPG::State (message)/32:17 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::State (message)/58:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/32:17
+> CONTEXT: Scripts/RPG::State (message)/58:17
+"\#{myname} is about to cum...!"
 > END STRING
 
 > BEGIN STRING
 "\#{myname}は落ち着きを取り戻した！"
-> CONTEXT: Scripts/RPG::State (message)/33:19 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::State (message)/59:19 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/33:19
+> CONTEXT: Scripts/RPG::State (message)/59:19
+"\#{myname} regained composure!"
 > END STRING
 
 > BEGIN STRING
 "\#{myname}はイきそうになっている！"
-> CONTEXT: Scripts/RPG::State (message)/34:18 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::State (message)/60:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/34:18
+> CONTEXT: Scripts/RPG::State (message)/60:18
+"\#{myname} is about to cum!"
 > END STRING
 
 > BEGIN STRING
@@ -6197,26 +6197,26 @@
 
 > BEGIN STRING
 "\#{myname}は身動きが取れなくなった！"
-> CONTEXT: Scripts/RPG::State (message)/105:17 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::State (message)/109:17 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::State (message)/127:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/105:17
+> CONTEXT: Scripts/RPG::State (message)/109:17
+> CONTEXT: Scripts/RPG::State (message)/127:17
+"\#{myname} became unable to move!"
 > END STRING
 
 > BEGIN STRING
 "\#{myname}は拘束から解放された！"
-> CONTEXT: Scripts/RPG::State (message)/106:19 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::State (message)/110:19 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::State (message)/128:19 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/106:19
+> CONTEXT: Scripts/RPG::State (message)/110:19
+> CONTEXT: Scripts/RPG::State (message)/128:19
+"\#{myname} is free from restraints!"
 > END STRING
 
 > BEGIN STRING
 "\#{myname}は身動きが取れない！"
-> CONTEXT: Scripts/RPG::State (message)/107:18 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::State (message)/111:18 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::State (message)/129:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/107:18
+> CONTEXT: Scripts/RPG::State (message)/111:18
+> CONTEXT: Scripts/RPG::State (message)/129:18
+"\#{myname} is unable to move!"
 > END STRING
 
 > BEGIN STRING
@@ -6499,8 +6499,8 @@
 
 > BEGIN STRING
 "\#{myname}は夢魔の幻覚に襲われた！"
-> CONTEXT: Scripts/RPG::State (message)/168:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/168:17
+"\#{myname} was attacked by a succubus hallucination!"
 > END STRING
 
 > BEGIN STRING
@@ -7298,32 +7298,32 @@
 
 > BEGIN STRING
 "サキュバス"
-> CONTEXT: Scripts/Game_Battler(msg-nude(A))/18:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-nude(E))/42:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/23:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/58:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/114:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/160:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/255:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/23:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/144:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(A))/59:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/235:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Enemy/150:11 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Enemy/484:9 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/278:10 < UNTRANSLATED
-> CONTEXT: Troops/4/pages/2/7/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Troops/4/pages/3/5/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Troops/4/pages/3/62/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Troops/6/pages/2/1/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Troops/6/pages/3/1/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Troops/6/pages/4/1/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map012/events/11/pages/0/87/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map012/events/11/pages/0/92/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map012/events/11/pages/0/141/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map012/events/11/pages/0/151/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/302/1/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-nude(A))/18:10
+> CONTEXT: Scripts/Game_Battler(msg-nude(E))/42:10
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/23:10
+> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/58:10
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/114:10
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/160:10
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/255:12
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/23:10
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/144:10
+> CONTEXT: Scripts/Game_Battler(msg-insert(A))/59:10
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/235:12
+> CONTEXT: Scripts/Game_Enemy/150:11
+> CONTEXT: Scripts/Game_Enemy/484:9
+> CONTEXT: Scripts/★図鑑用詳細データ/278:10
+> CONTEXT: Troops/4/pages/2/7/InlineScript/1:4
+> CONTEXT: Troops/4/pages/3/5/InlineScript/1:4
+> CONTEXT: Troops/4/pages/3/62/InlineScript/1:4
+> CONTEXT: Troops/6/pages/2/1/InlineScript/1:4
+> CONTEXT: Troops/6/pages/3/1/InlineScript/1:4
+> CONTEXT: Troops/6/pages/4/1/InlineScript/1:4
+> CONTEXT: Map012/events/11/pages/0/87/InlineScript/1:4
+> CONTEXT: Map012/events/11/pages/0/92/InlineScript/1:4
+> CONTEXT: Map012/events/11/pages/0/141/InlineScript/1:4
+> CONTEXT: Map012/events/11/pages/0/151/InlineScript/1:4
+> CONTEXT: Commonevents/302/1/InlineScript/1:4
+"Succubus"
 > END STRING
 
 > BEGIN STRING
@@ -9350,7 +9350,7 @@
 > CONTEXT: Scripts/Game_Battler(message)/97:40
 > CONTEXT: Scripts/Game_Battler(message)/107:40
 > CONTEXT: Scripts/Scene_Battle 4/774:19
-"\\n\\333"
+"\\n\\007"
 > END STRING
 
 > BEGIN STRING
@@ -9365,9 +9365,9 @@
 
 > BEGIN STRING
 "\#{myname}のEPが\\023 \#{(damage.abs).to_s} \\024回復した！\\n\\004[\\\\v[104]]"
-> CONTEXT: Scripts/Game_Battler(message)/125:14 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(message)/238:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(message)/125:14
+> CONTEXT: Scripts/Game_Battler(message)/238:18
+"\#{myname}'s EP recovered by\\023 \#{(damage.abs).to_s} \\024!\\024!\\n\\004[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
@@ -9381,16 +9381,16 @@
 
 > BEGIN STRING
 "\#{myname}のHPとMPが回復した！"
-> CONTEXT: Scripts/Game_Battler(message)/127:14 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(message)/240:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(message)/127:14
+> CONTEXT: Scripts/Game_Battler(message)/240:18
+"\#{myname}'s HP and MP have been restored!"
 > END STRING
 
 > BEGIN STRING
 "\#{myname}のEPが\\023 \#{(damage.abs).to_s} \\024回復した！"
-> CONTEXT: Scripts/Game_Battler(message)/130:14 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(message)/242:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(message)/130:14
+> CONTEXT: Scripts/Game_Battler(message)/242:18
+"\#{myname}'s EP recovered by\\023 \#{(damage.abs).to_s} \\024!"
 > END STRING
 
 > BEGIN STRING
@@ -9450,15 +9450,15 @@
 
 > BEGIN STRING
 "\#{myname}は\\023 \#{damage.to_s} \\024の快感をうけた！"
-> CONTEXT: Scripts/Game_Battler(message)/197:22 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(message)/219:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(message)/197:22
+> CONTEXT: Scripts/Game_Battler(message)/219:24
+"\#{myname} experienced\\023 \#{damage.to_s} \\024pleasure!"
 > END STRING
 
 > BEGIN STRING
 "\#{myname}に\\023 \#{damage.to_s} \\024の快感を与えた！\\n\\004[\\\\v[104]]"
-> CONTEXT: Scripts/Game_Battler(message)/205:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(message)/205:18
+"\#{myname} received\\023 \#{damage.to_s} \\024pleasure!\\n\\004[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
@@ -9469,14 +9469,14 @@
 
 > BEGIN STRING
 "\#{myname}に\\023 \#{damage.to_s} \\024の快感を与えた！"
-> CONTEXT: Scripts/Game_Battler(message)/217:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(message)/217:24
+"\#{myname} received\\023 \#{damage.to_s} \\024pleasure!"
 > END STRING
 
 > BEGIN STRING
 "\#{myname}のMPが\\023 \#{damage.to_s} \\024奪われた！"
-> CONTEXT: Scripts/Game_Battler(message)/228:20 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(message)/228:20
+"\#{myname} lost\\023 \#{damage.to_s} \\024MP!"
 > END STRING
 
 > BEGIN STRING
@@ -9724,8 +9724,8 @@
 
 > BEGIN STRING
 "「ふふ…気持ち良くさせてアゲル\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-nude(E))/43:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-nude(E))/43:12
+"「Fufu... I'll make you feel good\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
@@ -10774,7 +10774,6 @@
 > CONTEXT: Scripts/Game_Enemy 2(analyze)/94:10 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Enemy/222:11 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Battle 5/549:39 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/555:41 < UNTRANSLATED
 > CONTEXT: Scripts/★図鑑用詳細データ/875:10 < UNTRANSLATED
 > CONTEXT: Map278/events/9/pages/0/4/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Map278/events/9/pages/0/17/InlineScript/1:4 < UNTRANSLATED
@@ -10783,6 +10782,7 @@
 > CONTEXT: Map278/events/9/pages/0/46/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Map278/events/9/pages/0/77/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Map193/events/17/pages/0/82/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle 4/555:41 < UNTRANSLATED
 
 > END STRING
 
@@ -10832,8 +10832,8 @@
 
 > BEGIN STRING
 "「脱がせてあげるわね……"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/16:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/16:14
+"「I'll help you take it off..."
 > END STRING
 
 > BEGIN STRING
@@ -10937,9 +10937,9 @@
 
 > BEGIN STRING
 "「脱がせてあげるわね…\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/24:14 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/57:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/24:14
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/57:14
+"「I'll help you take it off...\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
@@ -11140,9 +11140,9 @@
 
 > BEGIN STRING
 "「まだよ…クスクス……"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/60:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(A))/61:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/60:12
+> CONTEXT: Scripts/Game_Battler(msg-insert(A))/61:12
+"「Not yet...hehe..."
 > END STRING
 
 > BEGIN STRING
@@ -11699,7 +11699,7 @@
 > CONTEXT: Scripts/Window_Message/211:17
 > CONTEXT: Scripts/Scene_Battle 4/637:51
 > CONTEXT: Scripts/Scene_Battle 4/642:51
-"\\333"
+"\\007"
 > END STRING
 
 > BEGIN STRING
@@ -11949,8 +11949,8 @@
 
 > BEGIN STRING
 "「ふふっ、おいしそうね\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/161:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/161:12
+"「Hehe, looks delicious\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
@@ -13311,59 +13311,59 @@
 
 > BEGIN STRING
 "「あはあっ\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/142:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/164:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(A))/103:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/142:12
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/164:12
+> CONTEXT: Scripts/Game_Battler(msg-insert(A))/103:12
+"「Ahhh\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
 "「やぁンっ\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-insert(A))/57:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-insert(A))/57:12
+"「Aaah\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
 "「あン、いれちゃったぁ\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/145:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/145:12
+"「Ah, it's in\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
 "「…アタシが欲しくないのぉ？"
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/146:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/146:12
+"「...Do you not want me?"
 > END STRING
 
 > BEGIN STRING
 "「あああンっ\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-insert(A))/60:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-insert(A))/60:12
+"「Aaaah\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
 "「う～～…。"
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/149:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/149:12
+"「Uh~~..."
 > END STRING
 
 > BEGIN STRING
 "「やぁん……っ\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-insert(A))/63:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-insert(A))/63:12
+"「Aaah...\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
 "「あぁンっ\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/151:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(A))/131:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/151:12
+> CONTEXT: Scripts/Game_Battler(msg-insert(A))/131:12
+"「Aaah\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
 "「あはっ、\\n\\004[\\\\v[104]]"
-> CONTEXT: Scripts/Game_Battler(msg-insert(A))/66:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-insert(A))/66:12
+"「Ahh,\\n\\004[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
@@ -14139,35 +14139,35 @@
 
 > BEGIN STRING
 "しかし\#{myname}にはねのけられた！"
-> CONTEXT: Scripts/RPG::Skill (message)/27:19 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/27:19
+"But was fended off by \#{myname}!"
 > END STRING
 
 > BEGIN STRING
 "しかし激しい水流に阻まれ届かない！"
-> CONTEXT: Scripts/RPG::Skill (message)/29:19 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/90:19 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/970:19 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/29:19
+> CONTEXT: Scripts/RPG::Skill (message)/90:19
+> CONTEXT: Scripts/RPG::Skill (message)/970:19
+"But the strong current is blocking!"
 > END STRING
 
 > BEGIN STRING
 "しかしうまくいかなかった！"
-> CONTEXT: Scripts/RPG::Skill (message)/30:17 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/34:17 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/63:17 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/77:17 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/80:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/30:17
+> CONTEXT: Scripts/RPG::Skill (message)/34:17
+> CONTEXT: Scripts/RPG::Skill (message)/63:17
+> CONTEXT: Scripts/RPG::Skill (message)/77:17
+> CONTEXT: Scripts/RPG::Skill (message)/80:17
+"But it didn't work!"
 > END STRING
 
 > BEGIN STRING
 "\#{target}を押し倒した！"
-> CONTEXT: Scripts/RPG::Skill (message)/32:24 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/60:24 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/236:24 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/249:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/32:24
+> CONTEXT: Scripts/RPG::Skill (message)/60:24
+> CONTEXT: Scripts/RPG::Skill (message)/236:24
+> CONTEXT: Scripts/RPG::Skill (message)/249:24
+" pushed \#{target} down!"
 > END STRING
 
 > BEGIN STRING
@@ -14326,152 +14326,152 @@
 
 > BEGIN STRING
 "腰をふっている！"
-> CONTEXT: Scripts/RPG::Skill (message)/103:24 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/105:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/103:24
+> CONTEXT: Scripts/RPG::Skill (message)/105:24
+" shook hips!"
 > END STRING
 
 > BEGIN STRING
 "\#{target}と\\n熱いキスを交わした！"
-> CONTEXT: Scripts/RPG::Skill (message)/108:28 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/108:28
+" shared a \\npassionate kiss with \#{target}!"
 > END STRING
 
 > BEGIN STRING
 "\#{target}と\\n濃厚なキスを交わした！"
-> CONTEXT: Scripts/RPG::Skill (message)/109:28 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/142:24 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/154:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/109:28
+> CONTEXT: Scripts/RPG::Skill (message)/142:24
+> CONTEXT: Scripts/RPG::Skill (message)/154:24
+" shared a \\nrich kiss with \#{target}!"
 > END STRING
 
 > BEGIN STRING
 "しかし\#{myname}は感じていない！"
-> CONTEXT: Scripts/RPG::Skill (message)/111:19 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/121:19 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/130:19 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/140:19 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/143:19 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/146:19 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/149:19 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/152:19 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/155:19 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/158:19 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/161:19 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/164:19 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/167:19 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/170:19 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/968:21 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/111:19
+> CONTEXT: Scripts/RPG::Skill (message)/121:19
+> CONTEXT: Scripts/RPG::Skill (message)/130:19
+> CONTEXT: Scripts/RPG::Skill (message)/140:19
+> CONTEXT: Scripts/RPG::Skill (message)/143:19
+> CONTEXT: Scripts/RPG::Skill (message)/146:19
+> CONTEXT: Scripts/RPG::Skill (message)/149:19
+> CONTEXT: Scripts/RPG::Skill (message)/152:19
+> CONTEXT: Scripts/RPG::Skill (message)/155:19
+> CONTEXT: Scripts/RPG::Skill (message)/158:19
+> CONTEXT: Scripts/RPG::Skill (message)/161:19
+> CONTEXT: Scripts/RPG::Skill (message)/164:19
+> CONTEXT: Scripts/RPG::Skill (message)/167:19
+> CONTEXT: Scripts/RPG::Skill (message)/170:19
+> CONTEXT: Scripts/RPG::Skill (message)/968:21
+"But \#{myname} isn't feeling it!"
 > END STRING
 
 > BEGIN STRING
 "\#{target}の\\n胸を舌で愛撫した！"
-> CONTEXT: Scripts/RPG::Skill (message)/114:30 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/114:30
+" caressed \\n\#{target}'s nipples by tongue!"
 > END STRING
 
 > BEGIN STRING
 "\#{target}の\\n乳首を愛撫した！"
-> CONTEXT: Scripts/RPG::Skill (message)/115:30 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/115:30
+" caressed \\n\#{target}'s nipples!"
 > END STRING
 
 > BEGIN STRING
 "\#{target}の\\n胸を優しく揉んだ！"
-> CONTEXT: Scripts/RPG::Skill (message)/117:30 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/117:30
+" gently massaged \\n\#{target}'s breasts!"
 > END STRING
 
 > BEGIN STRING
 "\#{target}の\\n胸を激しく揉みしだいた！"
-> CONTEXT: Scripts/RPG::Skill (message)/118:30 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/118:30
+" squeezed \\n\#{target}'s breasts hard!"
 > END STRING
 
 > BEGIN STRING
 "\#{target}の\\nお尻を舌で愛撫した！"
-> CONTEXT: Scripts/RPG::Skill (message)/124:30 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/124:30
+" caressed \\n\#{target}'s ass by tongue!"
 > END STRING
 
 > BEGIN STRING
 "\#{target}の\\nお尻を優しく揉んだ！"
-> CONTEXT: Scripts/RPG::Skill (message)/126:30 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/126:30
+" gently massaged \\n\#{target}'s butt!"
 > END STRING
 
 > BEGIN STRING
 "\#{target}の\\nお尻を激しく揉みしだいた！"
-> CONTEXT: Scripts/RPG::Skill (message)/127:30 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/127:30
+" squeezed \\n\#{target}'s ass hard!"
 > END STRING
 
 > BEGIN STRING
 "\#{target}の\\nアソコに顔をうずめ、丁寧に舐めまわした！"
-> CONTEXT: Scripts/RPG::Skill (message)/133:30 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/133:30
+" buried face in \#{target}'s vagina, \\nand licked it all over!"
 > END STRING
 
 > BEGIN STRING
 "\#{target}の\\nアソコに舌をいれて愛撫した！"
-> CONTEXT: Scripts/RPG::Skill (message)/134:30 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/134:30
+" put tongue in \#{target}'s vagina \\nand caressed it!"
 > END STRING
 
 > BEGIN STRING
 "\#{target}の\\nアソコに指を這わせ、丁寧に愛撫した！"
-> CONTEXT: Scripts/RPG::Skill (message)/136:30 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/136:30
+" ran fingers over \#{target}'s vagina, \\nand caressed her gently!"
 > END STRING
 
 > BEGIN STRING
 "\#{target}の\\nアソコに指をいれて愛撫した！"
-> CONTEXT: Scripts/RPG::Skill (message)/137:30 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/137:30
+" put fingers into \#{target}'s vagina \\nand caressed her!"
 > END STRING
 
 > BEGIN STRING
 "\#{target}の\\n胸を激しく攻めた！"
-> CONTEXT: Scripts/RPG::Skill (message)/145:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/145:24
+" attacked \\n\#{target}'s chest hard!"
 > END STRING
 
 > BEGIN STRING
 "\#{target}の\\nお尻を激しく攻めた！"
-> CONTEXT: Scripts/RPG::Skill (message)/148:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/148:24
+" attacked \\n\#{target}'s ass hard!"
 > END STRING
 
 > BEGIN STRING
 "\#{target}の\\nアソコを激しく愛撫した！"
-> CONTEXT: Scripts/RPG::Skill (message)/151:24 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/163:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/151:24
+> CONTEXT: Scripts/RPG::Skill (message)/163:24
+" caressed \\n\#{target}'s vagina intensely!"
 > END STRING
 
 > BEGIN STRING
 "\#{target}の\\n胸を激しく揉んだ！"
-> CONTEXT: Scripts/RPG::Skill (message)/157:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/157:24
+" squeezed \\n\#{target}'s breasts hard!"
 > END STRING
 
 > BEGIN STRING
 "\#{target}の\\nお尻を激しく揉んだ！"
-> CONTEXT: Scripts/RPG::Skill (message)/160:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/160:24
+" rubbed \\n\#{target}'s ass hard!"
 > END STRING
 
 > BEGIN STRING
 "\#{target}に\\n優しくキスをした！"
-> CONTEXT: Scripts/RPG::Skill (message)/166:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/166:24
+" gave \#{target}\\na gentle kiss!"
 > END STRING
 
 > BEGIN STRING
 "\#{target}の全身を\\n焦らすように愛撫した！"
-> CONTEXT: Scripts/RPG::Skill (message)/169:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/169:24
+" caressed and teased\\n\#{target}'s entire body!"
 > END STRING
 
 > BEGIN STRING
@@ -14590,17 +14590,17 @@
 
 > BEGIN STRING
 "服を脱ぎ始めた！"
-> CONTEXT: Scripts/RPG::Skill (message)/230:24 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/253:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/230:24
+> CONTEXT: Scripts/RPG::Skill (message)/253:24
+" started undressing!"
 > END STRING
 
 > BEGIN STRING
 "\#{target}の\\n服を脱がせはじめた！"
-> CONTEXT: Scripts/RPG::Skill (message)/232:24 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/245:24 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/957:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/232:24
+> CONTEXT: Scripts/RPG::Skill (message)/245:24
+> CONTEXT: Scripts/RPG::Skill (message)/957:24
+" started undressing \#{target}!"
 > END STRING
 
 > BEGIN STRING
@@ -14627,8 +14627,8 @@
 
 > BEGIN STRING
 "飛び去った！"
-> CONTEXT: Scripts/RPG::Skill (message)/243:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/243:24
+" flew away!"
 > END STRING
 
 > BEGIN STRING
@@ -14897,20 +14897,20 @@
 
 > BEGIN STRING
 "くすくす笑っている… \\\\w[\\\\v[104]]　"
-> CONTEXT: Scripts/RPG::Skill (message)/327:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/327:24
+" giggles... \\\\w[\\\\v[104]] "
 > END STRING
 
 > BEGIN STRING
 "ぱたぱた飛び回っている… \\\\w[\\\\v[104]]　"
-> CONTEXT: Scripts/RPG::Skill (message)/329:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/329:24
+" flaps around... \\\\w[\\\\v[104]] "
 > END STRING
 
 > BEGIN STRING
 "\#{myname}たちは輪になって踊りはじめた！"
-> CONTEXT: Scripts/RPG::Skill (message)/331:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/331:18
+"\#{myname} and friends started dancing in a circle!"
 > END STRING
 
 > BEGIN STRING
@@ -16720,8 +16720,8 @@
 
 > BEGIN STRING
 "手で\\n\#{target}のペニスを弄ってきた！"
-> CONTEXT: Scripts/RPG::Skill (message)/572:26 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/572:26
+" played with \\n\#{target}'s penis by hand!"
 > END STRING
 
 > BEGIN STRING
@@ -16732,8 +16732,8 @@
 
 > BEGIN STRING
 "服の上から\\n\#{target}のペニスを弄ってきた！"
-> CONTEXT: Scripts/RPG::Skill (message)/574:26 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/574:26
+" played with \\n\#{target}'s penis through clothes!"
 > END STRING
 
 > BEGIN STRING
@@ -17156,8 +17156,8 @@
 
 > BEGIN STRING
 "服の上から\\nシッポで\#{target}のペニスを弄ってきた！"
-> CONTEXT: Scripts/RPG::Skill (message)/668:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/668:24
+" played with \\n\#{target}'s penis with tail through clothes!"
 > END STRING
 
 > BEGIN STRING
@@ -17169,8 +17169,8 @@
 
 > BEGIN STRING
 "シッポで\\n\#{target}のペニスを弄ってきた！"
-> CONTEXT: Scripts/RPG::Skill (message)/669:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/669:24
+" played with \\n\#{target}'s penis with her tail!"
 > END STRING
 
 > BEGIN STRING
@@ -17637,28 +17637,28 @@
 
 > BEGIN STRING
 "\#{myname}の攻撃！"
-> CONTEXT: Scripts/RPG::Skill (message)/915:18 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/918:18 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/921:18 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/926:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/915:18
+> CONTEXT: Scripts/RPG::Skill (message)/918:18
+> CONTEXT: Scripts/RPG::Skill (message)/921:18
+> CONTEXT: Scripts/RPG::Skill (message)/926:18
+"\#{myname} attacks!"
 > END STRING
 
 > BEGIN STRING
 "\#{target}に攻撃が届かない！"
-> CONTEXT: Scripts/RPG::Skill (message)/916:19 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/919:19 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/922:19 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/927:19 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/930:19 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/933:19 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/936:19 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/941:19 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/944:19 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/947:19 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/950:19 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/953:19 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/916:19
+> CONTEXT: Scripts/RPG::Skill (message)/919:19
+> CONTEXT: Scripts/RPG::Skill (message)/922:19
+> CONTEXT: Scripts/RPG::Skill (message)/927:19
+> CONTEXT: Scripts/RPG::Skill (message)/930:19
+> CONTEXT: Scripts/RPG::Skill (message)/933:19
+> CONTEXT: Scripts/RPG::Skill (message)/936:19
+> CONTEXT: Scripts/RPG::Skill (message)/941:19
+> CONTEXT: Scripts/RPG::Skill (message)/944:19
+> CONTEXT: Scripts/RPG::Skill (message)/947:19
+> CONTEXT: Scripts/RPG::Skill (message)/950:19
+> CONTEXT: Scripts/RPG::Skill (message)/953:19
+"The attack didn't touch \#{target}!"
 > END STRING
 
 > BEGIN STRING
@@ -17751,28 +17751,28 @@
 
 > BEGIN STRING
 "交換する"
-> CONTEXT: Scripts/Window_ShopCommand/18:20 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_ShopCommand/18:20
+"Exchange"
 > END STRING
 
 > BEGIN STRING
 "やめる"
-> CONTEXT: Scripts/Window_ShopCommand/18:28 < UNTRANSLATED
-> CONTEXT: Scripts/Window_ShopCommand/22:36 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_End/15:10 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_ShopCommand/18:28
+> CONTEXT: Scripts/Window_ShopCommand/22:36
+> CONTEXT: Scripts/Scene_End/15:10
+"Leave"
 > END STRING
 
 > BEGIN STRING
 "購入する"
-> CONTEXT: Scripts/Window_ShopCommand/22:20 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_ShopCommand/22:20
+"Buy"
 > END STRING
 
 > BEGIN STRING
 "売却する"
-> CONTEXT: Scripts/Window_ShopCommand/22:28 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_ShopCommand/22:28
+"Sell"
 > END STRING
 
 > BEGIN STRING
@@ -17799,23 +17799,23 @@
 
 > BEGIN STRING
 "HGPｺﾞｼｯｸE"
-> CONTEXT: Scripts/Window_Base/180:32 < UNTRANSLATED
-> CONTEXT: Scripts/Window_Base/194:32 < UNTRANSLATED
-> CONTEXT: Scripts/Window_Base/208:32 < UNTRANSLATED
 > CONTEXT: Scripts/Window_SaveFile/77:34 < UNTRANSLATED
 > CONTEXT: Scripts/Window_SaveFile/95:34 < UNTRANSLATED
 > CONTEXT: Scripts/Window_Message/251:38 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Base/180:32 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Base/194:32 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Base/208:32 < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
 "ＭＳ Ｐゴシック"
-> CONTEXT: Scripts/Window_Base/180:44 < UNTRANSLATED
-> CONTEXT: Scripts/Window_Base/194:44 < UNTRANSLATED
-> CONTEXT: Scripts/Window_Base/208:44 < UNTRANSLATED
 > CONTEXT: Scripts/Window_SaveFile/77:46 < UNTRANSLATED
 > CONTEXT: Scripts/Window_SaveFile/95:46 < UNTRANSLATED
 > CONTEXT: Scripts/Window_Message/251:50 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Base/180:44 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Base/194:44 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Base/208:44 < UNTRANSLATED
 
 > END STRING
 
@@ -18146,8 +18146,8 @@
 
 > BEGIN STRING
 "を手に入れた！"
-> CONTEXT: Scripts/Window_BattleResult/70:41 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_BattleResult/70:41
+" obtained!"
 > END STRING
 
 > BEGIN STRING
@@ -18257,8 +18257,8 @@
 
 > BEGIN STRING
 "ふもとの町、シプリ"
-> CONTEXT: Scripts/Window_SaveFile/105:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_SaveFile/105:14
+"Hillbase Town Sipuli"
 > END STRING
 
 > BEGIN STRING
@@ -19821,20 +19821,20 @@
 
 > BEGIN STRING
 "wb"
-> CONTEXT: Scripts/Scene_Save/21:32 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Save/26:42 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Load/51:40 < UNTRANSLATED
 > CONTEXT: Scripts/システムデータ/79:30 < UNTRANSLATED
 > CONTEXT: Scripts/システムデータ/90:28 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Save/21:32 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Save/26:42 < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
 "SQ_Temp.rxdata"
-> CONTEXT: Scripts/Scene_Save/26:24 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Load/51:22 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Gameover/61:26 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Gameover/68:26 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Save/26:24 < UNTRANSLATED
 
 > END STRING
 
@@ -20946,14 +20946,14 @@
 
 > BEGIN STRING
 "たちに襲われた！"
-> CONTEXT: Scripts/Scene_Battle 2/51:21 < UNTRANSLATED
-
+> CONTEXT: Scripts/Scene_Battle 2/51:21
+" group attacked!"
 > END STRING
 
 > BEGIN STRING
 "に襲われた！"
-> CONTEXT: Scripts/Scene_Battle 2/53:21 < UNTRANSLATED
-
+> CONTEXT: Scripts/Scene_Battle 2/53:21
+" attacked!"
 > END STRING
 
 > BEGIN STRING
@@ -20977,7 +20977,7 @@
 > BEGIN STRING
 "\\005[60]\#{$game_actors[1].name}は逃げ出した！\\n\\555"
 > CONTEXT: Scripts/Scene_Battle 2/236:35
-"\\005[60]\#{$game_actors[1].name} escaped!\\n\\333"
+"\\005[60]\#{$game_actors[1].name} escaped!\\n\\007"
 > END STRING
 
 > BEGIN STRING
@@ -20988,38 +20988,38 @@
 
 > BEGIN STRING
 "はいなくなった…\\n\\005[\\\\v[105]]"
-> CONTEXT: Scripts/Scene_Battle 2/352:46 < UNTRANSLATED
-
+> CONTEXT: Scripts/Scene_Battle 2/352:46
+" is gone...\\n\\005[\\\\v[105]]"
 > END STRING
 
 > BEGIN STRING
 "を倒した！\\n\\005[60]"
-> CONTEXT: Scripts/Scene_Battle 2/356:46 < UNTRANSLATED
-
+> CONTEXT: Scripts/Scene_Battle 2/356:46
+"defeated!\\n\\005[60]"
 > END STRING
 
 > BEGIN STRING
 "たちに勝利した！\\n\\004[\\\\v[104]]"
-> CONTEXT: Scripts/Scene_Battle 2/456:27 < UNTRANSLATED
-
+> CONTEXT: Scripts/Scene_Battle 2/456:27
+" group defeated!\\n\\004[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
 "に勝利した！\\n\\004[\\\\v[104]]"
-> CONTEXT: Scripts/Scene_Battle 2/458:27 < UNTRANSLATED
-
+> CONTEXT: Scripts/Scene_Battle 2/458:27
+" defeated!\\n\\004[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
 "\\023\#{exp_before}\\024 ポイントの経験を得た！\\n\\004[\\\\v[104]]"
-> CONTEXT: Scripts/Scene_Battle 2/463:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/Scene_Battle 2/463:15
+"\\023\#{exp_before}\\024 EXP gained!\\n\\004[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
 "\\023\#{@gold}\\024 ゴールドを手に入れた！"
-> CONTEXT: Scripts/Scene_Battle 2/465:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/Scene_Battle 2/465:15
+"\\023\#{@gold}\\024 gold obtained!"
 > END STRING
 
 > BEGIN STRING
@@ -21049,20 +21049,20 @@
 
 > BEGIN STRING
 "\#{actor.name}はレベル\\023 \#{actor.level} \\024になった！\\n\\004[\\\\v[104]]"
-> CONTEXT: Scripts/Scene_Battle 2/512:11 < UNTRANSLATED
-
+> CONTEXT: Scripts/Scene_Battle 2/512:11
+"\#{actor.name} is now level\\023 \#{actor.level} \\024!\\n\\004[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
 "\\\\c[1]\#{$data_skills[j.skill_id].name.split(/\\//)[0]}\\\\c[0] を覚えた！\\n\\004[\\\\v[104]]"
-> CONTEXT: Scripts/Scene_Battle 2/515:23 < UNTRANSLATED
-
+> CONTEXT: Scripts/Scene_Battle 2/515:23
+"\\\\c[1]\#{$data_skills[j.skill_id].name.split(/\\//)[0]}\\\\c[0] acquired!\\n\\004[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
 "ルヴィッサは\\\\c[1]\#{$data_skills[j.skill_id].name.split(/\\//)[0]}\\\\c[0] を覚えた！\\n\\004[\\\\v[104]]"
-> CONTEXT: Scripts/Scene_Battle 2/521:25 < UNTRANSLATED
-
+> CONTEXT: Scripts/Scene_Battle 2/521:25
+"Rovissa learned \\\\c[1]\#{$data_skills[j.skill_id].name.split(/\\//)[0]}\\\\c[0]!\\n\\004[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING

@@ -1,57 +1,57 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 "エスト/Est"
-> CONTEXT: Map319/events/11/pages/0/8/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map316/events/9/pages/0/4/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map319/events/11/pages/0/13/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map315/events/7/pages/0/4/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map315/events/7/pages/0/36/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map315/events/7/pages/0/134/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map315/events/7/pages/0/144/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map315/events/7/pages/0/182/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map311/events/5/pages/0/419/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map311/events/5/pages/0/424/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map311/events/5/pages/0/436/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map213/events/17/pages/1/129/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map213/events/17/pages/1/236/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map213/events/17/pages/1/241/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map213/events/17/pages/1/255/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map213/events/17/pages/1/375/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map213/events/17/pages/1/410/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map193/events/17/pages/0/42/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map193/events/17/pages/0/76/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map193/events/17/pages/0/86/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map193/events/17/pages/0/149/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map193/events/17/pages/0/229/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map193/events/17/pages/0/269/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map193/events/17/pages/0/273/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map193/events/17/pages/0/304/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map193/events/17/pages/0/313/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map193/events/17/pages/0/427/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map193/events/17/pages/0/469/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map193/events/17/pages/0/505/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map037/events/2/pages/0/289/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map037/events/2/pages/0/351/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map012/events/11/pages/0/320/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map012/events/11/pages/0/332/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map012/events/11/pages/0/398/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map012/events/11/pages/0/403/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map012/events/11/pages/0/415/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map012/events/11/pages/0/502/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map012/events/11/pages/0/521/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map012/events/11/pages/0/555/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map012/events/11/pages/0/600/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map012/events/11/pages/0/611/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map012/events/11/pages/0/692/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/500/298/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/500/318/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/500/326/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/500/332/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/500/387/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/500/446/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/500/481/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map314/events/5/pages/0/63/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map319/events/11/pages/0/8/InlineScript/1:4
+> CONTEXT: Map316/events/9/pages/0/4/InlineScript/1:4
+> CONTEXT: Map319/events/11/pages/0/13/InlineScript/1:4
+> CONTEXT: Map315/events/7/pages/0/4/InlineScript/1:4
+> CONTEXT: Map315/events/7/pages/0/36/InlineScript/1:4
+> CONTEXT: Map315/events/7/pages/0/134/InlineScript/1:4
+> CONTEXT: Map315/events/7/pages/0/144/InlineScript/1:4
+> CONTEXT: Map315/events/7/pages/0/182/InlineScript/1:4
+> CONTEXT: Map311/events/5/pages/0/419/InlineScript/1:4
+> CONTEXT: Map311/events/5/pages/0/424/InlineScript/1:4
+> CONTEXT: Map311/events/5/pages/0/436/InlineScript/1:4
+> CONTEXT: Map213/events/17/pages/1/129/InlineScript/1:4
+> CONTEXT: Map213/events/17/pages/1/236/InlineScript/1:4
+> CONTEXT: Map213/events/17/pages/1/241/InlineScript/1:4
+> CONTEXT: Map213/events/17/pages/1/255/InlineScript/1:4
+> CONTEXT: Map213/events/17/pages/1/375/InlineScript/1:4
+> CONTEXT: Map213/events/17/pages/1/410/InlineScript/1:4
+> CONTEXT: Map193/events/17/pages/0/42/InlineScript/1:4
+> CONTEXT: Map193/events/17/pages/0/76/InlineScript/1:4
+> CONTEXT: Map193/events/17/pages/0/86/InlineScript/1:4
+> CONTEXT: Map193/events/17/pages/0/149/InlineScript/1:4
+> CONTEXT: Map193/events/17/pages/0/229/InlineScript/1:4
+> CONTEXT: Map193/events/17/pages/0/269/InlineScript/1:4
+> CONTEXT: Map193/events/17/pages/0/273/InlineScript/1:4
+> CONTEXT: Map193/events/17/pages/0/304/InlineScript/1:4
+> CONTEXT: Map193/events/17/pages/0/313/InlineScript/1:4
+> CONTEXT: Map193/events/17/pages/0/427/InlineScript/1:4
+> CONTEXT: Map193/events/17/pages/0/469/InlineScript/1:4
+> CONTEXT: Map193/events/17/pages/0/505/InlineScript/1:4
+> CONTEXT: Map037/events/2/pages/0/289/InlineScript/1:4
+> CONTEXT: Map037/events/2/pages/0/351/InlineScript/1:4
+> CONTEXT: Map012/events/11/pages/0/320/InlineScript/1:4
+> CONTEXT: Map012/events/11/pages/0/332/InlineScript/1:4
+> CONTEXT: Map012/events/11/pages/0/398/InlineScript/1:4
+> CONTEXT: Map012/events/11/pages/0/403/InlineScript/1:4
+> CONTEXT: Map012/events/11/pages/0/415/InlineScript/1:4
+> CONTEXT: Map012/events/11/pages/0/502/InlineScript/1:4
+> CONTEXT: Map012/events/11/pages/0/521/InlineScript/1:4
+> CONTEXT: Map012/events/11/pages/0/555/InlineScript/1:4
+> CONTEXT: Map012/events/11/pages/0/600/InlineScript/1:4
+> CONTEXT: Map012/events/11/pages/0/611/InlineScript/1:4
+> CONTEXT: Map012/events/11/pages/0/692/InlineScript/1:4
+> CONTEXT: Commonevents/500/298/InlineScript/1:4
+> CONTEXT: Commonevents/500/318/InlineScript/1:4
+> CONTEXT: Commonevents/500/326/InlineScript/1:4
+> CONTEXT: Commonevents/500/332/InlineScript/1:4
+> CONTEXT: Commonevents/500/387/InlineScript/1:4
+> CONTEXT: Commonevents/500/446/InlineScript/1:4
+> CONTEXT: Commonevents/500/481/InlineScript/1:4
+> CONTEXT: Map314/events/5/pages/0/63/InlineScript/1:4
+"Est/Est"
 > END STRING
 
 > BEGIN STRING

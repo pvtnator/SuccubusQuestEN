@@ -813,10 +813,10 @@ SQ_Castel01
 
 > BEGIN STRING
 \\c[4]トネリコのたいまつ\\c[0]を手に入れた！
-> CONTEXT: Map231/events/3/pages/0/441/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/443/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/443/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/441/Dialogue
+> CONTEXT: Map231/events/28/pages/0/443/Dialogue
+> CONTEXT: Map231/events/29/pages/0/443/Dialogue
+\\c[4]Ash Torch\\c[0] obtained!
 > END STRING
 
 > BEGIN STRING
@@ -1111,8 +1111,8 @@ SQ_Castel01
 
 > BEGIN STRING
 \\c[4]ガンバンティン\\c[0]を手に入れた！
-> CONTEXT: Map231/events/30/pages/0/52/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/30/pages/0/52/Dialogue
+\\c[4]Ganbanting\\c[0] obtained!
 > END STRING
 
 > BEGIN STRING
@@ -1131,8 +1131,8 @@ SQ_Castel01
 
 > BEGIN STRING
 \\c[4]グラム\\c[0]を手に入れた！
-> CONTEXT: Map231/events/30/pages/0/60/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/30/pages/0/60/Dialogue
+\\c[4]Gram\\c[0] obtained!
 > END STRING
 
 > BEGIN STRING
@@ -1204,8 +1204,8 @@ SQ_Castel01
 
 > BEGIN STRING
 \\c[4]ガルドル\\c[0]を手に入れた！
-> CONTEXT: Map231/events/30/pages/0/102/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/30/pages/0/102/Dialogue
+\\c[4]Galdol\\c[0] obtained!
 > END STRING
 
 > BEGIN STRING

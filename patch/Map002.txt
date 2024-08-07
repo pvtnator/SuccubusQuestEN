@@ -157,8 +157,8 @@
 
 > BEGIN STRING
 古びたロザリオを手に入れた！
-> CONTEXT: Map002/events/2/pages/0/61/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/2/pages/0/61/Dialogue
+Old Rosary obtained!
 > END STRING
 
 > BEGIN STRING

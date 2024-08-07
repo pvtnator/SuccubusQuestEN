@@ -716,36 +716,36 @@ EP+50%
 
 > BEGIN STRING
 シダーウッド
-> CONTEXT: States/135/name/ < UNTRANSLATED
-> CONTEXT: Items/1/name/ < UNTRANSLATED
-
+> CONTEXT: States/135/name/
+> CONTEXT: Items/1/name/
+Cedarwood
 > END STRING
 
 > BEGIN STRING
 ローズウッド
-> CONTEXT: States/136/name/ < UNTRANSLATED
-
+> CONTEXT: States/136/name/
+Rosewood
 > END STRING
 
 > BEGIN STRING
 サンダルウッド
-> CONTEXT: States/137/name/ < UNTRANSLATED
-> CONTEXT: Items/3/name/ < UNTRANSLATED
-
+> CONTEXT: States/137/name/
+> CONTEXT: Items/3/name/
+Cedarwood
 > END STRING
 
 > BEGIN STRING
 アローズウッド
-> CONTEXT: States/138/name/ < UNTRANSLATED
-> CONTEXT: Items/4/name/ < UNTRANSLATED
-
+> CONTEXT: States/138/name/
+> CONTEXT: Items/4/name/
+Arousewood
 > END STRING
 
 > BEGIN STRING
 ペパーミント
-> CONTEXT: States/139/name/ < UNTRANSLATED
-> CONTEXT: Items/5/name/ < UNTRANSLATED
-
+> CONTEXT: States/139/name/
+> CONTEXT: Items/5/name/
+Peppermint
 > END STRING
 
 > BEGIN STRING
@@ -756,58 +756,58 @@ EP+50%
 
 > BEGIN STRING
 ローズマリー
-> CONTEXT: States/141/name/ < UNTRANSLATED
-> CONTEXT: Items/7/name/ < UNTRANSLATED
-
+> CONTEXT: States/141/name/
+> CONTEXT: Items/7/name/
+Rosemary
 > END STRING
 
 > BEGIN STRING
 ミルトス
-> CONTEXT: States/142/name/ < UNTRANSLATED
-> CONTEXT: Items/8/name/ < UNTRANSLATED
-
+> CONTEXT: States/142/name/
+> CONTEXT: Items/8/name/
+Miltos
 > END STRING
 
 > BEGIN STRING
 ジャスミン
-> CONTEXT: States/143/name/ < UNTRANSLATED
-> CONTEXT: Items/9/name/ < UNTRANSLATED
-
+> CONTEXT: States/143/name/
+> CONTEXT: Items/9/name/
+Jasmin
 > END STRING
 
 > BEGIN STRING
 ラヴェンダー
-> CONTEXT: States/144/name/ < UNTRANSLATED
-> CONTEXT: Items/10/name/ < UNTRANSLATED
-
+> CONTEXT: States/144/name/
+> CONTEXT: Items/10/name/
+Lavendar
 > END STRING
 
 > BEGIN STRING
 ムスク
-> CONTEXT: States/145/name/ < UNTRANSLATED
-> CONTEXT: Items/11/name/ < UNTRANSLATED
-
+> CONTEXT: States/145/name/
+> CONTEXT: Items/11/name/
+Musk
 > END STRING
 
 > BEGIN STRING
 マージョラム
-> CONTEXT: States/146/name/ < UNTRANSLATED
-> CONTEXT: Items/12/name/ < UNTRANSLATED
-
+> CONTEXT: States/146/name/
+> CONTEXT: Items/12/name/
+Marjoram
 > END STRING
 
 > BEGIN STRING
 ヘンルーダ
-> CONTEXT: States/147/name/ < UNTRANSLATED
-> CONTEXT: Items/13/name/ < UNTRANSLATED
-
+> CONTEXT: States/147/name/
+> CONTEXT: Items/13/name/
+Common rue
 > END STRING
 
 > BEGIN STRING
 フランキンセンス
-> CONTEXT: States/148/name/ < UNTRANSLATED
-> CONTEXT: Items/14/name/ < UNTRANSLATED
-
+> CONTEXT: States/148/name/
+> CONTEXT: Items/14/name/
+Frankincense
 > END STRING
 
 > BEGIN STRING

@@ -376,8 +376,8 @@
 
 > BEGIN STRING
 \\c[4]グングニル\\c[0]を手に入れた！
-> CONTEXT: Map192/events/11/pages/0/584/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/584/Dialogue
+\\c[4]Gungnir\\c[0] obtained!
 > END STRING
 
 > BEGIN STRING

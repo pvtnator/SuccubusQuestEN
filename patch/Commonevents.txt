@@ -1,8 +1,8 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 \\b\\v[22]G\\f 手に入れた！
-> CONTEXT: Commonevents/10/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/10/2/Dialogue
+\\b\\v[22]G\\f obtained!
 > END STRING
 
 > BEGIN STRING
@@ -744,8 +744,8 @@
 
 > BEGIN STRING
 \\c[4]夢の指輪\\c[0]を手に入れた！
-> CONTEXT: Commonevents/36/47/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/36/47/Dialogue
+\\c[4]Dream Ring\\c[0] obtained!
 > END STRING
 
 > BEGIN STRING
@@ -771,20 +771,20 @@
 
 > BEGIN STRING
 "しかし、\#{$m.name}は"
-> CONTEXT: Commonevents/50/0/InlineScript/8:5 < UNTRANSLATED
-
+> CONTEXT: Commonevents/50/0/InlineScript/8:5
+"But \#{$m.name}"
 > END STRING
 
 > BEGIN STRING
 "しかし、\#{$m.name}たちは"
-> CONTEXT: Commonevents/50/0/InlineScript/9:5 < UNTRANSLATED
-
+> CONTEXT: Commonevents/50/0/InlineScript/9:5
+"But \#{$m.name}s"
 > END STRING
 
 > BEGIN STRING
 "すばやく回りこんできた！"
-> CONTEXT: Commonevents/50/0/InlineScript/10:9 < UNTRANSLATED
-
+> CONTEXT: Commonevents/50/0/InlineScript/10:9
+" blocked the way!"
 > END STRING
 
 > BEGIN STRING
@@ -871,14 +871,15 @@
 > BEGIN STRING
 辺りに残る魔王の力が
 \\n[1]にそそぎ込む！
-> CONTEXT: Commonevents/52/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/6/Dialogue
+Lingering power of the Demon King
+pours into \\n[1]!
 > END STRING
 
 > BEGIN STRING
 \\n[1]のEPが\\b 327 \\f回復した！
-> CONTEXT: Commonevents/52/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/9/Dialogue
+\\n[1]'s EP recovered by\\b 327 \\f!
 > END STRING
 
 > BEGIN STRING
@@ -5439,41 +5440,47 @@
 > BEGIN STRING
 「ふふっ。
 　大人しくしててね…\\e[0]
-> CONTEXT: Commonevents/302/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/302/2/Dialogue
+「Hehe.
+　Quietly, now...\\e[0]
 > END STRING
 
 > BEGIN STRING
 \\a[1]サキュバスはエルヴィンのペニスを口でくわえ、
 \\w[\\v[104]]激しくしゃぶってきた！\\k
-> CONTEXT: Commonevents/303/2/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/305/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/303/2/Dialogue
+> CONTEXT: Commonevents/305/2/Dialogue
+\\a[1]Succubus took Elvin's penis in her mouth and
+\\w[\\v[104]]sucked it hard!\\k
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]\\w[\\v[104]]
 エルヴィンは\\b \\v[1] \\fの快感を受けた！
-> CONTEXT: Commonevents/303/6/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/304/6/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/304/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/303/6/Dialogue
+> CONTEXT: Commonevents/304/6/Dialogue
+> CONTEXT: Commonevents/304/14/Dialogue
+\\a[\\v[105]]\\w[\\v[104]]
+ Elvin felt\\b \\v[1] \\fpleasure!
 > END STRING
 
 > BEGIN STRING
 \\a[1]サキュバスはエルヴィンのペニスを手でつかみ、
 \\w[\\v[104]]激しくしごいてきた！\\k
-> CONTEXT: Commonevents/304/2/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/304/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/304/2/Dialogue
+> CONTEXT: Commonevents/304/10/Dialogue
+\\a[1]Succubus grabbed Elvin's penis by hand 
+\\w[\\v[104]]and started stroking it vigorously!\\k
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]\\w[\\v[104]]
 ラグジャラスヒット！\\w[\\v[105]]
 エルヴィンは\\b \\v[1] \\fの快感を受けた！
-> CONTEXT: Commonevents/305/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/305/11/Dialogue
+\\a[\\v[105]]\\w[\\v[104]]
+ Luxurious hit!\\w[\\v[105]]
+ Elvin felt\\b \\v[1] \\fpleasure!
 > END STRING
 
 > BEGIN STRING
@@ -5705,8 +5712,8 @@ More power flows from the\\a[\\v[105]]\\c[4]Demon King's fragment\\c[0]
 
 > BEGIN STRING
 "\\\\a[100]\\\\c[4]\\\\v[22]\\\\c[0] を手に入れた！"
-> CONTEXT: Commonevents/500/88/InlineScript/1:5 < UNTRANSLATED
-
+> CONTEXT: Commonevents/500/88/InlineScript/1:5
+"\\\\a[100]\\\\c[4]\\\\v[22]\\\\c[0] obtained!"
 > END STRING
 
 > BEGIN STRING
@@ -5834,8 +5841,8 @@ More power flows from the\\a[\\v[105]]\\c[4]Demon King's fragment\\c[0]
 
 > BEGIN STRING
 \\n[1]は\\c[4]魔王のかけら\\c[0]を手に入れた！
-> CONTEXT: Commonevents/500/467/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/500/467/Dialogue
+\\n[1] obtained \\c[4]Demon King's Shard\\c[0]!
 > END STRING
 
 > BEGIN STRING
