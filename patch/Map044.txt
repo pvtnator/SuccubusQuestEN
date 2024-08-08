@@ -8,355 +8,403 @@ SQ_Castel02
 > BEGIN STRING
 「神よ、感謝しよう！
 　よくぞここに勇者を戻らせた！
-> CONTEXT: Map044/events/7/pages/0/21/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map044/events/7/pages/0/21/Dialogue
+「Thank God! 
+　The hero has returned!
 > END STRING
 
 > BEGIN STRING
 「今やグルッペンの全ての民が、
 　いや、そればかりでなく全ての草花、
 　野に遊ぶ獣までもが、
-> CONTEXT: Map044/events/7/pages/0/23/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map044/events/7/pages/0/23/Dialogue
+「Now all the people of Gruppen,
+　and not only that, but all the flowers,
+　even the animals that play in the fields,
 > END STRING
 
 > BEGIN STRING
 「お前の帰還を喜んでいるのだ！
 　勇者\\n[1]！
-> CONTEXT: Map044/events/7/pages/0/26/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map044/events/7/pages/0/26/Dialogue
+「are happy for your return! 
+　Hero \\n[1]!
 > END STRING
 
 > BEGIN STRING
 「ああしかし、賢王様。
-> CONTEXT: Map044/events/7/pages/0/33/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map044/events/7/pages/0/33/Dialogue
+「Ah, but, Wise King.
 > END STRING
 
 > BEGIN STRING
 「……わかっている。
-> CONTEXT: Map044/events/7/pages/0/35/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map044/events/7/pages/0/35/Dialogue
+「...I know.
 > END STRING
 
 > BEGIN STRING
 「魔王城へ向かったのは
 　勇者様お一人ではなかったはず。
-> CONTEXT: Map044/events/7/pages/0/41/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map044/events/7/pages/0/41/Dialogue
+「The hero wasn't the only one 
+　who went to the Demon Castle.
 > END STRING
 
 > BEGIN STRING
 「しかしお戻りになったのは……
-> CONTEXT: Map044/events/7/pages/0/43/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map044/events/7/pages/0/43/Dialogue
+「But you made it back...
 > END STRING
 
 > BEGIN STRING
 「わかっていると言っている！
 　……おお、我が千の同胞！
-> CONTEXT: Map044/events/7/pages/0/45/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map044/events/7/pages/0/45/Dialogue
+「I'm telling you, I know! 
+　...Oh, our thousand brethren!
 > END STRING
 
 > BEGIN STRING
 「\\n[1]、本当なのか。
 　その魔王と入れ替わりにあらわれたという
 　魔物に、
-> CONTEXT: Map044/events/7/pages/0/49/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map044/events/7/pages/0/49/Dialogue
+「\\n[1], is it true?
+　The demon that appeared in place of the 
+　Demon King,
 > END STRING
 
 > BEGIN STRING
 「我がグルッペンの精兵…そして
 　お前までもが
-> CONTEXT: Map044/events/7/pages/0/52/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map044/events/7/pages/0/52/Dialogue
+「My Gruppen's elite soldiers... 
+　and even you...
 > END STRING
 
 > BEGIN STRING
 「ほとんど抵抗すらできずに
 　\\r[恣,ほしいまま]　\\dにされてしまった\\dというのは！
-> CONTEXT: Map044/events/7/pages/0/54/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map044/events/7/pages/0/54/Dialogue
+「were barely able to resist 
+　and were just \\dtaken advantage of\\d!
 > END STRING
 
 > BEGIN STRING
 「どうやら間違いないようだ。
 　それは……
-> CONTEXT: Map044/events/7/pages/0/66/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map044/events/7/pages/0/66/Dialogue
+「It seems there's no mistake about that.
+　That is...
 > END STRING
 
 > BEGIN STRING
 「グランマルッ！
-> CONTEXT: Map044/events/7/pages/0/68/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map044/events/7/pages/0/68/Dialogue
+「Granmal!
 > END STRING
 
 > BEGIN STRING
 「はッ！
-> CONTEXT: Map044/events/7/pages/0/73/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map044/events/7/pages/0/73/Dialogue
+「Yes!
 > END STRING
 
 > BEGIN STRING
 「調べましたところ
 　その魔物は『夢魔』といい、
-> CONTEXT: Map044/events/7/pages/0/78/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map044/events/7/pages/0/78/Dialogue
+「After researching, 
+　I found out that the demon
+　is called a 'succubus',
 > END STRING
 
 > BEGIN STRING
 「今から五百年ほど前……初代国王、
 　ラドゥフス・ローゼンクランツ一世の時代にも
 　あらわれているようでございまする。
-> CONTEXT: Map044/events/7/pages/0/80/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map044/events/7/pages/0/80/Dialogue
+「Apparently, it also appeared around 500 years ago 
+　during the reign of the first king,
+　Radufus Rosencrantz I.
 > END STRING
 
 > BEGIN STRING
 「記録によりますれば…、
-> CONTEXT: Map044/events/7/pages/0/84/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map044/events/7/pages/0/84/Dialogue
+「According to the records...
 > END STRING
 
 > BEGIN STRING
 「　　”その魔物一切の剣も炎も通さず、
 　　　 魔物もまた何者も傷つけることなく、
-> CONTEXT: Map044/events/7/pages/0/86/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map044/events/7/pages/0/86/Dialogue
+「　　"That demon is impervious to swords and flames,
+　　　and it can't harm others,
 > END STRING
 
 > BEGIN STRING
 「　　”ただ愛を求めし
-> CONTEXT: Map044/events/7/pages/0/88/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map044/events/7/pages/0/88/Dialogue
+「　　"it just craves love
 > END STRING
 
 > BEGIN STRING
 「　　”魔物と交わりし者、男であればその精を奪われ、
 　　　 女であれば彼女もまた魔物となる
-> CONTEXT: Map044/events/7/pages/0/89/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map044/events/7/pages/0/89/Dialogue
+「　　"If a man has intercourse with the demon, 
+　　　his essence will be stolen, and if a woman, 
+　　　she too will become a demon
 > END STRING
 
 > BEGIN STRING
 「　　”全てを拒みし時、魔物は夢へと還る
-> CONTEXT: Map044/events/7/pages/0/91/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map044/events/7/pages/0/91/Dialogue
+「　　"Through complete rejection 
+　　　does it return to dreams
 > END STRING
 
 > BEGIN STRING
 「……と、ございまする。
-> CONTEXT: Map044/events/7/pages/0/93/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map044/events/7/pages/0/93/Dialogue
+「...That is all.
 > END STRING
 
 > BEGIN STRING
 「また近頃このグルッペン近辺でも、
 　この夢魔と思われる魔物が
 　出現しているようですじゃ。
-> CONTEXT: Map044/events/7/pages/0/94/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map044/events/7/pages/0/94/Dialogue
+「Recently, these demon-like succubi have 
+　also been appearing near Gruppen.
 > END STRING
 
 > BEGIN STRING
 「……ふざけた魔物だ。
-> CONTEXT: Map044/events/7/pages/0/100/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map044/events/7/pages/0/100/Dialogue
+「...What a ridiculous demon.
 > END STRING
 
 > BEGIN STRING
 「しかし捨て置くわけには
 　いきますまい。
-> CONTEXT: Map044/events/7/pages/0/104/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map044/events/7/pages/0/104/Dialogue
+「But we can't just leave it as is.
 > END STRING
 
 > BEGIN STRING
 「無論だ！
 　早急に対策を練った上、
 　討伐隊を編成しよう。
-> CONTEXT: Map044/events/7/pages/0/107/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map044/events/7/pages/0/107/Dialogue
+「Naturally!
+　Let's immediately devise a countermeasure
+　and organize a punitive force.
 > END STRING
 
 > BEGIN STRING
 「ときに\\n[1]よ、
 　エルヴィンとオリビアはどうした。
-> CONTEXT: Map044/events/7/pages/0/110/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map044/events/7/pages/0/110/Dialogue
+「By the way, \\n[1], 
+　what happened to Elvin and Olivia?
 > END STRING
 
 > BEGIN STRING
 「いや、エルヴィンの姿は
 　既に兵が確認していたが……
-> CONTEXT: Map044/events/7/pages/0/112/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map044/events/7/pages/0/112/Dialogue
+「No, the soldiers 
+　had already spotted Elvin, but...
 > END STRING
 
 > BEGIN STRING
 「！
 　まさかオリビア殿まで……
-> CONTEXT: Map044/events/7/pages/0/117/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map044/events/7/pages/0/117/Dialogue
+「!
+　Even Mrs. Olivia...
 > END STRING
 
 > BEGIN STRING
 「おお！
 　神は何処へ去りたもうた！？
-> CONTEXT: Map044/events/7/pages/0/125/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map044/events/7/pages/0/125/Dialogue
+「Ooo! 
+　Where has God gone!?
 > END STRING
 
 > BEGIN STRING
 「これぞ死より惨い仕打ちというもの！
 　このグルッペン中のそれを
 　掻き集めても届くことはあるまい！
-> CONTEXT: Map044/events/7/pages/0/127/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map044/events/7/pages/0/127/Dialogue
+「This is worse than death!
+　Even if we gather all the swords in this group,
+　they won't even hit them!
 > END STRING
 
 > BEGIN STRING
 「かの乙女の純潔！
 　そしてそれが剥ぎ取られた跡の
 　深い暗黒には！
-> CONTEXT: Map044/events/7/pages/0/130/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map044/events/7/pages/0/130/Dialogue
+「The maiden's purity!
+　And in the deep darkness 
+　where it was taken away!
 > END STRING
 
 > BEGIN STRING
 「止めよ、グランマル。
-> CONTEXT: Map044/events/7/pages/0/134/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map044/events/7/pages/0/134/Dialogue
+「Stop it, Granmal.
 > END STRING
 
 > BEGIN STRING
 「今、この男の胸の内こそ
 　どのような嘆きも届かぬ
 　深い闇に満ちているのだ。
-> CONTEXT: Map044/events/7/pages/0/135/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map044/events/7/pages/0/135/Dialogue
+「Right now, this man's heart 
+　is filled with a deep darkness 
+　where no grief can reach him.
 > END STRING
 
 > BEGIN STRING
 「……\\n[1]、オリビアとその魔物は
 　ドゥヂチへ向かったと言ったな。
-> CONTEXT: Map044/events/7/pages/0/138/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map044/events/7/pages/0/138/Dialogue
+「...\\n[1], you said that Olivia and the demons
+　were heading for Dodichi.
 > END STRING
 
 > BEGIN STRING
 「………そうか…………
 　…………ドゥヂチか…………
-> CONTEXT: Map044/events/7/pages/0/149/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map044/events/7/pages/0/149/Dialogue
+「...I see.....
+.....Dodichi.....
 > END STRING
 
 > BEGIN STRING
 「賢王様！
 　かくなる上はすぐにでも
 　討伐隊を編成し！
-> CONTEXT: Map044/events/7/pages/0/158/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map044/events/7/pages/0/158/Dialogue
+「Wise King! 
+　Since things have come to this, 
+　we must immediately organize a punitive force!
 > END STRING
 
 > BEGIN STRING
 「\\n[1]殿とこのグランマルを先鋒に、
 　オリビア殿救出の任を
 　お与え下さいますようッ！
-> CONTEXT: Map044/events/7/pages/0/161/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map044/events/7/pages/0/161/Dialogue
+「Please give Mr. \\n[1] and Granmal 
+　the mission of rescuing Lady Olivia!
 > END STRING
 
 > BEGIN STRING
 「……それは許さぬ。
-> CONTEXT: Map044/events/7/pages/0/165/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map044/events/7/pages/0/165/Dialogue
+「...I will not permit that.
 > END STRING
 
 > BEGIN STRING
 「いや、無理なのだ。
 　ドゥヂチへ行くには
 　\\c[2]西の街道\\c[0]を通る必要がある。
-> CONTEXT: Map044/events/7/pages/0/166/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map044/events/7/pages/0/166/Dialogue
+「No, it's not possible.
+To get to Dodichi,
+you need to take the \\c[2]West Highway\\c[0].
 > END STRING
 
 > BEGIN STRING
 「お前も知っていよう。
 　街道は魔物に荒らされ
 　とても人が通れる状態ではない。
-> CONTEXT: Map044/events/7/pages/0/169/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map044/events/7/pages/0/169/Dialogue
+「You should know.
+　The road has been ravaged by demons and 
+　is in no condition for people to pass through.
 > END STRING
 
 > BEGIN STRING
 「それに、正体の知れぬ敵に
 　何の準備もなしに
 　お前らを挑ませるわけにはいかぬ。
-> CONTEXT: Map044/events/7/pages/0/172/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map044/events/7/pages/0/172/Dialogue
+「Besides, I can't let you take on 
+　an unknown enemy without any preparation.
 > END STRING
 
 > BEGIN STRING
 「し、しかし急がねばオリビア殿が……！
-> CONTEXT: Map044/events/7/pages/0/176/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map044/events/7/pages/0/176/Dialogue
+「B-but, we must hurry for Mrs. Olivia...!
 > END STRING
 
 > BEGIN STRING
 「街道の復旧など、我が騎士団が
 　総力をあげればすぐにでも終わりましょう！
 　何とぞッ！
-> CONTEXT: Map044/events/7/pages/0/177/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map044/events/7/pages/0/177/Dialogue
+「If my knights put their all into it, 
+　we can restore the highway in no time! 
+　Please!
 > END STRING
 
 > BEGIN STRING
 「くどいぞ、グランマル。
-> CONTEXT: Map044/events/7/pages/0/181/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map044/events/7/pages/0/181/Dialogue
+「You're annoying, Granmal.
 > END STRING
 
 > BEGIN STRING
 「ドゥヂチへ向かう人選は私が行う。
 　それまで休んでいるがいい。
-> CONTEXT: Map044/events/7/pages/0/182/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map044/events/7/pages/0/182/Dialogue
+「I will select the people who will go to Dodichi. 
+　You may rest until then.
 > END STRING
 
 > BEGIN STRING
 「オリビアも兵どもも、
 　必ず助け出す。
-> CONTEXT: Map044/events/7/pages/0/184/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map044/events/7/pages/0/184/Dialogue
+「Olivia and the soliders
+　will be rescued, have no fear.
 > END STRING
 
 > BEGIN STRING
 「\\n[1]、お前の手にしたという
 　夢魔に対抗する力……、
-> CONTEXT: Map044/events/7/pages/0/186/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map044/events/7/pages/0/186/Dialogue
+「\\n[1], the power to resist succubi 
+　that you have obtained...
 > END STRING
 
 > BEGIN STRING
 「それについては
 　後で詳しく聞かせてもらおう。
 　それまで城にいるのだ。
-> CONTEXT: Map044/events/7/pages/0/188/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map044/events/7/pages/0/188/Dialogue
+「Tell me about that in detail later. 
+　Staying at the castle until then.
 > END STRING
 
 > BEGIN STRING
 「二人とも、下がっていいぞ。
-> CONTEXT: Map044/events/7/pages/0/191/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map044/events/7/pages/0/191/Dialogue
+「You two, please stand down.
 > END STRING
 
 > BEGIN STRING
 「………はっ……………
-> CONTEXT: Map044/events/7/pages/0/193/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map044/events/7/pages/0/193/Dialogue
+「....*Sigh*.....
 > END STRING

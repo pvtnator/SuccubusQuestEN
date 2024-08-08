@@ -1,20 +1,20 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 "侍女"
-> CONTEXT: Map045/events/4/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map045/events/4/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map043/events/2/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map043/events/2/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map043/events/2/pages/2/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map043/events/5/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map043/events/7/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map043/events/19/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map043/events/19/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map043/events/22/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map043/events/22/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map043/events/22/pages/2/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map043/events/22/pages/3/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map045/events/4/pages/0/0/InlineScript/1:4
+> CONTEXT: Map045/events/4/pages/1/0/InlineScript/1:4
+> CONTEXT: Map043/events/2/pages/0/0/InlineScript/1:4
+> CONTEXT: Map043/events/2/pages/1/0/InlineScript/1:4
+> CONTEXT: Map043/events/2/pages/2/0/InlineScript/1:4
+> CONTEXT: Map043/events/5/pages/0/0/InlineScript/1:4
+> CONTEXT: Map043/events/7/pages/0/0/InlineScript/1:4
+> CONTEXT: Map043/events/19/pages/0/0/InlineScript/1:4
+> CONTEXT: Map043/events/19/pages/1/0/InlineScript/1:4
+> CONTEXT: Map043/events/22/pages/0/0/InlineScript/1:4
+> CONTEXT: Map043/events/22/pages/1/0/InlineScript/1:4
+> CONTEXT: Map043/events/22/pages/2/0/InlineScript/1:4
+> CONTEXT: Map043/events/22/pages/3/0/InlineScript/1:4
+"Handmaiden"
 > END STRING
 
 > BEGIN STRING

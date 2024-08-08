@@ -2,21 +2,24 @@
 > BEGIN STRING
 「みんなは魔王が倒されて、
 　勇者様も帰ってきて喜んでるみたいだけどさァ
-> CONTEXT: Map043/events/2/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map043/events/2/pages/0/1/Dialogue
+「Everyone seems happy that 
+　the Demon King has been defeated 
+　and the Hero has returned, but...
 > END STRING
 
 > BEGIN STRING
 「な～んかイヤな予感がするのよねェ。
-> CONTEXT: Map043/events/2/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map043/events/2/pages/0/3/Dialogue
+「I have a really bad feeling about this.
 > END STRING
 
 > BEGIN STRING
 「新しい魔物の話も聞くしさァ、
 　このままじゃ終わらないわよきっと。
-> CONTEXT: Map043/events/2/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map043/events/2/pages/0/4/Dialogue
+「I've heard tales of new demons,
+　so I'm sure this isn't the end of it.
 > END STRING
 
 > BEGIN STRING
@@ -49,8 +52,9 @@
 > BEGIN STRING
 「この先は賢王様のおわす玉座の間です。
 　くれぐれもそそうのないよう……。
-> CONTEXT: Map043/events/3/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map043/events/3/pages/0/1/Dialogue
+「Up ahead is the throne room of the Wise King.
+　Please be careful not to act carelessly...
 > END STRING
 
 > BEGIN STRING
@@ -86,23 +90,26 @@
 「賢王様は大変お忙しいため、
 　先約の無い方とは
 　どなたともお会いになりません。
-> CONTEXT: Map043/events/4/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map043/events/4/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map043/events/4/pages/3/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map043/events/4/pages/0/1/Dialogue
+> CONTEXT: Map043/events/4/pages/1/1/Dialogue
+> CONTEXT: Map043/events/4/pages/3/1/Dialogue
+「The Wise King is very busy, 
+　so he will not meet with anyone 
+　who does not have prior arrangements.
 > END STRING
 
 > BEGIN STRING
 「\\n[1]様ですね、
 　お話は伺っております。
-> CONTEXT: Map043/events/4/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map043/events/4/pages/0/4/Dialogue
+「Mr. \\n[1],
+　I've heard your story.
 > END STRING
 
 > BEGIN STRING
 「グランマル様も中でお待ちですよ。
-> CONTEXT: Map043/events/4/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map043/events/4/pages/0/6/Dialogue
+「Mr. Granmal is waiting for you inside.
 > END STRING
 
 > BEGIN STRING
@@ -122,15 +129,16 @@
 > BEGIN STRING
 「こちらは賢王様のご寝室。
 　勇者様といえど立ち入り禁止です。
-> CONTEXT: Map043/events/5/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map043/events/5/pages/0/1/Dialogue
+「This is the Wise King's bedroom.
+　Even the hero is forbidden to enter.
 > END STRING
 
 > BEGIN STRING
 壁に妙なくぼみがある……
-> CONTEXT: Map043/events/6/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map043/events/6/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map043/events/6/pages/0/1/Dialogue
+> CONTEXT: Map043/events/6/pages/1/1/Dialogue
+There's a strange dent in the wall...
 > END STRING
 
 > BEGIN STRING
@@ -148,36 +156,43 @@
 > BEGIN STRING
 「\\n[1]様が魔王討伐に出ている間、
 　グランマルさんったら心配して大変だったんですよ。
-> CONTEXT: Map043/events/7/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map043/events/7/pages/0/1/Dialogue
+「While you were away defeating the Demon King,
+　Granmal was really worried about you, Mr. \\n[1],
+　and it was really hard for him.
 > END STRING
 
 > BEGIN STRING
 「まるで本当の息子を心配してるみたいに……
 　ちょっとうらやましいですわ。
-> CONTEXT: Map043/events/7/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map043/events/7/pages/0/3/Dialogue
+「Like being worried about one's real son...
+　I'm a little jealous.
 > END STRING
 
 > BEGIN STRING
 「ひゃあ忙しい忙しい……
 　破壊された町の復興に、難民たちの保護……
-> CONTEXT: Map043/events/10/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map043/events/10/pages/0/1/Dialogue
+「Oh, I'm so busy... 
+　Rebuilding the destroyed town, 
+　protecting the refugees...
 > END STRING
 
 > BEGIN STRING
 「魔王がいなくなったってのに、
 　今まで以上に忙しくなった気がしますよ。
-> CONTEXT: Map043/events/10/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map043/events/10/pages/0/3/Dialogue
+「Even though the Demon King is gone, 
+　I feel like I'm busier than ever.
 > END STRING
 
 > BEGIN STRING
 「え、夢魔？
 　ああ何かそんなのもいるみたいですなぁ。
-> CONTEXT: Map043/events/10/pages/0/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map043/events/10/pages/0/5/Dialogue
+「Eh, a succubus?
+　Oh, so there are things like that.
 > END STRING
 
 > BEGIN STRING
@@ -215,64 +230,70 @@
 > BEGIN STRING
 「………………………
 　………………
-> CONTEXT: Map043/events/15/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map043/events/15/pages/0/1/Dialogue
+「.........
+　........
 > END STRING
 
 > BEGIN STRING
 「………zzzzzzz……………
-> CONTEXT: Map043/events/15/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map043/events/15/pages/0/3/Dialogue
+「...zzzzzzz.....
 > END STRING
 
 > BEGIN STRING
 「……時々、このわしにも
 　賢王様のお考えが
 　分からなくなることがある。
-> CONTEXT: Map043/events/18/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map043/events/18/pages/0/4/Dialogue
+「...Sometimes, even I find it difficult 
+　to understand the Wise King's thoughts.
 > END STRING
 
 > BEGIN STRING
 「しかしあのお方のこと、きっと何か
 　考えあってのことじゃろう。
-> CONTEXT: Map043/events/18/pages/0/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map043/events/18/pages/0/7/Dialogue
+「But I'm sure he has a plan. 
 > END STRING
 
 > BEGIN STRING
 「オリビア殿が心配なのはわしも同じじゃが、
 　今は暫し待ちましょうぞ。
-> CONTEXT: Map043/events/18/pages/0/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map043/events/18/pages/0/9/Dialogue
+「I'm just as worried about Mrs. Olivia, 
+　but let's wait for a while.
 > END STRING
 
 > BEGIN STRING
 「では、わしはこれで……
-> CONTEXT: Map043/events/18/pages/0/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map043/events/18/pages/0/11/Dialogue
+「Well then, that's all for me...
 > END STRING
 
 > BEGIN STRING
 「おお！
 　そうそう忘れておった！
-> CONTEXT: Map043/events/18/pages/0/25/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map043/events/18/pages/0/25/Dialogue
+「Oh!
+　Right, I forgot!
 > END STRING
 
 > BEGIN STRING
 「夢魔や魔王に関する資料を、
 　\\c[1]王立図書館\\c[0]に
 　集めさせておいたのじゃ。
-> CONTEXT: Map043/events/18/pages/0/28/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map043/events/18/pages/0/28/Dialogue
+「I had the materials relating to 
+succubi and Demon Kings collected 
+at the \\c[1]Royal Library\\c[0].
 > END STRING
 
 > BEGIN STRING
 「何か手がかりがあるやも
 　知れませぬぞ。
-> CONTEXT: Map043/events/18/pages/0/31/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map043/events/18/pages/0/31/Dialogue
+「Maybe there are some clues.
 > END STRING
 
 > BEGIN STRING
@@ -306,41 +327,46 @@
 
 > BEGIN STRING
 「あっ、ゆ、勇者様っ！
-> CONTEXT: Map043/events/21/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map043/events/21/pages/0/1/Dialogue
+「Ah, H-Hero!
 > END STRING
 
 > BEGIN STRING
 「………実は私、
 　運良くあの魔王城より帰還できた者です。
-> CONTEXT: Map043/events/21/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map043/events/21/pages/0/2/Dialogue
+「...Actually, 
+　I was lucky enough to return 
+　from the Demon Castle.
 > END STRING
 
 > BEGIN STRING
 「一部始終を賢王様に報告したのですが、
 　決して誰にも言ってはいけないと
 　言われてしまいました。
-> CONTEXT: Map043/events/21/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map043/events/21/pages/0/4/Dialogue
+「I reported the whole story to the Wise King, 
+　but he told me never to tell anyone.
 > END STRING
 
 > BEGIN STRING
 「ああ……
 　一体どうなっているのでしょう……
-> CONTEXT: Map043/events/21/pages/0/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map043/events/21/pages/0/7/Dialogue
+「Ahh...
+　What on earth is going on...
 > END STRING
 
 > BEGIN STRING
 「……………何か用？
-> CONTEXT: Map043/events/22/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map043/events/22/pages/1/1/Dialogue
+「......What do you want?
 > END STRING
 
 > BEGIN STRING
 「…………用もないのに
 　話しかけないでちょうだい。
-> CONTEXT: Map043/events/22/pages/3/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map043/events/22/pages/3/1/Dialogue
+「......Please don't talk to me 
+　if you don't need to.
 > END STRING

@@ -11,84 +11,96 @@
 「\\n[1]殿、
 　先ほどから少し呆けているようじゃが、
 　いかがしたかな？
-> CONTEXT: Map042/events/4/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/4/pages/0/1/Dialogue
+「Mr. \\n[1],
+　You've been looking a little dazed for a while now,
+　how are you feeling?
 > END STRING
 
 > BEGIN STRING
 「まさかこのグランマルをお忘れで？
-> CONTEXT: Map042/events/4/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/4/pages/0/4/Dialogue
+「Could you have forgotten Granmal?
 > END STRING
 
 > BEGIN STRING
 「このグランマルをお忘れで？」
-> CONTEXT: Map042/events/4/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/4/pages/0/6/Dialogue
+「Have you forgotten Granmal?」
 > END STRING
 
 > BEGIN STRING
 「おお、おお、この老いぼれには
 　キツい冗談じゃ！
-> CONTEXT: Map042/events/4/pages/0/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/4/pages/0/10/Dialogue
+「Oh, oh, what a cruel joke 
+　for an old man!
 > END STRING
 
 > BEGIN STRING
 「\\n[1]殿がグルッペンに来て以来、
 　ずっとご一緒してきた、この……
-> CONTEXT: Map042/events/4/pages/0/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/4/pages/0/12/Dialogue
+「Mr. \\n[1], I've been with you 
+　ever since you came to Gruppen...
 > END STRING
 
 > BEGIN STRING
 「グルッペン騎士団長
 　ゲラルド・グランマルをお忘れとは！
-> CONTEXT: Map042/events/4/pages/0/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/4/pages/0/14/Dialogue
+「You forgot about Gruppen Knight Commander, 
+　Gerald Granmal!
 > END STRING
 
 > BEGIN STRING
 「おお！ かくもはかなき世の中！
 　老騎士はただ忘れ去られるのみ……
-> CONTEXT: Map042/events/4/pages/0/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/4/pages/0/16/Dialogue
+「Oh! How fleeting this world is! 
+　The old knight is simply forgotten...
 > END STRING
 
 > BEGIN STRING
 「……と、
 　冗談はこのくらいにしようかな？
-> CONTEXT: Map042/events/4/pages/0/18/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/4/pages/0/18/Dialogue
+「...Well,
+　should we stop messing about?
 > END STRING
 
 > BEGIN STRING
 「玉座の間で
 　賢王マグナス様がお待ちじゃ。
 　急がんとな。
-> CONTEXT: Map042/events/4/pages/0/20/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/4/pages/0/20/Dialogue
+「Wise King Magnus is waiting for you 
+　in the throne room. 
+　Hurry on ahead.
 > END STRING
 
 > BEGIN STRING
 「ふぉっふぉ、
 　なに冗談じゃ。
-> CONTEXT: Map042/events/4/pages/0/26/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/4/pages/0/26/Dialogue
+「Whahwhah, 
+　what a joke.
 > END STRING
 
 > BEGIN STRING
 「さあ、玉座の間で
 　賢王マグナス様がお待ちじゃ。
 　急がんとな。
-> CONTEXT: Map042/events/4/pages/0/28/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/4/pages/0/28/Dialogue
+「Now, in the throne room, 
+　Wise King Magnus is waiting for you. 
+　Hurry up.
 > END STRING
 
 > BEGIN STRING
 「おお、ラルス殿！
-> CONTEXT: Map042/events/5/pages/1/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/5/pages/1/4/Dialogue
+「Ooh, Mr. Lars!
 > END STRING
 
 > BEGIN STRING
@@ -383,7 +395,7 @@
 > BEGIN STRING
 「この先は王立図書館です。
 > CONTEXT: Map042/events/9/pages/0/1/Dialogue
-"This way is the Royal Library.
+「This way is the Royal Library.
 > END STRING
 
 > BEGIN STRING
@@ -749,16 +761,18 @@ Found a \\c[4]sexy pinup\\c[0]!
 
 > BEGIN STRING
 「ここはグルッペン城。
-> CONTEXT: Map042/events/28/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/28/pages/0/1/Dialogue
+「This is Gruppen Castle.
 > END STRING
 
 > BEGIN STRING
 「グルッペン第十二代国王、
 　マグナス・ローゼンクランツ様の
 　居城であります。
-> CONTEXT: Map042/events/28/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/28/pages/0/2/Dialogue
+「This is the castle of 
+　Magnus Rosencrantz, 
+　the 12th King of Gruppen.
 > END STRING
 
 > BEGIN STRING
@@ -1169,10 +1183,11 @@ Found a \\c[4]sexy pinup\\c[0]!
 > BEGIN STRING
 「お帰りなさいませ、
 　勇者殿っ！
-> CONTEXT: Map042/events/41/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map042/events/41/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map042/events/41/pages/3/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/41/pages/0/1/Dialogue
+> CONTEXT: Map042/events/41/pages/1/1/Dialogue
+> CONTEXT: Map042/events/41/pages/3/6/Dialogue
+「Welcome back, 
+　Hero!
 > END STRING
 
 > BEGIN STRING
