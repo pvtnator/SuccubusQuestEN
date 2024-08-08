@@ -1,67 +1,67 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 \\c[4]姫百合の花\\c[0] を手に入れた！
-> CONTEXT: Map302/events/18/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map302/events/18/pages/0/4/Dialogue
+\\c[4]Lily Flower\\c[0] obtained!
 > END STRING
 
 > BEGIN STRING
 \\dむろ\\dの中に、ほのかな光がゆらめいている
-> CONTEXT: Map302/events/19/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map302/events/20/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map296/events/2/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map296/events/3/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map302/events/21/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map296/events/4/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map296/events/5/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map302/events/23/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map285/events/2/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map285/events/4/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map269/events/1/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map269/events/2/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map269/events/3/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map269/events/4/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map254/events/1/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map253/events/9/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map252/events/7/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map254/events/2/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map253/events/10/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map252/events/8/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map254/events/3/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map254/events/4/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map254/events/5/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map254/events/6/pages/0/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map302/events/19/pages/0/0/Dialogue
+> CONTEXT: Map302/events/20/pages/0/0/Dialogue
+> CONTEXT: Map296/events/2/pages/0/0/Dialogue
+> CONTEXT: Map296/events/3/pages/0/0/Dialogue
+> CONTEXT: Map302/events/21/pages/1/0/Dialogue
+> CONTEXT: Map296/events/4/pages/0/0/Dialogue
+> CONTEXT: Map296/events/5/pages/0/0/Dialogue
+> CONTEXT: Map302/events/23/pages/1/0/Dialogue
+> CONTEXT: Map285/events/2/pages/0/0/Dialogue
+> CONTEXT: Map285/events/4/pages/0/0/Dialogue
+> CONTEXT: Map269/events/1/pages/0/0/Dialogue
+> CONTEXT: Map269/events/2/pages/0/0/Dialogue
+> CONTEXT: Map269/events/3/pages/0/0/Dialogue
+> CONTEXT: Map269/events/4/pages/0/0/Dialogue
+> CONTEXT: Map254/events/1/pages/0/0/Dialogue
+> CONTEXT: Map253/events/9/pages/0/0/Dialogue
+> CONTEXT: Map252/events/7/pages/0/0/Dialogue
+> CONTEXT: Map254/events/2/pages/0/0/Dialogue
+> CONTEXT: Map253/events/10/pages/0/0/Dialogue
+> CONTEXT: Map252/events/8/pages/0/0/Dialogue
+> CONTEXT: Map254/events/3/pages/0/0/Dialogue
+> CONTEXT: Map254/events/4/pages/0/0/Dialogue
+> CONTEXT: Map254/events/5/pages/0/0/Dialogue
+> CONTEXT: Map254/events/6/pages/0/0/Dialogue
+A faint light flickers in the \\ddark\\d
 > END STRING
 
 > BEGIN STRING
 手を伸ばしてみますか？
-> CONTEXT: Map302/events/19/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map299/events/1/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map302/events/20/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map296/events/2/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map296/events/3/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map302/events/21/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map296/events/4/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map296/events/5/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map302/events/23/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map285/events/2/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map285/events/4/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map269/events/1/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map269/events/2/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map269/events/3/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map269/events/4/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map254/events/1/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map253/events/9/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map252/events/7/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map254/events/2/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map253/events/10/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map252/events/8/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map254/events/3/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map254/events/4/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map254/events/5/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map254/events/6/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map302/events/19/pages/0/1/Dialogue
+> CONTEXT: Map299/events/1/pages/0/2/Dialogue
+> CONTEXT: Map302/events/20/pages/0/1/Dialogue
+> CONTEXT: Map296/events/2/pages/0/1/Dialogue
+> CONTEXT: Map296/events/3/pages/0/1/Dialogue
+> CONTEXT: Map302/events/21/pages/1/1/Dialogue
+> CONTEXT: Map296/events/4/pages/0/1/Dialogue
+> CONTEXT: Map296/events/5/pages/0/1/Dialogue
+> CONTEXT: Map302/events/23/pages/1/1/Dialogue
+> CONTEXT: Map285/events/2/pages/0/1/Dialogue
+> CONTEXT: Map285/events/4/pages/0/1/Dialogue
+> CONTEXT: Map269/events/1/pages/0/1/Dialogue
+> CONTEXT: Map269/events/2/pages/0/1/Dialogue
+> CONTEXT: Map269/events/3/pages/0/1/Dialogue
+> CONTEXT: Map269/events/4/pages/0/1/Dialogue
+> CONTEXT: Map254/events/1/pages/0/1/Dialogue
+> CONTEXT: Map253/events/9/pages/0/1/Dialogue
+> CONTEXT: Map252/events/7/pages/0/1/Dialogue
+> CONTEXT: Map254/events/2/pages/0/1/Dialogue
+> CONTEXT: Map253/events/10/pages/0/1/Dialogue
+> CONTEXT: Map252/events/8/pages/0/1/Dialogue
+> CONTEXT: Map254/events/3/pages/0/1/Dialogue
+> CONTEXT: Map254/events/4/pages/0/1/Dialogue
+> CONTEXT: Map254/events/5/pages/0/1/Dialogue
+> CONTEXT: Map254/events/6/pages/0/1/Dialogue
+Would you like to reach out?
 > END STRING
 
 > BEGIN STRING
@@ -88,12 +88,12 @@
 
 > BEGIN STRING
 "熊"
-> CONTEXT: Map302/events/24/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map302/events/24/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map302/events/24/pages/2/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map302/events/24/pages/3/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map302/events/24/pages/4/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map302/events/24/pages/0/0/InlineScript/1:4
+> CONTEXT: Map302/events/24/pages/1/0/InlineScript/1:4
+> CONTEXT: Map302/events/24/pages/2/0/InlineScript/1:4
+> CONTEXT: Map302/events/24/pages/3/0/InlineScript/1:4
+> CONTEXT: Map302/events/24/pages/4/0/InlineScript/1:4
+"Bear"
 > END STRING
 
 > BEGIN STRING

@@ -99,7 +99,7 @@ Are you okay?
 > CONTEXT: Map015/events/4/pages/1/2/Dialogue
 > CONTEXT: Map015/events/4/pages/2/2/Dialogue
 「I'll give you a special treat, hero\\e[0] 
-\\b20G\\f for one night. Would you like to stay?
+　\\b20G\\f for one night. Would you like to stay?
 > END STRING
 
 > BEGIN STRING
@@ -165,8 +165,9 @@ Stay at an inn for \\b20G\\f?
 > BEGIN STRING
 「まさか女にやられるなんて……
 　はァ、情けない…。
-> CONTEXT: Map015/events/8/pages/1/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/8/pages/1/4/Dialogue
+「I can't believe he was defeated by a woman...
+　Ah, how pathetic...
 > END STRING
 
 > BEGIN STRING
@@ -206,16 +207,20 @@ Stay at an inn for \\b20G\\f?
 > BEGIN STRING
 「どうも息子はあのマーシャとかいう女に、
 　本気で惚れてしまったらしい。
-> CONTEXT: Map015/events/9/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/9/pages/1/1/Dialogue
+「It seems that my son has 
+　truly fallen in love 
+　with this woman called Marsha.
 > END STRING
 
 > BEGIN STRING
 「まあそれも結構結構！
 　実はわしが母さんに捕まった時も
 　そんな感じだったしな！がっはっは
-> CONTEXT: Map015/events/9/pages/1/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/9/pages/1/3/Dialogue
+「Well, that's splendid!
+　To be honest, that's what happened
+　when mother caught me! Ghahaha
 > END STRING
 
 > BEGIN STRING
@@ -242,13 +247,14 @@ Stay at an inn for \\b20G\\f?
 
 > BEGIN STRING
 "息子"
-> CONTEXT: Map015/events/13/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map015/events/13/pages/0/0/InlineScript/1:4
+"Son"
 > END STRING
 
 > BEGIN STRING
 「うぅ……マ………
 　……マーシャぁ………\\e[0]
-> CONTEXT: Map015/events/13/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/13/pages/0/1/Dialogue
+「Uuh...Ma...
+　...Marshaa....\\e[0]
 > END STRING

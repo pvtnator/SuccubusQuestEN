@@ -1,107 +1,117 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 "小柄な悪魔"
-> CONTEXT: Map275/events/2/pages/0/19/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map275/events/2/pages/0/28/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map275/events/2/pages/0/34/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map275/events/2/pages/0/53/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map275/events/3/pages/0/20/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map275/events/3/pages/0/29/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map275/events/3/pages/0/35/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map275/events/3/pages/0/54/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map275/events/2/pages/0/19/InlineScript/1:4
+> CONTEXT: Map275/events/2/pages/0/28/InlineScript/1:4
+> CONTEXT: Map275/events/2/pages/0/34/InlineScript/1:4
+> CONTEXT: Map275/events/2/pages/0/53/InlineScript/1:4
+> CONTEXT: Map275/events/3/pages/0/20/InlineScript/1:4
+> CONTEXT: Map275/events/3/pages/0/29/InlineScript/1:4
+> CONTEXT: Map275/events/3/pages/0/35/InlineScript/1:4
+> CONTEXT: Map275/events/3/pages/0/54/InlineScript/1:4
+"Little Devil"
 > END STRING
 
 > BEGIN STRING
 「キキッ！
 　ナンだオマエ？
-> CONTEXT: Map275/events/2/pages/0/20/Dialogue < UNTRANSLATED
-> CONTEXT: Map275/events/3/pages/0/21/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map275/events/2/pages/0/20/Dialogue
+> CONTEXT: Map275/events/3/pages/0/21/Dialogue
+「Ki-ki!
+　Who are you?
 > END STRING
 
 > BEGIN STRING
 「オマエも夢魔に
 　喰われに来たのカ？
-> CONTEXT: Map275/events/2/pages/0/22/Dialogue < UNTRANSLATED
-> CONTEXT: Map275/events/3/pages/0/23/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map275/events/2/pages/0/22/Dialogue
+> CONTEXT: Map275/events/3/pages/0/23/Dialogue
+「Did you also come here 
+　to be eaten by a succubus?
 > END STRING
 
 > BEGIN STRING
 「夢魔に喰われに来たのカ？」
-> CONTEXT: Map275/events/2/pages/0/25/Dialogue < UNTRANSLATED
-> CONTEXT: Map275/events/3/pages/0/26/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map275/events/2/pages/0/25/Dialogue
+> CONTEXT: Map275/events/3/pages/0/26/Dialogue
+「Did you come here to be eaten by a succubus?」
 > END STRING
 
 > BEGIN STRING
 「キキキキッ！
 　だけどオマエ、おもしろいチカラを
 　もってるナ！
-> CONTEXT: Map275/events/2/pages/0/29/Dialogue < UNTRANSLATED
-> CONTEXT: Map275/events/3/pages/0/30/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map275/events/2/pages/0/29/Dialogue
+> CONTEXT: Map275/events/3/pages/0/30/Dialogue
+「Kikikiki!
+　But you have an interesting power!
 > END STRING
 
 > BEGIN STRING
 「キキキキッ！
 　ナンかオマエ、おもしろいチカラを
 　もってるものナ！
-> CONTEXT: Map275/events/2/pages/0/35/Dialogue < UNTRANSLATED
-> CONTEXT: Map275/events/3/pages/0/36/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map275/events/2/pages/0/35/Dialogue
+> CONTEXT: Map275/events/3/pages/0/36/Dialogue
+「Kikikiki!
+　You have an interesting power!
 > END STRING
 
 > BEGIN STRING
 「夢に抗うチカラかナ！
 　夢を叶えるチカラかナ！
-> CONTEXT: Map275/events/2/pages/0/40/Dialogue < UNTRANSLATED
-> CONTEXT: Map275/events/3/pages/0/41/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map275/events/2/pages/0/40/Dialogue
+> CONTEXT: Map275/events/3/pages/0/41/Dialogue
+「The power to resist dreams! 
+　The power to make dreams come true!
 > END STRING
 
 > BEGIN STRING
 「キキッ！
 　オマエ、コレやるヨ！
-> CONTEXT: Map275/events/2/pages/0/42/Dialogue < UNTRANSLATED
-> CONTEXT: Map275/events/3/pages/0/43/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map275/events/2/pages/0/42/Dialogue
+> CONTEXT: Map275/events/3/pages/0/43/Dialogue
+「Ki-ki!
+　Hey, you can do that!
 > END STRING
 
 > BEGIN STRING
 \\c[4]夜の絵本\\c[0]を手に入れた！
-> CONTEXT: Map275/events/2/pages/0/52/Dialogue < UNTRANSLATED
-> CONTEXT: Map275/events/3/pages/0/53/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map275/events/2/pages/0/52/Dialogue
+> CONTEXT: Map275/events/3/pages/0/53/Dialogue
+\\c[4]Night Picture Book\\c[0] obtained!
 > END STRING
 
 > BEGIN STRING
 「もっとタノシめヨ！
 　夢との交わりを！
-> CONTEXT: Map275/events/2/pages/0/54/Dialogue < UNTRANSLATED
-> CONTEXT: Map275/events/3/pages/0/55/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map275/events/2/pages/0/54/Dialogue
+> CONTEXT: Map275/events/3/pages/0/55/Dialogue
+「Have fun! 
+　Commune with dreams!
 > END STRING
 
 > BEGIN STRING
 「もっとオモシロくしてくれヨ！
 　この世界を！
-> CONTEXT: Map275/events/2/pages/0/56/Dialogue < UNTRANSLATED
-> CONTEXT: Map275/events/3/pages/0/57/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map275/events/2/pages/0/56/Dialogue
+> CONTEXT: Map275/events/3/pages/0/57/Dialogue
+「Make it more interesting!
+　This world!
 > END STRING
 
 > BEGIN STRING
 「オイラはインキュバス！
 　また会おうゼ！　キキッ！
-> CONTEXT: Map275/events/2/pages/0/58/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map275/events/2/pages/0/58/Dialogue
+「I'm an incubus!
+　See you again! Ki-ki!
 > END STRING
 
 > BEGIN STRING
 「オイラはインキュバス！
 　また会おうぜ！　キキッ！
-> CONTEXT: Map275/events/3/pages/0/59/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map275/events/3/pages/0/59/Dialogue
+「I'm an incubus!
+　See you again! Ki-ki!
 > END STRING

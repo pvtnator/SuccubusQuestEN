@@ -21,22 +21,24 @@
 「ね、実は夢魔になってた時のことも
 　少し覚えてるのよ。
 > CONTEXT: Map020/events/3/pages/0/1/Dialogue
-「You see, actually, I remember 
-a little bit about when I was a succubus.
+「You know, actually, I remember 
+　a little bit about when I was a succubus.
 > END STRING
 
 > BEGIN STRING
 「でもやっぱり、
 　本当に起こったこととも思えないの。
 　まるで夢みたい。
-> CONTEXT: Map020/events/3/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map020/events/3/pages/0/3/Dialogue
+「But still,
+　I can't believe it really happened.
+　It's like a dream.
 > END STRING
 
 > BEGIN STRING
 「…わたし、前にもおんなじこと言ったかしら？
-> CONTEXT: Map020/events/3/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map020/events/3/pages/0/6/Dialogue
+「...Have I said that before?
 > END STRING
 
 > BEGIN STRING

@@ -248,103 +248,103 @@
 
 > BEGIN STRING
 移動先を選んで下さい
-> CONTEXT: Map211/events/30/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/30/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/31/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/31/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/32/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/32/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map065/events/6/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map065/events/7/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map065/events/14/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map065/events/19/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map039/events/18/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map039/events/18/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map039/events/18/pages/2/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map039/events/18/pages/3/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map039/events/19/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map039/events/19/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map039/events/19/pages/2/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map039/events/19/pages/3/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map039/events/20/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/6/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map039/events/20/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/6/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map039/events/20/pages/2/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/6/pages/2/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map039/events/20/pages/3/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/6/pages/3/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/6/pages/4/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/7/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/12/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/13/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/27/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/29/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/29/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/29/pages/2/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/29/pages/3/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/29/pages/4/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map211/events/30/pages/0/1/Dialogue
+> CONTEXT: Map211/events/30/pages/1/1/Dialogue
+> CONTEXT: Map211/events/31/pages/0/1/Dialogue
+> CONTEXT: Map211/events/31/pages/1/1/Dialogue
+> CONTEXT: Map211/events/32/pages/0/1/Dialogue
+> CONTEXT: Map211/events/32/pages/1/1/Dialogue
+> CONTEXT: Map065/events/6/pages/1/1/Dialogue
+> CONTEXT: Map065/events/7/pages/1/1/Dialogue
+> CONTEXT: Map065/events/14/pages/1/1/Dialogue
+> CONTEXT: Map065/events/19/pages/1/1/Dialogue
+> CONTEXT: Map039/events/18/pages/0/1/Dialogue
+> CONTEXT: Map039/events/18/pages/1/1/Dialogue
+> CONTEXT: Map039/events/18/pages/2/1/Dialogue
+> CONTEXT: Map039/events/18/pages/3/1/Dialogue
+> CONTEXT: Map039/events/19/pages/0/1/Dialogue
+> CONTEXT: Map039/events/19/pages/1/1/Dialogue
+> CONTEXT: Map039/events/19/pages/2/1/Dialogue
+> CONTEXT: Map039/events/19/pages/3/1/Dialogue
+> CONTEXT: Map039/events/20/pages/0/1/Dialogue
+> CONTEXT: Map014/events/6/pages/0/1/Dialogue
+> CONTEXT: Map039/events/20/pages/1/1/Dialogue
+> CONTEXT: Map014/events/6/pages/1/1/Dialogue
+> CONTEXT: Map039/events/20/pages/2/1/Dialogue
+> CONTEXT: Map014/events/6/pages/2/1/Dialogue
+> CONTEXT: Map039/events/20/pages/3/1/Dialogue
+> CONTEXT: Map014/events/6/pages/3/1/Dialogue
+> CONTEXT: Map014/events/6/pages/4/1/Dialogue
+> CONTEXT: Map014/events/7/pages/1/1/Dialogue
+> CONTEXT: Map014/events/12/pages/0/0/Dialogue
+> CONTEXT: Map014/events/13/pages/0/0/Dialogue
+> CONTEXT: Map014/events/27/pages/1/1/Dialogue
+> CONTEXT: Map014/events/29/pages/0/1/Dialogue
+> CONTEXT: Map014/events/29/pages/1/1/Dialogue
+> CONTEXT: Map014/events/29/pages/2/1/Dialogue
+> CONTEXT: Map014/events/29/pages/3/1/Dialogue
+> CONTEXT: Map014/events/29/pages/4/1/Dialogue
+Choose your destination
 > END STRING
 
 > BEGIN STRING
 ヴィドヴィン山脈
-> CONTEXT: Map211/events/30/pages/0/2/Choice/0 < UNTRANSLATED
-> CONTEXT: Map211/events/30/pages/1/2/Choice/0 < UNTRANSLATED
-> CONTEXT: Map211/events/31/pages/0/2/Choice/0 < UNTRANSLATED
-> CONTEXT: Map211/events/31/pages/1/2/Choice/0 < UNTRANSLATED
-> CONTEXT: Map211/events/32/pages/0/2/Choice/0 < UNTRANSLATED
-> CONTEXT: Map211/events/32/pages/1/2/Choice/0 < UNTRANSLATED
-> CONTEXT: Map014/events/12/pages/0/1/Choice/0 < UNTRANSLATED
-> CONTEXT: Map014/events/13/pages/0/1/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map211/events/30/pages/0/2/Choice/0
+> CONTEXT: Map211/events/30/pages/1/2/Choice/0
+> CONTEXT: Map211/events/31/pages/0/2/Choice/0
+> CONTEXT: Map211/events/31/pages/1/2/Choice/0
+> CONTEXT: Map211/events/32/pages/0/2/Choice/0
+> CONTEXT: Map211/events/32/pages/1/2/Choice/0
+> CONTEXT: Map014/events/12/pages/0/1/Choice/0
+> CONTEXT: Map014/events/13/pages/0/1/Choice/0
+Vidvin Mountains
 > END STRING
 
 > BEGIN STRING
 戻る
-> CONTEXT: Map211/events/30/pages/0/2/Choice/1 < UNTRANSLATED
-> CONTEXT: Map211/events/30/pages/1/2/Choice/2 < UNTRANSLATED
-> CONTEXT: Map211/events/31/pages/0/2/Choice/1 < UNTRANSLATED
-> CONTEXT: Map211/events/31/pages/1/2/Choice/2 < UNTRANSLATED
-> CONTEXT: Map211/events/32/pages/0/2/Choice/1 < UNTRANSLATED
-> CONTEXT: Map211/events/32/pages/1/2/Choice/2 < UNTRANSLATED
-> CONTEXT: Map065/events/6/pages/1/2/Choice/2 < UNTRANSLATED
-> CONTEXT: Map065/events/7/pages/1/2/Choice/2 < UNTRANSLATED
-> CONTEXT: Map065/events/14/pages/1/2/Choice/2 < UNTRANSLATED
-> CONTEXT: Map065/events/19/pages/1/2/Choice/2 < UNTRANSLATED
-> CONTEXT: Map036/events/1/pages/2/2/Choice/2 < UNTRANSLATED
-> CONTEXT: Map036/events/2/pages/2/2/Choice/2 < UNTRANSLATED
-> CONTEXT: Map039/events/18/pages/0/2/Choice/1 < UNTRANSLATED
-> CONTEXT: Map039/events/18/pages/1/2/Choice/2 < UNTRANSLATED
-> CONTEXT: Map036/events/3/pages/2/2/Choice/2 < UNTRANSLATED
-> CONTEXT: Map039/events/18/pages/2/2/Choice/3 < UNTRANSLATED
-> CONTEXT: Map039/events/19/pages/0/2/Choice/1 < UNTRANSLATED
-> CONTEXT: Map039/events/19/pages/1/2/Choice/2 < UNTRANSLATED
-> CONTEXT: Map039/events/19/pages/2/2/Choice/3 < UNTRANSLATED
-> CONTEXT: Map039/events/20/pages/0/2/Choice/1 < UNTRANSLATED
-> CONTEXT: Map014/events/6/pages/0/2/Choice/1 < UNTRANSLATED
-> CONTEXT: Map039/events/20/pages/1/2/Choice/2 < UNTRANSLATED
-> CONTEXT: Map014/events/6/pages/1/2/Choice/1 < UNTRANSLATED
-> CONTEXT: Map039/events/20/pages/2/2/Choice/3 < UNTRANSLATED
-> CONTEXT: Map014/events/6/pages/2/2/Choice/1 < UNTRANSLATED
-> CONTEXT: Map014/events/6/pages/3/2/Choice/2 < UNTRANSLATED
-> CONTEXT: Map014/events/6/pages/4/2/Choice/2 < UNTRANSLATED
-> CONTEXT: Map014/events/7/pages/1/2/Choice/1 < UNTRANSLATED
-> CONTEXT: Map014/events/12/pages/0/1/Choice/1 < UNTRANSLATED
-> CONTEXT: Map014/events/13/pages/0/1/Choice/1 < UNTRANSLATED
-> CONTEXT: Map014/events/27/pages/1/2/Choice/1 < UNTRANSLATED
-> CONTEXT: Map014/events/29/pages/0/2/Choice/1 < UNTRANSLATED
-> CONTEXT: Map014/events/29/pages/1/2/Choice/1 < UNTRANSLATED
-> CONTEXT: Map014/events/29/pages/2/2/Choice/1 < UNTRANSLATED
-> CONTEXT: Map014/events/29/pages/3/2/Choice/2 < UNTRANSLATED
-> CONTEXT: Map014/events/29/pages/4/2/Choice/2 < UNTRANSLATED
-
+> CONTEXT: Map211/events/30/pages/0/2/Choice/1
+> CONTEXT: Map211/events/30/pages/1/2/Choice/2
+> CONTEXT: Map211/events/31/pages/0/2/Choice/1
+> CONTEXT: Map211/events/31/pages/1/2/Choice/2
+> CONTEXT: Map211/events/32/pages/0/2/Choice/1
+> CONTEXT: Map211/events/32/pages/1/2/Choice/2
+> CONTEXT: Map065/events/6/pages/1/2/Choice/2
+> CONTEXT: Map065/events/7/pages/1/2/Choice/2
+> CONTEXT: Map065/events/14/pages/1/2/Choice/2
+> CONTEXT: Map065/events/19/pages/1/2/Choice/2
+> CONTEXT: Map036/events/1/pages/2/2/Choice/2
+> CONTEXT: Map036/events/2/pages/2/2/Choice/2
+> CONTEXT: Map039/events/18/pages/0/2/Choice/1
+> CONTEXT: Map039/events/18/pages/1/2/Choice/2
+> CONTEXT: Map036/events/3/pages/2/2/Choice/2
+> CONTEXT: Map039/events/18/pages/2/2/Choice/3
+> CONTEXT: Map039/events/19/pages/0/2/Choice/1
+> CONTEXT: Map039/events/19/pages/1/2/Choice/2
+> CONTEXT: Map039/events/19/pages/2/2/Choice/3
+> CONTEXT: Map039/events/20/pages/0/2/Choice/1
+> CONTEXT: Map014/events/6/pages/0/2/Choice/1
+> CONTEXT: Map039/events/20/pages/1/2/Choice/2
+> CONTEXT: Map014/events/6/pages/1/2/Choice/1
+> CONTEXT: Map039/events/20/pages/2/2/Choice/3
+> CONTEXT: Map014/events/6/pages/2/2/Choice/1
+> CONTEXT: Map014/events/6/pages/3/2/Choice/2
+> CONTEXT: Map014/events/6/pages/4/2/Choice/2
+> CONTEXT: Map014/events/7/pages/1/2/Choice/1
+> CONTEXT: Map014/events/12/pages/0/1/Choice/1
+> CONTEXT: Map014/events/13/pages/0/1/Choice/1
+> CONTEXT: Map014/events/27/pages/1/2/Choice/1
+> CONTEXT: Map014/events/29/pages/0/2/Choice/1
+> CONTEXT: Map014/events/29/pages/1/2/Choice/1
+> CONTEXT: Map014/events/29/pages/2/2/Choice/1
+> CONTEXT: Map014/events/29/pages/3/2/Choice/2
+> CONTEXT: Map014/events/29/pages/4/2/Choice/2
+Go back
 > END STRING
 
 > BEGIN STRING
 万年氷の宮殿
-> CONTEXT: Map211/events/30/pages/1/2/Choice/1 < UNTRANSLATED
-> CONTEXT: Map211/events/31/pages/1/2/Choice/1 < UNTRANSLATED
-> CONTEXT: Map211/events/32/pages/1/2/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map211/events/30/pages/1/2/Choice/1
+> CONTEXT: Map211/events/31/pages/1/2/Choice/1
+> CONTEXT: Map211/events/32/pages/1/2/Choice/1
+The Eternal Ice Palace
 > END STRING

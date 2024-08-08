@@ -8,57 +8,60 @@ SQ_Slow01
 > BEGIN STRING
 「もう日も暮れたし
 　どこか休めそうな場所を探そうぜ
-> CONTEXT: Map036/events/1/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map036/events/2/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map036/events/3/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map036/events/1/pages/0/1/Dialogue
+> CONTEXT: Map036/events/2/pages/0/1/Dialogue
+> CONTEXT: Map036/events/3/pages/0/1/Dialogue
+「It's already dark, 
+　so let's find a place where we can rest.
 > END STRING
 
 > BEGIN STRING
 どの場所に出ますか？
-> CONTEXT: Map036/events/1/pages/2/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map036/events/2/pages/2/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map036/events/3/pages/2/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map036/events/1/pages/2/1/Dialogue
+> CONTEXT: Map036/events/2/pages/2/1/Dialogue
+> CONTEXT: Map036/events/3/pages/2/1/Dialogue
+Which location will you go to?
 > END STRING
 
 > BEGIN STRING
 イェルベル峡谷
-> CONTEXT: Map036/events/1/pages/2/2/Choice/0 < UNTRANSLATED
-> CONTEXT: Map036/events/2/pages/2/2/Choice/0 < UNTRANSLATED
-> CONTEXT: Map036/events/3/pages/2/2/Choice/0 < UNTRANSLATED
-> CONTEXT: Map014/events/6/pages/3/2/Choice/1 < UNTRANSLATED
-> CONTEXT: Map014/events/6/pages/4/2/Choice/1 < UNTRANSLATED
-> CONTEXT: Map014/events/29/pages/3/2/Choice/1 < UNTRANSLATED
-> CONTEXT: Map014/events/29/pages/4/2/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map036/events/1/pages/2/2/Choice/0
+> CONTEXT: Map036/events/2/pages/2/2/Choice/0
+> CONTEXT: Map036/events/3/pages/2/2/Choice/0
+> CONTEXT: Map014/events/6/pages/3/2/Choice/1
+> CONTEXT: Map014/events/6/pages/4/2/Choice/1
+> CONTEXT: Map014/events/29/pages/3/2/Choice/1
+> CONTEXT: Map014/events/29/pages/4/2/Choice/1
+Yelbel Gorge
 > END STRING
 
 > BEGIN STRING
 「……参ったな、スゲエ雨だ。
-> CONTEXT: Map036/events/4/pages/0/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map036/events/4/pages/0/13/Dialogue
+「...This sucks, it's raining hard.
 > END STRING
 
 > BEGIN STRING
 「魔王に滅ぼされた廃墟か。
-> CONTEXT: Map036/events/4/pages/0/18/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map036/events/4/pages/0/18/Dialogue
+「Ruins destroyed by the Demon King?
 > END STRING
 
 > BEGIN STRING
 「\\n[1]、もう日も暮れたし
 　どこか休めそうな場所を探そうぜ。
-> CONTEXT: Map036/events/4/pages/0/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map036/events/4/pages/0/19/Dialogue
+\\n[1], it's already dark, 
+　so let's find a place to rest.
 > END STRING
 
 > BEGIN STRING
 「もう日も暮れたし、
 　どこか休めそうな場所を探そうぜ。
-> CONTEXT: Map036/events/5/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map036/events/7/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map036/events/8/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map036/events/11/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map036/events/5/pages/0/1/Dialogue
+> CONTEXT: Map036/events/7/pages/0/1/Dialogue
+> CONTEXT: Map036/events/8/pages/0/1/Dialogue
+> CONTEXT: Map036/events/11/pages/0/1/Dialogue
+「It's already dark, 
+　so let's find a place where we can rest.
 > END STRING

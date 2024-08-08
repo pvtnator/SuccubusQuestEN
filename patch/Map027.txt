@@ -8,104 +8,117 @@ SQ_Strange02
 > BEGIN STRING
 「マ…マーシャ…………
 　頼む…………もう止め…………
-> CONTEXT: Map027/events/1/pages/0/29/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map027/events/1/pages/0/29/Dialogue
+"Ma... Marsha...
+　Please...stop...
 > END STRING
 
 > BEGIN STRING
 「あはっ、どうしてぇ？
 　わたしに会いに来てくれたんでしょ\\e[0]
-> CONTEXT: Map027/events/1/pages/0/32/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map027/events/1/pages/0/32/Dialogue
+「Ah, why?
+　But you came here to see me\\e[0]
 > END STRING
 
 > BEGIN STRING
 「う……あ…………………
 　あああああぁっ！！
-> CONTEXT: Map027/events/1/pages/0/38/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map027/events/1/pages/0/38/Dialogue
+「U...a.......
+　Aaaaaahhh!!
 > END STRING
 
 > BEGIN STRING
 「もう終わりぃ？
 　つまんないの………
-> CONTEXT: Map027/events/1/pages/0/43/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map027/events/1/pages/0/43/Dialogue
+「It's over already?
+　Boring...
 > END STRING
 
 > BEGIN STRING
 「あら、あなた誰？
 　町の\\r[男,ひと]じゃないわね。
-> CONTEXT: Map027/events/1/pages/0/69/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map027/events/1/pages/0/69/Dialogue
+「Oh, who are you? 
+　You're not one of the guys from town.
 > END STRING
 
 > BEGIN STRING
 "男"
-> CONTEXT: Map027/events/1/pages/0/71/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map039/events/51/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map039/events/51/pages/0/7/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map039/events/52/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map027/events/1/pages/0/71/InlineScript/1:4
+> CONTEXT: Map039/events/51/pages/0/0/InlineScript/1:4
+> CONTEXT: Map039/events/51/pages/0/7/InlineScript/1:4
+> CONTEXT: Map039/events/52/pages/1/0/InlineScript/1:4
+"Man"
 > END STRING
 
 > BEGIN STRING
 「お………お前…………逃げろ…………
 　吸われ……る……………
-> CONTEXT: Map027/events/1/pages/0/77/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map027/events/1/pages/0/77/Dialogue
+「Y-...you...run......
+　you're getting...sucked......
 > END STRING
 
 > BEGIN STRING
 「こいつらみたいに………………
 　………みんな……やられてた………
-> CONTEXT: Map027/events/1/pages/0/79/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map027/events/1/pages/0/79/Dialogue
+「Like these guys......
+　...everyone...was defeated...
 > END STRING
 
 > BEGIN STRING
 「ねぇ聞いて。
-> CONTEXT: Map027/events/1/pages/0/119/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map027/events/1/pages/0/119/Dialogue
+「Hey, hear me out.
 > END STRING
 
 > BEGIN STRING
 「わたしね、この森で天使さまに会ったの。
 　みんなは悪魔だなんて言うけど、
 　あれは絶対に天使さまよ。
-> CONTEXT: Map027/events/1/pages/0/123/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map027/events/1/pages/0/123/Dialogue
+「You see, I met an angel in this forest.
+　Everyone says she's a devil,
+　but she's definitely an angel.
 > END STRING
 
 > BEGIN STRING
 「だって、こんなに素敵で素晴らしいコト
 　教えてくれたんだもん\\e[0]
-> CONTEXT: Map027/events/1/pages/0/126/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map027/events/1/pages/0/126/Dialogue
+「Because she taught me 
+　such lovely, wonderful things\\e[0]
 > END STRING
 
 > BEGIN STRING
 「でもね、町の外の\\r[男,ひと]はあなたが初めてなの。
-> CONTEXT: Map027/events/1/pages/0/131/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map027/events/1/pages/0/131/Dialogue
+「But you're the first guy 
+　I've met from out of town.
 > END STRING
 
 > BEGIN STRING
 「上手くできるかなぁ？
 　ね、ちょっとドキドキしちゃう\\e[0]
-> CONTEXT: Map027/events/1/pages/0/132/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map027/events/1/pages/0/132/Dialogue
+「I wonder if I can do it well?
+　I'm a little nervous\\e[0]
 > END STRING
 
 > BEGIN STRING
 「ああぁンッ………！
-> CONTEXT: Map027/events/1/pages/0/168/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map027/events/1/pages/0/168/Dialogue
+「Aaaahhh...!
 > END STRING
 
 > BEGIN STRING
 「あ……、
 　わ………わたし………？
-> CONTEXT: Map027/events/1/pages/0/189/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map027/events/1/pages/0/189/Dialogue
+「Ah...
+　A...I...?
 > END STRING

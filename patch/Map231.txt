@@ -86,44 +86,44 @@ SQ_Castel01
 
 > BEGIN STRING
 "グランマル"
-> CONTEXT: Map231/events/3/pages/0/96/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map231/events/26/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/98/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/98/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map044/events/7/pages/0/72/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map042/events/4/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map044/events/7/pages/0/77/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map042/events/4/pages/0/9/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map044/events/7/pages/0/103/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map042/events/4/pages/0/25/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map042/events/5/pages/1/3/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map044/events/7/pages/0/116/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map042/events/5/pages/1/13/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map039/events/10/pages/0/53/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map044/events/7/pages/0/124/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map042/events/5/pages/1/22/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map044/events/7/pages/0/157/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map042/events/5/pages/1/60/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map042/events/5/pages/1/83/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map044/events/7/pages/0/175/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map042/events/5/pages/1/101/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map042/events/5/pages/3/3/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map044/events/7/pages/0/192/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map042/events/5/pages/3/20/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map042/events/5/pages/3/28/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map043/events/18/pages/0/3/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map042/events/5/pages/3/39/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map043/events/18/pages/0/24/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map042/events/39/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map042/events/39/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map042/events/39/pages/3/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map042/events/39/pages/4/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map042/events/39/pages/6/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map042/events/39/pages/6/12/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map042/events/39/pages/6/28/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map042/events/39/pages/6/47/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map042/events/39/pages/7/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/96/InlineScript/1:4
+> CONTEXT: Map231/events/26/pages/0/0/InlineScript/1:4
+> CONTEXT: Map231/events/28/pages/0/98/InlineScript/1:4
+> CONTEXT: Map231/events/29/pages/0/98/InlineScript/1:4
+> CONTEXT: Map044/events/7/pages/0/72/InlineScript/1:4
+> CONTEXT: Map042/events/4/pages/0/0/InlineScript/1:4
+> CONTEXT: Map044/events/7/pages/0/77/InlineScript/1:4
+> CONTEXT: Map042/events/4/pages/0/9/InlineScript/1:4
+> CONTEXT: Map044/events/7/pages/0/103/InlineScript/1:4
+> CONTEXT: Map042/events/4/pages/0/25/InlineScript/1:4
+> CONTEXT: Map042/events/5/pages/1/3/InlineScript/1:4
+> CONTEXT: Map044/events/7/pages/0/116/InlineScript/1:4
+> CONTEXT: Map042/events/5/pages/1/13/InlineScript/1:4
+> CONTEXT: Map039/events/10/pages/0/53/InlineScript/1:4
+> CONTEXT: Map044/events/7/pages/0/124/InlineScript/1:4
+> CONTEXT: Map042/events/5/pages/1/22/InlineScript/1:4
+> CONTEXT: Map044/events/7/pages/0/157/InlineScript/1:4
+> CONTEXT: Map042/events/5/pages/1/60/InlineScript/1:4
+> CONTEXT: Map042/events/5/pages/1/83/InlineScript/1:4
+> CONTEXT: Map044/events/7/pages/0/175/InlineScript/1:4
+> CONTEXT: Map042/events/5/pages/1/101/InlineScript/1:4
+> CONTEXT: Map042/events/5/pages/3/3/InlineScript/1:4
+> CONTEXT: Map044/events/7/pages/0/192/InlineScript/1:4
+> CONTEXT: Map042/events/5/pages/3/20/InlineScript/1:4
+> CONTEXT: Map042/events/5/pages/3/28/InlineScript/1:4
+> CONTEXT: Map043/events/18/pages/0/3/InlineScript/1:4
+> CONTEXT: Map042/events/5/pages/3/39/InlineScript/1:4
+> CONTEXT: Map043/events/18/pages/0/24/InlineScript/1:4
+> CONTEXT: Map042/events/39/pages/0/0/InlineScript/1:4
+> CONTEXT: Map042/events/39/pages/1/0/InlineScript/1:4
+> CONTEXT: Map042/events/39/pages/3/0/InlineScript/1:4
+> CONTEXT: Map042/events/39/pages/4/0/InlineScript/1:4
+> CONTEXT: Map042/events/39/pages/6/0/InlineScript/1:4
+> CONTEXT: Map042/events/39/pages/6/12/InlineScript/1:4
+> CONTEXT: Map042/events/39/pages/6/28/InlineScript/1:4
+> CONTEXT: Map042/events/39/pages/6/47/InlineScript/1:4
+> CONTEXT: Map042/events/39/pages/7/0/InlineScript/1:4
+"Granmal"
 > END STRING
 
 > BEGIN STRING

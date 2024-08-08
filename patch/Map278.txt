@@ -235,13 +235,13 @@
 
 > BEGIN STRING
 「おはようございます。
-> CONTEXT: Map278/events/9/pages/0/90/Dialogue < UNTRANSLATED
-> CONTEXT: Map167/events/5/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map124/events/5/pages/3/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map070/events/7/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map050/events/17/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/5/pages/2/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map278/events/9/pages/0/90/Dialogue
+> CONTEXT: Map167/events/5/pages/1/1/Dialogue
+> CONTEXT: Map124/events/5/pages/3/1/Dialogue
+> CONTEXT: Map070/events/7/pages/1/1/Dialogue
+> CONTEXT: Map050/events/17/pages/1/1/Dialogue
+> CONTEXT: Map015/events/5/pages/2/1/Dialogue
+「Good morning.
 > END STRING
 
 > BEGIN STRING

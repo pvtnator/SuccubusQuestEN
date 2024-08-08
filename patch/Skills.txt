@@ -103,14 +103,14 @@ Examine target's personality and weaknesses
 
 > BEGIN STRING
 アトラクト
-> CONTEXT: Skills/10/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/10/name/
+Attract
 > END STRING
 
 > BEGIN STRING
 夢魔をおびき寄せる
-> CONTEXT: Skills/10/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/10/description/
+Lure a succubus
 > END STRING
 
 > BEGIN STRING
@@ -134,14 +134,14 @@ Examine target's personality and weaknesses
 
 > BEGIN STRING
 もがく
-> CONTEXT: Skills/13/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/13/name/
+Struggle
 > END STRING
 
 > BEGIN STRING
 もがいて拘束から逃れる
-> CONTEXT: Skills/13/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/13/description/
+Struggle to escape restraints
 > END STRING
 
 > BEGIN STRING
@@ -224,14 +224,14 @@ Breath calmly to restore EP
 
 > BEGIN STRING
 ファシネイトキッス/5/0/0
-> CONTEXT: Skills/31/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/31/name/
+Fascinate Kiss/5/0/0
 > END STRING
 
 > BEGIN STRING
 魅惑のキスで相手一人を恍惚状態にする　[リチャージ：5]
-> CONTEXT: Skills/31/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/31/description/
+Put 1 opponent in ecstasy with a captivating kiss [CD: 5]
 > END STRING
 
 > BEGIN STRING
@@ -272,14 +272,14 @@ Breath calmly to restore EP
 
 > BEGIN STRING
 クールダウン/7/0/0
-> CONTEXT: Skills/35/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/35/name/
+Cooldown/7/0/0
 > END STRING
 
 > BEGIN STRING
 クール状態になる（守りアップ、テンションダウン）　[リチャージ：7]
-> CONTEXT: Skills/35/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/35/description/
+Become cool (Defense Up, Tension Down) [CD: 7]
 > END STRING
 
 > BEGIN STRING
@@ -320,14 +320,14 @@ Shake hips [TP: 50]
 
 > BEGIN STRING
 ダブルピストン/0/110/2
-> CONTEXT: Skills/47/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/47/name/
+Double Piston/0/110/2
 > END STRING
 
 > BEGIN STRING
 激しく腰をふる [必要TP：110]
-> CONTEXT: Skills/47/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/47/description/
+Shake your hips intensely [TP: 110]
 > END STRING
 
 > BEGIN STRING
@@ -502,26 +502,26 @@ A gentle kiss that raises the mood
 
 > BEGIN STRING
 フラート
-> CONTEXT: Skills/74/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/74/name/
+Flirt
 > END STRING
 
 > BEGIN STRING
 次に与える快感アップ / ムードアップ(小)
-> CONTEXT: Skills/74/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/74/description/
+Increase next pleasure / Mood Up (S)
 > END STRING
 
 > BEGIN STRING
 チャージ/0/100/0
-> CONTEXT: Skills/75/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/75/name/
+Charge/0/100/0
 > END STRING
 
 > BEGIN STRING
 ランダムに激しくせめる [必要TP：100]
-> CONTEXT: Skills/75/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/75/description/
+Attack intensely at random [TP: 100]
 > END STRING
 
 > BEGIN STRING
@@ -752,11 +752,11 @@ EP全回復
 
 > BEGIN STRING
 ハガルグン
-> CONTEXT: Skills/114/name/ < UNTRANSLATED
-> CONTEXT: Skills/287/name/ < UNTRANSLATED
-> CONTEXT: Commonevents/150/279/Choice/2 < UNTRANSLATED
-> CONTEXT: Commonevents/153/282/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Skills/114/name/
+> CONTEXT: Skills/287/name/
+> CONTEXT: Commonevents/150/279/Choice/2
+> CONTEXT: Commonevents/153/282/Choice/0
+Hagalgun
 > END STRING
 
 > BEGIN STRING
@@ -782,21 +782,21 @@ EP全回復
 
 > BEGIN STRING
 シギルグン
-> CONTEXT: Skills/116/name/ < UNTRANSLATED
-> CONTEXT: Skills/289/name/ < UNTRANSLATED
-> CONTEXT: Commonevents/150/407/Choice/0 < UNTRANSLATED
-> CONTEXT: Commonevents/153/410/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Skills/116/name/
+> CONTEXT: Skills/289/name/
+> CONTEXT: Commonevents/150/407/Choice/0
+> CONTEXT: Commonevents/153/410/Choice/0
+Sigilgun
 > END STRING
 
 > BEGIN STRING
 魅力アップ
-> CONTEXT: Skills/116/description/ < UNTRANSLATED
-> CONTEXT: Skills/123/description/ < UNTRANSLATED
-> CONTEXT: Skills/244/description/ < UNTRANSLATED
-> CONTEXT: Skills/282/description/ < UNTRANSLATED
-> CONTEXT: Skills/351/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/116/description/
+> CONTEXT: Skills/123/description/
+> CONTEXT: Skills/244/description/
+> CONTEXT: Skills/282/description/
+> CONTEXT: Skills/351/description/
+Increase charm
 > END STRING
 
 > BEGIN STRING
@@ -1391,14 +1391,14 @@ Slash with holy power
 
 > BEGIN STRING
 ワイルドスウィング/0/0/2
-> CONTEXT: Skills/213/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/213/name/
+Wild Swing/0/0/2
 > END STRING
 
 > BEGIN STRING
 ワイルドスウィング/0/0/3
-> CONTEXT: Skills/214/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/214/name/
+Wild Swing/0/0/3
 > END STRING
 
 > BEGIN STRING
@@ -1674,20 +1674,20 @@ EP回復+精神力回復
 
 > BEGIN STRING
 プリティスマイル
-> CONTEXT: Skills/261/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/261/name/
+Pretty Smile
 > END STRING
 
 > BEGIN STRING
 プリティキッス
-> CONTEXT: Skills/262/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/262/name/
+Pretty Kiss
 > END STRING
 
 > BEGIN STRING
 低確率恍惚
-> CONTEXT: Skills/262/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/262/description/
+Low Probability Ecstasy
 > END STRING
 
 > BEGIN STRING
@@ -1710,8 +1710,8 @@ EP回復+精神力回復
 
 > BEGIN STRING
 センシブパウダー
-> CONTEXT: Skills/266/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/266/name/
+Sensitive Powder
 > END STRING
 
 > BEGIN STRING
@@ -1728,9 +1728,9 @@ EP回復+精神力回復
 
 > BEGIN STRING
 おたけび
-> CONTEXT: Skills/269/name/ < UNTRANSLATED
-> CONTEXT: Skills/322/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/269/name/
+> CONTEXT: Skills/322/name/
+Roar
 > END STRING
 
 > BEGIN STRING
@@ -1741,8 +1741,8 @@ EP回復+精神力回復
 
 > BEGIN STRING
 トゥレイルルート
-> CONTEXT: Skills/271/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/271/name/
+Tourail Root
 > END STRING
 
 > BEGIN STRING
@@ -2648,14 +2648,14 @@ EP回復(大)
 
 > BEGIN STRING
 風の愛撫
-> CONTEXT: Skills/399/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/399/name/
+Wind Caress
 > END STRING
 
 > BEGIN STRING
 追加効果：全身敏感
-> CONTEXT: Skills/399/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/399/description/
+Additional effect: Whole body sensitivity
 > END STRING
 
 > BEGIN STRING

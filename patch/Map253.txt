@@ -1,9 +1,9 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 "彷徨う男"
-> CONTEXT: Map253/events/12/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map023/events/13/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map253/events/12/pages/0/0/InlineScript/1:4
+> CONTEXT: Map023/events/13/pages/0/0/InlineScript/1:4
+"Wandering Man"
 > END STRING
 
 > BEGIN STRING

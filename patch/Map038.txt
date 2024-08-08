@@ -1,69 +1,73 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 "兵士A"
-> CONTEXT: Map038/events/4/pages/0/4/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map039/events/10/pages/0/5/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map038/events/4/pages/0/13/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map038/events/14/pages/0/4/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map038/events/14/pages/0/13/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map038/events/15/pages/0/4/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map038/events/15/pages/0/13/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map038/events/4/pages/0/4/InlineScript/1:4
+> CONTEXT: Map039/events/10/pages/0/5/InlineScript/1:4
+> CONTEXT: Map038/events/4/pages/0/13/InlineScript/1:4
+> CONTEXT: Map038/events/14/pages/0/4/InlineScript/1:4
+> CONTEXT: Map038/events/14/pages/0/13/InlineScript/1:4
+> CONTEXT: Map038/events/15/pages/0/4/InlineScript/1:4
+> CONTEXT: Map038/events/15/pages/0/13/InlineScript/1:4
+"Guard A"
 > END STRING
 
 > BEGIN STRING
 「ムッ！
 　待て待て貴様！
-> CONTEXT: Map038/events/4/pages/0/5/Dialogue < UNTRANSLATED
-> CONTEXT: Map038/events/14/pages/0/5/Dialogue < UNTRANSLATED
-> CONTEXT: Map038/events/15/pages/0/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map038/events/4/pages/0/5/Dialogue
+> CONTEXT: Map038/events/14/pages/0/5/Dialogue
+> CONTEXT: Map038/events/15/pages/0/5/Dialogue
+「Hey! 
+　Hold it right there!
 > END STRING
 
 > BEGIN STRING
 "兵士B"
-> CONTEXT: Map038/events/4/pages/0/9/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map039/events/10/pages/0/9/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map038/events/4/pages/0/19/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map038/events/14/pages/0/9/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map038/events/14/pages/0/19/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map038/events/15/pages/0/9/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map038/events/15/pages/0/19/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map038/events/4/pages/0/9/InlineScript/1:4
+> CONTEXT: Map039/events/10/pages/0/9/InlineScript/1:4
+> CONTEXT: Map038/events/4/pages/0/19/InlineScript/1:4
+> CONTEXT: Map038/events/14/pages/0/9/InlineScript/1:4
+> CONTEXT: Map038/events/14/pages/0/19/InlineScript/1:4
+> CONTEXT: Map038/events/15/pages/0/9/InlineScript/1:4
+> CONTEXT: Map038/events/15/pages/0/19/InlineScript/1:4
+"Guard B"
 > END STRING
 
 > BEGIN STRING
 「この先は王都グルッペンなるぞ！
-> CONTEXT: Map038/events/4/pages/0/10/Dialogue < UNTRANSLATED
-> CONTEXT: Map038/events/14/pages/0/10/Dialogue < UNTRANSLATED
-> CONTEXT: Map038/events/15/pages/0/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map038/events/4/pages/0/10/Dialogue
+> CONTEXT: Map038/events/14/pages/0/10/Dialogue
+> CONTEXT: Map038/events/15/pages/0/10/Dialogue
+「From here you'll reach 
+　the Royal Capital of Gruppen!
 > END STRING
 
 > BEGIN STRING
 「廃墟となった
 　ラウムから来るとは怪しい奴！
 　何者ッ！？
-> CONTEXT: Map038/events/4/pages/0/14/Dialogue < UNTRANSLATED
-> CONTEXT: Map038/events/14/pages/0/14/Dialogue < UNTRANSLATED
-> CONTEXT: Map038/events/15/pages/0/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map038/events/4/pages/0/14/Dialogue
+> CONTEXT: Map038/events/14/pages/0/14/Dialogue
+> CONTEXT: Map038/events/15/pages/0/14/Dialogue
+「What suspicious people
+　coming from ruins of Raum!
+　Who are you!?
 > END STRING
 
 > BEGIN STRING
 「……む、ちょっと待て。
-> CONTEXT: Map038/events/4/pages/0/20/Dialogue < UNTRANSLATED
-> CONTEXT: Map038/events/14/pages/0/20/Dialogue < UNTRANSLATED
-> CONTEXT: Map038/events/15/pages/0/20/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map038/events/4/pages/0/20/Dialogue
+> CONTEXT: Map038/events/14/pages/0/20/Dialogue
+> CONTEXT: Map038/events/15/pages/0/20/Dialogue
+「...Hmm, wait a moment.
 > END STRING
 
 > BEGIN STRING
 「この方はもしや…ヒソヒソ……
-> CONTEXT: Map038/events/4/pages/0/23/Dialogue < UNTRANSLATED
-> CONTEXT: Map038/events/14/pages/0/23/Dialogue < UNTRANSLATED
-> CONTEXT: Map038/events/15/pages/0/23/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map038/events/4/pages/0/23/Dialogue
+> CONTEXT: Map038/events/14/pages/0/23/Dialogue
+> CONTEXT: Map038/events/15/pages/0/23/Dialogue
+「Could this person be...*whispering*...
 > END STRING
 
 > BEGIN STRING
@@ -106,6 +110,8 @@
 
 　　　　　　　　　　　　　　　　　　　　　←　王都グルッペン
 　　　　　　　　　　　　　　　　　　　　　→　ラウムの町
-> CONTEXT: Map038/events/12/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map038/events/12/pages/0/0/Dialogue
 
+　　　　　　　　　　　　　　　　　　　　　←　Royal City Gruppen
+　　　　　　　　　　　　　　　　　　　　　→　Ruins of Raum
 > END STRING

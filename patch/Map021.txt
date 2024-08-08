@@ -3,25 +3,28 @@
 （この森みたいな『だんじょん』では、
 　ダッシュやセーブはできないよ。
 > CONTEXT: None < UNUSED
-
+(In this forest-like 'dungeon',
+　you can't dash or save.
 > END STRING
 
 > BEGIN STRING
 （奥に行くなら、
 　しっかり準備を整えた方がいいだろうね。
-> CONTEXT: Map021/events/2/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map021/events/2/pages/0/3/Dialogue
+(If you're going to go further in, 
+　you'd better be well prepared.
 > END STRING
 
 > BEGIN STRING
 リスの走り去った跡に何か落ちている……
-> CONTEXT: Map021/events/2/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map021/events/2/pages/1/1/Dialogue
+Something fell as the squirrel left...
 > END STRING
 
 > BEGIN STRING
 （この森みたいな『だんじょん』では、
 　セーブはできないよ。
-> CONTEXT: Map021/events/2/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map021/events/2/pages/0/1/Dialogue
+(You can't save 
+　in this forest-like 'dungeon'.
 > END STRING

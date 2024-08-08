@@ -418,15 +418,15 @@ SQ_Town01
 
 > BEGIN STRING
 \\c[4]\\v[22]\\c[0] を手に入れた！
-> CONTEXT: Map333/events/20/pages/0/20/Dialogue < UNTRANSLATED
-> CONTEXT: Map245/events/27/pages/0/12/Dialogue < UNTRANSLATED
-> CONTEXT: Map069/events/10/pages/0/5/Dialogue < UNTRANSLATED
-> CONTEXT: Map050/events/9/pages/1/7/Dialogue < UNTRANSLATED
-> CONTEXT: Map040/events/25/pages/1/22/Dialogue < UNTRANSLATED
-> CONTEXT: Map042/events/23/pages/1/14/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/253/31/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/256/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map333/events/20/pages/0/20/Dialogue
+> CONTEXT: Map245/events/27/pages/0/12/Dialogue
+> CONTEXT: Map069/events/10/pages/0/5/Dialogue
+> CONTEXT: Map050/events/9/pages/1/7/Dialogue
+> CONTEXT: Map040/events/25/pages/1/22/Dialogue
+> CONTEXT: Map042/events/23/pages/1/14/Dialogue
+> CONTEXT: Commonevents/253/31/Dialogue
+> CONTEXT: Commonevents/256/16/Dialogue
+\\c[4]\\v[22]\\c[0] obtained!
 > END STRING
 
 > BEGIN STRING

@@ -2,124 +2,134 @@
 > BEGIN STRING
 「待ってたわよ！
 　勇者ラルス！
-> CONTEXT: Map034/events/1/pages/0/77/Dialogue < UNTRANSLATED
-> CONTEXT: Map034/events/11/pages/0/69/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map034/events/1/pages/0/77/Dialogue
+> CONTEXT: Map034/events/11/pages/0/69/Dialogue
+「We've been waiting!
+　Hero Lars!
 > END STRING
 
 > BEGIN STRING
 「魔王さまのかたきぃ！
-> CONTEXT: Map034/events/1/pages/0/80/Dialogue < UNTRANSLATED
-> CONTEXT: Map034/events/11/pages/0/72/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map034/events/1/pages/0/80/Dialogue
+> CONTEXT: Map034/events/11/pages/0/72/Dialogue
+「The Demon King's vassal!
 > END STRING
 
 > BEGIN STRING
 「ロッコ、だから死んでないんだってば……
-> CONTEXT: Map034/events/1/pages/0/82/Dialogue < UNTRANSLATED
-> CONTEXT: Map034/events/11/pages/0/74/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map034/events/1/pages/0/82/Dialogue
+> CONTEXT: Map034/events/11/pages/0/74/Dialogue
+「Rocco, that's why we're not dead...
 > END STRING
 
 > BEGIN STRING
 「あ、そっかぁ。
-> CONTEXT: Map034/events/1/pages/0/84/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map034/events/1/pages/0/84/Dialogue
+「Ah, I see
 > END STRING
 
 > BEGIN STRING
 「じゃあ、んっと、
 　魔王さまの………えっと……
-> CONTEXT: Map034/events/1/pages/0/85/Dialogue < UNTRANSLATED
-> CONTEXT: Map034/events/11/pages/0/77/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map034/events/1/pages/0/85/Dialogue
+> CONTEXT: Map034/events/11/pages/0/77/Dialogue
+「So, um,
+　the Demon King's...erm...
 > END STRING
 
 > BEGIN STRING
 「魔王さまをいじめたおしおき？
-> CONTEXT: Map034/events/1/pages/0/87/Dialogue < UNTRANSLATED
-> CONTEXT: Map034/events/11/pages/0/79/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map034/events/1/pages/0/87/Dialogue
+> CONTEXT: Map034/events/11/pages/0/79/Dialogue
+「Punishment for tormenting the Demon King?
 > END STRING
 
 > BEGIN STRING
 「何だ、夢魔かと思ったらお前らかよ……
-> CONTEXT: Map034/events/1/pages/0/97/Dialogue < UNTRANSLATED
-> CONTEXT: Map034/events/11/pages/0/89/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map034/events/1/pages/0/97/Dialogue
+> CONTEXT: Map034/events/11/pages/0/89/Dialogue
+「What? I thought it was a succubus, 
+　but it's you guys...
 > END STRING
 
 > BEGIN STRING
 「先急いでんだ。
 　どいてくれねえかな？
-> CONTEXT: Map034/events/1/pages/0/98/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map034/events/1/pages/0/98/Dialogue
+「We're in a hurry.
+　Could you please move out of the way?
 > END STRING
 
 > BEGIN STRING
 「お黙り！
 　今日という今日こそは！
-> CONTEXT: Map034/events/1/pages/0/101/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map034/events/1/pages/0/101/Dialogue
+「Shut up!
+　Today is the day!
 > END STRING
 
 > BEGIN STRING
 「勇者をたおすのだぁ！
-> CONTEXT: Map034/events/1/pages/0/104/Dialogue < UNTRANSLATED
-> CONTEXT: Map034/events/11/pages/0/95/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map034/events/1/pages/0/104/Dialogue
+> CONTEXT: Map034/events/11/pages/0/95/Dialogue
+「We defeat the hero!
 > END STRING
 
 > BEGIN STRING
 「いつも一緒のやっかいな魔術師もいないし！
 　今がチャンス！
-> CONTEXT: Map034/events/1/pages/0/106/Dialogue < UNTRANSLATED
-> CONTEXT: Map034/events/11/pages/0/97/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map034/events/1/pages/0/106/Dialogue
+> CONTEXT: Map034/events/11/pages/0/97/Dialogue
+「And the troublesome mage 
+　who's always with you isn't here either! 
+　Now's our chance!
 > END STRING
 
 > BEGIN STRING
 「いくわよ！
 　リズ・ラズ！ ロッコ・バロッコ！
-> CONTEXT: Map034/events/1/pages/0/108/Dialogue < UNTRANSLATED
-> CONTEXT: Map034/events/11/pages/0/99/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map034/events/1/pages/0/108/Dialogue
+> CONTEXT: Map034/events/11/pages/0/99/Dialogue
+「Let's go!
+　Liz-Raz! Rocco-Barocco!
 > END STRING
 
 > BEGIN STRING
 「わかったわ！
-> CONTEXT: Map034/events/1/pages/0/111/Dialogue < UNTRANSLATED
-> CONTEXT: Map034/events/11/pages/0/102/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map034/events/1/pages/0/111/Dialogue
+> CONTEXT: Map034/events/11/pages/0/102/Dialogue
+「Got it!
 > END STRING
 
 > BEGIN STRING
 「いくぞぉ～っ！
-> CONTEXT: Map034/events/1/pages/0/113/Dialogue < UNTRANSLATED
-> CONTEXT: Map034/events/11/pages/0/104/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map034/events/1/pages/0/113/Dialogue
+> CONTEXT: Map034/events/11/pages/0/104/Dialogue
+「Let's go~!
 > END STRING
 
 > BEGIN STRING
 「………覚えてらっしゃい。
 　また来るわよ。
-> CONTEXT: Map034/events/1/pages/0/177/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map034/events/1/pages/0/177/Dialogue
+「...Don't forget.
+　We'll be back.
 > END STRING
 
 > BEGIN STRING
 「……襲ってくるのが
 　あいつらみたいのばっかなら
 　楽なんだがな……。
-> CONTEXT: Map034/events/1/pages/0/240/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map034/events/1/pages/0/240/Dialogue
+「...It would be easier if 
+　only they were attacking us...
 > END STRING
 
 > BEGIN STRING
 「……先を急ごうぜ。
-> CONTEXT: Map034/events/1/pages/0/245/Dialogue < UNTRANSLATED
-> CONTEXT: Map034/events/11/pages/0/243/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map034/events/1/pages/0/245/Dialogue
+> CONTEXT: Map034/events/11/pages/0/243/Dialogue
+「...Let's hurry on.
 > END STRING
 
 > BEGIN STRING

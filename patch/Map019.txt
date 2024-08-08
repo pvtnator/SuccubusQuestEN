@@ -10,8 +10,9 @@
 「ドゥヂチはここから南西、
 　グルッペンを越えてさらにずっと先にある
 　魔法塔です。
-> CONTEXT: Map019/events/2/pages/2/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/2/pages/2/1/Dialogue
+「Dodichi is a magic tower southwest from here, 
+　past Gruppen and further ahead.
 > END STRING
 
 > BEGIN STRING
@@ -31,14 +32,15 @@
 > BEGIN STRING
 「そういえば、お連れの方が
 　探していらっしゃいましたよ。
-> CONTEXT: Map019/events/7/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/7/pages/0/1/Dialogue
+「By the way, your companion 
+　was looking for you.
 > END STRING
 
 > BEGIN STRING
 「まだBARにいると思いますわ。
-> CONTEXT: Map019/events/7/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/7/pages/0/3/Dialogue
+「I think he's still at the bar.
 > END STRING
 
 > BEGIN STRING

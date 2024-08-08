@@ -12,15 +12,16 @@
 > BEGIN STRING
 「おはようございます。
 　今日もがんばって下さいね\\e[0]
-> CONTEXT: Map219/events/1/pages/0/17/Dialogue < UNTRANSLATED
-> CONTEXT: Map171/events/4/pages/0/16/Dialogue < UNTRANSLATED
-> CONTEXT: Map167/events/1/pages/0/17/Dialogue < UNTRANSLATED
-> CONTEXT: Map124/events/4/pages/0/16/Dialogue < UNTRANSLATED
-> CONTEXT: Map070/events/2/pages/0/17/Dialogue < UNTRANSLATED
-> CONTEXT: Map050/events/2/pages/0/16/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/4/pages/1/17/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/4/pages/2/17/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map219/events/1/pages/0/17/Dialogue
+> CONTEXT: Map171/events/4/pages/0/16/Dialogue
+> CONTEXT: Map167/events/1/pages/0/17/Dialogue
+> CONTEXT: Map124/events/4/pages/0/16/Dialogue
+> CONTEXT: Map070/events/2/pages/0/17/Dialogue
+> CONTEXT: Map050/events/2/pages/0/16/Dialogue
+> CONTEXT: Map015/events/4/pages/1/17/Dialogue
+> CONTEXT: Map015/events/4/pages/2/17/Dialogue
+「Good morning.
+　Please do your best today too\\e[0]
 > END STRING
 
 > BEGIN STRING

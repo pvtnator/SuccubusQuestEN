@@ -1,18 +1,18 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 \\c[3]ハニービスケット\\c[0] を欲しがってるみたいだ
-> CONTEXT: Map026/events/1/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map026/events/1/pages/0/6/Dialogue
+It seems to want some \\c[3]honey biscuits\\c[0]
 > END STRING
 
 > BEGIN STRING
 あげますか？
-> CONTEXT: Map026/events/1/pages/0/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map026/events/1/pages/0/9/Dialogue
+Give some?
 > END STRING
 
 > BEGIN STRING
 宝箱はからっぽだった……
-> CONTEXT: Map026/events/1/pages/2/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map026/events/1/pages/2/1/Dialogue
+The treasure chest is empty...
 > END STRING

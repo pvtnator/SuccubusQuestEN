@@ -171,20 +171,22 @@ SQ_Town04
 > BEGIN STRING
 「お客様、すみませんが
 　ただいまお二階には……
-> CONTEXT: Map124/events/11/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map124/events/11/pages/0/3/Dialogue
+「Sorry, customer, 
+　but there is someone 
+　on the second floor right now...
 > END STRING
 
 > BEGIN STRING
 "男の声"
-> CONTEXT: Map124/events/11/pages/0/5/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map027/events/1/pages/0/28/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map027/events/1/pages/0/37/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map124/events/11/pages/0/5/InlineScript/1:4
+> CONTEXT: Map027/events/1/pages/0/28/InlineScript/1:4
+> CONTEXT: Map027/events/1/pages/0/37/InlineScript/1:4
+"Male Voice"
 > END STRING
 
 > BEGIN STRING
 「構いません、入ってもらって下さい。
-> CONTEXT: Map124/events/11/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map124/events/11/pages/0/6/Dialogue
+「Doesn't matter, please come in.
 > END STRING

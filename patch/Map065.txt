@@ -1,33 +1,33 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 グルッペン街道
-> CONTEXT: Map065/events/6/pages/1/2/Choice/0 < UNTRANSLATED
-> CONTEXT: Map065/events/7/pages/1/2/Choice/0 < UNTRANSLATED
-> CONTEXT: Map065/events/14/pages/1/2/Choice/0 < UNTRANSLATED
-> CONTEXT: Map065/events/19/pages/1/2/Choice/0 < UNTRANSLATED
-> CONTEXT: Map036/events/1/pages/2/2/Choice/1 < UNTRANSLATED
-> CONTEXT: Map036/events/2/pages/2/2/Choice/1 < UNTRANSLATED
-> CONTEXT: Map036/events/3/pages/2/2/Choice/1 < UNTRANSLATED
-> CONTEXT: Map014/events/6/pages/0/2/Choice/0 < UNTRANSLATED
-> CONTEXT: Map014/events/6/pages/1/2/Choice/0 < UNTRANSLATED
-> CONTEXT: Map014/events/6/pages/2/2/Choice/0 < UNTRANSLATED
-> CONTEXT: Map014/events/6/pages/3/2/Choice/0 < UNTRANSLATED
-> CONTEXT: Map014/events/6/pages/4/2/Choice/0 < UNTRANSLATED
-> CONTEXT: Map014/events/29/pages/0/2/Choice/0 < UNTRANSLATED
-> CONTEXT: Map014/events/29/pages/1/2/Choice/0 < UNTRANSLATED
-> CONTEXT: Map014/events/29/pages/2/2/Choice/0 < UNTRANSLATED
-> CONTEXT: Map014/events/29/pages/3/2/Choice/0 < UNTRANSLATED
-> CONTEXT: Map014/events/29/pages/4/2/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map065/events/6/pages/1/2/Choice/0
+> CONTEXT: Map065/events/7/pages/1/2/Choice/0
+> CONTEXT: Map065/events/14/pages/1/2/Choice/0
+> CONTEXT: Map065/events/19/pages/1/2/Choice/0
+> CONTEXT: Map036/events/1/pages/2/2/Choice/1
+> CONTEXT: Map036/events/2/pages/2/2/Choice/1
+> CONTEXT: Map036/events/3/pages/2/2/Choice/1
+> CONTEXT: Map014/events/6/pages/0/2/Choice/0
+> CONTEXT: Map014/events/6/pages/1/2/Choice/0
+> CONTEXT: Map014/events/6/pages/2/2/Choice/0
+> CONTEXT: Map014/events/6/pages/3/2/Choice/0
+> CONTEXT: Map014/events/6/pages/4/2/Choice/0
+> CONTEXT: Map014/events/29/pages/0/2/Choice/0
+> CONTEXT: Map014/events/29/pages/1/2/Choice/0
+> CONTEXT: Map014/events/29/pages/2/2/Choice/0
+> CONTEXT: Map014/events/29/pages/3/2/Choice/0
+> CONTEXT: Map014/events/29/pages/4/2/Choice/0
+Gruppen road
 > END STRING
 
 > BEGIN STRING
 人魚のすみか
-> CONTEXT: Map065/events/6/pages/1/2/Choice/1 < UNTRANSLATED
-> CONTEXT: Map065/events/7/pages/1/2/Choice/1 < UNTRANSLATED
-> CONTEXT: Map065/events/14/pages/1/2/Choice/1 < UNTRANSLATED
-> CONTEXT: Map065/events/19/pages/1/2/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map065/events/6/pages/1/2/Choice/1
+> CONTEXT: Map065/events/7/pages/1/2/Choice/1
+> CONTEXT: Map065/events/14/pages/1/2/Choice/1
+> CONTEXT: Map065/events/19/pages/1/2/Choice/1
+Mermaid's Home
 > END STRING
 
 > BEGIN STRING

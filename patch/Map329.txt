@@ -105,11 +105,11 @@ SQ_Town08
 
 > BEGIN STRING
 「それではごゆっくりお休み下さい。
-> CONTEXT: Map329/events/2/pages/0/14/Dialogue < UNTRANSLATED
-> CONTEXT: Map050/events/2/pages/0/13/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/4/pages/1/14/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/4/pages/2/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map329/events/2/pages/0/14/Dialogue
+> CONTEXT: Map050/events/2/pages/0/13/Dialogue
+> CONTEXT: Map015/events/4/pages/1/14/Dialogue
+> CONTEXT: Map015/events/4/pages/2/14/Dialogue
+「Then please get some rest.
 > END STRING
 
 > BEGIN STRING

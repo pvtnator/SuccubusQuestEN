@@ -1,49 +1,55 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 \\n[1]のEPとTPが回復した！
-> CONTEXT: Map320/events/9/pages/0/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map320/events/9/pages/0/5/Dialogue
+\\n[1]'s EP and TP have been restored!
 > END STRING
 
 > BEGIN STRING
 ここは\\c[2]セーブポイント\\c[0]です。
 ダンジョン内でもセーブすることができます。
-> CONTEXT: Map320/events/9/pages/0/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map320/events/9/pages/0/7/Dialogue
+This is a \\c[2]save point\\c[0].
+Here you can save inside the dungeon.
 > END STRING
 
 > BEGIN STRING
 セーブしますか？
-> CONTEXT: Map320/events/9/pages/0/9/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/15/21/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map320/events/9/pages/0/9/Dialogue
+> CONTEXT: Commonevents/15/21/Dialogue
+Do you want to save?
 > END STRING
 
 > BEGIN STRING
 「あ、コワがらないで。
 　あたしは襲ったりしないわよ。
-> CONTEXT: Map320/events/12/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map320/events/12/pages/0/1/Dialogue
+「Oh, don't be scared. 
+　I won't attack you.
 > END STRING
 
 > BEGIN STRING
 「………今ちょっと
 　残念そうなカオしなかった？
-> CONTEXT: Map320/events/12/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map320/events/12/pages/0/3/Dialogue
+「...Just now,
+　you seemed a little disappointed?
 > END STRING
 
 > BEGIN STRING
 「みたことない魔物が来て、
 　友達がみんなおかしくなっちゃったの。
-> CONTEXT: Map320/events/13/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map320/events/13/pages/0/1/Dialogue
+「A demon I'd never seen before appeared, 
+　and all my friends started going crazy.
 > END STRING
 
 > BEGIN STRING
 「あなたは魔物と戦えるのね？
 　必要なものがあったら
 　売ってあげるわ。
-> CONTEXT: Map320/events/13/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map320/events/13/pages/0/3/Dialogue
+「You can fight demons, right? 
+　If there's anything you need, 
+　I'll sell it to you.
 > END STRING

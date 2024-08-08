@@ -656,8 +656,8 @@
 
 > BEGIN STRING
 \\a[\\v[105]]続けて\\v[1]たちが襲ってきた！
-> CONTEXT: Commonevents/32/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/32/3/Dialogue
+\\a[\\v[105]]Then \\v[1] group attacked!
 > END STRING
 
 > BEGIN STRING
@@ -828,8 +828,8 @@
 
 > BEGIN STRING
 \\a[\\v[105]]「やぁん、遊んでよぉ～っ
-> CONTEXT: Commonevents/50/44/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/50/44/Dialogue
+\\a[\\v[105]]「Hey, play with me~
 > END STRING
 
 > BEGIN STRING
@@ -885,9 +885,9 @@ pours into \\n[1]!
 > BEGIN STRING
 \\a[\\v[105]]\\n[1]は\\n[28]に
 イかされてしまった……
-> CONTEXT: Commonevents/52/80/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/52/191/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/80/Dialogue
+> CONTEXT: Commonevents/52/191/Dialogue
+\\a[\\v[105]]\\n[28] made \\n[1] cum...
 > END STRING
 
 > BEGIN STRING
@@ -1263,14 +1263,15 @@ pours into \\n[1]!
 > BEGIN STRING
 \\a[\\v[105]]「あァンっ…すごいっ…\\w[\\v[104]]
 　こんな\\r[男,ひと]、はじめてっ……\\w[\\v[105]]
-> CONTEXT: Commonevents/52/375/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/375/Dialogue
+\\a[\\v[105]]「Ahh...amazing...\\w[\\v[104]]
+　It's my first time with such a man\\w[\\v[105]]
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「ああっ、もっとおっ……\\e[0]
-> CONTEXT: Commonevents/52/377/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/377/Dialogue
+\\a[\\v[105]]「Oh, more...\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -1422,8 +1423,8 @@ pours into \\n[1]!
 
 > BEGIN STRING
 「ね、アタシきれいでしょ？
-> CONTEXT: Commonevents/104/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/104/6/Dialogue
+「Hey, I’m pretty, right?
 > END STRING
 
 > BEGIN STRING
@@ -1431,20 +1432,23 @@ pours into \\n[1]!
 　アタシがこんなにきれいなんて。
 　アタシにこんなことができるなんて
 > CONTEXT: None < UNUSED
-
+「I never knew.
+　I never knew I was this beautiful. 
+　I never knew I could do this.
 > END STRING
 
 > BEGIN STRING
 「男の子に話しかけられるのさえ
 　こわかったのに………
-> CONTEXT: Commonevents/104/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/104/10/Dialogue
+「I was even afraid 
+　of a boy talking to me...
 > END STRING
 
 > BEGIN STRING
 「ねえ、本当に夢みたいよ。
-> CONTEXT: Commonevents/104/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/104/12/Dialogue
+「Yeah, it really does feel like a dream.
 > END STRING
 
 > BEGIN STRING
@@ -1672,11 +1676,12 @@ pours into \\n[1]!
 > BEGIN STRING
 \\a[\\v[104]]\\n[1]の精力が吸い取られる！
 \\k
-> CONTEXT: Commonevents/128/17/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/129/15/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/130/17/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/163/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/128/17/Dialogue
+> CONTEXT: Commonevents/129/15/Dialogue
+> CONTEXT: Commonevents/130/17/Dialogue
+> CONTEXT: Commonevents/163/13/Dialogue
+\\a[\\v[104]]\\n[1]'s vitality is being sucked away!
+\\k
 > END STRING
 
 > BEGIN STRING
@@ -1694,14 +1699,15 @@ pours into \\n[1]!
 > BEGIN STRING
 \\a[\\v[105]]「ねェ………、
 　\\w[\\v[104]]ちょうだい………\\e[0]
-> CONTEXT: Commonevents/130/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/130/13/Dialogue
+\\a[\\v[105]]「Hey......
+　\\w[\\v[104]]Give it to me...\\e[0]
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]\\b\\v[1]\\f の精力をマーシャに吸い取られた！
-> CONTEXT: Commonevents/130/21/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/130/21/Dialogue
+\\a[\\v[105]]\\b\\v[1]\\f energy was sucked out by Marsha!
 > END STRING
 
 > BEGIN STRING
@@ -1801,22 +1807,24 @@ pours into \\n[1]!
 
 > BEGIN STRING
 \\a[\\v[105]]しかし、\\n[27]は既にハダカだった！
-> CONTEXT: Commonevents/135/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/135/2/Dialogue
+\\a[\\v[105]]However, \\n[27] was already naked!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]不思議な風が
 \\n[27]の服を脱がせてしまった！
 \\k
-> CONTEXT: Commonevents/135/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/135/7/Dialogue
+\\a[\\v[105]]A strange wind
+took off \\n[27]'s clothes off!
+\\k
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]\\n[1]はハダカになった！
-> CONTEXT: Commonevents/135/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/135/11/Dialogue
+\\a[\\v[105]]\\n[1] is naked!
 > END STRING
 
 > BEGIN STRING

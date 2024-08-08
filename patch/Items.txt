@@ -343,15 +343,15 @@ Sedatives
 
 > BEGIN STRING
 ムーンドロップス
-> CONTEXT: Items/40/name/ < UNTRANSLATED
-
+> CONTEXT: Items/40/name/
+Moondrops
 > END STRING
 
 > BEGIN STRING
 夢魔の好む不思議なキャンディ
-> CONTEXT: Items/40/description/ < UNTRANSLATED
-> CONTEXT: Items/41/description/ < UNTRANSLATED
-
+> CONTEXT: Items/40/description/
+> CONTEXT: Items/41/description/
+A mysterious candy favored by succubi.
 > END STRING
 
 > BEGIN STRING
@@ -1052,14 +1052,14 @@ Poppana Amber
 
 > BEGIN STRING
 夜の絵本
-> CONTEXT: Items/199/name/ < UNTRANSLATED
-
+> CONTEXT: Items/199/name/
+Night Picture Book
 > END STRING
 
 > BEGIN STRING
 出会った夢魔の姿かたちがひとりでに描かれる絵本
-> CONTEXT: Items/199/description/ < UNTRANSLATED
-
+> CONTEXT: Items/199/description/
+Succubi you encounter are drawn automatically
 > END STRING
 
 > BEGIN STRING
@@ -1076,26 +1076,26 @@ Poppana Amber
 
 > BEGIN STRING
 デイドリーマー
-> CONTEXT: Items/201/name/ < UNTRANSLATED
-
+> CONTEXT: Items/201/name/
+Daydreamer
 > END STRING
 
 > BEGIN STRING
 使うといつのまにか最後に眠った場所にいる魔法の薬
-> CONTEXT: Items/201/description/ < UNTRANSLATED
-
+> CONTEXT: Items/201/description/
+Return to the place where you last slept.
 > END STRING
 
 > BEGIN STRING
 まどろみの一滴
-> CONTEXT: Items/202/name/ < UNTRANSLATED
-
+> CONTEXT: Items/202/name/
+Sleepdrop
 > END STRING
 
 > BEGIN STRING
 使うといつのまにかバトルから離脱している魔法の薬
-> CONTEXT: Items/202/description/ < UNTRANSLATED
-
+> CONTEXT: Items/202/description/
+Takes you out of battle without you even realizing it.
 > END STRING
 
 > BEGIN STRING
@@ -1335,8 +1335,8 @@ Naughty Pinup
 
 > BEGIN STRING
 リスヴェグの応用魔術で印画されたセクシーなエルフの肖像
-> CONTEXT: Items/252/description/ < UNTRANSLATED
-
+> CONTEXT: Items/252/description/
+Sexy Elf portrait printed with Lisveig's applied magic
 > END STRING
 
 > BEGIN STRING

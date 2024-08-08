@@ -1,43 +1,49 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 "リス"
-> CONTEXT: Map023/events/7/pages/0/1/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map021/events/2/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map023/events/7/pages/0/1/InlineScript/1:4
+> CONTEXT: Map021/events/2/pages/0/0/InlineScript/1:4
+"Squirrel"
 > END STRING
 
 > BEGIN STRING
 （相手に与えられる快感が少ないと思ったら、
 　まずムードを上げるようにするといいよ。
-> CONTEXT: Map023/events/7/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/7/pages/0/2/Dialogue
+(If you're not giving your partner enough pleasure,
+　first try to raise the mood.
 > END STRING
 
 > BEGIN STRING
 （今の君なら、
 　最初に\\c[2]テンダーキッス\\c[0]するのが
 　一番いいだろうね。
-> CONTEXT: Map023/events/7/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/7/pages/0/4/Dialogue
+(Right now, I think the best thing 
+　you could do would be
+　to give a \\c[2]tender kiss\\c[0] first.
 > END STRING
 
 > BEGIN STRING
 「なァ、一体どこにいるんだと思う？
-> CONTEXT: Map023/events/13/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/13/pages/0/1/Dialogue
+「Wha-where the hell?
 > END STRING
 
 > BEGIN STRING
 「誰がってマーシャだよ。
 　お前も呼ばれて来たんじゃないのか？
-> CONTEXT: Map023/events/13/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/13/pages/0/2/Dialogue
+「Who's this Marsha?
+　Were you called as well?
 > END STRING
 
 > BEGIN STRING
 「森の奥にこっそり来てくれって……
 　きっと今までいなくなった奴らもそこで
 　楽しくやってんだぜチクショォ
-> CONTEXT: Map023/events/13/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/13/pages/0/4/Dialogue
+「Sneak into the depths of the forest...
+　The people who went before
+　are probably having fun there, dammit.
 > END STRING

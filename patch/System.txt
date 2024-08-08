@@ -38,8 +38,8 @@
 
 > BEGIN STRING
 精力
-> CONTEXT: System/words/str/ < UNTRANSLATED
-
+> CONTEXT: System/words/str/
+Energy
 > END STRING
 
 > BEGIN STRING
@@ -80,8 +80,8 @@ G
 
 > BEGIN STRING
 守り
-> CONTEXT: System/words/pdef/ < UNTRANSLATED
-
+> CONTEXT: System/words/pdef/
+Defense
 > END STRING
 
 > BEGIN STRING
@@ -116,34 +116,34 @@ Caress
 
 > BEGIN STRING
 アイテム
-> CONTEXT: System/words/item/ < UNTRANSLATED
-
+> CONTEXT: System/words/item/
+Items
 > END STRING
 
 > BEGIN STRING
 攻め
-> CONTEXT: System/words/atk/ < UNTRANSLATED
-> CONTEXT: Commonevents/171/68/Label < UNTRANSLATED
-> CONTEXT: Commonevents/171/82/Label < UNTRANSLATED
-
+> CONTEXT: System/words/atk/
+> CONTEXT: Commonevents/171/68/Label
+> CONTEXT: Commonevents/171/82/Label
+Attack
 > END STRING
 
 > BEGIN STRING
 技巧
-> CONTEXT: System/words/dex/ < UNTRANSLATED
-
+> CONTEXT: System/words/dex/
+Skill
 > END STRING
 
 > BEGIN STRING
 コーディネート
-> CONTEXT: System/words/weapon/ < UNTRANSLATED
-
+> CONTEXT: System/words/weapon/
+Coordination
 > END STRING
 
 > BEGIN STRING
 耐える
-> CONTEXT: System/words/guard/ < UNTRANSLATED
-
+> CONTEXT: System/words/guard/
+Endure
 > END STRING
 
 > BEGIN STRING

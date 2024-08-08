@@ -1,15 +1,15 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 奥からただならぬ気配がする……
-> CONTEXT: Map225/events/21/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map028/events/7/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map028/events/9/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map028/events/10/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map225/events/21/pages/0/1/Dialogue
+> CONTEXT: Map028/events/7/pages/0/1/Dialogue
+> CONTEXT: Map028/events/9/pages/0/1/Dialogue
+> CONTEXT: Map028/events/10/pages/0/1/Dialogue
+Something unusual is coming from ahead...
 > END STRING
 
 > BEGIN STRING
 先に進みますか？
-> CONTEXT: Map225/events/21/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map225/events/21/pages/0/2/Dialogue
+Do you want to proceed?
 > END STRING

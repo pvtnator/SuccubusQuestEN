@@ -207,8 +207,8 @@
 
 > BEGIN STRING
 クールダウン
-> CONTEXT: States/36/name/ < UNTRANSLATED
-
+> CONTEXT: States/36/name/
+Cooldown
 > END STRING
 
 > BEGIN STRING
