@@ -195,14 +195,14 @@
 
 > BEGIN STRING
 スタン
-> CONTEXT: States/34/name/ < UNTRANSLATED
-
+> CONTEXT: States/34/name/
+Stun
 > END STRING
 
 > BEGIN STRING
 エキサイト
-> CONTEXT: States/35/name/ < UNTRANSLATED
-
+> CONTEXT: States/35/name/
+Excite
 > END STRING
 
 > BEGIN STRING

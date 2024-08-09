@@ -356,59 +356,59 @@ A mysterious candy favored by succubi.
 
 > BEGIN STRING
 ナイトドロップス
-> CONTEXT: Items/41/name/ < UNTRANSLATED
-
+> CONTEXT: Items/41/name/
+Nightdrops
 > END STRING
 
 > BEGIN STRING
 チャミングブーケ
-> CONTEXT: Items/43/name/ < UNTRANSLATED
-> CONTEXT: Skills/534/name/ < UNTRANSLATED
-
+> CONTEXT: Items/43/name/
+> CONTEXT: Skills/534/name/
+Charming Bouquet
 > END STRING
 
 > BEGIN STRING
 〔ツール〕 相手一人を恍惚状態にする花束
-> CONTEXT: Items/43/description/ < UNTRANSLATED
-
+> CONTEXT: Items/43/description/
+[Tool] A bouquet that puts one person in ecstasy
 > END STRING
 
 > BEGIN STRING
 ミスリルアイアン
-> CONTEXT: Items/44/name/ < UNTRANSLATED
-> CONTEXT: Skills/532/name/ < UNTRANSLATED
-
+> CONTEXT: Items/44/name/
+> CONTEXT: Skills/532/name/
+Mythril Iron
 > END STRING
 
 > BEGIN STRING
 〔ツール〕 相手一人をバインド状態にする枷
-> CONTEXT: Items/44/description/ < UNTRANSLATED
-
+> CONTEXT: Items/44/description/
+[Tool] Shackles that bind one opponent
 > END STRING
 
 > BEGIN STRING
 夢魔の触手
-> CONTEXT: Items/45/name/ < UNTRANSLATED
-
+> CONTEXT: Items/45/name/
+Succubus Tentacle
 > END STRING
 
 > BEGIN STRING
 〔ツール〕 相手一人に一定ターンの間快感を与え続ける触手
-> CONTEXT: Items/45/description/ < UNTRANSLATED
-
+> CONTEXT: Items/45/description/
+[Tool] Gives pleasure to one opponent for a number of turns.
 > END STRING
 
 > BEGIN STRING
 エーテルローション
-> CONTEXT: Items/46/name/ < UNTRANSLATED
-> CONTEXT: Skills/533/name/ < UNTRANSLATED
-
+> CONTEXT: Items/46/name/
+> CONTEXT: Skills/533/name/
+Ether Lotion
 > END STRING
 
 > BEGIN STRING
 〔ツール〕 相手一人をセンシブ状態にする媚薬
-> CONTEXT: Items/46/description/ < UNTRANSLATED
-
+> CONTEXT: Items/46/description/
+[Tool] Aphrodisiac that makes one opponent sensitive
 > END STRING
 
 > BEGIN STRING
@@ -773,14 +773,14 @@ Gruppengold
 
 > BEGIN STRING
 マムシのカルパッチョ
-> CONTEXT: Items/115/name/ < UNTRANSLATED
-
+> CONTEXT: Items/115/name/
+Viper Carpaccio
 > END STRING
 
 > BEGIN STRING
 〔食事〕 新鮮なマムシの生肉を薄切りにしマヨネーズソースをかけた料理
-> CONTEXT: Items/115/description/ < UNTRANSLATED
-
+> CONTEXT: Items/115/description/
+[Food] Fresh raw viper meat thinly sliced and served with mayonnaise
 > END STRING
 
 > BEGIN STRING
@@ -1064,14 +1064,14 @@ Succubi you encounter are drawn automatically
 
 > BEGIN STRING
 夢紡ぎの糸
-> CONTEXT: Items/200/name/ < UNTRANSLATED
-
+> CONTEXT: Items/200/name/
+Dream Thread
 > END STRING
 
 > BEGIN STRING
 ドラウムニョルのほこらへワープする　　夢魔のいる場所では使えない
-> CONTEXT: Items/200/description/ < UNTRANSLATED
-
+> CONTEXT: Items/200/description/
+Warp to Draumnior Shrine. Can't use where succubi are present.
 > END STRING
 
 > BEGIN STRING
@@ -1318,7 +1318,7 @@ HP・MP全回復 / 全状態異常解除
 > BEGIN STRING
 魔王のかけら
 > CONTEXT: Items/251/name/
-Demon King's Shard
+Demon Lord's Shard
 > END STRING
 
 > BEGIN STRING

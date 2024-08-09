@@ -134,7 +134,7 @@
 「魔王は犯したけれど夢魔がさらわれて
 　エルヴィンとオリビアがちょめちょめだッて？
 > CONTEXT: Map040/events/14/pages/0/4/Dialogue
-「The Demon King was defeated, 
+「The Demon Lord was defeated, 
 　but the succubus appeared
 　and took Elvin and Olivia?
 > END STRING
@@ -579,7 +579,7 @@ the teachings of the great Eland.
 「あの魔王ギルデンスターンも、
 　近頃はこびっているという淫猥な魔物どもも、
 > CONTEXT: Map040/events/30/pages/1/1/Dialogue
-「That Demon King Guildenstern, 
+「That Demon Lord Guildenstern, 
 　and the lewd demons he's been fawning over lately,
 > END STRING
 

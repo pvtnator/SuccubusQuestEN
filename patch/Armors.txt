@@ -998,50 +998,50 @@ Charm +3 / Agility +3
 
 > BEGIN STRING
 キッスリング/6/0
-> CONTEXT: Armors/135/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/135/name/
+Kiss Ring/6/0
 > END STRING
 
 > BEGIN STRING
 守り+5 / 魅力+6 / キッスの効果アップ
-> CONTEXT: Armors/135/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/135/description/
+Def +5 / Charm +6 / Increased Kiss effect
 > END STRING
 
 > BEGIN STRING
 バストリング/6/0
-> CONTEXT: Armors/136/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/136/name/
+Bust Ring/6/0
 > END STRING
 
 > BEGIN STRING
 守り+5 / 魅力+6 / バストの効果アップ
-> CONTEXT: Armors/136/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/136/description/
+Def +5 / Charm +6 / Increased Bust effect
 > END STRING
 
 > BEGIN STRING
 ヒップリング/6/0
-> CONTEXT: Armors/137/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/137/name/
+Hip Ring/6/0
 > END STRING
 
 > BEGIN STRING
 守り+5 / 魅力+6 / ヒップの効果アップ
-> CONTEXT: Armors/137/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/137/description/
+Def +5 / Charm +6 / Increased Hip effect
 > END STRING
 
 > BEGIN STRING
 ヴァッジリング/6/0
-> CONTEXT: Armors/138/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/138/name/
+Vagina Ring/6/0
 > END STRING
 
 > BEGIN STRING
 守り+5 / 魅力+6 / ヴァッジの効果アップ
-> CONTEXT: Armors/138/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/138/description/
+Def +5 / Charm +6 / Increases Vagina effect
 > END STRING
 
 > BEGIN STRING

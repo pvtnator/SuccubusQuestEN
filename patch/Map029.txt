@@ -130,7 +130,7 @@
 > CONTEXT: Map029/events/9/pages/0/15/Dialogue
 「No, that's not it.
 　Mr. \\n[1], you came to this town once 
-　before you defeated the Demon King.
+　before you defeated the Demon Lord.
 > END STRING
 
 > BEGIN STRING

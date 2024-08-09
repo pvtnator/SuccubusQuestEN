@@ -37,7 +37,7 @@ all over the body...
 奥からただならぬ気配がする…。
 > CONTEXT: Map194/events/21/pages/0/0/Dialogue
 > CONTEXT: Map011/events/21/pages/0/0/Dialogue
-This is the door to the Demon King's chambers.
+This is the door to the Demon Lord's chambers.
 There's something unusual coming from within...
 > END STRING
 

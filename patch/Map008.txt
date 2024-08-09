@@ -4,7 +4,7 @@
 　いざ魔王の間に突入せんとした矢先！
 > CONTEXT: Map008/events/3/pages/0/1/Dialogue
 「Oh, what a situation!
-　Just as I was about to enter the Demon King's chambers!
+　Just as I was about to enter the Demon Lord's chambers!
 > END STRING
 
 > BEGIN STRING
@@ -26,7 +26,7 @@
 　魔王の間に突入してるだろう。
 > CONTEXT: Map008/events/3/pages/0/6/Dialogue
 「By now, the other soldiers have probably already
-　charged into the Demon King's compound.
+　charged into the Demon Lord's compound.
 > END STRING
 
 > BEGIN STRING

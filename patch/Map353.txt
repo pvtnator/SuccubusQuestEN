@@ -11,94 +11,98 @@ SQ_MiniGame
 > BEGIN STRING
 「やンっ☆
 　あったりぃ～！
-> CONTEXT: Map353/events/1/pages/0/9/Dialogue < UNTRANSLATED
-> CONTEXT: Map342/events/1/pages/0/9/Dialogue < UNTRANSLATED
-> CONTEXT: Map326/events/1/pages/0/10/Dialogue < UNTRANSLATED
-> CONTEXT: Map056/events/1/pages/0/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map353/events/1/pages/0/9/Dialogue
+> CONTEXT: Map342/events/1/pages/0/9/Dialogue
+> CONTEXT: Map326/events/1/pages/0/10/Dialogue
+> CONTEXT: Map056/events/1/pages/0/8/Dialogue
+"Aah☆
+　Here!
 > END STRING
 
 > BEGIN STRING
 「逃げちゃうのぉ？
 　それじゃまた次回～っ！
-> CONTEXT: Map353/events/1/pages/0/17/Dialogue < UNTRANSLATED
-> CONTEXT: Map342/events/1/pages/0/17/Dialogue < UNTRANSLATED
-> CONTEXT: Map326/events/1/pages/0/18/Dialogue < UNTRANSLATED
-> CONTEXT: Map056/events/1/pages/0/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map353/events/1/pages/0/17/Dialogue
+> CONTEXT: Map342/events/1/pages/0/17/Dialogue
+> CONTEXT: Map326/events/1/pages/0/18/Dialogue
+> CONTEXT: Map056/events/1/pages/0/16/Dialogue
+「Are you running away?
+　See you next time!
 > END STRING
 
 > BEGIN STRING
 「やぁ～んっ☆
-> CONTEXT: Map353/events/1/pages/0/31/Dialogue < UNTRANSLATED
-> CONTEXT: Map342/events/1/pages/0/31/Dialogue < UNTRANSLATED
-> CONTEXT: Map326/events/1/pages/0/32/Dialogue < UNTRANSLATED
-> CONTEXT: Map056/events/1/pages/0/30/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map353/events/1/pages/0/31/Dialogue
+> CONTEXT: Map342/events/1/pages/0/31/Dialogue
+> CONTEXT: Map326/events/1/pages/0/32/Dialogue
+> CONTEXT: Map056/events/1/pages/0/30/Dialogue
+「Aaaa~ahh☆
 > END STRING
 
 > BEGIN STRING
 「ぶ～～っ！
 　ざんねんっ☆
-> CONTEXT: Map353/events/2/pages/1/23/Dialogue < UNTRANSLATED
-> CONTEXT: Map353/events/3/pages/1/23/Dialogue < UNTRANSLATED
-> CONTEXT: Map342/events/2/pages/1/23/Dialogue < UNTRANSLATED
-> CONTEXT: Map353/events/5/pages/1/23/Dialogue < UNTRANSLATED
-> CONTEXT: Map342/events/3/pages/1/23/Dialogue < UNTRANSLATED
-> CONTEXT: Map353/events/6/pages/1/23/Dialogue < UNTRANSLATED
-> CONTEXT: Map342/events/5/pages/1/23/Dialogue < UNTRANSLATED
-> CONTEXT: Map326/events/2/pages/1/23/Dialogue < UNTRANSLATED
-> CONTEXT: Map342/events/6/pages/1/23/Dialogue < UNTRANSLATED
-> CONTEXT: Map326/events/3/pages/1/23/Dialogue < UNTRANSLATED
-> CONTEXT: Map326/events/5/pages/1/23/Dialogue < UNTRANSLATED
-> CONTEXT: Map326/events/6/pages/1/23/Dialogue < UNTRANSLATED
-> CONTEXT: Map056/events/2/pages/1/23/Dialogue < UNTRANSLATED
-> CONTEXT: Map056/events/3/pages/1/23/Dialogue < UNTRANSLATED
-> CONTEXT: Map056/events/5/pages/1/23/Dialogue < UNTRANSLATED
-> CONTEXT: Map056/events/6/pages/1/22/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map353/events/2/pages/1/23/Dialogue
+> CONTEXT: Map353/events/3/pages/1/23/Dialogue
+> CONTEXT: Map342/events/2/pages/1/23/Dialogue
+> CONTEXT: Map353/events/5/pages/1/23/Dialogue
+> CONTEXT: Map342/events/3/pages/1/23/Dialogue
+> CONTEXT: Map353/events/6/pages/1/23/Dialogue
+> CONTEXT: Map342/events/5/pages/1/23/Dialogue
+> CONTEXT: Map326/events/2/pages/1/23/Dialogue
+> CONTEXT: Map342/events/6/pages/1/23/Dialogue
+> CONTEXT: Map326/events/3/pages/1/23/Dialogue
+> CONTEXT: Map326/events/5/pages/1/23/Dialogue
+> CONTEXT: Map326/events/6/pages/1/23/Dialogue
+> CONTEXT: Map056/events/2/pages/1/23/Dialogue
+> CONTEXT: Map056/events/3/pages/1/23/Dialogue
+> CONTEXT: Map056/events/5/pages/1/23/Dialogue
+> CONTEXT: Map056/events/6/pages/1/22/Dialogue
+「Boo~~!
+　Too bad☆
 > END STRING
 
 > BEGIN STRING
 ミミックのレベルが上がった！
-> CONTEXT: Map353/events/2/pages/1/27/Dialogue < UNTRANSLATED
-> CONTEXT: Map353/events/3/pages/1/27/Dialogue < UNTRANSLATED
-> CONTEXT: Map342/events/2/pages/1/27/Dialogue < UNTRANSLATED
-> CONTEXT: Map353/events/5/pages/1/27/Dialogue < UNTRANSLATED
-> CONTEXT: Map342/events/3/pages/1/27/Dialogue < UNTRANSLATED
-> CONTEXT: Map353/events/6/pages/1/27/Dialogue < UNTRANSLATED
-> CONTEXT: Map342/events/5/pages/1/27/Dialogue < UNTRANSLATED
-> CONTEXT: Map326/events/2/pages/1/27/Dialogue < UNTRANSLATED
-> CONTEXT: Map342/events/6/pages/1/27/Dialogue < UNTRANSLATED
-> CONTEXT: Map326/events/3/pages/1/27/Dialogue < UNTRANSLATED
-> CONTEXT: Map326/events/5/pages/1/27/Dialogue < UNTRANSLATED
-> CONTEXT: Map326/events/6/pages/1/27/Dialogue < UNTRANSLATED
-> CONTEXT: Map056/events/2/pages/1/27/Dialogue < UNTRANSLATED
-> CONTEXT: Map056/events/3/pages/1/27/Dialogue < UNTRANSLATED
-> CONTEXT: Map056/events/5/pages/1/27/Dialogue < UNTRANSLATED
-> CONTEXT: Map056/events/6/pages/1/26/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map353/events/2/pages/1/27/Dialogue
+> CONTEXT: Map353/events/3/pages/1/27/Dialogue
+> CONTEXT: Map342/events/2/pages/1/27/Dialogue
+> CONTEXT: Map353/events/5/pages/1/27/Dialogue
+> CONTEXT: Map342/events/3/pages/1/27/Dialogue
+> CONTEXT: Map353/events/6/pages/1/27/Dialogue
+> CONTEXT: Map342/events/5/pages/1/27/Dialogue
+> CONTEXT: Map326/events/2/pages/1/27/Dialogue
+> CONTEXT: Map342/events/6/pages/1/27/Dialogue
+> CONTEXT: Map326/events/3/pages/1/27/Dialogue
+> CONTEXT: Map326/events/5/pages/1/27/Dialogue
+> CONTEXT: Map326/events/6/pages/1/27/Dialogue
+> CONTEXT: Map056/events/2/pages/1/27/Dialogue
+> CONTEXT: Map056/events/3/pages/1/27/Dialogue
+> CONTEXT: Map056/events/5/pages/1/27/Dialogue
+> CONTEXT: Map056/events/6/pages/1/26/Dialogue
+Mimic's level has increased!
 > END STRING
 
 > BEGIN STRING
 「アタシを見つけてねっ☆
-> CONTEXT: Map353/events/4/pages/0/36/Dialogue < UNTRANSLATED
-> CONTEXT: Map342/events/4/pages/0/36/Dialogue < UNTRANSLATED
-> CONTEXT: Map326/events/4/pages/0/36/Dialogue < UNTRANSLATED
-> CONTEXT: Map056/events/4/pages/0/36/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map353/events/4/pages/0/36/Dialogue
+> CONTEXT: Map342/events/4/pages/0/36/Dialogue
+> CONTEXT: Map326/events/4/pages/0/36/Dialogue
+> CONTEXT: Map056/events/4/pages/0/36/Dialogue
+「Find me☆
 > END STRING
 
 > BEGIN STRING
 「ざんねんっ！
 　また次回～～っ☆
-> CONTEXT: Map326/events/7/pages/1/20/Dialogue < UNTRANSLATED
-> CONTEXT: Map326/events/8/pages/1/20/Dialogue < UNTRANSLATED
-> CONTEXT: Map056/events/7/pages/1/20/Dialogue < UNTRANSLATED
-> CONTEXT: Map056/events/8/pages/1/20/Dialogue < UNTRANSLATED
-> CONTEXT: Map353/events/7/pages/1/21/Dialogue < UNTRANSLATED
-> CONTEXT: Map353/events/8/pages/1/21/Dialogue < UNTRANSLATED
-> CONTEXT: Map342/events/7/pages/1/21/Dialogue < UNTRANSLATED
-> CONTEXT: Map342/events/8/pages/1/21/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map326/events/7/pages/1/20/Dialogue
+> CONTEXT: Map326/events/8/pages/1/20/Dialogue
+> CONTEXT: Map056/events/7/pages/1/20/Dialogue
+> CONTEXT: Map056/events/8/pages/1/20/Dialogue
+> CONTEXT: Map353/events/7/pages/1/21/Dialogue
+> CONTEXT: Map353/events/8/pages/1/21/Dialogue
+> CONTEXT: Map342/events/7/pages/1/21/Dialogue
+> CONTEXT: Map342/events/8/pages/1/21/Dialogue
+「Sorry!
+　See you next time~~☆
 > END STRING

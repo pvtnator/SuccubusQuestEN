@@ -12,7 +12,7 @@
 「魔王さまのかたきぃ！
 > CONTEXT: Map034/events/1/pages/0/80/Dialogue
 > CONTEXT: Map034/events/11/pages/0/72/Dialogue
-「The Demon King's vassal!
+「The Demon Lord's vassal!
 > END STRING
 
 > BEGIN STRING
@@ -34,14 +34,14 @@
 > CONTEXT: Map034/events/1/pages/0/85/Dialogue
 > CONTEXT: Map034/events/11/pages/0/77/Dialogue
 「So, um,
-　the Demon King's...erm...
+　the Demon Lord's...erm...
 > END STRING
 
 > BEGIN STRING
 「魔王さまをいじめたおしおき？
 > CONTEXT: Map034/events/1/pages/0/87/Dialogue
 > CONTEXT: Map034/events/11/pages/0/79/Dialogue
-「Punishment for tormenting the Demon King?
+「Punishment for tormenting the Demon Lord?
 > END STRING
 
 > BEGIN STRING

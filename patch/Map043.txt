@@ -4,7 +4,7 @@
 　勇者様も帰ってきて喜んでるみたいだけどさァ
 > CONTEXT: Map043/events/2/pages/0/1/Dialogue
 「Everyone seems happy that 
-　the Demon King has been defeated 
+　the Demon Lord has been defeated 
 　and the Hero has returned, but...
 > END STRING
 
@@ -159,7 +159,7 @@ There's a strange dent in the wall...
 「\\n[1]様が魔王討伐に出ている間、
 　グランマルさんったら心配して大変だったんですよ。
 > CONTEXT: Map043/events/7/pages/0/1/Dialogue
-「While you were away defeating the Demon King,
+「While you were away defeating the Demon Lord,
 　Granmal was really worried about you, Mr. \\n[1],
 　and it was really hard for him.
 > END STRING
@@ -185,7 +185,7 @@ There's a strange dent in the wall...
 「魔王がいなくなったってのに、
 　今まで以上に忙しくなった気がしますよ。
 > CONTEXT: Map043/events/10/pages/0/3/Dialogue
-「Even though the Demon King is gone, 
+「Even though the Demon Lord is gone, 
 　I feel like I'm busier than ever.
 > END STRING
 
@@ -287,7 +287,7 @@ There's a strange dent in the wall...
 　集めさせておいたのじゃ。
 > CONTEXT: Map043/events/18/pages/0/28/Dialogue
 「I had the materials relating to 
-succubi and Demon Kings collected 
+succubi and Demon Lords collected 
 at the \\c[1]Royal Library\\c[0].
 > END STRING
 

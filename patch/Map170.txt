@@ -31,11 +31,11 @@
 
 > BEGIN STRING
 「\\n[1]ッ！
-> CONTEXT: Map170/events/1/pages/0/111/Dialogue < UNTRANSLATED
-> CONTEXT: Map171/events/8/pages/1/17/Dialogue < UNTRANSLATED
-> CONTEXT: Map160/events/6/pages/0/213/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/331/pages/3/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map170/events/1/pages/0/111/Dialogue
+> CONTEXT: Map171/events/8/pages/1/17/Dialogue
+> CONTEXT: Map160/events/6/pages/0/213/Dialogue
+> CONTEXT: Troops/331/pages/3/13/Dialogue
+「\\n[1]！
 > END STRING
 
 > BEGIN STRING
@@ -73,9 +73,10 @@
 > BEGIN STRING
 「コワがらなくていいのよ。
 　私はルヴィッサ。
-> CONTEXT: Map170/events/1/pages/0/252/Dialogue < UNTRANSLATED
-> CONTEXT: Map061/events/19/pages/0/58/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map170/events/1/pages/0/252/Dialogue
+> CONTEXT: Map061/events/19/pages/0/58/Dialogue
+「No need to be scared.
+　I'm Rovissa.
 > END STRING
 
 > BEGIN STRING
@@ -100,8 +101,8 @@
 
 > BEGIN STRING
 "兵士"
-> CONTEXT: Map170/events/1/pages/0/351/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map170/events/1/pages/0/351/InlineScript/1:4
+"Soldier"
 > END STRING
 
 > BEGIN STRING

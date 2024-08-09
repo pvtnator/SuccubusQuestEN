@@ -43,7 +43,7 @@ The door is locked
 > CONTEXT: Map014/events/11/pages/0/1/Dialogue
 「Oh, hero! 
 　I heard that you have 
-　finally defeated the Demon King!
+　finally defeated the Demon Lord!
 > END STRING
 
 > BEGIN STRING
@@ -97,7 +97,7 @@ The door is locked
 > CONTEXT: Map014/events/14/pages/0/3/Dialogue
 「I wonder how such beautiful water 
 　can bubble up from the mountain 
-　where the terrifying Demon King's castle stands.
+　where the terrifying Demon Lord's castle stands.
 > END STRING
 
 > BEGIN STRING
@@ -106,7 +106,7 @@ The door is locked
 　すみついてしまったそうですね。
 > CONTEXT: Map014/events/14/pages/1/1/Dialogue
 「I heard a rumor that a monster 
-　more terrifying than the Demon King 
+　more terrifying than the Demon Lord 
 　has taken up residence in Vidvin.
 > END STRING
 
@@ -144,7 +144,7 @@ The door is locked
 　一体ヴィドヴィンで
 　何が起こってるんでしょう……
 > CONTEXT: Map014/events/15/pages/0/7/Dialogue
-「The hero defeated the Demon King, 
+「The hero defeated the Demon Lord, 
 　so what on earth 
 　is going on in Vidvin?
 > END STRING
@@ -164,7 +164,7 @@ The door is locked
 　おそとであそんでいいんだってね！
 > CONTEXT: Map014/events/16/pages/0/1/Dialogue
 > CONTEXT: Map014/events/19/pages/0/1/Dialogue
-「Because the hero defeated the Demon King, 
+「Because the hero defeated the Demon Lord, 
 　we can go outside and play!
 > END STRING
 
@@ -404,7 +404,7 @@ The door is locked
 「魔王に滅ぼされて今は何もない廃墟だが、
 　一休みぐらいできるかもな。
 > CONTEXT: Map014/events/22/pages/3/3/Dialogue
-「It was destroyed by the Demon King 
+「It was destroyed by the Demon Lord 
 　and is now just a ruin,
 　but maybe you can take a rest there.
 > END STRING
@@ -490,7 +490,7 @@ The door is locked
 「魔王もいなくなったはずなのに、
 　一体どうなってんのかなァ……
 > CONTEXT: Map014/events/23/pages/0/7/Dialogue
-「The Demon King is gone,
+「The Demon Lord is gone,
 　so I wonder what's going on...
 > END STRING
 

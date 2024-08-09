@@ -8,36 +8,36 @@
 
 > BEGIN STRING
 "夢魔"
-> CONTEXT: Map228/events/2/pages/0/22/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map228/events/2/pages/0/32/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map222/events/9/pages/0/53/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map222/events/9/pages/0/58/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map170/events/1/pages/0/455/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map170/events/1/pages/0/472/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map170/events/1/pages/0/534/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map193/events/17/pages/0/73/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map146/events/7/pages/0/26/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map146/events/7/pages/0/33/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map146/events/7/pages/0/53/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map146/events/7/pages/0/57/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map146/events/7/pages/0/70/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map146/events/7/pages/0/74/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map146/events/7/pages/0/76/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map132/events/1/pages/0/37/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map132/events/1/pages/0/41/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map132/events/8/pages/0/37/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map132/events/8/pages/0/41/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map129/events/12/pages/0/22/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map129/events/12/pages/0/27/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map129/events/12/pages/0/32/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map129/events/12/pages/0/37/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map132/events/9/pages/0/37/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map132/events/9/pages/0/41/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map072/events/9/pages/0/3/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map072/events/9/pages/0/23/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map058/events/6/pages/0/46/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/308/1/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map228/events/2/pages/0/22/InlineScript/1:4
+> CONTEXT: Map228/events/2/pages/0/32/InlineScript/1:4
+> CONTEXT: Map222/events/9/pages/0/53/InlineScript/1:4
+> CONTEXT: Map222/events/9/pages/0/58/InlineScript/1:4
+> CONTEXT: Map170/events/1/pages/0/455/InlineScript/1:4
+> CONTEXT: Map170/events/1/pages/0/472/InlineScript/1:4
+> CONTEXT: Map170/events/1/pages/0/534/InlineScript/1:4
+> CONTEXT: Map193/events/17/pages/0/73/InlineScript/1:4
+> CONTEXT: Map146/events/7/pages/0/26/InlineScript/1:4
+> CONTEXT: Map146/events/7/pages/0/33/InlineScript/1:4
+> CONTEXT: Map146/events/7/pages/0/53/InlineScript/1:4
+> CONTEXT: Map146/events/7/pages/0/57/InlineScript/1:4
+> CONTEXT: Map146/events/7/pages/0/70/InlineScript/1:4
+> CONTEXT: Map146/events/7/pages/0/74/InlineScript/1:4
+> CONTEXT: Map146/events/7/pages/0/76/InlineScript/1:4
+> CONTEXT: Map132/events/1/pages/0/37/InlineScript/1:4
+> CONTEXT: Map132/events/1/pages/0/41/InlineScript/1:4
+> CONTEXT: Map132/events/8/pages/0/37/InlineScript/1:4
+> CONTEXT: Map132/events/8/pages/0/41/InlineScript/1:4
+> CONTEXT: Map129/events/12/pages/0/22/InlineScript/1:4
+> CONTEXT: Map129/events/12/pages/0/27/InlineScript/1:4
+> CONTEXT: Map129/events/12/pages/0/32/InlineScript/1:4
+> CONTEXT: Map129/events/12/pages/0/37/InlineScript/1:4
+> CONTEXT: Map132/events/9/pages/0/37/InlineScript/1:4
+> CONTEXT: Map132/events/9/pages/0/41/InlineScript/1:4
+> CONTEXT: Map072/events/9/pages/0/3/InlineScript/1:4
+> CONTEXT: Map072/events/9/pages/0/23/InlineScript/1:4
+> CONTEXT: Map058/events/6/pages/0/46/InlineScript/1:4
+> CONTEXT: Commonevents/308/1/InlineScript/1:4
+"Succubus"
 > END STRING
 
 > BEGIN STRING

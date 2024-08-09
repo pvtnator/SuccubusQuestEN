@@ -195,8 +195,8 @@
 > BEGIN STRING
 「魔王は…魔王はどうなったのよ？
 > CONTEXT: Map012/events/11/pages/0/319/Dialogue
-「The Demon King... 
-　What happened to the Demon King?
+「The Demon Lord... 
+　What happened to the Demon Lord?
 > END STRING
 
 > BEGIN STRING
@@ -219,7 +219,7 @@
 「あたしたちは魔王を倒しに来て、
 　\\n[1]が勇者で、それで、
 > CONTEXT: Map012/events/11/pages/0/326/Dialogue
-「We came to defeat the Demon King,
+「We came to defeat the Demon Lord,
 　\\n[1] is the hero, and,
 > END STRING
 

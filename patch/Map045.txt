@@ -23,7 +23,7 @@
 　もうお歳は40に近いはずなのよね。
 > CONTEXT: Map045/events/4/pages/0/1/Dialogue
 「Lord Magnus ascended to the throne 
-　just when the Demon King appeared, 
+　just when the Demon Lord appeared, 
 　so he must be close to 40 years old.
 > END STRING
 

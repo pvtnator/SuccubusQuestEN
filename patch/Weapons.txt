@@ -103,8 +103,8 @@
 
 > BEGIN STRING
 ロイヤルカジュアル/3/0/0
-> CONTEXT: Weapons/13/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/13/name/
+Royal Casual/3/0/0
 > END STRING
 
 > BEGIN STRING

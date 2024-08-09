@@ -11,77 +11,88 @@ SQ_Town02
 
 > BEGIN STRING
 「この宿に滞在し、はや幾日……
-> CONTEXT: Map050/events/1/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map050/events/1/pages/0/1/Dialogue
+「I've been staying at this inn for several days now...
 > END STRING
 
 > BEGIN STRING
 「未だ『裏の宿』が
 　どこにあるのか分からん……
 　うううむ………
-> CONTEXT: Map050/events/1/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map050/events/1/pages/0/2/Dialogue
+「I still don't know where 
+　'Back of the Inn' is...
+　Hmmmm...
 > END STRING
 
 > BEGIN STRING
 「………こ…これが裏の………
 　ついに……ｚｚ……………
-> CONTEXT: Map050/events/1/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map050/events/1/pages/1/1/Dialogue
+「...th...this is the back...
+　Finally...zz...
 > END STRING
 
 > BEGIN STRING
 「宿屋、王の休息へようこそ。
-> CONTEXT: Map050/events/2/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map050/events/2/pages/0/1/Dialogue
+「Welcome to the inn, King's Rest.
 > END STRING
 
 > BEGIN STRING
 「そこの隣のテーブルに座ってる方、
 　ちょっと素敵じゃない？
-> CONTEXT: Map050/events/3/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map050/events/3/pages/0/1/Dialogue
+「Isn't the person sitting at the other table
+　a rather lovely person?
 > END STRING
 
 > BEGIN STRING
 「いつも真剣な顔で何か考えてて……
 　きっと有名な作家さんか何かよ\\e[0]
-> CONTEXT: Map050/events/3/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map050/events/3/pages/0/3/Dialogue
+「He always has a serious look on his face 
+　and is thinking about something...
+　He must be a famous author or something\\e[0]
 > END STRING
 
 > BEGIN STRING
 「隣のテーブルの方、
 　急に眠り込んじゃったの。
-> CONTEXT: Map050/events/3/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map050/events/3/pages/1/1/Dialogue
+「The person at the other table 
+　suddenly fell asleep.
 > END STRING
 
 > BEGIN STRING
 「きっと疲れてたのね……
-> CONTEXT: Map050/events/3/pages/1/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map050/events/3/pages/1/3/Dialogue
+「Must've been tired...
 > END STRING
 
 > BEGIN STRING
 「…介抱して部屋まで連れてったら
 　お近づきになれるかしら\\e[0]
-> CONTEXT: Map050/events/3/pages/1/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map050/events/3/pages/1/4/Dialogue
+「...If I take care of him 
+　and take him to my room, 
+　maybe we can get closer\\e[0]
 > END STRING
 
 > BEGIN STRING
 「おとうさんが　やどやに　いっちゃって、
 　わたしたち　いいこで　おるすばんなの！
-> CONTEXT: Map050/events/6/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map050/events/6/pages/0/1/Dialogue
+「Daddy had to go to the inn,
+　so we're good kids and stay!
 > END STRING
 
 > BEGIN STRING
 「でも　やどやって　ここだよね？
 　へんなの！
-> CONTEXT: Map050/events/6/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map050/events/6/pages/0/3/Dialogue
+「But this is the inn, right?
+　That's weird!
 > END STRING
 
 > BEGIN STRING
@@ -95,41 +106,45 @@ SQ_Town02
 > BEGIN STRING
 「ねえねえ、
 　たからさがし　しようよ！
-> CONTEXT: Map050/events/7/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map050/events/7/pages/0/1/Dialogue
+「Hey hey,
+　let's play treasure hunt!
 > END STRING
 
 > BEGIN STRING
 「たからさがし　しようよ！」
-> CONTEXT: Map050/events/7/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map050/events/7/pages/0/4/Dialogue
+「Let's play treasure hunt!"
 > END STRING
 
 > BEGIN STRING
 「このへやに　たからもの　かくしたんだ！
 　さがしてみて！
-> CONTEXT: Map050/events/7/pages/0/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map050/events/7/pages/0/8/Dialogue
+「I've hidden treasure in this room! 
+　Go and find it!
 > END STRING
 
 > BEGIN STRING
 「つまんないの！
-> CONTEXT: Map050/events/7/pages/0/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map050/events/7/pages/0/14/Dialogue
+「Boring!
 > END STRING
 
 > BEGIN STRING
 「やったね！　おめでとう！
-> CONTEXT: Map050/events/7/pages/1/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map050/events/7/pages/1/2/Dialogue
+「Good job! Congratulations!
 > END STRING
 
 > BEGIN STRING
 「それは　たからものだから
 　あげられないけど、
 　かわりに　これ　あげるよ！
-> CONTEXT: Map050/events/7/pages/1/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map050/events/7/pages/1/3/Dialogue
+「That's a treasure, 
+　so I can't give it to you, 
+　but I'll give you this instead!
 > END STRING
 
 > BEGIN STRING
@@ -142,113 +157,118 @@ got a \\c[3]Butterfly Brooch\\c[0] in return!
 
 > BEGIN STRING
 「また　あそぼうね！
-> CONTEXT: Map050/events/7/pages/1/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map050/events/7/pages/1/13/Dialogue
+「Let's play again!
 > END STRING
 
 > BEGIN STRING
 「いちど　しらべたからって
 　おしまいとおもっちゃ　おおまちがいだよ！
-> CONTEXT: Map050/events/7/pages/1/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map050/events/7/pages/1/19/Dialogue
+「Just because you've checked it once, 
+　don't think that's the end of it!
 > END STRING
 
 > BEGIN STRING
 「おとうさん　まだかなあ……
-> CONTEXT: Map050/events/7/pages/2/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map050/events/7/pages/3/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map050/events/7/pages/2/1/Dialogue
+> CONTEXT: Map050/events/7/pages/3/1/Dialogue
+「Dad, aren't you ready yet...
 > END STRING
 
 > BEGIN STRING
 \\n[1]は棚の引き出しを調べた
-> CONTEXT: Map050/events/8/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map050/events/9/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map050/events/8/pages/0/1/Dialogue
+> CONTEXT: Map050/events/9/pages/0/1/Dialogue
+\\n[1] checked the shelf drawers.
 > END STRING
 
 > BEGIN STRING
 特に変わったものは無いようだ
-> CONTEXT: Map050/events/8/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map050/events/9/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map050/events/9/pages/2/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map050/events/8/pages/0/2/Dialogue
+> CONTEXT: Map050/events/9/pages/0/2/Dialogue
+> CONTEXT: Map050/events/9/pages/2/2/Dialogue
+Doesn't seem to be anything here
 > END STRING
 
 > BEGIN STRING
 \\n[1]は棚をよく調べた
-> CONTEXT: Map050/events/9/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map050/events/9/pages/1/1/Dialogue
+\\n[1] examined the shelves carefully.
 > END STRING
 
 > BEGIN STRING
 なんと、棚の裏側に
 \\c[4]オモチャの剣\\c[0]が隠してあった！
-> CONTEXT: Map050/events/9/pages/1/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map050/events/9/pages/1/2/Dialogue
+There was a \\c[4]Toy Sword\\c[0] 
+hidden behind the shelf!
 > END STRING
 
 > BEGIN STRING
 \\n[1]は棚を調べた
-> CONTEXT: Map050/events/9/pages/2/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map050/events/9/pages/2/1/Dialogue
+\\n[1] examined the shelves.
 > END STRING
 
 > BEGIN STRING
 \\n[1]は額に入った絵を調べた
-> CONTEXT: Map050/events/10/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map050/events/10/pages/0/1/Dialogue
+\\n[1] examined the framed painting.
 > END STRING
 
 > BEGIN STRING
 普通の風景画のようだ
-> CONTEXT: Map050/events/10/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map050/events/10/pages/0/2/Dialogue
+It looks like an ordinary landscape painting.
 > END STRING
 
 > BEGIN STRING
 \\n[1]はイスとテーブルを調べた
-> CONTEXT: Map050/events/11/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map050/events/12/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map050/events/11/pages/0/1/Dialogue
+> CONTEXT: Map050/events/12/pages/0/1/Dialogue
+\\n[1] examined the chair and table.
 > END STRING
 
 > BEGIN STRING
 特に何もみあたらない
-> CONTEXT: Map050/events/11/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map050/events/12/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map050/events/13/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map050/events/14/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map050/events/15/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map050/events/11/pages/0/2/Dialogue
+> CONTEXT: Map050/events/12/pages/0/2/Dialogue
+> CONTEXT: Map050/events/13/pages/0/2/Dialogue
+> CONTEXT: Map050/events/14/pages/0/2/Dialogue
+> CONTEXT: Map050/events/15/pages/0/2/Dialogue
+Nothing in particular
 > END STRING
 
 > BEGIN STRING
 \\n[1]は灯り台を調べた
-> CONTEXT: Map050/events/13/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map050/events/13/pages/0/1/Dialogue
+\\n[1] examined the lighthouse
 > END STRING
 
 > BEGIN STRING
 \\n[1]はベッドを調べた
-> CONTEXT: Map050/events/14/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map050/events/15/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map050/events/14/pages/0/1/Dialogue
+> CONTEXT: Map050/events/15/pages/0/1/Dialogue
+\\n[1] examined the bed.
 > END STRING
 
 > BEGIN STRING
 「北西のフリーベリの町は、
 　人魚の町と呼ばれています。
-> CONTEXT: Map050/events/16/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map050/events/16/pages/0/1/Dialogue
+「The town of Friberg in the northwest 
+　is known as the mermaid town.
 > END STRING
 
 > BEGIN STRING
 「その昔人間と恋に落ちた人魚がいたという
 　伝説からそう呼ばれているそうです。
 　ロマンチックですね。
-> CONTEXT: Map050/events/16/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map050/events/16/pages/0/3/Dialogue
+「It's said that the name comes from a legend 
+　of a mermaid who once fell in love with a human. 
+　How romantic.
 > END STRING
 
 > BEGIN STRING

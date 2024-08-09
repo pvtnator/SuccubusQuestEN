@@ -124,65 +124,65 @@
 
 > BEGIN STRING
 東の街道（ラウム方面）
-> CONTEXT: Map039/events/18/pages/0/2/Choice/0 < UNTRANSLATED
-> CONTEXT: Map039/events/18/pages/1/2/Choice/0 < UNTRANSLATED
-> CONTEXT: Map039/events/18/pages/2/2/Choice/0 < UNTRANSLATED
-> CONTEXT: Map039/events/18/pages/3/2/Choice/0 < UNTRANSLATED
-> CONTEXT: Map039/events/19/pages/0/2/Choice/0 < UNTRANSLATED
-> CONTEXT: Map039/events/19/pages/1/2/Choice/0 < UNTRANSLATED
-> CONTEXT: Map039/events/19/pages/2/2/Choice/0 < UNTRANSLATED
-> CONTEXT: Map039/events/19/pages/3/2/Choice/0 < UNTRANSLATED
-> CONTEXT: Map039/events/20/pages/0/2/Choice/0 < UNTRANSLATED
-> CONTEXT: Map039/events/20/pages/1/2/Choice/0 < UNTRANSLATED
-> CONTEXT: Map039/events/20/pages/2/2/Choice/0 < UNTRANSLATED
-> CONTEXT: Map039/events/20/pages/3/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Map039/events/18/pages/0/2/Choice/0
+> CONTEXT: Map039/events/18/pages/1/2/Choice/0
+> CONTEXT: Map039/events/18/pages/2/2/Choice/0
+> CONTEXT: Map039/events/18/pages/3/2/Choice/0
+> CONTEXT: Map039/events/19/pages/0/2/Choice/0
+> CONTEXT: Map039/events/19/pages/1/2/Choice/0
+> CONTEXT: Map039/events/19/pages/2/2/Choice/0
+> CONTEXT: Map039/events/19/pages/3/2/Choice/0
+> CONTEXT: Map039/events/20/pages/0/2/Choice/0
+> CONTEXT: Map039/events/20/pages/1/2/Choice/0
+> CONTEXT: Map039/events/20/pages/2/2/Choice/0
+> CONTEXT: Map039/events/20/pages/3/2/Choice/0
 Eastern Road (towards Raum)
 > END STRING
 
 > BEGIN STRING
 ドラウムニョルのほこら
-> CONTEXT: Map039/events/18/pages/1/2/Choice/1 < UNTRANSLATED
-> CONTEXT: Map039/events/18/pages/2/2/Choice/2 < UNTRANSLATED
-> CONTEXT: Map039/events/18/pages/3/2/Choice/2 < UNTRANSLATED
-> CONTEXT: Map039/events/19/pages/1/2/Choice/1 < UNTRANSLATED
-> CONTEXT: Map039/events/19/pages/2/2/Choice/2 < UNTRANSLATED
-> CONTEXT: Map039/events/19/pages/3/2/Choice/2 < UNTRANSLATED
-> CONTEXT: Map039/events/20/pages/1/2/Choice/1 < UNTRANSLATED
-> CONTEXT: Map039/events/20/pages/2/2/Choice/2 < UNTRANSLATED
-> CONTEXT: Map039/events/20/pages/3/2/Choice/2 < UNTRANSLATED
+> CONTEXT: Map039/events/18/pages/1/2/Choice/1
+> CONTEXT: Map039/events/18/pages/2/2/Choice/2
+> CONTEXT: Map039/events/18/pages/3/2/Choice/2
+> CONTEXT: Map039/events/19/pages/1/2/Choice/1
+> CONTEXT: Map039/events/19/pages/2/2/Choice/2
+> CONTEXT: Map039/events/19/pages/3/2/Choice/2
+> CONTEXT: Map039/events/20/pages/1/2/Choice/1
+> CONTEXT: Map039/events/20/pages/2/2/Choice/2
+> CONTEXT: Map039/events/20/pages/3/2/Choice/2
 Draumnior Shrine
 > END STRING
 
 > BEGIN STRING
 西の街道（フリーベリ・ドゥヂチ方面）
-> CONTEXT: Map039/events/18/pages/2/2/Choice/1 < UNTRANSLATED
-> CONTEXT: Map039/events/18/pages/3/2/Choice/1 < UNTRANSLATED
-> CONTEXT: Map039/events/19/pages/2/2/Choice/1 < UNTRANSLATED
-> CONTEXT: Map039/events/19/pages/3/2/Choice/1 < UNTRANSLATED
-> CONTEXT: Map039/events/20/pages/2/2/Choice/1 < UNTRANSLATED
-> CONTEXT: Map039/events/20/pages/3/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Map039/events/18/pages/2/2/Choice/1
+> CONTEXT: Map039/events/18/pages/3/2/Choice/1
+> CONTEXT: Map039/events/19/pages/2/2/Choice/1
+> CONTEXT: Map039/events/19/pages/3/2/Choice/1
+> CONTEXT: Map039/events/20/pages/2/2/Choice/1
+> CONTEXT: Map039/events/20/pages/3/2/Choice/1
 Western Road (towards Friberg-Dodichi)
 > END STRING
 
 > BEGIN STRING
 ロドヴィン火山
-> CONTEXT: Map039/events/18/pages/3/2/Choice/3 < UNTRANSLATED
-> CONTEXT: Map039/events/19/pages/3/2/Choice/3 < UNTRANSLATED
-> CONTEXT: Map039/events/20/pages/3/2/Choice/3 < UNTRANSLATED
+> CONTEXT: Map039/events/18/pages/3/2/Choice/3
+> CONTEXT: Map039/events/19/pages/3/2/Choice/3
+> CONTEXT: Map039/events/20/pages/3/2/Choice/3
 Lodvin Volcano
 > END STRING
 
 > BEGIN STRING
 「あら、あなた、
 　珍しい指輪を持ってるわね。
-> CONTEXT: Map039/events/43/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map039/events/43/pages/0/2/Dialogue
 「Oho, you have a unique ring.
 > END STRING
 
 > BEGIN STRING
 「変わった魔力を感じるわ。
 　でもまだ眠ってるような……
-> CONTEXT: Map039/events/43/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map039/events/43/pages/0/4/Dialogue
 「I sense a strange magical power.
 But it seems as if it's still asleep...
 > END STRING
@@ -190,7 +190,7 @@ But it seems as if it's still asleep...
 > BEGIN STRING
 「どこか特別な場所で、
 　力を引き出したりできるんじゃないかしら？
-> CONTEXT: Map039/events/43/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map039/events/43/pages/0/6/Dialogue
 「Maybe there's some special place 
 where you can draw out its powers?
 > END STRING
@@ -267,27 +267,30 @@ home of the Wise King!
 「あっ、勇者様！
 　賢王様をご存知ありませんか？
 > CONTEXT: Map039/events/48/pages/1/1/Dialogue < UNTRANSLATED
-
+「Ah, Hero!
+　Do you know the Wise King?
 > END STRING
 
 > BEGIN STRING
 「急にいなくなってしまったんですって……。
 　お城の人たちも探してますわ。
 > CONTEXT: Map039/events/48/pages/1/3/Dialogue < UNTRANSLATED
-
+「He suddenly disappeared...
+　The people at the castle are also looking for him.
 > END STRING
 
 > BEGIN STRING
 「あ、勇者さま！
 > CONTEXT: Map039/events/48/pages/2/3/Dialogue < UNTRANSLATED
-
+「Ah, Hero!
 > END STRING
 
 > BEGIN STRING
 「何か………
 　より立派になられましたね…\\e[0]
 > CONTEXT: Map039/events/48/pages/2/4/Dialogue < UNTRANSLATED
-
+「Somehow...
+　You've become even more impressive...\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -296,7 +299,8 @@ home of the Wise King!
 > CONTEXT: Map039/events/49/pages/0/1/Dialogue < UNTRANSLATED
 > CONTEXT: Map039/events/49/pages/1/1/Dialogue < UNTRANSLATED
 > CONTEXT: Map039/events/49/pages/2/1/Dialogue < UNTRANSLATED
-
+「I'm patrolling the castle town 
+　to see if there is anyone suspicious.
 > END STRING
 
 > BEGIN STRING
@@ -306,21 +310,25 @@ home of the Wise King!
 > CONTEXT: Map039/events/49/pages/0/3/Dialogue < UNTRANSLATED
 > CONTEXT: Map039/events/49/pages/1/3/Dialogue < UNTRANSLATED
 > CONTEXT: Map039/events/49/pages/2/3/Dialogue < UNTRANSLATED
-
+「Now that the hero has returned,
+　there may be no need for that anymore.
+　Hahhahha
 > END STRING
 
 > BEGIN STRING
 「え、賢王様？
 　さあ、私は存じませんが……。
 > CONTEXT: Map039/events/49/pages/1/6/Dialogue < UNTRANSLATED
-
+「Eh, Wise King?
+　I don't know...
 > END STRING
 
 > BEGIN STRING
 「そこかしこで、
 　急に眠りだす者が増えているようです。
 > CONTEXT: Map039/events/49/pages/3/1/Dialogue < UNTRANSLATED
-
+「All over the place, more and more people
+　are suddenly falling asleep.
 > END STRING
 
 > BEGIN STRING
@@ -328,7 +336,9 @@ home of the Wise King!
 　賢王様も無事戻られたとはいえ、
 　気がゆるみすぎです。まったく。
 > CONTEXT: Map039/events/49/pages/3/3/Dialogue < UNTRANSLATED
-
+「Even though the Demon Lord is gone 
+　and the Wise King has returned safely, 
+　you're still being far too relaxed. Seriously.
 > END STRING
 
 > BEGIN STRING
@@ -374,27 +384,31 @@ home of the Wise King!
 > BEGIN STRING
 「……なんか用かい？
 > CONTEXT: Map039/events/51/pages/0/1/Dialogue
-"...Do you need something?
+「...Do you need something?
 > END STRING
 
 > BEGIN STRING
 \\c[4]ミランダ紹介状\\c[0]を見せますか？
-> CONTEXT: Map039/events/51/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map039/events/51/pages/0/4/Dialogue
+Show the \\c[4]Miranda Referral\\c[0]?
 > END STRING
 
 > BEGIN STRING
 「……入り口はここの突き当りを右だ。
 　行儀良くしろよ。
-> CONTEXT: Map039/events/51/pages/0/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map039/events/51/pages/0/8/Dialogue
+「...The entrance is at the 
+　end of the path to the right.
+　Behave yourself.
 > END STRING
 
 > BEGIN STRING
 「入り口はここの突き当りを右だ。
 　行儀良くしろよ。
-> CONTEXT: Map039/events/52/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map039/events/52/pages/1/1/Dialogue
+「The entrance is at the 
+　end of the path to the right.
+　Behave yourself.
 > END STRING
 
 > BEGIN STRING
@@ -410,7 +424,7 @@ home of the Wise King!
 > CONTEXT: Map039/events/53/pages/0/2/Dialogue
 「As you can see, Gruppen has managed to continue 
 　defending the town even in the face of 
-　the Demon King's attacks.
+　the Demon Lord's attacks.
 > END STRING
 
 > BEGIN STRING
@@ -480,7 +494,7 @@ Sleeping with a calm face...
 　ついに魔王を倒したんですってね！
 > CONTEXT: Map039/events/57/pages/0/1/Dialogue
 「Hero!
-　I hear you've finally defeated the Demon King!
+　I hear you've finally defeated the Demon Lord!
 　I'm very grateful.
 > END STRING
 
@@ -537,7 +551,7 @@ Sleeping with a calm face...
 > BEGIN STRING
 「ここグルッペンからは、
 　東西にグルッペン街道が伸びています。
-> CONTEXT: Map039/events/60/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map039/events/60/pages/0/1/Dialogue
 「From here in Gruppen,
 　the Gruppen Road stretches east and west.
 > END STRING
@@ -546,7 +560,7 @@ Sleeping with a calm face...
 「東はラウムとシプリ
 　西はフリーベリに通じていますが、
 　今は潰されていて通れません。
-> CONTEXT: Map039/events/60/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map039/events/60/pages/0/3/Dialogue
 「To the east it leads to Raum and Sipuli, 
 　and to the west to Friberg, 
 　but it's now blocked off and impassable.
@@ -556,7 +570,7 @@ Sleeping with a calm face...
 「でも兵士の方々が頑張って
 　復旧作業を進めているので、
 　きっとすぐにでも通れるようになると思いますよ。
-> CONTEXT: Map039/events/60/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map039/events/60/pages/0/6/Dialogue
 「But the soldiers are working hard
 　to restore the bridge, 
 　so I'm sure it will be passable again soon.
@@ -565,19 +579,19 @@ Sleeping with a calm face...
 > BEGIN STRING
 「兵士の方々が、
 　慌てた様子でお城の方へ走ってました。
-> CONTEXT: Map039/events/60/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map039/events/60/pages/1/1/Dialogue
 「The soldiers were running towards the castle in a panic.
 > END STRING
 
 > BEGIN STRING
 「お城で何かあったのでしょうか……？
-> CONTEXT: Map039/events/60/pages/1/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map039/events/60/pages/1/3/Dialogue
 「Did something happen at the castle?
 > END STRING
 
 > BEGIN STRING
 「フリーベリへの街道が復旧したみたいですね。
-> CONTEXT: Map039/events/60/pages/2/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map039/events/60/pages/2/1/Dialogue
 「Looks like the road to Friberg has been restored.
 > END STRING
 
@@ -609,7 +623,7 @@ Sleeping with a calm face...
 （最近人どもが急にぱたぱた
 　眠りだしまして、へえ、
 　大変なことになってござんすな。
-> CONTEXT: Map039/events/61/pages/1/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map039/events/61/pages/1/3/Dialogue
 (Recently, people have 
 　suddenly started falling asleep, 
 　and it's quite a big deal.
@@ -643,7 +657,7 @@ Sleeping with a calm face...
 　思ってたら、本当にその通りだったの！
 > CONTEXT: Map039/events/62/pages/0/3/Dialogue
 「I thought it was a sign that the hero 
-　had defeated the demon king, 
+　had defeated the Demon Lord, 
 　and it turned out that it was!
 > END STRING
 

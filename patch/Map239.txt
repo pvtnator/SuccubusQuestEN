@@ -128,12 +128,12 @@
 
 > BEGIN STRING
 "ストゥーナ＆メローナ"
-> CONTEXT: Map239/events/4/pages/0/115/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map239/events/8/pages/0/10/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map239/events/10/pages/0/10/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map239/events/11/pages/0/10/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map058/events/6/pages/0/70/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map239/events/4/pages/0/115/InlineScript/1:4
+> CONTEXT: Map239/events/8/pages/0/10/InlineScript/1:4
+> CONTEXT: Map239/events/10/pages/0/10/InlineScript/1:4
+> CONTEXT: Map239/events/11/pages/0/10/InlineScript/1:4
+> CONTEXT: Map058/events/6/pages/0/70/InlineScript/1:4
+"Merona & Stona"
 > END STRING
 
 > BEGIN STRING

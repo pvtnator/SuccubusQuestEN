@@ -44,7 +44,7 @@ Yelbel Gorge
 > BEGIN STRING
 「魔王に滅ぼされた廃墟か。
 > CONTEXT: Map036/events/4/pages/0/18/Dialogue
-「Ruins destroyed by the Demon King?
+「Ruins destroyed by the Demon Lord?
 > END STRING
 
 > BEGIN STRING

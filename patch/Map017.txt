@@ -88,7 +88,7 @@
 　魔王倒しちまってもう魔物はいねえって話だろ？
 　それで洋服屋に鞍替えしたんだ。
 > CONTEXT: Map017/events/4/pages/0/2/Dialogue
-「...But then the hero defeated the Demon King 
+「...But then the hero defeated the Demon Lord 
 　and there were no more monsters, right? 
 　So we switched to a clothing store.
 > END STRING
@@ -243,7 +243,7 @@
 　倒すべき敵もいなくなったってことですね！
 　ハハハハハハ！
 > CONTEXT: Map017/events/8/pages/0/9/Dialogue
-「Oh, I see! Now that you've defeated the Demon King, 
+「Oh, I see! Now that you've defeated the Demon Lord, 
 　that means there are no more enemies to defeat! 
 　Hahahahaha!
 > END STRING
@@ -276,7 +276,7 @@
 「アレだろ、もう魔王が倒されたから
 　武器とかいらなくなったんだろ？
 > CONTEXT: Map017/events/11/pages/0/1/Dialogue
-「You know, the Demon King has been defeated, 
+「You know, the Demon Lord has been defeated, 
 　so there's no need for weapons anymore, right?
 > END STRING
 

@@ -1,59 +1,63 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 "魔物"
-> CONTEXT: Map057/events/1/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map055/events/2/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map057/events/16/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map054/events/14/pages/0/0/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map057/events/1/pages/0/0/InlineScript/1:4
+> CONTEXT: Map055/events/2/pages/0/0/InlineScript/1:4
+> CONTEXT: Map057/events/16/pages/0/0/InlineScript/1:4
+> CONTEXT: Map054/events/14/pages/0/0/InlineScript/1:4
 "Demon"
 > END STRING
 
 > BEGIN STRING
 「！………
 　それは……\\c[4]魔王のかけら\\c[0]………
-> CONTEXT: Map057/events/1/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map057/events/1/pages/0/1/Dialogue
+「! ...
+　This is...\\c[4]a Demon Lord Shard\\c[0]...
 > END STRING
 
 > BEGIN STRING
 「良かった……
 　魔王様………これで……
-> CONTEXT: Map057/events/1/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map057/events/1/pages/0/3/Dialogue
+「Good...
+　Demon Lord...now...
 > END STRING
 
 > BEGIN STRING
 「ドラウムニョル……あそこには…………
-> CONTEXT: Map057/events/1/pages/0/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map057/events/1/pages/0/5/Dialogue
+「Draumnior... there is...
 > END STRING
 
 > BEGIN STRING
 「…………頼む…………
 　俺はもうだめだ……フニャフニャに……
-> CONTEXT: Map057/events/1/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map057/events/1/pages/0/6/Dialogue
+「.....Please... ..
+　I can't take it anymore... I'm so soft...
 > END STRING
 
 > BEGIN STRING
 魔物は精を吸われ、枯れ果てている……
-> CONTEXT: Map057/events/1/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map055/events/2/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map057/events/16/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map054/events/14/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map057/events/1/pages/1/1/Dialogue
+> CONTEXT: Map055/events/2/pages/1/1/Dialogue
+> CONTEXT: Map057/events/16/pages/1/1/Dialogue
+> CONTEXT: Map054/events/14/pages/1/1/Dialogue
 The demons' essence has been sucked out, 
 completely drained...
 > END STRING
 
 > BEGIN STRING
 「くそお……しくじった…………
-> CONTEXT: Map057/events/16/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map057/events/16/pages/0/1/Dialogue
+「Damn it... I messed up...
 > END STRING
 
 > BEGIN STRING
 「利用するんだ………
 　あいつの……テクニックを………
-> CONTEXT: Map057/events/16/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map057/events/16/pages/0/2/Dialogue
+「I'll use...
+　her...techniques...
 > END STRING

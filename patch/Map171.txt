@@ -17,14 +17,14 @@ SQ_Town06
 
 > BEGIN STRING
 「一晩 \\b15G\\f ですが、お泊りになりますか？
-> CONTEXT: Map171/events/4/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map171/events/4/pages/0/2/Dialogue
+「It's \\b15G\\f for one night, would you like to stay?
 > END STRING
 
 > BEGIN STRING
 \\b15G\\f で宿屋に泊まりますか？
-> CONTEXT: Map171/events/4/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map171/events/4/pages/0/4/Dialogue
+Stay at the inn for \\b15G\\f?
 > END STRING
 
 > BEGIN STRING

@@ -8,9 +8,9 @@ SQ_Dungeon06
 
 > BEGIN STRING
 なんと、宝箱はミミックだった！
-> CONTEXT: Map177/events/14/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map162/events/22/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map053/events/1/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map072/events/24/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map177/events/14/pages/0/3/Dialogue
+> CONTEXT: Map162/events/22/pages/0/3/Dialogue
+> CONTEXT: Map053/events/1/pages/0/3/Dialogue
+> CONTEXT: Map072/events/24/pages/0/3/Dialogue
+The treasure chest was a mimic!
 > END STRING

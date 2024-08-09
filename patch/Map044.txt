@@ -72,7 +72,7 @@ SQ_Castel02
 > CONTEXT: Map044/events/7/pages/0/49/Dialogue
 「\\n[1], is it true?
 　The demon that appeared in place of the 
-　Demon King,
+　Demon Lord,
 > END STRING
 
 > BEGIN STRING

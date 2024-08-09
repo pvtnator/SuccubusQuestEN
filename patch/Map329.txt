@@ -87,20 +87,20 @@ SQ_Town08
 
 > BEGIN STRING
 「一晩 \\b30G\\f ですが、お泊りになりますか？
-> CONTEXT: Map329/events/2/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map219/events/1/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map124/events/4/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map070/events/2/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map329/events/2/pages/0/3/Dialogue
+> CONTEXT: Map219/events/1/pages/0/3/Dialogue
+> CONTEXT: Map124/events/4/pages/0/2/Dialogue
+> CONTEXT: Map070/events/2/pages/0/3/Dialogue
+「It's \\b30G\\f for one night, would you like to stay?
 > END STRING
 
 > BEGIN STRING
 \\b30G\\f で宿屋に泊まりますか？
-> CONTEXT: Map329/events/2/pages/0/5/Dialogue < UNTRANSLATED
-> CONTEXT: Map219/events/1/pages/0/5/Dialogue < UNTRANSLATED
-> CONTEXT: Map124/events/4/pages/0/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map070/events/2/pages/0/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map329/events/2/pages/0/5/Dialogue
+> CONTEXT: Map219/events/1/pages/0/5/Dialogue
+> CONTEXT: Map124/events/4/pages/0/4/Dialogue
+> CONTEXT: Map070/events/2/pages/0/5/Dialogue
+Stay at the inn for \\b30G\\f?
 > END STRING
 
 > BEGIN STRING

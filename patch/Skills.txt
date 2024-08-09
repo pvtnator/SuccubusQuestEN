@@ -170,14 +170,14 @@ Struggle to escape restraints
 
 > BEGIN STRING
 クリアマインド/-1/0/0
-> CONTEXT: Skills/21/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/21/name/
+Clear Mind/-1/0/0
 > END STRING
 
 > BEGIN STRING
 気分を一新させ、EPとTPを回復する　[リチャージ：バトル]
-> CONTEXT: Skills/21/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/21/description/
+Refresh and recover EP and TP. [Recharge: Battle]
 > END STRING
 
 > BEGIN STRING
@@ -260,14 +260,14 @@ Put 1 opponent in ecstasy with a captivating kiss [CD: 5]
 
 > BEGIN STRING
 エキサイト/7/0/0
-> CONTEXT: Skills/34/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/34/name/
+Excite/7/0/0
 > END STRING
 
 > BEGIN STRING
 エキサイト状態になる(テンションアップ、守りダウン)　[リチャージ：7]
-> CONTEXT: Skills/34/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/34/description/
+Enters an excited state (Tension up, Defense down) [CD: 7]
 > END STRING
 
 > BEGIN STRING
@@ -1547,17 +1547,17 @@ EP回復+精神力回復
 
 > BEGIN STRING
 ペトラアイズ
-> CONTEXT: Skills/249/name/ < UNTRANSLATED
-> CONTEXT: Skills/259/name/ < UNTRANSLATED
-> CONTEXT: Skills/643/name/ < UNTRANSLATED
-> CONTEXT: Skills/644/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/249/name/
+> CONTEXT: Skills/259/name/
+> CONTEXT: Skills/643/name/
+> CONTEXT: Skills/644/name/
+Petra Eyes
 > END STRING
 
 > BEGIN STRING
 視線 / 高確率バインド
-> CONTEXT: Skills/249/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/249/description/
+Gaze / High Probability Bind
 > END STRING
 
 > BEGIN STRING
@@ -1639,17 +1639,17 @@ EP回復+精神力回復
 
 > BEGIN STRING
 メルティキッス
-> CONTEXT: Skills/256/name/ < UNTRANSLATED
-> CONTEXT: Skills/257/name/ < UNTRANSLATED
-> CONTEXT: Skills/646/name/ < UNTRANSLATED
-> CONTEXT: Skills/647/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/256/name/
+> CONTEXT: Skills/257/name/
+> CONTEXT: Skills/646/name/
+> CONTEXT: Skills/647/name/
+Melty Kiss
 > END STRING
 
 > BEGIN STRING
 精神力ダウン
-> CONTEXT: Skills/256/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/256/description/
+Spirit down
 > END STRING
 
 > BEGIN STRING
@@ -1774,31 +1774,31 @@ Bind
 
 > BEGIN STRING
 パッションフレイム
-> CONTEXT: Skills/274/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/274/name/
+Passion Flame
 > END STRING
 
 > BEGIN STRING
 誘惑の歌
-> CONTEXT: Skills/275/name/ < UNTRANSLATED
-> CONTEXT: Skills/654/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/275/name/
+> CONTEXT: Skills/654/name/
+Song of Temptation
 > END STRING
 
 > BEGIN STRING
 混乱の歌
-> CONTEXT: Skills/276/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/276/name/
+Song of Confusion
 > END STRING
 
 > BEGIN STRING
 中確率パニック
-> CONTEXT: Skills/276/description/ < UNTRANSLATED
-> CONTEXT: Skills/333/description/ < UNTRANSLATED
-> CONTEXT: Skills/338/description/ < UNTRANSLATED
-> CONTEXT: Skills/347/description/ < UNTRANSLATED
-> CONTEXT: Skills/353/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/276/description/
+> CONTEXT: Skills/333/description/
+> CONTEXT: Skills/338/description/
+> CONTEXT: Skills/347/description/
+> CONTEXT: Skills/353/description/
+Medium probability of panic
 > END STRING
 
 > BEGIN STRING
@@ -1815,15 +1815,15 @@ Bind
 
 > BEGIN STRING
 羽根吹雪
-> CONTEXT: Skills/279/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/279/name/
+Feather Storm
 > END STRING
 
 > BEGIN STRING
 中確率センシブ
-> CONTEXT: Skills/279/description/ < UNTRANSLATED
-> CONTEXT: Skills/309/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/279/description/
+> CONTEXT: Skills/309/description/
+Medium probability sensitive
 > END STRING
 
 > BEGIN STRING
@@ -1834,8 +1834,8 @@ Bind
 
 > BEGIN STRING
 まきつき
-> CONTEXT: Skills/281/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/281/name/
+Twine
 > END STRING
 
 > BEGIN STRING

@@ -7,62 +7,66 @@ SQ_Draumnol
 
 > BEGIN STRING
 様々な景色が歪んで混ざりあっている……
-> CONTEXT: Map061/events/4/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map061/events/4/pages/1/40/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map061/events/4/pages/0/1/Dialogue
+> CONTEXT: Map061/events/4/pages/1/40/Dialogue
+Various landscapes are distorted and mixed together...
 > END STRING
 
 > BEGIN STRING
 「今見えてるのは、私が\\n[1]と一緒に
 　行ったことのある場所よ。
-> CONTEXT: Map061/events/4/pages/1/43/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map061/events/4/pages/1/43/Dialogue
+「What you see now are places
+　I've been to with \\n[1].
 > END STRING
 
 > BEGIN STRING
 「ここからどこにでも行けるわ。
 　ただし、夢魔のいるところは無理だけどね。
-> CONTEXT: Map061/events/4/pages/1/45/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map061/events/4/pages/1/45/Dialogue
+「You can go anywhere from here.
+　But not where succubi are.
 > END STRING
 
 > BEGIN STRING
 どの場所へ出ますか？
-> CONTEXT: Map061/events/4/pages/1/51/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map061/events/4/pages/1/51/Dialogue
+Where to?
 > END STRING
 
 > BEGIN STRING
 なんだか不思議な感じのする水だ……
-> CONTEXT: Map061/events/19/pages/0/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map061/events/19/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map061/events/19/pages/0/4/Dialogue
+> CONTEXT: Map061/events/19/pages/1/1/Dialogue
+There's something strange about this water...
 > END STRING
 
 > BEGIN STRING
 \\c[4]魔王のかけら\\c[0]が
 鈍い光を放っている………
-> CONTEXT: Map061/events/19/pages/0/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map061/events/19/pages/0/8/Dialogue
+\\c[4]The Demon Lord's Shard\\c[0]
+is emitting a dull light...
 > END STRING
 
 > BEGIN STRING
 かけらを水にひたしますか？
-> CONTEXT: Map061/events/19/pages/0/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map061/events/19/pages/0/10/Dialogue
+Soak the shard in water?
 > END STRING
 
 > BEGIN STRING
 「闇を…………………
-> CONTEXT: Map061/events/19/pages/0/29/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map061/events/19/pages/0/29/Dialogue
+「Darkness...
 > END STRING
 
 > BEGIN STRING
 「夢をも退ける………
 　闇を………………………
-> CONTEXT: Map061/events/19/pages/0/30/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map061/events/19/pages/0/30/Dialogue
+「Even dreams are banished...
+　Darkness...
 > END STRING
 
 > BEGIN STRING
@@ -74,197 +78,221 @@ SQ_Draumnol
 
 > BEGIN STRING
 「こんにちわ\\e[0]
-> CONTEXT: Map061/events/19/pages/0/49/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map061/events/19/pages/0/49/Dialogue
+「Hello\\e[0]
 > END STRING
 
 > BEGIN STRING
 「ずっと\\n[1]と一緒にいたのよ？
-> CONTEXT: Map061/events/19/pages/0/61/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map061/events/19/pages/0/61/Dialogue
+「I've been with you \\n[1] this whole time, you know?
 > END STRING
 
 > BEGIN STRING
 「あの時……
 　あなたがギルデンスターンを
 　倒した時からずっとね。
-> CONTEXT: Map061/events/19/pages/0/62/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map061/events/19/pages/0/62/Dialogue
+「Ever since...
+　you defeated Guildenstern.
 > END STRING
 
 > BEGIN STRING
 「そう。
 　私は\\c[4]魔王のかけら\\c[0]。
-> CONTEXT: Map061/events/19/pages/0/106/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map061/events/19/pages/0/106/Dialogue
+「That's right.
+　I am \\c[4]a fragment of the Demon Lord\\c[0].
 > END STRING
 
 > BEGIN STRING
 「魔王の……
 　ギルデンスターンの力。
 　ギルデンスターンの意思。
-> CONTEXT: Map061/events/19/pages/0/108/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map061/events/19/pages/0/108/Dialogue
+「The Demon Lord's...
+　Guildenstern's power.
+　Guildenstern's will.
 > END STRING
 
 > BEGIN STRING
 「\\n[1]が夢魔にやられなかったのも、
 　夢魔を元いた世界に
 　追い返せるようになったのも、
-> CONTEXT: Map061/events/19/pages/0/111/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map061/events/19/pages/0/111/Dialogue
+「\\n[1] wasn't defeated by the succubi, 
+and was able to drive it them to their original world.
 > END STRING
 
 > BEGIN STRING
 「み～んな私のおかげなのよ？
 　分かってる？
-> CONTEXT: Map061/events/19/pages/0/114/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map061/events/19/pages/0/114/Dialogue
+「It's all thanks to me, 
+　you know?
 > END STRING
 
 > BEGIN STRING
 「……でもね、
 　私はまだひとつの\\dかけら\\d。
 　私だけじゃ何もできないの。
-> CONTEXT: Map061/events/19/pages/0/158/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map061/events/19/pages/0/158/Dialogue
+「...But,
+　I'm still just one \\dfragment\\d.
+　I can't do anything by myself.
 > END STRING
 
 > BEGIN STRING
 「ねえ、
 　\\n[1]も夢魔が憎いでしょう？
-> CONTEXT: Map061/events/19/pages/0/161/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map061/events/19/pages/0/161/Dialogue
+「Hey, \\n[1], 
+　you hate succubi too, right?
 > END STRING
 
 > BEGIN STRING
 「夢魔が憎いでしょう？」
-> CONTEXT: Map061/events/19/pages/0/164/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map061/events/19/pages/0/164/Dialogue
+"You hate succubi, right?"
 > END STRING
 
 > BEGIN STRING
 「じゃあ決まりね\\e[0]
 　これからも\\n[1]に
 　力を貸してあげるわ。
-> CONTEXT: Map061/events/19/pages/0/168/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map061/events/19/pages/0/168/Dialogue
+「Well then, it's decided. 
+　I'll continue to 
+　lend you my strength, \\n[1].
 > END STRING
 
 > BEGIN STRING
 「ウソなんてつかなくていいのよ。
 　あのオリビアって子を助けたいんでしょ？
-> CONTEXT: Map061/events/19/pages/0/174/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map061/events/19/pages/0/174/Dialogue
+「There's no need to lie. 
+　You want to help that girl Olivia, right?
 > END STRING
 
 > BEGIN STRING
 「みんなわかってるんだから\\e[0]
-> CONTEXT: Map061/events/19/pages/0/176/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map061/events/19/pages/0/176/Dialogue
+「Everyone knows it\\e[0]
 > END STRING
 
 > BEGIN STRING
 「\\dかけら\\dを集めるのよ。
 　私と同じ、\\c[4]魔王のかけら\\c[0]を。
-> CONTEXT: Map061/events/19/pages/0/221/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map061/events/19/pages/0/221/Dialogue
+「Collect \\dshards\\d.
+Fragments of the Demon Lord, just like me.
 > END STRING
 
 > BEGIN STRING
 「魔王の力は、５つの\\dかけら\\dに分かれて
 　世界中に散らばっちゃったの。
-> CONTEXT: Map061/events/19/pages/0/223/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map061/events/19/pages/0/223/Dialogue
+「The Demon Lord's power was split into 
+　five pieces and scattered all over the world.
 > END STRING
 
 > BEGIN STRING
 「あなたがもう一度それを集めて、
 　魔王の力をよみがえらせるのよ。
-> CONTEXT: Map061/events/19/pages/0/225/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map061/events/19/pages/0/225/Dialogue
+「You must collect them once more 
+　and revive the Demon Lord's power.
 > END STRING
 
 > BEGIN STRING
 「そうすればまた………
-> CONTEXT: Map061/events/19/pages/0/227/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map061/events/19/pages/0/227/Dialogue
+「Then again...
 > END STRING
 
 > BEGIN STRING
 「……夢魔をこの世界から
 　追い出すことができるわ。
-> CONTEXT: Map061/events/19/pages/0/228/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map061/events/19/pages/0/228/Dialogue
+「...I can drive succubi
+　out of this world.
 > END STRING
 
 > BEGIN STRING
 「あなたが探してる子も、
 　きっと助けられるわよ。
-> CONTEXT: Map061/events/19/pages/0/230/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map061/events/19/pages/0/230/Dialogue
+「I'm sure we can help 
+　the girl you're looking for.
 > END STRING
 
 > BEGIN STRING
 「今の話、分かったかしら？
-> CONTEXT: Map061/events/19/pages/0/232/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map061/events/19/pages/0/232/Dialogue
+「Are you following?
 > END STRING
 
 > BEGIN STRING
 「今の話、分かったかしら？」
-> CONTEXT: Map061/events/19/pages/0/234/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map061/events/19/pages/0/234/Dialogue
+「Are you following?」
 > END STRING
 
 > BEGIN STRING
 「よかった。
 　ほんとは長い話するの苦手なのよ。
-> CONTEXT: Map061/events/19/pages/0/238/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map061/events/19/pages/0/238/Dialogue
+「That's good.
+　To be honest, I'm not good at long conversations.
 > END STRING
 
 > BEGIN STRING
 「夢魔とのバトルで危なくなったら、
 　\\c[2]サモン\\c[0]を使って
 　私を呼んでもいいわよ。
-> CONTEXT: Map061/events/19/pages/0/240/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map061/events/19/pages/0/240/Dialogue
+「If you're in danger during battles with succubi, 
+　you can call me using \\c[2]Summon\\c[0].
 > END STRING
 
 > BEGIN STRING
 「直接夢魔に触れたりはできないけど、
 　魔法でたすけてあげるわ。
-> CONTEXT: Map061/events/19/pages/0/243/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map061/events/19/pages/0/243/Dialogue
+「I can't directly touch the succubi, 
+　but I can help you with magic.
 > END STRING
 
 > BEGIN STRING
 「あんまり長い時間は出てられないし、
 　それに私が出てる間、\\n[1]は
 　ちょっとずつ疲れちゃうと思うけどね。
-> CONTEXT: Map061/events/19/pages/0/245/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map061/events/19/pages/0/245/Dialogue
+「I can't be out for too long,
+　and while I'm out, I think
+　you're going to get a little tired.
 > END STRING
 
 > BEGIN STRING
 「バトル以外で私と話したくなったら
 　\\c[2]Xボタン（キーボードのA）\\c[0]を押してね。
-> CONTEXT: Map061/events/19/pages/0/248/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map061/events/19/pages/0/248/Dialogue
+「If you want to talk to me outside of battle, 
+\\c[2]press the X button (A on keyboard)\\c[0]
 > END STRING
 
 > BEGIN STRING
 「それじゃ、これからもよろしくね\\e[0]
-> CONTEXT: Map061/events/19/pages/0/250/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map061/events/19/pages/0/250/Dialogue
+「Well then, I look forward to working with you\\e[0]
 > END STRING
 
 > BEGIN STRING
 \\n[1]の\\c[4]魔王のかけら\\c[0]は
 \\c[4]ルヴィッサ\\c[0]になった！
-> CONTEXT: Map061/events/19/pages/0/281/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map061/events/19/pages/0/281/Dialogue
+\\n[1]'s \\c[4]Demon Lord Shard\\c[0] has become
+\\c[4]Rovissa\\c[0]!
 > END STRING
 
 > BEGIN STRING
@@ -278,33 +306,35 @@ SQ_Draumnol
 > BEGIN STRING
 「もう一回言うの？
 　しょうがないわね……
-> CONTEXT: Map061/events/19/pages/0/311/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map061/events/19/pages/0/311/Dialogue
+「Say it again?
+　I guess it can't be helped...
 > END STRING
 
 > BEGIN STRING
 \\c[4]夢の指輪\\c[0]がかすかに光を放っている…
-> CONTEXT: Map061/events/19/pages/1/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map061/events/19/pages/1/19/Dialogue
+\\c[4]Dream Ring\\c[0] is emitting a faint light...
 > END STRING
 
 > BEGIN STRING
 \\c[4]夢の指輪\\c[0]を水にひたしますか？
-> CONTEXT: Map061/events/19/pages/1/20/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map061/events/19/pages/1/20/Dialogue
+Soak \\c[4]Dream Ring\\c[0] in water?
 > END STRING
 
 > BEGIN STRING
 "システムエラー：nilを入手しようとしています"
-> CONTEXT: Map061/events/19/pages/1/44/InlineScript/5:5 < UNTRANSLATED
-
+> CONTEXT: Map061/events/19/pages/1/44/InlineScript/5:5
+"System error: trying to get nil"
 > END STRING
 
 > BEGIN STRING
 \\c[4]夢の指輪\\c[0]は
 \\c[3]\\v[22]\\c[0]になった！
-> CONTEXT: Map061/events/19/pages/1/52/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map061/events/19/pages/1/52/Dialogue
+\\c[4]Dream Ring\\c[0] became
+\\c[3]\\v[22]\\c[0]!
 > END STRING
 
 > BEGIN STRING
@@ -316,12 +346,12 @@ SQ_Draumnol
 
 > BEGIN STRING
 \\c[4]虚構の指輪\\c[0]がかすかに光を放っている…
-> CONTEXT: Map061/events/19/pages/1/72/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map061/events/19/pages/1/72/Dialogue
+\\c[4]Fictional Ring\\c[0] emits a faint light...
 > END STRING
 
 > BEGIN STRING
 \\c[4]虚構の指輪\\c[0]を水にひたしますか？
-> CONTEXT: Map061/events/19/pages/1/73/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map061/events/19/pages/1/73/Dialogue
+Immerse \\c[4]Fictional Ring\\c[0] in water?
 > END STRING

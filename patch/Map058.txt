@@ -2,77 +2,83 @@
 > BEGIN STRING
 「おっ、また来たゼ。
 　エストの言った通りだ。
-> CONTEXT: Map058/events/6/pages/0/47/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map058/events/6/pages/0/47/Dialogue
+「Oh, here you are again.
+　Just as Est said.
 > END STRING
 
 > BEGIN STRING
 「ココにいりゃエサに困ることは無さそうだ。
 　なあメローナ。
-> CONTEXT: Map058/events/6/pages/0/49/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map058/events/6/pages/0/49/Dialogue
+「Looks like we'll never have trouble finding food here.
+　Hey, Melona.
 > END STRING
 
 > BEGIN STRING
 「あれ、でもコイツ人間だよ～
-> CONTEXT: Map058/events/6/pages/0/56/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map058/events/6/pages/0/56/Dialogue
+「Hey, but this guy is human~
 > END STRING
 
 > BEGIN STRING
 「ねえストゥーナ、
 　コイツひょっとして例の勇者クンじゃない？
-> CONTEXT: Map058/events/6/pages/0/57/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map058/events/6/pages/0/57/Dialogue
+「Hey Stona,
+　isn't this the hero we were told about?
 > END STRING
 
 > BEGIN STRING
 「何でもいいだろ。
 　それにちょうど魔物にも飽きてたしな。
-> CONTEXT: Map058/events/6/pages/0/60/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map058/events/6/pages/0/60/Dialogue
+「Anything will do.
+　I was getting bored of demons anyway.
 > END STRING
 
 > BEGIN STRING
 「あは\\e[0]
 　それもそうだねぇ～
-> CONTEXT: Map058/events/6/pages/0/63/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map058/events/6/pages/0/63/Dialogue
+「Aha\\e[0]
+　That's true too~
 > END STRING
 
 > BEGIN STRING
 「それじゃ～……
-> CONTEXT: Map058/events/6/pages/0/65/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map058/events/6/pages/0/65/Dialogue
+「Well then...
 > END STRING
 
 > BEGIN STRING
 「オレの魅力でカチカチに……
-> CONTEXT: Map058/events/6/pages/0/67/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map058/events/6/pages/0/67/Dialogue
+「My charm has you hard as a rock...
 > END STRING
 
 > BEGIN STRING
 「アタシの魅力でフニャフニャにぃ～っ
-> CONTEXT: Map058/events/6/pages/0/69/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map058/events/6/pages/0/69/Dialogue
+「My charm makes you soft and squishy!
 > END STRING
 
 > BEGIN STRING
 「カタくしてやるぜっ！
 「溶かしてあげるぅ～っ\\e[0]
-> CONTEXT: Map058/events/6/pages/0/71/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map058/events/6/pages/0/71/Dialogue
+「Make it hard! 
+「Melt it~\\e[0]
 > END STRING
 
 > BEGIN STRING
 「悪りィ、エスト……
-> CONTEXT: Map058/events/6/pages/0/85/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map058/events/6/pages/0/85/Dialogue
+「Sorry, Est...
 > END STRING
 
 > BEGIN STRING
 「先イくわぁ～っ
-> CONTEXT: Map058/events/6/pages/0/87/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map058/events/6/pages/0/87/Dialogue
+「You first~
 > END STRING

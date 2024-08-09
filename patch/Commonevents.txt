@@ -644,14 +644,15 @@
 > BEGIN STRING
 「そう。 そうやって話すのよ。
 　なかなか飲み込みが早いじゃない\\e[0]
-> CONTEXT: Commonevents/24/47/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/24/47/Dialogue
+「Yes. That's how you talk.
+　You're a pretty quick learner\\e[0]
 > END STRING
 
 > BEGIN STRING
 \\c[4]夜の絵本\\c[0]から夢魔を呼び出しますか？
-> CONTEXT: Commonevents/28/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/28/2/Dialogue
+Summon a succubus from the \\c[4]Night Picture Book\\c[0]?
 > END STRING
 
 > BEGIN STRING
@@ -689,8 +690,9 @@
 > BEGIN STRING
 \\a[\\v[105]]\\v[1]のテンションが上がった！
 \\w[\\v[104]]\\n[1]の魅力が上がった！
-> CONTEXT: Commonevents/34/77/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/34/77/Dialogue
+\\a[\\v[105]]\\v[1]'s tension increased!
+\\w[\\v[104]]\\n[1]'s charm increased!
 > END STRING
 
 > BEGIN STRING
@@ -703,8 +705,9 @@
 > BEGIN STRING
 \\a[\\v[105]]全員のEPが \\b\\v[1]\\f 回復した！
 \\w[\\v[104]]全員のテンションが上がった！
-> CONTEXT: Commonevents/35/17/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/35/17/Dialogue
+\\a[\\v[105]]Everyone's EP restored by \\b\\v[1]\\f!
+\\w[\\v[104]]Everyone's tension increased!
 > END STRING
 
 > BEGIN STRING
@@ -731,8 +734,9 @@
 > BEGIN STRING
 \\a[\\v[104]]無数の触手が\\n[1]の全身を愛撫する！
 \\k
-> CONTEXT: Commonevents/35/55/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/35/55/Dialogue
+\\a[\\v[104]]Countless tentacles caress \\n[1]'s body!
+\\k
 > END STRING
 
 > BEGIN STRING
@@ -750,23 +754,26 @@
 
 > BEGIN STRING
 \\n[1]の\\c[2]ストック\\c[0]が \\b1\\f増えた！
-> CONTEXT: Commonevents/36/59/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/36/59/Dialogue
+\\n[1]'s \\c[2]stock\\c[0] increased by \\b1\\f!
 > END STRING
 
 > BEGIN STRING
 * \\c[2]ストック\\c[0]がある状態では、
   一度イかされても\\c[2]衰弱\\c[0]状態で復活して
 　再びバトルできるようになります。
-> CONTEXT: Commonevents/36/63/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/36/63/Dialogue
+* If you have \\c[2]stocks\\c[0], even if defeated, 
+  you revive in a \\c[2]weakened\\c[0] state 
+  and will be able to fight again.
 > END STRING
 
 > BEGIN STRING
 * ストックはイかされると減ってしまいますが、
   宿屋に泊まることで回復します。
-> CONTEXT: Commonevents/36/66/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/36/66/Dialogue
+* Stock will decrease if defeated, 
+  but replenished when staying at an inn.
 > END STRING
 
 > BEGIN STRING
@@ -872,7 +879,7 @@
 辺りに残る魔王の力が
 \\n[1]にそそぎ込む！
 > CONTEXT: Commonevents/52/6/Dialogue
-Lingering power of the Demon King
+Lingering power of the Demon Lord
 pours into \\n[1]!
 > END STRING
 
@@ -1583,8 +1590,9 @@ pours into \\n[1]!
 > BEGIN STRING
 \\a[\\v[105]]\\n[28]のEPが \\b\\v[1]\\f 回復した！
 \\w[\\v[105]]\\n[28]のテンションが上がった！
-> CONTEXT: Commonevents/112/20/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/112/20/Dialogue
+\\a[\\v[105]]\\n[28]'s EP recovered by \\b[\\v[1]\\f 
+\\w[\\v[105]]\\n[28]'s tension increased!
 > END STRING
 
 > BEGIN STRING
@@ -1757,52 +1765,54 @@ pours into \\n[1]!
 
 > BEGIN STRING
 「おい、カタくシて欲しいだろ？
-> CONTEXT: Commonevents/133/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/133/2/Dialogue
+「Hey, you want it to be hard, right?
 > END STRING
 
 > BEGIN STRING
 「カタくシて欲しいだろ？」
-> CONTEXT: Commonevents/133/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/133/4/Dialogue
+「You want it hard?」
 > END STRING
 
 > BEGIN STRING
 「ふふ……
 　そぉらっ！
-> CONTEXT: Commonevents/133/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/133/8/Dialogue
+「Hehe...
+　There you have it!
 > END STRING
 
 > BEGIN STRING
 「あぁ！？
 　つべこべ言ってないでくらいなっ！！
-> CONTEXT: Commonevents/133/21/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/133/21/Dialogue
+「Ah!?
+　Stop complaining!!
 > END STRING
 
 > BEGIN STRING
 「ねえ、フニャフニャにしてあげよっかぁ？
-> CONTEXT: Commonevents/134/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/134/1/Dialogue
+「Hey, should I make it soft and squishy?
 > END STRING
 
 > BEGIN STRING
 「フニャフニャにしてあげよっかぁ？」
-> CONTEXT: Commonevents/134/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/134/3/Dialogue
+「Make it soft and squishy?」
 > END STRING
 
 > BEGIN STRING
 「んふふっ\\e[0]
-> CONTEXT: Commonevents/134/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/134/7/Dialogue
+「Mhehe\\e[0]
 > END STRING
 
 > BEGIN STRING
 「遠慮しなくていいのにぃ～
-> CONTEXT: Commonevents/134/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/134/19/Dialogue
+「You don't have to be shy~
 > END STRING
 
 > BEGIN STRING
@@ -5144,71 +5154,73 @@ took off \\n[27]'s clothes off!
 > BEGIN STRING
 「\\c[7]メローナ\\c[0]は\\c[7]ストゥーナ\\c[0]としか
 　一緒に呼べないがどうする？
-> CONTEXT: Commonevents/251/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/251/12/Dialogue
+「What should \\c[7]Merona\\c[0] and \\c[7]Stona\\c[0]
+　be called combined?
 > END STRING
 
 > BEGIN STRING
 メローナだけ呼ぶ
-> CONTEXT: Commonevents/251/15/Choice/0 < UNTRANSLATED
-> CONTEXT: Commonevents/251/15/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Commonevents/251/15/Choice/0
+> CONTEXT: Commonevents/251/15/Choice/0
+Just Merona
 > END STRING
 
 > BEGIN STRING
 メローナとストゥーナを呼ぶ
-> CONTEXT: Commonevents/251/15/Choice/1 < UNTRANSLATED
-> CONTEXT: Commonevents/251/15/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Commonevents/251/15/Choice/1
+> CONTEXT: Commonevents/251/15/Choice/1
+Merona and Stona
 > END STRING
 
 > BEGIN STRING
 やっぱりやめる
-> CONTEXT: Commonevents/251/15/Choice/2 < UNTRANSLATED
-> CONTEXT: Commonevents/251/15/Choice/2 < UNTRANSLATED
-> CONTEXT: Commonevents/251/55/Choice/2 < UNTRANSLATED
-> CONTEXT: Commonevents/251/55/Choice/2 < UNTRANSLATED
-> CONTEXT: Commonevents/251/95/Choice/2 < UNTRANSLATED
-> CONTEXT: Commonevents/251/95/Choice/2 < UNTRANSLATED
-> CONTEXT: Commonevents/251/135/Choice/2 < UNTRANSLATED
-> CONTEXT: Commonevents/251/135/Choice/2 < UNTRANSLATED
-> CONTEXT: Commonevents/251/175/Choice/2 < UNTRANSLATED
-> CONTEXT: Commonevents/251/175/Choice/2 < UNTRANSLATED
-> CONTEXT: Commonevents/251/214/Choice/1 < UNTRANSLATED
-> CONTEXT: Commonevents/251/214/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Commonevents/251/15/Choice/2
+> CONTEXT: Commonevents/251/15/Choice/2
+> CONTEXT: Commonevents/251/55/Choice/2
+> CONTEXT: Commonevents/251/55/Choice/2
+> CONTEXT: Commonevents/251/95/Choice/2
+> CONTEXT: Commonevents/251/95/Choice/2
+> CONTEXT: Commonevents/251/135/Choice/2
+> CONTEXT: Commonevents/251/135/Choice/2
+> CONTEXT: Commonevents/251/175/Choice/2
+> CONTEXT: Commonevents/251/175/Choice/2
+> CONTEXT: Commonevents/251/214/Choice/1
+> CONTEXT: Commonevents/251/214/Choice/1
+Nevermind
 > END STRING
 
 > BEGIN STRING
 「ふふふふふ！
-> CONTEXT: Commonevents/251/31/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/251/71/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/251/111/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/251/151/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/251/191/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/251/323/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/251/31/Dialogue
+> CONTEXT: Commonevents/251/71/Dialogue
+> CONTEXT: Commonevents/251/111/Dialogue
+> CONTEXT: Commonevents/251/151/Dialogue
+> CONTEXT: Commonevents/251/191/Dialogue
+> CONTEXT: Commonevents/251/323/Dialogue
+「Hehehehe!
 > END STRING
 
 > BEGIN STRING
 「\\c[7]ストゥーナ\\c[0]は\\c[7]メローナ\\c[0]としか
 　一緒に呼べないがどうする？
-> CONTEXT: Commonevents/251/52/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/251/52/Dialogue
+「What should \\c[7]Stona\\c[0] and \\c[7]Merona\\c[0]
+　be called combined?
 > END STRING
 
 > BEGIN STRING
 ストゥーナだけ呼ぶ
-> CONTEXT: Commonevents/251/55/Choice/0 < UNTRANSLATED
-> CONTEXT: Commonevents/251/55/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Commonevents/251/55/Choice/0
+> CONTEXT: Commonevents/251/55/Choice/0
+Just Stona
 > END STRING
 
 > BEGIN STRING
 ストゥーナとメローナを呼ぶ
-> CONTEXT: Commonevents/251/55/Choice/1 < UNTRANSLATED
-> CONTEXT: Commonevents/251/55/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Commonevents/251/55/Choice/1
+> CONTEXT: Commonevents/251/55/Choice/1
+Stona and Merona
 > END STRING
 
 > BEGIN STRING
@@ -5685,14 +5697,14 @@ took off \\n[27]'s clothes off!
 > BEGIN STRING
 \\a[\\v[105]]\\c[4]魔王のかけら\\c[0]が妖しく光りだした……
 > CONTEXT: Commonevents/500/26/Dialogue
-\\a[\\v[105]]\\c[4]The Demon King's fragment\\c[0] began to glow mysteriously...
+\\a[\\v[105]]\\c[4]The Demon Lord's fragment\\c[0] began to glow mysteriously...
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]\\c[4]魔王のかけら\\c[0]から更なる力が
 \\n[1]に流れ込む！
 > CONTEXT: Commonevents/500/31/Dialogue
-More power flows from the\\a[\\v[105]]\\c[4]Demon King's fragment\\c[0]
+More power flows from the\\a[\\v[105]]\\c[4]Demon Lord's fragment\\c[0]
 \\n[1]!
 > END STRING
 
@@ -5850,7 +5862,7 @@ More power flows from the\\a[\\v[105]]\\c[4]Demon King's fragment\\c[0]
 > BEGIN STRING
 \\n[1]は\\c[4]魔王のかけら\\c[0]を手に入れた！
 > CONTEXT: Commonevents/500/467/Dialogue
-\\n[1] obtained \\c[4]Demon King's Shard\\c[0]!
+\\n[1] obtained \\c[4]Demon Lord's Shard\\c[0]!
 > END STRING
 
 > BEGIN STRING

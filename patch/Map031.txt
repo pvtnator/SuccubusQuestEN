@@ -35,7 +35,7 @@
 「魔王様が倒されて、
 　仲間もたくさんいなくなっちゃったけど……
 > CONTEXT: Map031/events/3/pages/0/20/Dialogue
-「The Demon King was defeated,
+「The Demon Lord was defeated,
 　and many of our allies were gone, but...
 > END STRING
 
@@ -49,7 +49,7 @@
 「魔王様もまだ、
 　どこかで生きている！
 > CONTEXT: Map031/events/3/pages/0/39/Dialogue
-「The Demon King,
+「The Demon Lord,
 　is still alive somewhere!
 > END STRING
 
@@ -72,7 +72,7 @@
 > BEGIN STRING
 「魔王様のためにっ！！
 > CONTEXT: Map031/events/3/pages/0/53/Dialogue
-「For the Demon King!
+「For the Demon Lord!
 > END STRING
 
 > BEGIN STRING

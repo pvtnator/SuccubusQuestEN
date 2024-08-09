@@ -58,7 +58,7 @@
 ボロボロでほとんど読めない
 > CONTEXT: Map046/events/7/pages/0/4/Dialogue
 > CONTEXT: Map046/events/32/pages/0/4/Dialogue
-It appears to be a book about the Demon King, 
+It appears to be a book about the Demon Lord, 
 but it is so worn out that it is almost unreadable.
 > END STRING
 
@@ -284,7 +284,7 @@ There is a note written on the side of the page
 　調査隊を派遣したことがあります。
 > CONTEXT: Map046/events/12/pages/0/1/Dialogue
 「I heard that there was a place near Gruppen 
-　that the Demon King himself would visit, 
+　that the Demon Lord himself would visit, 
 　so I sent an investigation team.
 > END STRING
 
@@ -354,7 +354,7 @@ There is a note written on the side of the page
 「『魔王』は今まで、何度も世界に
 　あらわれていると古い記録にあります。
 > CONTEXT: Map046/events/13/pages/0/1/Dialogue
-「Old records state that the 'Demon King' 
+「Old records state that the 'Demon Lord' 
 　has appeared in the world many times up until now.
 > END STRING
 
@@ -370,7 +370,7 @@ There is a note written on the side of the page
 「魔王に何か目的があったのならば、
 　それを断つことが一番なのでしょう。
 > CONTEXT: Map046/events/13/pages/0/5/Dialogue
-「If the Demon King has some other goal,
+「If the Demon Lord has some other goal,
 　it would be best to cut it off.
 > END STRING
 
@@ -380,7 +380,7 @@ There is a note written on the side of the page
 > CONTEXT: Map046/events/14/pages/0/1/Dialogue
 > CONTEXT: Map046/events/26/pages/0/1/Dialogue
 
-　* The Demon King Theory *
+　* The Demon Lord Theory *
 > END STRING
 
 > BEGIN STRING
@@ -390,7 +390,7 @@ There is a note written on the side of the page
 　人がまだ試練に打ち勝てていないからなのだ。
 > CONTEXT: Map046/events/14/pages/0/4/Dialogue
 > CONTEXT: Map046/events/26/pages/0/4/Dialogue
-「No matter how many times the Demon King is defeated, 
+「No matter how many times the Demon Lord is defeated, 
 　he always returns eventually. This must be a test 
 　imposed on humanity by the gods of heaven.
 　He returns because humanity has not yet overcome the test.
@@ -413,7 +413,7 @@ There is a note written on the side of the page
 > CONTEXT: Map046/events/14/pages/0/11/Dialogue
 > CONTEXT: Map046/events/26/pages/0/11/Dialogue
 「Once we achieve that, 
-　a happy world without the Demon King will surely await.
+　a happy world without the Demon Lord will surely await.
 > END STRING
 
 > BEGIN STRING
@@ -526,7 +526,7 @@ Something's stuck between the books...
 > CONTEXT: Map046/events/27/pages/0/1/Dialogue
 > CONTEXT: Map046/events/28/pages/0/1/Dialogue
 
-　*The Demon King and I*
+　*The Demon Lord and I*
 > END STRING
 
 > BEGIN STRING
@@ -536,7 +536,7 @@ Something's stuck between the books...
 　私の理性はもう……
 > CONTEXT: Map046/events/27/pages/0/4/Dialogue
 > CONTEXT: Map046/events/28/pages/0/4/Dialogue
-「My boyfriend is the Demon King.
+「My boyfriend is the Demon Lord.
 　Tonight he's coming to ruin me again.
 　With his demonic techniques and fierceness 
 　My reason is gone...
@@ -591,7 +591,7 @@ Something's stuck between the books...
 > CONTEXT: Map046/events/30/pages/0/11/Dialogue
 「There are many demons in the area, 
 　but they are no match for our knights.
-　However, one of them was babbling about the Demon King.
+　However, one of them was babbling about the Demon Lord.
 　Could this small shrine have something to do with him?
 > END STRING
 

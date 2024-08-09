@@ -7,7 +7,7 @@
 > CONTEXT: Map007/events/3/pages/0/11/Dialogue
 > CONTEXT: Map007/events/4/pages/0/11/Dialogue
 「Damn, if there are monsters, 
-　does that mean the Demon King is still alive?
+　does that mean the Demon Lord is still alive?
 > END STRING
 
 > BEGIN STRING
@@ -49,7 +49,7 @@
 > CONTEXT: Map007/events/15/pages/0/14/Dialogue
 > CONTEXT: Map007/events/16/pages/0/14/Dialogue
 「Yeah...
-　What happened? Where's the Demon King?
+　What happened? Where's the Demon Lord?
 > END STRING
 
 > BEGIN STRING
@@ -58,7 +58,7 @@
 　確かめなきゃ
 > CONTEXT: Map007/events/7/pages/0/14/Dialogue
 「...I see.
-　Let's go to the Demon King's room.
+　Let's go to the Demon Lord's room.
 　We have to check.
 > END STRING
 

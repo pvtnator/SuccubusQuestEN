@@ -1,21 +1,21 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 奥から妖しい気配がする……
-> CONTEXT: Map085/events/12/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map057/events/7/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map057/events/8/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map057/events/15/pages/0/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map085/events/12/pages/0/0/Dialogue
+> CONTEXT: Map057/events/7/pages/0/0/Dialogue
+> CONTEXT: Map057/events/8/pages/0/0/Dialogue
+> CONTEXT: Map057/events/15/pages/0/0/Dialogue
+A mysterious presence is coming from deep inside...
 > END STRING
 
 > BEGIN STRING
 先へ進みますか？
-> CONTEXT: Map085/events/12/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map057/events/7/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map057/events/8/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map057/events/15/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map028/events/7/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map028/events/9/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map028/events/10/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map085/events/12/pages/0/1/Dialogue
+> CONTEXT: Map057/events/7/pages/0/1/Dialogue
+> CONTEXT: Map057/events/8/pages/0/1/Dialogue
+> CONTEXT: Map057/events/15/pages/0/1/Dialogue
+> CONTEXT: Map028/events/7/pages/0/2/Dialogue
+> CONTEXT: Map028/events/9/pages/0/2/Dialogue
+> CONTEXT: Map028/events/10/pages/0/2/Dialogue
+Proceed?
 > END STRING

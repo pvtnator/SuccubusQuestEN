@@ -300,7 +300,7 @@
 > CONTEXT: Map042/events/6/pages/0/1/Dialogue
 「Did you hear?
 　The hero returned alone 
-　from defeating the demon king.
+　from defeating the Demon Lord.
 > END STRING
 
 > BEGIN STRING
@@ -344,7 +344,7 @@
 > CONTEXT: Map042/events/7/pages/0/1/Dialogue
 「Aaa, 
 　I wish I could have gone with the hero 
-　to defeat the demon king.
+　to defeat the Demon Lord.
 > END STRING
 
 > BEGIN STRING
@@ -568,7 +568,7 @@
 「魔王討伐に行ったウチの兵士だけどよ、
 　何か他に目的があったって聞くぜ。
 > CONTEXT: Map042/events/19/pages/0/1/Dialogue
-「My soldier went to defeat the Demon King, 
+「My soldier went to defeat the Demon Lord, 
 　but I heard he had some other purpose.
 > END STRING
 
@@ -592,7 +592,7 @@
 　ついに魔王を倒し！
 　長年の夢であった魔族掃討を成し遂げたあッ！
 > CONTEXT: Map042/events/20/pages/0/1/Dialogue
-「The hero and us finally defeated the Demon King! 
+「The hero and us finally defeated the Demon Lord! 
 　We have achieved our long-held dream 
 　of wiping out the demons!
 > END STRING
@@ -620,7 +620,7 @@
 　賢王様直々に選ばれた兵たち。
 　いわばエリートだ。
 > CONTEXT: Map042/events/21/pages/0/1/Dialogue
-「The soldiers who went to defeat the Demon King 
+「The soldiers who went to defeat the Demon Lord 
 　alongside the Hero were chosen directly 
 　by the Wise King. They were the elite, so to speak.
 > END STRING
@@ -803,7 +803,7 @@ Found a \\c[4]sexy pinup\\c[0]!
 　同行した私の友人は
 　無事だったのでしょうか……
 > CONTEXT: Map042/events/29/pages/0/4/Dialogue
-「The Demon King appears to have been defeated, 
+「The Demon Lord appears to have been defeated, 
 　but I wonder if my friend 
 　who accompanied you is safe...
 > END STRING
@@ -966,7 +966,7 @@ Found a \\c[4]sexy pinup\\c[0]!
 　そこに行けば何か分かるかも知れんな。
 > CONTEXT: Map042/events/39/pages/1/4/Dialogue
 「I see. If the power you have obtained 
-　is connected to the Demon King, 
+　is connected to the Demon Lord, 
 　then you might find something by going there.
 > END STRING
 
@@ -986,7 +986,7 @@ Found a \\c[4]sexy pinup\\c[0]!
 　ふぉっふぉっふぉ
 > CONTEXT: Map042/events/39/pages/1/10/Dialogue
 「Although, I doubt I need to show such concern
-　to the hero who defeated the Demon King.
+　to the hero who defeated the Demon Lord.
 　Fwahfwafa
 > END STRING
 

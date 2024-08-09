@@ -1,14 +1,14 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 向こうの景色が歪んで見える……
-> CONTEXT: Map059/events/3/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map059/events/3/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map059/events/3/pages/0/1/Dialogue
+> CONTEXT: Map059/events/3/pages/1/1/Dialogue
+The scenery beyond looks distorted...
 > END STRING
 
 > BEGIN STRING
 中に入りますか？
-> CONTEXT: Map059/events/3/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map059/events/3/pages/1/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map059/events/3/pages/0/2/Dialogue
+> CONTEXT: Map059/events/3/pages/1/2/Dialogue
+Go in?
 > END STRING

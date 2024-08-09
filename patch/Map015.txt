@@ -88,7 +88,7 @@ Are you okay?
 　よほど凄まじいものだったんですね……
 　ああ、聞くのも恐ろしい！
 > CONTEXT: Map015/events/4/pages/0/7/Dialogue
-「The battle with the Demon King 
+「The battle with the Demon Lord 
 　must have been extremely fierce... 
 　Oh, it's frightening to even hear about it!
 > END STRING
@@ -106,7 +106,7 @@ Are you okay?
 \\b20G\\f で宿屋に泊まりますか？
 > CONTEXT: Map015/events/4/pages/1/5/Dialogue
 > CONTEXT: Map015/events/4/pages/2/5/Dialogue
-Stay at an inn for \\b20G\\f?
+Stay at the inn for \\b20G\\f?
 > END STRING
 
 > BEGIN STRING
