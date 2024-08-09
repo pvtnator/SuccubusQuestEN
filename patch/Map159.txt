@@ -15,11 +15,11 @@
 
 > BEGIN STRING
 「きゃあっ！
-> CONTEXT: Map159/events/1/pages/0/31/Dialogue < UNTRANSLATED
-> CONTEXT: Map160/events/6/pages/0/209/Dialogue < UNTRANSLATED
-> CONTEXT: Map143/events/13/pages/1/208/Dialogue < UNTRANSLATED
-> CONTEXT: Map039/events/57/pages/0/51/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map159/events/1/pages/0/31/Dialogue
+> CONTEXT: Map160/events/6/pages/0/209/Dialogue
+> CONTEXT: Map143/events/13/pages/1/208/Dialogue
+> CONTEXT: Map039/events/57/pages/0/51/Dialogue
+「Kyaaah!
 > END STRING
 
 > BEGIN STRING

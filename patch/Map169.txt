@@ -9,58 +9,65 @@
 > BEGIN STRING
 
 　* 基礎魔術 I *
-> CONTEXT: Map169/events/6/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map169/events/7/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map046/events/33/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map046/events/34/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map169/events/6/pages/0/1/Dialogue
+> CONTEXT: Map169/events/7/pages/0/1/Dialogue
+> CONTEXT: Map046/events/33/pages/0/1/Dialogue
+> CONTEXT: Map046/events/34/pages/0/1/Dialogue
+　* Basic Magic I *
 > END STRING
 
 > BEGIN STRING
 「名に『グン』または『フニ』を持つ魔法は、
 　三度まで重ねがけが可能である。
 　有効に扱うべし。
-> CONTEXT: Map169/events/6/pages/0/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map169/events/7/pages/0/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map046/events/33/pages/0/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map046/events/34/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map169/events/6/pages/0/4/Dialogue
+> CONTEXT: Map169/events/7/pages/0/4/Dialogue
+> CONTEXT: Map046/events/33/pages/0/4/Dialogue
+> CONTEXT: Map046/events/34/pages/0/4/Dialogue
+「Magic with 'Gun' or 'Funi' in its name
+　can be stacked up to three times.
+　Use it effectively.
 > END STRING
 
 > BEGIN STRING
 「ただし『イーサ』の呪文においては
 　それら全てを一度に打ち消すことができる。
 　調子に乗りすぎぬよう気をつけるべし。
-> CONTEXT: Map169/events/6/pages/0/7/Dialogue < UNTRANSLATED
-> CONTEXT: Map169/events/7/pages/0/7/Dialogue < UNTRANSLATED
-> CONTEXT: Map046/events/33/pages/0/7/Dialogue < UNTRANSLATED
-> CONTEXT: Map046/events/34/pages/0/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map169/events/6/pages/0/7/Dialogue
+> CONTEXT: Map169/events/7/pages/0/7/Dialogue
+> CONTEXT: Map046/events/33/pages/0/7/Dialogue
+> CONTEXT: Map046/events/34/pages/0/7/Dialogue
+「However, with Ether magic,
+　all of it can be cancelled at once.
+　Be careful not to get too carried away.
 > END STRING
 
 > BEGIN STRING
 
 　* 基礎魔術 II *
-> CONTEXT: Map169/events/8/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map169/events/9/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map169/events/8/pages/0/1/Dialogue
+> CONTEXT: Map169/events/9/pages/0/1/Dialogue
+　* Basic Magic II *
 > END STRING
 
 > BEGIN STRING
 「回復魔法の効果量や
 　一部の補助魔法の成功率は
 　術者の魔力に依存する。
-> CONTEXT: Map169/events/8/pages/0/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map169/events/9/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map169/events/8/pages/0/4/Dialogue
+> CONTEXT: Map169/events/9/pages/0/4/Dialogue
+「The effectiveness of recovery magic 
+　and the success rate of some support magic 
+　depend on the magic level of the caster.
 > END STRING
 
 > BEGIN STRING
 「魔力の上がる装飾品や魔法を
 　軽く見るべからず。
-> CONTEXT: Map169/events/8/pages/0/7/Dialogue < UNTRANSLATED
-> CONTEXT: Map169/events/9/pages/0/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map169/events/8/pages/0/7/Dialogue
+> CONTEXT: Map169/events/9/pages/0/7/Dialogue
+「Magical power-boosting accessories 
+　and spells should not be taken lightly.
 > END STRING
 
 > BEGIN STRING

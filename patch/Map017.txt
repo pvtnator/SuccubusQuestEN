@@ -301,7 +301,7 @@
 　ちゃんと気を使ってるかしら？
 > CONTEXT: Map017/events/24/pages/0/1/Dialogue
 「Are you paying attention 
-　to your \\c[2]coordination\\c[0]?
+　to your \\c[2]outfit\\c[0]?
 > END STRING
 
 > BEGIN STRING

@@ -107,13 +107,13 @@
 
 > BEGIN STRING
 「きゃあっ！？
-> CONTEXT: Map313/events/10/pages/0/86/Dialogue < UNTRANSLATED
-> CONTEXT: Map316/events/10/pages/0/86/Dialogue < UNTRANSLATED
-> CONTEXT: Map313/events/16/pages/0/98/Dialogue < UNTRANSLATED
-> CONTEXT: Map316/events/16/pages/0/98/Dialogue < UNTRANSLATED
-> CONTEXT: Map193/events/10/pages/0/86/Dialogue < UNTRANSLATED
-> CONTEXT: Map193/events/16/pages/0/98/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map313/events/10/pages/0/86/Dialogue
+> CONTEXT: Map316/events/10/pages/0/86/Dialogue
+> CONTEXT: Map313/events/16/pages/0/98/Dialogue
+> CONTEXT: Map316/events/16/pages/0/98/Dialogue
+> CONTEXT: Map193/events/10/pages/0/86/Dialogue
+> CONTEXT: Map193/events/16/pages/0/98/Dialogue
+「Kyaaah!?
 > END STRING
 
 > BEGIN STRING

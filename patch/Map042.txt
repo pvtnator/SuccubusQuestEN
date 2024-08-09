@@ -954,32 +954,40 @@ Found a \\c[4]sexy pinup\\c[0]!
 「ふむ…ドラウムニョルのほこら。
 　確かにその話は
 　耳にした覚えがあるのう。
-> CONTEXT: Map042/events/39/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/39/pages/1/1/Dialogue
+「Hmm... The Shrine of Draumnior.
+　I certainly remember 
+　hearing about that story.
 > END STRING
 
 > BEGIN STRING
 「なるほど\\n[1]殿の手にした力が
 　魔王と関係しているというなら、
 　そこに行けば何か分かるかも知れんな。
-> CONTEXT: Map042/events/39/pages/1/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/39/pages/1/4/Dialogue
+「I see. If the power you have obtained 
+　is connected to the Demon King, 
+　then you might find something by going there.
 > END STRING
 
 > BEGIN STRING
 「このグランマルは騎士団を預かる身ゆえ
 　同行はできぬが、
 　くれぐれも気をつけるのじゃぞ。
-> CONTEXT: Map042/events/39/pages/1/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/39/pages/1/7/Dialogue
+「Granmal is in charge of the knights, 
+　so I can't accompany you, 
+　but please be extremely careful.
 > END STRING
 
 > BEGIN STRING
 「とは言え、魔王を倒した勇者様に
 　そのような気遣いは無用じゃったかな？
 　ふぉっふぉっふぉ
-> CONTEXT: Map042/events/39/pages/1/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/39/pages/1/10/Dialogue
+「Although, I doubt I need to show such concern
+　to the hero who defeated the Demon King.
+　Fwahfwafa
 > END STRING
 
 > BEGIN STRING

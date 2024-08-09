@@ -104,16 +104,16 @@
 
 > BEGIN STRING
 扉は固く閉ざされている……
-> CONTEXT: Map276/events/9/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map276/events/21/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map276/events/22/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map276/events/23/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map276/events/24/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map276/events/25/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map158/events/2/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map149/events/1/pages/0/11/Dialogue < UNTRANSLATED
-> CONTEXT: Map043/events/1/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map276/events/9/pages/0/1/Dialogue
+> CONTEXT: Map276/events/21/pages/0/1/Dialogue
+> CONTEXT: Map276/events/22/pages/0/1/Dialogue
+> CONTEXT: Map276/events/23/pages/0/1/Dialogue
+> CONTEXT: Map276/events/24/pages/0/1/Dialogue
+> CONTEXT: Map276/events/25/pages/0/1/Dialogue
+> CONTEXT: Map158/events/2/pages/0/1/Dialogue
+> CONTEXT: Map149/events/1/pages/0/11/Dialogue
+> CONTEXT: Map043/events/1/pages/1/1/Dialogue
+The door is firmly closed...
 > END STRING
 
 > BEGIN STRING

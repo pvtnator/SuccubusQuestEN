@@ -1,97 +1,108 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 「グルッペン高級服飾店へようこそ。
-> CONTEXT: Map047/events/1/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map047/events/1/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map047/events/1/pages/2/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map047/events/1/pages/0/1/Dialogue
+> CONTEXT: Map047/events/1/pages/1/1/Dialogue
+> CONTEXT: Map047/events/1/pages/2/1/Dialogue
+「Welcome to Gruppen Luxury Clothing Store.
 > END STRING
 
 > BEGIN STRING
 「あ…あわわわ……
-> CONTEXT: Map047/events/1/pages/3/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map047/events/1/pages/3/1/Dialogue
+「Ah...awawawa...
 > END STRING
 
 > BEGIN STRING
 「…あ、お客様ですか？
-> CONTEXT: Map047/events/1/pages/3/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map047/events/1/pages/3/2/Dialogue
+「...Oh, are you a customer?
 > END STRING
 
 > BEGIN STRING
 "悩める戦士"
-> CONTEXT: Map047/events/2/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map047/events/2/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map047/events/2/pages/0/0/InlineScript/1:4
+> CONTEXT: Map047/events/2/pages/1/0/InlineScript/1:4
+"Troubled Warrior"
 > END STRING
 
 > BEGIN STRING
 「彼女に、これからは戦士も
 　服に気を使わなきゃダメだって
 　言われて来たんだが……
-> CONTEXT: Map047/events/2/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map047/events/2/pages/0/1/Dialogue
+「She told me that from now on, 
+　warriors have to be careful 
+　about their clothes too...
 > END STRING
 
 > BEGIN STRING
 「今までヨロイ以外の見かけなんて
 　気にしたことなかったからなあ……
 　参ったよ。
-> CONTEXT: Map047/events/2/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map047/events/2/pages/0/4/Dialogue
+「Until now I've never really paid much attention 
+　to appearances other than the armor... 
+　I'm in trouble.
 > END STRING
 
 > BEGIN STRING
 「な、何だよこれっ、
 　魔物の仕業か！？
-> CONTEXT: Map047/events/2/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map047/events/2/pages/1/1/Dialogue
+「W-what is this?
+　Work of a demon!?
 > END STRING
 
 > BEGIN STRING
 「武器はまだ捨ててないぞ！
 　来るならこいっ！
-> CONTEXT: Map047/events/2/pages/1/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map047/events/2/pages/1/3/Dialogue
+「I haven't put my weapons down yet!
+　Come on, if you want!
 > END STRING
 
 > BEGIN STRING
 "女性の声"
-> CONTEXT: Map047/events/3/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map047/events/3/pages/0/0/InlineScript/1:4
+"Woman's Voice"
 > END STRING
 
 > BEGIN STRING
 「覗かないでよ、エッチ！
-> CONTEXT: Map047/events/3/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map047/events/3/pages/0/1/Dialogue
+「Don’t peek, pervert!
 > END STRING
 
 > BEGIN STRING
 
 　更衣室
-> CONTEXT: Map047/events/4/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/4/pages/0/1/Dialogue
 
+　Changing Room
 > END STRING
 
 > BEGIN STRING
 「ひとつのアイテムが使える\\c[2]コーディネート\\c[0]は
 　ひとつだけとは限らないわよ。
-> CONTEXT: Map047/events/10/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map047/events/10/pages/0/1/Dialogue
+「There's more than one possibility 
+　for \\c[2]outfit\\c[0].
 > END STRING
 
 > BEGIN STRING
 「逆に、あるコーディネートで使うアイテムを
 　別な似たアイテムで代用できたりもするかもね。
-> CONTEXT: Map047/events/10/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map047/events/10/pages/0/3/Dialogue
+「Conversly, you might be able to 
+　substitute an item used in a certain outfit
+　with a different similar item.
 > END STRING
 
 > BEGIN STRING
 「いらっしゃいませ。
 　ごゆっくりご覧下さいね。
-> CONTEXT: Map047/events/11/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map047/events/11/pages/0/1/Dialogue
+「Welcome. 
+　Please take your time to look around.
 > END STRING

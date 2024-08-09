@@ -21,14 +21,16 @@
 「マグナス様って、
 　ちょうど魔王があらわれた頃に即位されたから、
 　もうお歳は40に近いはずなのよね。
-> CONTEXT: Map045/events/4/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map045/events/4/pages/0/1/Dialogue
+「Lord Magnus ascended to the throne 
+　just when the Demon King appeared, 
+　so he must be close to 40 years old.
 > END STRING
 
 > BEGIN STRING
 「………見えないわよねーっ？
-> CONTEXT: Map045/events/4/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map045/events/4/pages/0/4/Dialogue
+「...You can't see it, can you?
 > END STRING
 
 > BEGIN STRING
@@ -48,14 +50,15 @@
 > BEGIN STRING
 「数日前、賢王様の側近の方々が
 　この庭で何かを探していました。
-> CONTEXT: Map045/events/5/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map045/events/5/pages/0/1/Dialogue
+「A few days ago, the Wise King's aides 
+　were searching for something in this garden.
 > END STRING
 
 > BEGIN STRING
 「失くしものでもしたんでしょうかね？
-> CONTEXT: Map045/events/5/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map045/events/5/pages/0/3/Dialogue
+「Did he lose something?
 > END STRING
 
 > BEGIN STRING
@@ -67,16 +70,18 @@
 
 > BEGIN STRING
 「あァ……ヒマだ………
-> CONTEXT: Map045/events/6/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map045/events/6/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map045/events/6/pages/0/1/Dialogue
+> CONTEXT: Map045/events/6/pages/1/1/Dialogue
+「Ahh... I'm bored...
 > END STRING
 
 > BEGIN STRING
 「ほんの数日前まで、命をかけて
 　魔物と戦ってたのが夢のようだ………
-> CONTEXT: Map045/events/6/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map045/events/6/pages/0/2/Dialogue
+「Just a few days ago, I was fighting demons 
+　and putting my life on the line, 
+　but it feels like a dream...
 > END STRING
 
 > BEGIN STRING

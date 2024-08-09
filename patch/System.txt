@@ -137,7 +137,7 @@ Skill
 > BEGIN STRING
 コーディネート
 > CONTEXT: System/words/weapon/
-Coordination
+Outfit
 > END STRING
 
 > BEGIN STRING

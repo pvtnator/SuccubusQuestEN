@@ -671,8 +671,8 @@ Baked Apple
 
 > BEGIN STRING
 〔食事〕 シナモンとミレットシュガーを詰めたリンゴをオーブンで焼いた料理
-> CONTEXT: Items/100/description/ < UNTRANSLATED
-
+> CONTEXT: Items/100/description/
+[Food] Oven-baked apples stuffed with cinnamon and millet sugar
 > END STRING
 
 > BEGIN STRING
@@ -689,74 +689,74 @@ Honey Biscuit
 
 > BEGIN STRING
 木いちごのケーキ
-> CONTEXT: Items/102/name/ < UNTRANSLATED
-
+> CONTEXT: Items/102/name/
+Strawberry Cake
 > END STRING
 
 > BEGIN STRING
 〔食事〕 木いちごのジャムをふんだんに使ったスポンジケーキ
-> CONTEXT: Items/102/description/ < UNTRANSLATED
-
+> CONTEXT: Items/102/description/
+[Food] Sponge cake with plenty of raspberry jam
 > END STRING
 
 > BEGIN STRING
 チュロス
-> CONTEXT: Items/103/name/ < UNTRANSLATED
-
+> CONTEXT: Items/103/name/
+Churros
 > END STRING
 
 > BEGIN STRING
 〔食事〕 グルッペンで人気の棒状の焼き菓子
-> CONTEXT: Items/103/description/ < UNTRANSLATED
-
+> CONTEXT: Items/103/description/
+[Food] Gruppen's popular bar-shaped baked goods
 > END STRING
 
 > BEGIN STRING
 人魚の口づけ
-> CONTEXT: Items/104/name/ < UNTRANSLATED
-
+> CONTEXT: Items/104/name/
+Mermaid's Kiss
 > END STRING
 
 > BEGIN STRING
 〔食事〕 フリーベリで売られているゼリー状のお菓子
-> CONTEXT: Items/104/description/ < UNTRANSLATED
-
+> CONTEXT: Items/104/description/
+[Food] Jelly snacks sold in Friberg
 > END STRING
 
 > BEGIN STRING
 プッラ
-> CONTEXT: Items/105/name/ < UNTRANSLATED
-
+> CONTEXT: Items/105/name/
+Pulla
 > END STRING
 
 > BEGIN STRING
 〔食事〕 リスヴェグで人気の球状の焼き菓子
-> CONTEXT: Items/105/description/ < UNTRANSLATED
-
+> CONTEXT: Items/105/description/
+[Food] A popular round baked snack from Lisveg
 > END STRING
 
 > BEGIN STRING
 ディバインプディング
-> CONTEXT: Items/106/name/ < UNTRANSLATED
-
+> CONTEXT: Items/106/name/
+Divine Pudding
 > END STRING
 
 > BEGIN STRING
 〔食事〕 苦めのカラメルで仕上げた高級プリン
-> CONTEXT: Items/106/description/ < UNTRANSLATED
-
+> CONTEXT: Items/106/description/
+[Food] High-quality pudding finished with bitter caramel
 > END STRING
 
 > BEGIN STRING
 グルッペンゴールド
-> CONTEXT: Items/107/name/ < UNTRANSLATED
-
+> CONTEXT: Items/107/name/
+Gruppengold
 > END STRING
 
 > BEGIN STRING
 〔食事〕 今では使われていないグルッペン金貨を模した小さなパンケーキ
-> CONTEXT: Items/107/description/ < UNTRANSLATED
-
+> CONTEXT: Items/107/description/
+[Food] Small pancakes made to resemble the old Gruppen coins.
 > END STRING
 
 > BEGIN STRING
@@ -1100,26 +1100,26 @@ Takes you out of battle without you even realizing it.
 
 > BEGIN STRING
 グラトニーベリー
-> CONTEXT: Items/203/name/ < UNTRANSLATED
-
+> CONTEXT: Items/203/name/
+Gluttony Berry
 > END STRING
 
 > BEGIN STRING
 たちまちお腹がすいてくる消化作用の強い草の実
-> CONTEXT: Items/203/description/ < UNTRANSLATED
-
+> CONTEXT: Items/203/description/
+Grass seeds with a strong digestive effect that make you hungry
 > END STRING
 
 > BEGIN STRING
 シリアスシリアル
-> CONTEXT: Items/204/name/ < UNTRANSLATED
-
+> CONTEXT: Items/204/name/
+Serious Serial
 > END STRING
 
 > BEGIN STRING
 酔い覚ましの効果がある麦の実
-> CONTEXT: Items/204/description/ < UNTRANSLATED
-
+> CONTEXT: Items/204/description/
+Barley berries with hangover-relief properties
 > END STRING
 
 > BEGIN STRING

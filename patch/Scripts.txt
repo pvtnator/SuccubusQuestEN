@@ -17724,7 +17724,7 @@
 > BEGIN STRING
 "コーディネート"
 > CONTEXT: Scripts/Window_EquipRight/52:48
-"Coordination"
+"Outfit"
 > END STRING
 
 > BEGIN STRING
