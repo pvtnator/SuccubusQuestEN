@@ -24,29 +24,31 @@
 
 > BEGIN STRING
 「賢王様がいなくなったって？
-> CONTEXT: Map043/events/2/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map043/events/2/pages/1/1/Dialogue
+「The Wise King is gone?
 > END STRING
 
 > BEGIN STRING
 「……イヤな予感、
 　当たっちゃったみたいねェ。
-> CONTEXT: Map043/events/2/pages/1/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map043/events/2/pages/1/2/Dialogue
+「...Looks like my bad feeling
+　came true.
 > END STRING
 
 > BEGIN STRING
 「急に眠って、そのまま
 　目が覚めなくなっちゃってる人が
 　たくさんいるみたいね。
-> CONTEXT: Map043/events/2/pages/2/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map043/events/2/pages/2/1/Dialogue
+「It seems like there are a lot of people 
+　who suddenly fall asleep and never wake up.
 > END STRING
 
 > BEGIN STRING
 「また嫌な予感がするわァ……。
-> CONTEXT: Map043/events/2/pages/2/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map043/events/2/pages/2/4/Dialogue
+「I have a bad feeling again...
 > END STRING
 
 > BEGIN STRING
@@ -77,15 +79,17 @@
 「賢王様は
 　玉座の間にはいらっしゃいません。
 　地下に行くと話してましたよ。
-> CONTEXT: Map043/events/3/pages/2/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map043/events/3/pages/2/1/Dialogue
+「The Wise King is not in the throne room. 
+　He said he was underground.
 > END STRING
 
 > BEGIN STRING
 「……でもこの城に
 　地下などありましたっけ……
-> CONTEXT: Map043/events/3/pages/2/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map043/events/3/pages/2/4/Dialogue
+「...But does this castle have 
+　an underground basement?
 > END STRING
 
 > BEGIN STRING
@@ -117,15 +121,17 @@
 > BEGIN STRING
 「けっ、賢王様はたっ、大変お忙しいため、
 　どっ、どっ、どなたともお会いになりませんっ！
-> CONTEXT: Map043/events/4/pages/2/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map043/events/4/pages/2/1/Dialogue
+「The Wise King is very busy, 
+　so he won't be meeting anyone!
 > END STRING
 
 > BEGIN STRING
 「いっ、いないわけじゃありませんよ！
 　本当ですよ！
-> CONTEXT: Map043/events/4/pages/2/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map043/events/4/pages/2/3/Dialogue
+「No, it's not like they aren't there!
+　Really!
 > END STRING
 
 > BEGIN STRING
@@ -145,14 +151,14 @@ There's a strange dent in the wall...
 
 > BEGIN STRING
 \\c[4]グルッペン章\\c[0]をくぼみにはめますか？
-> CONTEXT: Map043/events/6/pages/1/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map043/events/6/pages/1/2/Dialogue
+Fit the \\c[4]Gruppen Badge\\c[0] into the recess?
 > END STRING
 
 > BEGIN STRING
 地下に降りる階段をみつけた！
-> CONTEXT: Map043/events/6/pages/1/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map043/events/6/pages/1/9/Dialogue
+Found the stairs leading down to the basement!
 > END STRING
 
 > BEGIN STRING
@@ -200,33 +206,36 @@ There's a strange dent in the wall...
 > BEGIN STRING
 
 　* グルッペン北部　魔王被害リスト *
-> CONTEXT: Map043/events/11/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map043/events/12/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map043/events/11/pages/0/1/Dialogue
+> CONTEXT: Map043/events/12/pages/0/1/Dialogue
 
+　* North Gruppen Demon Lord Victim List *
 > END STRING
 
 > BEGIN STRING
 おびただしい数の項目がリストされている……
-> CONTEXT: Map043/events/11/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map043/events/12/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map043/events/11/pages/0/3/Dialogue
+> CONTEXT: Map043/events/12/pages/0/3/Dialogue
+There are a ton of items listed...
 > END STRING
 
 > BEGIN STRING
 
 　* ラドゥフス一世の治世 *
-> CONTEXT: Map043/events/13/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map043/events/14/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map043/events/13/pages/0/1/Dialogue
+> CONTEXT: Map043/events/14/pages/0/1/Dialogue
+　* Reign of Radufus I *
 > END STRING
 
 > BEGIN STRING
 グルッペン初代国王、ラドゥフス・ローゼンクランツ一世が
 いかにして破壊し尽くされたグルッペンを復興させたかが
 こと細かに記されている
-> CONTEXT: Map043/events/13/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map043/events/14/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map043/events/13/pages/0/3/Dialogue
+> CONTEXT: Map043/events/14/pages/0/3/Dialogue
+It details how Gruppen's first king, 
+Radufus Rosencrantz I, 
+restored the destroyed Gruppen.
 > END STRING
 
 > BEGIN STRING
@@ -302,29 +311,35 @@ at the \\c[1]Royal Library\\c[0].
 「実は賢王様、
 　勇者様が魔王討伐に出た直後から
 　しばらく姿が見えなくなってたんです。
-> CONTEXT: Map043/events/19/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map043/events/19/pages/0/1/Dialogue
+「The truth is, Wise King, right after 
+　the hero set out to subjugate the Demon Lord,
+　disappeared for a while.
 > END STRING
 
 > BEGIN STRING
 「こっそり勇者様を助けに行ったんじゃないかって
 　みんなウワサしてましたけど、
 　お会いになりませんでした？
-> CONTEXT: Map043/events/19/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map043/events/19/pages/0/4/Dialogue
+「Everyone was saying that 
+　he secretly went to rescue the hero, 
+　but has he met him?
 > END STRING
 
 > BEGIN STRING
 「賢王様、行方不明だそうですね。
-> CONTEXT: Map043/events/19/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map043/events/19/pages/1/1/Dialogue
+「My Wise King, he seems to be missing.
 > END STRING
 
 > BEGIN STRING
 「実はこっそり夢魔退治に行ってるんですよ！
 　……きっとそうです。
-> CONTEXT: Map043/events/19/pages/1/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map043/events/19/pages/1/2/Dialogue
+「The truth is, 
+　he's secretly gone off to exterminate succubi!
+　...I'm sure of it.
 > END STRING
 
 > BEGIN STRING

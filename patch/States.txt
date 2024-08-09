@@ -2025,8 +2025,8 @@ TP+5(愛のしるし)/100/100/105
 
 > BEGIN STRING
 ミルキーシルキー
-> CONTEXT: States/505/name/ < UNTRANSLATED
-
+> CONTEXT: States/505/name/
+Milky Silky
 > END STRING
 
 > BEGIN STRING

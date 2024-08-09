@@ -3358,9 +3358,9 @@
 
 > BEGIN STRING
 "ミルキーシルキー"
-> CONTEXT: Scripts/RPG::Weapon(detail)/31:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Actor(coordinates)/19:21 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Weapon(detail)/31:12
+> CONTEXT: Scripts/Game_Actor(coordinates)/19:21
+"Milky Silky"
 > END STRING
 
 > BEGIN STRING

@@ -106,157 +106,179 @@
 > BEGIN STRING
 「賢王様のこと…
 　既に聞き及んでいるようじゃの。
-> CONTEXT: Map042/events/5/pages/1/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/5/pages/1/14/Dialogue
+「About the Wise King...
+　It seems you have already heard about it.
 > END STRING
 
 > BEGIN STRING
 「む、それは…？
-> CONTEXT: Map042/events/5/pages/1/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/5/pages/1/16/Dialogue
+「Hmm, that's...?
 > END STRING
 
 > BEGIN STRING
 「\\c[4]魔王のかけら\\c[0]……
 　おお…、なんと……！
-> CONTEXT: Map042/events/5/pages/1/23/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/5/pages/1/23/Dialogue
+「\\c[4]Fragment of the Demon Lord\\c[0]...
+　Oh...what...!
 > END STRING
 
 > BEGIN STRING
 「実は賢王様が調べていたという書物に、
 　その魔王のかけらに関するものと
 　おぼしき記述があったのじゃ。
-> CONTEXT: Map042/events/5/pages/1/25/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/5/pages/1/25/Dialogue
+「Actually, in the book that the Wise King 
+　was researching, there was a passage that 
+　seemed to be about Demon Lord's fragments.
 > END STRING
 
 > BEGIN STRING
 「それによれば、
 　かつて夢魔がこの地に現れた時、
-> CONTEXT: Map042/events/5/pages/1/28/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/5/pages/1/28/Dialogue
+「According to this,
+　when succubi once appeared in this land,
 > END STRING
 
 > BEGIN STRING
 「勇者は『剣』、『杖』、『槍』、『杯』、
 　そして『使い魔』の５つの\\dかけら\\dを手にし
 　夢魔を世界から追い出したと……
-> CONTEXT: Map042/events/5/pages/1/30/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/5/pages/1/30/Dialogue
+「The hero obtained five pieces: 
+　sword, staff, spear, cup, and familiar, 
+　and banished the succubi from the world...
 > END STRING
 
 > BEGIN STRING
 「これがその一つ……
 　ではもしや賢王様も………
-> CONTEXT: Map042/events/5/pages/1/33/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/5/pages/1/33/Dialogue
+「This is one of them...
+　Then perhaps the Wise King...
 > END STRING
 
 > BEGIN STRING
 「グランマル様！
-> CONTEXT: Map042/events/5/pages/1/50/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/5/pages/1/50/Dialogue
+「Lord Granmal!
 > END STRING
 
 > BEGIN STRING
 「ご命じになられていた\\c[1]西の街道\\c[0]の
 　復旧ですが、何とか人が通れるまでには
 　復旧したとの報が入りました。
-> CONTEXT: Map042/events/5/pages/1/57/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/5/pages/1/57/Dialogue
+「You ordered the restoration of the \\c[1]West Highway\\c[0], 
+　and we have received word that it has been restored 
+　to the point where people can pass through.
 > END STRING
 
 > BEGIN STRING
 「おお、ご苦労！
-> CONTEXT: Map042/events/5/pages/1/61/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/5/pages/1/61/Dialogue
+「Oh, your work is appreciated!
 > END STRING
 
 > BEGIN STRING
 「\\n[1]殿！
 　今はドゥヂチへ向かいなされ！
-> CONTEXT: Map042/events/5/pages/1/84/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/5/pages/1/84/Dialogue
+「Mr. \\n[1]!
+　Go to Dodichi now!
 > END STRING
 
 > BEGIN STRING
 「夢魔にさらわれた
 　オリビア殿を助け出すことが、
 　今は何より先決のはずじゃ。
-> CONTEXT: Map042/events/5/pages/1/86/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/5/pages/1/86/Dialogue
+「Right now, our first priority should be 
+　rescuing Lady Olivia, 
+　who has been kidnapped by succubi.
 > END STRING
 
 > BEGIN STRING
 「それに、夢魔が何か目的があって
 　ドゥヂチへ向かったなら、
-> CONTEXT: Map042/events/5/pages/1/89/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/5/pages/1/89/Dialogue
+「And if the succubi 
+　had some purpose in heading to Dodichi,
 > END STRING
 
 > BEGIN STRING
 「それはドゥヂチに魔王のかけらが
 　あるということかも知れぬ。
-> CONTEXT: Map042/events/5/pages/1/91/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/5/pages/1/91/Dialogue
+「That may mean that Dodichi 
+　has a fragment of the Demon Lord.
 > END STRING
 
 > BEGIN STRING
 「賢王様がお戻りになるまで、
 　グルッペンのことは
 　このグランマルに任されよ。
-> CONTEXT: Map042/events/5/pages/1/93/Dialogue < UNTRANSLATED
-> CONTEXT: Map042/events/39/pages/3/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/5/pages/1/93/Dialogue
+> CONTEXT: Map042/events/39/pages/3/3/Dialogue
+「Until the Wise King returns, 
+　leave Gruppen to Granmal.
 > END STRING
 
 > BEGIN STRING
 「ドゥヂチは\\c[1]西の街道\\c[0]を進み、
 　三叉路を北に向かえば見えてこよう。
-> CONTEXT: Map042/events/5/pages/1/102/Dialogue < UNTRANSLATED
-> CONTEXT: Map042/events/39/pages/3/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/5/pages/1/102/Dialogue
+> CONTEXT: Map042/events/39/pages/3/1/Dialogue
+「To get to Dodichi, head along the \\c[1]West Road\\c[0], 
+　then head north at the three-way intersection 
+　and you'll see it.
 > END STRING
 
 > BEGIN STRING
 「くれぐれもお気をつけてくだされ。
-> CONTEXT: Map042/events/5/pages/1/104/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/5/pages/1/104/Dialogue
+「Please be extremely careful.
 > END STRING
 
 > BEGIN STRING
 「おお、ラルス殿……！
-> CONTEXT: Map042/events/5/pages/3/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/5/pages/3/4/Dialogue
+「Oh, Mr. Lars...!
 > END STRING
 
 > BEGIN STRING
 「なんということじゃ！
 　まさか賢王様がお一人で
 　夢魔に立ち向かっていたとは…！
-> CONTEXT: Map042/events/5/pages/3/21/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/5/pages/3/21/Dialogue
+「What a thing to happen! 
+　I can't believe that the Wise King 
+　was facing off against the succubus all by himself!
 > END STRING
 
 > BEGIN STRING
 「それに気づかぬとは、
 　おお、このグランマル……
-> CONTEXT: Map042/events/5/pages/3/24/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/5/pages/3/24/Dialogue
+「And I didn't realize it?
+　Oh, this Granmal...
 > END STRING
 
 > BEGIN STRING
 「……いや、もう嘆いていても仕方なきこと。
-> CONTEXT: Map042/events/5/pages/3/29/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/5/pages/3/29/Dialogue
+「...No, there's no point in lamenting it now.
 > END STRING
 
 > BEGIN STRING
 「今はそれより、
 　これを使い賢王様のもとへ……！
-> CONTEXT: Map042/events/5/pages/3/30/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/5/pages/3/30/Dialogue
+「For now, 
+　let's use this and go to the Wise King...!
 > END STRING
 
 > BEGIN STRING
@@ -269,28 +291,30 @@
 「ではわしは、準備のために
 　客人を迎えねばならぬので
 　これにて失礼を。
-> CONTEXT: Map042/events/5/pages/3/40/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/5/pages/3/40/Dialogue
+「Well, I must now excuse myself, 
+　as I must welcome our guests in preparation.
 > END STRING
 
 > BEGIN STRING
 「ラルス殿、頼みましたぞ……！
-> CONTEXT: Map042/events/5/pages/3/43/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/5/pages/3/43/Dialogue
+「Mr. Lars, I'm counting on you...!
 > END STRING
 
 > BEGIN STRING
 「えっと………
-> CONTEXT: Map042/events/5/pages/3/58/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/177/56/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/5/pages/3/58/Dialogue
+> CONTEXT: Commonevents/177/56/Dialogue
+「Ummm...
 > END STRING
 
 > BEGIN STRING
 「何コレ？
 　どうすればいいの？
-> CONTEXT: Map042/events/5/pages/3/59/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/5/pages/3/59/Dialogue
+「What is this? 
+　What should I do?
 > END STRING
 
 > BEGIN STRING
@@ -314,28 +338,32 @@
 「聞いたか？
 　今度は賢王様が
 　行方不明だそうじゃないか。
-> CONTEXT: Map042/events/6/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/6/pages/1/1/Dialogue
+「Did you hear? 
+　Now it seems that 
+　the Wise King is missing.
 > END STRING
 
 > BEGIN STRING
 「一体どうなっちまってるんだ……
-> CONTEXT: Map042/events/6/pages/1/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/6/pages/1/4/Dialogue
+「What on earth is going on...
 > END STRING
 
 > BEGIN STRING
 「賢王様がお帰りになられたが、
 　またすぐにどこかへ行かれてしまった。
-> CONTEXT: Map042/events/6/pages/2/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/6/pages/2/1/Dialogue
+「The Wise King returned home, 
+　but soon after he left again.
 > END STRING
 
 > BEGIN STRING
 「グランマル隊長と
 　何か話していたみたいだったが……
-> CONTEXT: Map042/events/6/pages/2/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/6/pages/2/3/Dialogue
+「Seemed like he was talking about something 
+　with Captain Granmal...
 > END STRING
 
 > BEGIN STRING
@@ -359,15 +387,17 @@
 > BEGIN STRING
 「魔王討伐に行った奴ら、
 　いつまでも帰ってこないんだよな……
-> CONTEXT: Map042/events/7/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/7/pages/1/1/Dialogue
+「Those who go to defeat the Demon Lord 
+　never come back...
 > END STRING
 
 > BEGIN STRING
 「そして賢王様……
 　な、なんかヤバいことでも起きてんのか？
-> CONTEXT: Map042/events/7/pages/1/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/7/pages/1/3/Dialogue
+「And the Wise King...
+　I-is something bad happening?
 > END STRING
 
 > BEGIN STRING
@@ -388,8 +418,9 @@
 > BEGIN STRING
 「すやすや……
 　あ、そこダメ………
-> CONTEXT: Map042/events/8/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/8/pages/1/1/Dialogue
+「Zzz...
+　Ah, not there...
 > END STRING
 
 > BEGIN STRING
@@ -401,10 +432,11 @@
 > BEGIN STRING
 「\\n[1]様、玉座の間にて
 　賢王様がお待ちでございます
-> CONTEXT: Map042/events/10/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map042/events/11/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map042/events/12/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/10/pages/0/1/Dialogue
+> CONTEXT: Map042/events/11/pages/0/1/Dialogue
+> CONTEXT: Map042/events/12/pages/0/1/Dialogue
+「Mr. \\n[1], the Wise King 
+　is waiting for you in the throne room.
 > END STRING
 
 > BEGIN STRING
@@ -428,107 +460,125 @@
 「……おや？
 　あなたも召喚魔法と似たような魔法が
 　使えるようですね。
-> CONTEXT: Map042/events/13/pages/1/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/13/pages/1/2/Dialogue
+「...Oh?
+　It seems you can also use magic 
+　similar to summoning magic.
 > END STRING
 
 > BEGIN STRING
 「ふむ、魔法とは違うが覚えたばかりと。
-> CONTEXT: Map042/events/13/pages/1/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/13/pages/1/5/Dialogue
+「Hmm, it's different from magic,
+　but something you learned.
 > END STRING
 
 > BEGIN STRING
 「しかし私の知る召喚魔法と
 　ほぼ変わらないようですね。
 　よろしければ少しご説明しましょうか？
-> CONTEXT: Map042/events/13/pages/1/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/13/pages/1/6/Dialogue
+「But it seems to be pretty much the same 
+　as the summoning magic I know.
+　May I explain it to you?
 > END STRING
 
 > BEGIN STRING
 「よろしければご説明しましょうか？」
-> CONTEXT: Map042/events/13/pages/1/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/13/pages/1/10/Dialogue
+「May I explain it to you?」
 > END STRING
 
 > BEGIN STRING
 「\\r[召喚,サモン]とは文字通り、
 　魔法生物を\\r[喚,よ]び出して共に戦う魔法です。
-> CONTEXT: Map042/events/13/pages/1/14/Dialogue < UNTRANSLATED
-> CONTEXT: Map042/events/13/pages/2/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/13/pages/1/14/Dialogue
+> CONTEXT: Map042/events/13/pages/2/7/Dialogue
+「Summoning is, as the name suggests, 
+　magic that summons creatures 
+　to fight alongside you.
 > END STRING
 
 > BEGIN STRING
 「しかし、単純に戦力が
 　二倍になるかというとそうはいきません。
-> CONTEXT: Map042/events/13/pages/1/16/Dialogue < UNTRANSLATED
-> CONTEXT: Map042/events/13/pages/2/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/13/pages/1/16/Dialogue
+> CONTEXT: Map042/events/13/pages/2/9/Dialogue
+「However, it's not as simple as 
+　just doubling your fighting power.
 > END STRING
 
 > BEGIN STRING
 「まず\\r[召喚,サモン]を使っている間、あなたの精神は
 　徐々に磨耗していきます。
 　簡単に言うとテンションが上がりにくくなります。
-> CONTEXT: Map042/events/13/pages/1/18/Dialogue < UNTRANSLATED
-> CONTEXT: Map042/events/13/pages/2/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/13/pages/1/18/Dialogue
+> CONTEXT: Map042/events/13/pages/2/11/Dialogue
+「First of all, while you're using [Summon], 
+　your spirit will gradually wear down.
+　To put it simply, it becomes harder to increase tension.
 > END STRING
 
 > BEGIN STRING
 「また\\r[召喚,サモン]で呼び出した使い魔は、
 　持久力があまり高くありません。
 　魔力が無くなる前に\\r[帰還,リターン]させる必要があります。
-> CONTEXT: Map042/events/13/pages/1/21/Dialogue < UNTRANSLATED
-> CONTEXT: Map042/events/13/pages/2/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/13/pages/1/21/Dialogue
+> CONTEXT: Map042/events/13/pages/2/14/Dialogue
+「Also, summoned familiars do not have very high stamina.
+　You need to return them before they run out of magic.
 > END STRING
 
 > BEGIN STRING
 「使い魔の魔力は、
 　\\r[帰還,リターン]している間徐々に回復していきます。
-> CONTEXT: Map042/events/13/pages/1/24/Dialogue < UNTRANSLATED
-> CONTEXT: Map042/events/13/pages/2/17/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/13/pages/1/24/Dialogue
+> CONTEXT: Map042/events/13/pages/2/17/Dialogue
+「Your familiar's magic 
+　will gradually recover 
+　while it is returned.
 > END STRING
 
 > BEGIN STRING
 「\\r[召喚,サモン]と\\r[帰還,リターン]のタイミングを
 　見極めることが、
 　召喚魔法の極意とも言えましょう。
-> CONTEXT: Map042/events/13/pages/1/26/Dialogue < UNTRANSLATED
-> CONTEXT: Map042/events/13/pages/2/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/13/pages/1/26/Dialogue
+> CONTEXT: Map042/events/13/pages/2/19/Dialogue
+「The secret to summoning magic 
+　is to determine the timing of 
+　[Summon] and [Return].
 > END STRING
 
 > BEGIN STRING
 「また召喚魔法のことで知りたいことがあったら、
 　いつでも聞きにきて下さい。
-> CONTEXT: Map042/events/13/pages/1/29/Dialogue < UNTRANSLATED
-> CONTEXT: Map042/events/13/pages/2/22/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/13/pages/1/29/Dialogue
+> CONTEXT: Map042/events/13/pages/2/22/Dialogue
+「If there's anything else 
+　you'd like to know about summoning magic,
+　please come and ask me anytime.
 > END STRING
 
 > BEGIN STRING
 「何か疑問が出てきたら
 　いつでも聞きに来て下さい。
-> CONTEXT: Map042/events/13/pages/1/35/Dialogue < UNTRANSLATED
-> CONTEXT: Map042/events/13/pages/2/27/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/13/pages/1/35/Dialogue
+> CONTEXT: Map042/events/13/pages/2/27/Dialogue
+「If you have any questions, 
+　please come and ask me anytime.
 > END STRING
 
 > BEGIN STRING
 「召喚魔法の説明を聞きたいですか？
-> CONTEXT: Map042/events/13/pages/2/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/13/pages/2/1/Dialogue
+「Want me to explain summoning magic?
 > END STRING
 
 > BEGIN STRING
 「召喚魔法の説明を聞きたいですか？」
-> CONTEXT: Map042/events/13/pages/2/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/13/pages/2/3/Dialogue
+「Want me to explain summoning magic?」
 > END STRING
 
 > BEGIN STRING
@@ -552,16 +602,17 @@
 > BEGIN STRING
 
 　* ポスト魔王時代のグルッペン郵政問題について *
-> CONTEXT: Map042/events/16/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map042/events/17/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map042/events/16/pages/0/1/Dialogue
+> CONTEXT: Map042/events/17/pages/0/1/Dialogue
 
+　* On the Gruppen Postal Service Problem in the Post-Evil Era *
 > END STRING
 
 > BEGIN STRING
 ……あまり面白い本ではなさそうだ
-> CONTEXT: Map042/events/16/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map042/events/17/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/16/pages/0/3/Dialogue
+> CONTEXT: Map042/events/17/pages/0/3/Dialogue
+...It doesn't seem like a very interesting book.
 > END STRING
 
 > BEGIN STRING
@@ -583,8 +634,9 @@
 > BEGIN STRING
 「賢王様？
 　さあ……ここには来てないぜ。
-> CONTEXT: Map042/events/19/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/19/pages/1/1/Dialogue
+「Wise King?
+　I don't know... he's not here.
 > END STRING
 
 > BEGIN STRING
@@ -605,14 +657,14 @@
 
 > BEGIN STRING
 「け、賢王様が……、消え………
-> CONTEXT: Map042/events/20/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/20/pages/1/1/Dialogue
+「The Wise King has vanished...
 > END STRING
 
 > BEGIN STRING
 「ど、どうして………
-> CONTEXT: Map042/events/20/pages/1/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/20/pages/1/2/Dialogue
+「Wh-why...
 > END STRING
 
 > BEGIN STRING
@@ -637,23 +689,25 @@
 > BEGIN STRING
 「賢王様と一緒に、
 　主だった側近もどこかに消えてしまったらしい。
-> CONTEXT: Map042/events/21/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/21/pages/1/1/Dialogue
+「It seems that along with the Wise King,
+　his main aides have also disappeared somewhere.
 > END STRING
 
 > BEGIN STRING
 「今やグランマル隊長だけが我々の支えだ。
 　隊長がここにいて本当に良かったよ。
-> CONTEXT: Map042/events/21/pages/1/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/21/pages/1/3/Dialogue
+「Commander Granmal is our only support now. 
+　I'm so glad he's here.
 > END STRING
 
 > BEGIN STRING
 「凶暴な魔物は確かにいなくなったが、
 　また新しい魔物があらわれたとも聞く。
 > CONTEXT: Map042/events/22/pages/0/1/Dialogue
-「The violent monsters are certainly gone, 
-　but I heard that new monsters have appeared.
+「The violent demons are certainly gone, 
+　but I heard that new demons have appeared.
 > END STRING
 
 > BEGIN STRING
@@ -667,28 +721,32 @@
 > BEGIN STRING
 「全てが上手くいったと思っていたところだけに、
 　賢王様がいなくなったショックは大きい。
-> CONTEXT: Map042/events/22/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/22/pages/1/1/Dialogue
+「Just when I thought everything was going well,
+　the disappearance of the Wise King 
+　comes as a big shock.
 > END STRING
 
 > BEGIN STRING
 「それに加えて例の夢魔……
 　今こそ騎士団の能力が問われる時かも知れん。
-> CONTEXT: Map042/events/22/pages/1/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/22/pages/1/3/Dialogue
+「And on top of that, there's that succubus...
+　Now may be the time to test 
+　the abilities of the knights.
 > END STRING
 
 > BEGIN STRING
 「何か異変が起きている……
-> CONTEXT: Map042/events/22/pages/2/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/22/pages/2/1/Dialogue
+「Something strange is happening...
 > END STRING
 
 > BEGIN STRING
 「しかし、それに対し
 　我々のなんと無力なことか……
-> CONTEXT: Map042/events/22/pages/2/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/22/pages/2/2/Dialogue
+「But how powerless we are against it...
 > END STRING
 
 > BEGIN STRING
@@ -778,14 +836,15 @@ Found a \\c[4]sexy pinup\\c[0]!
 > BEGIN STRING
 「むにゃ…ここは………
 　…グルッペン城…………
-> CONTEXT: Map042/events/28/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/28/pages/1/1/Dialogue
+「Mmmm...this is...
+...Gruppen Castle...
 > END STRING
 
 > BEGIN STRING
 「…ｚ…ｚｚｚ…………
-> CONTEXT: Map042/events/28/pages/1/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/28/pages/1/3/Dialogue
+「..z..zzz.....
 > END STRING
 
 > BEGIN STRING
@@ -832,23 +891,25 @@ Found a \\c[4]sexy pinup\\c[0]!
 
 > BEGIN STRING
 「……あっ、いけないっ！
-> CONTEXT: Map042/events/30/pages/1/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/30/pages/1/5/Dialogue
+「...Ah, no!
 > END STRING
 
 > BEGIN STRING
 「…お掃除中に居眠りしちゃってたの、
 　みんなには内緒ですよ？
-> CONTEXT: Map042/events/30/pages/1/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/30/pages/1/6/Dialogue
+「...I fell asleep while cleaning,
+　it's a secret from everyone, okay?
 > END STRING
 
 > BEGIN STRING
 
 　* 騎士団長日誌 *
-> CONTEXT: Map042/events/31/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map042/events/50/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map042/events/31/pages/0/1/Dialogue
+> CONTEXT: Map042/events/50/pages/0/1/Dialogue
 
+　* Knight Commander's Journal *
 > END STRING
 
 > BEGIN STRING
@@ -856,9 +917,12 @@ Found a \\c[4]sexy pinup\\c[0]!
 　一人の少年が城を訪れ、騎士団に入りたいと言う。
 　まだ幼すぎるため、受け入れるわけにはいかない。
 　行くあてが無いというので暫く面倒を見ることにする。
-> CONTEXT: Map042/events/31/pages/0/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map042/events/50/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/31/pages/0/4/Dialogue
+> CONTEXT: Map042/events/50/pages/0/4/Dialogue
+「Royalty Calendar Year 714, Thunder God Month, 7th day.
+　A boy visits the castle and wants to join the knights.
+　He is too young to be accepted, so we cannot take him.
+　Nowhere to go, we decide to look after him for a while.
 > END STRING
 
 > BEGIN STRING
@@ -866,9 +930,12 @@ Found a \\c[4]sexy pinup\\c[0]!
 　先日の少年は、レンシェットから来たらしい。
 　確か魔王の軍勢に滅ぼされた町だ。
 　どうやって来たのかなど、それ以上のことは話さない。
-> CONTEXT: Map042/events/31/pages/0/8/Dialogue < UNTRANSLATED
-> CONTEXT: Map042/events/50/pages/0/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/31/pages/0/8/Dialogue
+> CONTEXT: Map042/events/50/pages/0/8/Dialogue
+「Royalty Calendar Year 714, Thunder God Month, 8th day.
+　The boy from the other day seems to have come from Renkott,
+　a town destroyed by Demon Lord's forces, as I remember.
+　He won't tell me anything more, such as how he got here.
 > END STRING
 
 > BEGIN STRING
@@ -876,9 +943,12 @@ Found a \\c[4]sexy pinup\\c[0]!
 　少年にどうしても剣を教えて欲しいと詰め寄られる。
 　両親を魔王の軍勢に殺され、その仇が取りたいようだ。
 　しかし騎士団に入れるわけにはいかない。
-> CONTEXT: Map042/events/31/pages/0/12/Dialogue < UNTRANSLATED
-> CONTEXT: Map042/events/50/pages/0/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/31/pages/0/12/Dialogue
+> CONTEXT: Map042/events/50/pages/0/12/Dialogue
+「Royalty Calendar Year 714, Wolf God Month, 17th day.
+　The boy comes to me wanting to learn swordsmanship.
+　His parents killed by Demon Lord's army, he wants revenge.
+　But we can't let him join the knights.
 > END STRING
 
 > BEGIN STRING
@@ -886,45 +956,54 @@ Found a \\c[4]sexy pinup\\c[0]!
 　最近、演習の帰りに少年と手合わせするのが
 　日課になりつつある。
 　筋がいい。この分ならすぐに上達するだろう。
-> CONTEXT: Map042/events/31/pages/0/16/Dialogue < UNTRANSLATED
-> CONTEXT: Map042/events/50/pages/0/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/31/pages/0/16/Dialogue
+> CONTEXT: Map042/events/50/pages/0/16/Dialogue
+「Royalty Calendar Year 714, Snake God Month, 2nd day.
+　It has become a daily routine for me to 
+　practice with the boy on my way home from training.
+　He has good muscles. At this rate, he'll improve quickly.
 > END STRING
 
 > BEGIN STRING
 「おい、起きろよ、
 　起きろってば……
-> CONTEXT: Map042/events/32/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/32/pages/0/1/Dialogue
+「Hey, wake up,
+　wake up...
 > END STRING
 
 > BEGIN STRING
 「何いつまでも寝てるんだよ……
 　………おい！
-> CONTEXT: Map042/events/32/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/32/pages/0/3/Dialogue
+「Why are you sleeping so long...? 
+　...Hey!
 > END STRING
 
 > BEGIN STRING
 「賢王様が帰ってきたと思ったら
 　またどこかへ行ってしまったので、
-> CONTEXT: Map042/events/37/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/37/pages/0/1/Dialogue
+「Just when I thought the Wise King had returned, 
+　he went off somewhere again,
 > END STRING
 
 > BEGIN STRING
 「相変わらず城は
 　グランマル殿がまとめておいでです。
-> CONTEXT: Map042/events/37/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/37/pages/0/3/Dialogue
+「Lord Granmal is still 
+　in charge of the castle as usual.
 > END STRING
 
 > BEGIN STRING
 「グランマル殿がいなければ、
 　この異常事態と王の不在に
 　誰も耐えられなかったでしょう。
-> CONTEXT: Map042/events/37/pages/0/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/37/pages/0/5/Dialogue
+「Without Lord Granmal, none of us 
+　would have been able to endure this 
+　extraordinary situation and the absence of the King.
 > END STRING
 
 > BEGIN STRING
@@ -946,8 +1025,9 @@ Found a \\c[4]sexy pinup\\c[0]!
 「\\c[1]王立図書館\\c[0]へ
 　行ってみるとよいじゃろう。
 　この階の南東じゃ。
-> CONTEXT: Map042/events/39/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/39/pages/0/1/Dialogue
+「You might want to go to the \\c[1]Royal Library\\c[0]. 
+　It's in the southeast of this floor.
 > END STRING
 
 > BEGIN STRING
@@ -994,51 +1074,58 @@ Found a \\c[4]sexy pinup\\c[0]!
 「口惜しや、このグランマル、
 　もう二十も若ければ
 　\\n[1]殿と共に戦えもしたものの…。
-> CONTEXT: Map042/events/39/pages/4/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/39/pages/4/1/Dialogue
+「How frustrating, this Granmal
+　twenty years younger,
+　could have fought alongside you, Mr. \\n[1].
 > END STRING
 
 > BEGIN STRING
 「せめて賢王様不在の
 　グルッペンは、このわしが
 　お守りいたそう。
-> CONTEXT: Map042/events/39/pages/4/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/39/pages/4/4/Dialogue
+「At least I will look after Gruppen 
+　while the Wise King is away.
 > END STRING
 
 > BEGIN STRING
 「\\n[1]殿は気にせず、
 　夢魔どもと戦ってきてくだされ。
-> CONTEXT: Map042/events/39/pages/4/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/39/pages/4/7/Dialogue
+「Don't worry about it, Mr. \\n[1].
+Go and fight the succubi.
 > END STRING
 
 > BEGIN STRING
 「おお、\\n[1]殿！
 　いよいよ夜の国へ向かうのじゃな！
-> CONTEXT: Map042/events/39/pages/6/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/39/pages/6/1/Dialogue
+「Oh, Mr. \\n[1]!
+　You are finally heading to the Land of Night!
 > END STRING
 
 > BEGIN STRING
 「…しかしこのグランマルの
 　なんと無力なことか…
-> CONTEXT: Map042/events/39/pages/6/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/39/pages/6/3/Dialogue
+「...But how powerless this Granmal is...
 > END STRING
 
 > BEGIN STRING
 「この剣の一振り、未だ錆びてはおらぬ、
 　それが何の役にも立てぬとは……
-> CONTEXT: Map042/events/39/pages/6/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/39/pages/6/5/Dialogue
+「This sword has not yet rusted, 
+　and yet it is of no use...
 > END STRING
 
 > BEGIN STRING
 「うむ、そうじゃ、役立たずついでに
 　これをお渡ししておこう。
-> CONTEXT: Map042/events/39/pages/6/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/39/pages/6/7/Dialogue
+「Well, well, it's useless, 
+　so I'll give it to you.
 > END STRING
 
 > BEGIN STRING
@@ -1051,141 +1138,167 @@ Found a \\c[4]sexy pinup\\c[0]!
 「覚えておられるかな。
 　\\n[1]殿がこの城に来たばかりの頃、
 　わしとの稽古で折れた剣じゃ。
-> CONTEXT: Map042/events/39/pages/6/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/39/pages/6/13/Dialogue
+「Do you remember?
+　This is the sword that broke during training with me 
+　when you first came to this castle, Mr. \\n[1].
 > END STRING
 
 > BEGIN STRING
 「あの頃の\\n[1]殿は
 　親を殺し村を滅ぼした魔王への憎しみ、
 　ひたすらそれのみで動いておった。
-> CONTEXT: Map042/events/39/pages/6/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/39/pages/6/16/Dialogue
+「Back then, Mr. \\n[1] was driven 
+　solely by his hatred for the Demon Lord 
+　who had killed his parents and destroyed his village.
 > END STRING
 
 > BEGIN STRING
 「そして強かった。
 　魔物と戦ってきた城の兵士ですら、
 　すぐに敵わなくなってしまった。
-> CONTEXT: Map042/events/39/pages/6/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/39/pages/6/19/Dialogue
+「And you were strong.
+　Even the castle soldiers who had been fighting demons
+　were soon no match for you.
 > END STRING
 
 > BEGIN STRING
 「…今も、魔王へのあの憎しみは
 　変わってないのかの？
-> CONTEXT: Map042/events/39/pages/6/22/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/39/pages/6/22/Dialogue
+「Even now, 
+　has your hatred for the Demon Lord changed?
 > END STRING
 
 > BEGIN STRING
 「魔王への憎しみは変わってないのかの？」
-> CONTEXT: Map042/events/39/pages/6/25/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/39/pages/6/25/Dialogue
+「Has your hatred for the Demon Lord changed?
 > END STRING
 
 > BEGIN STRING
 「うむ…。
 　憎しみとは、心の負の働きのように
 　語られることもあるが、
-> CONTEXT: Map042/events/39/pages/6/29/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/39/pages/6/29/Dialogue
+「Hmm... 
+　Hatred is sometimes spoken of 
+　as a negative emotion in the heart,
 > END STRING
 
 > BEGIN STRING
 「しかしそれは強さじゃ。
 　敵を倒す強さに、正も負も
 　あるものではない。
-> CONTEXT: Map042/events/39/pages/6/32/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/39/pages/6/32/Dialogue
+「But that is strength.
+　The strength to defeat an enemy 
+　is neither positive nor negative.
 > END STRING
 
 > BEGIN STRING
 「\\n[1]殿が成長し、
 　勇者として世界を救ったのも
 　それのお陰じゃろう。
-> CONTEXT: Map042/events/39/pages/6/35/Dialogue < UNTRANSLATED
-> CONTEXT: Map042/events/39/pages/6/50/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/39/pages/6/35/Dialogue
+> CONTEXT: Map042/events/39/pages/6/50/Dialogue
+「It's probably thanks to that, Mr. \\n[1], 
+　that you grew up and 
+　became a hero to save the world.
 > END STRING
 
 > BEGIN STRING
 「さあ、その強い意志をもって、
 　夢魔を…そして魔王を、
 　打ち倒してくるのじゃ。
-> CONTEXT: Map042/events/39/pages/6/38/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/39/pages/6/38/Dialogue
+「Now, with that strong will,
+　go and defeat the succubus...
+　and the Demon Lord.
 > END STRING
 
 > BEGIN STRING
 「大切な人を、
 　助け出すためにのう。
-> CONTEXT: Map042/events/39/pages/6/41/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/39/pages/6/41/Dialogue
+「Rescue that special person.
 > END STRING
 
 > BEGIN STRING
 「うむ…。
 　確かに強い憎しみとは、強い心でもある。
-> CONTEXT: Map042/events/39/pages/6/48/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/39/pages/6/48/Dialogue
+「Yes....
+　It's true that strong hatred 
+　also means a strong heart.
 > END STRING
 
 > BEGIN STRING
 「じゃが、それで\\d倒せる\\d相手は
 　限られとるようじゃ……
-> CONTEXT: Map042/events/39/pages/6/53/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/39/pages/6/53/Dialogue
+「But it seems like the opponents 
+　you can \\ddefeat\\d are limited...
 > END STRING
 
 > BEGIN STRING
 「わしも、この夢魔というものを知るまで、
 　そんなこと考えもせんかったのじゃがのう。
-> CONTEXT: Map042/events/39/pages/6/55/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/39/pages/6/55/Dialogue
+「I never even thought about it 
+　until I discovered succubi.
 > END STRING
 
 > BEGIN STRING
 「さあ、\\n[1]殿、
 　夢魔たちに必要なのは、それに代わる
 　新しい力じゃ。
-> CONTEXT: Map042/events/39/pages/6/57/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/39/pages/6/57/Dialogue
+「Now, Mr. \\n[1],
+　what the succubi need 
+　is a new power to replace it.
 > END STRING
 
 > BEGIN STRING
 「\\n[1]殿はきっと、
 　それが何かもう分かってるはずじゃな。
-> CONTEXT: Map042/events/39/pages/6/60/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/39/pages/6/60/Dialogue
+「I'm sure you already know 
+　what it is, Mr. \\n[1]
 > END STRING
 
 > BEGIN STRING
 「うむ、老人の長話もこれで終わりじゃ。
-> CONTEXT: Map042/events/39/pages/6/62/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/39/pages/6/62/Dialogue
+「Well, this is the end of the old man's long story.
 > END STRING
 
 > BEGIN STRING
 「後のことは気にせず、
 　行ってくるがよろしい。
-> CONTEXT: Map042/events/39/pages/6/63/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/39/pages/6/63/Dialogue
+「Don't worry about what happens after, 
+　just go.
 > END STRING
 
 > BEGIN STRING
 「賢王様も魔術士殿も
 　あの場所から離れられぬようじゃが、
-> CONTEXT: Map042/events/39/pages/7/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/39/pages/7/1/Dialogue
+「Neither the Wise King 
+　nor the Magician can leave that place,
 > END STRING
 
 > BEGIN STRING
 「なに、このグランマル、
 　今しばらくグルッペンの平和を
 　繋ぎとめてみせましょうぞ。
-> CONTEXT: Map042/events/39/pages/7/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/39/pages/7/3/Dialogue
+「This Granmal,
+　will try to hold onto the peace of Gruppen 
+　for a little while longer.
 > END STRING
 
 > BEGIN STRING
@@ -1202,47 +1315,52 @@ Found a \\c[4]sexy pinup\\c[0]!
 「……ひょっとして、
 　賢王様が行方不明などというウワサを
 　お聞きになられましたか？
-> CONTEXT: Map042/events/41/pages/1/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/41/pages/1/3/Dialogue
+「Have you perhaps heard rumors 
+　that the Wise King has gone missing?
 > END STRING
 
 > BEGIN STRING
 「ウワサをお聞きになられましたか？」
-> CONTEXT: Map042/events/41/pages/1/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/41/pages/1/7/Dialogue
+「Have you heard the rumors?」
 > END STRING
 
 > BEGIN STRING
 「……あまり話が広がると
 　パニックになりかねません。
 　どうかこのことはご内密に……。
-> CONTEXT: Map042/events/41/pages/1/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/41/pages/1/11/Dialogue
+「...If this gets out too much,
+　it could lead to panic.
+　Please keep this a secret...
 > END STRING
 
 > BEGIN STRING
 「あ、ならば良いのです。
 　どうぞお気にせずに。
-> CONTEXT: Map042/events/41/pages/1/18/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/41/pages/1/18/Dialogue
+「Ah, that's fine then.
+　Please don't worry about it.
 > END STRING
 
 > BEGIN STRING
 「ううむ……
 　賢王様はいつになったら
 　戻られるのか………
-> CONTEXT: Map042/events/41/pages/2/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/41/pages/2/1/Dialogue
+「Hmmm...
+　When will the Wise King return...?
 > END STRING
 
 > BEGIN STRING
 「ふぁ…………
-> CONTEXT: Map042/events/41/pages/3/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/41/pages/3/1/Dialogue
+「Faah...
 > END STRING
 
 > BEGIN STRING
 「あ、し、失礼しましたっ！
-> CONTEXT: Map042/events/41/pages/3/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map042/events/41/pages/3/5/Dialogue
+「Ah, I, I'm sorry!
 > END STRING

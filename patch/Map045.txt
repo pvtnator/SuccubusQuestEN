@@ -36,15 +36,18 @@
 > BEGIN STRING
 「ねえ聞いた？
 　賢王様がいなくなっちゃったって。
-> CONTEXT: Map045/events/4/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map045/events/4/pages/1/1/Dialogue
+「Hey, did you hear?
+　The Wise King has disappeared.
 > END STRING
 
 > BEGIN STRING
 「でも誘拐されるような人じゃないし……
 　きっとふらっと戻ってくるわよ。
-> CONTEXT: Map045/events/4/pages/1/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map045/events/4/pages/1/3/Dialogue
+「But he's not the type of person 
+　who would get kidnapped...
+　I'm sure he'll just come back.
 > END STRING
 
 > BEGIN STRING
@@ -64,8 +67,9 @@
 > BEGIN STRING
 「庭はいいですね………
 　心が安らぎます……。
-> CONTEXT: Map045/events/5/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map045/events/5/pages/1/1/Dialogue
+「The garden is lovely....
+　It's so peaceful....
 > END STRING
 
 > BEGIN STRING
@@ -87,33 +91,37 @@
 > BEGIN STRING
 「………なんて言ってられなくなったな。
 　もはや何が起こるか分からん。
-> CONTEXT: Map045/events/6/pages/1/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map045/events/6/pages/1/2/Dialogue
+「...I can't say that anymore.
+　I don't know what's going to happen anymore.
 > END STRING
 
 > BEGIN STRING
 「先ほど、
 　賢王様がお帰りになられたようです。
-> CONTEXT: Map045/events/6/pages/2/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map045/events/6/pages/2/1/Dialogue
+「The Wise King 
+　has just returned home.
 > END STRING
 
 > BEGIN STRING
 「しかしただごとではない様子でした。
 　一体………
-> CONTEXT: Map045/events/6/pages/2/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map045/events/6/pages/2/3/Dialogue
+「But something seemed a bit unusual.
+　What on earth...
 > END STRING
 
 > BEGIN STRING
 何かが落ちていた跡がある
-> CONTEXT: Map045/events/10/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map045/events/10/pages/0/1/Dialogue
+There are traces of something having fallen
 > END STRING
 
 > BEGIN STRING
 「ここ……、
 　かすかに魔力を感じるわね。
-> CONTEXT: Map045/events/10/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map045/events/10/pages/0/4/Dialogue
+「Here...
+　I can sense a faint magical power.
 > END STRING

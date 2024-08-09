@@ -2,8 +2,9 @@
 > BEGIN STRING
 「いらっしゃいませ。
 　何をお求めでしょう？
-> CONTEXT: Map169/events/5/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map169/events/5/pages/0/1/Dialogue
+「Welcome.
+　What would you like?
 > END STRING
 
 > BEGIN STRING

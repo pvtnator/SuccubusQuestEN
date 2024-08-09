@@ -581,27 +581,31 @@
 > BEGIN STRING
 「夢魔も自分たちが追い出されないように
 　先に\\dかけら\\dを見つけようとしてるはずよ。
-> CONTEXT: Commonevents/23/408/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/23/408/Dialogue
+「The succubi are probably trying to 
+　find the \\dfragments\\d first 
+　so they don't get chased away.
 > END STRING
 
 > BEGIN STRING
 「夢魔が何か目的を持って動いてるなら、
 　その先に\\dかけら\\dがあるかもしれないわね。
-> CONTEXT: Commonevents/23/410/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/23/410/Dialogue
+「If the succubi are acting 
+　with some kind of goal in mind, 
+　then there might be a \\dfragment\\d ahead.
 > END STRING
 
 > BEGIN STRING
 「何だかおかしな町ね…。
-> CONTEXT: Commonevents/24/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/24/1/Dialogue
+「It's a strange town...
 > END STRING
 
 > BEGIN STRING
 「何だったのかしら…今の………
-> CONTEXT: Commonevents/24/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/24/6/Dialogue
+「I wonder what it was...that just now...
 > END STRING
 
 > BEGIN STRING

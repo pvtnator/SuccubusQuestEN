@@ -91,14 +91,14 @@
 
 > BEGIN STRING
 ミルキーシルキー/3/0/0
-> CONTEXT: Weapons/12/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/12/name/
+Milky Silky/3/0/0
 > END STRING
 
 > BEGIN STRING
 魅力+3 / 技巧+3
-> CONTEXT: Weapons/12/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/12/description/
+Charm +3 / Skill +3
 > END STRING
 
 > BEGIN STRING

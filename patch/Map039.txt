@@ -266,7 +266,7 @@ home of the Wise King!
 > BEGIN STRING
 「あっ、勇者様！
 　賢王様をご存知ありませんか？
-> CONTEXT: Map039/events/48/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map039/events/48/pages/1/1/Dialogue
 「Ah, Hero!
 　Do you know the Wise King?
 > END STRING
@@ -274,21 +274,21 @@ home of the Wise King!
 > BEGIN STRING
 「急にいなくなってしまったんですって……。
 　お城の人たちも探してますわ。
-> CONTEXT: Map039/events/48/pages/1/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map039/events/48/pages/1/3/Dialogue
 「He suddenly disappeared...
 　The people at the castle are also looking for him.
 > END STRING
 
 > BEGIN STRING
 「あ、勇者さま！
-> CONTEXT: Map039/events/48/pages/2/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map039/events/48/pages/2/3/Dialogue
 「Ah, Hero!
 > END STRING
 
 > BEGIN STRING
 「何か………
 　より立派になられましたね…\\e[0]
-> CONTEXT: Map039/events/48/pages/2/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map039/events/48/pages/2/4/Dialogue
 「Somehow...
 　You've become even more impressive...\\e[0]
 > END STRING
@@ -296,9 +296,9 @@ home of the Wise King!
 > BEGIN STRING
 「怪しい者はいないか、
 　城下を見回っております。
-> CONTEXT: Map039/events/49/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map039/events/49/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map039/events/49/pages/2/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map039/events/49/pages/0/1/Dialogue
+> CONTEXT: Map039/events/49/pages/1/1/Dialogue
+> CONTEXT: Map039/events/49/pages/2/1/Dialogue
 「I'm patrolling the castle town 
 　to see if there is anyone suspicious.
 > END STRING
@@ -307,9 +307,9 @@ home of the Wise King!
 「勇者様が帰ってきたからには、
 　もうそんな必要もないかも知れませんがね。
 　はっはっは
-> CONTEXT: Map039/events/49/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map039/events/49/pages/1/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map039/events/49/pages/2/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map039/events/49/pages/0/3/Dialogue
+> CONTEXT: Map039/events/49/pages/1/3/Dialogue
+> CONTEXT: Map039/events/49/pages/2/3/Dialogue
 「Now that the hero has returned,
 　there may be no need for that anymore.
 　Hahhahha
@@ -318,7 +318,7 @@ home of the Wise King!
 > BEGIN STRING
 「え、賢王様？
 　さあ、私は存じませんが……。
-> CONTEXT: Map039/events/49/pages/1/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map039/events/49/pages/1/6/Dialogue
 「Eh, Wise King?
 　I don't know...
 > END STRING
@@ -326,7 +326,7 @@ home of the Wise King!
 > BEGIN STRING
 「そこかしこで、
 　急に眠りだす者が増えているようです。
-> CONTEXT: Map039/events/49/pages/3/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map039/events/49/pages/3/1/Dialogue
 「All over the place, more and more people
 　are suddenly falling asleep.
 > END STRING
@@ -335,7 +335,7 @@ home of the Wise King!
 「魔王がいなくなり
 　賢王様も無事戻られたとはいえ、
 　気がゆるみすぎです。まったく。
-> CONTEXT: Map039/events/49/pages/3/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map039/events/49/pages/3/3/Dialogue
 「Even though the Demon Lord is gone 
 　and the Wise King has returned safely, 
 　you're still being far too relaxed. Seriously.
@@ -356,29 +356,33 @@ home of the Wise King!
 > BEGIN STRING
 「ねえ、賢王様が
 　いなくなっちゃったってホント！？
-> CONTEXT: Map039/events/50/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map039/events/50/pages/1/1/Dialogue
+「Hey, is it true 
+　that the Wise King has disappeared!?
 > END STRING
 
 > BEGIN STRING
 「……勇者様もステキだけど、
 　賢王様がいないとやっぱり不安だわ……
-> CONTEXT: Map039/events/50/pages/1/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map039/events/50/pages/1/3/Dialogue
+「...The hero is wonderful, 
+　but I still feel uneasy without the Wise King...
 > END STRING
 
 > BEGIN STRING
 「賢王様が、ついに
 　お帰りになったんですってね！
-> CONTEXT: Map039/events/50/pages/2/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map039/events/50/pages/2/1/Dialogue
+「The Wise King 
+　has finally returned!
 > END STRING
 
 > BEGIN STRING
 「勇者様もいるし、
 　これでもうムテキだわっ\\e[0]
-> CONTEXT: Map039/events/50/pages/2/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map039/events/50/pages/2/3/Dialogue
+「Hero too,
+　we are invincible\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -445,20 +449,22 @@ Show the \\c[4]Miranda Referral\\c[0]?
 「ああ、信じられませぬ。
 　魔王がいなくなり勇者様も帰ってきたというのに、
 　賢王様がいなくなってしまわれるとは……。
-> CONTEXT: Map039/events/53/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map039/events/53/pages/1/1/Dialogue
+「Oh, I can't believe it.
+　The Demon Lord is gone, the Hero has returned,
+　and now the Wise King has disappeared...
 > END STRING
 
 > BEGIN STRING
 「おお、グルッペンはどうなってしまうのでしょう……
-> CONTEXT: Map039/events/53/pages/1/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map039/events/53/pages/1/4/Dialogue
+「Oh, what will become of Gruppen?
 > END STRING
 
 > BEGIN STRING
 どうやらうたた寝しているようだ
-> CONTEXT: Map039/events/53/pages/2/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map039/events/53/pages/2/3/Dialogue
+Apparently taking a nap.
 > END STRING
 
 > BEGIN STRING
@@ -615,8 +621,8 @@ Sleeping with a calm face...
 　ありがたいことでござんす。
 > CONTEXT: Map039/events/61/pages/0/3/Dialogue
 (I'm so grateful that 
-　he would speak 
-　even to this stray dog.
+ he would speak 
+ even to this stray dog.
 > END STRING
 
 > BEGIN STRING
@@ -625,23 +631,27 @@ Sleeping with a calm face...
 　大変なことになってござんすな。
 > CONTEXT: Map039/events/61/pages/1/3/Dialogue
 (Recently, people have 
-　suddenly started falling asleep, 
-　and it's quite a big deal.
+ suddenly started falling asleep, 
+ and it's quite a big deal.
 > END STRING
 
 > BEGIN STRING
 （この野良犬が見たところでは、へえ、
 　眠りには個人差があるようですが、
-> CONTEXT: Map039/events/61/pages/1/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map039/events/61/pages/1/6/Dialogue
+(From what this stray dog has seen, 
+ it seems like there are 
+ individual differences in how people dream.
 > END STRING
 
 > BEGIN STRING
 （放っておけば皆々様、
 　一人残らず仲良く夢の世界へご招待と、
 　へえ、あいなりますでしょうなあ。
-> CONTEXT: Map039/events/61/pages/1/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map039/events/61/pages/1/8/Dialogue
+(If we leave them alone, 
+ everyone will be invited to the dream world together,
+ and I guess that'll be how it goes.
 > END STRING
 
 > BEGIN STRING
@@ -663,19 +673,21 @@ Sleeping with a calm face...
 
 > BEGIN STRING
 「お店はマメに覗いてるかしら？
-> CONTEXT: Map039/events/62/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map039/events/62/pages/1/1/Dialogue
+「Do you check stores regularly?
 > END STRING
 
 > BEGIN STRING
 「いつのまにか新しい品物が増えてることって
 　よくあるわよ。
-> CONTEXT: Map039/events/62/pages/1/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map039/events/62/pages/1/2/Dialogue
+「It's common for new items to appear 
+　all of a sudden.
 > END STRING
 
 > BEGIN STRING
 「最近道ばたで寝てる人がよくいるわね。
-> CONTEXT: Map039/events/62/pages/2/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map039/events/62/pages/2/1/Dialogue
+「There are a lot of people 
+　sleeping on the roadside these days.
 > END STRING

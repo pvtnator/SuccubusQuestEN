@@ -37,9 +37,10 @@
 > BEGIN STRING
 「いらっしゃいませ。
 　何をお探しでしょう？
-> CONTEXT: Map127/events/19/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map127/events/19/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map127/events/19/pages/0/1/Dialogue
+> CONTEXT: Map127/events/19/pages/1/1/Dialogue
+「Welcome.
+　What are you looking for?
 > END STRING
 
 > BEGIN STRING
