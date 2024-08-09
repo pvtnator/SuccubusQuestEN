@@ -109,8 +109,8 @@
 
 > BEGIN STRING
 魅力+3 / 精力+3 / 精神力+3
-> CONTEXT: Weapons/13/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/13/description/
+Charm +3 / Energy +3 / Spirit +3
 > END STRING
 
 > BEGIN STRING

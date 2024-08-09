@@ -136,7 +136,7 @@
 > CONTEXT: Map039/events/20/pages/1/2/Choice/0 < UNTRANSLATED
 > CONTEXT: Map039/events/20/pages/2/2/Choice/0 < UNTRANSLATED
 > CONTEXT: Map039/events/20/pages/3/2/Choice/0 < UNTRANSLATED
-
+Eastern Road (towards Raum)
 > END STRING
 
 > BEGIN STRING
@@ -150,7 +150,7 @@
 > CONTEXT: Map039/events/20/pages/1/2/Choice/1 < UNTRANSLATED
 > CONTEXT: Map039/events/20/pages/2/2/Choice/2 < UNTRANSLATED
 > CONTEXT: Map039/events/20/pages/3/2/Choice/2 < UNTRANSLATED
-
+Draumnior Shrine
 > END STRING
 
 > BEGIN STRING
@@ -161,7 +161,7 @@
 > CONTEXT: Map039/events/19/pages/3/2/Choice/1 < UNTRANSLATED
 > CONTEXT: Map039/events/20/pages/2/2/Choice/1 < UNTRANSLATED
 > CONTEXT: Map039/events/20/pages/3/2/Choice/1 < UNTRANSLATED
-
+Western Road (towards Friberg-Dodichi)
 > END STRING
 
 > BEGIN STRING
@@ -169,28 +169,30 @@
 > CONTEXT: Map039/events/18/pages/3/2/Choice/3 < UNTRANSLATED
 > CONTEXT: Map039/events/19/pages/3/2/Choice/3 < UNTRANSLATED
 > CONTEXT: Map039/events/20/pages/3/2/Choice/3 < UNTRANSLATED
-
+Lodvin Volcano
 > END STRING
 
 > BEGIN STRING
 「あら、あなた、
 　珍しい指輪を持ってるわね。
 > CONTEXT: Map039/events/43/pages/0/2/Dialogue < UNTRANSLATED
-
+「Oho, you have a unique ring.
 > END STRING
 
 > BEGIN STRING
 「変わった魔力を感じるわ。
 　でもまだ眠ってるような……
 > CONTEXT: Map039/events/43/pages/0/4/Dialogue < UNTRANSLATED
-
+「I sense a strange magical power.
+But it seems as if it's still asleep...
 > END STRING
 
 > BEGIN STRING
 「どこか特別な場所で、
 　力を引き出したりできるんじゃないかしら？
 > CONTEXT: Map039/events/43/pages/0/6/Dialogue < UNTRANSLATED
-
+「Maybe there's some special place 
+where you can draw out its powers?
 > END STRING
 
 > BEGIN STRING
@@ -212,8 +214,8 @@
 　\\c[2]恍惚\\c[0]で動けなくなっちゃう子もいるんじゃない？
 > CONTEXT: Map039/events/43/pages/0/15/Dialogue
 「If you were to give a fascinating kiss,
-I bet there are girls who would be 
-so \\c[2]ecstatic\\c[0] that they wouldn't be able to move.
+　I bet there are girls who would be 
+　so \\c[2]ecstatic\\c[0] that they wouldn't be able to move.
 > END STRING
 
 > BEGIN STRING
@@ -536,7 +538,8 @@ Sleeping with a calm face...
 「ここグルッペンからは、
 　東西にグルッペン街道が伸びています。
 > CONTEXT: Map039/events/60/pages/0/1/Dialogue < UNTRANSLATED
-
+「From here in Gruppen,
+　the Gruppen Road stretches east and west.
 > END STRING
 
 > BEGIN STRING
@@ -544,7 +547,9 @@ Sleeping with a calm face...
 　西はフリーベリに通じていますが、
 　今は潰されていて通れません。
 > CONTEXT: Map039/events/60/pages/0/3/Dialogue < UNTRANSLATED
-
+「To the east it leads to Raum and Sipuli, 
+　and to the west to Friberg, 
+　but it's now blocked off and impassable.
 > END STRING
 
 > BEGIN STRING
@@ -552,26 +557,28 @@ Sleeping with a calm face...
 　復旧作業を進めているので、
 　きっとすぐにでも通れるようになると思いますよ。
 > CONTEXT: Map039/events/60/pages/0/6/Dialogue < UNTRANSLATED
-
+「But the soldiers are working hard
+　to restore the bridge, 
+　so I'm sure it will be passable again soon.
 > END STRING
 
 > BEGIN STRING
 「兵士の方々が、
 　慌てた様子でお城の方へ走ってました。
 > CONTEXT: Map039/events/60/pages/1/1/Dialogue < UNTRANSLATED
-
+「The soldiers were running towards the castle in a panic.
 > END STRING
 
 > BEGIN STRING
 「お城で何かあったのでしょうか……？
 > CONTEXT: Map039/events/60/pages/1/3/Dialogue < UNTRANSLATED
-
+「Did something happen at the castle?
 > END STRING
 
 > BEGIN STRING
 「フリーベリへの街道が復旧したみたいですね。
 > CONTEXT: Map039/events/60/pages/2/1/Dialogue < UNTRANSLATED
-
+「Looks like the road to Friberg has been restored.
 > END STRING
 
 > BEGIN STRING
@@ -603,7 +610,9 @@ Sleeping with a calm face...
 　眠りだしまして、へえ、
 　大変なことになってござんすな。
 > CONTEXT: Map039/events/61/pages/1/3/Dialogue < UNTRANSLATED
-
+(Recently, people have 
+　suddenly started falling asleep, 
+　and it's quite a big deal.
 > END STRING
 
 > BEGIN STRING

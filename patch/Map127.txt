@@ -44,19 +44,19 @@
 
 > BEGIN STRING
 「またお越し下さい。
-> CONTEXT: Map127/events/19/pages/0/8/Dialogue < UNTRANSLATED
-> CONTEXT: Map127/events/19/pages/1/11/Dialogue < UNTRANSLATED
-> CONTEXT: Map051/events/8/pages/0/25/Dialogue < UNTRANSLATED
-> CONTEXT: Map047/events/1/pages/0/8/Dialogue < UNTRANSLATED
-> CONTEXT: Map048/events/10/pages/0/7/Dialogue < UNTRANSLATED
-> CONTEXT: Map047/events/1/pages/1/9/Dialogue < UNTRANSLATED
-> CONTEXT: Map051/events/8/pages/0/51/Dialogue < UNTRANSLATED
-> CONTEXT: Map048/events/10/pages/1/8/Dialogue < UNTRANSLATED
-> CONTEXT: Map047/events/1/pages/2/11/Dialogue < UNTRANSLATED
-> CONTEXT: Map048/events/10/pages/2/10/Dialogue < UNTRANSLATED
-> CONTEXT: Map047/events/1/pages/3/13/Dialogue < UNTRANSLATED
-> CONTEXT: Map048/events/10/pages/3/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map127/events/19/pages/0/8/Dialogue
+> CONTEXT: Map127/events/19/pages/1/11/Dialogue
+> CONTEXT: Map051/events/8/pages/0/25/Dialogue
+> CONTEXT: Map047/events/1/pages/0/8/Dialogue
+> CONTEXT: Map048/events/10/pages/0/7/Dialogue
+> CONTEXT: Map047/events/1/pages/1/9/Dialogue
+> CONTEXT: Map051/events/8/pages/0/51/Dialogue
+> CONTEXT: Map048/events/10/pages/1/8/Dialogue
+> CONTEXT: Map047/events/1/pages/2/11/Dialogue
+> CONTEXT: Map048/events/10/pages/2/10/Dialogue
+> CONTEXT: Map047/events/1/pages/3/13/Dialogue
+> CONTEXT: Map048/events/10/pages/3/13/Dialogue
+「Please come again.
 > END STRING
 
 > BEGIN STRING

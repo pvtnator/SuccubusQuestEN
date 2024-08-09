@@ -5,7 +5,7 @@
 > CONTEXT: Map055/events/2/pages/0/0/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Map057/events/16/pages/0/0/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Map054/events/14/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-
+"Demon"
 > END STRING
 
 > BEGIN STRING
@@ -41,7 +41,8 @@
 > CONTEXT: Map055/events/2/pages/1/1/Dialogue < UNTRANSLATED
 > CONTEXT: Map057/events/16/pages/1/1/Dialogue < UNTRANSLATED
 > CONTEXT: Map054/events/14/pages/1/1/Dialogue < UNTRANSLATED
-
+The demons' essence has been sucked out, 
+completely drained...
 > END STRING
 
 > BEGIN STRING

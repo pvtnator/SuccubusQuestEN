@@ -288,15 +288,15 @@ Sedatives
 
 > BEGIN STRING
 興奮剤
-> CONTEXT: Items/33/name/ < UNTRANSLATED
-
+> CONTEXT: Items/33/name/
+Stimulant
 > END STRING
 
 > BEGIN STRING
 〔ドラッグ〕 テンションアップ / 副作用もあるかも…？
-> CONTEXT: Items/33/description/ < UNTRANSLATED
-> CONTEXT: Items/34/description/ < UNTRANSLATED
-
+> CONTEXT: Items/33/description/
+> CONTEXT: Items/34/description/
+[Drug] Increase Mood / May have side effects...?
 > END STRING
 
 > BEGIN STRING
@@ -492,7 +492,7 @@ SQ_Food
 > BEGIN STRING
 〔食事〕 チーズとたっぷりの玉ネギを乗せたシプリ名物オープンサンド
 > CONTEXT: Items/52/description/
-[Meal] Sipuli's specialty open sandwich with cheese and onions
+[Food] Sipuli's specialty open sandwich with cheese and onions
 > END STRING
 
 > BEGIN STRING
@@ -515,20 +515,20 @@ SQ_Food
 
 > BEGIN STRING
 〔食事〕 緑の野菜を鮮やかに盛り付けたヘルシーなサラダ
-> CONTEXT: Items/61/description/ < UNTRANSLATED
-
+> CONTEXT: Items/61/description/
+[Food] Healthy salad with vibrant green vegetables
 > END STRING
 
 > BEGIN STRING
 〔食事〕 森で採れるナッツをふんだんに使ったサラダ
 > CONTEXT: Items/62/description/
-[Meal] Salad made with plenty of nuts from the forest
+[Food] Salad made with plenty of nuts from the forest
 > END STRING
 
 > BEGIN STRING
 〔食事〕 ルグブロードを流れる川で採れる新鮮なザリガニを使ったサラダ
 > CONTEXT: Items/63/description/
-[Meal] With fresh crayfish caught in the Lugbrood river
+[Food] With fresh crayfish caught in the Lugbrood river
 > END STRING
 
 > BEGIN STRING
@@ -563,62 +563,62 @@ Salted Herring
 
 > BEGIN STRING
 イワシのマリネ
-> CONTEXT: Items/72/name/ < UNTRANSLATED
-
+> CONTEXT: Items/72/name/
+Marinated Sardines
 > END STRING
 
 > BEGIN STRING
 〔食事〕 新鮮なイワシをブドウ酢とミョッズ酒に短時間漬けた料理
-> CONTEXT: Items/72/description/ < UNTRANSLATED
-
+> CONTEXT: Items/72/description/
+[Food] Fresh sardines soaked briefly in grape vinegar and mioz wine
 > END STRING
 
 > BEGIN STRING
 スモークサーモン
-> CONTEXT: Items/73/name/ < UNTRANSLATED
-
+> CONTEXT: Items/73/name/
+Smoked Salmon
 > END STRING
 
 > BEGIN STRING
 〔食事〕 サケの切り身を樹木のチップで燻製にした料理
-> CONTEXT: Items/73/description/ < UNTRANSLATED
-
+> CONTEXT: Items/73/description/
+[Food] Salmon fillet smoked with wood chips
 > END STRING
 
 > BEGIN STRING
 〔食事〕 直火で焼いたサンマに岩塩をふり、シトラスの果汁をかけた料理
-> CONTEXT: Items/74/description/ < UNTRANSLATED
-
+> CONTEXT: Items/74/description/
+[Food] Grilled pacific saury sprinkled with rock salt and citrus juice
 > END STRING
 
 > BEGIN STRING
 〔食事〕 サバを発酵させた大豆と共にトロトロに煮込んだ料理
-> CONTEXT: Items/75/description/ < UNTRANSLATED
-
+> CONTEXT: Items/75/description/
+[Food] Mackerel stewed with fermented soybeans until soft and tender
 > END STRING
 
 > BEGIN STRING
 〔食事〕 新鮮なイカを丸のまま網焼きにした料理
-> CONTEXT: Items/76/description/ < UNTRANSLATED
-
+> CONTEXT: Items/76/description/
+[Food] Fresh whole squid grilled on a wire rack
 > END STRING
 
 > BEGIN STRING
 〔食事〕 保存・携帯に便利な羊の干し肉
-> CONTEXT: Items/80/description/ < UNTRANSLATED
-
+> CONTEXT: Items/80/description/
+[Food] Dried lamb, easy to store and carry
 > END STRING
 
 > BEGIN STRING
 仔鳩のグリル
-> CONTEXT: Items/81/name/ < UNTRANSLATED
-
+> CONTEXT: Items/81/name/
+Grilled Baby Pigeon
 > END STRING
 
 > BEGIN STRING
 〔食事〕 柔らかい仔鳩を直火でグリルした料理
-> CONTEXT: Items/81/description/ < UNTRANSLATED
-
+> CONTEXT: Items/81/description/
+[Food] Tender baby pigeon grilled over an open flame
 > END STRING
 
 > BEGIN STRING
@@ -629,26 +629,26 @@ Salted Herring
 
 > BEGIN STRING
 〔食事〕 野ウサギを香ばしくソテーしたグルッペン名物料理
-> CONTEXT: Items/83/description/ < UNTRANSLATED
-
+> CONTEXT: Items/83/description/
+[Food] Gruppen's specialty dish of fragrantly sauteed wild rabbit
 > END STRING
 
 > BEGIN STRING
 〔食事〕 ルグブロードに生息するトカゲを丸のまま焼いた料理
-> CONTEXT: Items/84/description/ < UNTRANSLATED
-
+> CONTEXT: Items/84/description/
+[Food] Whole roasted Lugbrod lizard
 > END STRING
 
 > BEGIN STRING
 〔食事〕 雪ウサギの肉をとろとろになるまで煮込んだシチュー
-> CONTEXT: Items/85/description/ < UNTRANSLATED
-
+> CONTEXT: Items/85/description/
+[Food] Snow rabbit meat stew simmered until tender
 > END STRING
 
 > BEGIN STRING
 〔食事〕 衣をつけて揚げた豚肉と香辛料のたっぷり入ったスープの料理
-> CONTEXT: Items/86/description/ < UNTRANSLATED
-
+> CONTEXT: Items/86/description/
+[Food] Deep-fried battered pork and a soup rich in spices
 > END STRING
 
 > BEGIN STRING
@@ -1365,14 +1365,14 @@ Sexy Elf portrait printed with Lisveig's applied magic
 
 > BEGIN STRING
 ミランダ紹介状
-> CONTEXT: Items/255/name/ < UNTRANSLATED
-
+> CONTEXT: Items/255/name/
+Miranda Referral
 > END STRING
 
 > BEGIN STRING
 愛の宿・ミランダに入るために必要な紹介状
-> CONTEXT: Items/255/description/ < UNTRANSLATED
-
+> CONTEXT: Items/255/description/
+Referral required to enter Miranda, the Inn of Love
 > END STRING
 
 > BEGIN STRING

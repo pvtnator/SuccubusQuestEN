@@ -3,29 +3,34 @@
 「イタズラ好きな魔物には、
 　男の\\dアレ\\dを小さくしちまう
 　魔法を使う奴もいるらしい……
-> CONTEXT: Map049/events/2/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map049/events/2/pages/0/1/Dialogue
+「Among the mischievous demons, 
+　there are some that use magic 
+　to shrink a man's \\dthing\\d...
 > END STRING
 
 > BEGIN STRING
 「か、考えただけでも恐ろしいぜ……・
-> CONTEXT: Map049/events/2/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map049/events/2/pages/0/4/Dialogue
+「I-it's scary just to think about it...
 > END STRING
 
 > BEGIN STRING
 「ここで売っている\\c[2]エッセンス\\c[0]で
 　治療できるバッドステートは、
 　どれも自然には治らないものばかりです。
-> CONTEXT: Map049/events/3/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map049/events/3/pages/0/1/Dialogue
+「Status ailments that can be cured 
+　with \\c[2]essences\\c[0] sold here
+　are all conditions that cannot be cured naturally.
 > END STRING
 
 > BEGIN STRING
 「ちょっと余分に持っていた方が
 　安心かも知れませんね。
-> CONTEXT: Map049/events/3/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map049/events/3/pages/0/4/Dialogue
+「It might be safer to have 
+　a few extra things with you.
 > END STRING
 
 > BEGIN STRING
@@ -33,11 +38,13 @@
 　誠にありがとうございます。
 　こちらでは、リンドヴァルで扱っております
 　商品の種類についてご案内しております。
-> CONTEXT: Map049/events/5/pages/0/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map049/events/6/pages/0/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/9/pages/0/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/11/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map049/events/5/pages/0/4/Dialogue
+> CONTEXT: Map049/events/6/pages/0/4/Dialogue
+> CONTEXT: Map016/events/9/pages/0/4/Dialogue
+> CONTEXT: Map016/events/11/pages/0/4/Dialogue
+「Thank you very much for visiting 'Lindval Relaxtion Shop'.
+　Here, we would like to introduce you 
+　to the types of products we carry at Lindval.
 > END STRING
 
 > BEGIN STRING
@@ -45,24 +52,30 @@
 　センシブになったりナーバスになったりなど、あなたにとって
 　好ましくない状態から回復するのに向いております。
 　お取り込み中でもご使用なさることが可能です。
-> CONTEXT: Map049/events/5/pages/0/16/Dialogue < UNTRANSLATED
-> CONTEXT: Map049/events/6/pages/0/16/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/9/pages/0/16/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/11/pages/0/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map049/events/5/pages/0/16/Dialogue
+> CONTEXT: Map049/events/6/pages/0/16/Dialogue
+> CONTEXT: Map016/events/9/pages/0/16/Dialogue
+> CONTEXT: Map016/events/11/pages/0/16/Dialogue
+「[Essence]
+　It is suitable for recovering from undesirable conditions 
+　such as being sensitive or nervous.
+　They can also be used during insertion.
 > END STRING
 
 > BEGIN STRING
 「魔王もいなくなったし、
 　これからは恋する乙女になるのよっ
-> CONTEXT: Map049/events/9/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map049/events/9/pages/0/1/Dialogue
+「The Demon King is gone,
+　I'll become a girl in love from now on.
 > END STRING
 
 > BEGIN STRING
 「甘ぁ～い香水で、
 　今町にいる勇者様のこと
 　誘惑しちゃおっと♪
-> CONTEXT: Map049/events/9/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map049/events/9/pages/0/3/Dialogue
+「With my sweet perfume, 
+　I'm going to seduce the hero 
+　who's in town right now.
 > END STRING

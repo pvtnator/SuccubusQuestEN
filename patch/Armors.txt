@@ -1094,14 +1094,14 @@ Charm +3 / Agility +3
 
 > BEGIN STRING
 古びたロザリオ/-1/0
-> CONTEXT: Armors/143/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/143/name/
+Old Rosary/-1/0
 > END STRING
 
 > BEGIN STRING
 魅力-1 / 精神力+6
-> CONTEXT: Armors/143/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/143/description/
+Charisma -1 / Spirit +6
 > END STRING
 
 > BEGIN STRING

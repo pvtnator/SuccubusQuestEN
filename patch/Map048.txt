@@ -2,48 +2,55 @@
 > BEGIN STRING
 「高い買い物ばっかりしてると、
 　すぐお金がなくなっちゃうわよね。
-> CONTEXT: Map048/events/1/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map048/events/1/pages/0/1/Dialogue
+「If you keep buying expensive things,
+　you'll run out of money quickly.
 > END STRING
 
 > BEGIN STRING
 「いらなくなった物は
 　売っちゃった方がいいこともあるわよ。
-> CONTEXT: Map048/events/1/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map048/events/1/pages/0/3/Dialogue
+「Sometimes it's for the best to 
+　sell things you no longer need.
 > END STRING
 
 > BEGIN STRING
 「こちらのフロアでは、
 　宝石やアクセサリーなど
 　取り扱っております。
-> CONTEXT: Map048/events/9/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map048/events/9/pages/0/1/Dialogue
+「On this floor, 
+　we sell jewelry, 
+　accessories, and more.
 > END STRING
 
 > BEGIN STRING
 「最近お客さんが少ないんですが、
 　どうしちゃったんですかね。
-> CONTEXT: Map048/events/10/pages/4/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map048/events/10/pages/4/13/Dialogue
+「There haven't been many customers lately,
+　I wonder what's going on.
 > END STRING
 
 > BEGIN STRING
 「あなたが何を目的に
 　ここの品物を買うかは存じませんけど、
-> CONTEXT: Map048/events/13/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map048/events/13/pages/0/1/Dialogue
+「I don't know what your purpose is 
+　in buying the items here,
 > END STRING
 
 > BEGIN STRING
 「値段と性能は必ずしも見合わないとは
 　覚えておいた方がよろしくてよ。
-> CONTEXT: Map048/events/13/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map048/events/13/pages/0/3/Dialogue
+「It's good to remember that price 
+　and performance don't always match.
 > END STRING
 
 > BEGIN STRING
 「何か下が騒がしいわね…？
-> CONTEXT: Map048/events/13/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map048/events/13/pages/1/1/Dialogue
+「There's some kind of commotion downstairs...?
 > END STRING

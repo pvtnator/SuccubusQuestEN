@@ -2,140 +2,153 @@
 > BEGIN STRING
 「美味い肉を食べてりゃ精力がつく。
 　しっかり穀物を食べてりゃ持久力がつく。
-> CONTEXT: Map040/events/11/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/11/pages/0/1/Dialogue
+「Eating good meat gives you energy. 
+　Eating plenty of grains gives you endurance.
 > END STRING
 
 > BEGIN STRING
 「ちゃんと食べてカラダ丈夫にしとかないと、
 　女の子にナメられちまうぞ。
-> CONTEXT: Map040/events/11/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/11/pages/0/3/Dialogue
+「If you don't eat properly and keep your body strong,
+　girls will look down on you.
 > END STRING
 
 > BEGIN STRING
 「隣の奴、さっき急に
 　眠り込んじまったんだ。
-> CONTEXT: Map040/events/11/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/11/pages/1/1/Dialogue
+「The guy next to me 
+　just suddenly fell asleep.
 > END STRING
 
 > BEGIN STRING
 「騎士のクセにあれくらいの
 　酒で潰れるとは、だらしないなあ。
-> CONTEXT: Map040/events/11/pages/1/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/11/pages/1/3/Dialogue
+「For a knight to get drunk 
+　over that much alcohol is pretty sloppy.
 > END STRING
 
 > BEGIN STRING
 "憤慨する騎士"
-> CONTEXT: Map040/events/13/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map040/events/13/pages/0/0/InlineScript/1:4
+"Resentful Knight"
 > END STRING
 
 > BEGIN STRING
 「一体何だと言うのだ！
 　皆狂っている！
-> CONTEXT: Map040/events/13/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/13/pages/0/1/Dialogue
+「What on earth is going on?! 
+　You're all crazy!
 > END STRING
 
 > BEGIN STRING
 「姦淫のみを目的とする悪魔だと？
 　剣も魔法も効かんだと？
-> CONTEXT: Map040/events/13/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/13/pages/0/3/Dialogue
+「Demons whose only purpose is adultery?
+　And neither sword nor magic work on them?
 > END STRING
 
 > BEGIN STRING
 「そのような話は
 　青年の妄想の中だけに
 　してもらいたいものだ！
-> CONTEXT: Map040/events/13/pages/0/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/13/pages/0/5/Dialogue
+「Such stories should only be kept 
+　in the fantasies of young people!
 > END STRING
 
 > BEGIN STRING
 「私は断じて認めんぞ！
 　そのような存在など！
-> CONTEXT: Map040/events/13/pages/0/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/13/pages/0/8/Dialogue
+「I absolutely will not acknowledge it!
+　There is no such thing!
 > END STRING
 
 > BEGIN STRING
 "憤慨していた騎士"
-> CONTEXT: Map040/events/13/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map040/events/13/pages/1/0/InlineScript/1:4
+"Ex-Resentful Knight"
 > END STRING
 
 > BEGIN STRING
 「…ええい…立ち去れ……！
 　認めぬ…ぞ……！
-> CONTEXT: Map040/events/13/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/13/pages/1/1/Dialogue
+「...Ugh...just go away!
+　I won't accept it...!"
 > END STRING
 
 > BEGIN STRING
 「あ…やめ……
 　あ…ああっ………！
-> CONTEXT: Map040/events/13/pages/1/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/13/pages/1/3/Dialogue
+「A...st...
+　A...aah...!
 > END STRING
 
 > BEGIN STRING
 "マスター"
-> CONTEXT: Map040/events/14/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map040/events/14/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map040/events/14/pages/2/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map040/events/14/pages/3/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map040/events/14/pages/4/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map040/events/14/pages/5/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map040/events/14/pages/6/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map040/events/14/pages/0/0/InlineScript/1:4
+> CONTEXT: Map040/events/14/pages/1/0/InlineScript/1:4
+> CONTEXT: Map040/events/14/pages/2/0/InlineScript/1:4
+> CONTEXT: Map040/events/14/pages/3/0/InlineScript/1:4
+> CONTEXT: Map040/events/14/pages/4/0/InlineScript/1:4
+> CONTEXT: Map040/events/14/pages/5/0/InlineScript/1:4
+> CONTEXT: Map040/events/14/pages/6/0/InlineScript/1:4
+"Master"
 > END STRING
 
 > BEGIN STRING
 「おヤ、\\n[1]さンじゃないですか。
-> CONTEXT: Map040/events/14/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map040/events/14/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map040/events/14/pages/2/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map040/events/14/pages/3/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map040/events/14/pages/4/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map040/events/14/pages/5/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map040/events/14/pages/6/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/14/pages/0/1/Dialogue
+> CONTEXT: Map040/events/14/pages/1/1/Dialogue
+> CONTEXT: Map040/events/14/pages/2/1/Dialogue
+> CONTEXT: Map040/events/14/pages/3/1/Dialogue
+> CONTEXT: Map040/events/14/pages/4/1/Dialogue
+> CONTEXT: Map040/events/14/pages/5/1/Dialogue
+> CONTEXT: Map040/events/14/pages/6/1/Dialogue
+「Hey, you're Mr. \\n[1] aren't you?
 > END STRING
 
 > BEGIN STRING
 「久しぶりだネぇ、
 　いや話は聞イてるよ。
-> CONTEXT: Map040/events/14/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map040/events/14/pages/1/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map040/events/14/pages/2/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map040/events/14/pages/3/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map040/events/14/pages/4/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map040/events/14/pages/5/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map040/events/14/pages/6/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/14/pages/0/2/Dialogue
+> CONTEXT: Map040/events/14/pages/1/2/Dialogue
+> CONTEXT: Map040/events/14/pages/2/2/Dialogue
+> CONTEXT: Map040/events/14/pages/3/2/Dialogue
+> CONTEXT: Map040/events/14/pages/4/2/Dialogue
+> CONTEXT: Map040/events/14/pages/5/2/Dialogue
+> CONTEXT: Map040/events/14/pages/6/2/Dialogue
+「It's been a while,
+　but I've heard the story.
 > END STRING
 
 > BEGIN STRING
 「魔王は犯したけれど夢魔がさらわれて
 　エルヴィンとオリビアがちょめちょめだッて？
-> CONTEXT: Map040/events/14/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/14/pages/0/4/Dialogue
+「The Demon King was defeated, 
+　but the succubus appeared
+　and took Elvin and Olivia?
 > END STRING
 
 > BEGIN STRING
 「色々大変だよネぇ。
-> CONTEXT: Map040/events/14/pages/0/6/Dialogue < UNTRANSLATED
-> CONTEXT: Map040/events/14/pages/1/6/Dialogue < UNTRANSLATED
-> CONTEXT: Map040/events/14/pages/2/7/Dialogue < UNTRANSLATED
-> CONTEXT: Map040/events/14/pages/3/7/Dialogue < UNTRANSLATED
-> CONTEXT: Map040/events/14/pages/4/7/Dialogue < UNTRANSLATED
-> CONTEXT: Map040/events/14/pages/5/7/Dialogue < UNTRANSLATED
-> CONTEXT: Map040/events/14/pages/6/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/14/pages/0/6/Dialogue
+> CONTEXT: Map040/events/14/pages/1/6/Dialogue
+> CONTEXT: Map040/events/14/pages/2/7/Dialogue
+> CONTEXT: Map040/events/14/pages/3/7/Dialogue
+> CONTEXT: Map040/events/14/pages/4/7/Dialogue
+> CONTEXT: Map040/events/14/pages/5/7/Dialogue
+> CONTEXT: Map040/events/14/pages/6/6/Dialogue
+「It's a lot of difficult stuff.
 > END STRING
 
 > BEGIN STRING
@@ -186,124 +199,137 @@
 
 > BEGIN STRING
 「ご注文は？
-> CONTEXT: Map040/events/15/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map051/events/12/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/15/pages/0/1/Dialogue
+> CONTEXT: Map051/events/12/pages/0/1/Dialogue
+「What are you having?
 > END STRING
 
 > BEGIN STRING
 「うちは料理もおいしいですよ♪
-> CONTEXT: Map040/events/16/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/16/pages/0/1/Dialogue
+「Our food is also delicious♪
 > END STRING
 
 > BEGIN STRING
 "酔っ払い"
-> CONTEXT: Map040/events/18/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map040/events/18/pages/0/0/InlineScript/1:4
+"Drunkard"
 > END STRING
 
 > BEGIN STRING
 「あぁ～？
 　何だオメェ、酔っ払ってンのかァ～？
-> CONTEXT: Map040/events/18/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/18/pages/0/1/Dialogue
+「Huh?
+　What, I'm drunk?
 > END STRING
 
 > BEGIN STRING
 「いいや俺には分かるぜ、
 　オメェは酔っ払ってるゥゥゥ～～～
-> CONTEXT: Map040/events/18/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/18/pages/0/3/Dialogue
+「No, I know,
+　I'm drunk~~~
 > END STRING
 
 > BEGIN STRING
 「いいかァ、酔っ払うのも
 　悪いことばかりじゃないだぜェ
-> CONTEXT: Map040/events/18/pages/0/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/18/pages/0/5/Dialogue
+「Look, getting drunk isn't all bad.
 > END STRING
 
 > BEGIN STRING
 「いい具合に酔えば、\\c[2]テンション\\c[0]が
 　どんどん上がっていくからなあァァ
-> CONTEXT: Map040/events/18/pages/0/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/18/pages/0/7/Dialogue
+「When I get drunk, my \\c[2]tension\\c[0] just keeps rising.
 > END STRING
 
 > BEGIN STRING
 「そのためにゃ酒に強くなって
 　酒に飲まれないようにするこったァ
-> CONTEXT: Map040/events/18/pages/0/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/18/pages/0/9/Dialogue
+「To do that, you need to become 
+　tolerant to alcohol 
+　and not let it consume you.
 > END STRING
 
 > BEGIN STRING
 「俺みたいになァ～
 　がっはっは
-> CONTEXT: Map040/events/18/pages/0/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/18/pages/0/11/Dialogue
+「Like me~
+　Ghahaha
 > END STRING
 
 > BEGIN STRING
 「何でぇ何でぇ、
 　\\dむま\\dがどうとか騒いでる奴がいるけどよぉ、
-> CONTEXT: Map040/events/19/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/19/pages/0/1/Dialogue
+「Why, why,
+　People are making a fuss about \\dsuccubi\\d,
 > END STRING
 
 > BEGIN STRING
 「要は気持ちいいことさせてくれるネーチャンが
 　そのへんうろついてるって話だろぉ？
-> CONTEXT: Map040/events/19/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/19/pages/0/3/Dialogue
+「So basically, there are women 
+　wandering around the area 
+　who'll make you feel good, right?
 > END STRING
 
 > BEGIN STRING
 「そんなやつらなら大歓迎じゃねぇかよ、
 　なぁ？
-> CONTEXT: Map040/events/19/pages/0/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/19/pages/0/5/Dialogue
+「Those kinds of people more than welcome,
+　no?
 > END STRING
 
 > BEGIN STRING
 "娘の母"
-> CONTEXT: Map040/events/20/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map040/events/20/pages/0/0/InlineScript/1:4
+"Girl's Mother"
 > END STRING
 
 > BEGIN STRING
 「やっと魔物がいなくなったと思ったら、
 　今度は夢魔とかいうおかしな魔物が
 　出るようになったって言うじゃありませんか。
-> CONTEXT: Map040/events/20/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/20/pages/0/1/Dialogue
+「Just when I thought the demons had disappeared, 
+　they say strange demons 
+　called succubi have started appearing.
 > END STRING
 
 > BEGIN STRING
 「こわくて町の外に娘を出せませんわ……。
-> CONTEXT: Map040/events/20/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/20/pages/0/4/Dialogue
+「I'm too scared to let my daughter out of town...
 > END STRING
 
 > BEGIN STRING
 "娘"
-> CONTEXT: Map040/events/21/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map040/events/21/pages/0/0/InlineScript/1:4
+"Daughter"
 > END STRING
 
 > BEGIN STRING
 「夢魔って、今までいた魔物みたいに
 　人を殺したり傷つけたりしないって聞いたわよ？
-> CONTEXT: Map040/events/21/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/21/pages/0/1/Dialogue
+「Succubi don't kill or injure 
+like the demons we've seen so far, right?
 > END STRING
 
 > BEGIN STRING
 「なのにお母さん、
 　何でこんなにこわがってるのかしら？
-> CONTEXT: Map040/events/21/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/21/pages/0/3/Dialogue
+「Then mom, 
+　why are you so scared?
 > END STRING
 
 > BEGIN STRING
@@ -319,155 +345,176 @@
 
 > BEGIN STRING
 「いらっしゃいませ\\e[0]
-> CONTEXT: Map040/events/22/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/22/pages/0/1/Dialogue
+「Welcome\\e[0]
 > END STRING
 
 > BEGIN STRING
 "常連客"
-> CONTEXT: Map040/events/24/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map040/events/31/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map040/events/24/pages/0/0/InlineScript/1:4
+> CONTEXT: Map040/events/31/pages/0/0/InlineScript/1:4
+"Regular"
 > END STRING
 
 > BEGIN STRING
 「ここの飲み物はちょっと高いがな、
 　それに見合った\\d効果\\dなんてのを求めるのも
 　無粋ってもんだぜ。
-> CONTEXT: Map040/events/24/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/24/pages/0/1/Dialogue
+「The drinks here are a little pricey, 
+　but it's a little rude to 
+　expect the \\deffects\\d to be worth it.
 > END STRING
 
 > BEGIN STRING
 「酒ってのは栄養じゃねぇ、
 　楽しむためのもんさ。
-> CONTEXT: Map040/events/24/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/24/pages/0/4/Dialogue
+「Alcohol isn't for nutrition, 
+　it's for enjoyment.
 > END STRING
 
 > BEGIN STRING
 "エルフフリーク"
-> CONTEXT: Map040/events/25/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map040/events/25/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map040/events/25/pages/1/9/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map040/events/25/pages/2/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map040/events/25/pages/3/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map040/events/25/pages/0/0/InlineScript/1:4
+> CONTEXT: Map040/events/25/pages/1/0/InlineScript/1:4
+> CONTEXT: Map040/events/25/pages/1/9/InlineScript/1:4
+> CONTEXT: Map040/events/25/pages/2/0/InlineScript/1:4
+> CONTEXT: Map040/events/25/pages/3/0/InlineScript/1:4
+"Elf Freak"
 > END STRING
 
 > BEGIN STRING
 「お前勇者なんだろ？
 　だったらエルフって知ってるよな。
-> CONTEXT: Map040/events/25/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/25/pages/0/1/Dialogue
+「You're a hero, right? 
+　Then you must know about elves.
 > END STRING
 
 > BEGIN STRING
 「もうこの辺じゃ見かけなくなっちまったが、
 　なんでもエルフの女ってのは
 　みんなとんでもない美人だそうじゃないか。
-> CONTEXT: Map040/events/25/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/25/pages/0/3/Dialogue
+「You don't see them around here anymore, 
+　but apparently elven women 
+　are all incredibly beautiful.
 > END STRING
 
 > BEGIN STRING
 「なあ、何かエルフが描かれてるモノ持ってたら、
 　俺にくれないか？
 　もちろんお礼はするぜ。
-> CONTEXT: Map040/events/25/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/25/pages/0/6/Dialogue
+「Hey, if you have any drawings of elves,
+　would you showing me?
+　I'll thank you, of course.
 > END STRING
 
 > BEGIN STRING
 「何かエルフが描かれてるモノ持ってたら、
 　俺にくれないか？
 　もちろんお礼はするぜ。
-> CONTEXT: Map040/events/25/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/25/pages/1/1/Dialogue
+「If you have any drawings of elves,
+　would you giving them to me?
+　I'll thank you, of course.
 > END STRING
 
 > BEGIN STRING
 \\c[4]エッチなピンナップ\\c[0]を渡しますか？
-> CONTEXT: Map040/events/25/pages/1/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/25/pages/1/6/Dialogue
+Would you like to give \\c[4]Naughty Pinup\\c[0]?
 > END STRING
 
 > BEGIN STRING
 「おおっ！？
 　こ、こいつは……
-> CONTEXT: Map040/events/25/pages/1/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/25/pages/1/10/Dialogue
+「Oooh!?
+　S-she...
 > END STRING
 
 > BEGIN STRING
 「スゲエ……予想以上だ………
-> CONTEXT: Map040/events/25/pages/1/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/25/pages/1/12/Dialogue
+「Wow...better than I expected...
 > END STRING
 
 > BEGIN STRING
 「わざわざこんなモン持ってきてくれるとは……
 　そうか……アレが欲しいんだな？
-> CONTEXT: Map040/events/25/pages/1/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/25/pages/1/13/Dialogue
+「I can't believe you went to the trouble 
+　of bringing something like this...
+　I see... this is what you want, isn't it?
 > END STRING
 
 > BEGIN STRING
 「いいだろう。
 　こいつのお礼にはコレこそふさわしい。
 　やるよ。
-> CONTEXT: Map040/events/25/pages/1/15/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/25/pages/1/15/Dialogue
+「Very well.
+　This would be a fitting way to give thanks.
+　Alright.
 > END STRING
 
 > BEGIN STRING
 「南のリスヴェグには、
 　こんなエルフがたくさん住んでるらしいぜ。
 　行ってみたいよなあ。
-> CONTEXT: Map040/events/25/pages/2/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/25/pages/2/1/Dialogue
+「Apparently, there are a lot of elves 
+　like this living in Lisveg in the south. 
+　I'd like to go there.
 > END STRING
 
 > BEGIN STRING
 「おお、君こそ
 　俺が探し求めていた
 　理想のエルフ！
-> CONTEXT: Map040/events/25/pages/3/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/25/pages/3/1/Dialogue
+「Oh, you are the perfect elf 
+　I've been looking for!
 > END STRING
 
 > BEGIN STRING
 「…むにゃむにゃ……
-> CONTEXT: Map040/events/25/pages/3/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/25/pages/3/4/Dialogue
+「...*mumble mumble*...
 > END STRING
 
 > BEGIN STRING
 座ったまま寝ているようだ……
-> CONTEXT: Map040/events/25/pages/3/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/25/pages/3/6/Dialogue
+Seems to be sleeping while sitting...
 > END STRING
 
 > BEGIN STRING
 「北西の\\c[2]フリーベリ\\c[0]の近くには、
 　人魚が出るって伝説の場所があるんだ。
-> CONTEXT: Map040/events/26/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map040/events/26/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/26/pages/0/1/Dialogue
+> CONTEXT: Map040/events/26/pages/1/1/Dialogue
+「Near \\c[2]Friberg\\c[0] in the northwest, 
+　there is a legendary place 
+　where mermaids are said to appear.
 > END STRING
 
 > BEGIN STRING
 「魔物がいなくなったら彼女と行こうって
 　約束してたんだけど、
 　まだ街道が塞がれてるままで通れないんだ。
-> CONTEXT: Map040/events/26/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/26/pages/0/3/Dialogue
+「I promised to go with her once the demons were gone, 
+　but the road is still blocked and we can't get through.
 > END STRING
 
 > BEGIN STRING
 「早く復旧してくれないかなぁ。
-> CONTEXT: Map040/events/26/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/26/pages/0/6/Dialogue
+「I hope they can restore it quickly.
 > END STRING
 
 > BEGIN STRING
@@ -488,15 +535,18 @@
 「人魚のお話をご存知？
 　人間に恋をした人魚は、人間になって
 　その人と結ばれることができるのよ。
-> CONTEXT: Map040/events/27/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/27/pages/0/1/Dialogue
+「Do you know the story of the mermaid?
+　If a mermaid falls in love with a human, 
+　she can turn into a human and be united.
 > END STRING
 
 > BEGIN STRING
 「ステキよねえ。
 　憧れるわぁ\\e[0]
-> CONTEXT: Map040/events/27/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/27/pages/0/4/Dialogue
+「It's wonderful. 
+　I admire it\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -510,37 +560,43 @@
 「全ては人々が
 　偉大なるエーランドの教えに従わぬため
 　起こりしもの。
-> CONTEXT: Map040/events/30/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map040/events/30/pages/1/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/30/pages/0/3/Dialogue
+> CONTEXT: Map040/events/30/pages/1/3/Dialogue
+「All this happened because 
+people did not follow 
+the teachings of the great Eland.
 > END STRING
 
 > BEGIN STRING
 「さあ、あなたにもこれを。
 　共に祈りましょう。
-> CONTEXT: Map040/events/30/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/30/pages/0/6/Dialogue
+「Now, you too. 
+　Let's pray together.
 > END STRING
 
 > BEGIN STRING
 「あの魔王ギルデンスターンも、
 　近頃はこびっているという淫猥な魔物どもも、
-> CONTEXT: Map040/events/30/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/30/pages/1/1/Dialogue
+「That Demon King Guildenstern, 
+　and the lewd demons he's been fawning over lately,
 > END STRING
 
 > BEGIN STRING
 「共に祈りましょう。
-> CONTEXT: Map040/events/30/pages/1/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/30/pages/1/6/Dialogue
+「Let's pray together.
 > END STRING
 
 > BEGIN STRING
 「おいおいお姉さん、
 　仕事中にこんなところで
 　寝ちゃマズいだろ？
-> CONTEXT: Map040/events/31/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/31/pages/0/1/Dialogue
+「Hey, hey, lady, 
+　isn't it bad to fall asleep 
+　in a place like this while at work?
 > END STRING
 
 > BEGIN STRING

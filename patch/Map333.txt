@@ -36,65 +36,68 @@ SQ_Town01
 
 > BEGIN STRING
 "怪しげな男"
-> CONTEXT: Map333/events/4/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map040/events/17/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map333/events/4/pages/0/0/InlineScript/1:4
+> CONTEXT: Map040/events/17/pages/0/0/InlineScript/1:4
+"Shady Man"
 > END STRING
 
 > BEGIN STRING
 「シーーー……ッ！
-> CONTEXT: Map333/events/4/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map333/events/4/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map040/events/17/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map040/events/17/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map040/events/17/pages/2/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map333/events/4/pages/0/1/Dialogue
+> CONTEXT: Map333/events/4/pages/1/1/Dialogue
+> CONTEXT: Map040/events/17/pages/0/1/Dialogue
+> CONTEXT: Map040/events/17/pages/1/1/Dialogue
+> CONTEXT: Map040/events/17/pages/2/1/Dialogue
+「Shhhh...!
 > END STRING
 
 > BEGIN STRING
 「………分かるぜ……
 　アンタのその目……………
 　……アレが欲しいんだろ？
-> CONTEXT: Map333/events/4/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map333/events/4/pages/1/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map040/events/17/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map040/events/17/pages/1/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map040/events/17/pages/2/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map333/events/4/pages/0/2/Dialogue
+> CONTEXT: Map333/events/4/pages/1/2/Dialogue
+> CONTEXT: Map040/events/17/pages/0/2/Dialogue
+> CONTEXT: Map040/events/17/pages/1/2/Dialogue
+> CONTEXT: Map040/events/17/pages/2/2/Dialogue
+「...I know...
+　Those eyes...
+　...You want it, don't you?
 > END STRING
 
 > BEGIN STRING
 "薬屋"
-> CONTEXT: Map333/events/4/pages/0/8/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map333/events/4/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map333/events/4/pages/1/7/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map040/events/17/pages/0/8/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map040/events/17/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map040/events/17/pages/1/7/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map040/events/17/pages/2/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map040/events/17/pages/2/9/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map333/events/4/pages/0/8/InlineScript/1:4
+> CONTEXT: Map333/events/4/pages/1/0/InlineScript/1:4
+> CONTEXT: Map333/events/4/pages/1/7/InlineScript/1:4
+> CONTEXT: Map040/events/17/pages/0/8/InlineScript/1:4
+> CONTEXT: Map040/events/17/pages/1/0/InlineScript/1:4
+> CONTEXT: Map040/events/17/pages/1/7/InlineScript/1:4
+> CONTEXT: Map040/events/17/pages/2/0/InlineScript/1:4
+> CONTEXT: Map040/events/17/pages/2/9/InlineScript/1:4
+"Pharmacy"
 > END STRING
 
 > BEGIN STRING
 「〔ドラッグ〕は一度使うと、副作用が切れるまで
 　他のドラッグは使えないから気をつけろよ……
-> CONTEXT: Map333/events/4/pages/0/9/Dialogue < UNTRANSLATED
-> CONTEXT: Map333/events/4/pages/1/8/Dialogue < UNTRANSLATED
-> CONTEXT: Map040/events/17/pages/0/9/Dialogue < UNTRANSLATED
-> CONTEXT: Map040/events/17/pages/1/8/Dialogue < UNTRANSLATED
-> CONTEXT: Map040/events/17/pages/2/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map333/events/4/pages/0/9/Dialogue
+> CONTEXT: Map333/events/4/pages/1/8/Dialogue
+> CONTEXT: Map040/events/17/pages/0/9/Dialogue
+> CONTEXT: Map040/events/17/pages/1/8/Dialogue
+> CONTEXT: Map040/events/17/pages/2/10/Dialogue
+「Once you use a [drug], you can't use other drugs 
+　until the side effects wear off, so be careful...
 > END STRING
 
 > BEGIN STRING
 「また欲しくなったらここに来な……
-> CONTEXT: Map333/events/4/pages/0/11/Dialogue < UNTRANSLATED
-> CONTEXT: Map333/events/4/pages/1/10/Dialogue < UNTRANSLATED
-> CONTEXT: Map040/events/17/pages/0/11/Dialogue < UNTRANSLATED
-> CONTEXT: Map040/events/17/pages/1/10/Dialogue < UNTRANSLATED
-> CONTEXT: Map040/events/17/pages/2/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map333/events/4/pages/0/11/Dialogue
+> CONTEXT: Map333/events/4/pages/1/10/Dialogue
+> CONTEXT: Map040/events/17/pages/0/11/Dialogue
+> CONTEXT: Map040/events/17/pages/1/10/Dialogue
+> CONTEXT: Map040/events/17/pages/2/12/Dialogue
+「If you ever want more, come here...
 > END STRING
 
 > BEGIN STRING
@@ -108,39 +111,39 @@ SQ_Town01
 
 > BEGIN STRING
 「メェ～ッ？
-> CONTEXT: Map333/events/5/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map333/events/5/pages/0/2/Dialogue
+「Eeh?
 > END STRING
 
 > BEGIN STRING
 "踊り子"
-> CONTEXT: Map333/events/10/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map333/events/11/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map333/events/10/pages/0/0/InlineScript/1:4
+> CONTEXT: Map333/events/11/pages/0/0/InlineScript/1:4
+"Dancer"
 > END STRING
 
 > BEGIN STRING
 「うっふん\\e[0]
-> CONTEXT: Map333/events/10/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map333/events/10/pages/0/1/Dialogue
+「Ufuh\\e[0]
 > END STRING
 
 > BEGIN STRING
 「め～がま～わる～ぅ♪
-> CONTEXT: Map333/events/11/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map333/events/11/pages/0/1/Dialogue
+「Eyes~are~turning♪
 > END STRING
 
 > BEGIN STRING
 "ピアノ"
-> CONTEXT: Map333/events/12/pages/0/7/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map333/events/12/pages/0/7/InlineScript/1:4
+"Piano"
 > END STRING
 
 > BEGIN STRING
 「どうだい、一曲？
-> CONTEXT: Map333/events/12/pages/0/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map333/events/12/pages/0/8/Dialogue
+「How about a song?
 > END STRING
 
 > BEGIN STRING

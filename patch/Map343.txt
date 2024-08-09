@@ -52,20 +52,20 @@
 
 > BEGIN STRING
 "男性客"
-> CONTEXT: Map343/events/6/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map343/events/6/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map126/events/16/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map067/events/5/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map086/events/10/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map086/events/10/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map049/events/2/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map040/events/11/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map040/events/11/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map040/events/19/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map040/events/26/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map040/events/26/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map018/events/13/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map343/events/6/pages/0/0/InlineScript/1:4
+> CONTEXT: Map343/events/6/pages/1/0/InlineScript/1:4
+> CONTEXT: Map126/events/16/pages/0/0/InlineScript/1:4
+> CONTEXT: Map067/events/5/pages/0/0/InlineScript/1:4
+> CONTEXT: Map086/events/10/pages/0/0/InlineScript/1:4
+> CONTEXT: Map086/events/10/pages/1/0/InlineScript/1:4
+> CONTEXT: Map049/events/2/pages/0/0/InlineScript/1:4
+> CONTEXT: Map040/events/11/pages/0/0/InlineScript/1:4
+> CONTEXT: Map040/events/11/pages/1/0/InlineScript/1:4
+> CONTEXT: Map040/events/19/pages/0/0/InlineScript/1:4
+> CONTEXT: Map040/events/26/pages/0/0/InlineScript/1:4
+> CONTEXT: Map040/events/26/pages/1/0/InlineScript/1:4
+> CONTEXT: Map018/events/13/pages/1/0/InlineScript/1:4
+"Male Customer"
 > END STRING
 
 > BEGIN STRING
