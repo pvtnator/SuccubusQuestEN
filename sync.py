@@ -31,13 +31,13 @@ def sync(files, update, txstrdir=0):
                             trans = update.get(noquote)
                             if trans:
                                 lines[i] = string.replace(noquote.strip(), trans.strip())
-                                print("Text to string: "+lines[i].strip())
+                                #print("Text to string: "+lines[i].strip())
                         elif txstrdir!=0:
                             withquote = '"'+string.strip()+'"'+"\n"
                             trans = update.get(withquote)
                             if trans:
                                 lines[i] = trans.replace('"','')
-                                print("String to text: "+lines[i].strip())
+                                #print("String to text: "+lines[i].strip())
 
                     i += 2
                 else:
@@ -52,7 +52,7 @@ if __name__ == "__main__":
     #main_files = [current_dir / "patch" / "Scripts.txt", current_dir / "patch" / "Skills.txt"]
     main_files = []
     for file in (current_dir / "patch").rglob("*.txt"):
-        if not "Unused" in str(file):
+        if not "Unused" in str(file) and not "Script" in str(file):
             main_files.append(file)
 
     print("===Reading current translations===")
@@ -73,9 +73,9 @@ if __name__ == "__main__":
                 while(lines[i][0] == ">"):
                     i += 1
                 if lines[i].strip():
-                    if string in translations.keys() and translations[string] != lines[i]:
-                        print(translations[string].strip()+" replaced by "+lines[i].strip())
-                    translations[string] = lines[i]
+                    stripped = lines[i].split("/")[0]+"\n" if "/" in lines[i] else lines[i]
+                    string = string.split("/")[0]+"\n" if "/" in string else string
+                    translations[string] = stripped
                     #print(string.strip()+" = "+lines[i].strip())
 
                 i += 2
@@ -88,4 +88,4 @@ if __name__ == "__main__":
     #    main_files.append(file)
         
     sync(main_files, translations, 0)
-    #sync(main_files, translations, 1)
+    sync(main_files, translations, 1)

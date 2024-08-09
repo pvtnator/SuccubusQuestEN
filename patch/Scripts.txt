@@ -4186,7 +4186,7 @@
 > BEGIN STRING
 "手作りの護符"
 > CONTEXT: Scripts/RPG::Armor(detail)/28:12 < UNTRANSLATED
-
+"Handmade Talisman"
 > END STRING
 
 > BEGIN STRING
@@ -4205,7 +4205,7 @@
 "野鳥の羽飾り"
 > CONTEXT: Scripts/RPG::Armor(detail)/32:12 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Actor(coordinates)/95:23 < UNTRANSLATED
-
+"Bird Feathers"
 > END STRING
 
 > BEGIN STRING
@@ -4230,7 +4230,7 @@
 "ストローハット"
 > CONTEXT: Scripts/RPG::Armor(detail)/36:12 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Actor(coordinates)/103:23 < UNTRANSLATED
-
+"Straw Hat"
 > END STRING
 
 > BEGIN STRING
@@ -4255,7 +4255,7 @@
 "枝のかんむり"
 > CONTEXT: Scripts/RPG::Armor(detail)/40:12 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Actor(coordinates)/99:23 < UNTRANSLATED
-
+"Branch Crown"
 > END STRING
 
 > BEGIN STRING
@@ -4274,7 +4274,7 @@
 "花のかんむり"
 > CONTEXT: Scripts/RPG::Armor(detail)/43:12 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Actor(coordinates)/70:23 < UNTRANSLATED
-
+"Flower Crown"
 > END STRING
 
 > BEGIN STRING
@@ -4299,7 +4299,7 @@
 "羽帽子"
 > CONTEXT: Scripts/RPG::Armor(detail)/47:12 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Actor(coordinates)/91:23 < UNTRANSLATED
-
+"Feather Hat"
 > END STRING
 
 > BEGIN STRING
@@ -4324,7 +4324,7 @@
 "スカーレットフェザー"
 > CONTEXT: Scripts/RPG::Armor(detail)/51:12 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Actor(coordinates)/45:23 < UNTRANSLATED
-
+"Scarlet Feather"
 > END STRING
 
 > BEGIN STRING
@@ -4345,7 +4345,7 @@
 > CONTEXT: Scripts/Game_Actor(coordinates)/110:23 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Actor(coordinates)/116:24 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Actor(coordinates)/121:24 < UNTRANSLATED
-
+"Sailor Cap"
 > END STRING
 
 > BEGIN STRING
@@ -4357,7 +4357,7 @@
 > BEGIN STRING
 "サークレット"
 > CONTEXT: Scripts/RPG::Armor(detail)/56:12 < UNTRANSLATED
-
+"Circlet"
 > END STRING
 
 > BEGIN STRING
@@ -4381,7 +4381,7 @@
 > BEGIN STRING
 "白銀のサークレット"
 > CONTEXT: Scripts/RPG::Armor(detail)/60:12 < UNTRANSLATED
-
+"Silver Circlet"
 > END STRING
 
 > BEGIN STRING
@@ -4400,7 +4400,7 @@
 "プリズムサークレット"
 > CONTEXT: Scripts/RPG::Armor(detail)/63:12 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Actor(coordinates)/62:23 < UNTRANSLATED
-
+"Prism Circlet"
 > END STRING
 
 > BEGIN STRING
@@ -4425,7 +4425,7 @@
 "ジェットグラス"
 > CONTEXT: Scripts/RPG::Armor(detail)/67:12 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Actor(coordinates)/78:23 < UNTRANSLATED
-
+"Jet Glass"
 > END STRING
 
 > BEGIN STRING
@@ -4450,7 +4450,7 @@
 "ポッパナハット"
 > CONTEXT: Scripts/RPG::Armor(detail)/71:12 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Actor(coordinates)/83:23 < UNTRANSLATED
-
+"Poppanahat"
 > END STRING
 
 > BEGIN STRING
@@ -4475,7 +4475,7 @@
 "ヴォヤージュキャップ"
 > CONTEXT: Scripts/RPG::Armor(detail)/75:12 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Actor(coordinates)/51:23 < UNTRANSLATED
-
+"Voyage Cap"
 > END STRING
 
 > BEGIN STRING
@@ -4500,7 +4500,7 @@
 "ウィザードウィッグ"
 > CONTEXT: Scripts/RPG::Armor(detail)/79:12 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Actor(coordinates)/67:23 < UNTRANSLATED
-
+"Wizard Wig"
 > END STRING
 
 > BEGIN STRING
@@ -4525,7 +4525,7 @@
 "トリブヌスマスク"
 > CONTEXT: Scripts/RPG::Armor(detail)/83:12 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Actor(coordinates)/36:23 < UNTRANSLATED
-
+"Tribunus Mask"
 > END STRING
 
 > BEGIN STRING
@@ -4538,7 +4538,7 @@
 "ロマンスティアラ"
 > CONTEXT: Scripts/RPG::Armor(detail)/85:12 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Actor(coordinates)/41:23 < UNTRANSLATED
-
+"Romance Tiara"
 > END STRING
 
 > BEGIN STRING
@@ -4586,7 +4586,7 @@
 > BEGIN STRING
 "コットンシャツ"
 > CONTEXT: Scripts/RPG::Armor(detail)/94:12 < UNTRANSLATED
-
+"Cotton Shirt"
 > END STRING
 
 > BEGIN STRING
@@ -4606,7 +4606,7 @@
 > CONTEXT: Scripts/RPG::Armor(detail)/97:12 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Actor(coordinates)/94:23 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Actor(coordinates)/98:23 < UNTRANSLATED
-
+"Leavesvest"
 > END STRING
 
 > BEGIN STRING
@@ -4631,7 +4631,7 @@
 "ペザントブラウス"
 > CONTEXT: Scripts/RPG::Armor(detail)/101:12 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Actor(coordinates)/102:23 < UNTRANSLATED
-
+"Peasant Blouse"
 > END STRING
 
 > BEGIN STRING
@@ -4656,7 +4656,7 @@
 "シルクシャツ"
 > CONTEXT: Scripts/RPG::Armor(detail)/105:12 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Actor(coordinates)/17:20 < UNTRANSLATED
-
+"Silk Shirt"
 > END STRING
 
 > BEGIN STRING
@@ -4681,7 +4681,7 @@
 "ノーブルチュニック"
 > CONTEXT: Scripts/RPG::Armor(detail)/109:12 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Actor(coordinates)/90:23 < UNTRANSLATED
-
+"Noble Tunic"
 > END STRING
 
 > BEGIN STRING
@@ -5003,7 +5003,7 @@
 "カバリエブラウス"
 > CONTEXT: Scripts/RPG::Armor(detail)/160:12 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Actor(coordinates)/42:23 < UNTRANSLATED
-
+"Cavalier Blouse"
 > END STRING
 
 > BEGIN STRING
@@ -5096,7 +5096,7 @@
 > BEGIN STRING
 "愛のしるし"
 > CONTEXT: Scripts/RPG::Armor(detail)/176:12 < UNTRANSLATED
-
+"Crest of Love"
 > END STRING
 
 > BEGIN STRING
@@ -5108,7 +5108,7 @@
 > BEGIN STRING
 "シルバーネックレス"
 > CONTEXT: Scripts/RPG::Armor(detail)/178:12 < UNTRANSLATED
-
+"Silver Necklace"
 > END STRING
 
 > BEGIN STRING
@@ -5132,7 +5132,7 @@
 > BEGIN STRING
 "青銅のブレスレット"
 > CONTEXT: Scripts/RPG::Armor(detail)/182:12 < UNTRANSLATED
-
+"Bronze Bracelet"
 > END STRING
 
 > BEGIN STRING
@@ -5156,7 +5156,7 @@
 > BEGIN STRING
 "刃のペンダント"
 > CONTEXT: Scripts/RPG::Armor(detail)/186:12 < UNTRANSLATED
-
+"Blade Pendant"
 > END STRING
 
 > BEGIN STRING
@@ -5187,7 +5187,7 @@
 "シルクガントレット"
 > CONTEXT: Scripts/RPG::Armor(detail)/191:12 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Actor(coordinates)/18:20 < UNTRANSLATED
-
+"Silk Gauntlet"
 > END STRING
 
 > BEGIN STRING
@@ -5224,7 +5224,7 @@
 "清流の腕輪"
 > CONTEXT: Scripts/RPG::Armor(detail)/197:12 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Actor(coordinates)/106:23 < UNTRANSLATED
-
+"Clear Stream Bracelet"
 > END STRING
 
 > BEGIN STRING
@@ -5237,7 +5237,7 @@
 "クリムゾンバッヂ"
 > CONTEXT: Scripts/RPG::Armor(detail)/200:12 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Actor(coordinates)/47:23 < UNTRANSLATED
-
+"Crimson Badge"
 > END STRING
 
 > BEGIN STRING
@@ -5264,7 +5264,7 @@
 > CONTEXT: Scripts/Game_Actor(coordinates)/111:24 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Actor(coordinates)/115:23 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Actor(coordinates)/122:23 < UNTRANSLATED
-
+"Sailor Tie"
 > END STRING
 
 > BEGIN STRING
@@ -5276,7 +5276,7 @@
 > BEGIN STRING
 "琥珀のブレスレット"
 > CONTEXT: Scripts/RPG::Armor(detail)/206:12 < UNTRANSLATED
-
+"Amber Bracelet"
 > END STRING
 
 > BEGIN STRING
@@ -5325,7 +5325,7 @@
 > BEGIN STRING
 "バタフライブローチ"
 > CONTEXT: Scripts/RPG::Armor(detail)/215:12 < UNTRANSLATED
-
+"Butterfly Brooch"
 > END STRING
 
 > BEGIN STRING
@@ -5397,7 +5397,7 @@
 > BEGIN STRING
 "シェルイヤリング"
 > CONTEXT: Scripts/RPG::Armor(detail)/227:12 < UNTRANSLATED
-
+"Shell Earrings"
 > END STRING
 
 > BEGIN STRING
@@ -6279,7 +6279,7 @@
 "シダーウッド"
 > CONTEXT: Scripts/RPG::Item(detail)/13:12
 > CONTEXT: Scripts/Scene_Battle 5/10:17
-"Sandalwood"
+"Cedarwood"
 > END STRING
 
 > BEGIN STRING
@@ -6335,7 +6335,7 @@
 "サンダルウッド"
 > CONTEXT: Scripts/RPG::Item(detail)/19:12
 > CONTEXT: Scripts/Scene_Battle 5/20:17
-"Cedarwood"
+"Sandalwood"
 > END STRING
 
 > BEGIN STRING
@@ -7564,7 +7564,7 @@
 > BEGIN STRING
 "シリアスシリアル"
 > CONTEXT: Scripts/RPG::Item(detail)/128:12 < UNTRANSLATED
-
+"Serious Serial"
 > END STRING
 
 > BEGIN STRING
@@ -7590,7 +7590,7 @@
 "グラトニーベリー"
 > CONTEXT: Scripts/RPG::Item(detail)/131:12 < UNTRANSLATED
 > CONTEXT: Scripts/RPG::Item(detail)/144:12 < UNTRANSLATED
-
+"Gluttony Berry"
 > END STRING
 
 > BEGIN STRING
@@ -9018,7 +9018,7 @@
 > BEGIN STRING
 "チュロス"
 > CONTEXT: Scripts/RPG::Item(detail)/350:12 < UNTRANSLATED
-
+"Churros"
 > END STRING
 
 > BEGIN STRING
@@ -9036,7 +9036,7 @@
 > BEGIN STRING
 "プッラ"
 > CONTEXT: Scripts/RPG::Item(detail)/353:12 < UNTRANSLATED
-
+"Pulla"
 > END STRING
 
 > BEGIN STRING
@@ -9054,7 +9054,7 @@
 > BEGIN STRING
 "人魚の口づけ"
 > CONTEXT: Scripts/RPG::Item(detail)/356:12 < UNTRANSLATED
-
+"Mermaid's Kiss"
 > END STRING
 
 > BEGIN STRING
@@ -9102,7 +9102,7 @@
 > BEGIN STRING
 "グルッペンゴールド"
 > CONTEXT: Scripts/RPG::Item(detail)/364:12 < UNTRANSLATED
-
+"Gruppengold"
 > END STRING
 
 > BEGIN STRING
@@ -9120,7 +9120,7 @@
 > BEGIN STRING
 "ディバインプディング"
 > CONTEXT: Scripts/RPG::Item(detail)/367:12 < UNTRANSLATED
-
+"Divine Pudding"
 > END STRING
 
 > BEGIN STRING
@@ -16400,7 +16400,7 @@
 "ヴァージンヴィレッジャ"
 > CONTEXT: Scripts/Game_Enemy/500:21 < UNTRANSLATED
 > CONTEXT: Scripts/★図鑑用詳細データ/697:10 < UNTRANSLATED
-
+"Virgin Villager"
 > END STRING
 
 > BEGIN STRING
@@ -18282,7 +18282,7 @@
 > BEGIN STRING
 "グルッペン街道"
 > CONTEXT: Scripts/Window_SaveFile/109:14 < UNTRANSLATED
-
+"Gruppen road"
 > END STRING
 
 > BEGIN STRING
@@ -18378,7 +18378,7 @@
 > BEGIN STRING
 "ベルツェリーの森"
 > CONTEXT: Scripts/Window_SaveFile/125:14
-"Beltzery Forest"
+"Berzelii Forest"
 > END STRING
 
 > BEGIN STRING
@@ -18438,7 +18438,7 @@
 > BEGIN STRING
 "人魚のすみか"
 > CONTEXT: Scripts/Window_SaveFile/135:14 < UNTRANSLATED
-
+"Mermaid's Home"
 > END STRING
 
 > BEGIN STRING
@@ -18634,7 +18634,7 @@
 > BEGIN STRING
 "万年氷の宮殿"
 > CONTEXT: Scripts/Window_SaveFile/159:14
-"Palace of Eternal Ice"
+"The Eternal Ice Palace"
 > END STRING
 
 > BEGIN STRING
