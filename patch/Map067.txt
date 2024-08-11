@@ -2,73 +2,87 @@
 > BEGIN STRING
 「魔王が倒されて、
 　兵士の仕事も減っただろ？
-> CONTEXT: Map067/events/5/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/5/pages/0/1/Dialogue
+「With the Demon Lord defeated, 
+　there's less work for the soldiers, right?
 > END STRING
 
 > BEGIN STRING
 「そのおかげで、女兵士も
 　ヒマになりはじめてるのさ。
-> CONTEXT: Map067/events/5/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/5/pages/0/3/Dialogue
+「Thanks to that, 
+　female soldiers have more free time.
 > END STRING
 
 > BEGIN STRING
 「このチャンスに
 　ヴィンテージのフリーベリボーダーと
 　ここの香水でビシッと決めて、
-> CONTEXT: Map067/events/5/pages/0/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/5/pages/0/5/Dialogue
+「I'll take this chance to be bold 
+　with a vintage Friberg Border and this perfume.
 > END STRING
 
 > BEGIN STRING
 「まとめてモノにしてやるのさ。
 　ふっふっふ。
-> CONTEXT: Map067/events/5/pages/0/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/5/pages/0/8/Dialogue
+「I'm going to collect them all 
+　and make them my own.
+　Hehehe.
 > END STRING
 
 > BEGIN STRING
 「テンションには基本となる値が決まっていて、
 　それが\\c[2]基本TP\\c[0]と呼ばれるものです。
-> CONTEXT: Map067/events/9/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/9/pages/0/1/Dialogue
+「There is a base value for tension,
+　which is called \\c[2]Base TP\\c[0].
 > END STRING
 
 > BEGIN STRING
 「あなたの今の基本TPは \\b\\v[1]\\f ですね。
-> CONTEXT: Map067/events/9/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/9/pages/0/4/Dialogue
+「Your current base TP is \\b\\v[1]\\f.
 > END STRING
 
 > BEGIN STRING
 「テンションがこの数値より下がってしまっても、
 　\\c[3]ペパーミント\\c[0]などのテンションを上げる
 　アイテムやテクニックを使えば、
-> CONTEXT: Map067/events/9/pages/0/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/9/pages/0/5/Dialogue
+「Even if your tension falls below this number, 
+　you can still use items and techniques 
+　that increase your tension, such as \\c[3]Peppermint\\c[0].
 > END STRING
 
 > BEGIN STRING
 「基本TPの値までは
 　比較的簡単にテンションを
 　戻すことができます。
-> CONTEXT: Map067/events/9/pages/0/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/9/pages/0/8/Dialogue
+「It's relatively easy 
+　to bring the tension 
+　back up to the base TP value.
 > END STRING
 
 > BEGIN STRING
 「また、バトル中テンションが
 　基本TPより高くなっても、
 　バトル後には基本TPまで戻ってしまいます。
-> CONTEXT: Map067/events/9/pages/0/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/9/pages/0/11/Dialogue
+「Also, even if your tension becomes higher 
+　than your base TP during battle, 
+　it will return to your base TP after the battle.
 > END STRING
 
 > BEGIN STRING
 「テンションは常に高く保ちたいものですが、
 　基本TPより高くなった分でバトル終盤
 　EP回復を優先するのも一手でしょう。
-> CONTEXT: Map067/events/9/pages/0/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map067/events/9/pages/0/14/Dialogue
+「You want to keep your tension high at all times, 
+　but you may want to use excess TP to recover some EP
+　before the end of battle.
 > END STRING

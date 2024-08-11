@@ -3,6 +3,8 @@
 　　　　　　　　　　　　　　　　　　↓　王都グルッペン
 　　　　　　　　　　　　　　　　　　←　港町フリーベリ
 　　　　　　　　　　　　　　　　　　→　ドゥヂチの塔
-> CONTEXT: Map087/events/1/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map087/events/1/pages/0/1/Dialogue
+　　　　　　　　　　　　　　　　　　↓　Gruppen
+　　　　　　　　　　　　　　　　　　←　Friberg
+　　　　　　　　　　　　　　　　　　→　Dodichi
 > END STRING

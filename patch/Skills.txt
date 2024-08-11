@@ -7,61 +7,61 @@
 
 > BEGIN STRING
 服を脱ぐ
-> CONTEXT: Skills/2/name/ < UNTRANSLATED
-> CONTEXT: Skills/201/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/2/name/
+> CONTEXT: Skills/201/name/
+Strip
 > END STRING
 
 > BEGIN STRING
 ベーススキル
-> CONTEXT: Skills/2/description/ < UNTRANSLATED
-> CONTEXT: Skills/3/description/ < UNTRANSLATED
-> CONTEXT: Skills/4/description/ < UNTRANSLATED
-> CONTEXT: System/elements/47/ < UNTRANSLATED
-
+> CONTEXT: Skills/2/description/
+> CONTEXT: Skills/3/description/
+> CONTEXT: Skills/4/description/
+> CONTEXT: System/elements/47/
+Base Skill
 > END STRING
 
 > BEGIN STRING
 服を脱がせる
-> CONTEXT: Skills/3/name/ < UNTRANSLATED
-> CONTEXT: Skills/202/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/3/name/
+> CONTEXT: Skills/202/name/
+Undress
 > END STRING
 
 > BEGIN STRING
 インサート
-> CONTEXT: Skills/4/name/ < UNTRANSLATED
-> CONTEXT: System/elements/44/ < UNTRANSLATED
-> CONTEXT: Skills/203/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/4/name/
+> CONTEXT: System/elements/44/
+> CONTEXT: Skills/203/name/
+Insert
 > END STRING
 
 > BEGIN STRING
 サモン
-> CONTEXT: Skills/5/name/ < UNTRANSLATED
-> CONTEXT: Skills/252/name/ < UNTRANSLATED
-> CONTEXT: Skills/319/name/ < UNTRANSLATED
-> CONTEXT: Skills/663/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/5/name/
+> CONTEXT: Skills/252/name/
+> CONTEXT: Skills/319/name/
+> CONTEXT: Skills/663/name/
+Summon
 > END STRING
 
 > BEGIN STRING
 ルヴィッサを呼び出す
-> CONTEXT: Skills/5/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/5/description/
+Summon Rovissa
 > END STRING
 
 > BEGIN STRING
 リターン
-> CONTEXT: Skills/6/name/ < UNTRANSLATED
-> CONTEXT: Skills/91/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/6/name/
+> CONTEXT: Skills/91/name/
+Return
 > END STRING
 
 > BEGIN STRING
 ルヴィッサを帰還させる
-> CONTEXT: Skills/6/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/6/description/
+Have Rovissa return
 > END STRING
 
 > BEGIN STRING
@@ -152,14 +152,14 @@ Struggle to escape restraints
 
 > BEGIN STRING
 甘い言葉
-> CONTEXT: Skills/16/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/16/name/
+Sweet Words
 > END STRING
 
 > BEGIN STRING
 〔トーク〕 成功率：ムードに比例
-> CONTEXT: Skills/16/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/16/description/
+[Talk] Success rate: Proportional to mood
 > END STRING
 
 > BEGIN STRING
@@ -864,9 +864,9 @@ Increase charm
 
 > BEGIN STRING
 ウルズフニ
-> CONTEXT: Skills/125/name/ < UNTRANSLATED
-> CONTEXT: Skills/291/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/125/name/
+> CONTEXT: Skills/291/name/
+Uruz Funi
 > END STRING
 
 > BEGIN STRING
@@ -2071,8 +2071,8 @@ EP回復(大)
 
 > BEGIN STRING
 センシブウォーター
-> CONTEXT: Skills/325/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/325/name/
+Sensitive Water
 > END STRING
 
 > BEGIN STRING

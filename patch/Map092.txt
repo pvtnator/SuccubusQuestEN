@@ -1,12 +1,12 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 「港の洋品店へようこそ。
-> CONTEXT: Map092/events/2/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map092/events/2/pages/0/1/Dialogue
+「Welcome to the Port Clothing Store.
 > END STRING
 
 > BEGIN STRING
 「またおいで下さい。
-> CONTEXT: Map092/events/2/pages/0/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map092/events/2/pages/0/8/Dialogue
+「Please come again.
 > END STRING

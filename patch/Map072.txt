@@ -1,168 +1,182 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 「………何アンタ？
-> CONTEXT: Map072/events/9/pages/0/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map072/events/9/pages/0/5/Dialogue
+「...Who are you?
 > END STRING
 
 > BEGIN STRING
 「こんなところに用無いでしょ？
 　とっとと帰りなさいよ。
-> CONTEXT: Map072/events/9/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map072/events/9/pages/0/6/Dialogue
+「You have no business here, do you?
+　Just go home now.
 > END STRING
 
 > BEGIN STRING
 「とっとと帰りなさいよ」
-> CONTEXT: Map072/events/9/pages/0/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map072/events/9/pages/0/9/Dialogue
+「Just go home now」
 > END STRING
 
 > BEGIN STRING
 「ちょっと！？
 　何引き下がってんのよ！
-> CONTEXT: Map072/events/9/pages/0/17/Dialogue < UNTRANSLATED
-> CONTEXT: Map072/events/9/pages/1/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map072/events/9/pages/0/17/Dialogue
+> CONTEXT: Map072/events/9/pages/1/16/Dialogue
+「Hey!?
+　You're just gonna withdraw!?
 > END STRING
 
 > BEGIN STRING
 「しっかりしてよ…もう！
-> CONTEXT: Map072/events/9/pages/0/19/Dialogue < UNTRANSLATED
-> CONTEXT: Map072/events/9/pages/1/18/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map072/events/9/pages/0/19/Dialogue
+> CONTEXT: Map072/events/9/pages/1/18/Dialogue
+「Get it together...now!
 > END STRING
 
 > BEGIN STRING
 「……面倒ね…………
-> CONTEXT: Map072/events/9/pages/0/24/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map072/events/9/pages/0/24/Dialogue
+「...what a bother...
 > END STRING
 
 > BEGIN STRING
 「でもここは通しちゃダメって言われてるし……
 　………仕方ないわね。
-> CONTEXT: Map072/events/9/pages/0/25/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map072/events/9/pages/0/25/Dialogue
+「But I was told not to let anyone through here...
+　...I guess there's no other way.
 > END STRING
 
 > BEGIN STRING
 「ああぁンッ……！
-> CONTEXT: Map072/events/9/pages/0/50/Dialogue < UNTRANSLATED
-> CONTEXT: Map072/events/9/pages/1/47/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map072/events/9/pages/0/50/Dialogue
+> CONTEXT: Map072/events/9/pages/1/47/Dialogue
+「Aaahh...!
 > END STRING
 
 > BEGIN STRING
 「…………え？
-> CONTEXT: Map072/events/9/pages/0/70/Dialogue < UNTRANSLATED
-> CONTEXT: Map072/events/9/pages/1/66/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/177/97/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/177/123/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map072/events/9/pages/0/70/Dialogue
+> CONTEXT: Map072/events/9/pages/1/66/Dialogue
+> CONTEXT: Commonevents/177/97/Dialogue
+> CONTEXT: Commonevents/177/123/Dialogue
+「...Eh?
 > END STRING
 
 > BEGIN STRING
 「アタシ………？何で………
 　…………裸………？
-> CONTEXT: Map072/events/9/pages/0/71/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map072/events/9/pages/0/71/Dialogue
+「I...? Why...
+　.....Naked.....?
 > END STRING
 
 > BEGIN STRING
 「あら、それ何？
 　……\\c[4]夢の指輪\\c[0]…？
-> CONTEXT: Map072/events/9/pages/0/127/Dialogue < UNTRANSLATED
-> CONTEXT: Map072/events/9/pages/1/123/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map072/events/9/pages/0/127/Dialogue
+> CONTEXT: Map072/events/9/pages/1/123/Dialogue
+「Oh, what's that?
+　...\\c[4]Dream Ring\\c[0]...?
 > END STRING
 
 > BEGIN STRING
 「なんか\\c[4]魔王のかけら\\c[0]と同じような
 　感じがするわ……
-> CONTEXT: Map072/events/9/pages/0/129/Dialogue < UNTRANSLATED
-> CONTEXT: Map072/events/9/pages/1/125/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map072/events/9/pages/0/129/Dialogue
+> CONTEXT: Map072/events/9/pages/1/125/Dialogue
+「It feels like a \\c[4]Demon King Shard\\c[0]...
 > END STRING
 
 > BEGIN STRING
 「ドラウムニョルへ持っていけば、
 　何か起こるかも知れないわね。
-> CONTEXT: Map072/events/9/pages/0/131/Dialogue < UNTRANSLATED
-> CONTEXT: Map072/events/9/pages/1/127/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map072/events/9/pages/0/131/Dialogue
+> CONTEXT: Map072/events/9/pages/1/127/Dialogue
+「If we take it to Draumnior, 
+　maybe something will happen.
 > END STRING
 
 > BEGIN STRING
 「とっとと帰ってよ…………
 　……もう来ないでね。
-> CONTEXT: Map072/events/9/pages/0/146/Dialogue < UNTRANSLATED
-> CONTEXT: Map072/events/9/pages/1/142/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map072/events/9/pages/0/146/Dialogue
+> CONTEXT: Map072/events/9/pages/1/142/Dialogue
+「Just go home now...
+　...and don't come again.
 > END STRING
 
 > BEGIN STRING
 「参ったわね……
 　全然感じてくれないんじゃ話にならないわ。
-> CONTEXT: Map072/events/9/pages/0/153/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map072/events/9/pages/0/153/Dialogue
+「We lose...
+　There's no point in talking 
+　if you can't make her feel anything at all.
 > END STRING
 
 > BEGIN STRING
 「…あなたの魅力が足りないんじゃない？
-> CONTEXT: Map072/events/9/pages/0/155/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map072/events/9/pages/0/155/Dialogue
+「Maybe you lack charm?
 > END STRING
 
 > BEGIN STRING
 「あははっ、そんな顔しないでよ♪
 　でも何か対策は考えなきゃね。
-> CONTEXT: Map072/events/9/pages/0/156/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map072/events/9/pages/0/156/Dialogue
+「Haha, don't make that face♪
+　Think of some kind of countermeasure.
 > END STRING
 
 > BEGIN STRING
 「あの女の心を動かすような……
 　何か………
-> CONTEXT: Map072/events/9/pages/0/158/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map072/events/9/pages/0/158/Dialogue
+「Something to move that woman's heart...
+　What could it be...
 > END STRING
 
 > BEGIN STRING
 「………また来たの？
-> CONTEXT: Map072/events/9/pages/1/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map072/events/9/pages/1/4/Dialogue
+「You've come again?
 > END STRING
 
 > BEGIN STRING
 「帰ってくれない？
 　次はほんとにイかせちゃうわよ。
-> CONTEXT: Map072/events/9/pages/1/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map072/events/9/pages/1/5/Dialogue
+「Will you please go home?
+　I'll actually make you cum this time.
 > END STRING
 
 > BEGIN STRING
 「帰ってくれない？」
-> CONTEXT: Map072/events/9/pages/1/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map072/events/9/pages/1/8/Dialogue
+「Go home?」
 > END STRING
 
 > BEGIN STRING
 「無駄なのに………
-> CONTEXT: Map072/events/9/pages/1/23/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map072/events/9/pages/1/23/Dialogue
+「It's pointless...
 > END STRING
 
 > BEGIN STRING
 「アタシ………？何で…………………
 　…………裸………？
-> CONTEXT: Map072/events/9/pages/1/67/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map072/events/9/pages/1/67/Dialogue
+「I...? Why......
+　.....Naked.....?
 > END STRING
 
 > BEGIN STRING
 「やっぱりダメ？
 　どうすればいいのかしら……
-> CONTEXT: Map072/events/9/pages/1/149/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map072/events/9/pages/1/149/Dialogue
+「No good after all?
+　I wonder what to do...
 > END STRING

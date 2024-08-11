@@ -450,14 +450,14 @@ Charm +17 / Spirit +3 / Agility +3
 
 > BEGIN STRING
 フリーベリボーダー/12/0
-> CONTEXT: Armors/67/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/67/name/
+Friberg Border/12/0
 > END STRING
 
 > BEGIN STRING
 魅力+12
-> CONTEXT: Armors/67/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/67/description/
+Charm +12
 > END STRING
 
 > BEGIN STRING
@@ -739,74 +739,74 @@ Charm +3 / Agility +3
 
 > BEGIN STRING
 ダイアモンドチャーム/0/0
-> CONTEXT: Armors/106/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/106/name/
+Diamond Charm/0/0
 > END STRING
 
 > BEGIN STRING
 守り+7 / バインド耐性+50%
-> CONTEXT: Armors/106/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/106/description/
+Def +7 / Bind Res. +50%
 > END STRING
 
 > BEGIN STRING
 クリスタルチャーム/0/0
-> CONTEXT: Armors/107/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/107/name/
+Crystal Charm/0/0
 > END STRING
 
 > BEGIN STRING
 守り+7 / 恍惚耐性+50%
-> CONTEXT: Armors/107/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/107/description/
+Def +7 / Ecstatic Res. +50%
 > END STRING
 
 > BEGIN STRING
 ペリドットチャーム/0/0
-> CONTEXT: Armors/108/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/108/name/
+Peridot Charm/0/0
 > END STRING
 
 > BEGIN STRING
 守り+7 / センシブ耐性+50% / ナーバス耐性+50%
-> CONTEXT: Armors/108/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/108/description/
+Def +7 / Sensitive Res. +50% / Nervous Res. +50%
 > END STRING
 
 > BEGIN STRING
 エメラルドチャーム/0/0
-> CONTEXT: Armors/109/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/109/name/
+Emerald Charm/0/0
 > END STRING
 
 > BEGIN STRING
 守り+7 / 暴走耐性+50% / パニック耐性+50%
-> CONTEXT: Armors/109/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/109/description/
+Def +7 / Rampage Res. +50% / Panic Res. +50%
 > END STRING
 
 > BEGIN STRING
 サファイアチャーム/0/0
-> CONTEXT: Armors/110/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/110/name/
+Sapphire Charm/0/0
 > END STRING
 
 > BEGIN STRING
 守り+7 / ミニマム耐性+50% / クラムジ耐性+50% /  ヴィジョン耐性+50%
-> CONTEXT: Armors/110/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/110/description/
+Def +7 / Mini Res. +50% / Clumsy Res. +50% / Vision Res. +50%
 > END STRING
 
 > BEGIN STRING
 鼓舞の銀鱗/0/1
-> CONTEXT: Armors/111/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/111/name/
+Rousing Silver Scales/0/1
 > END STRING
 
 > BEGIN STRING
 守り+3 / TP+5 / 幸運+1
-> CONTEXT: Armors/111/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/111/description/
+Def +3 / TP +5 / Luck +1
 > END STRING
 
 > BEGIN STRING

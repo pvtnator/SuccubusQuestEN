@@ -1,53 +1,55 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 "店主"
-> CONTEXT: Map343/events/3/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map343/events/3/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map333/events/3/pages/0/1/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map216/events/8/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map216/events/8/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map169/events/12/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map169/events/12/pages/0/8/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map169/events/12/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map169/events/12/pages/1/6/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map126/events/2/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map126/events/2/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map093/events/1/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map093/events/1/pages/0/9/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map086/events/18/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map343/events/3/pages/0/0/InlineScript/1:4
+> CONTEXT: Map343/events/3/pages/1/0/InlineScript/1:4
+> CONTEXT: Map333/events/3/pages/0/1/InlineScript/1:4
+> CONTEXT: Map216/events/8/pages/0/0/InlineScript/1:4
+> CONTEXT: Map216/events/8/pages/1/0/InlineScript/1:4
+> CONTEXT: Map169/events/12/pages/0/0/InlineScript/1:4
+> CONTEXT: Map169/events/12/pages/0/8/InlineScript/1:4
+> CONTEXT: Map169/events/12/pages/1/0/InlineScript/1:4
+> CONTEXT: Map169/events/12/pages/1/6/InlineScript/1:4
+> CONTEXT: Map126/events/2/pages/0/0/InlineScript/1:4
+> CONTEXT: Map126/events/2/pages/1/0/InlineScript/1:4
+> CONTEXT: Map093/events/1/pages/0/0/InlineScript/1:4
+> CONTEXT: Map093/events/1/pages/0/9/InlineScript/1:4
+> CONTEXT: Map086/events/18/pages/0/0/InlineScript/1:4
+"Shopkeeper"
 > END STRING
 
 > BEGIN STRING
 「お客さんかい？
 　珍しいね……
-> CONTEXT: Map343/events/3/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map343/events/3/pages/0/1/Dialogue
+「Are you a customer?
+　That's unusual...
 > END STRING
 
 > BEGIN STRING
 「…………………
-> CONTEXT: Map343/events/3/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map315/events/7/pages/0/149/Dialogue < UNTRANSLATED
-> CONTEXT: Map214/events/14/pages/0/165/Dialogue < UNTRANSLATED
-> CONTEXT: Map160/events/6/pages/0/281/Dialogue < UNTRANSLATED
-> CONTEXT: Map214/events/16/pages/0/184/Dialogue < UNTRANSLATED
-> CONTEXT: Map214/events/21/pages/0/167/Dialogue < UNTRANSLATED
-> CONTEXT: Map124/events/13/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map142/events/19/pages/3/209/Dialogue < UNTRANSLATED
-> CONTEXT: Map065/events/30/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map065/events/30/pages/0/48/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/30/pages/0/38/Dialogue < UNTRANSLATED
-> CONTEXT: Map017/events/24/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map012/events/11/pages/0/402/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map343/events/3/pages/1/1/Dialogue
+> CONTEXT: Map315/events/7/pages/0/149/Dialogue
+> CONTEXT: Map214/events/14/pages/0/165/Dialogue
+> CONTEXT: Map160/events/6/pages/0/281/Dialogue
+> CONTEXT: Map214/events/16/pages/0/184/Dialogue
+> CONTEXT: Map214/events/21/pages/0/167/Dialogue
+> CONTEXT: Map124/events/13/pages/0/1/Dialogue
+> CONTEXT: Map142/events/19/pages/3/209/Dialogue
+> CONTEXT: Map065/events/30/pages/0/3/Dialogue
+> CONTEXT: Map065/events/30/pages/0/48/Dialogue
+> CONTEXT: Map231/events/30/pages/0/38/Dialogue
+> CONTEXT: Map017/events/24/pages/1/1/Dialogue
+> CONTEXT: Map012/events/11/pages/0/402/Dialogue
+「........
 > END STRING
 
 > BEGIN STRING
 「…いけない、客が少なくて
 　つい眠りそうになるね。
-> CONTEXT: Map343/events/3/pages/1/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map343/events/3/pages/1/2/Dialogue
+「...No good, there are so few customers
+　I almost fall asleep.
 > END STRING
 
 > BEGIN STRING
@@ -71,40 +73,45 @@
 > BEGIN STRING
 「旅の人かァ？
 　珍しいな！
-> CONTEXT: Map343/events/6/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map343/events/6/pages/0/1/Dialogue
+「Are you a traveller?
+　That's unusual!
 > END STRING
 
 > BEGIN STRING
 「よぅし、よく聞け、いいか、
 　この村はなァ、あの魔王を倒した
 　勇者様を輩出した村だ！
-> CONTEXT: Map343/events/6/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map343/events/6/pages/0/3/Dialogue
+「All right, listen carefully, 
+　this village is the one that 
+　produced the hero who defeated the Demon Lord!
 > END STRING
 
 > BEGIN STRING
 「一度は魔王に滅ぼされ、
 　まだ見ての通りの寂れようだが……
-> CONTEXT: Map343/events/6/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map343/events/6/pages/0/6/Dialogue
+「It was once destroyed by the Demon Lord,
+　and as you can see it is still deserted...
 > END STRING
 
 > BEGIN STRING
 「勇者様がお帰りになりゃァ、
 　たちまちにぎわうってもんさ！
-> CONTEXT: Map343/events/6/pages/0/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map343/events/6/pages/0/8/Dialogue
+「Once the hero returns,
+　this place will instantly become lively!
 > END STRING
 
 > BEGIN STRING
 「…おお、勇者さまあああ……
-> CONTEXT: Map343/events/6/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map343/events/6/pages/1/1/Dialogue
+「...Oh, heroooo...
 > END STRING
 
 > BEGIN STRING
 「ぐごおおおおお…………
-> CONTEXT: Map343/events/6/pages/1/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map343/events/6/pages/1/2/Dialogue
+「Guuuuuhh.....
 > END STRING

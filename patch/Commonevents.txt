@@ -560,22 +560,25 @@
 > BEGIN STRING
 「\\dかけら\\dには不思議な引力があって、
 　チカラのある人や場所に引かれるの。
-> CONTEXT: Commonevents/23/398/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/23/398/Dialogue
+「The \\dfragments\\d have a mysterious attraction, 
+　and are drawn to powerful people and places.
 > END STRING
 
 > BEGIN STRING
 「私が\\n[1]に引かれたみたいにね。
-> CONTEXT: Commonevents/23/400/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/23/400/Dialogue
+「Like I was drawn to \\n[1].
 > END STRING
 
 > BEGIN STRING
 「ドゥヂチへ行ってみましょう。
 　あのお爺さんの言う通り、
 　そこにも\\dかけら\\dがあると思うわ。
-> CONTEXT: Commonevents/23/401/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/23/401/Dialogue
+「Let's go to Dodichi.
+　The old man is right,
+　I think there might be some fragments there too.
 > END STRING
 
 > BEGIN STRING
@@ -3846,9 +3849,10 @@ took off \\n[27]'s clothes off!
 > BEGIN STRING
 \\a[\\v[105]]しかし\\n[27]は
 　冷ややかな目でこちらを見ている！
-> CONTEXT: Commonevents/173/53/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/182/53/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/173/53/Dialogue
+> CONTEXT: Commonevents/182/53/Dialogue
+\\a[\\v[105]]But \\n[27]
+　is looking with cold eyes!
 > END STRING
 
 > BEGIN STRING
@@ -4082,11 +4086,12 @@ took off \\n[27]'s clothes off!
 > BEGIN STRING
 \\a[\\v[105]]しかし\\n[27]は
 冷ややかな目でこちらを見ている！
-> CONTEXT: Commonevents/174/53/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/180/68/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/181/48/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/183/60/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/174/53/Dialogue
+> CONTEXT: Commonevents/180/68/Dialogue
+> CONTEXT: Commonevents/181/48/Dialogue
+> CONTEXT: Commonevents/183/60/Dialogue
+\\a[\\v[105]]But\\n[27]
+is looking with cold eyes!
 > END STRING
 
 > BEGIN STRING

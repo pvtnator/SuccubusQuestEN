@@ -1,31 +1,32 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 「船が出るまで、ヒマです……
-> CONTEXT: Map070/events/5/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map070/events/5/pages/0/1/Dialogue
+「There's some free time until the ship leaves...
 > END STRING
 
 > BEGIN STRING
 「ごゆっくりおくつろぎ下さい。
-> CONTEXT: Map070/events/7/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map070/events/7/pages/0/1/Dialogue
+「Please take your time and relax.
 > END STRING
 
 > BEGIN STRING
 「アーッ！
-> CONTEXT: Map070/events/7/pages/1/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map070/events/7/pages/1/2/Dialogue
+「Aah!
 > END STRING
 
 > BEGIN STRING
 「…って叫び声がお部屋から
 　聞こえてきたような気がしましたが……
-> CONTEXT: Map070/events/7/pages/1/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map070/events/7/pages/1/3/Dialogue
+「...I thought I heard a scream 
+　coming from the room...
 > END STRING
 
 > BEGIN STRING
 「何か悪い夢でもごらんになりましたか？
-> CONTEXT: Map070/events/7/pages/1/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map070/events/7/pages/1/5/Dialogue
+「Bad dream or something?
 > END STRING

@@ -1509,14 +1509,14 @@ Referral required to enter Miranda, the Inn of Love
 
 > BEGIN STRING
 ドゥヂチシグネット
-> CONTEXT: Items/267/name/ < UNTRANSLATED
-
+> CONTEXT: Items/267/name/
+Dodichi Signet
 > END STRING
 
 > BEGIN STRING
 ドゥヂチの塔の警備に当たる兵士に配布される印章
-> CONTEXT: Items/267/description/ < UNTRANSLATED
-
+> CONTEXT: Items/267/description/
+A seal given to soldiers guarding the Dodichi Tower.
 > END STRING
 
 > BEGIN STRING

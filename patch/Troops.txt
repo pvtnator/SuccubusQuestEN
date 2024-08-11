@@ -2609,8 +2609,9 @@ EV_モルガン
 > BEGIN STRING
 「逃げてもいいんだよ？
 　別にアンタなんかに興味ないからさ。
-> CONTEXT: Troops/305/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/305/pages/0/2/Dialogue
+「You can run away, you know? 
+　I'm not particularly interested in you.
 > END STRING
 
 > BEGIN STRING

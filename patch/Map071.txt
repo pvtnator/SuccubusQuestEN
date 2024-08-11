@@ -9,503 +9,567 @@ SQ_Town03
 
 > BEGIN STRING
 「ん、君は……
-> CONTEXT: Map071/events/2/pages/0/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/2/pages/0/5/Dialogue
+「Hmm, you are...
 > END STRING
 
 > BEGIN STRING
 「おお、海辺で介抱してくれた
 　少年じゃないか。
-> CONTEXT: Map071/events/2/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/2/pages/0/6/Dialogue
+「Oh, the boy who 
+　looked after me at the beach?
 > END STRING
 
 > BEGIN STRING
 「しかし……
 　おお、すまない……
-> CONTEXT: Map071/events/2/pages/0/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/2/pages/0/8/Dialogue
+「But...
+　Oh, I'm sorry...
 > END STRING
 
 > BEGIN STRING
 「今の俺にはもう、君にお礼に
 　あげられるようなものは何も無いのだ。
 　ただこの陳腐な言葉を除いては。
-> CONTEXT: Map071/events/2/pages/0/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/2/pages/0/10/Dialogue
+「Right now, 
+　I have nothing to give you as thanks, 
+　except these cliché words.
 > END STRING
 
 > BEGIN STRING
 「少年よ、ありがとう。
 　もし君に慈悲あらば、拾い集めてくれ、
 　この言葉から、
-> CONTEXT: Map071/events/2/pages/0/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/2/pages/0/13/Dialogue
+「Thank you, boy. 
+　If you have any compassion, 
+　please receive these words.
 > END STRING
 
 > BEGIN STRING
 「この俺の感謝の気持ちを。
 　ありがとう。
-> CONTEXT: Map071/events/2/pages/0/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/2/pages/0/16/Dialogue
+「I express my gratitude.
+　Thank you.
 > END STRING
 
 > BEGIN STRING
 「……悪いが、一人にしてくれないか。
-> CONTEXT: Map071/events/2/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/2/pages/1/1/Dialogue
+「...Sorry, but could you please leave me alone?
 > END STRING
 
 > BEGIN STRING
 「…………ん、また君か。
 　悪いが……
-> CONTEXT: Map071/events/2/pages/3/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/2/pages/3/1/Dialogue
+「...Hmm, you again.
+　Sorry but...
 > END STRING
 
 > BEGIN STRING
 「……俺に頼みごと？
-> CONTEXT: Map071/events/2/pages/3/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/2/pages/3/3/Dialogue
+「...A request for me?
 > END STRING
 
 > BEGIN STRING
 「……ふっ、面白い話だな。
-> CONTEXT: Map071/events/2/pages/3/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/2/pages/3/10/Dialogue
+「...Hmm, an interesting story.
 > END STRING
 
 > BEGIN STRING
 「魔物退治に君が必要なのは
 　鱗を貫く刃でも
 　甲羅を砕く槌でもなく、
-> CONTEXT: Map071/events/2/pages/3/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/2/pages/3/11/Dialogue
+「What you need to defeat demons 
+　is not a blade to pierce their scales, 
+　nor a hammer to crush their shells,
 > END STRING
 
 > BEGIN STRING
 「その心臓を直に掴み、
 　激しく揺さぶる愛の言葉というわけか。
-> CONTEXT: Map071/events/2/pages/3/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/2/pages/3/14/Dialogue
+「These are words of love 
+　that grab hold of the heart 
+　and shake it fiercly.
 > END STRING
 
 > BEGIN STRING
 「しかしどこで聞いたのか知らないが、
 　俺の口説き文句をまるで
 　魔法みたいに思ってないか？
-> CONTEXT: Map071/events/2/pages/3/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/2/pages/3/16/Dialogue
+「I don't know where you heard, 
+　but my pick-up lines 
+　aren't they like magic?
 > END STRING
 
 > BEGIN STRING
 「魔法みたいに思ってないか？」
-> CONTEXT: Map071/events/2/pages/3/20/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/2/pages/3/20/Dialogue
+「Aren't they like magic?」
 > END STRING
 
 > BEGIN STRING
 「その通り。
 　魔法なのさ。
-> CONTEXT: Map071/events/2/pages/3/24/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/2/pages/3/24/Dialogue
+「Exactly.
+　It's magic.
 > END STRING
 
 > BEGIN STRING
 「魔法なんだよ。
-> CONTEXT: Map071/events/2/pages/3/29/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/2/pages/3/29/Dialogue
+「It's magic.
 > END STRING
 
 > BEGIN STRING
 「心を動かす言葉ってのは魔法と同じさ。
 　魔力がこもるんだ。
-> CONTEXT: Map071/events/2/pages/3/32/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/2/pages/3/32/Dialogue
+「Words that move the heart are like magic. 
+　They are imbued with magical power.
 > END STRING
 
 > BEGIN STRING
 「ふ～ん、さすが詩人ね。
 　ステキなこと言うじゃない。
-> CONTEXT: Map071/events/2/pages/3/107/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/2/pages/3/107/Dialogue
+「Hmm, you really are a poet.
+　You speak so wonderfully.
 > END STRING
 
 > BEGIN STRING
 「ね、ちょっと私のことも
 　口説いてみてよ\\e[0]
-> CONTEXT: Map071/events/2/pages/3/109/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/2/pages/3/109/Dialogue
+「Hey, try to woo me a little\\e[0]
 > END STRING
 
 > BEGIN STRING
 「……召喚魔法かい？
 　珍しいな。
-> CONTEXT: Map071/events/2/pages/3/112/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/2/pages/3/112/Dialogue
+「...A summoning spell?
+　That's unusual.
 > END STRING
 
 > BEGIN STRING
 「でも悪いなお嬢ちゃん、
 　子供には手を出さない主義なんだ。
-> CONTEXT: Map071/events/2/pages/3/114/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/2/pages/3/114/Dialogue
+「But you poor girl, 
+　I don't like to lay hands on children.
 > END STRING
 
 > BEGIN STRING
 「なっ………子ど……………
-> CONTEXT: Map071/events/2/pages/3/117/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/2/pages/3/117/Dialogue
+「What...child.....
 > END STRING
 
 > BEGIN STRING
 「確かにちょっと小さめかも知れないけど……
 　好きでこのカラダになったわけじゃ……
-> CONTEXT: Map071/events/2/pages/3/118/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/2/pages/3/118/Dialogue
+「I may be a little small, but...
+　I didn't choose to have this body...
 > END STRING
 
 > BEGIN STRING
 「………知らないッ！
-> CONTEXT: Map071/events/2/pages/3/120/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/2/pages/3/120/Dialogue
+「...I wasn't aware!
 > END STRING
 
 > BEGIN STRING
 「おや、怒らせてしまったかな。
-> CONTEXT: Map071/events/2/pages/3/159/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/2/pages/3/159/Dialogue
+「Oof, I guess I made you angry.
 > END STRING
 
 > BEGIN STRING
 「そうだな、君には恩もあるし、
 　今の詫びも兼ねて
 　ぜひ引き受けたいところだが……
-> CONTEXT: Map071/events/2/pages/3/160/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/2/pages/3/160/Dialogue
+「That's right, I owe you a favor, 
+　and I'd really like you 
+　to accept it as an apology...
 > END STRING
 
 > BEGIN STRING
 「だが……
 　もう女性を口説く気にはなれないんだ。
-> CONTEXT: Map071/events/2/pages/3/164/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/2/pages/3/164/Dialogue
+「But...
+　I don't feel like flirting with women anymore.
 > END STRING
 
 > BEGIN STRING
 「こんな俺でも、決まった恋人はいる。
-> CONTEXT: Map071/events/2/pages/3/166/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/2/pages/3/166/Dialogue
+「Even someone like me has a one and only lover.
 > END STRING
 
 > BEGIN STRING
 「フレデリカが………その恋人が…、
-> CONTEXT: Map071/events/2/pages/3/167/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/2/pages/3/167/Dialogue
+「Frederica...is my lover...
 > END STRING
 
 > BEGIN STRING
 「……どうせ言っても信じないだろうが……
-> CONTEXT: Map071/events/2/pages/3/168/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/2/pages/3/168/Dialogue
+「...I know you probably won't believe me 
+　even if I tell you...
 > END STRING
 
 > BEGIN STRING
 「……人魚になってしまったんだ。
-> CONTEXT: Map071/events/2/pages/3/169/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/2/pages/3/169/Dialogue
+「...I've turned into a mermaid.
 > END STRING
 
 > BEGIN STRING
 「……あれは、この町の近くにある
 　『人魚のすみか』と呼ばれている場所を
 　二人で歩いていた時だ。
-> CONTEXT: Map071/events/2/pages/3/173/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/2/pages/3/173/Dialogue
+「...It happened when the two of us 
+　were walking through a place near this town 
+　called 'Mermaid's Home.'
 > END STRING
 
 > BEGIN STRING
 「どこからか今まで聞いたこともないような
 　美しい歌声が聞こえてきて……
 　気が遠くなって………
-> CONTEXT: Map071/events/2/pages/3/176/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/2/pages/3/176/Dialogue
+「I heard a beautiful singing voice from somewhere, 
+　the like of which I'd never heard before... 
+　I felt faint...
 > END STRING
 
 > BEGIN STRING
 「……気がついた時、目の前にあったのは
 　人ならぬ姿で人魚たちと交わっている
 　フレデリカの姿だった。
-> CONTEXT: Map071/events/2/pages/3/179/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/2/pages/3/179/Dialogue
+「...When I came to senses, 
+　I saw Frederica in front of me in a non-human form, 
+　interacting with the mermaids.
 > END STRING
 
 > BEGIN STRING
 「そして、次に俺を襲おうとしてきた
 　人魚たちから必死に逃げてきたのさ……
 　……フレデリカをおいて………
-> CONTEXT: Map071/events/2/pages/3/185/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/2/pages/3/185/Dialogue
+「Then, I desperately ran away from the mermaids 
+　who were about to attack me next... 
+　...leaving Frederica behind...
 > END STRING
 
 > BEGIN STRING
 「後でもう一度『人魚のすみか』へ行ったが、
 　フレデリカは完全に
 　人魚の仲間になっていた。
-> CONTEXT: Map071/events/2/pages/3/188/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/2/pages/3/188/Dialogue
+「Later, I went to the 'Mermaid's Home' again,
+　and found that Frederica had completely become
+　one of the mermaids.
 > END STRING
 
 > BEGIN STRING
 「もう\\dこっち\\dへ戻ってくることは
 　ないのだろう……
-> CONTEXT: Map071/events/2/pages/3/191/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/2/pages/3/191/Dialogue
+「She'll never come back \\dhere\\d again...
 > END STRING
 
 > BEGIN STRING
 「……俺はずいぶん
 　フレデリカをないがしろにしてきたからな。
 　その罰なのかも知れない。
-> CONTEXT: Map071/events/2/pages/3/193/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/2/pages/3/193/Dialogue
+「...I've neglected Frederica a lot. 
+　Maybe this is my punishment.
 > END STRING
 
 > BEGIN STRING
 「もう何もする気になれないんだ。
 　ましてや他の女を口説くなんて……
-> CONTEXT: Map071/events/2/pages/3/196/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/2/pages/3/196/Dialogue
+「I don't feel like doing anything anymore. 
+　Especially wooing other women...
 > END STRING
 
 > BEGIN STRING
 「………今更だけどな。
-> CONTEXT: Map071/events/2/pages/3/198/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/2/pages/3/198/Dialogue
+「...It’s a little late now, though.
 > END STRING
 
 > BEGIN STRING
 「ここにいるのは恋人も歌も、
 　言葉も失った間抜けな男さ。
-> CONTEXT: Map071/events/2/pages/3/201/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/2/pages/3/201/Dialogue
+「Here we have a foolish man who has lost his lover, 
+his songs, and his words.
 > END STRING
 
 > BEGIN STRING
 「悪いが君たちの助けにはなれない。
-> CONTEXT: Map071/events/2/pages/3/203/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/2/pages/3/203/Dialogue
+「Sorry but I can't help you.
 > END STRING
 
 > BEGIN STRING
 「分かったらもう少し……
 　………一人にしておいてくれ。
-> CONTEXT: Map071/events/2/pages/3/205/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/2/pages/3/205/Dialogue
+「You'll understand soon...
+　just leave me alone...
 > END STRING
 
 > BEGIN STRING
 「こちらにお泊りのローズニル様ですか？
 　先程ふらりと出て行かれましたが……
-> CONTEXT: Map071/events/5/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/5/pages/0/1/Dialogue
+「Is Rosenil staying here?
+　He just left a while ago...
 > END STRING
 
 > BEGIN STRING
 「行き先までは存じ上げませんわ。
-> CONTEXT: Map071/events/5/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/5/pages/0/3/Dialogue
+「I don't know where to.
 > END STRING
 
 > BEGIN STRING
 「本当にありがとう………
 　……君のおかげだ。
-> CONTEXT: Map071/events/6/pages/0/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/6/pages/0/5/Dialogue
+「Thank you so much....
+　It's all thanks to you.
 > END STRING
 
 > BEGIN STRING
 「医者の話では、体力を消耗しているだけで
 　じきに目を覚ますらしい。
-> CONTEXT: Map071/events/6/pages/0/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/6/pages/0/7/Dialogue
+「The doctor said he's just lost his strength 
+　and will wake up soon.
 > END STRING
 
 > BEGIN STRING
 「目が覚めたら……
 　もう一度話し合ってみることにするよ。
-> CONTEXT: Map071/events/6/pages/0/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/6/pages/0/9/Dialogue
+「When he wakes up...
+　I'll try to talk again.
 > END STRING
 
 > BEGIN STRING
 「あんたの痴話話なんて
 　どうでもいいんだけどさっ！
-> CONTEXT: Map071/events/6/pages/0/37/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/6/pages/0/37/Dialogue
+「I don't care 
+　about your love stories!
 > END STRING
 
 > BEGIN STRING
 「これで貸しができたんだから、
 　こっちの頼みも聞いてもらえる？
-> CONTEXT: Map071/events/6/pages/0/39/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/6/pages/0/39/Dialogue
+「Now that the debt is repaid,
+　do you have a favor to ask?
 > END STRING
 
 > BEGIN STRING
 「ああ、そうだったな。
 　俺の魔法の口説き文句を
 　借りたいって話だったかな？
-> CONTEXT: Map071/events/6/pages/0/42/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/6/pages/0/42/Dialogue
+「Oh, that's right. 
+　I think you said you wanted to 
+　borrow my magic pick-up line.
 > END STRING
 
 > BEGIN STRING
 「そうだけど……なんかムカつくわね。
-> CONTEXT: Map071/events/6/pages/0/46/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/6/pages/0/46/Dialogue
+「Yeah, but...it's kind of annoying.
 > END STRING
 
 > BEGIN STRING
 「だけど、君にはもう俺の言葉なんて
 　必要ないんじゃないかな？
-> CONTEXT: Map071/events/6/pages/0/51/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/6/pages/0/51/Dialogue
+「But maybe you don't need 
+　my words anymore?
 > END STRING
 
 > BEGIN STRING
 「前に、心を動かす言葉は
 　魔法と同じだと言ったね。
-> CONTEXT: Map071/events/6/pages/0/53/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/6/pages/0/53/Dialogue
+「As said before, words that move 
+　people's hearts are like magic.
 > END STRING
 
 > BEGIN STRING
 「あれはウソだ。
 　言葉に魔力なんて無い。
-> CONTEXT: Map071/events/6/pages/0/55/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/6/pages/0/55/Dialogue
+「That's a lie. 
+　Words have no magic power.
 > END STRING
 
 > BEGIN STRING
 「俺とフレデリカのやり取りを
 　君も聞いていただろ？
 　言葉は時として何の役にも立たない。
-> CONTEXT: Map071/events/6/pages/0/57/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/6/pages/0/57/Dialogue
+「You heard what Frederica and I were saying? 
+　Sometimes words are useless.
 > END STRING
 
 > BEGIN STRING
 「あの時、俺の気持ちを伝えたのは
 　言葉じゃなく、二人で奏でた曲だった。
-> CONTEXT: Map071/events/6/pages/0/60/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/6/pages/0/60/Dialogue
+「At that time, 
+　I conveyed my feelings not with words, 
+　but with the song we played together.
 > END STRING
 
 > BEGIN STRING
 「……何よそれ…………
 　\\n[1]に今から楽器の練習でも
 　させろって言うの？
-> CONTEXT: Map071/events/6/pages/0/63/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/6/pages/0/63/Dialogue
+「...What then..... 
+　Time for \\n[1] to practice an instrument now?
 > END STRING
 
 > BEGIN STRING
 「ふっ、そうじゃない。
-> CONTEXT: Map071/events/6/pages/0/67/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/6/pages/0/67/Dialogue
+「Hmm, not really.
 > END STRING
 
 > BEGIN STRING
 「言葉も音楽も、
 　心を伝えるための手段に過ぎない。
-> CONTEXT: Map071/events/6/pages/0/68/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/6/pages/0/68/Dialogue
+「Words and music are merely a means 
+　to convey our feelings.
 > END STRING
 
 > BEGIN STRING
 「それは魔法なんかじゃない。
 　魔力や…心が、愛が、それに\\dこもっている\\d
 　なんて、俺は信じていない。
-> CONTEXT: Map071/events/6/pages/0/70/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/6/pages/0/70/Dialogue
+「It's not magic.
+　I don't believe in magic...heart, love...
+　being \\dshut in\\d, or things like that.
 > END STRING
 
 > BEGIN STRING
 「大切なのは君自身の心だ。
 　それを伝えようとする意志だ。
-> CONTEXT: Map071/events/6/pages/0/73/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/6/pages/0/73/Dialogue
+「What's important is your own heart.
+　And your will to convey it.
 > END STRING
 
 > BEGIN STRING
 「君にできることをすればいいんだ。
-> CONTEXT: Map071/events/6/pages/0/75/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/6/pages/0/75/Dialogue
+「You just have to do what you can.
 > END STRING
 
 > BEGIN STRING
 「…………………
 　……なんだかよくわかんないけど。
-> CONTEXT: Map071/events/6/pages/0/77/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/6/pages/0/77/Dialogue
+「.........
+　...I don't really understand.
 > END STRING
 
 > BEGIN STRING
 「自分で口説けって言ってるのかしら？
-> CONTEXT: Map071/events/6/pages/0/79/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/6/pages/0/79/Dialogue
+「Are you telling me to speak for myself?
 > END STRING
 
 > BEGIN STRING
 「君ならできるはずだ。
 　俺になり代わり、フレデリカを
 　悦ばせることのできた君ならね。
-> CONTEXT: Map071/events/6/pages/0/81/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/6/pages/0/81/Dialogue
+「I'm sure you can do it. 
+　You were able to take my place 
+　and make Frederica happy.
 > END STRING
 
 > BEGIN STRING
 「…………ま、いいわ。
-> CONTEXT: Map071/events/6/pages/0/85/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/6/pages/0/85/Dialogue
+「...Okay, fine.
 > END STRING
 
 > BEGIN STRING
 「……\\n[1]の口説き文句ってのも
 　聞いてみたいしね\\e[0]
-> CONTEXT: Map071/events/6/pages/0/86/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/6/pages/0/86/Dialogue
+「...\\n[1], I'd like to hear 
+　your pick-up line\\e[0]
 > END STRING
 
 > BEGIN STRING
 \\n[1]は\\c[1]甘い言葉\\c[0]を覚えた！
-> CONTEXT: Map071/events/6/pages/0/109/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/6/pages/0/109/Dialogue
+\\n[1] learned \\c[1]Sweet Words\\c[0]!
 > END STRING
 
 > BEGIN STRING
 「う………ん……………
-> CONTEXT: Map071/events/7/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/7/pages/0/1/Dialogue
+「Uu...hh.....
 > END STRING
 
 > BEGIN STRING
 気を失ってるだけのようだ
-> CONTEXT: Map071/events/7/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/7/pages/0/3/Dialogue
+Seems like he just lost consciousness
 > END STRING
 
 > BEGIN STRING
 「言葉をうまく使えば、
 　今までとは違った世界が見えてくる。
-> CONTEXT: Map071/events/8/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/8/pages/0/1/Dialogue
+「If you use words well,
+　you can see a different world 
+　than you've ever seen before.
 > END STRING
 
 > BEGIN STRING
 「今までできなかったことも、
 　できるようになってるかも知れないね。
-> CONTEXT: Map071/events/8/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map071/events/8/pages/0/3/Dialogue
+「You might be able to do things 
+　that you couldn't do before.
 > END STRING

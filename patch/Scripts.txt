@@ -6960,7 +6960,7 @@
 > CONTEXT: Scripts/RPG::State (message)/233:17 < UNTRANSLATED
 > CONTEXT: Scripts/RPG::State (message)/319:17 < UNTRANSLATED
 > CONTEXT: Scripts/RPG::State (message)/322:17 < UNTRANSLATED
-
+"\#{myname}'s energy has decreased!"
 > END STRING
 
 > BEGIN STRING
@@ -10369,15 +10369,15 @@
 
 > BEGIN STRING
 "モルガン"
-> CONTEXT: Scripts/Game_Battler(msg-nude(E))/90:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/64:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/124:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/208:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/204:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(A))/123:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Enemy/192:11 < UNTRANSLATED
-> CONTEXT: Troops/305/pages/0/1/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-nude(E))/90:10
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/64:10
+> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/124:10
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/208:10
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/204:10
+> CONTEXT: Scripts/Game_Battler(msg-insert(A))/123:10
+> CONTEXT: Scripts/Game_Enemy/192:11
+> CONTEXT: Troops/305/pages/0/1/InlineScript/1:4
+"Morgan"
 > END STRING
 
 > BEGIN STRING
@@ -11918,7 +11918,7 @@
 > BEGIN STRING
 "「ふふっ、覚悟しなね…\\\\e[0]"
 > CONTEXT: Scripts/Game_Battler(msg-ennude(E))/158:12 < UNTRANSLATED
-
+"「Hehe, prepare yourself...\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
@@ -11931,13 +11931,13 @@
 "「生意気…！"
 > CONTEXT: Scripts/Game_Battler(msg-ennude(E))/159:12 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Battler(msg-insert(E))/143:12 < UNTRANSLATED
-
+"「Cheeky...!"
 > END STRING
 
 > BEGIN STRING
 "「あら、もうイきそうですの？\\n\\\\w[\\\\v[104]]"
 > CONTEXT: Scripts/Game_Battler(msg-crisis)/137:12 < UNTRANSLATED
-
+"「Oho, about to cum?\\n\\\\w[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
@@ -11956,20 +11956,20 @@
 > BEGIN STRING
 "　だらしないですわね……ふふっ♪"
 > CONTEXT: Scripts/Game_Battler(msg-crisis)/138:12 < UNTRANSLATED
-
+"How sloppy... Hehe♪"
 > END STRING
 
 > BEGIN STRING
 "「気持ち良くなりたくないのぉ？"
 > CONTEXT: Scripts/Game_Battler(msg-ennude(E))/162:12 < UNTRANSLATED
-
+"「Don't you want to feel good?"
 > END STRING
 
 > BEGIN STRING
 "「焦らしちゃおっかなぁ\\\\e[0]"
 > CONTEXT: Scripts/Game_Battler(msg-ennude(A))/123:12 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Battler(msg-insert(A))/122:12 < UNTRANSLATED
-
+"「Maybe I should tease you\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
@@ -13274,21 +13274,21 @@
 
 > BEGIN STRING
 "「あ～ん、避けないでよぉ…"
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/137:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/137:12
+"「Aww, don't push me away..."
 > END STRING
 
 > BEGIN STRING
 "「ふふ、まだダメよ\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-insert(A))/51:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-insert(A))/51:14
+"「Haha, not yet\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
 "「あぁあんっ\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/139:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/208:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/139:12
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/208:12
+"「Aaaahh\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
@@ -13299,14 +13299,14 @@
 
 > BEGIN STRING
 "「避けないでくださぁい……"
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/140:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/140:12
+"「Please don't avoid me..."
 > END STRING
 
 > BEGIN STRING
 "「いれたいのぉ～？\\n\\004[\\\\v[105]]　ふふっ、じらしちゃおっかなぁ～～♪"
-> CONTEXT: Scripts/Game_Battler(msg-insert(A))/55:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-insert(A))/55:12
+"「Do you want to put it in?\\n\\004[\\\\v[105]]　Hehe, maybe I'll tease you~~♪"
 > END STRING
 
 > BEGIN STRING
@@ -13908,7 +13908,7 @@
 > BEGIN STRING
 "* フレデリカ・ローランド *\\n"
 > CONTEXT: Scripts/Game_Enemy 2(analyze)/60:7 < UNTRANSLATED
-
+"* Frederica Roland *\\n"
 > END STRING
 
 > BEGIN STRING
@@ -13925,13 +13925,13 @@
 > CONTEXT: Map072/events/9/pages/1/46/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Map072/events/9/pages/1/65/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Map072/events/9/pages/1/141/InlineScript/1:4 < UNTRANSLATED
-
+"Selma"
 > END STRING
 
 > BEGIN STRING
 "* セルマ・ブルセリド *\\n"
 > CONTEXT: Scripts/Game_Enemy 2(analyze)/63:7 < UNTRANSLATED
-
+"* Selma Brusselid *\\n"
 > END STRING
 
 > BEGIN STRING
@@ -15146,7 +15146,7 @@
 > BEGIN STRING
 "ピンクの水をかけてきた！"
 > CONTEXT: Scripts/RPG::Skill (message)/404:24 < UNTRANSLATED
-
+" splashed pink water!"
 > END STRING
 
 > BEGIN STRING
@@ -15207,14 +15207,14 @@
 
 > BEGIN STRING
 "\#{myname}は冷ややかな目で"
-> CONTEXT: Scripts/RPG::Skill (message)/416:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/416:18
+"\#{myname} looks coldly"
 > END STRING
 
 > BEGIN STRING
 "\#{$game_actors[1].name}を見ている！\\\\w[\\\\v[104]]　"
 > CONTEXT: Scripts/RPG::Skill (message)/417:18 < UNTRANSLATED
-
+"and watches \#{$game_actors[1].name}! \\\\w[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
@@ -15908,7 +15908,7 @@
 "アルプ"
 > CONTEXT: Scripts/Game_Enemy/486:18 < UNTRANSLATED
 > CONTEXT: Scripts/★図鑑用詳細データ/63:10 < UNTRANSLATED
-
+"Alp"
 > END STRING
 
 > BEGIN STRING
@@ -16147,7 +16147,7 @@
 "ウンディーネ"
 > CONTEXT: Scripts/Game_Enemy/492:26 < UNTRANSLATED
 > CONTEXT: Scripts/★図鑑用詳細データ/126:10 < UNTRANSLATED
-
+"Undine"
 > END STRING
 
 > BEGIN STRING
@@ -18306,7 +18306,7 @@
 > BEGIN STRING
 "人魚の町、フリーベリ"
 > CONTEXT: Scripts/Window_SaveFile/113:14 < UNTRANSLATED
-
+"Friberg, Mermaid Town"
 > END STRING
 
 > BEGIN STRING
@@ -25270,7 +25270,7 @@
 > BEGIN STRING
 "セルマ・ブルセリド"
 > CONTEXT: Scripts/★図鑑用詳細データ/784:12 < UNTRANSLATED
-
+"Selma Brusselid"
 > END STRING
 
 > BEGIN STRING

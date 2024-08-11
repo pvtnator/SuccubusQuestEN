@@ -2,12 +2,13 @@
 > BEGIN STRING
 「ようこそようこそ、
 　フリーベリの雑貨屋へようこそ！
-> CONTEXT: Map093/events/1/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map093/events/1/pages/0/1/Dialogue
+「Welcome, welcome,
+　Welcome to Friberg's General Store!
 > END STRING
 
 > BEGIN STRING
 「またお越しくださいっ！
-> CONTEXT: Map093/events/1/pages/0/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map093/events/1/pages/0/10/Dialogue
+「Please come again!
 > END STRING
