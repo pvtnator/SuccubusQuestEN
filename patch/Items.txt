@@ -1545,14 +1545,14 @@ A seal given to soldiers guarding the Dodichi Tower.
 
 > BEGIN STRING
 砕け散ったギルデンスターンの一部　「使い魔」のかけら
-> CONTEXT: Items/270/description/ < UNTRANSLATED
-
+> CONTEXT: Items/270/description/
+A fragment of shattered Guildenstern: "Familiar"
 > END STRING
 
 > BEGIN STRING
 砕け散ったギルデンスターンの一部　「槍」のかけら
-> CONTEXT: Items/271/description/ < UNTRANSLATED
-
+> CONTEXT: Items/271/description/
+A fragment of shattered Guildenstern: "Spear"
 > END STRING
 
 > BEGIN STRING
@@ -1563,14 +1563,14 @@ A seal given to soldiers guarding the Dodichi Tower.
 
 > BEGIN STRING
 砕け散ったギルデンスターンの一部　「剣」のかけら
-> CONTEXT: Items/272/description/ < UNTRANSLATED
-
+> CONTEXT: Items/272/description/
+A fragment of shattered Guildenstern: "Sword"
 > END STRING
 
 > BEGIN STRING
 砕け散ったギルデンスターンの一部　「杖」のかけら
-> CONTEXT: Items/273/description/ < UNTRANSLATED
-
+> CONTEXT: Items/273/description/
+A fragment of shattered Guildenstern: "Staff"
 > END STRING
 
 > BEGIN STRING
@@ -1581,8 +1581,8 @@ A seal given to soldiers guarding the Dodichi Tower.
 
 > BEGIN STRING
 砕け散ったギルデンスターンの一部　「杯」のかけら
-> CONTEXT: Items/274/description/ < UNTRANSLATED
-
+> CONTEXT: Items/274/description/
+A fragment of shattered Guildenstern: "Cup"
 > END STRING
 
 > BEGIN STRING

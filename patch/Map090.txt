@@ -1,169 +1,181 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 「どうして……？
-> CONTEXT: Map090/events/5/pages/0/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map090/events/5/pages/0/8/Dialogue
+「Why...?
 > END STRING
 
 > BEGIN STRING
 "人魚/Frederica"
-> CONTEXT: Map090/events/5/pages/0/11/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map090/events/5/pages/0/11/InlineScript/1:4
+"Mermaid/Frederica"
 > END STRING
 
 > BEGIN STRING
 「どうしてここに来るの？
 　どうして忘れてくれないの？
-> CONTEXT: Map090/events/5/pages/0/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map090/events/5/pages/0/12/Dialogue
+「Why did you come here? 
+　Why don't you forget?
 > END STRING
 
 > BEGIN STRING
 「どうしてまた来たの………
-> CONTEXT: Map090/events/5/pages/0/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map090/events/5/pages/0/14/Dialogue
+「Why did you come again...?
 > END STRING
 
 > BEGIN STRING
 「ローズニル……………
-> CONTEXT: Map090/events/5/pages/0/15/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map090/events/5/pages/0/15/Dialogue
+「Rosenil......
 > END STRING
 
 > BEGIN STRING
 「……フレデリカ…………
-> CONTEXT: Map090/events/5/pages/0/55/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map090/events/5/pages/0/55/Dialogue
+「...Frederica......
 > END STRING
 
 > BEGIN STRING
 "フレデリカ/Frederica"
-> CONTEXT: Map090/events/5/pages/0/56/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map090/events/5/pages/0/64/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map090/events/5/pages/0/151/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map090/events/5/pages/0/162/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map090/events/5/pages/0/168/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map090/events/5/pages/0/221/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map090/events/5/pages/0/237/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map090/events/5/pages/0/264/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map090/events/5/pages/0/56/InlineScript/1:4
+> CONTEXT: Map090/events/5/pages/0/64/InlineScript/1:4
+> CONTEXT: Map090/events/5/pages/0/151/InlineScript/1:4
+> CONTEXT: Map090/events/5/pages/0/162/InlineScript/1:4
+> CONTEXT: Map090/events/5/pages/0/168/InlineScript/1:4
+> CONTEXT: Map090/events/5/pages/0/221/InlineScript/1:4
+> CONTEXT: Map090/events/5/pages/0/237/InlineScript/1:4
+> CONTEXT: Map090/events/5/pages/0/264/InlineScript/1:4
+"Frederica/Frederica"
 > END STRING
 
 > BEGIN STRING
 「………帰って。
 　私はもう、あなたの知ってる私じゃないの。
-> CONTEXT: Map090/events/5/pages/0/57/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map090/events/5/pages/0/57/Dialogue
+「...Go home. 
+　I'm not the girl you know anymore.
 > END STRING
 
 > BEGIN STRING
 「フレデリカ、聞いてくれ。
 　俺は………
-> CONTEXT: Map090/events/5/pages/0/60/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map090/events/5/pages/0/60/Dialogue
+「Frederica, listen to me.
+　I'm...
 > END STRING
 
 > BEGIN STRING
 「私は醜い、\\r[淫靡,いんび]な魔物。
 　あなたも見たでしょ？
 　私が犯され、変わる様。
-> CONTEXT: Map090/events/5/pages/0/65/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map090/events/5/pages/0/65/Dialogue
+「I am an ugly, lewd demon.
+　You saw it, didn't you?
+　The way I was violated and changed.
 > END STRING
 
 > BEGIN STRING
 「私の歌は、悪夢の調べ。
 　もう誰にも届かない。
 　今もほら、こうやって……
-> CONTEXT: Map090/events/5/pages/0/68/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map090/events/5/pages/0/68/Dialogue
+「My song is the melody of a nightmare.
+　Soon it won't reach anyone anymore.
+　Even now, look...
 > END STRING
 
 > BEGIN STRING
 「……憐れな獲物を、
 　惹きよせるだけ………。
-> CONTEXT: Map090/events/5/pages/0/152/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map090/events/5/pages/0/152/Dialogue
+「...It only serves to 
+　attract pitiful prey...
 > END STRING
 
 > BEGIN STRING
 「フレデリカ！
 　やめろッ！！
-> CONTEXT: Map090/events/5/pages/0/160/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map090/events/5/pages/0/160/Dialogue
+「Frederica!
+　Stop!!
 > END STRING
 
 > BEGIN STRING
 「あなたがやってきたことと同じよ、
 　ローズニル。
-> CONTEXT: Map090/events/5/pages/0/163/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map090/events/5/pages/0/163/Dialogue
+「Just like what you've been doing, 
+　Rosenil.
 > END STRING
 
 > BEGIN STRING
 「違う！
 　フレデリカ、頼む、もう一度俺の言葉を……
-> CONTEXT: Map090/events/5/pages/0/166/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map090/events/5/pages/0/166/Dialogue
+「No!
+　Frederica, please, hear my words once more...
 > END STRING
 
 > BEGIN STRING
 「嫌よ。
 　あなたの言葉はもうたくさん……
-> CONTEXT: Map090/events/5/pages/0/169/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map090/events/5/pages/0/169/Dialogue
+「No. 
+　I've had enough of your words...
 > END STRING
 
 > BEGIN STRING
 「お願い、ここからいなくなって……
-> CONTEXT: Map090/events/5/pages/0/171/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map090/events/5/pages/0/171/Dialogue
+「Please, get out of here...
 > END STRING
 
 > BEGIN STRING
 「ここは…………
-> CONTEXT: Map090/events/5/pages/0/173/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map090/events/5/pages/0/173/Dialogue
+「This is...
 > END STRING
 
 > BEGIN STRING
 「………水中………………
-> CONTEXT: Map090/events/5/pages/0/174/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map090/events/5/pages/0/174/Dialogue
+「...Underwater......
 > END STRING
 
 > BEGIN STRING
 「あなたに浮力を………
-> CONTEXT: Map090/events/5/pages/0/222/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map090/events/5/pages/0/222/Dialogue
+「I'll give you buoyancy...
 > END STRING
 
 > BEGIN STRING
 「愛の浮力を……………
-> CONTEXT: Map090/events/5/pages/0/223/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map090/events/5/pages/0/223/Dialogue
+「Buoyancy of love......
 > END STRING
 
 > BEGIN STRING
 「フレ……デ………リ……………
-> CONTEXT: Map090/events/5/pages/0/236/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map090/events/5/pages/0/236/Dialogue
+「Fre...de...ri.....
 > END STRING
 
 > BEGIN STRING
 「……ここには二人だけ…………
-> CONTEXT: Map090/events/5/pages/0/238/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map090/events/5/pages/0/238/Dialogue
+「...There are only two of us here.....
 > END STRING
 
 > BEGIN STRING
 「さあ、肉体の重みを忘れ……
-> CONTEXT: Map090/events/5/pages/0/265/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map090/events/5/pages/0/265/Dialogue
+「Now, forget the weight of your body...
 > END STRING
 
 > BEGIN STRING
 「溺れましょう…ともに………
-> CONTEXT: Map090/events/5/pages/0/266/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map090/events/5/pages/0/266/Dialogue
+「Let's drown in it...together...
 > END STRING

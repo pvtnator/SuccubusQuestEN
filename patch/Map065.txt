@@ -27,7 +27,7 @@ Gruppen Road
 > CONTEXT: Map065/events/7/pages/1/2/Choice/1
 > CONTEXT: Map065/events/14/pages/1/2/Choice/1
 > CONTEXT: Map065/events/19/pages/1/2/Choice/1
-Mermaid's Home
+Mermaid's Den
 > END STRING
 
 > BEGIN STRING
@@ -248,7 +248,7 @@ The seabird has something in its mouth...
 > BEGIN STRING
 「送りましょうか？
 > CONTEXT: Map065/events/30/pages/1/3/Dialogue
-「Shall I send you there?
+「Shall I send you?
 > END STRING
 
 > BEGIN STRING

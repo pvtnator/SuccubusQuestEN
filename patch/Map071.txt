@@ -188,13 +188,13 @@ SQ_Town03
 > BEGIN STRING
 「………知らないッ！
 > CONTEXT: Map071/events/2/pages/3/120/Dialogue
-「...I wasn't aware!
+「...Whatever!
 > END STRING
 
 > BEGIN STRING
 「おや、怒らせてしまったかな。
 > CONTEXT: Map071/events/2/pages/3/159/Dialogue
-「Oof, I guess I made you angry.
+「Oof, I guess I made her angry.
 > END STRING
 
 > BEGIN STRING
@@ -237,7 +237,7 @@ SQ_Town03
 > BEGIN STRING
 「……人魚になってしまったんだ。
 > CONTEXT: Map071/events/2/pages/3/169/Dialogue
-「...I've turned into a mermaid.
+「...She turned into a mermaid.
 > END STRING
 
 > BEGIN STRING
@@ -247,7 +247,7 @@ SQ_Town03
 > CONTEXT: Map071/events/2/pages/3/173/Dialogue
 「...It happened when the two of us 
 　were walking through a place near this town 
-　called 'Mermaid's Home.'
+　called 'Mermaid's Den.'
 > END STRING
 
 > BEGIN STRING
@@ -285,7 +285,7 @@ SQ_Town03
 　フレデリカは完全に
 　人魚の仲間になっていた。
 > CONTEXT: Map071/events/2/pages/3/188/Dialogue
-「Later, I went to the 'Mermaid's Home' again,
+「Later, I went to the 'Mermaid's Den' again,
 　and found that Frederica had completely become
 　one of the mermaids.
 > END STRING
@@ -325,7 +325,7 @@ SQ_Town03
 　言葉も失った間抜けな男さ。
 > CONTEXT: Map071/events/2/pages/3/201/Dialogue
 「Here we have a foolish man who has lost his lover, 
-his songs, and his words.
+　his songs, and his words.
 > END STRING
 
 > BEGIN STRING
@@ -368,7 +368,7 @@ his songs, and his words.
 「医者の話では、体力を消耗しているだけで
 　じきに目を覚ますらしい。
 > CONTEXT: Map071/events/6/pages/0/7/Dialogue
-「The doctor said he's just lost his strength 
+「The doctor said she's just lost his strength 
 　and will wake up soon.
 > END STRING
 
@@ -376,7 +376,7 @@ his songs, and his words.
 「目が覚めたら……
 　もう一度話し合ってみることにするよ。
 > CONTEXT: Map071/events/6/pages/0/9/Dialogue
-「When he wakes up...
+「When she wakes up...
 　I'll try to talk again.
 > END STRING
 
@@ -392,8 +392,8 @@ his songs, and his words.
 「これで貸しができたんだから、
 　こっちの頼みも聞いてもらえる？
 > CONTEXT: Map071/events/6/pages/0/39/Dialogue
-「Now that the debt is repaid,
-　do you have a favor to ask?
+「Now that you can,
+　don't you have a debt to repay?
 > END STRING
 
 > BEGIN STRING
@@ -409,7 +409,7 @@ his songs, and his words.
 > BEGIN STRING
 「そうだけど……なんかムカつくわね。
 > CONTEXT: Map071/events/6/pages/0/46/Dialogue
-「Yeah, but...it's kind of annoying.
+「Yeah, but...that makes me sick.
 > END STRING
 
 > BEGIN STRING
@@ -512,7 +512,7 @@ his songs, and his words.
 > BEGIN STRING
 「自分で口説けって言ってるのかしら？
 > CONTEXT: Map071/events/6/pages/0/79/Dialogue
-「Are you telling me to speak for myself?
+「Are you telling us to woo her ourselves?
 > END STRING
 
 > BEGIN STRING
@@ -554,7 +554,7 @@ his songs, and his words.
 > BEGIN STRING
 気を失ってるだけのようだ
 > CONTEXT: Map071/events/7/pages/0/3/Dialogue
-Seems like he just lost consciousness
+Seems to be just unconcious
 > END STRING
 
 > BEGIN STRING

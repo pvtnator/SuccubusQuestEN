@@ -80,17 +80,17 @@
 
 > BEGIN STRING
 "フレデリカ/Frederica/02"
-> CONTEXT: Map288/events/3/pages/0/39/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map123/events/8/pages/0/56/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map123/events/8/pages/0/60/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map095/events/6/pages/0/47/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map089/events/6/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map089/events/6/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map065/events/20/pages/1/75/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map065/events/20/pages/1/88/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map065/events/20/pages/1/169/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map065/events/20/pages/1/182/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map288/events/3/pages/0/39/InlineScript/1:4
+> CONTEXT: Map123/events/8/pages/0/56/InlineScript/1:4
+> CONTEXT: Map123/events/8/pages/0/60/InlineScript/1:4
+> CONTEXT: Map095/events/6/pages/0/47/InlineScript/1:4
+> CONTEXT: Map089/events/6/pages/0/0/InlineScript/1:4
+> CONTEXT: Map089/events/6/pages/1/0/InlineScript/1:4
+> CONTEXT: Map065/events/20/pages/1/75/InlineScript/1:4
+> CONTEXT: Map065/events/20/pages/1/88/InlineScript/1:4
+> CONTEXT: Map065/events/20/pages/1/169/InlineScript/1:4
+> CONTEXT: Map065/events/20/pages/1/182/InlineScript/1:4
+"Frederica/Frederica/02"
 > END STRING
 
 > BEGIN STRING

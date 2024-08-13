@@ -28,16 +28,19 @@
 「ここで\\n[1]のEPとTPは
 　回復できるみたいだけど、
 　私のMPは回復しないからね。
-> CONTEXT: Commonevents/15/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/15/3/Dialogue
+「Looks like your EP and TP can be recovered here,
+　but not my MP.
 > END STRING
 
 > BEGIN STRING
 「でも心配しないで。
 　呼び出さずに休ませてくれさえすれば、
 　少しずつ回復するから。
-> CONTEXT: Commonevents/15/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/15/6/Dialogue
+「But don't worry.
+　As long as you let me rest,
+　I'll recover little by little.
 > END STRING
 
 > BEGIN STRING
@@ -430,29 +433,31 @@
 
 > BEGIN STRING
 「さっき手に入れた\\c[4]夢の指輪\\c[0]……
-> CONTEXT: Commonevents/23/285/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/23/285/Dialogue
+「We just got that \\c[4]Dream Ring\\c[0]...
 > END STRING
 
 > BEGIN STRING
 「ドラウムニョルへ持っていけば
 　何か起こりそうな気がするわよ。
-> CONTEXT: Commonevents/23/286/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/23/286/Dialogue
+「I think if we take it to Draumnior, 
+　something might happen.
 > END STRING
 
 > BEGIN STRING
 「さ、早くドゥヂチへいきましょ！
-> CONTEXT: Commonevents/23/295/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/23/295/Dialogue
+「Now, let's go to Dodichi quickly!
 > END STRING
 
 > BEGIN STRING
 「\\n[1]、どんなふうに
 　あの女を口説くのかしら……
 　楽しみね\\e[0]
-> CONTEXT: Commonevents/23/296/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/23/296/Dialogue
+"\\n[1], I wonder how you'll woo that girl... 
+　I'm looking forward to it\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -471,21 +476,23 @@
 > BEGIN STRING
 「ローズニルの話してた人魚ってのは
 　きっと夢魔ね。
-> CONTEXT: Commonevents/23/323/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/23/323/Dialogue
+「The mermaid Rosenil was talking about 
+　must be a succubus.
 > END STRING
 
 > BEGIN STRING
 「でもそんなの関係ないわ！
 　あんな奴に頼ることなんてないわよ！
-> CONTEXT: Commonevents/23/325/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/23/325/Dialogue
+「But whatever! 
+　We're not relying on a guy like that!
 > END STRING
 
 > BEGIN STRING
 「あなたが一人でなんとかしてっ！
-> CONTEXT: Commonevents/23/327/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/23/327/Dialogue
+「You have to manage this on your own!
 > END STRING
 
 > BEGIN STRING
@@ -514,16 +521,19 @@
 「……ああいう女は、
 　カラダをどうせめても
 　感じてくれないのかもね。
-> CONTEXT: Commonevents/23/351/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/23/351/Dialogue
+「...Women like that
+　may not feel anything, 
+　no matter what you do.
 > END STRING
 
 > BEGIN STRING
 「あの無感動な心を
 　動かさなきゃダメなのよ。
 　きっと。
-> CONTEXT: Commonevents/23/354/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/23/354/Dialogue
+「You really have to 
+　move that emotionless heart.
 > END STRING
 
 > BEGIN STRING
@@ -644,8 +654,9 @@
 > BEGIN STRING
 「こんなところに何か用？
 　今はドゥヂチの塔に行くのが先でしょ。
-> CONTEXT: Commonevents/24/41/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/24/41/Dialogue
+「What are you doing here?
+　We should go to Dodichi Tower first.
 > END STRING
 
 > BEGIN STRING
@@ -749,8 +760,9 @@ Summon a succubus from the \\c[4]Night Picture Book\\c[0]?
 > BEGIN STRING
 あたりに残る \\c[7]\\v[1]\\c[0] のムードが、
 何かの形になっていく……
-> CONTEXT: Commonevents/36/38/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/36/38/Dialogue
+The lingering mood of \\c[7]\\v[1]\\c[0]
+is taking shape...
 > END STRING
 
 > BEGIN STRING
@@ -907,8 +919,8 @@ pours into \\n[1]!
 > BEGIN STRING
 \\a[\\v[105]]しかし、\\n[1]は強い意志で
 再び立ち上がった！
-> CONTEXT: Commonevents/52/83/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/83/Dialogue
+\\a[\\v[105]]However, \\n[1] stood up again with strong will!
 > END STRING
 
 > BEGIN STRING
@@ -1496,8 +1508,9 @@ pours into \\n[1]!
 > BEGIN STRING
 魔王のかけらが微かに反応している……
 \\c[4]夢の指輪\\c[0]を手に入れられるかも知れない
-> CONTEXT: Commonevents/109/23/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/109/23/Dialogue
+Demon Lord shard is reacting faintly...
+You may be able to obtain the \\c[4]Dream Ring\\c[0]
 > END STRING
 
 > BEGIN STRING
@@ -1671,8 +1684,10 @@ pours into \\n[1]!
 \\a[\\v[105]]\\n[1]の\\c[3]\\v[1]\\c[0]は
 オモチャになってしまった！\\w[\\v[104]]
 \\w[\\v[105]]\\n[1]はアイテムを使えなかった！
-> CONTEXT: Commonevents/125/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/125/2/Dialogue
+\\a[\\v[105]]\\n[1]'s \\c[3]\\v[1]\\c[0]
+became a plaything!\\w[\\v[104]]
+\\w[\\v[105]]\\n[1] can't use items!
 > END STRING
 
 > BEGIN STRING
@@ -1846,8 +1861,8 @@ took off \\n[27]'s clothes off!
 
 > BEGIN STRING
 \\a[\\v[105]]\\n[28]は恍惚となってしまった！
-> CONTEXT: Commonevents/136/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/136/6/Dialogue
+\\a[\\v[105]]\\n[28] is in ecstasy!
 > END STRING
 
 > BEGIN STRING
@@ -3059,41 +3074,45 @@ took off \\n[27]'s clothes off!
 > BEGIN STRING
 「え……………？
 　え？ え？
-> CONTEXT: Commonevents/170/47/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/170/47/Dialogue
+「Eh......?
+　Eh? Eh?
 > END STRING
 
 > BEGIN STRING
 「なっ、
 　何言い出すのよいきなりっ！
-> CONTEXT: Commonevents/170/49/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/170/49/Dialogue
+「What,
+　what are you saying all of a sudden!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]セルマは急に恥ずかしがりはじめた！
-> CONTEXT: Commonevents/170/53/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/170/53/Dialogue
+\\a[\\v[105]]Selma suddenly got shy!
 > END STRING
 
 > BEGIN STRING
 「やだ………それ………
 　アタシに言ってるの……？
-> CONTEXT: Commonevents/170/58/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/170/58/Dialogue
+「Oh no...that's...
+　Are you talking to me...?
 > END STRING
 
 > BEGIN STRING
 「そんな…………
 　そんなこと…………
-> CONTEXT: Commonevents/170/60/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/170/60/Dialogue
+「Such.....
+　Such a.....
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]セルマの警戒が解けた！
-> CONTEXT: Commonevents/170/65/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/170/65/Dialogue
+\\a[\\v[105]]Selma's guard has gone down!
 > END STRING
 
 > BEGIN STRING
@@ -5058,33 +5077,34 @@ is looking with cold eyes!
 
 > BEGIN STRING
 \\a[\\v[105]]夢魔の触手はなくなってしまった！
-> CONTEXT: Commonevents/201/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/201/3/Dialogue
+\\a[\\v[105]]The succubus' tentacles are gone!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]ミスリルアイアンはなくなってしまった！
-> CONTEXT: Commonevents/202/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/202/3/Dialogue
+\\a[\\v[105]]Mythril Iron is gone!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]エーテルローションはなくなってしまった！
-> CONTEXT: Commonevents/203/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/203/3/Dialogue
+\\a[\\v[105]]The Ether Lotion is gone!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]チャミングブーケはなくなってしまった！
-> CONTEXT: Commonevents/204/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/204/3/Dialogue
+\\a[\\v[105]]The Charming Bouquet is gone!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]冷たい枷が\\n[1]の全身を拘束する！
 \\w[\\v[104]]\\n[1]は身動きが取れなくなった！
-> CONTEXT: Commonevents/205/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/205/4/Dialogue
+\\a[\\v[105]]The cold shackles bind \\n[1]'s whole body!
+\\w[\\v[104]]\\n[1] can no longer move!
 > END STRING
 
 > BEGIN STRING
@@ -5516,60 +5536,66 @@ Stona and Merona
 「ねえねえ、街の人の話聞いてるとさ、
 　あのローズニルって人
 　女の子を口説くのがすごく上手みたいね？
-> CONTEXT: Commonevents/306/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/4/Dialogue
+「Hey, hey, listening to the people in town, 
+　seems like that Rosenil is really good 
+　at flirting with girls.
 > END STRING
 
 > BEGIN STRING
 「ねえいいこと思いついちゃった！
 　ドゥヂチのあの女の相手、
 　あの人にしてもらいましょうよ！
-> CONTEXT: Commonevents/306/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/7/Dialogue
+「Hey, I've got a great idea!
+　Let's get that guy to take care of 
+　that woman in Dodichi!
 > END STRING
 
 > BEGIN STRING
 「あの人の口説きでメロメロにしてやって、
 　そのスキにえいっ、って\\e[0]
-> CONTEXT: Commonevents/306/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/10/Dialogue
+「Let's make her fall in love,
+　then seize the opportunity\\e[0]
 > END STRING
 
 > BEGIN STRING
 「名案ね\\e[0]
 　さっそく頼みに行きましょ。
-> CONTEXT: Commonevents/306/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/306/12/Dialogue
+「It's a great idea\\e[0]
+　Let's go ask for his help right away.
 > END STRING
 
 > BEGIN STRING
 「錨を上げろーぉっ！
-> CONTEXT: Commonevents/307/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/307/8/Dialogue
+「Raise the anchor!
 > END STRING
 
 > BEGIN STRING
 「面舵いっぱぁーいっ！
-> CONTEXT: Commonevents/307/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/307/9/Dialogue
+「Starboard rudder full!
 > END STRING
 
 > BEGIN STRING
 「船が出るみたいね。
-> CONTEXT: Commonevents/307/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/307/11/Dialogue
+「Looks like the ship is leaving.
 > END STRING
 
 > BEGIN STRING
 「\\n[1]、表に出ましょっ！
-> CONTEXT: Commonevents/307/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/307/12/Dialogue
+「\\n[1], let's go outside!
 > END STRING
 
 > BEGIN STRING
 「わぁ、素敵ぃ･･･！
-> CONTEXT: Commonevents/307/53/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/307/53/Dialogue
+「Wow, wonderful...!
 > END STRING
 
 > BEGIN STRING

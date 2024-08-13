@@ -544,85 +544,85 @@ Attack intensely at random [TP: 100]
 
 > BEGIN STRING
 ラルスのもとへ帰還する
-> CONTEXT: Skills/91/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/91/description/
+Return to Lars
 > END STRING
 
 > BEGIN STRING
 チェンジ
-> CONTEXT: Skills/92/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/92/name/
+Change
 > END STRING
 
 > BEGIN STRING
 装飾品を１つ装備しなおす
-> CONTEXT: Skills/92/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/92/description/
+Change 1 accessory
 > END STRING
 
 > BEGIN STRING
 フリスギルデ/17/0/0
-> CONTEXT: Skills/93/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/93/name/
+Frisgilde/17/0/0
 > END STRING
 
 > BEGIN STRING
 秘められた魔王の力を一時的に呼び覚ます　　[リチャージ：17ターン]
-> CONTEXT: Skills/93/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/93/description/
+Temporarily awaken secret Demon Lord power [CD: 17]
 > END STRING
 
 > BEGIN STRING
 グリマギルデ/17/0/0
-> CONTEXT: Skills/94/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/94/name/
+Grimagilde/17/0/0
 > END STRING
 
 > BEGIN STRING
 隠された魔王の力を一時的に呼び覚ます　　[リチャージ：17ターン]
-> CONTEXT: Skills/94/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/94/description/
+Temporarily awaken hidden Demon Lord power [CD: 17]
 > END STRING
 
 > BEGIN STRING
 ミュリンギルデ/17/0/0
-> CONTEXT: Skills/95/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/95/name/
+Myrringilde/17/0/0
 > END STRING
 
 > BEGIN STRING
 失われた魔王の力を一時的に呼び覚ます　　[リチャージ：17ターン]
-> CONTEXT: Skills/95/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/95/description/
+Temporarily awaken lost Demon Lord power [CD: 17]
 > END STRING
 
 > BEGIN STRING
 ドルンバ/3/0/0
-> CONTEXT: Skills/96/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/96/name/
+Dorumba/3/0/0
 > END STRING
 
 > BEGIN STRING
 相手一人の気をそらす / 成功率：ムードに反比例 [リチャージ：3ターン]
-> CONTEXT: Skills/96/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/96/description/
+Distract 1 opponent / Success inversely proportional to mood [CD: 3]
 > END STRING
 
 > BEGIN STRING
 ロギン
-> CONTEXT: Skills/97/name/ < UNTRANSLATED
-> CONTEXT: Skills/315/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/97/name/
+> CONTEXT: Skills/315/name/
+Rogin
 > END STRING
 
 > BEGIN STRING
 EP回復
-> CONTEXT: Skills/97/description/ < UNTRANSLATED
-> CONTEXT: Skills/99/description/ < UNTRANSLATED
-> CONTEXT: Skills/158/description/ < UNTRANSLATED
-> CONTEXT: Skills/267/description/ < UNTRANSLATED
-> CONTEXT: Skills/277/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/97/description/
+> CONTEXT: Skills/99/description/
+> CONTEXT: Skills/158/description/
+> CONTEXT: Skills/267/description/
+> CONTEXT: Skills/277/description/
+EP Recovery
 > END STRING
 
 > BEGIN STRING
@@ -659,26 +659,26 @@ EP全回復
 
 > BEGIN STRING
 センスイーサ
-> CONTEXT: Skills/103/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/103/name/
+Sense Ether
 > END STRING
 
 > BEGIN STRING
 センシブ解除 / ナーバス解除
-> CONTEXT: Skills/103/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/103/description/
+Sensitive / Nervous recovery
 > END STRING
 
 > BEGIN STRING
 カースイーサ
-> CONTEXT: Skills/104/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/104/name/
+Kasu Ether
 > END STRING
 
 > BEGIN STRING
 ミニマム解除 / ヴィジョン解除 / クラムジ解除
-> CONTEXT: Skills/104/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/104/description/
+Mini / Vision / Clumsy recovery
 > END STRING
 
 > BEGIN STRING
@@ -720,34 +720,34 @@ EP全回復
 
 > BEGIN STRING
 ウルズグン
-> CONTEXT: Skills/112/name/ < UNTRANSLATED
-> CONTEXT: Skills/285/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/112/name/
+> CONTEXT: Skills/285/name/
+Uruzgun
 > END STRING
 
 > BEGIN STRING
 精力アップ
-> CONTEXT: Skills/112/description/ < UNTRANSLATED
-> CONTEXT: Skills/119/description/ < UNTRANSLATED
-> CONTEXT: Skills/644/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/112/description/
+> CONTEXT: Skills/119/description/
+> CONTEXT: Skills/644/description/
+Energy up
 > END STRING
 
 > BEGIN STRING
 ラグズグン
-> CONTEXT: Skills/113/name/ < UNTRANSLATED
-> CONTEXT: Skills/286/name/ < UNTRANSLATED
-> CONTEXT: Commonevents/150/279/Choice/1 < UNTRANSLATED
-> CONTEXT: Commonevents/153/282/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Skills/113/name/
+> CONTEXT: Skills/286/name/
+> CONTEXT: Commonevents/150/279/Choice/1
+> CONTEXT: Commonevents/153/282/Choice/1
+Ragsgun
 > END STRING
 
 > BEGIN STRING
 技巧アップ
-> CONTEXT: Skills/113/description/ < UNTRANSLATED
-> CONTEXT: Skills/120/description/ < UNTRANSLATED
-> CONTEXT: Skills/283/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/113/description/
+> CONTEXT: Skills/120/description/
+> CONTEXT: Skills/283/description/
+Skill up
 > END STRING
 
 > BEGIN STRING
@@ -761,23 +761,23 @@ Hagalgun
 
 > BEGIN STRING
 素早さアップ
-> CONTEXT: Skills/114/description/ < UNTRANSLATED
-> CONTEXT: Skills/121/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/114/description/
+> CONTEXT: Skills/121/description/
+Agility up
 > END STRING
 
 > BEGIN STRING
 エオルグン
-> CONTEXT: Skills/115/name/ < UNTRANSLATED
-> CONTEXT: Skills/288/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/115/name/
+> CONTEXT: Skills/288/name/
+Eorgun
 > END STRING
 
 > BEGIN STRING
 精神力アップ
-> CONTEXT: Skills/115/description/ < UNTRANSLATED
-> CONTEXT: Skills/122/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/115/description/
+> CONTEXT: Skills/122/description/
+Spirit up
 > END STRING
 
 > BEGIN STRING
@@ -796,20 +796,20 @@ Sigilgun
 > CONTEXT: Skills/244/description/
 > CONTEXT: Skills/282/description/
 > CONTEXT: Skills/351/description/
-Increase charm
+Charm up
 > END STRING
 
 > BEGIN STRING
 ペルスグン
-> CONTEXT: Skills/117/name/ < UNTRANSLATED
-> CONTEXT: Skills/290/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/117/name/
+> CONTEXT: Skills/290/name/
+Persgun
 > END STRING
 
 > BEGIN STRING
 幸運アップ
-> CONTEXT: Skills/117/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/117/description/
+Luck up
 > END STRING
 
 > BEGIN STRING
@@ -2090,8 +2090,8 @@ Sensitive Water
 
 > BEGIN STRING
 ロマンスソング
-> CONTEXT: Skills/327/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/327/name/
+Romance Song
 > END STRING
 
 > BEGIN STRING
@@ -2594,8 +2594,8 @@ Sensitive Water
 
 > BEGIN STRING
 水の愛撫
-> CONTEXT: Skills/392/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/392/name/
+Water Caress
 > END STRING
 
 > BEGIN STRING
@@ -2606,8 +2606,8 @@ Sensitive Water
 
 > BEGIN STRING
 おぼれくるえ
-> CONTEXT: Skills/393/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/393/name/
+Drown
 > END STRING
 
 > BEGIN STRING
@@ -3226,10 +3226,10 @@ Lightning attribute / All-target attack
 
 > BEGIN STRING
 狂乱の歌
-> CONTEXT: Skills/648/name/ < UNTRANSLATED
-> CONTEXT: Skills/649/name/ < UNTRANSLATED
-> CONTEXT: Skills/650/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/648/name/
+> CONTEXT: Skills/649/name/
+> CONTEXT: Skills/650/name/
+Madness Song
 > END STRING
 
 > BEGIN STRING

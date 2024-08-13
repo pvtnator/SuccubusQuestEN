@@ -1262,162 +1262,162 @@ Charisma -1 / Spirit +6
 
 > BEGIN STRING
 アルケインリボン/10/0
-> CONTEXT: Armors/170/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/170/name/
+Arcane Ribbon/10/0
 > END STRING
 
 > BEGIN STRING
 魅力+10 / 魔力+5
-> CONTEXT: Armors/170/description/ < UNTRANSLATED
-> CONTEXT: Armors/172/description/ < UNTRANSLATED
-> CONTEXT: Armors/174/description/ < UNTRANSLATED
-> CONTEXT: Armors/176/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/170/description/
+> CONTEXT: Armors/172/description/
+> CONTEXT: Armors/174/description/
+> CONTEXT: Armors/176/description/
+Charm +10 / Magic +5
 > END STRING
 
 > BEGIN STRING
 クリプティリボン/10/0
-> CONTEXT: Armors/171/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/171/name/
+Crypti Ribbon/10/0
 > END STRING
 
 > BEGIN STRING
 魅力+10 / 魔力+10 / MP+10%
-> CONTEXT: Armors/171/description/ < UNTRANSLATED
-> CONTEXT: Armors/173/description/ < UNTRANSLATED
-> CONTEXT: Armors/175/description/ < UNTRANSLATED
-> CONTEXT: Armors/177/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/171/description/
+> CONTEXT: Armors/173/description/
+> CONTEXT: Armors/175/description/
+> CONTEXT: Armors/177/description/
+Charm +10 / Magic +10 / MP +10%
 > END STRING
 
 > BEGIN STRING
 リンクスマフス/10/0
-> CONTEXT: Armors/172/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/172/name/
+Lynx Muffs/10/0
 > END STRING
 
 > BEGIN STRING
 グリマルキンマフス/10/0
-> CONTEXT: Armors/173/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/173/name/
+Grimalkin Muffs/10/0
 > END STRING
 
 > BEGIN STRING
 サヴァントカチューシャ/10/0
-> CONTEXT: Armors/174/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/174/name/
+Savant Headband/10/0
 > END STRING
 
 > BEGIN STRING
 メイデンカチューシャ/10/0
-> CONTEXT: Armors/175/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/175/name/
+Maiden Headband/10/0
 > END STRING
 
 > BEGIN STRING
 ルナバレッタ/10/0
-> CONTEXT: Armors/176/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/176/name/
+Luna Barrette/10/0
 > END STRING
 
 > BEGIN STRING
 セレスシャルバレッタ/10/0
-> CONTEXT: Armors/177/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/177/name/
+Celestial Barrette/10/0
 > END STRING
 
 > BEGIN STRING
 アルケインドレス/15/0
-> CONTEXT: Armors/179/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/179/name/
+Arcane Dress/15/0
 > END STRING
 
 > BEGIN STRING
 魅力+15 / 魔力+5
-> CONTEXT: Armors/179/description/ < UNTRANSLATED
-> CONTEXT: Armors/181/description/ < UNTRANSLATED
-> CONTEXT: Armors/183/description/ < UNTRANSLATED
-> CONTEXT: Armors/185/description/ < UNTRANSLATED
-> CONTEXT: Armors/187/description/ < UNTRANSLATED
-> CONTEXT: Armors/189/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/179/description/
+> CONTEXT: Armors/181/description/
+> CONTEXT: Armors/183/description/
+> CONTEXT: Armors/185/description/
+> CONTEXT: Armors/187/description/
+> CONTEXT: Armors/189/description/
+Charm +15 / Magic +5
 > END STRING
 
 > BEGIN STRING
 クリプティドレス/15/0
-> CONTEXT: Armors/180/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/180/name/
+Crypti Dress/15/0
 > END STRING
 
 > BEGIN STRING
 魅力+15 / 魔力+15 / MP+10%
-> CONTEXT: Armors/180/description/ < UNTRANSLATED
-> CONTEXT: Armors/182/description/ < UNTRANSLATED
-> CONTEXT: Armors/184/description/ < UNTRANSLATED
-> CONTEXT: Armors/186/description/ < UNTRANSLATED
-> CONTEXT: Armors/188/description/ < UNTRANSLATED
-> CONTEXT: Armors/190/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/180/description/
+> CONTEXT: Armors/182/description/
+> CONTEXT: Armors/184/description/
+> CONTEXT: Armors/186/description/
+> CONTEXT: Armors/188/description/
+> CONTEXT: Armors/190/description/
+Charm +15 / Magic +15 / MP +10%
 > END STRING
 
 > BEGIN STRING
 コーラルドレス/15/0
-> CONTEXT: Armors/181/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/181/name/
+Coral Dress/15/0
 > END STRING
 
 > BEGIN STRING
 ダマスクドレス/15/0
-> CONTEXT: Armors/182/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/182/name/
+Damask Dress/15/0
 > END STRING
 
 > BEGIN STRING
 アイボリードレス/15/0
-> CONTEXT: Armors/183/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/183/name/
+Ivory Dress/15/0
 > END STRING
 
 > BEGIN STRING
 アラバスタドレス/15/0
-> CONTEXT: Armors/184/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/184/name/
+Alabasta Dress/15/0
 > END STRING
 
 > BEGIN STRING
 リンクスファー/15/0
-> CONTEXT: Armors/185/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/185/name/
+Lynx Fur/15/0
 > END STRING
 
 > BEGIN STRING
 グリマルキンファー/15/0
-> CONTEXT: Armors/186/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/186/name/
+Grimalkin Fur/15/0
 > END STRING
 
 > BEGIN STRING
 サヴァントブラウス/15/0
-> CONTEXT: Armors/187/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/187/name/
+Savant Blouse/15/0
 > END STRING
 
 > BEGIN STRING
 メイデンブラウス/15/0
-> CONTEXT: Armors/188/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/188/name/
+Maiden Blouse/15/0
 > END STRING
 
 > BEGIN STRING
 ミニマルビキニ/15/0
-> CONTEXT: Armors/189/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/189/name/
+Minimal Bikini/15/0
 > END STRING
 
 > BEGIN STRING
 エンプティビキニ/15/0
-> CONTEXT: Armors/190/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/190/name/
+Empty Bikini/15/0
 > END STRING
 
 > BEGIN STRING
@@ -1428,20 +1428,20 @@ Charisma -1 / Spirit +6
 
 > BEGIN STRING
 夢魔の翼/0/0/0/134
-> CONTEXT: Armors/193/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/193/name/
+Succubus Wings/0/0/0/134
 > END STRING
 
 > BEGIN STRING
 習得：リスティル / 素早さ+5
-> CONTEXT: Armors/193/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/193/description/
+Acquire: Listil / Agility +5
 > END STRING
 
 > BEGIN STRING
 根の杖/0/0/0/142
-> CONTEXT: Armors/194/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/194/name/
+Root Staff/0/0/0/142
 > END STRING
 
 > BEGIN STRING
@@ -2088,14 +2088,14 @@ Charisma -1 / Spirit +6
 
 > BEGIN STRING
 白の錠前/0/0/0/189
-> CONTEXT: Armors/250/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/250/name/
+White Lock/0/0/0/189
 > END STRING
 
 > BEGIN STRING
 習得：エフワズ
-> CONTEXT: Armors/250/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/250/description/
+Learn: Ehwaz
 > END STRING
 
 > BEGIN STRING

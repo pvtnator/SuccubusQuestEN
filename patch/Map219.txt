@@ -1,12 +1,12 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 「それではごゆっくりお休み下さい
-> CONTEXT: Map219/events/1/pages/0/14/Dialogue < UNTRANSLATED
-> CONTEXT: Map171/events/4/pages/0/13/Dialogue < UNTRANSLATED
-> CONTEXT: Map167/events/1/pages/0/14/Dialogue < UNTRANSLATED
-> CONTEXT: Map124/events/4/pages/0/13/Dialogue < UNTRANSLATED
-> CONTEXT: Map070/events/2/pages/0/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map219/events/1/pages/0/14/Dialogue
+> CONTEXT: Map171/events/4/pages/0/13/Dialogue
+> CONTEXT: Map167/events/1/pages/0/14/Dialogue
+> CONTEXT: Map124/events/4/pages/0/13/Dialogue
+> CONTEXT: Map070/events/2/pages/0/14/Dialogue
+「Then please have a good rest
 > END STRING
 
 > BEGIN STRING

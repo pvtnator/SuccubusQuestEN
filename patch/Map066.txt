@@ -1,15 +1,15 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 岩肌が崩れそうだ……
-> CONTEXT: Map066/events/7/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map066/events/7/pages/0/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map066/events/7/pages/0/2/Dialogue
+> CONTEXT: Map066/events/7/pages/0/16/Dialogue
+The rock surface is about to collapse...
 > END STRING
 
 > BEGIN STRING
 調べますか？
-> CONTEXT: Map066/events/7/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map066/events/7/pages/0/3/Dialogue
+Investigate?
 > END STRING
 
 > BEGIN STRING

@@ -858,120 +858,124 @@ pours into \\n[1]!
 
 > BEGIN STRING
 \\a[\\v[105]]ローズニルは竪琴を奏で続けている……
-> CONTEXT: Troops/306/pages/1/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/306/pages/1/3/Dialogue
+\\a[\\v[105]]Rosenil continues to play the harp...
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]ローズニルは竪琴を奏で続けている！
-> CONTEXT: Troops/306/pages/1/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/306/pages/1/10/Dialogue
+\\a[\\v[105]]Rosenil continues to play the harp!
 > END STRING
 
 > BEGIN STRING
 「……どうして…………
-> CONTEXT: Troops/306/pages/1/26/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/306/pages/1/26/Dialogue
+「...Why.....
 > END STRING
 
 > BEGIN STRING
 「ああ………やめて…………
-> CONTEXT: Troops/306/pages/1/32/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/306/pages/1/32/Dialogue
+「Aah...Stop.....
 > END STRING
 
 > BEGIN STRING
 「この……………
 　………曲…………
-> CONTEXT: Troops/306/pages/1/33/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/306/pages/1/33/Dialogue
+「This.....
+　....song....
 > END STRING
 
 > BEGIN STRING
 「思い出させ…ないで………
-> CONTEXT: Troops/306/pages/1/39/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/306/pages/1/39/Dialogue
+「Don't make me remember...
 > END STRING
 
 > BEGIN STRING
 「……私の歌……………
-> CONTEXT: Troops/306/pages/1/45/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/306/pages/1/45/Dialogue
+「...My song.....
 > END STRING
 
 > BEGIN STRING
 「………どこへ……届くの………
-> CONTEXT: Troops/306/pages/1/46/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/306/pages/1/46/Dialogue
+「...Will it...reach...?
 > END STRING
 
 > BEGIN STRING
 「私の声……………
-> CONTEXT: Troops/306/pages/1/52/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/306/pages/1/52/Dialogue
+「My voice.....
 > END STRING
 
 > BEGIN STRING
 「誰に………届けば……………
-> CONTEXT: Troops/306/pages/1/53/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/306/pages/1/53/Dialogue
+「Who....will it reach.....
 > END STRING
 
 > BEGIN STRING
 「私は…………
-> CONTEXT: Troops/306/pages/1/58/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/306/pages/1/58/Dialogue
+「I.....
 > END STRING
 
 > BEGIN STRING
 「私は……竪琴…………
-> CONTEXT: Troops/306/pages/1/60/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/306/pages/1/60/Dialogue
+「I...the harp....
 > END STRING
 
 > BEGIN STRING
 「どこに………
 　私の……弾き手……………
-> CONTEXT: Troops/306/pages/1/61/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/306/pages/1/61/Dialogue
+「Where is....
+　my...player.....
 > END STRING
 
 > BEGIN STRING
 「奏でて……私を…………
-> CONTEXT: Troops/306/pages/1/63/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/306/pages/1/63/Dialogue
+「Play...for me.....
 > END STRING
 
 > BEGIN STRING
 「甘い歌を……………
-> CONTEXT: Troops/306/pages/1/65/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/306/pages/1/65/Dialogue
+「A sweet song.....
 > END STRING
 
 > BEGIN STRING
 どこからともなく、
 ローズニルの竪琴の音が聞こえる………
-> CONTEXT: Troops/306/pages/2/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/306/pages/2/3/Dialogue
+Out of nowhere,
+the sound of Rosenil's harp can be heard...
 > END STRING
 
 > BEGIN STRING
 「まだ…そこに………
 　いるの…………？
-> CONTEXT: Troops/306/pages/2/18/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/306/pages/2/18/Dialogue
+「You're..still...
+　there.....?
 > END STRING
 
 > BEGIN STRING
 「嫌……やめて…………
-> CONTEXT: Troops/306/pages/2/20/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/306/pages/2/20/Dialogue
+「No...stop it.....
 > END STRING
 
 > BEGIN STRING
 「やめて……………っ！
-> CONTEXT: Troops/306/pages/2/21/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/306/pages/2/21/Dialogue
+「Stop.....!
 > END STRING
 
 > BEGIN STRING
@@ -2636,34 +2640,37 @@ EV_3獣人
 > BEGIN STRING
 「ん、待って………
 　こいつもしかして…………
-> CONTEXT: Troops/308/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/308/pages/0/1/Dialogue
+「Ngh, wait...
+　This guy...
 > END STRING
 
 > BEGIN STRING
 「ご主人様の言ってた………
-> CONTEXT: Troops/308/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/308/pages/0/3/Dialogue
+「Master said...
 > END STRING
 
 > BEGIN STRING
 「ニャぁっ！
 　言われてみれば……
-> CONTEXT: Troops/308/pages/0/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/308/pages/0/5/Dialogue
+「Meow! 
+　Now that you mention it...
 > END STRING
 
 > BEGIN STRING
 「勝手に食べちゃ
 　マズいかニャぁ……
-> CONTEXT: Troops/308/pages/0/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/308/pages/0/7/Dialogue
+「It's not good to eat
+　without permission...
 > END STRING
 
 > BEGIN STRING
 「ガルぅ………
-> CONTEXT: Troops/308/pages/0/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/308/pages/0/10/Dialogue
+「Grr...
 > END STRING
 
 > BEGIN STRING

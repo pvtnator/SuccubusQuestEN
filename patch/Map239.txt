@@ -99,31 +99,31 @@
 
 > BEGIN STRING
 「………………
-> CONTEXT: Map239/events/4/pages/0/110/Dialogue < UNTRANSLATED
-> CONTEXT: Map239/events/4/pages/0/112/Dialogue < UNTRANSLATED
-> CONTEXT: Map212/events/1/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map214/events/3/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map216/events/14/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map243/events/1/pages/0/484/Dialogue < UNTRANSLATED
-> CONTEXT: Map216/events/15/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map216/events/17/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/3/pages/0/389/Dialogue < UNTRANSLATED
-> CONTEXT: Map165/events/23/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map160/events/6/pages/0/262/Dialogue < UNTRANSLATED
-> CONTEXT: Map193/events/17/pages/0/449/Dialogue < UNTRANSLATED
-> CONTEXT: Map143/events/13/pages/1/68/Dialogue < UNTRANSLATED
-> CONTEXT: Map142/events/19/pages/0/207/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/391/Dialogue < UNTRANSLATED
-> CONTEXT: Map072/events/9/pages/0/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map071/events/2/pages/2/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/391/Dialogue < UNTRANSLATED
-> CONTEXT: Map042/events/30/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/23/48/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/23/190/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/23/309/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/170/168/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/170/181/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map239/events/4/pages/0/110/Dialogue
+> CONTEXT: Map239/events/4/pages/0/112/Dialogue
+> CONTEXT: Map212/events/1/pages/1/1/Dialogue
+> CONTEXT: Map214/events/3/pages/1/1/Dialogue
+> CONTEXT: Map216/events/14/pages/0/1/Dialogue
+> CONTEXT: Map243/events/1/pages/0/484/Dialogue
+> CONTEXT: Map216/events/15/pages/0/1/Dialogue
+> CONTEXT: Map216/events/17/pages/0/1/Dialogue
+> CONTEXT: Map231/events/3/pages/0/389/Dialogue
+> CONTEXT: Map165/events/23/pages/1/1/Dialogue
+> CONTEXT: Map160/events/6/pages/0/262/Dialogue
+> CONTEXT: Map193/events/17/pages/0/449/Dialogue
+> CONTEXT: Map143/events/13/pages/1/68/Dialogue
+> CONTEXT: Map142/events/19/pages/0/207/Dialogue
+> CONTEXT: Map231/events/28/pages/0/391/Dialogue
+> CONTEXT: Map072/events/9/pages/0/4/Dialogue
+> CONTEXT: Map071/events/2/pages/2/1/Dialogue
+> CONTEXT: Map231/events/29/pages/0/391/Dialogue
+> CONTEXT: Map042/events/30/pages/1/1/Dialogue
+> CONTEXT: Commonevents/23/48/Dialogue
+> CONTEXT: Commonevents/23/190/Dialogue
+> CONTEXT: Commonevents/23/309/Dialogue
+> CONTEXT: Commonevents/170/168/Dialogue
+> CONTEXT: Commonevents/170/181/Dialogue
+「......
 > END STRING
 
 > BEGIN STRING

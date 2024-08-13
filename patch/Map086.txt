@@ -273,7 +273,7 @@ but I wonder what she was doing.
 　人魚が宝物を隠した洞窟なんてのが
 　あるらしいね。
 > CONTEXT: Map086/events/12/pages/2/1/Dialogue
-「Apparently, there's a cave near the mermaid's home 
+「Apparently, there's a cave near the Mermaid's Den 
 　where the mermaids hide their treasures.
 > END STRING
 
