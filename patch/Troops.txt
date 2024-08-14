@@ -1037,11 +1037,11 @@ SP_ナイトメア
 
 > BEGIN STRING
 \\a[\\v[105]]\\n[1]は \\b\\v[1]\\f の快感を受けた！
-> CONTEXT: Troops/26/pages/1/8/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/27/pages/1/8/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/35/46/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/35/58/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/26/pages/1/8/Dialogue
+> CONTEXT: Troops/27/pages/1/8/Dialogue
+> CONTEXT: Commonevents/35/46/Dialogue
+> CONTEXT: Commonevents/35/58/Dialogue
+\\a[\\v[105]]\\n[1] experienced \\b\\v[1]\\f pleasure!
 > END STRING
 
 > BEGIN STRING
@@ -1083,10 +1083,11 @@ SP_人魚のすみか(1)
 > BEGIN STRING
 \\a[\\v[105]]\\n[1]はマーメイドの歌で
 恍惚となってしまった！
-> CONTEXT: Troops/35/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/36/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/37/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/35/pages/0/3/Dialogue
+> CONTEXT: Troops/36/pages/0/3/Dialogue
+> CONTEXT: Troops/37/pages/0/3/Dialogue
+\\a[\\v[105]]\\n[1] is ecstatic
+　with the mermaid's song!
 > END STRING
 
 > BEGIN STRING

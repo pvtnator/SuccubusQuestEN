@@ -4,9 +4,12 @@
 この門を潜ること\\r[能,あたわ]ず
 
 　　　　　　　　　　　　　　　　　　　　　　　　　　－リスヴェグ魔導院
-> CONTEXT: Map145/events/1/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map145/events/1/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map145/events/1/pages/0/1/Dialogue
+> CONTEXT: Map145/events/1/pages/1/1/Dialogue
+Those with power, without magic,
+cannot pass through this gate
 
+　　　　　　　　　　　　　　　　　　　　　　　　－Lisveg Magic Academy
 > END STRING
 
 > BEGIN STRING

@@ -696,14 +696,14 @@ Mini / Vision / Clumsy recovery
 
 > BEGIN STRING
 バインイーサ
-> CONTEXT: Skills/106/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/106/name/
+Bind Ether
 > END STRING
 
 > BEGIN STRING
 バインド解除
-> CONTEXT: Skills/106/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/106/description/
+Unbind
 > END STRING
 
 > BEGIN STRING
@@ -957,8 +957,8 @@ Ethergun
 
 > BEGIN STRING
 相手にかかっているグン系の魔法を打ち消す
-> CONTEXT: Skills/131/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/131/description/
+Cancels any gun-type magic cast on the opponent
 > END STRING
 
 > BEGIN STRING
@@ -970,8 +970,8 @@ Etherfuni
 
 > BEGIN STRING
 味方にかかっているフニ系の魔法を打ち消す
-> CONTEXT: Skills/132/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/132/description/
+Cancels funi-type magic on allies
 > END STRING
 
 > BEGIN STRING
@@ -985,15 +985,15 @@ Listil
 
 > BEGIN STRING
 ルヴィッサ自身の魔力と魅力アップ
-> CONTEXT: Skills/134/description/ < UNTRANSLATED
-> CONTEXT: Skills/135/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/134/description/
+> CONTEXT: Skills/135/description/
+Increases Rovissa's magic and charm.
 > END STRING
 
 > BEGIN STRING
 ファル・リスティル
 > CONTEXT: Skills/135/name/
-Far: Listil
+Far-Listil
 > END STRING
 
 > BEGIN STRING
@@ -1022,14 +1022,14 @@ Far: Listil
 
 > BEGIN STRING
 トリック/5/0/0
-> CONTEXT: Skills/140/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/140/name/
+Trick/5/0/0
 > END STRING
 
 > BEGIN STRING
 ターンを終わらせる [リチャージ：5ターン]
-> CONTEXT: Skills/140/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/140/description/
+End turn [CD: 5]
 > END STRING
 
 > BEGIN STRING
@@ -1046,14 +1046,14 @@ Far: Listil
 
 > BEGIN STRING
 ルート
-> CONTEXT: Skills/142/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/142/name/
+Root
 > END STRING
 
 > BEGIN STRING
 相手一人をバインド：足状態にする
-> CONTEXT: Skills/142/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/142/description/
+Bind one opponent: Bing legs
 > END STRING
 
 > BEGIN STRING
@@ -1070,35 +1070,35 @@ Bind 1 opponent [CD: 7 turns]
 
 > BEGIN STRING
 相手全員をセンシブ状態にする
-> CONTEXT: Skills/144/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/144/description/
+Put all opponents in a sensitive state
 > END STRING
 
 > BEGIN STRING
 ルゥイン
-> CONTEXT: Skills/145/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/145/name/
+Luin
 > END STRING
 
 > BEGIN STRING
 相手一人の守りダウン
-> CONTEXT: Skills/145/description/ < UNTRANSLATED
-> CONTEXT: Skills/146/description/ < UNTRANSLATED
-> CONTEXT: Skills/242/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/145/description/
+> CONTEXT: Skills/146/description/
+> CONTEXT: Skills/242/description/
+Defense down on one opponent
 > END STRING
 
 > BEGIN STRING
 ファル・ルゥイン
-> CONTEXT: Skills/146/name/ < UNTRANSLATED
-> CONTEXT: Skills/242/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/146/name/
+> CONTEXT: Skills/242/name/
+Far-Luin
 > END STRING
 
 > BEGIN STRING
 ファル・ドルンバ/5/0/0
-> CONTEXT: Skills/147/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/147/name/
+Far-Dorumba/5/0/0
 > END STRING
 
 > BEGIN STRING
@@ -1121,36 +1121,36 @@ Bind 1 opponent [CD: 7 turns]
 
 > BEGIN STRING
 アクアクロス
-> CONTEXT: Skills/149/name/ < UNTRANSLATED
-> CONTEXT: Skills/235/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/149/name/
+> CONTEXT: Skills/235/name/
+Aqua Cross
 > END STRING
 
 > BEGIN STRING
 守りアップ
-> CONTEXT: Skills/149/description/ < UNTRANSLATED
-> CONTEXT: Skills/150/description/ < UNTRANSLATED
-> CONTEXT: Skills/152/description/ < UNTRANSLATED
-> CONTEXT: Skills/235/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/149/description/
+> CONTEXT: Skills/150/description/
+> CONTEXT: Skills/152/description/
+> CONTEXT: Skills/235/description/
+Defense up
 > END STRING
 
 > BEGIN STRING
 ウィンドクロス
-> CONTEXT: Skills/150/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/150/name/
+Wind Cloth
 > END STRING
 
 > BEGIN STRING
 トワイス/10/0/0
-> CONTEXT: Skills/151/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/151/name/
+Twice/10/0/0
 > END STRING
 
 > BEGIN STRING
 たまに2回行動するようになる [リチャージ：10ターン]
-> CONTEXT: Skills/151/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/151/description/
+Occasionally act twice [CD: 10]
 > END STRING
 
 > BEGIN STRING
@@ -1161,14 +1161,14 @@ Bind 1 opponent [CD: 7 turns]
 
 > BEGIN STRING
 ダリッシュ/3/0/0
-> CONTEXT: Skills/153/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/153/name/
+Dalish/3/0/0
 > END STRING
 
 > BEGIN STRING
 一度だけ快感を受けなくする [リチャージ：3ターン]
-> CONTEXT: Skills/153/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/153/description/
+Prevent from receiving pleasure once [CD: 3]
 > END STRING
 
 > BEGIN STRING
@@ -1185,8 +1185,8 @@ Bind 1 opponent [CD: 7 turns]
 
 > BEGIN STRING
 服を脱がせる成功率アップ / インサート成功率アップ
-> CONTEXT: Skills/155/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/155/description/
+Undress / Insert success rate up
 > END STRING
 
 > BEGIN STRING
@@ -1209,14 +1209,14 @@ Bind 1 opponent [CD: 7 turns]
 
 > BEGIN STRING
 プチ・ロギン
-> CONTEXT: Skills/158/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/158/name/
+Small Rogin
 > END STRING
 
 > BEGIN STRING
 相手全員を魔法を使えなくする
-> CONTEXT: Skills/159/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/159/description/
+Prevents all opponents from using magic
 > END STRING
 
 > BEGIN STRING
@@ -1803,8 +1803,8 @@ Medium probability of panic
 
 > BEGIN STRING
 平穏の歌
-> CONTEXT: Skills/277/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/277/name/
+Song of Peace
 > END STRING
 
 > BEGIN STRING
@@ -1846,15 +1846,15 @@ Twine
 
 > BEGIN STRING
 祝福のキッス
-> CONTEXT: Skills/282/name/ < UNTRANSLATED
-> CONTEXT: Skills/283/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/282/name/
+> CONTEXT: Skills/283/name/
+Blessing Kiss
 > END STRING
 
 > BEGIN STRING
 運命のキッス
-> CONTEXT: Skills/284/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/284/name/
+Destined Kiss
 > END STRING
 
 > BEGIN STRING
@@ -2103,7 +2103,7 @@ Romance Song
 > BEGIN STRING
 ファル･ラグズグン
 > CONTEXT: Skills/328/name/
-Far: Ragsgun
+Far-Ragsgun
 > END STRING
 
 > BEGIN STRING
@@ -2117,7 +2117,7 @@ Far: Ragsgun
 > BEGIN STRING
 ファル･シギルグン
 > CONTEXT: Skills/329/name/
-Far: Sigilgun
+Far-Sigilgun
 > END STRING
 
 > BEGIN STRING
@@ -2167,8 +2167,8 @@ Windweb
 
 > BEGIN STRING
 セクシーポーズ
-> CONTEXT: Skills/336/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/336/name/
+Sexy Pose
 > END STRING
 
 > BEGIN STRING

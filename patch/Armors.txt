@@ -438,14 +438,14 @@ Charm +17 / Spirit +3 / Agility +3
 
 > BEGIN STRING
 細波の衣/9/0
-> CONTEXT: Armors/66/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/66/name/
+Ripple Clothes/9/0
 > END STRING
 
 > BEGIN STRING
 守り+1 / 魅力+9 / 精神力+2 / パニック耐性+10%
-> CONTEXT: Armors/66/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/66/description/
+Def +1 / Charm +9 / Spirit +2 / Panic Res. +10%
 > END STRING
 
 > BEGIN STRING
@@ -1446,152 +1446,152 @@ Root Staff/0/0/0/142
 
 > BEGIN STRING
 習得：ルート / 魔力+5
-> CONTEXT: Armors/194/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/194/description/
+Learn: Root / Magic +5
 > END STRING
 
 > BEGIN STRING
 ウィンドワンド/0/0/0/150
-> CONTEXT: Armors/195/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/195/name/
+Wind Wand/0/0/0/150
 > END STRING
 
 > BEGIN STRING
 習得：ウィンドクロス / 魔力+5
-> CONTEXT: Armors/195/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/195/description/
+Learn: Wind Cloth / Magic +5
 > END STRING
 
 > BEGIN STRING
 アクアワンド/0/0/0/149
-> CONTEXT: Armors/196/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/196/name/
+Aqua Wand/0/0/0/149
 > END STRING
 
 > BEGIN STRING
 習得：アクアクロス / 魔力+5
-> CONTEXT: Armors/196/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/196/description/
+Learn: Aqua Cross / Magic +5
 > END STRING
 
 > BEGIN STRING
 紅の飾り羽根/0/0/0/144
-> CONTEXT: Armors/197/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/197/name/
+Red Feather/0/0/0/144
 > END STRING
 
 > BEGIN STRING
 習得：センシブ / 素早さ+10
-> CONTEXT: Armors/197/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/197/description/
+Learn: Sensitive / Agility +10
 > END STRING
 
 > BEGIN STRING
 カースドテンタクル/0/0/0/151
-> CONTEXT: Armors/198/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/198/name/
+Cursed Tentacle/0/0/0/151
 > END STRING
 
 > BEGIN STRING
 習得：トワイス / MP-30%
-> CONTEXT: Armors/198/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/198/description/
+Learn: Twice / MP-30%
 > END STRING
 
 > BEGIN STRING
 浄火の腕輪/0/0/0/131m132
-> CONTEXT: Armors/199/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/199/name/
+Fire Bracelet/0/0/0/131m132
 > END STRING
 
 > BEGIN STRING
 習得：イーサグン / 習得：イーサフニ
-> CONTEXT: Armors/199/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/199/description/
+Learn: Ethergun / Learn: Etherfuni
 > END STRING
 
 > BEGIN STRING
 狐の尻尾/0/0/0/147
-> CONTEXT: Armors/200/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/200/name/
+Fox Tail/0/0/0/147
 > END STRING
 
 > BEGIN STRING
 習得：ファル・ドルンバ / 魔力+3
-> CONTEXT: Armors/200/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/200/description/
+Learn: Far-Dorumba / Magic +3
 > END STRING
 
 > BEGIN STRING
 快楽の尾/6/0/0/143m145
-> CONTEXT: Armors/201/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/201/name/
+Pleasure Tail/6/0/0/143m145
 > END STRING
 
 > BEGIN STRING
 習得：バインド / 習得：ルゥイン / 魅力+6 / 魔力-3
-> CONTEXT: Armors/201/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/201/description/
+Learn: Bind / Learn: Luin / Charm +6 / Magic -3
 > END STRING
 
 > BEGIN STRING
 難問のタリスマン/0/0/0/125m127m128
-> CONTEXT: Armors/202/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/202/name/
+Perplexing Talisman/0/0/0/125m127m128
 > END STRING
 
 > BEGIN STRING
 習得：ウルズフニ / 習得：エオルフニ / 習得：ハガルフニ
-> CONTEXT: Armors/202/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/202/description/
+Learn: Urzufni / Learn: Eorufuni / Learn: Hagarfuni
 > END STRING
 
 > BEGIN STRING
 タペストリー/0/0/0/143m106
-> CONTEXT: Armors/203/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/203/name/
+Tapestry/0/0/0/143m106
 > END STRING
 
 > BEGIN STRING
 習得：バインド / 習得：バインイーサ
-> CONTEXT: Armors/203/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/203/description/
+Learn: Bind / Learn: Bind Ether
 > END STRING
 
 > BEGIN STRING
 マナキャンディ/0/0/0/
-> CONTEXT: Armors/204/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/204/name/
+Mana Candy/0/0/0/
 > END STRING
 
 > BEGIN STRING
 魔力+15 / MP+5%
-> CONTEXT: Armors/204/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/204/description/
+Magic +15 / MP +5%
 > END STRING
 
 > BEGIN STRING
 水鳥の尾羽/0/0/0/159
-> CONTEXT: Armors/205/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/205/name/
+Waterfowl Tail Feathers/0/0/0/159
 > END STRING
 
 > BEGIN STRING
 習得：クヮイエト / 素早さ+5 / 魔力+2
-> CONTEXT: Armors/205/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/205/description/
+Learn: Quiet / Agility +5 / Magic +2
 > END STRING
 
 > BEGIN STRING
 漆のかんざし/0/0/0/131
-> CONTEXT: Armors/206/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/206/name/
+Lacquer Hairpin/0/0/0/131
 > END STRING
 
 > BEGIN STRING
 習得：イーサグン / 魔力+5 / 素早さ+5
-> CONTEXT: Armors/206/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/206/description/
+Learn: Ethergun / Magic +5 / Agility +5
 > END STRING
 
 > BEGIN STRING
@@ -1656,14 +1656,14 @@ Root Staff/0/0/0/142
 
 > BEGIN STRING
 マイティピック/0/0/0/145
-> CONTEXT: Armors/212/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/212/name/
+Mighty Pick/0/0/0/145
 > END STRING
 
 > BEGIN STRING
 習得：ルゥイン / 素早さ+5
-> CONTEXT: Armors/212/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/212/description/
+Learn: Luin / Agility +5
 > END STRING
 
 > BEGIN STRING
@@ -1752,38 +1752,38 @@ Root Staff/0/0/0/142
 
 > BEGIN STRING
 秘窟の鍵/0/0/0/155m128
-> CONTEXT: Armors/220/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/220/name/
+Cave Key/0/0/0/155m128
 > END STRING
 
 > BEGIN STRING
 習得：フォシブル / 習得：エオルフニ / 魔力+3
-> CONTEXT: Armors/220/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/220/description/
+Learn: Fossible / Learn: Eorufuni / Magic +3
 > END STRING
 
 > BEGIN STRING
 水の羽衣/5/0/0/116
-> CONTEXT: Armors/221/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/221/name/
+Water Robe/5/0/0/116
 > END STRING
 
 > BEGIN STRING
 習得：シギルグン / 魅力+5 / 素早さ+7 / 魔力+3
-> CONTEXT: Armors/221/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/221/description/
+Learn: Sigilgun / Charm +5 / Agility +7 / Magic +3
 > END STRING
 
 > BEGIN STRING
 アーマースケイル/0/0/0/153
-> CONTEXT: Armors/222/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/222/name/
+Armor Scale/0/0/0/153
 > END STRING
 
 > BEGIN STRING
 習得：ダリッシュ
-> CONTEXT: Armors/222/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/222/description/
+Learn: Dalish
 > END STRING
 
 > BEGIN STRING
@@ -1872,14 +1872,14 @@ Root Staff/0/0/0/142
 
 > BEGIN STRING
 トリックリング/0/0/0/140
-> CONTEXT: Armors/230/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/230/name/
+Trick Ring/0/0/0/140
 > END STRING
 
 > BEGIN STRING
 習得：トリック / 魔力+3 / 素早さ+3 / MP+3%
-> CONTEXT: Armors/230/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/230/description/
+Learn: Trick / Magic +3 / Agility +3 / MP +3%
 > END STRING
 
 > BEGIN STRING
@@ -1908,14 +1908,14 @@ Root Staff/0/0/0/142
 
 > BEGIN STRING
 ウルヴスファー/0/0/0/155
-> CONTEXT: Armors/233/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/233/name/
+Wolvesfur/0/0/0/155
 > END STRING
 
 > BEGIN STRING
 習得：フォシブル / 素早さ+10
-> CONTEXT: Armors/233/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/233/description/
+Learn: Fossible / Agility +10
 > END STRING
 
 > BEGIN STRING
@@ -2052,14 +2052,14 @@ Root Staff/0/0/0/142
 
 > BEGIN STRING
 妖精の羽/0/0/0/158
-> CONTEXT: Armors/245/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/245/name/
+Fairy Wings/0/0/0/158
 > END STRING
 
 > BEGIN STRING
 習得：プチ・ロギン / 魔力+1 / 素早さ+1
-> CONTEXT: Armors/245/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/245/description/
+Learn: Small Rogin / Magic +1 / Agility +1
 > END STRING
 
 > BEGIN STRING

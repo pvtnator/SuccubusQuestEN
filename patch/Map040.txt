@@ -154,16 +154,19 @@
 > BEGIN STRING
 「女兵士を追って塔を口説こうとしたら
 　人魚が倒れててオリビアと3Pだッて？
-> CONTEXT: Map040/events/14/pages/1/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/14/pages/1/4/Dialogue
+「You tried to woo a female solider at the tower, 
+　then a mermaid came down for a threesome with Olivia?
 > END STRING
 
 > BEGIN STRING
 「砂漠でラミアが脱皮して
 　伝説のオアシスに棲む色とりどりの花と
 　宿屋の二階でお医者さんごっこだッて？
-> CONTEXT: Map040/events/14/pages/2/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/14/pages/2/4/Dialogue
+「Lamia sheds skin in the desert, colorful flowers 
+　in a legendary oasis, and you're playing doctor 
+　on the second floor of an inn?
 > END STRING
 
 > BEGIN STRING

@@ -809,14 +809,14 @@ Scorpio Roast
 
 > BEGIN STRING
 海蛇のエスカベッシュ
-> CONTEXT: Items/119/name/ < UNTRANSLATED
-
+> CONTEXT: Items/119/name/
+Escabeche Sea Serpent
 > END STRING
 
 > BEGIN STRING
 〔食事〕 巨大な海蛇の切り身を衣をつけて揚げ、酢漬けにした料理
-> CONTEXT: Items/119/description/ < UNTRANSLATED
-
+> CONTEXT: Items/119/description/
+[Food] Sea snake fillets that are battered, deep fried and pickled.
 > END STRING
 
 > BEGIN STRING
@@ -1377,14 +1377,14 @@ Referral required to enter Miranda, the Inn of Love
 
 > BEGIN STRING
 乗船券
-> CONTEXT: Items/256/name/ < UNTRANSLATED
-
+> CONTEXT: Items/256/name/
+Boarding Pass
 > END STRING
 
 > BEGIN STRING
 フリーベリ～ポッパナ間の乗船券
-> CONTEXT: Items/256/description/ < UNTRANSLATED
-
+> CONTEXT: Items/256/description/
+Ferry ticket from Friberg to Poppana
 > END STRING
 
 > BEGIN STRING

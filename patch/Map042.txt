@@ -1094,7 +1094,7 @@ Found a \\c[4]sexy pinup\\c[0]!
 　夢魔どもと戦ってきてくだされ。
 > CONTEXT: Map042/events/39/pages/4/7/Dialogue
 「Don't worry about it, Mr. \\n[1].
-Go and fight the succubi.
+　Go and fight the succubi.
 > END STRING
 
 > BEGIN STRING

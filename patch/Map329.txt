@@ -116,8 +116,10 @@ Stay at the inn for \\b30G\\f?
 「おはようございます。
 　今日もがんばって下さいね\\e[0]
 　メェェェ～ッ
-> CONTEXT: Map329/events/2/pages/0/18/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map329/events/2/pages/0/18/Dialogue
+「Good morning.
+　Please do your best today too\\e[0]
+　Bwaah~
 > END STRING
 
 > BEGIN STRING

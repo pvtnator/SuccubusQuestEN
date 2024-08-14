@@ -3896,7 +3896,7 @@
 
 > BEGIN STRING
 "\#{itemname}の\\nエッセンスを使った！"
-> CONTEXT: Scripts/RPG::Item (message)/29:24 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Item (message)/29:24
 " used the essence of \#{itemname}!"
 > END STRING
 
@@ -4704,9 +4704,9 @@
 
 > BEGIN STRING
 "細波の衣"
-> CONTEXT: Scripts/RPG::Armor(detail)/113:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Actor(coordinates)/107:23 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Armor(detail)/113:12
+> CONTEXT: Scripts/Game_Actor(coordinates)/107:23
+"Ripple Clothes"
 > END STRING
 
 > BEGIN STRING
@@ -6296,8 +6296,8 @@
 
 > BEGIN STRING
 "\#{myname}は興奮し過ぎて暴走してしまった！"
-> CONTEXT: Scripts/RPG::State (message)/134:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/134:17
+"\#{myname} got too excited and went crazy!"
 > END STRING
 
 > BEGIN STRING
@@ -6321,8 +6321,8 @@
 
 > BEGIN STRING
 "\#{myname}は相手のカラダに夢中になっている！"
-> CONTEXT: Scripts/RPG::State (message)/136:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/136:18
+"\#{myname} is obsessed with the opponent's body!"
 > END STRING
 
 > BEGIN STRING
@@ -6438,8 +6438,8 @@
 
 > BEGIN STRING
 "\#{myname}は平静を取り戻した！"
-> CONTEXT: Scripts/RPG::State (message)/161:19 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/161:19
+"\#{myname} regained composure!"
 > END STRING
 
 > BEGIN STRING
@@ -6691,8 +6691,8 @@
 
 > BEGIN STRING
 "\#{myname}に幸運が舞い込んだ！"
-> CONTEXT: Scripts/RPG::State (message)/204:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/204:17
+"\#{myname} received good luck!"
 > END STRING
 
 > BEGIN STRING
@@ -8092,7 +8092,7 @@
 
 > BEGIN STRING
 "\#{myname}の気をそらした！"
-> CONTEXT: Scripts/RPG::State (message)/359:17 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::State (message)/359:17
 "\#{myname} was distracted!"
 > END STRING
 
@@ -9155,8 +9155,8 @@
 
 > BEGIN STRING
 "海蛇のエスカベッシュ"
-> CONTEXT: Scripts/RPG::Item(detail)/373:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/373:12
+"Escabeche Sea Serpent"
 > END STRING
 
 > BEGIN STRING
@@ -10536,117 +10536,117 @@
 
 > BEGIN STRING
 "クリスティン"
-> CONTEXT: Scripts/Game_Battler(msg-nude(E))/98:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/70:26 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/75:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/141:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/220:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/231:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/60:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/199:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(A))/139:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Enemy 2(analyze)/88:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Enemy/210:11 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/603:63 < UNTRANSLATED
-> CONTEXT: Scripts/Window_Speaker/44:17 < UNTRANSLATED
-> CONTEXT: Scripts/★ステート付与成功率計算/88:26 < UNTRANSLATED
-> CONTEXT: Scripts/★ステート付与成功率計算/193:26 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/828:10 < UNTRANSLATED
-> CONTEXT: Map231/events/3/pages/0/79/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map231/events/3/pages/0/203/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map231/events/3/pages/0/350/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map231/events/3/pages/0/358/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map231/events/3/pages/0/407/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map160/events/6/pages/0/100/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map159/events/1/pages/0/6/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map159/events/1/pages/0/30/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map160/events/6/pages/0/113/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map159/events/1/pages/0/56/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map160/events/6/pages/0/120/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map159/events/1/pages/0/84/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map159/events/1/pages/0/93/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map159/events/1/pages/0/105/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map160/events/6/pages/0/172/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map159/events/1/pages/0/110/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map160/events/6/pages/0/208/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map160/events/6/pages/0/245/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map231/events/12/pages/1/31/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map144/events/1/pages/0/57/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map145/events/1/pages/1/22/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map144/events/1/pages/0/82/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map145/events/1/pages/1/56/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map144/events/2/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map146/events/7/pages/0/60/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map144/events/2/pages/1/3/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map160/events/6/pages/0/336/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map144/events/2/pages/1/11/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map144/events/2/pages/1/21/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map139/events/5/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map142/events/18/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map144/events/2/pages/1/29/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map139/events/7/pages/1/2/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map231/events/25/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map231/events/25/pages/0/9/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map231/events/25/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map144/events/2/pages/1/49/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map231/events/25/pages/2/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map146/events/7/pages/0/239/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map144/events/2/pages/1/66/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map231/events/25/pages/3/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map142/events/19/pages/0/97/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map144/events/2/pages/1/75/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map146/events/7/pages/0/274/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map142/events/19/pages/0/102/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map144/events/2/pages/1/80/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map160/events/6/pages/0/497/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map142/events/19/pages/0/114/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map144/events/2/pages/1/88/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map146/events/7/pages/0/287/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map142/events/19/pages/0/119/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/81/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map144/events/2/pages/1/97/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map142/events/19/pages/0/126/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map144/events/2/pages/1/105/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map144/events/2/pages/1/113/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map144/events/2/pages/1/143/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map144/events/5/pages/0/2/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map144/events/6/pages/0/2/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map142/events/19/pages/0/188/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map143/events/13/pages/1/226/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map144/events/7/pages/0/2/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/205/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map144/events/8/pages/0/2/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map142/events/19/pages/0/201/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map143/events/13/pages/1/274/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map142/events/19/pages/0/206/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map144/events/9/pages/0/2/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map144/events/10/pages/0/2/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map143/events/13/pages/1/282/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map144/events/11/pages/0/2/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map144/events/12/pages/0/2/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map143/events/13/pages/1/307/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map144/events/13/pages/0/2/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map144/events/14/pages/0/2/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map144/events/15/pages/0/2/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map144/events/16/pages/0/2/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map144/events/17/pages/0/2/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map144/events/18/pages/0/2/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map144/events/19/pages/0/2/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/352/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/360/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Troops/313/pages/2/1/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/409/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/81/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/205/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map142/events/24/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map142/events/41/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/352/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/360/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map142/events/48/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/409/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map231/events/30/pages/0/78/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Troops/8/pages/1/1/InlineScript/2:5 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-nude(E))/98:10
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/70:26
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/75:10
+> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/141:10
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/220:10
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/231:10
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/60:10
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/199:10
+> CONTEXT: Scripts/Game_Battler(msg-insert(A))/139:10
+> CONTEXT: Scripts/Game_Enemy 2(analyze)/88:10
+> CONTEXT: Scripts/Game_Enemy/210:11
+> CONTEXT: Scripts/RPG::Skill (message)/603:63
+> CONTEXT: Scripts/Window_Speaker/44:17
+> CONTEXT: Scripts/★ステート付与成功率計算/88:26
+> CONTEXT: Scripts/★ステート付与成功率計算/193:26
+> CONTEXT: Scripts/★図鑑用詳細データ/828:10
+> CONTEXT: Map231/events/3/pages/0/79/InlineScript/1:4
+> CONTEXT: Map231/events/3/pages/0/203/InlineScript/1:4
+> CONTEXT: Map231/events/3/pages/0/350/InlineScript/1:4
+> CONTEXT: Map231/events/3/pages/0/358/InlineScript/1:4
+> CONTEXT: Map231/events/3/pages/0/407/InlineScript/1:4
+> CONTEXT: Map160/events/6/pages/0/100/InlineScript/1:4
+> CONTEXT: Map159/events/1/pages/0/6/InlineScript/1:4
+> CONTEXT: Map159/events/1/pages/0/30/InlineScript/1:4
+> CONTEXT: Map160/events/6/pages/0/113/InlineScript/1:4
+> CONTEXT: Map159/events/1/pages/0/56/InlineScript/1:4
+> CONTEXT: Map160/events/6/pages/0/120/InlineScript/1:4
+> CONTEXT: Map159/events/1/pages/0/84/InlineScript/1:4
+> CONTEXT: Map159/events/1/pages/0/93/InlineScript/1:4
+> CONTEXT: Map159/events/1/pages/0/105/InlineScript/1:4
+> CONTEXT: Map160/events/6/pages/0/172/InlineScript/1:4
+> CONTEXT: Map159/events/1/pages/0/110/InlineScript/1:4
+> CONTEXT: Map160/events/6/pages/0/208/InlineScript/1:4
+> CONTEXT: Map160/events/6/pages/0/245/InlineScript/1:4
+> CONTEXT: Map231/events/12/pages/1/31/InlineScript/1:4
+> CONTEXT: Map144/events/1/pages/0/57/InlineScript/1:4
+> CONTEXT: Map145/events/1/pages/1/22/InlineScript/1:4
+> CONTEXT: Map144/events/1/pages/0/82/InlineScript/1:4
+> CONTEXT: Map145/events/1/pages/1/56/InlineScript/1:4
+> CONTEXT: Map144/events/2/pages/0/0/InlineScript/1:4
+> CONTEXT: Map146/events/7/pages/0/60/InlineScript/1:4
+> CONTEXT: Map144/events/2/pages/1/3/InlineScript/1:4
+> CONTEXT: Map160/events/6/pages/0/336/InlineScript/1:4
+> CONTEXT: Map144/events/2/pages/1/11/InlineScript/1:4
+> CONTEXT: Map144/events/2/pages/1/21/InlineScript/1:4
+> CONTEXT: Map139/events/5/pages/1/0/InlineScript/1:4
+> CONTEXT: Map142/events/18/pages/0/0/InlineScript/1:4
+> CONTEXT: Map144/events/2/pages/1/29/InlineScript/1:4
+> CONTEXT: Map139/events/7/pages/1/2/InlineScript/1:4
+> CONTEXT: Map231/events/25/pages/0/0/InlineScript/1:4
+> CONTEXT: Map231/events/25/pages/0/9/InlineScript/1:4
+> CONTEXT: Map231/events/25/pages/1/0/InlineScript/1:4
+> CONTEXT: Map144/events/2/pages/1/49/InlineScript/1:4
+> CONTEXT: Map231/events/25/pages/2/0/InlineScript/1:4
+> CONTEXT: Map146/events/7/pages/0/239/InlineScript/1:4
+> CONTEXT: Map144/events/2/pages/1/66/InlineScript/1:4
+> CONTEXT: Map231/events/25/pages/3/0/InlineScript/1:4
+> CONTEXT: Map142/events/19/pages/0/97/InlineScript/1:4
+> CONTEXT: Map144/events/2/pages/1/75/InlineScript/1:4
+> CONTEXT: Map146/events/7/pages/0/274/InlineScript/1:4
+> CONTEXT: Map142/events/19/pages/0/102/InlineScript/1:4
+> CONTEXT: Map144/events/2/pages/1/80/InlineScript/1:4
+> CONTEXT: Map160/events/6/pages/0/497/InlineScript/1:4
+> CONTEXT: Map142/events/19/pages/0/114/InlineScript/1:4
+> CONTEXT: Map144/events/2/pages/1/88/InlineScript/1:4
+> CONTEXT: Map146/events/7/pages/0/287/InlineScript/1:4
+> CONTEXT: Map142/events/19/pages/0/119/InlineScript/1:4
+> CONTEXT: Map231/events/28/pages/0/81/InlineScript/1:4
+> CONTEXT: Map144/events/2/pages/1/97/InlineScript/1:4
+> CONTEXT: Map142/events/19/pages/0/126/InlineScript/1:4
+> CONTEXT: Map144/events/2/pages/1/105/InlineScript/1:4
+> CONTEXT: Map144/events/2/pages/1/113/InlineScript/1:4
+> CONTEXT: Map144/events/2/pages/1/143/InlineScript/1:4
+> CONTEXT: Map144/events/5/pages/0/2/InlineScript/1:4
+> CONTEXT: Map144/events/6/pages/0/2/InlineScript/1:4
+> CONTEXT: Map142/events/19/pages/0/188/InlineScript/1:4
+> CONTEXT: Map143/events/13/pages/1/226/InlineScript/1:4
+> CONTEXT: Map144/events/7/pages/0/2/InlineScript/1:4
+> CONTEXT: Map231/events/28/pages/0/205/InlineScript/1:4
+> CONTEXT: Map144/events/8/pages/0/2/InlineScript/1:4
+> CONTEXT: Map142/events/19/pages/0/201/InlineScript/1:4
+> CONTEXT: Map143/events/13/pages/1/274/InlineScript/1:4
+> CONTEXT: Map142/events/19/pages/0/206/InlineScript/1:4
+> CONTEXT: Map144/events/9/pages/0/2/InlineScript/1:4
+> CONTEXT: Map144/events/10/pages/0/2/InlineScript/1:4
+> CONTEXT: Map143/events/13/pages/1/282/InlineScript/1:4
+> CONTEXT: Map144/events/11/pages/0/2/InlineScript/1:4
+> CONTEXT: Map144/events/12/pages/0/2/InlineScript/1:4
+> CONTEXT: Map143/events/13/pages/1/307/InlineScript/1:4
+> CONTEXT: Map144/events/13/pages/0/2/InlineScript/1:4
+> CONTEXT: Map144/events/14/pages/0/2/InlineScript/1:4
+> CONTEXT: Map144/events/15/pages/0/2/InlineScript/1:4
+> CONTEXT: Map144/events/16/pages/0/2/InlineScript/1:4
+> CONTEXT: Map144/events/17/pages/0/2/InlineScript/1:4
+> CONTEXT: Map144/events/18/pages/0/2/InlineScript/1:4
+> CONTEXT: Map144/events/19/pages/0/2/InlineScript/1:4
+> CONTEXT: Map231/events/28/pages/0/352/InlineScript/1:4
+> CONTEXT: Map231/events/28/pages/0/360/InlineScript/1:4
+> CONTEXT: Troops/313/pages/2/1/InlineScript/1:4
+> CONTEXT: Map231/events/28/pages/0/409/InlineScript/1:4
+> CONTEXT: Map231/events/29/pages/0/81/InlineScript/1:4
+> CONTEXT: Map231/events/29/pages/0/205/InlineScript/1:4
+> CONTEXT: Map142/events/24/pages/0/0/InlineScript/1:4
+> CONTEXT: Map142/events/41/pages/0/0/InlineScript/1:4
+> CONTEXT: Map231/events/29/pages/0/352/InlineScript/1:4
+> CONTEXT: Map231/events/29/pages/0/360/InlineScript/1:4
+> CONTEXT: Map142/events/48/pages/0/0/InlineScript/1:4
+> CONTEXT: Map231/events/29/pages/0/409/InlineScript/1:4
+> CONTEXT: Map231/events/30/pages/0/78/InlineScript/1:4
+> CONTEXT: Troops/8/pages/1/1/InlineScript/2:5
+"Christine"
 > END STRING
 
 > BEGIN STRING
@@ -11440,9 +11440,9 @@
 
 > BEGIN STRING
 "「ふふ…まだよ……\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/88:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(A))/86:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/88:12
+> CONTEXT: Scripts/Game_Battler(msg-insert(A))/86:12
+"「Hehe...not yet\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
@@ -12024,8 +12024,8 @@
 
 > BEGIN STRING
 "「あぁんっ……\\n\\\\w[\\\\v[104]]"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/143:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/143:12
+"「Aahh...\\n\\\\w[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
@@ -12044,8 +12044,8 @@
 
 > BEGIN STRING
 "　イっちゃいそぉ………\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/144:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/144:12
+"　I'm gonna cum...\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
@@ -12205,28 +12205,28 @@
 
 > BEGIN STRING
 "「いやっ…、あたし…イっちゃうっ……\\n\\\\w[\\\\v[104]]"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/157:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/157:12
+"「Nooo...I'm...going to cum...\\n\\\\w[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
 "「な…生意気……"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/188:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/168:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/188:12
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/168:12
+"「C-cheeky..."
 > END STRING
 
 > BEGIN STRING
 "「あっ……"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/145:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(A))/143:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/145:12
+> CONTEXT: Scripts/Game_Battler(msg-insert(A))/143:12
+"「Ah..."
 > END STRING
 
 > BEGIN STRING
 "　ああぁンッ！"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/158:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/158:12
+"　Aaahh!"
 > END STRING
 
 > BEGIN STRING
@@ -14314,8 +14314,8 @@
 
 > BEGIN STRING
 "エキサイトしはじめた！"
-> CONTEXT: Scripts/RPG::Skill (message)/98:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/98:24
+" is getting excited!"
 > END STRING
 
 > BEGIN STRING
@@ -14507,8 +14507,8 @@
 
 > BEGIN STRING
 "\#{target}は風の衣を身に纏った！"
-> CONTEXT: Scripts/RPG::Skill (message)/195:26 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/195:26
+"\#{target} put on wind garments!"
 > END STRING
 
 > BEGIN STRING
@@ -15044,8 +15044,8 @@
 
 > BEGIN STRING
 "平穏の旋律が辺りにひびきわたる！\\\\w[\\\\v[104]]　"
-> CONTEXT: Scripts/RPG::Skill (message)/367:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/367:24
+"A melody of peace resonates throughout!\\\\w[\\\\v[104]] "
 > END STRING
 
 > BEGIN STRING
@@ -15080,9 +15080,9 @@
 
 > BEGIN STRING
 "\#{myname}の祝福のキッス！"
-> CONTEXT: Scripts/RPG::Skill (message)/380:18 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/383:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/380:18
+> CONTEXT: Scripts/RPG::Skill (message)/383:18
+"\#{myname}'s Blessing Kiss!"
 > END STRING
 
 > BEGIN STRING
@@ -15097,8 +15097,8 @@
 
 > BEGIN STRING
 "\#{myname}の運命のキッス！"
-> CONTEXT: Scripts/RPG::Skill (message)/386:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/386:18
+"\#{myname}'s Destined Kiss!"
 > END STRING
 
 > BEGIN STRING
@@ -15139,8 +15139,8 @@
 
 > BEGIN STRING
 "かろやかに踊っている！ \\\\w[\\\\v[104]]　"
-> CONTEXT: Scripts/RPG::Skill (message)/402:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/402:24
+" is dancing lightly!\\\\w[\\\\v[104]] "
 > END STRING
 
 > BEGIN STRING
@@ -15344,8 +15344,8 @@
 
 > BEGIN STRING
 "\#{myname}は色っぽいポーズで\\n\\\\w[\\\\v[104]]"
-> CONTEXT: Scripts/RPG::Skill (message)/436:20 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/436:20
+"\#{myname} is in a sexy pose\\n\\\\w[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
@@ -16580,9 +16580,9 @@
 
 > BEGIN STRING
 "アプサラス"
-> CONTEXT: Scripts/Game_Enemy/506:12 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/34:10 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Enemy/506:12
+> CONTEXT: Scripts/★図鑑用詳細データ/34:10
+"Apsaras"
 > END STRING
 
 > BEGIN STRING
@@ -16633,9 +16633,9 @@
 
 > BEGIN STRING
 "ヒノエンマ"
-> CONTEXT: Scripts/Game_Enemy/508:26 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/469:10 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Enemy/508:26
+> CONTEXT: Scripts/★図鑑用詳細データ/469:10
+"Hinoenma"
 > END STRING
 
 > BEGIN STRING
@@ -16891,9 +16891,9 @@
 
 > BEGIN STRING
 "\#{target}のペニスを胸ではさみ、\\n\\\\w[\\\\v[104]]舌で舐めながらしごいてきた！"
-> CONTEXT: Scripts/RPG::Skill (message)/618:26 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/733:26 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/618:26
+> CONTEXT: Scripts/RPG::Skill (message)/733:26
+" took \#{target}'s penis between breasts \\n\\\\w[\\\\v[104]]and stroked it while licking it!"
 > END STRING
 
 > BEGIN STRING
@@ -17187,8 +17187,8 @@
 
 > BEGIN STRING
 "\#{target}の顔の上にまたがってきた！\\n\\\\w[\\\\v[105]]"
-> CONTEXT: Scripts/RPG::Skill (message)/675:24 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/742:24 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Skill (message)/675:24
+> CONTEXT: Scripts/RPG::Skill (message)/742:24
 " straddled \#{target}'s face!\\n\\\\w[\\\\v[105]]"
 > END STRING
 
@@ -17300,8 +17300,8 @@
 
 > BEGIN STRING
 "無数の触手で愛撫してきた！"
-> CONTEXT: Scripts/RPG::Skill (message)/710:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/710:24
+" caressed with countless tentacles!"
 > END STRING
 
 > BEGIN STRING
@@ -17493,13 +17493,13 @@
 
 > BEGIN STRING
 "\#{myname}は\\\\c[3] \#{item.name} \\\\c[0]を食べた！\\n\\\\w[\\\\v[105]]"
-> CONTEXT: Scripts/RPG::Skill (message)/830:20 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Skill (message)/830:20
 "\#{myname} ate\\\\c[3] \#{item.name} \\\\c[0]!\\n\\\\w[\\\\v[105]]"
 > END STRING
 
 > BEGIN STRING
 "しかしあまりおいしくなかった……\\\\w[\\\\v[105]]　"
-> CONTEXT: Scripts/RPG::Skill (message)/831:20 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Skill (message)/831:20
 "But it wasn't very tasty...\\\\w[\\\\v[105]] "
 > END STRING
 
@@ -18329,8 +18329,8 @@
 
 > BEGIN STRING
 "羊の町、クヴァラット"
-> CONTEXT: Scripts/Window_SaveFile/117:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_SaveFile/117:14
+"Kvalatte, Sheep Town"
 > END STRING
 
 > BEGIN STRING
@@ -18341,8 +18341,8 @@
 
 > BEGIN STRING
 "魔都ホロス"
-> CONTEXT: Scripts/Window_SaveFile/119:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_SaveFile/119:14
+"Magic City Holos"
 > END STRING
 
 > BEGIN STRING
@@ -18353,8 +18353,8 @@
 
 > BEGIN STRING
 "レンシェットの村"
-> CONTEXT: Scripts/Window_SaveFile/121:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_SaveFile/121:14
+"Renkott Village"
 > END STRING
 
 > BEGIN STRING
@@ -18485,8 +18485,8 @@
 
 > BEGIN STRING
 "ルグブロード平原"
-> CONTEXT: Scripts/Window_SaveFile/143:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/Window_SaveFile/143:14
+"Rugbrod Plains"
 > END STRING
 
 > BEGIN STRING
@@ -20588,15 +20588,15 @@
 
 > BEGIN STRING
 "夢の指輪"
-> CONTEXT: Scripts/Scene_Title/124:21 < UNTRANSLATED
-> CONTEXT: Map061/events/19/pages/1/3/InlineScript/7:29 < UNTRANSLATED
-
+> CONTEXT: Scripts/Scene_Title/124:21
+> CONTEXT: Map061/events/19/pages/1/3/InlineScript/7:29
+"Dream Ring"
 > END STRING
 
 > BEGIN STRING
 "\#{enemy}が残したおぼろげな指輪"
-> CONTEXT: Scripts/Scene_Title/126:28 < UNTRANSLATED
-
+> CONTEXT: Scripts/Scene_Title/126:28
+"A faint ring left behind by \#{enemy}"
 > END STRING
 
 > BEGIN STRING

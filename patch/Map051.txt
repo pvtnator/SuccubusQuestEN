@@ -716,7 +716,7 @@ Sleeping face down on the counter...
 　ソコ狙うとすっごく感じてくれるのよねぇ～\\e[0]
 > CONTEXT: Map051/events/20/pages/0/3/Dialogue
 「Even men have \\c[2]weak spots\\c[0], 
-and if targeted, they'll feel it a lot\\e[0]
+　and if targeted, they'll feel it a lot\\e[0]
 > END STRING
 
 > BEGIN STRING

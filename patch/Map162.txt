@@ -4,8 +4,11 @@
 　　　　　　　　　　　　　　覚悟なき者、立ち入るべからず
 
 　　　　　　　　　　　　　　　　　　　　　　－アストリット・ベルナドット
-> CONTEXT: Map162/events/1/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map162/events/1/pages/0/1/Dialogue
 
+　　　　　　　　　　　　　The unprepared should not enter
+
+　　　　　　　　　　　　　　　　　　　　　　－Astrid Bernadotte
 > END STRING
 
 > BEGIN STRING

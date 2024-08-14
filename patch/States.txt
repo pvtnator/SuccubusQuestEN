@@ -157,13 +157,13 @@
 
 > BEGIN STRING
 センシブ
-> CONTEXT: States/29/name/ < UNTRANSLATED
-> CONTEXT: Skills/144/name/ < UNTRANSLATED
-> CONTEXT: Skills/266/description/ < UNTRANSLATED
-> CONTEXT: Skills/268/description/ < UNTRANSLATED
-> CONTEXT: Skills/309/name/ < UNTRANSLATED
-> CONTEXT: Skills/325/description/ < UNTRANSLATED
-
+> CONTEXT: States/29/name/
+> CONTEXT: Skills/144/name/
+> CONTEXT: Skills/266/description/
+> CONTEXT: Skills/268/description/
+> CONTEXT: Skills/309/name/
+> CONTEXT: Skills/325/description/
+Sensitive
 > END STRING
 
 > BEGIN STRING
@@ -225,9 +225,9 @@ Cooldown
 
 > BEGIN STRING
 ダリッシュ
-> CONTEXT: States/39/name/ < UNTRANSLATED
-> CONTEXT: Skills/258/description/ < UNTRANSLATED
-
+> CONTEXT: States/39/name/
+> CONTEXT: Skills/258/description/
+Dalish
 > END STRING
 
 > BEGIN STRING
@@ -244,10 +244,10 @@ Cooldown
 
 > BEGIN STRING
 クヮイエト
-> CONTEXT: States/42/name/ < UNTRANSLATED
-> CONTEXT: Skills/159/name/ < UNTRANSLATED
-> CONTEXT: Skills/243/name/ < UNTRANSLATED
-
+> CONTEXT: States/42/name/
+> CONTEXT: Skills/159/name/
+> CONTEXT: Skills/243/name/
+Quiet
 > END STRING
 
 > BEGIN STRING
@@ -290,8 +290,8 @@ Invincible
 
 > BEGIN STRING
 トワイス
-> CONTEXT: States/49/name/ < UNTRANSLATED
-
+> CONTEXT: States/49/name/
+Twice
 > END STRING
 
 > BEGIN STRING
@@ -1738,8 +1738,8 @@ Gruppen Saute
 
 > BEGIN STRING
 海蛇のエスカベッシュ/100/105/100
-> CONTEXT: States/333/name/ < UNTRANSLATED
-
+> CONTEXT: States/333/name/
+Escabeche Sea Serpent/100/105/100
 > END STRING
 
 > BEGIN STRING

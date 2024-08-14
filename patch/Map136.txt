@@ -274,13 +274,13 @@
 
 > BEGIN STRING
 「ニャぁん………
-> CONTEXT: Map136/events/1/pages/0/312/Dialogue < UNTRANSLATED
+> CONTEXT: Map136/events/1/pages/0/312/Dialogue
 「Meow...
 > END STRING
 
 > BEGIN STRING
 「あン……そんな………
-> CONTEXT: Map136/events/1/pages/0/314/Dialogue < UNTRANSLATED
+> CONTEXT: Map136/events/1/pages/0/314/Dialogue
 「Ah...this...
 > END STRING
 
@@ -288,21 +288,21 @@
 「くそッ！
 　無傷で済ませてやろうと
 　思ったのによ！
-> CONTEXT: Map136/events/1/pages/0/321/Dialogue < UNTRANSLATED
+> CONTEXT: Map136/events/1/pages/0/321/Dialogue
 「Dammit! 
 　To think he made it unharmed
 > END STRING
 
 > BEGIN STRING
 「仕方ねえ………！
-> CONTEXT: Map136/events/1/pages/0/324/Dialogue < UNTRANSLATED
+> CONTEXT: Map136/events/1/pages/0/324/Dialogue
 「There's no other way...!
 > END STRING
 
 > BEGIN STRING
 「だ……ダメ………
 　ご主人様…………
-> CONTEXT: Map136/events/1/pages/0/337/Dialogue < UNTRANSLATED
+> CONTEXT: Map136/events/1/pages/0/337/Dialogue
 「No...don't...
 　Master.....
 > END STRING
@@ -310,33 +310,33 @@
 > BEGIN STRING
 「！？
 　おい！ 離せっ！
-> CONTEXT: Map136/events/1/pages/0/355/Dialogue < UNTRANSLATED
+> CONTEXT: Map136/events/1/pages/0/355/Dialogue
 「!?
 　Hey! Let go!
 > END STRING
 
 > BEGIN STRING
 「ダメ……ご主人様に…………
-> CONTEXT: Map136/events/1/pages/0/358/Dialogue < UNTRANSLATED
+> CONTEXT: Map136/events/1/pages/0/358/Dialogue
 「No...my master.....
 > END STRING
 
 > BEGIN STRING
 「もしものことが…あったら………
-> CONTEXT: Map136/events/1/pages/0/359/Dialogue < UNTRANSLATED
+> CONTEXT: Map136/events/1/pages/0/359/Dialogue
 「If something were to happen...
 > END STRING
 
 > BEGIN STRING
 「………くッ！
-> CONTEXT: Map136/events/1/pages/0/400/Dialogue < UNTRANSLATED
+> CONTEXT: Map136/events/1/pages/0/400/Dialogue
 「...Gh!
 > END STRING
 
 > BEGIN STRING
 「\\n[1]ッ！
 　これで終わったと思うなッ！！
-> CONTEXT: Map136/events/1/pages/0/401/Dialogue < UNTRANSLATED
+> CONTEXT: Map136/events/1/pages/0/401/Dialogue
 「\\n[1]!
 　Don't think this is the end!!
 > END STRING
@@ -344,7 +344,7 @@
 > BEGIN STRING
 「何もかも！
 　最後に手に入れるのは俺だッ！！
-> CONTEXT: Map136/events/1/pages/0/403/Dialogue < UNTRANSLATED
+> CONTEXT: Map136/events/1/pages/0/403/Dialogue
 「All of it! 
 　I'm the one who'll get it in the end!!
 > END STRING

@@ -200,8 +200,8 @@ SQ_Town01
 
 > BEGIN STRING
 \\c[3]海蛇のエスカベッシュ\\c[0]を渡しますか？
-> CONTEXT: Map333/events/13/pages/0/52/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map333/events/13/pages/0/52/Dialogue
+Give \\c[3]Escabeche Sea Serpent\\c[0]
 > END STRING
 
 > BEGIN STRING
