@@ -2044,7 +2044,7 @@ Milky Silky
 > BEGIN STRING
 サマーノーブル
 > CONTEXT: States/508/name/ < UNTRANSLATED
-
+Summer Noble
 > END STRING
 
 > BEGIN STRING

@@ -116,61 +116,61 @@ Charm +3 / Energy +3 / Spirit +3
 > BEGIN STRING
 マリーナ・フリーベリ/4/0/0
 > CONTEXT: Weapons/15/name/ < UNTRANSLATED
-
+Marina Friberg/4/0/0
 > END STRING
 
 > BEGIN STRING
 魅力+4 / 素早さ+7
 > CONTEXT: Weapons/15/description/ < UNTRANSLATED
-
+Charm +4 / Agility +7
 > END STRING
 
 > BEGIN STRING
 キアズマ・トライバル/5/0/0
 > CONTEXT: Weapons/17/name/ < UNTRANSLATED
-
+Kiasma Tribal/5/0/0
 > END STRING
 
 > BEGIN STRING
 守り+3 / 魅力+5 / 精神力+3
 > CONTEXT: Weapons/17/description/ < UNTRANSLATED
-
+Def +3 / Charm +5 / Spirit +3
 > END STRING
 
 > BEGIN STRING
 ビーチボーイ/6/0/0
 > CONTEXT: Weapons/18/name/ < UNTRANSLATED
-
+Beach Boy/6/0/0
 > END STRING
 
 > BEGIN STRING
 魅力+6 / 精力+6 / 素早さ+2
 > CONTEXT: Weapons/18/description/ < UNTRANSLATED
-
+Charm +6 / Energy +6 / Agility +2
 > END STRING
 
 > BEGIN STRING
 サマーノーブル/3/0/0
 > CONTEXT: Weapons/19/name/ < UNTRANSLATED
-
+Summer Noble/3/0/0
 > END STRING
 
 > BEGIN STRING
 守り+2 / 魅力+3 / 精神力+3
 > CONTEXT: Weapons/19/description/ < UNTRANSLATED
-
+Def +2 / Charm +3 / Spirit +3
 > END STRING
 
 > BEGIN STRING
 灰燼の賢者/3/0/0
 > CONTEXT: Weapons/20/name/ < UNTRANSLATED
-
+Ash Sage/3/0/0
 > END STRING
 
 > BEGIN STRING
 守り+4 / 魅力+3 / 精神力+4 / 魔法に耐性+50%
 > CONTEXT: Weapons/20/description/ < UNTRANSLATED
-
+Def +4 / Charm +3 / Spirit +4 / Magic Res. +50%
 > END STRING
 
 > BEGIN STRING

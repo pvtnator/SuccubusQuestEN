@@ -2,13 +2,13 @@
 > BEGIN STRING
 「よォ！
 　いらっしゃいっ！
-> CONTEXT: Map328/events/2/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map328/events/2/pages/0/1/Dialogue
 「Yo!
 　Welcome!
 > END STRING
 
 > BEGIN STRING
 「また来ておくれよっ！
-> CONTEXT: Map328/events/2/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map328/events/2/pages/0/10/Dialogue
 「Please come again!
 > END STRING
