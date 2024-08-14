@@ -462,74 +462,74 @@ Charm +12
 
 > BEGIN STRING
 ホワイトリンネル/15/0
-> CONTEXT: Armors/69/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/69/name/
+White Linen/15/0
 > END STRING
 
 > BEGIN STRING
 魅力+15 / 精神力+3
-> CONTEXT: Armors/69/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/69/description/
+Charm +15 / Spirit +3
 > END STRING
 
 > BEGIN STRING
 ハパピィシャツ/18/0
-> CONTEXT: Armors/70/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/70/name/
+Hapapi Shirt/18/0
 > END STRING
 
 > BEGIN STRING
 魅力+18
-> CONTEXT: Armors/70/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/70/description/
+Charm +18
 > END STRING
 
 > BEGIN STRING
 インディゴジャケット/16/0
-> CONTEXT: Armors/71/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/71/name/
+Indigo Jacket/16/0
 > END STRING
 
 > BEGIN STRING
 魅力+16 / 精力+2 / 素早さ+2
-> CONTEXT: Armors/71/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/71/description/
+Charm +16 / Energy +2 / Agility +2
 > END STRING
 
 > BEGIN STRING
 新緑のシャツ/15/0
-> CONTEXT: Armors/72/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/72/name/
+Green Leaf Shirt/15/0
 > END STRING
 
 > BEGIN STRING
 魅力+15
-> CONTEXT: Armors/72/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/72/description/
+Charm +15
 > END STRING
 
 > BEGIN STRING
 幻灰のローブ/13/0
-> CONTEXT: Armors/73/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/73/name/
+Phantom Robe/13/0
 > END STRING
 
 > BEGIN STRING
 魅力+13 / 精神力+3
-> CONTEXT: Armors/73/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/73/description/
+Charm +13 / Spirit +3
 > END STRING
 
 > BEGIN STRING
 フェティッシュヴェスト/18/0
-> CONTEXT: Armors/74/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/74/name/
+Fetish Vest/18/0
 > END STRING
 
 > BEGIN STRING
 魅力+18 / 精力+3 / 素早さ+3
-> CONTEXT: Armors/74/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/74/description/
+Charm +18 / Energy +3 / Agility +3
 > END STRING
 
 > BEGIN STRING
@@ -835,165 +835,165 @@ Def +3 / Charm -9 / Less likely to encounter succubi
 
 > BEGIN STRING
 ネレイスチャーム/0/0
-> CONTEXT: Armors/115/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/115/name/
+Nereid Charm/0/0
 > END STRING
 
 > BEGIN STRING
 守り+5 / 精神力+6 / 恍惚耐性+30%
-> CONTEXT: Armors/115/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/115/description/
+Def +5 / Spirit +6 / Ecstatic Res. +30%
 > END STRING
 
 > BEGIN STRING
 銀のピアス/8/0
-> CONTEXT: Armors/116/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/116/name/
+Silver Earrings/8/0
 > END STRING
 
 > BEGIN STRING
 守り+1 / 魅力+8 / 技巧+1 / 素早さ+5
-> CONTEXT: Armors/116/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/116/description/
+Def +1 / Charm +8 / Dexterity +1 / Agility +5
 > END STRING
 
 > BEGIN STRING
 ドラゴンフライブローチ/6/0
-> CONTEXT: Armors/117/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/117/name/
+Dragonfly Brooch/6/0
 > END STRING
 
 > BEGIN STRING
 守り+6 / 魅力+6
-> CONTEXT: Armors/117/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/117/description/
+Def +6 / Charm +6
 > END STRING
 
 > BEGIN STRING
 フォシルペンダント/2/0
-> CONTEXT: Armors/118/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/118/name/
+Fossil Pendant/2/0
 > END STRING
 
 > BEGIN STRING
 守り+6 / 魅力+2 / 精神力+4
-> CONTEXT: Armors/118/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/118/description/
+Def +6 / Charm +2 / Spirit +4
 > END STRING
 
 > BEGIN STRING
 もえさしの首飾り/0/0
-> CONTEXT: Armors/119/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/119/name/
+Moesashi Necklace/0/0
 > END STRING
 
 > BEGIN STRING
 守り+6 / 精神力+4
-> CONTEXT: Armors/119/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/119/description/
+Def +6 / Spirit +4
 > END STRING
 
 > BEGIN STRING
 ネロリの手袋/3/0
-> CONTEXT: Armors/120/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/120/name/
+Neroli Gloves/3/0
 > END STRING
 
 > BEGIN STRING
 守り+2 / 魅力+3 / 技巧+4
-> CONTEXT: Armors/120/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/120/description/
+Def +2 / Charm +3 / Dexterity +4
 > END STRING
 
 > BEGIN STRING
 コンプレクススカーフ/7/0
-> CONTEXT: Armors/121/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/121/name/
+Complex Scarf/7/0
 > END STRING
 
 > BEGIN STRING
 守り+2 / 魅力+7 / 技巧+2 / パニック耐性+20%
-> CONTEXT: Armors/121/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/121/description/
+Def +2 / Charm +7 / Dexterity +2 / Panic Res. +20%
 > END STRING
 
 > BEGIN STRING
 月長石のブレスレット/3/0
-> CONTEXT: Armors/122/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/122/name/
+Moonstone Bracelet/3/0
 > END STRING
 
 > BEGIN STRING
 守り+7 / 魅力+3 / 精神力+5
-> CONTEXT: Armors/122/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/122/description/
+Def +7 / Charm +3 / Spirit +5
 > END STRING
 
 > BEGIN STRING
 ファイアフライブローチ/8/0
-> CONTEXT: Armors/123/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/123/name/
+Firefly Brooch/8/0
 > END STRING
 
 > BEGIN STRING
 守り+8 / 魅力+8
-> CONTEXT: Armors/123/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/123/description/
+Def +8 / Charm +8
 > END STRING
 
 > BEGIN STRING
 瑪瑙のピアス/10/0
-> CONTEXT: Armors/124/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/124/name/
+Agate Earrings/10/0
 > END STRING
 
 > BEGIN STRING
 守り+2 / 魅力+10 / 素早さ+5
-> CONTEXT: Armors/124/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/124/description/
+Def +2 / Charm +10 / Agility +5
 > END STRING
 
 > BEGIN STRING
 ビロードガントレット/7/0
-> CONTEXT: Armors/125/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/125/name/
+Velvet Gauntlet/7/0
 > END STRING
 
 > BEGIN STRING
 魅力+7 / 技巧+5
-> CONTEXT: Armors/125/description/ < UNTRANSLATED
-> CONTEXT: Armors/126/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/125/description/
+> CONTEXT: Armors/126/description/
+Charm +7 / Dexterity +5
 > END STRING
 
 > BEGIN STRING
 サテンゴルゲット/7/0
-> CONTEXT: Armors/126/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/126/name/
+Satin Gorget/7/0
 > END STRING
 
 > BEGIN STRING
 サードニクスチャーム/0/0
-> CONTEXT: Armors/127/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/127/name/
+Sardonyx Charm/0/0
 > END STRING
 
 > BEGIN STRING
 守り+7 / 精力+5% / 技巧+5% / 素早さ+5%
-> CONTEXT: Armors/127/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/127/description/
+Def +7 / Energy +5% / Skill +5% / Agility +5%
 > END STRING
 
 > BEGIN STRING
 ターコイズチャーム/0/0
-> CONTEXT: Armors/128/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/128/name/
+Turquoise Charm/0/0
 > END STRING
 
 > BEGIN STRING
 守り+7 / 技巧+5% / 素早さ+5% / 精神力+5%
-> CONTEXT: Armors/128/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/128/description/
+Def +7 / Dexterity +5% / Agility +5% / Spirit +5%
 > END STRING
 
 > BEGIN STRING
@@ -1046,50 +1046,50 @@ Def +5 / Charm +6 / Increases Vagina effect
 
 > BEGIN STRING
 スムーチュリング/10/0
-> CONTEXT: Armors/139/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/139/name/
+Smooch Ring/10/0
 > END STRING
 
 > BEGIN STRING
 守り+9 / 魅力+10 / キッスの効果アップ
-> CONTEXT: Armors/139/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/139/description/
+Def +9 / Charm +10 / Increased Kiss effect
 > END STRING
 
 > BEGIN STRING
 ニップルリング/10/0
-> CONTEXT: Armors/140/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/140/name/
+Nipple Ring/10/0
 > END STRING
 
 > BEGIN STRING
 守り+9 / 魅力+10 / バストの効果アップ
-> CONTEXT: Armors/140/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/140/description/
+Def +9 / Charm +10 / Increased Bust effect
 > END STRING
 
 > BEGIN STRING
 アナルリング/10/0
-> CONTEXT: Armors/141/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/141/name/
+Anal Ring/10/0
 > END STRING
 
 > BEGIN STRING
 守り+9 / 魅力+10 / ヒップの効果アップ
-> CONTEXT: Armors/141/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/141/description/
+Def +9 / Charm +10 / Increased Hip effect
 > END STRING
 
 > BEGIN STRING
 クリティリング/10/0
-> CONTEXT: Armors/142/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/142/name/
+Clit Ring/10/0
 > END STRING
 
 > BEGIN STRING
 守り+9 / 魅力+10 / ヴァッジの効果アップ
-> CONTEXT: Armors/142/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/142/description/
+Def +9 / Charm +10 / Increases Vagina effect
 > END STRING
 
 > BEGIN STRING

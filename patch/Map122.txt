@@ -3,13 +3,14 @@
 「この辺りは気温が高いので、
 　熱病にかかる旅の方が多いんです。
 > CONTEXT: Map122/events/3/pages/0/1/Dialogue < UNTRANSLATED
-
+「The temperature is high around here,
+　so many travelers get fevers.
 > END STRING
 
 > BEGIN STRING
 「あなたも気をつけてくださいね。
 > CONTEXT: Map122/events/3/pages/0/3/Dialogue < UNTRANSLATED
-
+「You too should be careful.
 > END STRING
 
 > BEGIN STRING
@@ -17,7 +18,8 @@
 　\\r[召喚,サモン]していない時に
 　徐々に回復していきます。
 > CONTEXT: Map122/events/9/pages/0/1/Dialogue < UNTRANSLATED
-
+「The MP of the Rovissa who's with you 
+　will gradually recover while not summoned.
 > END STRING
 
 > BEGIN STRING
@@ -25,12 +27,15 @@
 　\\r[召喚,サモン]していない時間に
 　比例して伸びていきます。
 > CONTEXT: Map122/events/9/pages/0/4/Dialogue < UNTRANSLATED
-
+「However, the amount of recovery is not constant, 
+　and increases in proportion 
+　to the time not being summoned.
 > END STRING
 
 > BEGIN STRING
 「一度\\r[帰還,リターン]させたら、MPが回復するまで
 　ゆっくり休ませるといいでしょう。
 > CONTEXT: Map122/events/9/pages/0/7/Dialogue < UNTRANSLATED
-
+「Once returned, it's a good idea to let her rest 
+　until her MP recovers.
 > END STRING

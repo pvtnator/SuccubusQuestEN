@@ -10,14 +10,15 @@
 > CONTEXT: Map125/events/7/pages/2/17/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Map125/events/7/pages/2/29/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Map125/events/7/pages/2/41/InlineScript/1:4 < UNTRANSLATED
-
+"Elf Man/Haglofs"
 > END STRING
 
 > BEGIN STRING
 「\\c[4]デフィーラの花\\c[0]は\\c[2]セーデル砂漠\\c[0]の
 　東の洞窟、その奥深くに咲いています。
 > CONTEXT: Map125/events/3/pages/1/1/Dialogue < UNTRANSLATED
-
+「The \\c[4]Defira Flower\\c[0] blooms 
+deep in a cave in the east of \\c[2]Seder Desert\\c[0].
 > END STRING
 
 > BEGIN STRING
@@ -26,7 +27,9 @@
 　あなたなら問題ないでしょう。
 > CONTEXT: Map125/events/3/pages/1/3/Dialogue < UNTRANSLATED
 > CONTEXT: Map125/events/7/pages/0/51/Dialogue < UNTRANSLATED
-
+「According to the townspeople, 
+　the cave is infested with demons called succubi, 
+　but I don't think you'll have any problems.
 > END STRING
 
 > BEGIN STRING
@@ -35,41 +38,46 @@
 　あとはよろしくお願いします。
 > CONTEXT: Map125/events/3/pages/1/6/Dialogue < UNTRANSLATED
 > CONTEXT: Map125/events/7/pages/0/54/Dialogue < UNTRANSLATED
-
+「I cannot leave my daughter's side. 
+　I'll leave the rest to you.
 > END STRING
 
 > BEGIN STRING
 "エルフの娘/Christin"
 > CONTEXT: Map125/events/4/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-
+"Elf's Daughter/Christin"
 > END STRING
 
 > BEGIN STRING
 「うぅん………………
 　……お父さん……………
 > CONTEXT: Map125/events/4/pages/0/1/Dialogue < UNTRANSLATED
-
+「Uugh......
+　...Dad.....
 > END STRING
 
 > BEGIN STRING
 「よく来てくれました！
 　勇者\\n[1]さんですね？
 > CONTEXT: Map125/events/7/pages/0/3/Dialogue < UNTRANSLATED
-
+「Thank you for coming!
+You're the hero \\n[1], right?
 > END STRING
 
 > BEGIN STRING
 「あなたを待っていました。
 　折り入って頼みたいことがあります。
 > CONTEXT: Map125/events/7/pages/0/15/Dialogue < UNTRANSLATED
-
+「I've been waiting for you.
+　I have a favor to ask of you.
 > END STRING
 
 > BEGIN STRING
 「実は、私の娘が
 　重い病にかかってしまったのです。
 > CONTEXT: Map125/events/7/pages/0/21/Dialogue < UNTRANSLATED
-
+「The truth is, 
+　my daughter has become seriously ill.
 > END STRING
 
 > BEGIN STRING
@@ -77,28 +85,34 @@
 　\\c[4]デフィーラの花\\c[0]を求めて
 　ホロスから来たのですが、
 > CONTEXT: Map125/events/7/pages/0/23/Dialogue < UNTRANSLATED
-
+「I came from Holos in search of the 
+　\\c[4]Defila Flower\\c[0] that blooms in the Seder, 
+　which is a miracle cure.
 > END STRING
 
 > BEGIN STRING
 「ここに来て娘の病状が悪化し、
 　ここから動けなくなってしまいました。
 > CONTEXT: Map125/events/7/pages/0/26/Dialogue < UNTRANSLATED
-
+「Since coming here, 
+　my daughter's condition has worsened, 
+　and we are now unable to move.
 > END STRING
 
 > BEGIN STRING
 「私も娘のそばを離れるわけにはいかず、
 　途方にくれていたところです。
 > CONTEXT: Map125/events/7/pages/0/28/Dialogue < UNTRANSLATED
-
+「I couldn't leave my daughter's side either, 
+　and I was at a loss as to what to do.
 > END STRING
 
 > BEGIN STRING
 「しかし、ああ、私は幸運です！
 　ここであなたに出会えるとは！
 > CONTEXT: Map125/events/7/pages/0/45/Dialogue < UNTRANSLATED
-
+「But oh, how lucky I am!
+　I never thought I'd meet you here!
 > END STRING
 
 > BEGIN STRING
@@ -106,61 +120,69 @@
 　\\c[4]デフィーラの花\\c[0]は\\c[2]セーデル砂漠\\c[0]の
 　東の洞窟、その奥深くに咲いています。
 > CONTEXT: Map125/events/7/pages/0/48/Dialogue < UNTRANSLATED
-
+「Now, \\n[1],
+　The \\c[4]Defira Flower\\c[0] blooms 
+　deep in the cave east of \\c[2]Seder Desert\\c[0].
 > END STRING
 
 > BEGIN STRING
 「がんばってきて下さい、\\n[1]さん。
 　幸運をお祈りしています。
 > CONTEXT: Map125/events/7/pages/0/57/Dialogue < UNTRANSLATED
-
+「Good luck, \\n[1].
+　I wish you the best of luck.
 > END STRING
 
 > BEGIN STRING
 「おお！
 　それは！
 > CONTEXT: Map125/events/7/pages/2/5/Dialogue < UNTRANSLATED
-
+「Oh!
+　That's it!
 > END STRING
 
 > BEGIN STRING
 「おお……間違いありません。
 　\\c[4]デフィーラの花\\c[0]です。
 > CONTEXT: Map125/events/7/pages/2/18/Dialogue < UNTRANSLATED
-
+「Oh... there's no doubt about it.
+　It's a \\c[4]Defira Flower\\c[0].
 > END STRING
 
 > BEGIN STRING
 「さすがです、\\n[1]さん。
 　よくやってくれました。
 > CONTEXT: Map125/events/7/pages/2/20/Dialogue < UNTRANSLATED
-
+「Well done, \\n[1].
+　You did a great job.
 > END STRING
 
 > BEGIN STRING
 「う………ん…………
 > CONTEXT: Map125/events/7/pages/2/25/Dialogue < UNTRANSLATED
-
+「Uu...h....
 > END STRING
 
 > BEGIN STRING
 「クリスティン！
 　もう大丈夫ですよ。
 > CONTEXT: Map125/events/7/pages/2/30/Dialogue < UNTRANSLATED
-
+「Christine! 
+　It's okay now.
 > END STRING
 
 > BEGIN STRING
 「薬が手に入りました。
 　これで助かります。
 > CONTEXT: Map125/events/7/pages/2/32/Dialogue < UNTRANSLATED
-
+「I got the medicine. 
+　This will help.
 > END STRING
 
 > BEGIN STRING
 「………あなた…が……？
 > CONTEXT: Map125/events/7/pages/2/37/Dialogue < UNTRANSLATED
-
+「...You...do...?
 > END STRING
 
 > BEGIN STRING
@@ -168,7 +190,9 @@
 　私は\\c[1]魔都ホロス\\c[0]の魔導士、
 　ハグロフスといいます。
 > CONTEXT: Map125/events/7/pages/2/42/Dialogue < UNTRANSLATED
-
+「Oh, thank you for the message.
+　I am Haglofs, a magician from 
+　the \\c[1]Magic City Holos\\c[0].
 > END STRING
 
 > BEGIN STRING
@@ -176,7 +200,8 @@
 　是非お訪ねください。
 　何かお礼をさせていただきましょう。
 > CONTEXT: Map125/events/7/pages/2/46/Dialogue < UNTRANSLATED
-
+「If you come to Holos, please come and visit us. 
+　We'll give you something as a thank you.
 > END STRING
 
 > BEGIN STRING
@@ -184,18 +209,21 @@
 　早速\\c[4]デフィーラの花\\c[0]から
 　薬を調合したいので
 > CONTEXT: Map125/events/7/pages/2/49/Dialogue < UNTRANSLATED
-
+「Well then,
+　I should make medicine 
+　from the \\c[4]Defira flower\\c[0] right away.
 > END STRING
 
 > BEGIN STRING
 「私達はこれで失礼します。
 　また会いましょう！
 > CONTEXT: Map125/events/7/pages/2/52/Dialogue < UNTRANSLATED
-
+「We will now take our leave. 
+　See you again!
 > END STRING
 
 > BEGIN STRING
 「あ、待って、お父さ………
 > CONTEXT: Map125/events/7/pages/2/57/Dialogue < UNTRANSLATED
-
+「Oh, wait, dad...
 > END STRING

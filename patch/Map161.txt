@@ -211,14 +211,14 @@
 
 > BEGIN STRING
 "エルフの女"
-> CONTEXT: Map161/events/16/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map161/events/16/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map140/events/31/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map126/events/5/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map126/events/6/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map121/events/31/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map121/events/31/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map161/events/16/pages/0/0/InlineScript/1:4
+> CONTEXT: Map161/events/16/pages/1/0/InlineScript/1:4
+> CONTEXT: Map140/events/31/pages/0/0/InlineScript/1:4
+> CONTEXT: Map126/events/5/pages/0/0/InlineScript/1:4
+> CONTEXT: Map126/events/6/pages/0/0/InlineScript/1:4
+> CONTEXT: Map121/events/31/pages/0/0/InlineScript/1:4
+> CONTEXT: Map121/events/31/pages/1/0/InlineScript/1:4
+"Elf Girl"
 > END STRING
 
 > BEGIN STRING

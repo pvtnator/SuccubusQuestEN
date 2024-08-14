@@ -4,7 +4,9 @@
 　夢魔って魔物が群れであらわれて
 　人を襲ってるらしいわよ。
 > CONTEXT: Map121/events/27/pages/0/1/Dialogue < UNTRANSLATED
-
+「Recently, swarms of demons known as succubi 
+　have been appearing in the desert 
+　and attacking people.
 > END STRING
 
 > BEGIN STRING
@@ -12,14 +14,18 @@
 　魔王を倒したって聞いたけど、
 　デマだったのかしら。
 > CONTEXT: Map121/events/27/pages/0/4/Dialogue < UNTRANSLATED
-
+「I heard that the Hero of Gruppen
+　defeated the Demon Lord, 
+　but I wonder if that was a lie.
 > END STRING
 
 > BEGIN STRING
 「魔物は、砂漠の東の洞窟に
 　特にたくさん集まってるようですね。
 > CONTEXT: Map121/events/28/pages/0/1/Dialogue < UNTRANSLATED
-
+「Seems like demons are gathering 
+　in particularly large numbers 
+　in the caves to the east of the desert.
 > END STRING
 
 > BEGIN STRING
@@ -27,7 +33,9 @@
 　何とかの花が咲くので有名でしたけど、
 　何か関係があるのかしらね。
 > CONTEXT: Map121/events/28/pages/0/3/Dialogue < UNTRANSLATED
-
+「I'm pretty sure that place
+　is famous for some kind of flower that blooms there,
+　so I wonder if there's some connection.
 > END STRING
 
 > BEGIN STRING

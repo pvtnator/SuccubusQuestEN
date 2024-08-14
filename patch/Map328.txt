@@ -3,11 +3,12 @@
 「よォ！
 　いらっしゃいっ！
 > CONTEXT: Map328/events/2/pages/0/1/Dialogue < UNTRANSLATED
-
+「Yo!
+　Welcome!
 > END STRING
 
 > BEGIN STRING
 「また来ておくれよっ！
 > CONTEXT: Map328/events/2/pages/0/10/Dialogue < UNTRANSLATED
-
+「Please come again!
 > END STRING

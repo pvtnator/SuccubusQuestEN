@@ -352,14 +352,16 @@
 「異国かあ……
 　やっぱりグルッペンとは
 　ちょっと違う雰囲気ね。
-> CONTEXT: Commonevents/23/235/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/23/235/Dialogue
+「A foreign country...
+　It definitely has a different atmosphere
+　compared to Gruppen.
 > END STRING
 
 > BEGIN STRING
 「何かワクワクしちゃうわ\\e[0]
-> CONTEXT: Commonevents/23/238/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/23/238/Dialogue
+「I'm kind of excited\\e[0]
 > END STRING
 
 > BEGIN STRING
