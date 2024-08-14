@@ -136,7 +136,7 @@
 > CONTEXT: Map164/events/8/pages/0/276/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Map164/events/8/pages/0/307/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Map164/events/8/pages/0/314/InlineScript/1:4 < UNTRANSLATED
-
+"Haglofs/Haglofs"
 > END STRING
 
 > BEGIN STRING
@@ -167,7 +167,7 @@
 > CONTEXT: Map125/events/7/pages/2/24/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Map125/events/7/pages/2/36/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Map125/events/7/pages/2/56/InlineScript/1:4 < UNTRANSLATED
-
+"Christine/Christin"
 > END STRING
 
 > BEGIN STRING

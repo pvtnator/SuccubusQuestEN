@@ -3897,7 +3897,7 @@
 > BEGIN STRING
 "\#{itemname}の\\nエッセンスを使った！"
 > CONTEXT: Scripts/RPG::Item (message)/29:24 < UNTRANSLATED
-
+" used the essence of \#{itemname}!"
 > END STRING
 
 > BEGIN STRING
@@ -8093,7 +8093,7 @@
 > BEGIN STRING
 "\#{myname}の気をそらした！"
 > CONTEXT: Scripts/RPG::State (message)/359:17 < UNTRANSLATED
-
+"\#{myname} was distracted!"
 > END STRING
 
 > BEGIN STRING
@@ -11992,8 +11992,8 @@
 
 > BEGIN STRING
 "「あれぇ、もうイっちゃうの？\\n\\\\w[\\\\v[104]]あははっ\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/141:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/141:12
+"「Oh, going to cum already?\\n\\\\w[\\\\v[104]]　Ahaha\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
@@ -12386,8 +12386,8 @@
 
 > BEGIN STRING
 "「ガオォン？\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/170:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/170:12
+"「Gaoow?\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
@@ -15552,14 +15552,14 @@
 
 > BEGIN STRING
 "\#{myname}は不思議な色の羽根をばらまいた！\\n\\\\w[\\\\v[105]]"
-> CONTEXT: Scripts/RPG::Skill (message)/459:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/459:18
+"\#{myname} scattered feathers of strange colors!\\n\\\\w[\\\\v[105]]"
 > END STRING
 
 > BEGIN STRING
 "両手両足をふさがれていて使えない！"
-> CONTEXT: Scripts/Game_Battler 3-1/78:26 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler 3-1/78:26
+"Arms and legs are tied up and can't be used!"
 > END STRING
 
 > BEGIN STRING
@@ -15570,8 +15570,8 @@
 
 > BEGIN STRING
 "ハダカにならないとインサートできない！"
-> CONTEXT: Scripts/Game_Battler 3-1/83:26 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler 3-1/83:26
+"Can't insert unless naked!"
 > END STRING
 
 > BEGIN STRING
@@ -15582,8 +15582,8 @@
 
 > BEGIN STRING
 "すでにインサートしている！"
-> CONTEXT: Scripts/Game_Battler 3-1/88:26 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler 3-1/88:26
+"Already inserted!"
 > END STRING
 
 > BEGIN STRING
@@ -17189,7 +17189,7 @@
 "\#{target}の顔の上にまたがってきた！\\n\\\\w[\\\\v[105]]"
 > CONTEXT: Scripts/RPG::Skill (message)/675:24 < UNTRANSLATED
 > CONTEXT: Scripts/RPG::Skill (message)/742:24 < UNTRANSLATED
-
+" straddled \#{target}'s face!\\n\\\\w[\\\\v[105]]"
 > END STRING
 
 > BEGIN STRING
@@ -17426,21 +17426,21 @@
 
 > BEGIN STRING
 "\#{myname}は\#{target}にみとれている……\\\\w[\\\\v[104]]　"
-> CONTEXT: Scripts/RPG::Skill (message)/774:14 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/900:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/774:14
+> CONTEXT: Scripts/RPG::Skill (message)/900:18
+"\#{myname} is fascinated by \#{target}...\\\\w[\\\\v[104]] "
 > END STRING
 
 > BEGIN STRING
 "\#{myname}はボッとしている……\\\\w[\\\\v[104]]　"
-> CONTEXT: Scripts/RPG::Skill (message)/775:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/775:14
+"\#{myname} is spacing out...\\\\w[\\\\v[104]] "
 > END STRING
 
 > BEGIN STRING
 "\#{myname}はあたふたしている！\\\\w[\\\\v[104]]　"
-> CONTEXT: Scripts/RPG::Skill (message)/776:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/776:14
+"\#{myname} is in panic!\\\\w[\\\\v[104]] "
 > END STRING
 
 > BEGIN STRING
@@ -17494,25 +17494,25 @@
 > BEGIN STRING
 "\#{myname}は\\\\c[3] \#{item.name} \\\\c[0]を食べた！\\n\\\\w[\\\\v[105]]"
 > CONTEXT: Scripts/RPG::Skill (message)/830:20 < UNTRANSLATED
-
+"\#{myname} ate\\\\c[3] \#{item.name} \\\\c[0]!\\n\\\\w[\\\\v[105]]"
 > END STRING
 
 > BEGIN STRING
 "しかしあまりおいしくなかった……\\\\w[\\\\v[105]]　"
 > CONTEXT: Scripts/RPG::Skill (message)/831:20 < UNTRANSLATED
-
+"But it wasn't very tasty...\\\\w[\\\\v[105]] "
 > END STRING
 
 > BEGIN STRING
 "\#{myname}は\\\\c[3] \#{item.name} \\\\c[0]を\\n一気に飲み干した！\\n\\\\w[\\\\v[105]]"
-> CONTEXT: Scripts/RPG::Skill (message)/853:20 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/853:20
+"\#{myname} drank\\\\c[3] \#{item.name} \\\\c[0]\\nin one gulp!\\n\\\\w[\\\\v[105]]"
 > END STRING
 
 > BEGIN STRING
 "\#{myname}は酔っ払ってしまった！\\\\w[\\\\v[105]]　"
-> CONTEXT: Scripts/RPG::Skill (message)/854:20 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/854:20
+"\#{myname} is drunk!\\\\w[\\\\v[105]] "
 > END STRING
 
 > BEGIN STRING
@@ -17607,32 +17607,32 @@
 
 > BEGIN STRING
 "\#{myname}は\#{target}の\#{a[rand(a.size)]}を責めた！\\n\\\\w[\\\\v[105]]"
-> CONTEXT: Scripts/RPG::Skill (message)/895:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/895:18
+"\#{myname} attacked \#{target}'s \#{a[rand(a.size)]}!\\n\\\\w[\\\\v[105]]"
 > END STRING
 
 > BEGIN STRING
 "しかし手先がおぼつかない！"
-> CONTEXT: Scripts/RPG::Skill (message)/896:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/896:18
+"But hands are too shaky!"
 > END STRING
 
 > BEGIN STRING
 "\#{myname}は少し気分が悪くなってきた……\\\\w[\\\\v[104]]　"
-> CONTEXT: Scripts/RPG::Skill (message)/904:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/904:18
+"\#{myname} is starting to feel a bit sick...\\\\w[\\\\v[104]] "
 > END STRING
 
 > BEGIN STRING
 "\#{myname}は酔っ払っている！\\\\w[\\\\v[104]]　"
-> CONTEXT: Scripts/RPG::Skill (message)/907:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/907:18
+"\#{myname} is drunk!\\\\w[\\\\v[104]] "
 > END STRING
 
 > BEGIN STRING
 "\#{myname}はいきなりエキサイトしはじめた！\\\\w[\\\\v[104]]　"
-> CONTEXT: Scripts/RPG::Skill (message)/911:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/911:18
+"\#{myname} suddenly started to get excited!\\\\w[\\\\v[104]] "
 > END STRING
 
 > BEGIN STRING

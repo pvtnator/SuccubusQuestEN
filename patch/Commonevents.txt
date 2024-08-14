@@ -325,7 +325,8 @@
 「はあ………
 　なかなか\\dかけら\\dが手に入らないわね……
 > CONTEXT: Commonevents/23/216/Dialogue < UNTRANSLATED
-
+「Haa...
+　It's hard to get hold of the \\dfragments\\d...
 > END STRING
 
 > BEGIN STRING
@@ -686,7 +687,7 @@ Summon a succubus from the \\c[4]Night Picture Book\\c[0]?
 > BEGIN STRING
 \\a[\\v[105]]\\n[1]は不意をつかれた！
 > CONTEXT: Commonevents/34/47/Dialogue < UNTRANSLATED
-
+\\a[\\v[105]]\\n[1] was caught off guard!
 > END STRING
 
 > BEGIN STRING

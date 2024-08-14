@@ -2716,8 +2716,9 @@ EV_ジャブジャブ
 > BEGIN STRING
 「…ウザいんだよ………
 　とっととイっちまいなよ、ザコめっ！
-> CONTEXT: Troops/311/pages/0/17/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/311/pages/0/17/Dialogue
+「...Annoying...
+　Just hurry up and get it done, you loser!
 > END STRING
 
 > BEGIN STRING
@@ -2728,8 +2729,8 @@ EV_ジャバウォック
 
 > BEGIN STRING
 「アオオオォォォォォンッ！
-> CONTEXT: Troops/312/pages/0/15/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/312/pages/0/15/Dialogue
+「Awoooooooooo!
 > END STRING
 
 > BEGIN STRING
