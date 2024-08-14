@@ -7,14 +7,16 @@ def replace_strings_in_files(folder_path, mod_path, replace_dict):
             with open(os.path.join(folder_path, filename), 'rb') as file:
                 content = file.read()
 
-            utf8_parts = re.findall(rb'\(\"[^\$]{3,30}\"\)', content)
-            utf8_parts += re.findall(rb'== \"[^\$]{3,30}\"', content)
+            utf8_parts = re.findall(rb'\(\"[^\$\"]{3,30}\"\)', content)
+            utf8_parts += re.findall(rb'== \"[^\$\"]{3,30}\"', content)
             replaced = False
 
             savedspot = -1
             saveddiff = 0
 
             for part in utf8_parts:
+                if "メローナ" in part.decode():
+                    print(part.decode())
                 replacement = replace_dict.get(part)
                 if replacement:
                     diff = len(part)-len(replace_dict[part])

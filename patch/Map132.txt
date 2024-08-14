@@ -1,80 +1,86 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 "バンッダースナッチ"
-> CONTEXT: Map132/events/1/pages/0/14/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map133/events/35/pages/0/16/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map133/events/35/pages/0/21/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map132/events/8/pages/0/14/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map133/events/35/pages/0/34/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map132/events/9/pages/0/14/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map132/events/1/pages/0/14/InlineScript/1:4
+> CONTEXT: Map133/events/35/pages/0/16/InlineScript/1:4
+> CONTEXT: Map133/events/35/pages/0/21/InlineScript/1:4
+> CONTEXT: Map132/events/8/pages/0/14/InlineScript/1:4
+> CONTEXT: Map133/events/35/pages/0/34/InlineScript/1:4
+> CONTEXT: Map132/events/9/pages/0/14/InlineScript/1:4
+"Bandersnatch"
 > END STRING
 
 > BEGIN STRING
 「どうするニャ～？
 　もうすぐご主人様のいる場所に
 　着いちゃうニャ～～
-> CONTEXT: Map132/events/1/pages/0/15/Dialogue < UNTRANSLATED
-> CONTEXT: Map132/events/8/pages/0/15/Dialogue < UNTRANSLATED
-> CONTEXT: Map132/events/9/pages/0/15/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map132/events/1/pages/0/15/Dialogue
+> CONTEXT: Map132/events/8/pages/0/15/Dialogue
+> CONTEXT: Map132/events/9/pages/0/15/Dialogue
+「What should we do? 
+　We'll soon arrive 
+　at where Master is~~
 > END STRING
 
 > BEGIN STRING
 「ここでヤっちゃおっかニャ～？
-> CONTEXT: Map132/events/1/pages/0/18/Dialogue < UNTRANSLATED
-> CONTEXT: Map132/events/8/pages/0/18/Dialogue < UNTRANSLATED
-> CONTEXT: Map132/events/9/pages/0/18/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map132/events/1/pages/0/18/Dialogue
+> CONTEXT: Map132/events/8/pages/0/18/Dialogue
+> CONTEXT: Map132/events/9/pages/0/18/Dialogue
+「Should we do it here~?
 > END STRING
 
 > BEGIN STRING
 「いいえ、ご主人様の命令なしに
 　私たちがヤるのはマズいわ……
-> CONTEXT: Map132/events/1/pages/0/20/Dialogue < UNTRANSLATED
-> CONTEXT: Map132/events/8/pages/0/20/Dialogue < UNTRANSLATED
-> CONTEXT: Map132/events/9/pages/0/20/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map132/events/1/pages/0/20/Dialogue
+> CONTEXT: Map132/events/8/pages/0/20/Dialogue
+> CONTEXT: Map132/events/9/pages/0/20/Dialogue
+「No, it would be bad 
+　for us to do it 
+　without Master's orders...
 > END STRING
 
 > BEGIN STRING
 「そうね、ワナを仕掛けましょう。
-> CONTEXT: Map132/events/1/pages/0/22/Dialogue < UNTRANSLATED
-> CONTEXT: Map132/events/8/pages/0/22/Dialogue < UNTRANSLATED
-> CONTEXT: Map132/events/9/pages/0/22/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map132/events/1/pages/0/22/Dialogue
+> CONTEXT: Map132/events/8/pages/0/22/Dialogue
+> CONTEXT: Map132/events/9/pages/0/22/Dialogue
+「Well, let's set a trap.
 > END STRING
 
 > BEGIN STRING
 「これでイっちゃうようなら、
 　ご主人様が気にかけるような人間じゃ
 　なかったってことよ。
-> CONTEXT: Map132/events/1/pages/0/23/Dialogue < UNTRANSLATED
-> CONTEXT: Map132/events/8/pages/0/23/Dialogue < UNTRANSLATED
-> CONTEXT: Map132/events/9/pages/0/23/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map132/events/1/pages/0/23/Dialogue
+> CONTEXT: Map132/events/8/pages/0/23/Dialogue
+> CONTEXT: Map132/events/9/pages/0/23/Dialogue
+「If that makes him cum, 
+　then he's not the kind of person 
+　master cares about.
 > END STRING
 
 > BEGIN STRING
 「グルルルル……
-> CONTEXT: Map132/events/1/pages/0/27/Dialogue < UNTRANSLATED
-> CONTEXT: Map132/events/8/pages/0/27/Dialogue < UNTRANSLATED
-> CONTEXT: Map132/events/9/pages/0/27/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map132/events/1/pages/0/27/Dialogue
+> CONTEXT: Map132/events/8/pages/0/27/Dialogue
+> CONTEXT: Map132/events/9/pages/0/27/Dialogue
+「Grrrr...
 > END STRING
 
 > BEGIN STRING
 「こっちへ流されちゃいなさい……
-> CONTEXT: Map132/events/1/pages/0/38/Dialogue < UNTRANSLATED
-> CONTEXT: Map132/events/8/pages/0/38/Dialogue < UNTRANSLATED
-> CONTEXT: Map132/events/9/pages/0/38/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map132/events/1/pages/0/38/Dialogue
+> CONTEXT: Map132/events/8/pages/0/38/Dialogue
+> CONTEXT: Map132/events/9/pages/0/38/Dialogue
+「If you get carried over here...
 > END STRING
 
 > BEGIN STRING
 「食べてあげるわよ……\\e[0]
-> CONTEXT: Map132/events/1/pages/0/42/Dialogue < UNTRANSLATED
-> CONTEXT: Map132/events/8/pages/0/42/Dialogue < UNTRANSLATED
-> CONTEXT: Map132/events/9/pages/0/42/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map132/events/1/pages/0/42/Dialogue
+> CONTEXT: Map132/events/8/pages/0/42/Dialogue
+> CONTEXT: Map132/events/9/pages/0/42/Dialogue
+「I'll eat you up...\\e[0]
 > END STRING

@@ -2,55 +2,58 @@
 > BEGIN STRING
 「全然引っかかってないニャ～
 　スゴイニャ～～
-> CONTEXT: Map133/events/35/pages/0/17/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map133/events/35/pages/0/17/Dialogue
+「Not stuck at all meow~ 
+　Amazing meow~
 > END STRING
 
 > BEGIN STRING
 「うぅ………
-> CONTEXT: Map133/events/35/pages/0/20/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map133/events/35/pages/0/20/Dialogue
+「Uuh...
 > END STRING
 
 > BEGIN STRING
 「…ご主人サマに任せよっかニャぁ？
-> CONTEXT: Map133/events/35/pages/0/22/Dialogue < UNTRANSLATED
-> CONTEXT: Map133/events/35/pages/0/36/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map133/events/35/pages/0/22/Dialogue
+> CONTEXT: Map133/events/35/pages/0/36/Dialogue
+「...Should we leave him to master?
 > END STRING
 
 > BEGIN STRING
 「それに…ほら……
 　そろそろアレ欲しいニャ…\\e[0]
-> CONTEXT: Map133/events/35/pages/0/23/Dialogue < UNTRANSLATED
-> CONTEXT: Map133/events/35/pages/0/37/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map133/events/35/pages/0/23/Dialogue
+> CONTEXT: Map133/events/35/pages/0/37/Dialogue
+「And you know what... 
+　I want him now...\\e[0]
 > END STRING
 
 > BEGIN STRING
 「そうね…アタシも……
 　…欲しくなってきちゃった……
-> CONTEXT: Map133/events/35/pages/0/26/Dialogue < UNTRANSLATED
-> CONTEXT: Map133/events/35/pages/0/40/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map133/events/35/pages/0/26/Dialogue
+> CONTEXT: Map133/events/35/pages/0/40/Dialogue
+「Yeah... I want too...
+　...I'm starting to want...
 > END STRING
 
 > BEGIN STRING
 「…ご主人様のところへいきましょ。
-> CONTEXT: Map133/events/35/pages/0/28/Dialogue < UNTRANSLATED
-> CONTEXT: Map133/events/35/pages/0/42/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map133/events/35/pages/0/28/Dialogue
+> CONTEXT: Map133/events/35/pages/0/42/Dialogue
+「Let's go to master.
 > END STRING
 
 > BEGIN STRING
 「アォンッ\\e[0]
-> CONTEXT: Map133/events/35/pages/0/30/Dialogue < UNTRANSLATED
-> CONTEXT: Map133/events/35/pages/0/44/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map133/events/35/pages/0/30/Dialogue
+> CONTEXT: Map133/events/35/pages/0/44/Dialogue
+「Aohh\\e[0]
 > END STRING
 
 > BEGIN STRING
 「無事通り抜けたニャぁ～
-> CONTEXT: Map133/events/35/pages/0/35/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map133/events/35/pages/0/35/Dialogue
+「He got through safely meow~
 > END STRING

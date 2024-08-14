@@ -785,14 +785,14 @@ Viper Carpaccio
 
 > BEGIN STRING
 スコピオロースト
-> CONTEXT: Items/117/name/ < UNTRANSLATED
-
+> CONTEXT: Items/117/name/
+Scorpio Roast
 > END STRING
 
 > BEGIN STRING
 〔食事〕 生きたサソリを石釜でパリッと歯ごたえ良く焼いた料理
-> CONTEXT: Items/117/description/ < UNTRANSLATED
-
+> CONTEXT: Items/117/description/
+[Food] Scorpions cooked in a stone oven until crispy and chewy
 > END STRING
 
 > BEGIN STRING

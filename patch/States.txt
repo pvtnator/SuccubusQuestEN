@@ -2043,7 +2043,7 @@ Milky Silky
 
 > BEGIN STRING
 サマーノーブル
-> CONTEXT: States/508/name/ < UNTRANSLATED
+> CONTEXT: States/508/name/
 Summer Noble
 > END STRING
 

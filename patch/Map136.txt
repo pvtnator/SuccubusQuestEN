@@ -1,243 +1,267 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 「久しぶりだな、\\n[1]。
-> CONTEXT: Map136/events/1/pages/0/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map136/events/1/pages/0/5/Dialogue
+「It's been a while, \\n[1].
 > END STRING
 
 > BEGIN STRING
 「いずれ俺の方から行くつもりだったが……
-> CONTEXT: Map136/events/1/pages/0/59/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map136/events/1/pages/0/59/Dialogue
+「I was to go ahead but...
 > END STRING
 
 > BEGIN STRING
 「お前が先にここに来るとはな。
-> CONTEXT: Map136/events/1/pages/0/60/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map136/events/1/pages/0/60/Dialogue
+「I didn't expect you to come here first.
 > END STRING
 
 > BEGIN STRING
 「こんなところに何の用だ？
 　花でも摘みに来たか？
-> CONTEXT: Map136/events/1/pages/0/61/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map136/events/1/pages/0/61/Dialogue
+「What are you doing here? 
+　Have you come to pick some flowers?
 > END STRING
 
 > BEGIN STRING
 「当ててやるぜ。
 　どうせまた見ず知らずの誰かに頼まれて、
 　のこのこお使いにでも来たんだろ。
-> CONTEXT: Map136/events/1/pages/0/63/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map136/events/1/pages/0/63/Dialogue
+「I'll guess.
+　You're probably just running an errand 
+　for some complete stranger.
 > END STRING
 
 > BEGIN STRING
 「さらわれたオリビアもほったらかしてな。
-> CONTEXT: Map136/events/1/pages/0/66/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map136/events/1/pages/0/66/Dialogue
+「Leaving Olivia alone when she gets kidnapped.
 > END STRING
 
 > BEGIN STRING
 「…あなた、\\n[1]が魔王を倒した時
 　一緒にいた戦士よね。
-> CONTEXT: Map136/events/1/pages/0/91/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map136/events/1/pages/0/91/Dialogue
+「...You're the warrior who was with \\n[1] 
+　when he defeated the Demon Lord, right?
 > END STRING
 
 > BEGIN STRING
 「あなたこそ何でこんなところに……
-> CONTEXT: Map136/events/1/pages/0/93/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map136/events/1/pages/0/93/Dialogue
+「Why are you here in this kind of place...
 > END STRING
 
 > BEGIN STRING
 「だけどな、\\n[1]。
-> CONTEXT: Map136/events/1/pages/0/96/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map136/events/1/pages/0/96/Dialogue
+"But, \\n[1].
 > END STRING
 
 > BEGIN STRING
 「もういいぜ。
 　お前はもう旅を続けなくてもよ。
-> CONTEXT: Map136/events/1/pages/0/103/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map136/events/1/pages/0/103/Dialogue
+「That's enough. 
+　You don't have to continue your journey anymore.
 > END STRING
 
 > BEGIN STRING
 「くだらないお使いも、
 　魔物退治も、
 　お姫様を助けるのも、もういいんだ。
-> CONTEXT: Map136/events/1/pages/0/105/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map136/events/1/pages/0/105/Dialogue
+「I've had enough of running silly errands, 
+　defeating monsters, and rescuing princesses.
 > END STRING
 
 > BEGIN STRING
 「\\d勇者サマ\\dの役目はもう終わりだ。
 　後は………
-> CONTEXT: Map136/events/1/pages/0/108/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map136/events/1/pages/0/108/Dialogue
+「Your role as \\dthe Hero\\d is now over.
+　Next...
 > END STRING
 
 > BEGIN STRING
 「俺がやってやるからよッ！！
-> CONTEXT: Map136/events/1/pages/0/135/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map136/events/1/pages/0/135/Dialogue
+「I'll be the one!!
 > END STRING
 
 > BEGIN STRING
 「ガオォォンッ！
-> CONTEXT: Map136/events/1/pages/0/139/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map136/events/1/pages/0/139/Dialogue
+「Gaooow!
 > END STRING
 
 > BEGIN STRING
 「ニャぉんっ！
-> CONTEXT: Map136/events/1/pages/0/141/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map136/events/1/pages/0/141/Dialogue
+「Meow!
 > END STRING
 
 > BEGIN STRING
 「何言ってるの！？
 　あなた\\n[1]の仲間でしょ！？
-> CONTEXT: Map136/events/1/pages/0/145/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map136/events/1/pages/0/145/Dialogue
+「What are you talking about?! 
+　You're one of \\n[1]'s friends, right?!
 > END STRING
 
 > BEGIN STRING
 「夢魔にあやつられてるのねっ！
-> CONTEXT: Map136/events/1/pages/0/147/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map136/events/1/pages/0/147/Dialogue
+「You're being controlled by succubi!
 > END STRING
 
 > BEGIN STRING
 「うるせえッ！！
-> CONTEXT: Map136/events/1/pages/0/151/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map136/events/1/pages/0/151/Dialogue
+「Shut up!!
 > END STRING
 
 > BEGIN STRING
 「…\\n[1]………
-> CONTEXT: Map136/events/1/pages/0/152/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map136/events/1/pages/0/152/Dialogue
+「..\\n[1]...
 > END STRING
 
 > BEGIN STRING
 「オリビアは………
-> CONTEXT: Map136/events/1/pages/0/153/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map136/events/1/pages/0/153/Dialogue
+「Olivia....
 > END STRING
 
 > BEGIN STRING
 「ラウムでオリビアは…
 　…お前に会いに来たんだ……
-> CONTEXT: Map136/events/1/pages/0/154/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map136/events/1/pages/0/154/Dialogue
+「Olivia came to Raum...
+　...to see you...
 > END STRING
 
 > BEGIN STRING
 「お前を愛するために、
 　夢魔の支配から抜け出してきたんだッ！
-> CONTEXT: Map136/events/1/pages/0/156/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map136/events/1/pages/0/156/Dialogue
+「She escaped from 
+　the control of the succubus 
+　in order to love you!
 > END STRING
 
 > BEGIN STRING
 「それが何だてめえはッ！
 　一度抱いておきながら
 　簡単に逃げられやがってッ！！
-> CONTEXT: Map136/events/1/pages/0/158/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map136/events/1/pages/0/158/Dialogue
+「So what do you mean?! 
+　You held her once, 
+　and then you're off again!!
 > END STRING
 
 > BEGIN STRING
 「お前が守れないなら、
 　オリビアは俺が守るッ！
-> CONTEXT: Map136/events/1/pages/0/161/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map136/events/1/pages/0/161/Dialogue
+「If you can't protect her, 
+　then I will protect Olivia!
 > END STRING
 
 > BEGIN STRING
 「軟弱な勇者サマには
 　もう任せておけねえんだよッ！！
-> CONTEXT: Map136/events/1/pages/0/163/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map136/events/1/pages/0/163/Dialogue
+「I can't leave it 
+　to a weak hero anymore!!
 > END STRING
 
 > BEGIN STRING
 「それに、俺があやつられてるだと？
-> CONTEXT: Map136/events/1/pages/0/171/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map136/events/1/pages/0/171/Dialogue
+「And you say I'm being manipulated?
 > END STRING
 
 > BEGIN STRING
 「逆だ！
 　俺が支配してるのさ！
-> CONTEXT: Map136/events/1/pages/0/172/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map136/events/1/pages/0/172/Dialogue
+「It's the opposite! 
+　I'm in control!
 > END STRING
 
 > BEGIN STRING
 「ご主人様ぁ……
-> CONTEXT: Map136/events/1/pages/0/184/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map136/events/1/pages/0/184/Dialogue
+「Master...
 > END STRING
 
 > BEGIN STRING
 「早く……アレ……
 　ください…………
-> CONTEXT: Map136/events/1/pages/0/185/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map136/events/1/pages/0/185/Dialogue
+「Hurry...give me...
+　that...
 > END STRING
 
 > BEGIN STRING
 「…\\c[4]魔王のかけら\\c[0]！？
-> CONTEXT: Map136/events/1/pages/0/192/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map136/events/1/pages/0/192/Dialogue
+「...\\c[4]Demon Lord Shard\\c[0]!?
 > END STRING
 
 > BEGIN STRING
 「……あの時、
 　魔王が砕け散った時、
-> CONTEXT: Map136/events/1/pages/0/199/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map136/events/1/pages/0/199/Dialogue
+「...At that time,
+　when the Demon Lord was shattered,
 > END STRING
 
 > BEGIN STRING
 「\\dかけら\\dを手に入れたのは、
 　\\n[1]、
 　お前だけじゃないんだぜ！
-> CONTEXT: Map136/events/1/pages/0/201/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map136/events/1/pages/0/201/Dialogue
+「You're not the only one,
+　\\n[1],
+　who got a shard!
 > END STRING
 
 > BEGIN STRING
 「それもお前みたいに、
 　まどろっこしいやり方しか
 　できない力じゃねえ。
-> CONTEXT: Map136/events/1/pages/0/204/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map136/events/1/pages/0/204/Dialogue
+「And it's not a power 
+　that can only be used 
+　in a roundabout way like yours.
 > END STRING
 
 > BEGIN STRING
 「どんな夢魔でも
 　俺に従えさせる力……
-> CONTEXT: Map136/events/1/pages/0/207/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map136/events/1/pages/0/207/Dialogue
+「The power to make any succubus obey me...
 > END STRING
 
 > BEGIN STRING
 「『槍』のかけら、
 　\\c[4]グングニル\\c[0]ッ！！
-> CONTEXT: Map136/events/1/pages/0/221/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map136/events/1/pages/0/221/Dialogue
+「The 'Spear' fragment,
+　\\c[4]Gungnir\\c[0]!!
 > END STRING
 
 > BEGIN STRING
 「襲え、夢魔ども！
 　あいつの\\dかけら\\dを奪えッ！！
-> CONTEXT: Map136/events/1/pages/0/223/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map136/events/1/pages/0/223/Dialogue
+「Attack, succubi! 
+　Take away his \\dshards\\d!!
 > END STRING
 
 > BEGIN STRING
@@ -322,12 +346,13 @@
 > BEGIN STRING
 「……誰かいるわ………
 　…………でも夢魔じゃない………
-> CONTEXT: Map136/events/3/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map136/events/3/pages/0/4/Dialogue
+「...There's someone here...
+　.....But it's not a succubus...
 > END STRING
 
 > BEGIN STRING
 「人間………？
-> CONTEXT: Map136/events/3/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map136/events/3/pages/0/6/Dialogue
+「A human...?
 > END STRING

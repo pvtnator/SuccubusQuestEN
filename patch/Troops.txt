@@ -2687,15 +2687,16 @@ EV_バンダースナッチ
 
 > BEGIN STRING
 「いちばんのりだニャ～っ♪
-> CONTEXT: Troops/310/pages/0/15/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/310/pages/0/15/Dialogue
+「This is the best ride meow♪
 > END STRING
 
 > BEGIN STRING
 「ちゃっちゃと終わらせて、
 　いっぱいご褒美もらっちゃうニャぁ\\e[0]
-> CONTEXT: Troops/310/pages/0/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/310/pages/0/16/Dialogue
+「Let's finish it quickly 
+　and get lots of rewards\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -2707,8 +2708,9 @@ EV_ジャブジャブ
 > BEGIN STRING
 「……早く…………
 　………欲しいのに………
-> CONTEXT: Troops/311/pages/0/15/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/311/pages/0/15/Dialogue
+「...Hurry... 
+　...I want it....
 > END STRING
 
 > BEGIN STRING

@@ -165,38 +165,38 @@ Empusa/16/L/0100000/41
 
 > BEGIN STRING
 デルフィネ/17/L/0100010/43
-> CONTEXT: Enemies/46/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/46/name/
+Delfin/17/L/0100010/43
 > END STRING
 
 > BEGIN STRING
 アルケニー/18/N/0100010/46
-> CONTEXT: Enemies/47/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/47/name/
+Arachne/18/N/0100010/46
 > END STRING
 
 > BEGIN STRING
 スフィンクス/17/E/0010010/44
-> CONTEXT: Enemies/48/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/48/name/
+Sphinx/17/E/0010010/44
 > END STRING
 
 > BEGIN STRING
 ケットシー/19/E/0010010/44
-> CONTEXT: Enemies/51/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/51/name/
+Cait Sith/19/E/0010010/44
 > END STRING
 
 > BEGIN STRING
 セイレーン/19/I/0100100/44
-> CONTEXT: Enemies/52/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/52/name/
+Siren/19/I/0100100/44
 > END STRING
 
 > BEGIN STRING
 リャナンシー/20/H/0011000/47
-> CONTEXT: Enemies/53/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/53/name/
+Leananci/20/H/0011000/47
 > END STRING
 
 > BEGIN STRING
@@ -404,27 +404,27 @@ Rocco-Barocco/15/X09/0010020/42
 
 > BEGIN STRING
 ジャバウォック/19/F/0100020/48
-> CONTEXT: Enemies/114/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/114/name/
+Jabberwocky/19/F/0100020/48
 > END STRING
 
 > BEGIN STRING
 バンダースナッチ/19/E/0010000/47
-> CONTEXT: Enemies/115/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/115/name/
+Bandersnatch/19/E/0010000/47
 > END STRING
 
 > BEGIN STRING
 ジャブジャブ/19/I/1100100/48
-> CONTEXT: Enemies/116/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/116/name/
+Jabjab/19/I/1100100/48
 > END STRING
 
 > BEGIN STRING
 リン/28/X17/1100000/55
-> CONTEXT: Enemies/117/name/ < UNTRANSLATED
-> CONTEXT: Enemies/217/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/117/name/
+> CONTEXT: Enemies/217/name/
+Rin/28/X17/1100000/55
 > END STRING
 
 > BEGIN STRING

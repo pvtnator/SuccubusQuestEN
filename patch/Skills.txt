@@ -976,11 +976,11 @@ Etherfuni
 
 > BEGIN STRING
 リスティル
-> CONTEXT: Skills/134/name/ < UNTRANSLATED
-> CONTEXT: Skills/310/name/ < UNTRANSLATED
-> CONTEXT: Commonevents/150/279/Choice/0 < UNTRANSLATED
-> CONTEXT: Commonevents/153/282/Choice/2 < UNTRANSLATED
-
+> CONTEXT: Skills/134/name/
+> CONTEXT: Skills/310/name/
+> CONTEXT: Commonevents/150/279/Choice/0
+> CONTEXT: Commonevents/153/282/Choice/2
+Listil
 > END STRING
 
 > BEGIN STRING
@@ -992,8 +992,8 @@ Etherfuni
 
 > BEGIN STRING
 ファル・リスティル
-> CONTEXT: Skills/135/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/135/name/
+Far: Listil
 > END STRING
 
 > BEGIN STRING
@@ -1471,10 +1471,10 @@ EP回復+精神力回復
 
 > BEGIN STRING
 ドルンバ
-> CONTEXT: Skills/241/name/ < UNTRANSLATED
-> CONTEXT: Commonevents/150/407/Choice/2 < UNTRANSLATED
-> CONTEXT: Commonevents/153/410/Choice/2 < UNTRANSLATED
-
+> CONTEXT: Skills/241/name/
+> CONTEXT: Commonevents/150/407/Choice/2
+> CONTEXT: Commonevents/153/410/Choice/2
+Dorumba
 > END STRING
 
 > BEGIN STRING
@@ -2005,8 +2005,8 @@ EP回復(大)
 
 > BEGIN STRING
 ハパピィ
-> CONTEXT: Skills/318/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/318/name/
+Hapapi
 > END STRING
 
 > BEGIN STRING
@@ -2128,8 +2128,8 @@ Far: Sigilgun
 
 > BEGIN STRING
 ワインドウェッブ
-> CONTEXT: Skills/332/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/332/name/
+Windweb
 > END STRING
 
 > BEGIN STRING
@@ -2198,9 +2198,9 @@ Far: Sigilgun
 
 > BEGIN STRING
 リドル
-> CONTEXT: Skills/341/name/ < UNTRANSLATED
-> CONTEXT: Skills/358/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/341/name/
+> CONTEXT: Skills/358/name/
+Riddle
 > END STRING
 
 > BEGIN STRING
@@ -2217,10 +2217,10 @@ Far: Sigilgun
 
 > BEGIN STRING
 ワンダートリップ
-> CONTEXT: Skills/343/name/ < UNTRANSLATED
-> CONTEXT: Skills/344/name/ < UNTRANSLATED
-> CONTEXT: Skills/345/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/343/name/
+> CONTEXT: Skills/344/name/
+> CONTEXT: Skills/345/name/
+Wondertrip
 > END STRING
 
 > BEGIN STRING
@@ -3316,9 +3316,9 @@ Journey to Heaven
 
 > BEGIN STRING
 インビテーション
-> CONTEXT: Skills/659/name/ < UNTRANSLATED
-> CONTEXT: Skills/677/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/659/name/
+> CONTEXT: Skills/677/name/
+Invitation
 > END STRING
 
 > BEGIN STRING
