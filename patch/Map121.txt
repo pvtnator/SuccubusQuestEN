@@ -60,42 +60,48 @@
 > BEGIN STRING
 「これは、リスヴェグ魔導院が開発した
 　テレポーターという装置です。
-> CONTEXT: Map121/events/30/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map121/events/30/pages/0/1/Dialogue
+「This is a device called a teleporter, 
+　developed by the Lisveg Academy.
 > END STRING
 
 > BEGIN STRING
 「短い距離なら、僅かな魔力で
 　決まった場所まで瞬間移動することができます。
-> CONTEXT: Map121/events/30/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map121/events/30/pages/0/3/Dialogue
+「If it's a short distance, 
+　you can teleport to a specific location 
+　with just a small amount of magical power.
 > END STRING
 
 > BEGIN STRING
 「グルッペンから来たの？
 　最近珍しいわね。
-> CONTEXT: Map121/events/31/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map121/events/31/pages/0/1/Dialogue
+「You're from Gruppen? 
+　That's rare these days.
 > END STRING
 
 > BEGIN STRING
 「ここはリスヴェグの港町ポッパナ。
 　ゆっくりしていってね。
-> CONTEXT: Map121/events/31/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map121/events/31/pages/0/3/Dialogue
+「This is Poppana, the port town of Lisveg.
+　Make yourself comfortable.
 > END STRING
 
 > BEGIN STRING
 「うーん、なんだか……
-> CONTEXT: Map121/events/31/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map121/events/31/pages/1/1/Dialogue
+「Hmm, somehow...
 > END STRING
 
 > BEGIN STRING
 「急に浜辺でお昼寝とかしたい気分……
 　ふぁ………
-> CONTEXT: Map121/events/31/pages/1/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map121/events/31/pages/1/2/Dialogue
+「I suddenly feel like taking a nap on the beach...
+　Ahh...
 > END STRING
 
 > BEGIN STRING
@@ -113,28 +119,33 @@
 「見ちまったんだ。
 　赤い翼の魔物が、海を渡って
 　飛んでくるのを。
-> CONTEXT: Map121/events/35/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map121/events/35/pages/0/1/Dialogue
+「I saw a red-winged demon 
+　flying across the sea.
 > END STRING
 
 > BEGIN STRING
 「アレが夢魔ってやつか？
 　男を一人抱えてたぜ。
-> CONTEXT: Map121/events/35/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map121/events/35/pages/0/4/Dialogue
+「Was it a succubus?
+　It was holding a man.
 > END STRING
 
 > BEGIN STRING
 「例の赤い翼の魔物が、
 　また男を抱えて飛んでるのを見たぜ。
-> CONTEXT: Map121/events/35/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map121/events/35/pages/1/1/Dialogue
+「I saw that red-winged demon flying again,
+　carrying a man in its arms.
 > END STRING
 
 > BEGIN STRING
 「俺もいつかあんな風に
 　連れ去られちまうんだろうか……
 　ブルッ！
-> CONTEXT: Map121/events/35/pages/1/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map121/events/35/pages/1/3/Dialogue
+「I wonder if one day 
+　I too will be kidnapped like that... 
+　Brrrr!
 > END STRING

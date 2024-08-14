@@ -15,7 +15,7 @@ SQ_MiniGame
 > CONTEXT: Map342/events/1/pages/0/9/Dialogue
 > CONTEXT: Map326/events/1/pages/0/10/Dialogue
 > CONTEXT: Map056/events/1/pages/0/8/Dialogue
-"Aah☆
+「Aah☆
 　Here!
 > END STRING
 

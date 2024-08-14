@@ -125,7 +125,7 @@ Mermaid's Den
 　それじゃきっと一緒の船だ。
 > CONTEXT: Map065/events/20/pages/1/48/Dialogue
 > CONTEXT: Map065/events/20/pages/1/143/Dialogue
-「What, you guys going to Lisveig too?
+「What, you guys going to Lisveg too?
 　Then we must be on the same ship.
 > END STRING
 

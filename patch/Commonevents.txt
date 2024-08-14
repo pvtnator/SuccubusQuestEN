@@ -1174,23 +1174,26 @@ pours into \\n[1]!
 
 > BEGIN STRING
 \\a[\\v[105]]「あ…、イった……？
-> CONTEXT: Commonevents/52/319/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/319/Dialogue
+\\a[\\v[105]]「Ah...you came...?
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「えっと…勝った？
 \\w[\\v[104]]　勇者に勝ったのねっ！？
-> CONTEXT: Commonevents/52/320/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/320/Dialogue
+\\a[\\v[105]]「Um... we won?
+\\w[\\v[104]]　We defeated the hero!?
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「ざまあみなさいっ！
 \\a[\\v[104]]　アタシたちの実力にかかれば、
 　アンタなんてこんなもんよっ！\\a[\\v[104]]
-> CONTEXT: Commonevents/52/322/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/322/Dialogue
+\\a[\\v[105]]「Serves you right!
+\\a[\\v[104]]　Against our abilities,
+　you're nothing!\\a[\\v[104]]
 > END STRING
 
 > BEGIN STRING
@@ -1509,7 +1512,7 @@ pours into \\n[1]!
 魔王のかけらが微かに反応している……
 \\c[4]夢の指輪\\c[0]を手に入れられるかも知れない
 > CONTEXT: Commonevents/109/23/Dialogue
-Demon Lord shard is reacting faintly...
+Demon Lord Shard is reacting faintly...
 You may be able to obtain the \\c[4]Dream Ring\\c[0]
 > END STRING
 
@@ -1611,7 +1614,7 @@ You may be able to obtain the \\c[4]Dream Ring\\c[0]
 \\a[\\v[105]]\\n[28]のEPが \\b\\v[1]\\f 回復した！
 \\w[\\v[105]]\\n[28]のテンションが上がった！
 > CONTEXT: Commonevents/112/20/Dialogue
-\\a[\\v[105]]\\n[28]'s EP recovered by \\b[\\v[1]\\f 
+\\a[\\v[105]]\\n[28]'s EP recovered by \\b\\v[1]\\f 
 \\w[\\v[105]]\\n[28]'s tension increased!
 > END STRING
 
@@ -1781,8 +1784,8 @@ became a plaything!\\w[\\v[104]]
 
 > BEGIN STRING
 \\a[\\v[105]]「ね、きてぇ……\\e[0]
-> CONTEXT: Commonevents/132/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/132/1/Dialogue
+\\a[\\v[105]]「Hey, come...\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -1867,216 +1870,234 @@ took off \\n[27]'s clothes off!
 
 > BEGIN STRING
 \\a[\\v[105]]\\n[1]のテンションが奪われた！
-> CONTEXT: Commonevents/139/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/139/6/Dialogue
+\\a[\\v[105]]\\n[1]'s tension was stolen!
 > END STRING
 
 > BEGIN STRING
 「リズ・ラズ！ ロッコ・バロッコ！
 　準備はいい！？
-> CONTEXT: Commonevents/140/22/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/140/22/Dialogue
+「Liz-Raz! Rocco-Barocco! 
+　Ready!?
 > END STRING
 
 > BEGIN STRING
 「例のやつ、いくわよっ！
-> CONTEXT: Commonevents/140/24/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/140/24/Dialogue
+「That guy, let's do it!
 > END STRING
 
 > BEGIN STRING
 「さあ！
 　やっておしまいっ！
-> CONTEXT: Commonevents/140/28/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/141/27/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/140/28/Dialogue
+> CONTEXT: Commonevents/141/27/Dialogue
+「Now!
+　Let's do it!
 > END STRING
 
 > BEGIN STRING
 「きゃははははっ♪
-> CONTEXT: Commonevents/140/34/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/140/34/Dialogue
+「Kyahahaha♪
 > END STRING
 
 > BEGIN STRING
 「ロッコ…なに遊んでるのよ……
-> CONTEXT: Commonevents/140/36/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/140/36/Dialogue
+「Rocco...what are you playing at...
 > END STRING
 
 > BEGIN STRING
 「あぅ！
 　ごめん～～っ！
-> CONTEXT: Commonevents/140/38/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/140/38/Dialogue
+「Ahh! 
+　I'm so sorry!
 > END STRING
 
 > BEGIN STRING
 「あのね…リズ……
-> CONTEXT: Commonevents/140/43/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/140/43/Dialogue
+「See here...Liz...
 > END STRING
 
 > BEGIN STRING
 「せっかくアタシがこうしてるんだから、
 　もっと他にやること……
-> CONTEXT: Commonevents/140/44/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/140/44/Dialogue
+「Since I'm doing this,
+　I wish you did more...
 > END STRING
 
 > BEGIN STRING
 「え？
 　……あ！
-> CONTEXT: Commonevents/140/47/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/140/47/Dialogue
+「Eh?
+　...Ah!
 > END STRING
 
 > BEGIN STRING
 「ご、ごめん、エス姉……
-> CONTEXT: Commonevents/140/49/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/140/49/Dialogue
+「S-sorry, Mrs. Es...
 > END STRING
 
 > BEGIN STRING
 「あぁっ…も、もう限界………
-> CONTEXT: Commonevents/140/51/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/140/51/Dialogue
+「Ahh...I-I can't keep this up...
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]エスプラーナは\\n[1]を離した！
 \\k
-> CONTEXT: Commonevents/140/53/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/141/56/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/142/142/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/140/53/Dialogue
+> CONTEXT: Commonevents/141/56/Dialogue
+> CONTEXT: Commonevents/142/142/Dialogue
+\\a[\\v[105]]Esplana let go of \\n[1]!
+\\k
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]\\n[1]は解放された！
-> CONTEXT: Commonevents/140/58/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/141/61/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/142/147/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/140/58/Dialogue
+> CONTEXT: Commonevents/141/61/Dialogue
+> CONTEXT: Commonevents/142/147/Dialogue
+\\a[\\v[105]]\\n[1] is free!
 > END STRING
 
 > BEGIN STRING
 「リズ・ラズ！ ロッコ・バロッコ！
 　今度こそいくわよ！？
-> CONTEXT: Commonevents/141/22/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/141/22/Dialogue
+「Liz-Raz! Rocco-Barocco!
+　Let's get it this time!?
 > END STRING
 
 > BEGIN STRING
 「ん……ちゅぱ………\\e[0]
-> CONTEXT: Commonevents/141/33/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/142/56/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/142/117/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/141/33/Dialogue
+> CONTEXT: Commonevents/142/56/Dialogue
+> CONTEXT: Commonevents/142/117/Dialogue
+「Mmm...*kiss*...\\e[0]
 > END STRING
 
 > BEGIN STRING
 「んふ……\\e[0]
 　どぉ……？
-> CONTEXT: Commonevents/141/38/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/142/61/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/142/88/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/141/38/Dialogue
+> CONTEXT: Commonevents/142/61/Dialogue
+> CONTEXT: Commonevents/142/88/Dialogue
+「Mmh...\\e[0]
+　What...?
 > END STRING
 
 > BEGIN STRING
 「ふふっ、もうイきそうね？
-> CONTEXT: Commonevents/141/45/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/142/68/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/142/94/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/142/122/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/141/45/Dialogue
+> CONTEXT: Commonevents/142/68/Dialogue
+> CONTEXT: Commonevents/142/94/Dialogue
+> CONTEXT: Commonevents/142/122/Dialogue
+「Fufu, about to cum?
 > END STRING
 
 > BEGIN STRING
 「リズ・ラズ！ ロッコ・バロッコ！
 　あと一息よっ！
-> CONTEXT: Commonevents/141/46/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/142/69/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/141/46/Dialogue
+> CONTEXT: Commonevents/142/69/Dialogue
+「Liz-Raz! Rocco-Barocco!
+　Just a little more!
 > END STRING
 
 > BEGIN STRING
 「まだイかないの？
 　…しぶといわね……
-> CONTEXT: Commonevents/141/51/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/142/74/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/142/100/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/142/128/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/141/51/Dialogue
+> CONTEXT: Commonevents/142/74/Dialogue
+> CONTEXT: Commonevents/142/100/Dialogue
+> CONTEXT: Commonevents/142/128/Dialogue
+「You still haven't come? 
+　...Stubborn...
 > END STRING
 
 > BEGIN STRING
 「リズ・ラズ！ ロッコ・バロッコ！
 　一気にいくわよっ！
-> CONTEXT: Commonevents/142/22/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/142/22/Dialogue
+「Liz-Raz! Rocco-Barocco! 
+　Let's go!
 > END STRING
 
 > BEGIN STRING
 「リズ・ラズ！
 　一気にいくわよっ！
-> CONTEXT: Commonevents/142/28/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/142/28/Dialogue
+「Liz-Raz!
+　Let's go!
 > END STRING
 
 > BEGIN STRING
 「ロッコ・バロッコ！
 　一気にいくわよっ！
-> CONTEXT: Commonevents/142/37/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/142/37/Dialogue
+「Rocco-Barocco! 
+　Let's go!
 > END STRING
 
 > BEGIN STRING
 「さあ！
 　トドメよっ！
-> CONTEXT: Commonevents/142/50/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/142/81/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/142/110/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/142/50/Dialogue
+> CONTEXT: Commonevents/142/81/Dialogue
+> CONTEXT: Commonevents/142/110/Dialogue
+「Now!
+　Let's finish it!
 > END STRING
 
 > BEGIN STRING
 「リズ・ラズ！
 　あと一息よっ！
-> CONTEXT: Commonevents/142/95/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/142/95/Dialogue
+「Liz-Raz!
+　Just a little more!
 > END STRING
 
 > BEGIN STRING
 「ロッコ・バロッコ！
 　あと一息よっ！
-> CONTEXT: Commonevents/142/123/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/142/123/Dialogue
+「Rocco-Barocco!
+　Just a little more!
 > END STRING
 
 > BEGIN STRING
 「あら…アタシ一人……？
-> CONTEXT: Commonevents/142/135/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/142/135/Dialogue
+「Oh... am I alone...?
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「あははっ、
 \\w[\\v[104]]　ねぇ、女王様って呼んでごらんよ……
 \\w[\\v[105]]　あははははっ\\e[0]
-> CONTEXT: Commonevents/143/4/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/144/4/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/145/4/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/146/4/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/147/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/143/4/Dialogue
+> CONTEXT: Commonevents/144/4/Dialogue
+> CONTEXT: Commonevents/145/4/Dialogue
+> CONTEXT: Commonevents/146/4/Dialogue
+> CONTEXT: Commonevents/147/4/Dialogue
+\\a[\\v[105]]「Ahahaha,
+\\w[\\v[104]]　Hey, call me Queen...
+\\w[\\v[105]]　Ahahahahaha\\e[0]
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「ふふ、手でされるのが好きなの？
-> CONTEXT: Commonevents/143/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/143/11/Dialogue
+\\a[\\v[105]]「Hehe, do you like being touched by hand?
 > END STRING
 
 > BEGIN STRING
@@ -5600,15 +5621,16 @@ Stona and Merona
 
 > BEGIN STRING
 「私、海に出るのって初めてよ！
-> CONTEXT: Commonevents/307/88/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/307/88/Dialogue
+「It's my...first time going out to sea!
 > END STRING
 
 > BEGIN STRING
 「あ、みて！
 　魚が跳ねたわ！
-> CONTEXT: Commonevents/307/89/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/307/89/Dialogue
+「Oh look! 
+　A fish jumped!
 > END STRING
 
 > BEGIN STRING
@@ -5930,8 +5952,9 @@ More power flows from the\\a[\\v[105]]\\c[4]Demon Lord's fragment\\c[0]
 > BEGIN STRING
 「やぁっ…！
 　\\v[1]……\\n[1]ッ！！
-> CONTEXT: Commonevents/500/491/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/500/491/Dialogue
+「Stop...!
+　\\v[1]...\\n[1]!
 > END STRING
 
 > BEGIN STRING

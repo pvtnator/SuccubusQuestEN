@@ -1,12 +1,12 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 外からただならぬ気配がする……
-> CONTEXT: Map114/events/1/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map114/events/1/pages/0/1/Dialogue
+Something unusual is happening outside...
 > END STRING
 
 > BEGIN STRING
 外に出ますか？
-> CONTEXT: Map114/events/1/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map114/events/1/pages/0/2/Dialogue
+Go outside?
 > END STRING

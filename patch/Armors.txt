@@ -811,26 +811,26 @@ Def +3 / TP +5 / Luck +1
 
 > BEGIN STRING
 魔石のペンダント/2/0
-> CONTEXT: Armors/113/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/113/name/
+Magic Stone Pendant/2/0
 > END STRING
 
 > BEGIN STRING
 守り+6 / 魅力+2 / 魔法に耐性+30%
-> CONTEXT: Armors/113/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/113/description/
+Def +6 / Charm +2 / Magic Res. +30%
 > END STRING
 
 > BEGIN STRING
 ブルーベルブーケ/-9/0
-> CONTEXT: Armors/114/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/114/name/
+Bluebell Bouquet/-9/0
 > END STRING
 
 > BEGIN STRING
 守り+3 / 魅力-9 / 夢魔に出会いにくくなる
-> CONTEXT: Armors/114/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/114/description/
+Def +3 / Charm -9 / Less likely to encounter succubi
 > END STRING
 
 > BEGIN STRING

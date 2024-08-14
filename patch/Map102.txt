@@ -1,22 +1,25 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 "コウモリ"
-> CONTEXT: Map102/events/1/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map099/events/10/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map102/events/1/pages/0/0/InlineScript/1:4
+> CONTEXT: Map099/events/10/pages/0/0/InlineScript/1:4
+"Bat"
 > END STRING
 
 > BEGIN STRING
 （そのあたりな、
 　みんな落ちてくるせいで、
 　床の色が変わってんだ。
-> CONTEXT: Map102/events/1/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map102/events/1/pages/0/1/Dialogue
+(Around there,
+ because things keep falling,
+ the color of the floor has changed.
 > END STRING
 
 > BEGIN STRING
 （何のことか分からない？
 　今に分かるさ。
-> CONTEXT: Map102/events/1/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map102/events/1/pages/0/4/Dialogue
+(Don't know what I mean? 
+ You'll understand soon.
 > END STRING

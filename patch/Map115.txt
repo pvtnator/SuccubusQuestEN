@@ -1,26 +1,28 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 「なんて美しい………
-> CONTEXT: Map115/events/8/pages/0/180/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map115/events/8/pages/0/180/Dialogue
+「How beautiful...
 > END STRING
 
 > BEGIN STRING
 「今まで聞いていたのは
 　何だったんだ……？
-> CONTEXT: Map115/events/8/pages/0/182/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map115/events/8/pages/0/182/Dialogue
+「What was it that 
+　I had been hearing up until now...?
 > END STRING
 
 > BEGIN STRING
 「そんな………
-> CONTEXT: Map115/events/8/pages/0/205/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map115/events/8/pages/0/205/Dialogue
+「This...
 > END STRING
 
 > BEGIN STRING
 「あたしたちの……
 　歌が……………？
-> CONTEXT: Map115/events/8/pages/0/225/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map115/events/8/pages/0/225/Dialogue
+「Our... 
+　song......?
 > END STRING

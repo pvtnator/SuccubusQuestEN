@@ -174,23 +174,23 @@
 
 > BEGIN STRING
 クラムジ
-> CONTEXT: States/31/name/ < UNTRANSLATED
-> CONTEXT: Skills/297/name/ < UNTRANSLATED
-
+> CONTEXT: States/31/name/
+> CONTEXT: Skills/297/name/
+Clumsy
 > END STRING
 
 > BEGIN STRING
 ヴィジョン
-> CONTEXT: States/32/name/ < UNTRANSLATED
-> CONTEXT: Skills/298/name/ < UNTRANSLATED
-
+> CONTEXT: States/32/name/
+> CONTEXT: Skills/298/name/
+Vision
 > END STRING
 
 > BEGIN STRING
 ミニマム
-> CONTEXT: States/33/name/ < UNTRANSLATED
-> CONTEXT: Skills/296/name/ < UNTRANSLATED
-
+> CONTEXT: States/33/name/
+> CONTEXT: Skills/296/name/
+Mini
 > END STRING
 
 > BEGIN STRING

@@ -206,14 +206,14 @@ Breath calmly to restore EP
 
 > BEGIN STRING
 メディテーション/10/0/0
-> CONTEXT: Skills/23/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/23/name/
+Meditation/10/0/0
 > END STRING
 
 > BEGIN STRING
 精神を集中させEPを回復する [リチャージ：10ターン]
-> CONTEXT: Skills/23/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/23/description/
+Focus your mind and recover EP [CD: 10]
 > END STRING
 
 > BEGIN STRING
@@ -646,9 +646,9 @@ EP Recovery
 
 > BEGIN STRING
 アルス・ロギン
-> CONTEXT: Skills/100/name/ < UNTRANSLATED
-> CONTEXT: Skills/330/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/100/name/
+> CONTEXT: Skills/330/name/
+Ars Rogin
 > END STRING
 
 > BEGIN STRING
@@ -849,10 +849,10 @@ Luck up
 
 > BEGIN STRING
 アルスグン
-> CONTEXT: Skills/124/name/ < UNTRANSLATED
-> CONTEXT: Skills/162/name/ < UNTRANSLATED
-> CONTEXT: Skills/306/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/124/name/
+> CONTEXT: Skills/162/name/
+> CONTEXT: Skills/306/name/
+Arsgun
 > END STRING
 
 > BEGIN STRING
@@ -866,7 +866,7 @@ Luck up
 ウルズフニ
 > CONTEXT: Skills/125/name/
 > CONTEXT: Skills/291/name/
-Uruz Funi
+Uruzfuni
 > END STRING
 
 > BEGIN STRING
@@ -878,9 +878,9 @@ Uruz Funi
 
 > BEGIN STRING
 ラグズフニ
-> CONTEXT: Skills/126/name/ < UNTRANSLATED
-> CONTEXT: Skills/292/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/126/name/
+> CONTEXT: Skills/292/name/
+Raguzfuni
 > END STRING
 
 > BEGIN STRING
@@ -892,9 +892,9 @@ Uruz Funi
 
 > BEGIN STRING
 ハガルフニ
-> CONTEXT: Skills/127/name/ < UNTRANSLATED
-> CONTEXT: Skills/293/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/127/name/
+> CONTEXT: Skills/293/name/
+Hagalfuni
 > END STRING
 
 > BEGIN STRING
@@ -906,25 +906,25 @@ Uruz Funi
 
 > BEGIN STRING
 エオルフニ
-> CONTEXT: Skills/128/name/ < UNTRANSLATED
-> CONTEXT: Skills/294/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/128/name/
+> CONTEXT: Skills/294/name/
+Eorufuni
 > END STRING
 
 > BEGIN STRING
 相手の精神力ダウン
-> CONTEXT: Skills/128/description/ < UNTRANSLATED
-> CONTEXT: Skills/294/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/128/description/
+> CONTEXT: Skills/294/description/
+Opponent's spirit down
 > END STRING
 
 > BEGIN STRING
 シギルフニ
-> CONTEXT: Skills/129/name/ < UNTRANSLATED
-> CONTEXT: Skills/295/name/ < UNTRANSLATED
-> CONTEXT: Commonevents/150/407/Choice/1 < UNTRANSLATED
-> CONTEXT: Commonevents/153/410/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Skills/129/name/
+> CONTEXT: Skills/295/name/
+> CONTEXT: Commonevents/150/407/Choice/1
+> CONTEXT: Commonevents/153/410/Choice/1
+Sigilfuni
 > END STRING
 
 > BEGIN STRING
@@ -936,10 +936,10 @@ Uruz Funi
 
 > BEGIN STRING
 アルスフニ
-> CONTEXT: Skills/130/name/ < UNTRANSLATED
-> CONTEXT: Skills/251/name/ < UNTRANSLATED
-> CONTEXT: Skills/312/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/130/name/
+> CONTEXT: Skills/251/name/
+> CONTEXT: Skills/312/name/
+Arsfuni
 > END STRING
 
 > BEGIN STRING
@@ -950,9 +950,9 @@ Uruz Funi
 
 > BEGIN STRING
 イーサグン
-> CONTEXT: Skills/131/name/ < UNTRANSLATED
-> CONTEXT: Skills/313/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/131/name/
+> CONTEXT: Skills/313/name/
+Ethergun
 > END STRING
 
 > BEGIN STRING
@@ -963,9 +963,9 @@ Uruz Funi
 
 > BEGIN STRING
 イーサフニ
-> CONTEXT: Skills/132/name/ < UNTRANSLATED
-> CONTEXT: Skills/314/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/132/name/
+> CONTEXT: Skills/314/name/
+Etherfuni
 > END STRING
 
 > BEGIN STRING
@@ -1257,14 +1257,14 @@ Bind 1 opponent [CD: 7 turns]
 
 > BEGIN STRING
 エフワズ
-> CONTEXT: Skills/189/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/189/name/
+Ehwaz
 > END STRING
 
 > BEGIN STRING
 魔法でかけられた鍵を開ける
-> CONTEXT: Skills/189/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/189/description/
+Open magical locks
 > END STRING
 
 > BEGIN STRING
@@ -2102,8 +2102,8 @@ Romance Song
 
 > BEGIN STRING
 ファル･ラグズグン
-> CONTEXT: Skills/328/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/328/name/
+Far: Ragsgun
 > END STRING
 
 > BEGIN STRING
@@ -2116,8 +2116,8 @@ Romance Song
 
 > BEGIN STRING
 ファル･シギルグン
-> CONTEXT: Skills/329/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/329/name/
+Far: Sigilgun
 > END STRING
 
 > BEGIN STRING
@@ -2702,8 +2702,8 @@ Additional effect: Whole body sensitivity
 
 > BEGIN STRING
 ブラッドサック
-> CONTEXT: Skills/406/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/406/name/
+Bloodsuck
 > END STRING
 
 > BEGIN STRING
@@ -3298,8 +3298,8 @@ Madness Song
 
 > BEGIN STRING
 上天の道行き
-> CONTEXT: Skills/656/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/656/name/
+Journey to Heaven
 > END STRING
 
 > BEGIN STRING

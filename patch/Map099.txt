@@ -2,12 +2,13 @@
 > BEGIN STRING
 （なんかオレ…、最近まで
 　モンスターだった気がするぜ。
-> CONTEXT: Map099/events/10/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map099/events/10/pages/0/1/Dialogue
+(I...feel like I became
+ a monster only recently.
 > END STRING
 
 > BEGIN STRING
 （お呼びじゃねえ……ってか？
-> CONTEXT: Map099/events/10/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map099/events/10/pages/0/3/Dialogue
+(I didn't...ask for that?
 > END STRING

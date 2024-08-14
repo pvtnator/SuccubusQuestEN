@@ -1,405 +1,442 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 「\\c[4]魔王のかけら\\c[0]！
-> CONTEXT: Map113/events/1/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/1/pages/0/6/Dialogue
+「A \\c[4]Demon Lord Shard\\c[0]!
 > END STRING
 
 > BEGIN STRING
 「……夢魔の姿は見えないわね。
 　オリビアも……。
-> CONTEXT: Map113/events/1/pages/0/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/1/pages/0/7/Dialogue
+「...I can't see any succubi.
+　Or Olivia...
 > END STRING
 
 > BEGIN STRING
 「でも夢魔が\\c[4]魔王のかけら\\c[0]を
 　ほうっておくわけもないし……
-> CONTEXT: Map113/events/1/pages/0/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/1/pages/0/9/Dialogue
+「But there's no way that succubi 
+　would leave the \\c[4]Demon Lord's Shard\\c[0] alone...
 > END STRING
 
 > BEGIN STRING
 「………\\n[1]、気をつけてね。
-> CONTEXT: Map113/events/1/pages/0/15/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/1/pages/0/15/Dialogue
+「....\\n[1], be careful.
 > END STRING
 
 > BEGIN STRING
 「待ってたわよ………
 　\\n[1]………
-> CONTEXT: Map113/events/16/pages/0/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/13/Dialogue
+「I've been waiting for you...
+　\\n[1]...
 > END STRING
 
 > BEGIN STRING
 「ほ～～ほっほっほっほっ！
-> CONTEXT: Map113/events/16/pages/0/72/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/72/Dialogue
+「Hoo~~hohhohhohho!
 > END STRING
 
 > BEGIN STRING
 「ここで会ったがひゃくねんめぇ！
-> CONTEXT: Map113/events/16/pages/0/74/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/74/Dialogue
+「What luck to find you here!
 > END STRING
 
 > BEGIN STRING
 「さあ勇者ラルス！
 　今こそ私たちの真の力を……
-> CONTEXT: Map113/events/16/pages/0/76/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/76/Dialogue
+「Now, hero Lars!
+　Now is the time to show our true strength...
 > END STRING
 
 > BEGIN STRING
 「……最後まで聞きなさいよ。
-> CONTEXT: Map113/events/16/pages/0/101/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/101/Dialogue
+「...Listen to the end.
 > END STRING
 
 > BEGIN STRING
 「アタシ達にもう………
-> CONTEXT: Map113/events/16/pages/0/107/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/107/Dialogue
+「We already have...
 > END STRING
 
 > BEGIN STRING
 「剣はきかないのだぁ！
-> CONTEXT: Map113/events/16/pages/0/111/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/111/Dialogue
+「The sword won't work!
 > END STRING
 
 > BEGIN STRING
 「私たちは、力じゃあなたに勝てない……
 　……でもね、気付いちゃったのよ。
-> CONTEXT: Map113/events/16/pages/0/119/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/119/Dialogue
+「We couldn't defeat you with strength...
+　...But then, we realized something.
 > END STRING
 
 > BEGIN STRING
 「アタシ達の隠された力……
 　そう…この………
-> CONTEXT: Map113/events/16/pages/0/122/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/122/Dialogue
+「Our hidden power...
+　Yes...this...
 > END STRING
 
 > BEGIN STRING
 「せくしぃな\\c[2]魅力\\c[0]にぃっ！
-> CONTEXT: Map113/events/16/pages/0/125/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/125/Dialogue
+「Sexy \\c[2]charm\\c[0]!
 > END STRING
 
 > BEGIN STRING
 「あのエストって女に感謝しなきゃね。
-> CONTEXT: Map113/events/16/pages/0/138/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/138/Dialogue
+「We should be thankful to that woman Est.
 > END STRING
 
 > BEGIN STRING
 「…自分から夢魔になったのね……
-> CONTEXT: Map113/events/16/pages/0/147/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/147/Dialogue
+「...They became succubi of their own volition...
 > END STRING
 
 > BEGIN STRING
 「さあ、勇者ラルス。
 　今度こそ私たちが勝つ番よ。
-> CONTEXT: Map113/events/16/pages/0/149/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/149/Dialogue
+「Now, hero Lars.
+　This time it's our turn to win.
 > END STRING
 
 > BEGIN STRING
 「お姉さんたちが可愛がってあげる…\\e[0]
-> CONTEXT: Map113/events/16/pages/0/157/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/157/Dialogue
+「Us sisters will love you...\\e[0]
 > END STRING
 
 > BEGIN STRING
 「アンタみたいなガキ、
 　アタシらにかかればイチコロよっ！
-> CONTEXT: Map113/events/16/pages/0/165/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/165/Dialogue
+「A brat like you,
+　we'll take care of you in no time!
 > END STRING
 
 > BEGIN STRING
 「たべちゃうんだからぁっ\\e[0]
-> CONTEXT: Map113/events/16/pages/0/174/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/174/Dialogue
+「Time to eat\\e[0]
 > END STRING
 
 > BEGIN STRING
 「いくわよ！　リズ・ラズ！
 　ロッコ・バロッコ！
-> CONTEXT: Map113/events/16/pages/0/178/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/178/Dialogue
+「Let's go! Liz-Raz! Rocco-Barocco!
 > END STRING
 
 > BEGIN STRING
 「………覚えてなさい、また来るわよ。
-> CONTEXT: Map113/events/16/pages/0/195/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/195/Dialogue
+「...Don't forget, we'll be back.
 > END STRING
 
 > BEGIN STRING
 「……結局オリビアも、
 　彼女をさらった夢魔もいなかったわね……
-> CONTEXT: Map113/events/16/pages/0/213/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/213/Dialogue
+「...In the end, neither Olivia 
+　nor the succubus that kidnapped her 
+　were here...
 > END STRING
 
 > BEGIN STRING
 「でも、これで\\c[4]魔王のかけら\\c[0]だけは……
-> CONTEXT: Map113/events/16/pages/0/215/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/215/Dialogue
+「But at least the \\c[4]Demon Lord Shard\\c[0] is...
 > END STRING
 
 > BEGIN STRING
 「………待って。
-> CONTEXT: Map113/events/16/pages/0/224/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/224/Dialogue
+「...Wait.
 > END STRING
 
 > BEGIN STRING
 「まだよ……
 　まだ何か来るわ！
-> CONTEXT: Map113/events/16/pages/0/225/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/225/Dialogue
+「Not yet...
+　Something else is coming!
 > END STRING
 
 > BEGIN STRING
 「これか……間違いないな？
-> CONTEXT: Map113/events/16/pages/0/256/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/256/Dialogue
+「This is it...you're sure?
 > END STRING
 
 > BEGIN STRING
 「はい、間違いなく\\c[4]魔王のかけら\\c[0]。
-> CONTEXT: Map113/events/16/pages/0/260/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/260/Dialogue
+「Yes, it's definitely a \\c[4]Demon Lord Shard\\c[0].
 > END STRING
 
 > BEGIN STRING
 「『剣』のかけら、\\c[4]グラム\\c[0]です。
-> CONTEXT: Map113/events/16/pages/0/261/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/261/Dialogue
+「It's the 'Sword' fragment, \\c[4]Gram\\c[0].
 > END STRING
 
 > BEGIN STRING
 「手に入れたぞ………
 　グルッペンに落ちた『杖』のかけら、
 　\\c[4]ガンバンティン\\c[0]を含めこれで二つ。
-> CONTEXT: Map113/events/16/pages/0/272/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/272/Dialogue
+「Got it...
+　Including the 'Staff' fragment that fell on Gruppen,
+　\\c[4]Ganbantin\\c[0], now we have two.
 > END STRING
 
 > BEGIN STRING
 「そして……………
-> CONTEXT: Map113/events/16/pages/0/275/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/275/Dialogue
+「Also.....
 > END STRING
 
 > BEGIN STRING
 「賢王様、あれを。
-> CONTEXT: Map113/events/16/pages/0/283/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/283/Dialogue
+「Wise King, that.
 > END STRING
 
 > BEGIN STRING
 「……お前の持つ『使い魔』で三つ目だ！
 　\\n[1]！
-> CONTEXT: Map113/events/16/pages/0/299/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/299/Dialogue
+「...You hold the third, 'Familiar'!
+　\\n[1]!
 > END STRING
 
 > BEGIN STRING
 「城で大人しくしていろと
 　言ったはずだな？
-> CONTEXT: Map113/events/16/pages/0/307/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/307/Dialogue
+「I told you to stay quietly 
+　in the castle, didn't I?
 > END STRING
 
 > BEGIN STRING
 「そしてこうも言ったはずだ。
 　オリビアは我らが必ず助け出すと。
-> CONTEXT: Map113/events/16/pages/0/309/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/309/Dialogue
+「And I also told you 
+　that we would definitely rescue Olivia.
 > END STRING
 
 > BEGIN STRING
 「何故勝手に動いた？
 　勇者の使命感に酔いしれたか？
-> CONTEXT: Map113/events/16/pages/0/311/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/311/Dialogue
+「Why did you act on your own? 
+　Were you intoxicated by the hero's sense of duty?
 > END STRING
 
 > BEGIN STRING
 「……まあいい。 それもここまでだ。
 　その\\dかけら\\dも私に渡してもらおう。
-> CONTEXT: Map113/events/16/pages/0/313/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/313/Dialogue
+「...Well, in any case.
+　Please give that \\dfragment\\d to me.
 > END STRING
 
 > BEGIN STRING
 「いきなり横から出てきて、
 　何勝手なこと言ってんのよ？
-> CONTEXT: Map113/events/16/pages/0/339/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/339/Dialogue
+「Why do you appear suddenly 
+　and say all this nonsense?
 > END STRING
 
 > BEGIN STRING
 「あなたこそ返しなさいよ！
 　それ、私たちが取ろうとしてたのよ！
-> CONTEXT: Map113/events/16/pages/0/341/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/341/Dialogue
+「You should give it back! 
+　We were taking it!
 > END STRING
 
 > BEGIN STRING
 「『使い魔』か……
 　既にドラウムニョルのことも
 　知られていたとは……
-> CONTEXT: Map113/events/16/pages/0/344/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/344/Dialogue
+「'Familiar'...
+　I didn't know that Draumnior 
+　was already known of...
 > END STRING
 
 > BEGIN STRING
 「おい、使い魔。
-> CONTEXT: Map113/events/16/pages/0/347/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/347/Dialogue
+「Hey, familiar.
 > END STRING
 
 > BEGIN STRING
 「ルヴィッサよ。
 　名前があるの。
-> CONTEXT: Map113/events/16/pages/0/349/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/349/Dialogue
+「Rovissa.
+　I have a name.
 > END STRING
 
 > BEGIN STRING
 「私のもとへ来い。
-> CONTEXT: Map113/events/16/pages/0/352/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/352/Dialogue
+「Come to me.
 > END STRING
 
 > BEGIN STRING
 「お前からすれば、
 　誰が\\dかけら\\dを集めようと同じはずだ。
 　ならば私のもとへ来い。
-> CONTEXT: Map113/events/16/pages/0/353/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/353/Dialogue
+「As far as you're concerned,
+　it makes no difference who collects the \\dfragments\\d.
+　So come to me.
 > END STRING
 
 > BEGIN STRING
 「……………………
 　………………
-> CONTEXT: Map113/events/16/pages/0/357/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/357/Dialogue
+「........
+　........
 > END STRING
 
 > BEGIN STRING
 「……それもそうね。
-> CONTEXT: Map113/events/16/pages/0/359/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/359/Dialogue
+「...That’s true.
 > END STRING
 
 > BEGIN STRING
 「でもイヤよ。
-> CONTEXT: Map113/events/16/pages/0/400/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/400/Dialogue
+「But no.
 > END STRING
 
 > BEGIN STRING
 「私、\\n[1]がいいわ。
 　一緒に行くって決めたの。
-> CONTEXT: Map113/events/16/pages/0/401/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/401/Dialogue
+「I like \\n[1].
+　I've decided to go with him.
 > END STRING
 
 > BEGIN STRING
 「…\\n[1]、
 　…いいわね？
-> CONTEXT: Map113/events/16/pages/0/403/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/403/Dialogue
+「...\\n[1],
+　...is that okay?
 > END STRING
 
 > BEGIN STRING
 「いいわね？」
-> CONTEXT: Map113/events/16/pages/0/406/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/406/Dialogue
+「Is that okay?」
 > END STRING
 
 > BEGIN STRING
 「イヤって言っても
 　離れてあげないけどねっ
-> CONTEXT: Map113/events/16/pages/0/415/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/415/Dialogue
+「Even if you said no, 
+　I won't leave you.
 > END STRING
 
 > BEGIN STRING
 「………そうか。
 　ならば無理強いはするまい。
-> CONTEXT: Map113/events/16/pages/0/422/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/422/Dialogue
+「...I see.
+　In that case, I won't force you.
 > END STRING
 
 > BEGIN STRING
 「お前が\\dかけら\\dを集めるというのなら、
 　それもいいだろう。
-> CONTEXT: Map113/events/16/pages/0/424/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/424/Dialogue
+「If you want to collect the \\dfragments\\d,
+　that's fine.
 > END STRING
 
 > BEGIN STRING
 「だが心に留めておくがいい。
-> CONTEXT: Map113/events/16/pages/0/426/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/426/Dialogue
+「But keep in mind.
 > END STRING
 
 > BEGIN STRING
 「その力は
 　お前が思っている以上に危険な力。
 　お前自身を損なう力だ。
-> CONTEXT: Map113/events/16/pages/0/427/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/427/Dialogue
+「That power 
+　is more dangerous than you think. 
+　It's a power that will harm you.
 > END STRING
 
 > BEGIN STRING
 「残る二つの\\dかけら\\dのうち、
 　『杯』のかけらは\\c[1]リスヴェグ\\c[0]にある。
-> CONTEXT: Map113/events/16/pages/0/452/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/452/Dialogue
+「Of the two remaining \\dfragments\\d, 
+　the 'Cup' is in \\c[1]Lisveg\\c[0].
 > END STRING
 
 > BEGIN STRING
 「行くがいい。
 　お前に覚悟があるのならな……
-> CONTEXT: Map113/events/16/pages/0/454/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/454/Dialogue
+「Go ahead. 
+　If you're ready...
 > END STRING
 
 > BEGIN STRING
 「……また会おう、\\n[1]。
-> CONTEXT: Map113/events/16/pages/0/456/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/456/Dialogue
+「...See you again, \\n[1].
 > END STRING
 
 > BEGIN STRING
 「何ボッとしてんのよ？
-> CONTEXT: Map113/events/16/pages/0/519/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/519/Dialogue
+「What are you staring at?
 > END STRING
 
 > BEGIN STRING
 「オリビアを助けるんでしょ？
 　そのために私の力が必要なんでしょ？
-> CONTEXT: Map113/events/16/pages/0/520/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/520/Dialogue
+「You're going to save Olivia, right? 
+　You need my help to do that, right?
 > END STRING
 
 > BEGIN STRING
 「行きましょ。
 　取られたなら、取り返せばいいわ。
-> CONTEXT: Map113/events/16/pages/0/541/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map113/events/16/pages/0/541/Dialogue
+「Let's go.
+　If it's taken, we can just take it back.
 > END STRING
 
 > BEGIN STRING

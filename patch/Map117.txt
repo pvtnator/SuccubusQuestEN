@@ -2,13 +2,16 @@
 > BEGIN STRING
 「久しぶりの航海だ！
 　腕が鳴るぜぇ！
-> CONTEXT: Map117/events/4/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map117/events/4/pages/0/1/Dialogue
+「It's been a while 
+　since I last went sailing! 
+　I'm excited!
 > END STRING
 
 > BEGIN STRING
 「風よーし！
 　波よーしっ！
-> CONTEXT: Map117/events/5/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map117/events/5/pages/0/1/Dialogue
+「Yeah, wind! 
+　Yeah, waves!
 > END STRING

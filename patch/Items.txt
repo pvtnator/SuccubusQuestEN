@@ -1336,7 +1336,7 @@ Naughty Pinup
 > BEGIN STRING
 リスヴェグの応用魔術で印画されたセクシーなエルフの肖像
 > CONTEXT: Items/252/description/
-Sexy Elf portrait printed with Lisveig's applied magic
+Sexy Elf portrait printed with Lisveg's applied magic
 > END STRING
 
 > BEGIN STRING

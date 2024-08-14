@@ -2,55 +2,62 @@
 > BEGIN STRING
 「俺は出すぜぇ！
 　船を出すぜぇ！
-> CONTEXT: Map089/events/2/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map089/events/2/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map089/events/2/pages/0/1/Dialogue
+> CONTEXT: Map089/events/2/pages/1/1/Dialogue
+「Set sail! 
+　Set sail!
 > END STRING
 
 > BEGIN STRING
 「人魚だろうが何だろうが
 　来るなら来いッってんだあ！
-> CONTEXT: Map089/events/2/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map089/events/2/pages/1/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map089/events/2/pages/0/3/Dialogue
+> CONTEXT: Map089/events/2/pages/1/3/Dialogue
+「Mermaid or whatever, 
+　come if you dare!
 > END STRING
 
 > BEGIN STRING
 「これから向かうのは\\c[2]港町ポッパナ\\c[0]。
 　リスヴェグ共和国の海の玄関口です。
-> CONTEXT: Map089/events/3/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map089/events/3/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map089/events/3/pages/0/1/Dialogue
+> CONTEXT: Map089/events/3/pages/1/1/Dialogue
+「Our destination is the \\c[2]Port Town Poppana\\c[0].
+　It's the sea gateway to the Republic of Lisveg.
 > END STRING
 
 > BEGIN STRING
 「リスヴェグの首都、\\c[2]魔都ホロス\\c[0]は
 　\\c[2]セーデル砂漠\\c[0]を越えてさらに南にあります。
-> CONTEXT: Map089/events/3/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map089/events/3/pages/1/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map089/events/3/pages/0/3/Dialogue
+> CONTEXT: Map089/events/3/pages/1/3/Dialogue
+「Lisveg's capital, \\c[2]Magic City Horos\\c[0], 
+　lies further south, across the \\c[2]Seder Desert\\c[0].
 > END STRING
 
 > BEGIN STRING
 「リスヴェグは、
 　魔法の研究が非常に進んでいる国です。
-> CONTEXT: Map089/events/4/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map089/events/4/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map089/events/4/pages/0/1/Dialogue
+> CONTEXT: Map089/events/4/pages/1/1/Dialogue
+「Lisveg is a country where 
+　magical research is highly advanced.
 > END STRING
 
 > BEGIN STRING
 「ちょっとした移動なら、
 　\\r[瞬間移動装置,テ レ ポ ー タ ー]で一瞬だそうですよ。
-> CONTEXT: Map089/events/4/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map089/events/4/pages/1/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map089/events/4/pages/0/3/Dialogue
+> CONTEXT: Map089/events/4/pages/1/3/Dialogue
+「If you just want to move a little, 
+　it will take but an instant with a teleporter.
 > END STRING
 
 > BEGIN STRING
 「リスヴェグには、エルフっていう
 　グルッペンにはいない種族がいるそうよ。
-> CONTEXT: Map089/events/6/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map089/events/6/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map089/events/6/pages/0/1/Dialogue
+> CONTEXT: Map089/events/6/pages/1/1/Dialogue
+「In Lisveg there is a race called elves 
+　that don't exist in Gruppen.
 > END STRING

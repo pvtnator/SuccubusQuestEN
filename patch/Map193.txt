@@ -78,10 +78,10 @@
 
 > BEGIN STRING
 「……\\n[1]ッ！
-> CONTEXT: Map193/events/17/pages/0/157/Dialogue < UNTRANSLATED
-> CONTEXT: Map119/events/8/pages/0/136/Dialogue < UNTRANSLATED
-> CONTEXT: Map115/events/8/pages/0/138/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map193/events/17/pages/0/157/Dialogue
+> CONTEXT: Map119/events/8/pages/0/136/Dialogue
+> CONTEXT: Map115/events/8/pages/0/138/Dialogue
+「...\\n[1]!
 > END STRING
 
 > BEGIN STRING
@@ -128,8 +128,8 @@
 
 > BEGIN STRING
 「\\n[1]ッ！！\\a[20]
-> CONTEXT: Map193/events/17/pages/0/254/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map193/events/17/pages/0/254/Dialogue
+「\\n[1]!!\\a[20]
 > END STRING
 
 > BEGIN STRING

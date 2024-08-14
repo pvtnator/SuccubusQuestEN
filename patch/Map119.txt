@@ -1,112 +1,119 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 「素敵ねぇ……\\e[0]
-> CONTEXT: Map119/events/7/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map115/events/7/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map119/events/7/pages/0/1/Dialogue
+> CONTEXT: Map115/events/7/pages/0/1/Dialogue
+「It's nice...\\e[0]
 > END STRING
 
 > BEGIN STRING
 「な、何だ…？
-> CONTEXT: Map119/events/8/pages/0/15/Dialogue < UNTRANSLATED
-> CONTEXT: Map115/events/8/pages/0/20/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map119/events/8/pages/0/15/Dialogue
+> CONTEXT: Map115/events/8/pages/0/20/Dialogue
+「Wh-what...?
 > END STRING
 
 > BEGIN STRING
 「どこからか……
 　歌声………？
-> CONTEXT: Map119/events/8/pages/0/29/Dialogue < UNTRANSLATED
-> CONTEXT: Map115/events/8/pages/0/38/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map119/events/8/pages/0/29/Dialogue
+> CONTEXT: Map115/events/8/pages/0/38/Dialogue
+「Somewhere...
+　A singing voice...?
 > END STRING
 
 > BEGIN STRING
 「わああぁっ！
-> CONTEXT: Map119/events/8/pages/0/101/Dialogue < UNTRANSLATED
-> CONTEXT: Map115/events/8/pages/0/96/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map119/events/8/pages/0/101/Dialogue
+> CONTEXT: Map115/events/8/pages/0/96/Dialogue
+「Waaah!
 > END STRING
 
 > BEGIN STRING
 「に、人魚だぁっ！
-> CONTEXT: Map119/events/8/pages/0/104/Dialogue < UNTRANSLATED
-> CONTEXT: Map115/events/8/pages/0/97/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map119/events/8/pages/0/104/Dialogue
+> CONTEXT: Map115/events/8/pages/0/97/Dialogue
+「M-mermaids!
 > END STRING
 
 > BEGIN STRING
 "キャプテン"
-> CONTEXT: Map119/events/8/pages/0/105/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map119/events/8/pages/0/146/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map115/events/8/pages/0/98/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map089/events/2/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map089/events/2/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map115/events/8/pages/0/163/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map119/events/8/pages/0/105/InlineScript/1:4
+> CONTEXT: Map119/events/8/pages/0/146/InlineScript/1:4
+> CONTEXT: Map115/events/8/pages/0/98/InlineScript/1:4
+> CONTEXT: Map089/events/2/pages/0/0/InlineScript/1:4
+> CONTEXT: Map089/events/2/pages/1/0/InlineScript/1:4
+> CONTEXT: Map115/events/8/pages/0/163/InlineScript/1:4
+"Captain"
 > END STRING
 
 > BEGIN STRING
 「う、うろたえるなぁっ！
 　海の男はうろたえるんじゃないっ！
-> CONTEXT: Map119/events/8/pages/0/106/Dialogue < UNTRANSLATED
-> CONTEXT: Map115/events/8/pages/0/99/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map119/events/8/pages/0/106/Dialogue
+> CONTEXT: Map115/events/8/pages/0/99/Dialogue
+「D-don't panic! 
+　Men of the sea shouldn't panic!
 > END STRING
 
 > BEGIN STRING
 "人魚"
-> CONTEXT: Map119/events/8/pages/0/110/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map119/events/8/pages/0/116/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map115/events/8/pages/0/104/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map115/events/8/pages/0/112/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map115/events/8/pages/0/204/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map115/events/8/pages/0/224/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map119/events/8/pages/0/110/InlineScript/1:4
+> CONTEXT: Map119/events/8/pages/0/116/InlineScript/1:4
+> CONTEXT: Map115/events/8/pages/0/104/InlineScript/1:4
+> CONTEXT: Map115/events/8/pages/0/112/InlineScript/1:4
+> CONTEXT: Map115/events/8/pages/0/204/InlineScript/1:4
+> CONTEXT: Map115/events/8/pages/0/224/InlineScript/1:4
+"Mermaid"
 > END STRING
 
 > BEGIN STRING
 「ふふ、こんな沖の方で
 　獲物にありつけるなんて久しぶりね……
-> CONTEXT: Map119/events/8/pages/0/111/Dialogue < UNTRANSLATED
-> CONTEXT: Map115/events/8/pages/0/105/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map119/events/8/pages/0/111/Dialogue
+> CONTEXT: Map115/events/8/pages/0/105/Dialogue
+「Fufu, it's been a long time 
+　since I've had prey 
+　this far out at sea...
 > END STRING
 
 > BEGIN STRING
 「さあおいで……
 　食べてあげるわ………\\e[0]
-> CONTEXT: Map119/events/8/pages/0/117/Dialogue < UNTRANSLATED
-> CONTEXT: Map115/events/8/pages/0/113/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map119/events/8/pages/0/117/Dialogue
+> CONTEXT: Map115/events/8/pages/0/113/Dialogue
+「Come on...
+　I'll eat you...\\e[0]
 > END STRING
 
 > BEGIN STRING
 「この…歌……
-> CONTEXT: Map119/events/8/pages/0/132/Dialogue < UNTRANSLATED
-> CONTEXT: Map115/events/8/pages/0/129/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map119/events/8/pages/0/132/Dialogue
+> CONTEXT: Map115/events/8/pages/0/129/Dialogue
+「This...song...
 > END STRING
 
 > BEGIN STRING
 「引き込まれる………
-> CONTEXT: Map119/events/8/pages/0/134/Dialogue < UNTRANSLATED
-> CONTEXT: Map115/events/8/pages/0/136/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map119/events/8/pages/0/134/Dialogue
+> CONTEXT: Map115/events/8/pages/0/136/Dialogue
+「I'm drawn in...
 > END STRING
 
 > BEGIN STRING
 「これは……
 　別な…歌……？
-> CONTEXT: Map119/events/8/pages/0/144/Dialogue < UNTRANSLATED
-> CONTEXT: Map115/events/8/pages/0/159/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map119/events/8/pages/0/144/Dialogue
+> CONTEXT: Map115/events/8/pages/0/159/Dialogue
+「Is this... 
+　a different...song...?
 > END STRING
 
 > BEGIN STRING
 「下の船室から……
 　誰が………？
-> CONTEXT: Map119/events/8/pages/0/147/Dialogue < UNTRANSLATED
-> CONTEXT: Map115/events/8/pages/0/164/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map119/events/8/pages/0/147/Dialogue
+> CONTEXT: Map115/events/8/pages/0/164/Dialogue
+「From the cabin below...
+　Who's there...?
 > END STRING
