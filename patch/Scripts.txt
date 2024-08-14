@@ -4730,10 +4730,10 @@
 
 > BEGIN STRING
 "フリーベリボーダー"
-> CONTEXT: Scripts/RPG::Armor(detail)/117:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Actor(coordinates)/112:23 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Actor(coordinates)/117:23 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Actor(coordinates)/120:23 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/117:12
+> CONTEXT: Scripts/Game_Actor(coordinates)/112:23
+> CONTEXT: Scripts/Game_Actor(coordinates)/117:23
+> CONTEXT: Scripts/Game_Actor(coordinates)/120:23
 "Friberg Border"
 > END STRING
 
@@ -5463,7 +5463,7 @@
 
 > BEGIN STRING
 "鼓舞の銀鱗"
-> CONTEXT: Scripts/RPG::Armor(detail)/238:12 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/238:12
 "Rousing Silver Scales"
 > END STRING
 
@@ -5487,9 +5487,9 @@
 
 > BEGIN STRING
 "ダイアモンドチャーム"
-> CONTEXT: Scripts/RPG::Armor(detail)/242:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Actor(coordinates)/22:24 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Actor(coordinates)/26:24 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/242:12
+> CONTEXT: Scripts/Game_Actor(coordinates)/22:24
+> CONTEXT: Scripts/Game_Actor(coordinates)/26:24
 "Diamond Charm"
 > END STRING
 
@@ -5507,9 +5507,9 @@
 
 > BEGIN STRING
 "クリスタルチャーム"
-> CONTEXT: Scripts/RPG::Armor(detail)/245:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Actor(coordinates)/23:53 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Actor(coordinates)/27:53 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/245:12
+> CONTEXT: Scripts/Game_Actor(coordinates)/23:53
+> CONTEXT: Scripts/Game_Actor(coordinates)/27:53
 "Crystal Charm"
 > END STRING
 
@@ -5527,9 +5527,9 @@
 
 > BEGIN STRING
 "エメラルドチャーム"
-> CONTEXT: Scripts/RPG::Armor(detail)/248:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Actor(coordinates)/23:23 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Actor(coordinates)/27:23 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/248:12
+> CONTEXT: Scripts/Game_Actor(coordinates)/23:23
+> CONTEXT: Scripts/Game_Actor(coordinates)/27:23
 "Emerald Charm"
 > END STRING
 
@@ -5548,9 +5548,9 @@
 
 > BEGIN STRING
 "サファイアチャーム"
-> CONTEXT: Scripts/RPG::Armor(detail)/251:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Actor(coordinates)/22:55 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Actor(coordinates)/26:55 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/251:12
+> CONTEXT: Scripts/Game_Actor(coordinates)/22:55
+> CONTEXT: Scripts/Game_Actor(coordinates)/26:55
 "Sapphire Charm"
 > END STRING
 
@@ -5568,9 +5568,9 @@
 
 > BEGIN STRING
 "ペリドットチャーム"
-> CONTEXT: Scripts/RPG::Armor(detail)/254:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Actor(coordinates)/24:23 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Actor(coordinates)/28:23 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/254:12
+> CONTEXT: Scripts/Game_Actor(coordinates)/24:23
+> CONTEXT: Scripts/Game_Actor(coordinates)/28:23
 "Peridot Charm"
 > END STRING
 
@@ -7414,7 +7414,7 @@
 
 > BEGIN STRING
 "興奮剤"
-> CONTEXT: Scripts/RPG::Item(detail)/112:12 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Item(detail)/112:12
 "Stimulant"
 > END STRING
 
@@ -7703,7 +7703,7 @@
 
 > BEGIN STRING
 "ミスリルアイアン"
-> CONTEXT: Scripts/RPG::Item(detail)/146:12 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Item(detail)/146:12
 "Mythril Iron"
 > END STRING
 
@@ -7749,7 +7749,7 @@
 
 > BEGIN STRING
 "エーテルローション"
-> CONTEXT: Scripts/RPG::Item(detail)/150:12 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Item(detail)/150:12
 "Ether Lotion"
 > END STRING
 
@@ -7774,7 +7774,7 @@
 
 > BEGIN STRING
 "夢魔の触手"
-> CONTEXT: Scripts/RPG::Item(detail)/154:12 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Item(detail)/154:12
 "Succubus Tentacle"
 > END STRING
 
@@ -7793,7 +7793,7 @@
 
 > BEGIN STRING
 "チャミングブーケ"
-> CONTEXT: Scripts/RPG::Item(detail)/158:12 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Item(detail)/158:12
 "Charming Bouquet"
 > END STRING
 
@@ -7848,7 +7848,7 @@
 
 > BEGIN STRING
 "ドゥヂチシグネット"
-> CONTEXT: Scripts/RPG::Item(detail)/165:12 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Item(detail)/165:12
 "Dodichi Signet"
 > END STRING
 
@@ -8749,7 +8749,7 @@
 
 > BEGIN STRING
 "イワシのマリネ"
-> CONTEXT: Scripts/RPG::Item(detail)/312:12 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Item(detail)/312:12
 "Marinated Sardines"
 > END STRING
 
@@ -8779,7 +8779,7 @@
 
 > BEGIN STRING
 "スモークサーモン"
-> CONTEXT: Scripts/RPG::Item(detail)/317:12 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Item(detail)/317:12
 "Smoked Salmon"
 > END STRING
 
@@ -8827,7 +8827,7 @@
 
 > BEGIN STRING
 "仔鳩のグリル"
-> CONTEXT: Scripts/RPG::Item(detail)/325:12 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Item(detail)/325:12
 "Grilled Baby Pigeon"
 > END STRING
 
@@ -8879,9 +8879,9 @@
 
 > BEGIN STRING
 "スフィンクス"
-> CONTEXT: Scripts/Game_Battler 2/59:21 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Enemy/496:27 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/321:10 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler 2/59:21
+> CONTEXT: Scripts/Game_Enemy/496:27
+> CONTEXT: Scripts/★図鑑用詳細データ/321:10
 "Sphinx"
 > END STRING
 
@@ -9131,7 +9131,7 @@
 
 > BEGIN STRING
 "マムシのカルパッチョ"
-> CONTEXT: Scripts/RPG::Item(detail)/369:12 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Item(detail)/369:12
 "Viper Carpaccio"
 > END STRING
 
@@ -9667,7 +9667,7 @@
 
 > BEGIN STRING
 "アルケインリボン"
-> CONTEXT: Scripts/Game_Battler 1/441:29 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler 1/441:29
 "Arcane Ribbon"
 > END STRING
 
@@ -9686,7 +9686,7 @@
 
 > BEGIN STRING
 "クリプティリボン"
-> CONTEXT: Scripts/Game_Battler 1/441:56 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler 1/441:56
 "Crypti Ribbon"
 > END STRING
 
@@ -9706,7 +9706,7 @@
 
 > BEGIN STRING
 "リンクスマフス"
-> CONTEXT: Scripts/Game_Battler 1/442:29 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler 1/442:29
 "Lynx Muffs"
 > END STRING
 
@@ -9718,7 +9718,7 @@
 
 > BEGIN STRING
 "グリマルキンマフス"
-> CONTEXT: Scripts/Game_Battler 1/442:55 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler 1/442:55
 "Grimalkin Muffs"
 > END STRING
 
@@ -9738,7 +9738,7 @@
 
 > BEGIN STRING
 "サヴァントカチューシャ"
-> CONTEXT: Scripts/Game_Battler 1/443:29 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler 1/443:29
 "Savant Headband"
 > END STRING
 
@@ -9769,7 +9769,7 @@
 
 > BEGIN STRING
 "ルナバレッタ"
-> CONTEXT: Scripts/Game_Battler 1/444:29 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler 1/444:29
 "Luna Barrette"
 > END STRING
 
@@ -9791,7 +9791,7 @@
 
 > BEGIN STRING
 "セレスシャルバレッタ"
-> CONTEXT: Scripts/Game_Battler 1/444:54 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler 1/444:54
 "Celestial Barrette"
 > END STRING
 
@@ -9809,7 +9809,7 @@
 
 > BEGIN STRING
 "アルケインドレス"
-> CONTEXT: Scripts/Game_Battler 1/445:32 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler 1/445:32
 "Arcane Dress"
 > END STRING
 
@@ -9837,7 +9837,7 @@
 
 > BEGIN STRING
 "クリプティドレス"
-> CONTEXT: Scripts/Game_Battler 1/445:59 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler 1/445:59
 "Crypti Dress"
 > END STRING
 
@@ -9855,7 +9855,7 @@
 
 > BEGIN STRING
 "コーラルドレス"
-> CONTEXT: Scripts/Game_Battler 1/446:31 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler 1/446:31
 "Coral Dress"
 > END STRING
 
@@ -9867,7 +9867,7 @@
 
 > BEGIN STRING
 "ダマスクドレス"
-> CONTEXT: Scripts/Game_Battler 1/446:57 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler 1/446:57
 "Damask Dress"
 > END STRING
 
@@ -9879,7 +9879,7 @@
 
 > BEGIN STRING
 "アイボリードレス"
-> CONTEXT: Scripts/Game_Battler 1/447:33 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler 1/447:33
 "Ivory Dress"
 > END STRING
 
@@ -9891,7 +9891,7 @@
 
 > BEGIN STRING
 "アラバスタドレス"
-> CONTEXT: Scripts/Game_Battler 1/447:60 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler 1/447:60
 "Alabasta Dress"
 > END STRING
 
@@ -9919,13 +9919,13 @@
 
 > BEGIN STRING
 "リンクスファー"
-> CONTEXT: Scripts/Game_Battler 1/448:29 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler 1/448:29
 "Lynx Fur"
 > END STRING
 
 > BEGIN STRING
 "グリマルキンファー"
-> CONTEXT: Scripts/Game_Battler 1/448:55 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler 1/448:55
 "Grimalkin Fur"
 > END STRING
 
@@ -9953,7 +9953,7 @@
 
 > BEGIN STRING
 "サヴァントブラウス"
-> CONTEXT: Scripts/Game_Battler 1/449:29 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler 1/449:29
 "Savant Blouse"
 > END STRING
 
@@ -9977,7 +9977,7 @@
 
 > BEGIN STRING
 "ミニマルビキニ"
-> CONTEXT: Scripts/Game_Battler 1/450:29 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler 1/450:29
 "Minimal Bikini"
 > END STRING
 
@@ -9997,7 +9997,7 @@
 
 > BEGIN STRING
 "エンプティビキニ"
-> CONTEXT: Scripts/Game_Battler 1/450:55 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler 1/450:55
 "Empty Bikini"
 > END STRING
 
@@ -10148,17 +10148,17 @@
 
 > BEGIN STRING
 "マーメイド"
-> CONTEXT: Scripts/Game_Battler(msg-nude(E))/75:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/35:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/89:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/173:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/148:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/35:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/160:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(A))/96:10 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Enemy/174:11 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Enemy/504:12 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/505:10 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler(msg-nude(E))/75:10
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/35:10
+> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/89:10
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/173:10
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/148:10
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/35:10
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/160:10
+> CONTEXT: Scripts/Game_Battler(msg-insert(A))/96:10
+> CONTEXT: Scripts/Game_Enemy/174:11
+> CONTEXT: Scripts/Game_Enemy/504:12
+> CONTEXT: Scripts/★図鑑用詳細データ/505:10
 "Mermaid"
 > END STRING
 
@@ -15848,8 +15848,8 @@
 
 > BEGIN STRING
 "ナイトメア"
-> CONTEXT: Scripts/Game_Enemy/484:33 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/855:10 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Enemy/484:33
+> CONTEXT: Scripts/★図鑑用詳細データ/855:10
 "Nightmare"
 > END STRING
 
@@ -15974,9 +15974,9 @@
 
 > BEGIN STRING
 "ファミリア"
-> CONTEXT: Scripts/Game_Enemy/486:36 < UNTRANSLATED
-> CONTEXT: Scripts/魔物図鑑/398:26 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/476:10 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Enemy/486:36
+> CONTEXT: Scripts/魔物図鑑/398:26
+> CONTEXT: Scripts/★図鑑用詳細データ/476:10
 "Familiar"
 > END STRING
 
@@ -16547,16 +16547,16 @@
 
 > BEGIN STRING
 "メロウ"
-> CONTEXT: Scripts/Game_Enemy/504:20 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/542:10 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Enemy/504:20
+> CONTEXT: Scripts/★図鑑用詳細データ/542:10
+"Mellow"
 > END STRING
 
 > BEGIN STRING
 "ウェパル"
-> CONTEXT: Scripts/Game_Enemy/504:26 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/117:10 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Enemy/504:26
+> CONTEXT: Scripts/★図鑑用詳細データ/117:10
+"Wepal"
 > END STRING
 
 > BEGIN STRING
@@ -16567,9 +16567,9 @@
 
 > BEGIN STRING
 "ローレライ"
-> CONTEXT: Scripts/Game_Enemy/504:33 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/668:10 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Enemy/504:33
+> CONTEXT: Scripts/★図鑑用詳細データ/668:10
+"Lorelei"
 > END STRING
 
 > BEGIN STRING
@@ -16684,7 +16684,7 @@
 
 > BEGIN STRING
 "ロギン"
-> CONTEXT: Scripts/Game_Battler 3-1/580:44 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler 3-1/580:44
 "Rogin"
 > END STRING
 
@@ -18425,7 +18425,7 @@
 
 > BEGIN STRING
 "ドラウムニョルのほこら"
-> CONTEXT: Scripts/Window_SaveFile/133:14 < UNTRANSLATED
+> CONTEXT: Scripts/Window_SaveFile/133:14
 "Draumnior Shrine"
 > END STRING
 

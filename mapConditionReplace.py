@@ -7,15 +7,14 @@ def replace_strings_in_files(folder_path, mod_path, replace_dict):
             with open(os.path.join(folder_path, filename), 'rb') as file:
                 content = file.read()
 
-            utf8_parts = re.findall(rb'\(\".{3,30}\"\)', content)
-            utf8_parts += re.findall(rb'== \".{3,30}\"', content)
+            utf8_parts = re.findall(rb'\(\"[^\$]{3,30}\"\)', content)
+            utf8_parts += re.findall(rb'== \"[^\$]{3,30}\"', content)
             replaced = False
 
             savedspot = -1
             saveddiff = 0
 
             for part in utf8_parts:
-
                 replacement = replace_dict.get(part)
                 if replacement:
                     diff = len(part)-len(replace_dict[part])
@@ -24,6 +23,13 @@ def replace_strings_in_files(folder_path, mod_path, replace_dict):
                     replaced = True
                     lensymbol = content.rfind(rb"$", 0, content.find(part))-1
                     lensymbol = max(content.rfind(rb"@", 0, content.find(part))-1, lensymbol)
+                    if diff > 0:
+                        #print(lensymbol)
+                        #print(content[lensymbol-2])
+                        replacement += rb" "*diff
+                        diff = 0
+                        #lensymbol = content.rfind(rb"$", lensymbol-30, lensymbol)-1
+                        #lensymbol = max(content.rfind(rb"@", lensymbol-30, lensymbol)-1, lensymbol)
                     ifspot = content.rfind(rb"if", lensymbol-4, lensymbol)-1
                     elseifspot = content.rfind(rb"elseif", lensymbol-8, lensymbol)-1
                     notspot = content.rfind(rb"not", lensymbol-5, lensymbol)-1
@@ -45,8 +51,9 @@ def replace_strings_in_files(folder_path, mod_path, replace_dict):
                         print(lensymbol)
                         content = content.replace(part, replacement, 1)
                         continue
-                    newbyte = bytes(chr(content[lensymbol]-(diff+saveddiff)),'utf-8')
-                    content = content[:lensymbol]+newbyte+content[lensymbol+1:]
+                    if diff != 0:
+                        newbyte = bytes(chr(content[lensymbol]-(diff+saveddiff)),'utf-8')
+                        content = content[:lensymbol]+newbyte+content[lensymbol+1:]
                     content = content.replace(part, replacement, 1)
                     saveddiff = 0
             #utf8_parts = re.findall(rb'.\$game_actors\[101\]\.have_ability\?\("[^;]*"\).*?;', content)
@@ -64,7 +71,7 @@ def replace_strings_in_files(folder_path, mod_path, replace_dict):
             #    print("special case: "+filename)
                 
             if replaced:
-                with open(os.path.join(mod_path, filename), 'wb') as modified_file:
+                with open(os.path.join(mod_path, "P_"+filename), 'wb') as modified_file:
                     modified_file.write(content)
                 print("Modified "+filename)
 
@@ -74,7 +81,7 @@ if __name__ == "__main__":
     folder_name = current_dir.split("\\")[-1].replace("_patch", "_translated")
     folder_path = os.path.join(parent_dir, folder_name+"\\Data")
     mod_path = folder_path
-    #mod_path = os.path.join(parent_dir, folder_name+"\\Mod\\Mod_Data")
+    mod_path = os.path.join(parent_dir, folder_name)
     #mod_path = folder_path
     
     replacements = {}
