@@ -1948,7 +1948,7 @@ took off \\n[27]'s clothes off!
 > BEGIN STRING
 「ご、ごめん、エス姉……
 > CONTEXT: Commonevents/140/49/Dialogue
-「S-sorry, Mrs. Es...
+「S-sorry, Ms. Es...
 > END STRING
 
 > BEGIN STRING
@@ -2655,14 +2655,14 @@ Villager
 
 > BEGIN STRING
 「血圧上昇中…レベルE突破確認。
-> CONTEXT: Commonevents/151/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/151/3/Dialogue
+「Blood pressure rising...Level E breach confirmed.
 > END STRING
 
 > BEGIN STRING
 「ご主人様、フィニッシュに移ります。
-> CONTEXT: Commonevents/151/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/151/4/Dialogue
+「Master, we will now move on to the finish.
 > END STRING
 
 > BEGIN STRING
@@ -2686,8 +2686,9 @@ Villager
 > BEGIN STRING
 「オプション…装着…
 　いつもので参ります。
-> CONTEXT: Commonevents/151/22/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/151/22/Dialogue
+「Options...equipped...
+　I'll go with the usual.
 > END STRING
 
 > BEGIN STRING
@@ -2705,8 +2706,9 @@ Villager
 > BEGIN STRING
 「興奮度低……
 　足りないのかしら……
-> CONTEXT: Commonevents/151/36/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/151/36/Dialogue
+「Excitement level low...
+　Perhaps it's not enough...
 > END STRING
 
 > BEGIN STRING
@@ -3187,14 +3189,14 @@ Villager
 
 > BEGIN STRING
 「…理解不能……
-> CONTEXT: Commonevents/170/86/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/170/86/Dialogue
+「...Incomprehensible...
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]クララには効果がなかった！
-> CONTEXT: Commonevents/170/88/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/170/88/Dialogue
+\\a[\\v[105]]It didn't work on Clara!
 > END STRING
 
 > BEGIN STRING

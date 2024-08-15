@@ -1,12 +1,12 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 \\c[4]魔導院のカギ\\c[0]を使って扉を開けた！
-> CONTEXT: Map149/events/1/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map149/events/1/pages/0/3/Dialogue
+Opened the door with \\c[4]Magic Academy Key\\c[0]
 > END STRING
 
 > BEGIN STRING
 カギがあれば開けられそうだ
-> CONTEXT: Map149/events/1/pages/0/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map149/events/1/pages/0/12/Dialogue
+If you have the key, you can open
 > END STRING

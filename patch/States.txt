@@ -1514,9 +1514,9 @@ MP+5%(マナキャンディ)
 
 > BEGIN STRING
 スローモード
-> CONTEXT: States/287/name/ < UNTRANSLATED
-> CONTEXT: Troops/314/pages/2/7/Choice/0 < UNTRANSLATED
-
+> CONTEXT: States/287/name/
+> CONTEXT: Troops/314/pages/2/7/Choice/0
+Slow Mode
 > END STRING
 
 > BEGIN STRING
@@ -2073,8 +2073,8 @@ Summer Noble
 
 > BEGIN STRING
 バロックウィザード
-> CONTEXT: States/513/name/ < UNTRANSLATED
-
+> CONTEXT: States/513/name/
+Baroque Wizard
 > END STRING
 
 > BEGIN STRING

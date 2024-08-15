@@ -187,14 +187,14 @@ Def +4 / Charm +3 / Spirit +4 / Magic Res. +50%
 
 > BEGIN STRING
 バロックウィザード/5/0/0
-> CONTEXT: Weapons/22/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/22/name/
+Baroque Wizard/5/0/0
 > END STRING
 
 > BEGIN STRING
 魅力+5 / 精神力+5 / ルヴィッサのMP+10%
-> CONTEXT: Weapons/22/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/22/description/
+Charm +5 / Spirit +5 / Rovissa's MP +10%
 > END STRING
 
 > BEGIN STRING

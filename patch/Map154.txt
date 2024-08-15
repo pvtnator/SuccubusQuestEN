@@ -28,5 +28,5 @@
 > BEGIN STRING
 \\c[4]魔導院のカギ\\c[0]を手に入れた！
 > CONTEXT: Map154/events/5/pages/0/14/Dialogue
-\\c[4]Key to Magic Academy\\c[0] obtained!
+\\c[4]Magic Academy Key\\c[0] obtained!
 > END STRING

@@ -225,7 +225,7 @@ SQ_Castel02
 　まさかオリビア殿まで……
 > CONTEXT: Map044/events/7/pages/0/117/Dialogue
 「!
-　Even Mrs. Olivia...
+　Even Ms. Olivia...
 > END STRING
 
 > BEGIN STRING
@@ -345,7 +345,7 @@ you need to take the \\c[2]West Highway\\c[0].
 > BEGIN STRING
 「し、しかし急がねばオリビア殿が……！
 > CONTEXT: Map044/events/7/pages/0/176/Dialogue
-「B-but, we must hurry for Mrs. Olivia...!
+「B-but, we must hurry for Ms. Olivia...!
 > END STRING
 
 > BEGIN STRING

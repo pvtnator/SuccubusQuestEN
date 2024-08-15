@@ -2,15 +2,17 @@
 > BEGIN STRING
 「え……？
 　な、何これ…………
-> CONTEXT: Map159/events/1/pages/0/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map159/events/1/pages/0/7/Dialogue
+「Eh...?
+　Wh-what is this...?
 > END STRING
 
 > BEGIN STRING
 「この霧…………
 　何てこと…………
-> CONTEXT: Map159/events/1/pages/0/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map159/events/1/pages/0/10/Dialogue
+「This fog.....
+　What the.....
 > END STRING
 
 > BEGIN STRING
@@ -26,89 +28,103 @@
 「今………、
 　何もないところから
 　急に夢魔が……？
-> CONTEXT: Map159/events/1/pages/0/57/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map159/events/1/pages/0/57/Dialogue
+「Right now...
+　out of nowhere
+　a succubus suddenly appeared...?
 > END STRING
 
 > BEGIN STRING
 「……夜の国だわ……………
-> CONTEXT: Map159/events/1/pages/0/83/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map159/events/1/pages/0/83/Dialogue
+「...It's the land of night......
 > END STRING
 
 > BEGIN STRING
 「夜の国………
 　夢魔たちが住む世界よ。
-> CONTEXT: Map159/events/1/pages/0/89/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map159/events/1/pages/0/89/Dialogue
+「The Land of Night...
+　A world inhabited by succubi.
 > END STRING
 
 > BEGIN STRING
 「それが、この世界と
 　\\d重なって\\dきているの。
-> CONTEXT: Map159/events/1/pages/0/91/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map159/events/1/pages/0/91/Dialogue
+「And this world
+　is \\dparallel\\d to ours.
 > END STRING
 
 > BEGIN STRING
 「そんな………
 　どうしてそんなことが……
-> CONTEXT: Map159/events/1/pages/0/94/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map159/events/1/pages/0/94/Dialogue
+「No way...
+　How could that be...
 > END STRING
 
 > BEGIN STRING
 「ここにある、
 　\\n[1]さんの探してるものの
 　せいなんですか？
-> CONTEXT: Map159/events/1/pages/0/96/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map159/events/1/pages/0/96/Dialogue
+「Is this about
+　the thing you're looking for, \\n[1]?
+　It's here?
 > END STRING
 
 > BEGIN STRING
 「ううん…。
 　\\c[4]魔王のかけら\\c[0]があるなら、逆に
 　夢魔はそんなことできないはずよ。
-> CONTEXT: Map159/events/1/pages/0/100/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map159/events/1/pages/0/100/Dialogue
+「Well...
+　Succubi shouldn't be able to do something like this
+　if the \\c[4]Demon Lord Shard\\c[0] is around.
 > END STRING
 
 > BEGIN STRING
 「魔王の力は、夢魔を、夜の国を
 　拒む力だもの。
-> CONTEXT: Map159/events/1/pages/0/103/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map159/events/1/pages/0/103/Dialogue
+「The power of the Demon Lord 
+　is the power to reject succubi 
+　and the land of night.
 > END STRING
 
 > BEGIN STRING
 「それじゃどうして……
-> CONTEXT: Map159/events/1/pages/0/106/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map159/events/1/pages/0/106/Dialogue
+「Then why...
 > END STRING
 
 > BEGIN STRING
 「分からない…。
 　\\c[4]魔王のかけら\\c[0]はこの奥にあるの？
-> CONTEXT: Map159/events/1/pages/0/108/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map159/events/1/pages/0/108/Dialogue
+「I don't know...
+　Is there a \\c[4]Demon Lord Shard\\c[0] deeper in here?
 > END STRING
 
 > BEGIN STRING
 「はい、お父さんの話では
 　一番奥に厳重に保管してあると……
-> CONTEXT: Map159/events/1/pages/0/111/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map159/events/1/pages/0/111/Dialogue
+「Yes, according to my father,
+　it's kept in a secure location at the very back...
 > END STRING
 
 > BEGIN STRING
 「行ってみましょ。
 　それしかないわ。
-> CONTEXT: Map159/events/1/pages/0/116/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map159/events/1/pages/0/116/Dialogue
+「Let's go. 
+　No other choice.
 > END STRING
 
 > BEGIN STRING
 奥からただならぬ気配がする…
-> CONTEXT: Map159/events/8/pages/0/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map159/events/8/pages/0/0/Dialogue
+There's something unusual coming from the back...
 > END STRING

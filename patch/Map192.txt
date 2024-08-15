@@ -7,9 +7,9 @@
 
 > BEGIN STRING
 「えっ？
-> CONTEXT: Map192/events/11/pages/0/108/Dialogue < UNTRANSLATED
-> CONTEXT: Map159/events/1/pages/0/85/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/108/Dialogue
+> CONTEXT: Map159/events/1/pages/0/85/Dialogue
+「Eh?
 > END STRING
 
 > BEGIN STRING

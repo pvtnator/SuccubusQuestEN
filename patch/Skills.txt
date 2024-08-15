@@ -526,14 +526,14 @@ Attack intensely at random [TP: 100]
 
 > BEGIN STRING
 ラッシュ/0/105/0
-> CONTEXT: Skills/76/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/76/name/
+Rush/0/105/0
 > END STRING
 
 > BEGIN STRING
 ランダムに連続してせめる [必要TP：105]
-> CONTEXT: Skills/76/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/76/description/
+Attack continuously at random [TP: 105]
 > END STRING
 
 > BEGIN STRING
@@ -1951,8 +1951,8 @@ Rapture
 
 > BEGIN STRING
 ホルド
-> CONTEXT: Skills/308/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/308/name/
+Hold
 > END STRING
 
 > BEGIN STRING
@@ -2077,8 +2077,8 @@ Sensitive Water
 
 > BEGIN STRING
 誘惑の舞い
-> CONTEXT: Skills/326/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/326/name/
+Temptation Dance
 > END STRING
 
 > BEGIN STRING
@@ -3330,8 +3330,8 @@ Invitation
 
 > BEGIN STRING
 マキーナ・エロティカ
-> CONTEXT: Skills/661/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/661/name/
+Machina Erotica
 > END STRING
 
 > BEGIN STRING

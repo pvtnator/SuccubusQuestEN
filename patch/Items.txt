@@ -1401,8 +1401,8 @@ Ferry ticket from Friberg to Poppana
 
 > BEGIN STRING
 魔導院のカギ
-> CONTEXT: Items/258/name/ < UNTRANSLATED
-
+> CONTEXT: Items/258/name/
+Magic Academy Key
 > END STRING
 
 > BEGIN STRING

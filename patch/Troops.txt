@@ -2804,92 +2804,99 @@ EV_クララ
 
 > BEGIN STRING
 「対象…識別……
-> CONTEXT: Troops/314/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/314/pages/0/1/Dialogue
+「Subject…Identification…
 > END STRING
 
 > BEGIN STRING
 「\\n[1]・オヴェルーク様、
 　ご奉仕させていただきます。
-> CONTEXT: Troops/314/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/314/pages/0/2/Dialogue
+「Mr. \\n[1] Overlorg, 
+　I will be at your service.
 > END STRING
 
 > BEGIN STRING
 「ご主人様、
 　今宵はどのようにいたしますか？
-> CONTEXT: Troops/314/pages/2/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/314/pages/2/1/Dialogue
+「Master, 
+　what would you like to do tonight?
 > END STRING
 
 > BEGIN STRING
 「じっくり時間をかける『スローモード』と、
 　激しく行う『ハードモード』が選択可能です。
-> CONTEXT: Troops/314/pages/2/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/314/pages/2/3/Dialogue
+「You can choose between 'Slow Mode' 
+　and an intense 'Hard Mode'.
 > END STRING
 
 > BEGIN STRING
 「今宵はどのようにいたしますか？」
-> CONTEXT: Troops/314/pages/2/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/314/pages/2/6/Dialogue
+「What would you like to do tonight?」
 > END STRING
 
 > BEGIN STRING
 ハードモード
-> CONTEXT: Troops/314/pages/2/7/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Troops/314/pages/2/7/Choice/1
+Hard Mode
 > END STRING
 
 > BEGIN STRING
 答えない
-> CONTEXT: Troops/314/pages/2/7/Choice/2 < UNTRANSLATED
-
+> CONTEXT: Troops/314/pages/2/7/Choice/2
+No Answer
 > END STRING
 
 > BEGIN STRING
 「かしこまりました…
 　…感度センサーOFF……
-> CONTEXT: Troops/314/pages/2/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/314/pages/2/10/Dialogue
+「Understood...
+　...Sensitivity sensor off...
 > END STRING
 
 > BEGIN STRING
 「かしこまりました…
 　出力最大…リミッター解除……
-> CONTEXT: Troops/314/pages/2/17/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/314/pages/2/17/Dialogue
+「Understood...
+　Maximum output...Limiter removed...
 > END STRING
 
 > BEGIN STRING
 「かしこまりました…
-> CONTEXT: Troops/314/pages/2/24/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/314/pages/2/24/Dialogue
+「Certainly...
 > END STRING
 
 > BEGIN STRING
 「それでは、いつもの
 　縛って！MY　MAID！モードで
 　参ります。
-> CONTEXT: Troops/314/pages/2/25/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/314/pages/2/25/Dialogue
+「Well then, I'll go in my usual 
+　"Tie Up! MY MAID!"-mode.
 > END STRING
 
 > BEGIN STRING
 「魔力回路に…異常確認……
 　修復…不能……
-> CONTEXT: Troops/314/pages/4/3/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/314/pages/4/14/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/314/pages/4/28/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/314/pages/4/3/Dialogue
+> CONTEXT: Troops/314/pages/4/14/Dialogue
+> CONTEXT: Troops/314/pages/4/28/Dialogue
+「Magic circuitry...abnormality confirmed...
+　Cannot be repaired…
 > END STRING
 
 > BEGIN STRING
 「通常モードに移行…します…
-> CONTEXT: Troops/314/pages/4/5/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/314/pages/4/16/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/314/pages/4/30/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/314/pages/4/5/Dialogue
+> CONTEXT: Troops/314/pages/4/16/Dialogue
+> CONTEXT: Troops/314/pages/4/30/Dialogue
+「Switching to normal mode...
 > END STRING
 
 > BEGIN STRING

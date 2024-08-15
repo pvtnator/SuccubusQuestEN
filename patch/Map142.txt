@@ -501,394 +501,442 @@
 > BEGIN STRING
 「……断っておきますが、
 　\\n[1]さん、
-> CONTEXT: Map142/events/19/pages/3/27/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/27/Dialogue
+「...I must say,
+　\\n[1],
 > END STRING
 
 > BEGIN STRING
 「私はまだ、あなたを完全に
 　信用したわけではありませんよ。
-> CONTEXT: Map142/events/19/pages/3/29/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/29/Dialogue
+「I still don't fully trust you.
 > END STRING
 
 > BEGIN STRING
 「あなたには
 　魔王ギルデンスターンの力が
 　宿っている……
-> CONTEXT: Map142/events/19/pages/3/31/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/31/Dialogue
+「The power of the Demon Lord Guildenstern 
+　resides within you...
 > END STRING
 
 > BEGIN STRING
 「その事実には
 　変わりがないのですから。
-> CONTEXT: Map142/events/19/pages/3/34/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/34/Dialogue
+「That fact 
+　remains unchanged.
 > END STRING
 
 > BEGIN STRING
 「………もういいじゃない。
 　その話は。
-> CONTEXT: Map142/events/19/pages/3/60/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/60/Dialogue
+「...That's enough already.
+　About that.
 > END STRING
 
 > BEGIN STRING
 「それより、あなたもう二度も
 　\\n[1]に助けられてるのよ。
 　わかってる？
-> CONTEXT: Map142/events/19/pages/3/62/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/62/Dialogue
+「More importantly, 
+　you've already been saved by \\n[1] twice. 
+　Do you understand that?
 > END STRING
 
 > BEGIN STRING
 「分かっているから
 　こうして協力を申し出ているのです。
 　……ええと、
-> CONTEXT: Map142/events/19/pages/3/66/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/66/Dialogue
+「I know that,
+　which is why I'm offering my cooperation.
+　...Uhm,
 > END STRING
 
 > BEGIN STRING
 「ルヴィッサよ。
-> CONTEXT: Map142/events/19/pages/3/70/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/70/Dialogue
+「Rovissa.
 > END STRING
 
 > BEGIN STRING
 「ルヴィッサさん。
-> CONTEXT: Map142/events/19/pages/3/72/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/72/Dialogue
+「Rovissa.
 > END STRING
 
 > BEGIN STRING
 「それに、私の治めるリスヴェグを
 　夢魔などという魔物に
 　好きにさせるわけにもいきませんしね。
-> CONTEXT: Map142/events/19/pages/3/73/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/73/Dialogue
+「Besides, I can't let a demons like succubi 
+　do as they please with Lisveg, that I rule over.
 > END STRING
 
 > BEGIN STRING
 「……急に指導者ぶっちゃって………
-> CONTEXT: Map142/events/19/pages/3/77/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/77/Dialogue
+「...Suddenly acting like a leader...
 > END STRING
 
 > BEGIN STRING
 「何か言いましたか？
-> CONTEXT: Map142/events/19/pages/3/79/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/79/Dialogue
+「Did you say something?
 > END STRING
 
 > BEGIN STRING
 「いいえ、何も。
-> CONTEXT: Map142/events/19/pages/3/81/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/81/Dialogue
+「No, nothing.
 > END STRING
 
 > BEGIN STRING
 「それより早く教えてちょうだい。
 　分かるのよね？
-> CONTEXT: Map142/events/19/pages/3/82/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/82/Dialogue
+「Tell us about it already. 
+　You know, right?
 > END STRING
 
 > BEGIN STRING
 「はい。
 　あの\\dかけら\\dの放つ魔力は、
 　非常に特殊なものでしたからね。
-> CONTEXT: Map142/events/19/pages/3/85/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/85/Dialogue
+「Yes.
+　The magic that \\dshard\\d emitted 
+　was extremely special.
 > END STRING
 
 > BEGIN STRING
 「私の魔法で
 　探せるはずです。
-> CONTEXT: Map142/events/19/pages/3/88/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/88/Dialogue
+「I should be able to find it 
+　with my magic.
 > END STRING
 
 > BEGIN STRING
 「……この鏡を使いましょうか。
-> CONTEXT: Map142/events/19/pages/3/92/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/92/Dialogue
+「...Let's use this mirror, shall we?
 > END STRING
 
 > BEGIN STRING
 「それでは……
-> CONTEXT: Map142/events/19/pages/3/127/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/127/Dialogue
+「Well then...
 > END STRING
 
 > BEGIN STRING
 「これは…鏡の通信魔法……
-> CONTEXT: Map142/events/19/pages/3/143/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/143/Dialogue
+「This is...a mirror communication spell...
 > END STRING
 
 > BEGIN STRING
 「……何て書いてあるの？
-> CONTEXT: Map142/events/19/pages/3/145/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/145/Dialogue
+「...What does it say?
 > END STRING
 
 > BEGIN STRING
 「『盃のかけらは魔王城に在り。
 　　勇者よ来たれ。
 　　　　　　　　　　　　　　　　　　－エスト　　』」
-> CONTEXT: Map142/events/19/pages/3/147/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/147/Dialogue
+「"The 'Cup' fragment is in the Demon Lord's castle.
+　 Come, brave warrior.
+　　　　　　　　　　　　　　　　　　－Est　　"」
 > END STRING
 
 > BEGIN STRING
 「……署名は違いますが、
 　おそらくグスタフスの魔法でしょう。
-> CONTEXT: Map142/events/19/pages/3/150/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/150/Dialogue
+「...The signature is unusual,
+　but it's probably Gustavus' magic.
 > END STRING
 
 > BEGIN STRING
 「代筆といったところでしょうか。
 　古臭い手を使ってくれます。
-> CONTEXT: Map142/events/19/pages/3/152/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/152/Dialogue
+「It's like writing something for someone else.
+　They use an old-fashioned method.
 > END STRING
 
 > BEGIN STRING
 「エスト……
 　またあの夢魔ね。
-> CONTEXT: Map142/events/19/pages/3/155/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/155/Dialogue
+「Est...
+　That succubus again.
 > END STRING
 
 > BEGIN STRING
 「でも、自分から
 　\\dかけら\\dの場所を教えるなんて
 　何考えてるのかしら……
-> CONTEXT: Map142/events/19/pages/3/157/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/157/Dialogue
+「But what on earth is she thinking, 
+　telling the location of the \\dfragments\\d herself...
 > END STRING
 
 > BEGIN STRING
 「ハグロフス様、大変です！
-> CONTEXT: Map142/events/19/pages/3/175/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/175/Dialogue
+「Mr. Haglofs, this is serious!
 > END STRING
 
 > BEGIN STRING
 「町中の鏡に、血文字が……！
-> CONTEXT: Map142/events/19/pages/3/184/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/184/Dialogue
+「There are blood writings 
+　on the mirrors all over town!
 > END STRING
 
 > BEGIN STRING
 「……おそらくこの町だけでなく、
 　リスヴェグ中……
-> CONTEXT: Map142/events/19/pages/3/186/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/186/Dialogue
+「...Probably not just in this town,
+　but throughout Lisveg...
 > END STRING
 
 > BEGIN STRING
 「いや、世界中に
 　送られているのでしょう。
-> CONTEXT: Map142/events/19/pages/3/188/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/188/Dialogue
+「No, they're being sent all over the world.
 > END STRING
 
 > BEGIN STRING
 「あの\\dかけら\\dをエサに、
 　他の\\dかけら\\dを集めている人間を
 　おびきよせようっていうの！？
-> CONTEXT: Map142/events/19/pages/3/193/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/193/Dialogue
+「Is she trying to use that \\dfragment\\d as bait 
+　to lure out the people 
+　who are collecting other \\dfragments\\d?
 > END STRING
 
 > BEGIN STRING
 「……あるいはグスタフスの
 　言っていたように、ただ
 　遊んでるだけかも知れませんね。
-> CONTEXT: Map142/events/19/pages/3/197/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/197/Dialogue
+「...Or maybe, like Gustavus said, 
+　they're just playing.
 > END STRING
 
 > BEGIN STRING
 「いいわ……
 　望むところじゃない………
-> CONTEXT: Map142/events/19/pages/3/201/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/201/Dialogue
+「Right...
+　Suits me...
 > END STRING
 
 > BEGIN STRING
 「逆に私たちが全部奪って、
 　夢魔もみんなやっつけてやるんだから！
-> CONTEXT: Map142/events/19/pages/3/203/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/203/Dialogue
+「Instead, we'll take everything 
+　and defeat all the succubi!
 > END STRING
 
 > BEGIN STRING
 「夢魔に味方するような人間も同罪よ！
 　みんな消してやるわ！
-> CONTEXT: Map142/events/19/pages/3/205/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/205/Dialogue
+「People who side with the succubi 
+　are just as guilty! 
+　We'll get rid of them all!
 > END STRING
 
 > BEGIN STRING
 「ね！\\n[1]！
-> CONTEXT: Map142/events/19/pages/3/207/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/207/Dialogue
+「Hey! \\n[1]!
 > END STRING
 
 > BEGIN STRING
 「………とにかく、
 　魔王城に行かないことには
 　始まりませんね。
-> CONTEXT: Map142/events/19/pages/3/228/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/228/Dialogue
+「...Anyway,
+　we can't get started until we 
+　get to the Demon Lord's Castle.
 > END STRING
 
 > BEGIN STRING
 「しかし聞くところによれば、
 　\\n[1]さんが魔王を倒して以来
 　魔王城には近寄れなくなっているとか。
-> CONTEXT: Map142/events/19/pages/3/235/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/235/Dialogue
+「I heard that since \\n[1] defeated 
+　the Demon Lord, it has become impossible 
+　to approach the castle.
 > END STRING
 
 > BEGIN STRING
 「……そうね、そうだったわ。
-> CONTEXT: Map142/events/19/pages/3/239/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/239/Dialogue
+「...Yeah, that’s right.
 > END STRING
 
 > BEGIN STRING
 「あそこは最初に夢魔が
 　入ってきた場所だから、
-> CONTEXT: Map142/events/19/pages/3/240/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/240/Dialogue
+「That's where the succubi first came in,
 > END STRING
 
 > BEGIN STRING
 「もう周りの山脈ごと、ほとんど
 　夜の国に\\dなっている\\dのよ。
-> CONTEXT: Map142/events/19/pages/3/242/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/242/Dialogue
+「Almost the entire surrounding mountain range 
+　has \\dbecome\\d Land of Night.
 > END STRING
 
 > BEGIN STRING
 「でも\\dかけら\\dが城にあるなら、
 　直接城まで行ければ何とか……
-> CONTEXT: Map142/events/19/pages/3/244/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/244/Dialogue
+「But if \\dfragments\\d are in the castle, 
+　then we can go there directly...
 > END STRING
 
 > BEGIN STRING
 「空からとか、
 　瞬間移動の魔法とか……
-> CONTEXT: Map142/events/19/pages/3/246/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/246/Dialogue
+「From the sky,
+　or with teleportation magic...
 > END STRING
 
 > BEGIN STRING
 「\\r[瞬間移動魔法,テ　　レ　　ポ　　ト]は
 　使えないんですか？
-> CONTEXT: Map142/events/19/pages/3/249/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/249/Dialogue
+「Can't you use teleportation magic?
 > END STRING
 
 > BEGIN STRING
 「\\n[1]は魔法は使えないのよ。
-> CONTEXT: Map142/events/19/pages/3/252/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/252/Dialogue
+「\\n[1] can't use magic.
 > END STRING
 
 > BEGIN STRING
 「ふむ……ならば………
-> CONTEXT: Map142/events/19/pages/3/254/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/254/Dialogue
+「Hmm...then...
 > END STRING
 
 > BEGIN STRING
 「ここホロスの南に、
 　\\c[1]ベルナドット\\c[0]という
 　魔女が住んでいます。
-> CONTEXT: Map142/events/19/pages/3/256/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/256/Dialogue
+「South of Holos,
+　lives a witch named \\c[1]Bernadotte\\c[0]
 > END STRING
 
 > BEGIN STRING
 「魔法の使えない者でも、
 　彼女の力を借りれば
 　テレポトぐらい使えるでしょう。
-> CONTEXT: Map142/events/19/pages/3/259/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/259/Dialogue
+「Even someone who can't use magic 
+　can use teleportation with her help.
 > END STRING
 
 > BEGIN STRING
 「彼女の家には、ルグブロードの
 　南のテレポーターから行けるはずです。
 　訪ねてみてはどうでしょうか。
-> CONTEXT: Map142/events/19/pages/3/262/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/262/Dialogue
+「You should be able to get to her house 
+　via the teleporter south of Rugbrod. 
+　Why not go and visit her?
 > END STRING
 
 > BEGIN STRING
 「……あなたはやってくれないの？
-> CONTEXT: Map142/events/19/pages/3/266/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/266/Dialogue
+「...You can't do that?
 > END STRING
 
 > BEGIN STRING
 「私は魔王城に行ったことがないので、
 　私のテレポトで城まで
 　連れていくのは無理です。
-> CONTEXT: Map142/events/19/pages/3/268/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/268/Dialogue
+「I've never been to the Demon Lord's Castle,
+　so I can't teleport you there.
 > END STRING
 
 > BEGIN STRING
 「それに、
 　他人に魔力を分け与えるような術は
 　どうも苦手でして。
-> CONTEXT: Map142/events/19/pages/3/271/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/271/Dialogue
+「Besides, I'm not very good at 
+　techniques that involve 
+　sharing magic with others.
 > END STRING
 
 > BEGIN STRING
 「………そう。
-> CONTEXT: Map142/events/19/pages/3/275/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/275/Dialogue
+「...I see.
 > END STRING
 
 > BEGIN STRING
 「ベルナドットは
 　迷路に住んでいる偏屈な魔女で
 　訪れる者に必ず試験を与えますが、
-> CONTEXT: Map142/events/19/pages/3/277/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/277/Dialogue
+「Bernadotte is an eccentric witch 
+　who lives in a maze and always gives 
+　tests to those who visit.
 > END STRING
 
 > BEGIN STRING
 「……まあ、先ほどの
 　\\n[1]さんの活躍を見ている限り、
 　大丈夫でしょう。
-> CONTEXT: Map142/events/19/pages/3/280/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/280/Dialogue
+「...Well, based on how well
+　\\n[1] did earlier,
+　you should be fine.
 > END STRING
 
 > BEGIN STRING
 「どういう意味？
-> CONTEXT: Map142/events/19/pages/3/284/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/284/Dialogue
+「What's that supposed to mean?
 > END STRING
 
 > BEGIN STRING
 「紹介状を差し上げましょう。
 　これが無いと迷路に入ることすら
 　できないはずです。
-> CONTEXT: Map142/events/19/pages/3/286/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/286/Dialogue
+「I will give you a referral.
+　Without this, 
+　you won't even be able to enter the maze.
 > END STRING
 
 > BEGIN STRING
@@ -899,8 +947,8 @@
 
 > BEGIN STRING
 「幸運を祈ります。
-> CONTEXT: Map142/events/19/pages/3/294/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map142/events/19/pages/3/294/Dialogue
+「Good luck.
 > END STRING
 
 > BEGIN STRING
@@ -1071,7 +1119,7 @@ It contains a variety of practical tactics using magic.
 > CONTEXT: Map142/events/41/pages/0/1/Dialogue
 「I guess I'm no good...
 　In the end, 
-　I ended up holding Dad back again.
+　I ended up holding dad back again.
 > END STRING
 
 > BEGIN STRING

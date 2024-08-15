@@ -64,7 +64,7 @@
 　夢魔？ ドゥヂチにさらわれたオリビア様？
 > CONTEXT: Map043/events/3/pages/1/1/Dialogue
 「Actually, I was secretly listening in on your story...
-　Succubi? Mrs. Olivia kidnapped by Dodichi?
+　Succubi? Ms. Olivia kidnapped by Dodichi?
 > END STRING
 
 > BEGIN STRING
@@ -272,7 +272,7 @@ restored the destroyed Gruppen.
 「オリビア殿が心配なのはわしも同じじゃが、
 　今は暫し待ちましょうぞ。
 > CONTEXT: Map043/events/18/pages/0/9/Dialogue
-「I'm just as worried about Mrs. Olivia, 
+「I'm just as worried about Ms. Olivia, 
 　but let's wait for a while.
 > END STRING
 
