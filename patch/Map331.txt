@@ -95,41 +95,46 @@
 > BEGIN STRING
 「やあいらっしゃい。
 　クヴァラットの洋品店へようこそ。
-> CONTEXT: Map331/events/2/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map331/events/2/pages/0/1/Dialogue
+「Hello, welcome. 
+　Welcome to Kvalatte's Clothing Store.
 > END STRING
 
 > BEGIN STRING
 「ホロスで売ってる服は、
 　ほとんどうちで作ってるんです。
-> CONTEXT: Map331/events/3/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map331/events/3/pages/0/1/Dialogue
+「Most of the clothes sold at Holos 
+　are made in-house.
 > END STRING
 
 > BEGIN STRING
 「ホロスで売られてるものなら
 　ここで買えますよ。
-> CONTEXT: Map331/events/3/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map331/events/3/pages/0/3/Dialogue
+「If it's sold in Holos, 
+　you can buy it here.
 > END STRING
 
 > BEGIN STRING
 「最近オリジナルの服も
 　いくつか作ってます。
-> CONTEXT: Map331/events/3/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map331/events/3/pages/1/1/Dialogue
+「I've been making some 
+　original clothes recently.
 > END STRING
 
 > BEGIN STRING
 「え？ 牧場？
-> CONTEXT: Map331/events/4/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map331/events/4/pages/0/1/Dialogue
+「Huh? A ranch?
 > END STRING
 
 > BEGIN STRING
 「確かにうちはそんなに広い店じゃ
 　ありませんけど……
 　そんな皮肉言わなくたって……
-> CONTEXT: Map331/events/4/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map331/events/4/pages/0/2/Dialogue
+「It's true that our store isn't that big, but...
+　You don't have to be sarcastic like that...
 > END STRING

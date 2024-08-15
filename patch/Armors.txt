@@ -854,7 +854,7 @@ Silver Earrings/8/0
 > BEGIN STRING
 守り+1 / 魅力+8 / 技巧+1 / 素早さ+5
 > CONTEXT: Armors/116/description/
-Def +1 / Charm +8 / Dexterity +1 / Agility +5
+Def +1 / Charm +8 / Skill +1 / Agility +5
 > END STRING
 
 > BEGIN STRING
@@ -902,7 +902,7 @@ Neroli Gloves/3/0
 > BEGIN STRING
 守り+2 / 魅力+3 / 技巧+4
 > CONTEXT: Armors/120/description/
-Def +2 / Charm +3 / Dexterity +4
+Def +2 / Charm +3 / Skill +4
 > END STRING
 
 > BEGIN STRING
@@ -914,7 +914,7 @@ Complex Scarf/7/0
 > BEGIN STRING
 守り+2 / 魅力+7 / 技巧+2 / パニック耐性+20%
 > CONTEXT: Armors/121/description/
-Def +2 / Charm +7 / Dexterity +2 / Panic Res. +20%
+Def +2 / Charm +7 / Skill +2 / Panic Res. +20%
 > END STRING
 
 > BEGIN STRING
@@ -963,7 +963,7 @@ Velvet Gauntlet/7/0
 魅力+7 / 技巧+5
 > CONTEXT: Armors/125/description/
 > CONTEXT: Armors/126/description/
-Charm +7 / Dexterity +5
+Charm +7 / Skill +5
 > END STRING
 
 > BEGIN STRING
@@ -993,7 +993,7 @@ Turquoise Charm/0/0
 > BEGIN STRING
 守り+7 / 技巧+5% / 素早さ+5% / 精神力+5%
 > CONTEXT: Armors/128/description/
-Def +7 / Dexterity +5% / Agility +5% / Spirit +5%
+Def +7 / Skill +5% / Agility +5% / Spirit +5%
 > END STRING
 
 > BEGIN STRING

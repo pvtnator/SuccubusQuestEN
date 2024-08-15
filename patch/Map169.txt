@@ -74,9 +74,10 @@
 > BEGIN STRING
 
 　* 魔術士の心得 *
-> CONTEXT: Map169/events/10/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map169/events/11/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map169/events/10/pages/0/1/Dialogue
+> CONTEXT: Map169/events/11/pages/0/1/Dialogue
 
+　* The Magician's Knowledge *
 > END STRING
 
 > BEGIN STRING
@@ -84,50 +85,59 @@
 　常にMPに気を配るべし。
 　相手の行動に一定の傾向が見られるならば、
 　それに対応できる魔法を使うべし。
-> CONTEXT: Map169/events/10/pages/0/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map169/events/11/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map169/events/10/pages/0/4/Dialogue
+> CONTEXT: Map169/events/11/pages/0/4/Dialogue
+「Know yourself and know your opponent.
+　Always keep an eye on your MP.
+　If you notice certain kind of behavior,
+　use magic that can respond to it.
 > END STRING
 
 > BEGIN STRING
 「全てを己の魔法に頼ろうとするべからず。
 　ハーブや魔力を持つ道具も有効に扱うべし。
-> CONTEXT: Map169/events/10/pages/0/8/Dialogue < UNTRANSLATED
-> CONTEXT: Map169/events/11/pages/0/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map169/events/10/pages/0/8/Dialogue
+> CONTEXT: Map169/events/11/pages/0/8/Dialogue
+「You should not rely on your magic for everything.
+　You should also make effective use of 
+　herbs and magical items.
 > END STRING
 
 > BEGIN STRING
 「いらっしゃい。
 　何をお探しかね？
-> CONTEXT: Map169/events/12/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map169/events/12/pages/0/1/Dialogue
+「Welcome.
+　What are you looking for?
 > END STRING
 
 > BEGIN STRING
 「…君は魔術士ではないようだな。
-> CONTEXT: Map169/events/12/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map169/events/12/pages/0/3/Dialogue
+「...You don't seem to be a magician.
 > END STRING
 
 > BEGIN STRING
 「そうだな、君に売れそうなのは
 　こんなところか……
-> CONTEXT: Map169/events/12/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map169/events/12/pages/0/4/Dialogue
+「Well, this is what I think 
+　would sell to you...
 > END STRING
 
 > BEGIN STRING
 「また来るといいよ。
-> CONTEXT: Map169/events/12/pages/0/9/Dialogue < UNTRANSLATED
-> CONTEXT: Map169/events/12/pages/1/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map169/events/12/pages/0/9/Dialogue
+> CONTEXT: Map169/events/12/pages/1/7/Dialogue
+「Please come again.
 > END STRING
 
 > BEGIN STRING
 「いらっしゃい。
 　魔術士でない君に売れそうなのは
 　こんなところかな。
-> CONTEXT: Map169/events/12/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map169/events/12/pages/1/1/Dialogue
+「Welcome.
+　I think this is what you might like,
+　as you're not a magician.
 > END STRING

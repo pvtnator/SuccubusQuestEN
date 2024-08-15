@@ -24,14 +24,15 @@ SQ_Town01
 > BEGIN STRING
 「すみません。
 　今、休暇中なんです。
-> CONTEXT: Map333/events/2/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map333/events/2/pages/0/1/Dialogue
+「Sorry. 
+　I'm on vacation right now.
 > END STRING
 
 > BEGIN STRING
 「メェ～ッ！
-> CONTEXT: Map333/events/3/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map333/events/3/pages/0/2/Dialogue
+「Meeeh~!
 > END STRING
 
 > BEGIN STRING
@@ -148,122 +149,131 @@ SQ_Town01
 
 > BEGIN STRING
 「どうだい、一曲？」
-> CONTEXT: Map333/events/12/pages/0/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map333/events/12/pages/0/10/Dialogue
+「How about a song?」
 > END STRING
 
 > BEGIN STRING
 "ガストロノーム"
-> CONTEXT: Map333/events/13/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map333/events/13/pages/0/80/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map333/events/13/pages/0/0/InlineScript/1:4
+> CONTEXT: Map333/events/13/pages/0/80/InlineScript/1:4
+"Gastronome"
 > END STRING
 
 > BEGIN STRING
 「私は珍しい食べ物を求めて
 　世界中を旅しているのですが、
-> CONTEXT: Map333/events/13/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map333/events/13/pages/0/1/Dialogue
+「I travel around the world 
+　in search of unique foods.
 > END STRING
 
 > BEGIN STRING
 「どうもこのあたりには、
 　あまり珍しいものはなさそうですね。
-> CONTEXT: Map333/events/13/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map333/events/13/pages/0/3/Dialogue
+「There doesn't seem to be anything 
+　particularly unusual around here.
 > END STRING
 
 > BEGIN STRING
 「もし何か珍しい食べ物をお持ちでしたら
 　ご賞味させていただけませんか？
-> CONTEXT: Map333/events/13/pages/0/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map333/events/13/pages/0/5/Dialogue
+「If you have any unusual food, 
+　would you be so kind as to let me try it?
 > END STRING
 
 > BEGIN STRING
 \\c[3]マムシのカルパッチョ\\c[0]を渡しますか？
-> CONTEXT: Map333/events/13/pages/0/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map333/events/13/pages/0/10/Dialogue
+Give \\c[3]Viper Carpaccio\\c[0]?
 > END STRING
 
 > BEGIN STRING
 \\c[3]アマガエルのポワレ\\c[0]を渡しますか？
-> CONTEXT: Map333/events/13/pages/0/24/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map333/events/13/pages/0/24/Dialogue
+Give \\c[3]Fried Tree Frog\\c[0]?
 > END STRING
 
 > BEGIN STRING
 \\c[3]スコピオロースト\\c[0]を渡しますか？
-> CONTEXT: Map333/events/13/pages/0/38/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map333/events/13/pages/0/38/Dialogue
+Give \\c[3]Scorpio Roast\\c[0]?
 > END STRING
 
 > BEGIN STRING
 \\c[3]海蛇のエスカベッシュ\\c[0]を渡しますか？
 > CONTEXT: Map333/events/13/pages/0/52/Dialogue
-Give \\c[3]Escabeche Sea Serpent\\c[0]
+Give \\c[3]Escabeche Sea Serpent\\c[0]?
 > END STRING
 
 > BEGIN STRING
 \\c[3]コウモリのディアボラ\\c[0]を渡しますか？
-> CONTEXT: Map333/events/13/pages/0/66/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map333/events/13/pages/0/66/Dialogue
+Give \\c[3]Scorpio Roast\\c[0]?
 > END STRING
 
 > BEGIN STRING
 「おお、これは珍しい！
-> CONTEXT: Map333/events/13/pages/0/81/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map333/events/13/pages/0/81/Dialogue
+「Oh, how unusual!
 > END STRING
 
 > BEGIN STRING
 「心ばかりのお礼です。
 　お受け取り下さい。
-> CONTEXT: Map333/events/13/pages/0/82/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map333/events/13/pages/0/82/Dialogue
+「This is just a token of my gratitude. 
+　Please accept it.
 > END STRING
 
 > BEGIN STRING
 "旅の酒徒"
-> CONTEXT: Map333/events/14/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map333/events/14/pages/0/27/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map333/events/14/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map333/events/14/pages/0/0/InlineScript/1:4
+> CONTEXT: Map333/events/14/pages/0/27/InlineScript/1:4
+> CONTEXT: Map333/events/14/pages/1/0/InlineScript/1:4
+"Traveling Alcoholic"
 > END STRING
 
 > BEGIN STRING
 「わしは土地の珍しい酒を集めて
 　世界中を旅しているのだが、
-> CONTEXT: Map333/events/14/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map333/events/14/pages/0/1/Dialogue
+「I travel around the world 
+　collecting rare local alcoholic beverages,
 > END STRING
 
 > BEGIN STRING
 「どうもこの町には
 　あまり珍しいものはなさそうだ。
-> CONTEXT: Map333/events/14/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map333/events/14/pages/0/3/Dialogue
+「There doesn't seem to be anything 
+　particularly unusual in this town.
 > END STRING
 
 > BEGIN STRING
 「君、もし君も珍しい酒を持っているなら、
 　わしに譲ってはくれまいか。
-> CONTEXT: Map333/events/14/pages/0/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map333/events/14/pages/0/5/Dialogue
+「Hey, if you have any rare liquor,
+　would you be so kind as to give it to me?
 > END STRING
 
 > BEGIN STRING
 「あと７種類で世界中の酒が揃うのだ。
 　７種まとめてもってきてくれたなら、
 　心ばかりのお礼をさせてもらおう。
-> CONTEXT: Map333/events/14/pages/0/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map333/events/14/pages/0/7/Dialogue
+「I only need 7 more types to have all the alcohol 
+　from around the world. If you bring me all 7 types,
+　I'll give you a small token of my gratitude.
 > END STRING
 
 > BEGIN STRING
 ７種のお酒を渡しますか？
-> CONTEXT: Map333/events/14/pages/0/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map333/events/14/pages/0/19/Dialogue
+Give 7 types of alcohol?
 > END STRING
 
 > BEGIN STRING
@@ -271,152 +281,172 @@ Give \\c[3]Escabeche Sea Serpent\\c[0]
 \\c[3]ブルーフリーベリ\\c[0], \\c[3]ポッパナアンバー\\c[0],
 \\c[3]ヴィリジアンホロス\\c[0], \\c[3]ブラウンレンシェット\\c[0],
 そして\\c[3]スノウオブヴァーサ\\c[0]を渡した！
-> CONTEXT: Map333/events/14/pages/0/23/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map333/events/14/pages/0/23/Dialogue
+\\c[3]Sipuli's White\\c[0], \\c[3]Red Gruppen\\c[0],
+\\c[3]Blue Friberg\\c[0], \\c[3]Poppana Amber\\c[0],
+\\c[3]Viridian Holos\\c[0], \\c[3]Brown Renkott\\c[0],
+and \\c[3]Snow of Vasa\\c[0] were handed over!
 > END STRING
 
 > BEGIN STRING
 「おお、すばらしい！
 　これで世界中の酒が揃った！
-> CONTEXT: Map333/events/14/pages/0/28/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map333/events/14/pages/0/28/Dialogue
+「Oh, how wonderful! 
+　Now I have all the alcohol 
+　from all over the world!
 > END STRING
 
 > BEGIN STRING
 「約束どおり礼をさせてもらおう。
 　これを受け取ってくれたまえ。
-> CONTEXT: Map333/events/14/pages/0/30/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map333/events/14/pages/0/30/Dialogue
+「As promised, let me thank you. 
+　Please accept this.
 > END STRING
 
 > BEGIN STRING
 「この世で最も素晴らしいものは酒。
 　その次は旅。
-> CONTEXT: Map333/events/14/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map333/events/14/pages/1/1/Dialogue
+「The most wonderful thing 
+　in the world is alcohol. 
+　Next is traveling.
 > END STRING
 
 > BEGIN STRING
 「この二つがあれば、
 　わしは他に何もいらないのだよ。
-> CONTEXT: Map333/events/14/pages/1/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map333/events/14/pages/1/3/Dialogue
+「If I have these two, 
+　I don't need anything else.
 > END STRING
 
 > BEGIN STRING
 「\\c[3]クヴァラットミルク\\c[0]は、
 　搾りたてを特別な魔法で
 　世界中に送っています。
-> CONTEXT: Map333/events/15/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map333/events/15/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map333/events/15/pages/0/1/Dialogue
+> CONTEXT: Map333/events/15/pages/1/1/Dialogue
+「\\c[3]Kvalatte Milk\\c[0] makes use of
+　special magic to send freshly squeezed milk
+　all over the world.
 > END STRING
 
 > BEGIN STRING
 「だからどこでも新鮮で
 　おいしいミルクが飲めるんですよ。
-> CONTEXT: Map333/events/15/pages/0/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map333/events/15/pages/1/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map333/events/15/pages/0/4/Dialogue
+> CONTEXT: Map333/events/15/pages/1/4/Dialogue
+「So you can drink 
+　fresh, delicious milk anywhere.
 > END STRING
 
 > BEGIN STRING
 「あなたもどうぞ、おひとつ。
-> CONTEXT: Map333/events/15/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map333/events/15/pages/0/6/Dialogue
+「You can have one.
 > END STRING
 
 > BEGIN STRING
 「おっと、いや、失礼。
-> CONTEXT: Map333/events/16/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map333/events/16/pages/0/6/Dialogue
+「Oops, no, excuse me.
 > END STRING
 
 > BEGIN STRING
 "彼女"
-> CONTEXT: Map333/events/17/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map333/events/17/pages/0/0/InlineScript/1:4
+"Girlfriend"
 > END STRING
 
 > BEGIN STRING
 「え、隣のひとは誰かって？
-> CONTEXT: Map333/events/17/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map333/events/17/pages/0/1/Dialogue
+「Huh, a guy next to me?
 > END STRING
 
 > BEGIN STRING
 「へんね、この店には今
 　私と彼の二人っきりのはずだけど。
-> CONTEXT: Map333/events/17/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map333/events/17/pages/0/2/Dialogue
+「That's strange, 
+　it should be just me and my boyfriend 
+　in this store right now.
 > END STRING
 
 > BEGIN STRING
 "彼氏"
-> CONTEXT: Map333/events/18/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map333/events/18/pages/0/0/InlineScript/1:4
+"Boyfriend"
 > END STRING
 
 > BEGIN STRING
 「え、隣の男は何者かって？
-> CONTEXT: Map333/events/18/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map333/events/18/pages/0/1/Dialogue
+「Huh, a guy next to me?
 > END STRING
 
 > BEGIN STRING
 「何言ってるんだ？
 　この店には今、俺と彼女の
 　二人っきりだぜ。
-> CONTEXT: Map333/events/18/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map333/events/18/pages/0/2/Dialogue
+「What are you talking about? 
+　It's just me and my girlfriend 
+　here right now.
 > END STRING
 
 > BEGIN STRING
 "エロティカシーカー"
-> CONTEXT: Map333/events/20/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map333/events/20/pages/0/10/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map333/events/20/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map333/events/20/pages/0/0/InlineScript/1:4
+> CONTEXT: Map333/events/20/pages/0/10/InlineScript/1:4
+> CONTEXT: Map333/events/20/pages/1/0/InlineScript/1:4
+"Erotica Seeker"
 > END STRING
 
 > BEGIN STRING
 「この辺り、カワイイ子はいっぱいいるのに
 　なぜかエロスってものに欠けるんだよなぁ。
-> CONTEXT: Map333/events/20/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map333/events/20/pages/0/1/Dialogue
+「There are a lot of cute girls around here, 
+　but somehow they're lacking in eroticism.
 > END STRING
 
 > BEGIN STRING
 「ああ、何かエッチな絵でも
 　見たくなってきちまった……
-> CONTEXT: Map333/events/20/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map333/events/20/pages/0/3/Dialogue
+「Oh, I'm dying to see some 
+　naughty pictures...
 > END STRING
 
 > BEGIN STRING
 \\c[4]エッチな本\\c[0]を渡しますか？
-> CONTEXT: Map333/events/20/pages/0/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map333/events/20/pages/0/7/Dialogue
+Give the \\c[4]Naughty Book\\c[0]?
 > END STRING
 
 > BEGIN STRING
 「うお！
 　こ…これは………
-> CONTEXT: Map333/events/20/pages/0/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map333/events/20/pages/0/11/Dialogue
+「Whoa!
+　This...is...
 > END STRING
 
 > BEGIN STRING
 「こんなもんくれるってことは……
 　なんだよ…俺のアレを狙ってるのか……
-> CONTEXT: Map333/events/20/pages/0/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map333/events/20/pages/0/13/Dialogue
+「If you're giving me something like this...
+　What is this...are you after my...?
 > END STRING
 
 > BEGIN STRING
 「いいだろう、くれてやる！
-> CONTEXT: Map333/events/20/pages/0/15/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map333/events/20/pages/0/15/Dialogue
+「Fine, I'll give it to you!
 > END STRING
 
 > BEGIN STRING
@@ -434,14 +464,14 @@ Give \\c[3]Escabeche Sea Serpent\\c[0]
 
 > BEGIN STRING
 「割引券はもう使ったかい？
-> CONTEXT: Map333/events/20/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map333/events/20/pages/1/1/Dialogue
+「Have you used your discount coupon yet?
 > END STRING
 
 > BEGIN STRING
 「リンって子がお勧めだぜ。
-> CONTEXT: Map333/events/20/pages/1/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map333/events/20/pages/1/2/Dialogue
+「I recommend this girl named Rin.
 > END STRING
 
 > BEGIN STRING

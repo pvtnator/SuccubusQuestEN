@@ -166,20 +166,22 @@ Stay at the inn for \\b30G\\f?
 
 > BEGIN STRING
 「おや、あなたも旅の方ですか？
-> CONTEXT: Map329/events/5/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map329/events/5/pages/0/1/Dialogue
+「Oh, are you a traveler too?
 > END STRING
 
 > BEGIN STRING
 「え？ 受付に羊？
-> CONTEXT: Map329/events/5/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map329/events/5/pages/0/2/Dialogue
+「Hm? A sheep at the reception?
 > END STRING
 
 > BEGIN STRING
 「やだなあ、何言ってるんですか。
 　受付にいるのは可愛い人間の
 　女の子じゃないですか。
-> CONTEXT: Map329/events/5/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map329/events/5/pages/0/3/Dialogue
+「No, what are you talking about?
+　Isn't the person at the reception desk 
+　a cute human girl?
 > END STRING

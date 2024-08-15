@@ -857,8 +857,9 @@ is taking shape...
 > BEGIN STRING
 \\a[\\v[105]]「逃げられると思ってんの…？
 　\\w[\\v[104]]あはははっ\\e[0]
-> CONTEXT: Commonevents/50/38/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/50/38/Dialogue
+\\a[\\v[105]]「You think you can get away...?
+　\\w[\\v[104]]Hahahaha\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -5755,20 +5756,20 @@ Stona and Merona
 
 > BEGIN STRING
 ちょうちょを捕まえた！
-> CONTEXT: Commonevents/310/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/310/5/Dialogue
+Caught a butterfly!
 > END STRING
 
 > BEGIN STRING
 捕まえたちょうちょは \\b \\v[59] \\f匹になった！
-> CONTEXT: Commonevents/310/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/310/6/Dialogue
+You have now caught\\b \\v[59] \\f!
 > END STRING
 
 > BEGIN STRING
 \\n[1]のテンションが少し上がった！
-> CONTEXT: Commonevents/311/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/311/7/Dialogue
+\\n[1]'s tension increased a little!
 > END STRING
 
 > BEGIN STRING

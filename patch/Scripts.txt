@@ -7016,7 +7016,7 @@
 "クヴァラットミルク"
 > CONTEXT: Scripts/Game_Battler 3-2/142:43
 > CONTEXT: Scripts/RPG::Item(detail)/267:12
-"Kvarat Milk"
+"Kvalatte Milk"
 > END STRING
 
 > BEGIN STRING
@@ -7041,7 +7041,7 @@
 > BEGIN STRING
 "リスヴェグティー"
 > CONTEXT: Scripts/RPG::Item(detail)/87:12
-"Lisvegty"
+"Lisveg Tee"
 > END STRING
 
 > BEGIN STRING
@@ -8653,8 +8653,8 @@
 
 > BEGIN STRING
 "レンバスブレッド"
-> CONTEXT: Scripts/RPG::Item(detail)/296:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/296:12
+"Lembas Bread"
 > END STRING
 
 > BEGIN STRING
@@ -8982,7 +8982,7 @@
 > BEGIN STRING
 "蝶のホロス風"
 > CONTEXT: Scripts/RPG::Item(detail)/344:12 < UNTRANSLATED
-
+"Holos Butterfly"
 > END STRING
 
 > BEGIN STRING
@@ -9083,8 +9083,8 @@
 
 > BEGIN STRING
 "シュー・ア・ラ・クレーム"
-> CONTEXT: Scripts/RPG::Item(detail)/361:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/361:12
+"Choux A La Crème"
 > END STRING
 
 > BEGIN STRING
@@ -9102,7 +9102,7 @@
 > BEGIN STRING
 "グルッペンゴールド"
 > CONTEXT: Scripts/RPG::Item(detail)/364:12
-"Gruppengold"
+"Gruppen Gold"
 > END STRING
 
 > BEGIN STRING
@@ -9173,8 +9173,8 @@
 
 > BEGIN STRING
 "アマガエルのポワレ"
-> CONTEXT: Scripts/RPG::Item(detail)/376:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/376:12
+"Fried Tree Frog"
 > END STRING
 
 > BEGIN STRING
@@ -9191,8 +9191,8 @@
 
 > BEGIN STRING
 "コウモリのディアボラ"
-> CONTEXT: Scripts/RPG::Item(detail)/379:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/379:12
+"Diablo Bat"
 > END STRING
 
 > BEGIN STRING
@@ -15262,8 +15262,8 @@
 
 > BEGIN STRING
 "\#{myname}は狂気のダンスを踊った！"
-> CONTEXT: Scripts/RPG::Skill (message)/423:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/423:18
+"\#{myname} did a crazy dance!"
 > END STRING
 
 > BEGIN STRING

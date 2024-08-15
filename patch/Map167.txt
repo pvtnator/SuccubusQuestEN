@@ -30,16 +30,18 @@ Stay at the inn for \\b35G\\f?
 
 > BEGIN STRING
 「おや、外からのお客さんかい？
-> CONTEXT: Map167/events/4/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map167/events/4/pages/0/1/Dialogue
+「Oh, a visitor from outside?
 > END STRING
 
 > BEGIN STRING
 「ということは…やれやれ、
 　やっとハグロフス様が
 　お戻りになったのか。
-> CONTEXT: Map167/events/4/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map167/events/4/pages/0/2/Dialogue
+「So that means... my goodness,
+　Lord Haglofs 
+　has finally returned.
 > END STRING
 
 > BEGIN STRING
@@ -77,19 +79,21 @@ Stay at the inn for \\b35G\\f?
 > BEGIN STRING
 「お茶などいかがでしょうか？
 　疲れが取れますよ。
-> CONTEXT: Map167/events/5/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map167/events/5/pages/0/1/Dialogue
+「Would you like some tea? 
+　It'll help relieve your fatigue.
 > END STRING
 
 > BEGIN STRING
 「ゆっくりしていって下さいね。
-> CONTEXT: Map167/events/5/pages/0/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map167/events/5/pages/0/5/Dialogue
+「Please take it easy.
 > END STRING
 
 > BEGIN STRING
 「すっきりしたお顔ですね。
 　良い夢でもごらんになりました？
-> CONTEXT: Map167/events/5/pages/1/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map167/events/5/pages/1/2/Dialogue
+「You look refreshed. 
+　Did you have a good dream?
 > END STRING

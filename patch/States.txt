@@ -1687,8 +1687,8 @@ Green Salad
 
 > BEGIN STRING
 ソルトヘリング
-> CONTEXT: States/325/name/ < UNTRANSLATED
-
+> CONTEXT: States/325/name/
+Salt Herring
 > END STRING
 
 > BEGIN STRING
@@ -1707,14 +1707,14 @@ Mountain Steak
 
 > BEGIN STRING
 ハニービスケット/101/100/100
-> CONTEXT: States/328/name/ < UNTRANSLATED
-
+> CONTEXT: States/328/name/
+Honey Biscuit/101/100/100
 > END STRING
 
 > BEGIN STRING
 木いちごのケーキ/102/100/100
-> CONTEXT: States/329/name/ < UNTRANSLATED
-
+> CONTEXT: States/329/name/
+Strawberry Cake/102/100/100
 > END STRING
 
 > BEGIN STRING
@@ -1732,8 +1732,8 @@ Gruppen Saute
 
 > BEGIN STRING
 マムシのカルパッチョ/100/105/100
-> CONTEXT: States/332/name/ < UNTRANSLATED
-
+> CONTEXT: States/332/name/
+Viper Carpaccio/100/105/100
 > END STRING
 
 > BEGIN STRING
@@ -1744,8 +1744,8 @@ Escabeche Sea Serpent/100/105/100
 
 > BEGIN STRING
 セイラーズシチュー
-> CONTEXT: States/334/name/ < UNTRANSLATED
-
+> CONTEXT: States/334/name/
+Sailor's Stew
 > END STRING
 
 > BEGIN STRING
@@ -1778,26 +1778,26 @@ Grilled Devil
 
 > BEGIN STRING
 チュロス/102/100/100
-> CONTEXT: States/339/name/ < UNTRANSLATED
-
+> CONTEXT: States/339/name/
+Churros/102/100/100
 > END STRING
 
 > BEGIN STRING
 人魚の口づけ/103/100/100
-> CONTEXT: States/340/name/ < UNTRANSLATED
-
+> CONTEXT: States/340/name/
+Mermaid's Kiss/103/100/100
 > END STRING
 
 > BEGIN STRING
 レンバス/102/100/100
-> CONTEXT: States/341/name/ < UNTRANSLATED
-
+> CONTEXT: States/341/name/
+Lembas/102/100/100
 > END STRING
 
 > BEGIN STRING
 スコピオロースト/100/105/100
-> CONTEXT: States/342/name/ < UNTRANSLATED
-
+> CONTEXT: States/342/name/
+Scorpio Roast/100/105/100
 > END STRING
 
 > BEGIN STRING
@@ -1815,8 +1815,8 @@ Sauteed Leaf Lizard
 
 > BEGIN STRING
 ディバインプディング/103/100/100
-> CONTEXT: States/345/name/ < UNTRANSLATED
-
+> CONTEXT: States/345/name/
+Divine Pudding/103/100/100
 > END STRING
 
 > BEGIN STRING
@@ -1828,38 +1828,38 @@ Herb salad
 
 > BEGIN STRING
 アマガエルのポワレ/100/105/100
-> CONTEXT: States/347/name/ < UNTRANSLATED
-
+> CONTEXT: States/347/name/
+Fried Tree Frog/100/105/100
 > END STRING
 
 > BEGIN STRING
 コウモリのディアボラ/100/105/100
-> CONTEXT: States/348/name/ < UNTRANSLATED
-
+> CONTEXT: States/348/name/
+Diablo Bat/100/105/100
 > END STRING
 
 > BEGIN STRING
 シュー・ア・ラ・クレーム/103/100/100
-> CONTEXT: States/349/name/ < UNTRANSLATED
-
+> CONTEXT: States/349/name/
+Choux A La Crème/103/100/100
 > END STRING
 
 > BEGIN STRING
 グルッペンゴールド/103/100/100
-> CONTEXT: States/350/name/ < UNTRANSLATED
-
+> CONTEXT: States/350/name/
+Gruppen Gold/103/100/100
 > END STRING
 
 > BEGIN STRING
 プッラ/102/100/100
-> CONTEXT: States/351/name/ < UNTRANSLATED
-
+> CONTEXT: States/351/name/
+Pulla/102/100/100
 > END STRING
 
 > BEGIN STRING
 ベイクドアップル/102/100/100
-> CONTEXT: States/352/name/ < UNTRANSLATED
-
+> CONTEXT: States/352/name/
+Baked Apple/102/100/100
 > END STRING
 
 > BEGIN STRING

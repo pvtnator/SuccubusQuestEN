@@ -216,7 +216,7 @@ Earl Grey
 > BEGIN STRING
 リスヴェグティー
 > CONTEXT: Items/24/name/
-Lisvegty
+Lisveg Tee
 > END STRING
 
 > BEGIN STRING
@@ -497,14 +497,14 @@ SQ_Food
 
 > BEGIN STRING
 レンバスブレッド
-> CONTEXT: Items/53/name/ < UNTRANSLATED
-
+> CONTEXT: Items/53/name/
+Lembas Bread
 > END STRING
 
 > BEGIN STRING
 〔食事〕 リスヴェグで食されるレンバス粉でつくった白パン
-> CONTEXT: Items/53/description/ < UNTRANSLATED
-
+> CONTEXT: Items/53/description/
+[Food] White bread made from Lembas flour eaten at Lisveg
 > END STRING
 
 > BEGIN STRING
@@ -534,13 +534,13 @@ SQ_Food
 > BEGIN STRING
 蝶のホロス風
 > CONTEXT: Items/64/name/ < UNTRANSLATED
-
+Holos Butterfly
 > END STRING
 
 > BEGIN STRING
 〔食事〕 美しい羽根の蝶をその形を保ったまま魔法でローストした料理
 > CONTEXT: Items/64/description/ < UNTRANSLATED
-
+[Food] A magically roasted butterfly with beautiful wings.
 > END STRING
 
 > BEGIN STRING
@@ -761,14 +761,14 @@ Gruppengold
 
 > BEGIN STRING
 シュー・ア・ラ・クレーム
-> CONTEXT: Items/108/name/ < UNTRANSLATED
-
+> CONTEXT: Items/108/name/
+Choux A La Crème
 > END STRING
 
 > BEGIN STRING
 〔食事〕 中が空洞になるよう焼いた生地にクリームを詰めた焼き菓子
-> CONTEXT: Items/108/description/ < UNTRANSLATED
-
+> CONTEXT: Items/108/description/
+[Food] A baked confectionery with a hollow center and cream filling.
 > END STRING
 
 > BEGIN STRING
@@ -797,8 +797,8 @@ Scorpio Roast
 
 > BEGIN STRING
 アマガエルのポワレ
-> CONTEXT: Items/118/name/ < UNTRANSLATED
-
+> CONTEXT: Items/118/name/
+Fried Tree Frog
 > END STRING
 
 > BEGIN STRING
@@ -821,14 +821,14 @@ Escabeche Sea Serpent
 
 > BEGIN STRING
 コウモリのディアボラ
-> CONTEXT: Items/120/name/ < UNTRANSLATED
-
+> CONTEXT: Items/120/name/
+Diablo Bat
 > END STRING
 
 > BEGIN STRING
 〔食事〕 コウモリの羽根をたっぷりの香辛料と共に焼いた料理
-> CONTEXT: Items/120/description/ < UNTRANSLATED
-
+> CONTEXT: Items/120/description/
+[Food] Bat feathers roasted with plenty of spices
 > END STRING
 
 > BEGIN STRING
@@ -867,7 +867,7 @@ SQ_Drink
 > BEGIN STRING
 クヴァラットミルク
 > CONTEXT: Items/142/name/
-Kvarat Milk
+Kvalatte Milk
 > END STRING
 
 > BEGIN STRING
@@ -1004,44 +1004,44 @@ Poppana Amber
 
 > BEGIN STRING
 〔ドリンク〕 琥珀色に輝くポッパナ特産蒸留酒
-> CONTEXT: Items/158/description/ < UNTRANSLATED
-
+> CONTEXT: Items/158/description/
+[Drink] Amber-colored distilled spirits from Poppana
 > END STRING
 
 > BEGIN STRING
 ヴィリジアンホロス
-> CONTEXT: Items/159/name/ < UNTRANSLATED
-
+> CONTEXT: Items/159/name/
+Viridian Holos
 > END STRING
 
 > BEGIN STRING
 〔ドリンク〕 魔法のハーブを漬け込んだホロス特産蒸留酒
-> CONTEXT: Items/159/description/ < UNTRANSLATED
-
+> CONTEXT: Items/159/description/
+[Drink] Holos specialty distilled liquor infused with magical herbs
 > END STRING
 
 > BEGIN STRING
 ブラウンレンシェット
-> CONTEXT: Items/160/name/ < UNTRANSLATED
-
+> CONTEXT: Items/160/name/
+Brown Renkott
 > END STRING
 
 > BEGIN STRING
 〔ドリンク〕 ワイルドな味わいのレンシェット特産蒸留酒
-> CONTEXT: Items/160/description/ < UNTRANSLATED
-
+> CONTEXT: Items/160/description/
+[Drink] A wild-tasting distilled spirit made in Renkott
 > END STRING
 
 > BEGIN STRING
 スノウオブヴァーサ
-> CONTEXT: Items/161/name/ < UNTRANSLATED
-
+> CONTEXT: Items/161/name/
+Snow of Vasa
 > END STRING
 
 > BEGIN STRING
 〔ドリンク〕 淡い味わいのヴァーサ特産葡萄酒
-> CONTEXT: Items/161/description/ < UNTRANSLATED
-
+> CONTEXT: Items/161/description/
+[Drink] Light-flavored Vaasa specialty wine
 > END STRING
 
 > BEGIN STRING
@@ -1521,26 +1521,26 @@ A seal given to soldiers guarding the Dodichi Tower.
 
 > BEGIN STRING
 虫取り網
-> CONTEXT: Items/268/name/ < UNTRANSLATED
-
+> CONTEXT: Items/268/name/
+Bug Net
 > END STRING
 
 > BEGIN STRING
 昆虫を捕まえるためにデザインされた網
-> CONTEXT: Items/268/description/ < UNTRANSLATED
-
+> CONTEXT: Items/268/description/
+A net designed to catch bugs
 > END STRING
 
 > BEGIN STRING
 ミランダ割引券
-> CONTEXT: Items/269/name/ < UNTRANSLATED
-
+> CONTEXT: Items/269/name/
+Miranda Coupon
 > END STRING
 
 > BEGIN STRING
 愛の宿・ミランダに半額でお泊りできる特別割引券
-> CONTEXT: Items/269/description/ < UNTRANSLATED
-
+> CONTEXT: Items/269/description/
+Discount coupon for a half-price stay at Love Inn Miranda
 > END STRING
 
 > BEGIN STRING

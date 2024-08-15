@@ -1,22 +1,24 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 "羊飼い"
-> CONTEXT: Map245/events/15/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map245/events/15/pages/0/0/InlineScript/1:4
+"Shepherd"
 > END STRING
 
 > BEGIN STRING
 「おいしいミルクはいかが？
-> CONTEXT: Map245/events/15/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map245/events/15/pages/0/1/Dialogue
+「How about some delicious milk?
 > END STRING
 
 > BEGIN STRING
 「メェェ～
 　羊の町、クヴァラットへようこそ！
 　メェェェ～～
-> CONTEXT: Map245/events/23/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map245/events/23/pages/0/2/Dialogue
+「Meeeeeh~
+　Welcome to Kvalatte, the town of sheep!
+　Meeeeeh~~
 > END STRING
 
 > BEGIN STRING
@@ -53,109 +55,117 @@
 
 > BEGIN STRING
 「ちょうちょを　つかまえてるんだ！
-> CONTEXT: Map245/events/27/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map245/events/27/pages/0/1/Dialogue
+「I'm catching butterflies!
 > END STRING
 
 > BEGIN STRING
 「おにいちゃんも　てつだってよ！
-> CONTEXT: Map245/events/27/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map245/events/27/pages/0/2/Dialogue
+「Hey, help me!
 > END STRING
 
 > BEGIN STRING
 「てつだってよ！」
-> CONTEXT: Map245/events/27/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map245/events/27/pages/0/4/Dialogue
+「Help me!」
 > END STRING
 
 > BEGIN STRING
 「じゃあ　はい　これ！
-> CONTEXT: Map245/events/27/pages/0/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map245/events/27/pages/0/8/Dialogue
+「Okay then, here!
 > END STRING
 
 > BEGIN STRING
 「ちょうちょは　おそとにも
 　いっぱいいるみたいだよ！
-> CONTEXT: Map245/events/27/pages/0/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map245/events/27/pages/0/14/Dialogue
+「There's also
+　lots of butterflies outside!
 > END STRING
 
 > BEGIN STRING
 「ぶー！
-> CONTEXT: Map245/events/27/pages/0/22/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map245/events/27/pages/0/22/Dialogue
+「Boo!
 > END STRING
 
 > BEGIN STRING
 "蝶集めの男の子"
-> CONTEXT: Map245/events/27/pages/1/1/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map245/events/27/pages/1/17/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map245/events/27/pages/2/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map245/events/27/pages/1/1/InlineScript/1:4
+> CONTEXT: Map245/events/27/pages/1/17/InlineScript/1:4
+> CONTEXT: Map245/events/27/pages/2/0/InlineScript/1:4
+"Butterfly Collector"
 > END STRING
 
 > BEGIN STRING
 「すごい！ \\b\\v[59]\\f ぴきも
 　つかまえてくれたんだ！
-> CONTEXT: Map245/events/27/pages/1/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map245/events/27/pages/1/2/Dialogue
+「Wow! You caught \\b\\v[59]\\f!
 > END STRING
 
 > BEGIN STRING
 「おれいに　これあげるよ！
 　ありがとう！
-> CONTEXT: Map245/events/27/pages/1/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map245/events/27/pages/1/4/Dialogue
+「This is for you!
+　Thanks!
 > END STRING
 
 > BEGIN STRING
 「たくさん　つかまえたら
 　ぼくにみせてね！
-> CONTEXT: Map245/events/27/pages/1/18/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map245/events/27/pages/1/18/Dialogue
+「If you catch lots,
+　show them to me!
 > END STRING
 
 > BEGIN STRING
 「おにいちゃん　ありがとうね！
-> CONTEXT: Map245/events/27/pages/2/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map245/events/27/pages/2/1/Dialogue
+「Thanks, mister!
 > END STRING
 
 > BEGIN STRING
 「ちょっと前に、
 　旅の吟遊詩人がこの町に来てねえ。
-> CONTEXT: Map245/events/30/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map245/events/30/pages/0/2/Dialogue
+「A little while ago,
+　a traveling bard came to this town.
 > END STRING
 
 > BEGIN STRING
 「素敵な\\r[詩,うた]を歌ってくれたのさ。
 　いや、感激しちゃったねえ。
-> CONTEXT: Map245/events/30/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map245/events/30/pages/0/4/Dialogue
+「He sang a wonderful poem for me. 
+　I was really touched.
 > END STRING
 
 > BEGIN STRING
 「確かこんな感じだったかな…
-> CONTEXT: Map245/events/30/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map245/events/30/pages/0/6/Dialogue
+「I think it was like this...
 > END STRING
 
 > BEGIN STRING
 「メ～メメメ・メメ～メ・メメ～メ・メメメメ♪
 　メ～メ～メ～メ～メ～メ～メ～メ～～♪
 　メ・メメ・メメ～ッ♪
-> CONTEXT: Map245/events/30/pages/0/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map245/events/30/pages/0/7/Dialogue
+「Me~mememe-meme~me-meme~me-memememe♪
+　me~me~me~me~me~me~me~me~~♪
+　me-meme-meme~♪
 > END STRING
 
 > BEGIN STRING
 「うむ、なかなか上手く歌えた気がするね。
 　メェ～ッ♪
-> CONTEXT: Map245/events/30/pages/0/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map245/events/30/pages/0/11/Dialogue
+「Hmm, I think I sang it pretty well.
+　Meeeeeh♪
 > END STRING
 
 > BEGIN STRING
@@ -184,43 +194,49 @@
 > BEGIN STRING
 「え？
 　しゃべる　ひつじさん？
-> CONTEXT: Map245/events/31/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map245/events/31/pages/0/1/Dialogue
+「Huh?
+　A talking sheep?
 > END STRING
 
 > BEGIN STRING
 「そうね！
 　ひつじさんと　おしゃべりできたら
 　すてきよね！
-> CONTEXT: Map245/events/31/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map245/events/31/pages/0/3/Dialogue
+「Yeah!
+　It would be nice if I could
+　talk to a sheep!
 > END STRING
 
 > BEGIN STRING
 「ゆめをもつ　おとなのひとって
 　すきよ\\e[0]
-> CONTEXT: Map245/events/31/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map245/events/31/pages/0/6/Dialogue
+「I like adults who have dreams\\e[0]
 > END STRING
 
 > BEGIN STRING
 「夢魔とかいう魔物が出てるらしいけど、
 　いやまあ、あの魔王に比べれば
 　なんてことないよね。
-> CONTEXT: Map245/events/32/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map245/events/32/pages/0/2/Dialogue
+「Apparently there's a succubus demon here, 
+　but I guess it's nothing compared to the Demon Lord.
 > END STRING
 
 > BEGIN STRING
 「あれは酷かった。
 　ホロスも、この町も…、
-> CONTEXT: Map245/events/32/pages/0/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map245/events/32/pages/0/5/Dialogue
+「It was terrible.
+　Holos, this town...
 > END STRING
 
 > BEGIN STRING
 「いやいや、
 　もう思い出したくないね。
-> CONTEXT: Map245/events/32/pages/0/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map245/events/32/pages/0/7/Dialogue
+「No, no, 
+　I don't want to remember it anymore.
 > END STRING
