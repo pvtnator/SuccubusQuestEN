@@ -1034,14 +1034,14 @@ End turn [CD: 5]
 
 > BEGIN STRING
 ラプチャ/7/0/0
-> CONTEXT: Skills/141/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/141/name/
+Rapture/7/0/0
 > END STRING
 
 > BEGIN STRING
 相手一人を恍惚状態にする [リチャージ：7ターン]
-> CONTEXT: Skills/141/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/141/description/
+Puts one opponent into a daze [CD: 7]
 > END STRING
 
 > BEGIN STRING
@@ -1109,14 +1109,14 @@ Far-Dorumba/5/0/0
 
 > BEGIN STRING
 ファル・ラプチャ/7/0/0
-> CONTEXT: Skills/148/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/148/name/
+Far-Rapture/7/0/0
 > END STRING
 
 > BEGIN STRING
 相手全員を恍惚状態にする [リチャージ：7ターン]
-> CONTEXT: Skills/148/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/148/description/
+Puts all opponents into a daze [CD: 7]
 > END STRING
 
 > BEGIN STRING
@@ -1932,8 +1932,8 @@ Destined Kiss
 
 > BEGIN STRING
 ラプチャ
-> CONTEXT: Skills/300/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/300/name/
+Rapture
 > END STRING
 
 > BEGIN STRING

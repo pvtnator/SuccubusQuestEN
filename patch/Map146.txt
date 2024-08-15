@@ -1,262 +1,282 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 気を失っているようだ……
-> CONTEXT: Map146/events/2/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map146/events/3/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map146/events/2/pages/1/1/Dialogue
+> CONTEXT: Map146/events/3/pages/1/1/Dialogue
+Seems to have lost consciousness...
 > END STRING
 
 > BEGIN STRING
 "女魔術士"
-> CONTEXT: Map146/events/7/pages/0/12/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map146/events/7/pages/0/18/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map146/events/7/pages/0/157/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map146/events/7/pages/0/180/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map146/events/7/pages/0/184/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map146/events/7/pages/0/12/InlineScript/1:4
+> CONTEXT: Map146/events/7/pages/0/18/InlineScript/1:4
+> CONTEXT: Map146/events/7/pages/0/157/InlineScript/1:4
+> CONTEXT: Map146/events/7/pages/0/180/InlineScript/1:4
+> CONTEXT: Map146/events/7/pages/0/184/InlineScript/1:4
+"Female Mage"
 > END STRING
 
 > BEGIN STRING
 「あんっ……あぁっ………
 　あひっ………！
-> CONTEXT: Map146/events/7/pages/0/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map146/events/7/pages/0/13/Dialogue
+「Ahh...aah...
+　Ahh...!
 > END STRING
 
 > BEGIN STRING
 「あ、あぁぁあぁーーっ！！
-> CONTEXT: Map146/events/7/pages/0/15/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map146/events/7/pages/0/15/Dialogue
+「Ah, aaaaaahh!!
 > END STRING
 
 > BEGIN STRING
 「ぁん……や……やめて…………
-> CONTEXT: Map146/events/7/pages/0/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map146/events/7/pages/0/19/Dialogue
+「Mh...s...stop....
 > END STRING
 
 > BEGIN STRING
 「あ……やあぁぁーーっ！
-> CONTEXT: Map146/events/7/pages/0/20/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map146/events/7/pages/0/20/Dialogue
+「Ah...aaaaahh!
 > END STRING
 
 > BEGIN STRING
 "男魔術士"
-> CONTEXT: Map146/events/7/pages/0/22/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map146/events/7/pages/0/64/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map146/events/7/pages/0/22/InlineScript/1:4
+> CONTEXT: Map146/events/7/pages/0/64/InlineScript/1:4
+"Male Mage"
 > END STRING
 
 > BEGIN STRING
 「あ…わわ……あわゎゎっ……！
-> CONTEXT: Map146/events/7/pages/0/23/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map146/events/7/pages/0/23/Dialogue
+「Ah...oah...awawawa...!
 > END STRING
 
 > BEGIN STRING
 「あはっ、こーふんしちゃってる？
 　ちょっと待っててね……
-> CONTEXT: Map146/events/7/pages/0/27/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map146/events/7/pages/0/27/Dialogue
+「Ahaha, are you drunk?
+　Wait a minute...
 > END STRING
 
 > BEGIN STRING
 「この子たちイかせたら、
 　次は君の番だからね\\e[0]
-> CONTEXT: Map146/events/7/pages/0/34/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map146/events/7/pages/0/34/Dialogue
+「Once you get these girls,
+　it's your turn\\e[0]
 > END STRING
 
 > BEGIN STRING
 「さてっと……\\e[0]
-> CONTEXT: Map146/events/7/pages/0/54/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map146/events/7/pages/0/54/Dialogue
+「Well then...\\e[0]
 > END STRING
 
 > BEGIN STRING
 「ふふ\\e[0]
-> CONTEXT: Map146/events/7/pages/0/58/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map146/events/7/pages/0/58/Dialogue
+「Hehe\\e[0]
 > END STRING
 
 > BEGIN STRING
 「そんな…これって………
-> CONTEXT: Map146/events/7/pages/0/61/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map146/events/7/pages/0/61/Dialogue
+「That's...these are...
 > END STRING
 
 > BEGIN STRING
 「……夢魔っ！
-> CONTEXT: Map146/events/7/pages/0/63/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map146/events/7/pages/0/63/Dialogue
+「...Succubi!
 > END STRING
 
 > BEGIN STRING
 「あ…ああっ、
 　たすけ……助けてえっ！
-> CONTEXT: Map146/events/7/pages/0/65/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map146/events/7/pages/0/65/Dialogue
+「Ah...Ahh,
+　Help...Help meeeee!
 > END STRING
 
 > BEGIN STRING
 「あら、新しいエサ？
-> CONTEXT: Map146/events/7/pages/0/71/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map146/events/7/pages/0/71/Dialogue
+「Oh, new food?
 > END STRING
 
 > BEGIN STRING
 「やだ、こっちのがおいしそうじゃん\\e[0]
-> CONTEXT: Map146/events/7/pages/0/75/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map146/events/7/pages/0/75/Dialogue
+「Oh my, this one looks more delicious\\e[0]
 > END STRING
 
 > BEGIN STRING
 「そうね、
 　こっちから食べちゃえっ\\e[0]
-> CONTEXT: Map146/events/7/pages/0/77/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map146/events/7/pages/0/77/Dialogue
+「Yeah,
+　let's eat\\e[0]
 > END STRING
 
 > BEGIN STRING
 「襲われてた子たち、
 　大丈夫かしら？
-> CONTEXT: Map146/events/7/pages/0/141/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map146/events/7/pages/0/141/Dialogue
+「Are the girls who were attacked okay?
 > END STRING
 
 > BEGIN STRING
 「……あ…………
-> CONTEXT: Map146/events/7/pages/0/143/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map146/events/7/pages/0/143/Dialogue
+「...Oh.....
 > END STRING
 
 > BEGIN STRING
 「あ…あぁ……いいわぁっ………
 　おいしいぃっ
-> CONTEXT: Map146/events/7/pages/0/158/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map146/events/7/pages/0/158/Dialogue
+「A...aah...good...
+　Delicious
 > END STRING
 
 > BEGIN STRING
 「あぁんっ、はやく私にもぉっ！
-> CONTEXT: Map146/events/7/pages/0/160/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map146/events/7/pages/0/160/Dialogue
+「Ahh, hurry up and give it to me too!
 > END STRING
 
 > BEGIN STRING
 「渇く…渇くのよぉっ、
 　下のお口があっ！
-> CONTEXT: Map146/events/7/pages/0/161/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map146/events/7/pages/0/161/Dialogue
+「I'm thirsty...I'm so thirsty,
+　my lower mouth!
 > END STRING
 
 > BEGIN STRING
 「もっとちょうだぁいっ！！
-> CONTEXT: Map146/events/7/pages/0/163/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map146/events/7/pages/0/163/Dialogue
+「Give me more!!
 > END STRING
 
 > BEGIN STRING
 「あン、もう打ち止めぇ？
-> CONTEXT: Map146/events/7/pages/0/181/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map146/events/7/pages/0/181/Dialogue
+「Ah, he's done?
 > END STRING
 
 > BEGIN STRING
 「やぁん……
-> CONTEXT: Map146/events/7/pages/0/185/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map146/events/7/pages/0/185/Dialogue
+「Sigh...
 > END STRING
 
 > BEGIN STRING
 「あ、でもそこにいるじゃん。
 　イキのよさそうなのがっ♪
-> CONTEXT: Map146/events/7/pages/0/188/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map146/events/7/pages/0/188/Dialogue
+「Ah, but there.
+　He looks lively♪
 > END STRING
 
 > BEGIN STRING
 「あはっ、ほんとだあ♪
-> CONTEXT: Map146/events/7/pages/0/192/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map146/events/7/pages/0/192/Dialogue
+「Ahaha, true♪
 > END STRING
 
 > BEGIN STRING
 「そんな……
 　ここにまで魔物が………
-> CONTEXT: Map146/events/7/pages/0/240/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map146/events/7/pages/0/240/Dialogue
+「What the... 
+　There are demons all the way here...
 > END STRING
 
 > BEGIN STRING
 「\\dかけら\\dがあるのを
 　嗅ぎ付けられたのね、
 　きっと……。
-> CONTEXT: Map146/events/7/pages/0/243/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map146/events/7/pages/0/243/Dialogue
+「They must have been able to 
+　sense the \\fragment\\,
+　of course...
 > END STRING
 
 > BEGIN STRING
 「どうするの？
 　あなたもうお家に帰ったら？
-> CONTEXT: Map146/events/7/pages/0/270/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map146/events/7/pages/0/270/Dialogue
+「What are you going to do? 
+　Shouldn't you just go home?
 > END STRING
 
 > BEGIN STRING
 「……いいえ！
 　\\n[1]さんが目的を果たすまで、
 　ずっと一緒にいます！
-> CONTEXT: Map146/events/7/pages/0/275/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map146/events/7/pages/0/275/Dialogue
+「...No!
+　\\n[1], I want to be with you 
+　until you achieve your goal!
 > END STRING
 
 > BEGIN STRING
 「また私の魔法が
 　役に立つことだって、
 　きっとあります！
-> CONTEXT: Map146/events/7/pages/0/278/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map146/events/7/pages/0/278/Dialogue
+「I'm sure my magic 
+　will come in handy again!
 > END STRING
 
 > BEGIN STRING
 「……ま、好きにしたらいいわ。
-> CONTEXT: Map146/events/7/pages/0/282/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map146/events/7/pages/0/282/Dialogue
+「...Well, do as you like.
 > END STRING
 
 > BEGIN STRING
 「でも夢魔がいる間は
 　おとなしく隠れててね。
-> CONTEXT: Map146/events/7/pages/0/283/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map146/events/7/pages/0/283/Dialogue
+「But while the succubi are here, 
+　you'd better stay quiet and hide.
 > END STRING
 
 > BEGIN STRING
 「あなたまで夢魔になられちゃ
 　かなわないわ。
-> CONTEXT: Map146/events/7/pages/0/285/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map146/events/7/pages/0/285/Dialogue
+「If even you become a succubus, 
+　it would be too much.
 > END STRING
 
 > BEGIN STRING
 「………はい。
-> CONTEXT: Map146/events/7/pages/0/288/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map146/events/7/pages/0/288/Dialogue
+「...Okay.
 > END STRING
 
 > BEGIN STRING
 「夢魔の犠牲になった魔術士たちは、
 　救出してホロスで治療しています。
-> CONTEXT: Map146/events/26/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map146/events/26/pages/0/1/Dialogue
+「Mages who fall victim to succubi 
+　are rescued and treated at Holos.
 > END STRING
 
 > BEGIN STRING
 「しかし、まだ夢魔は
 　そのあたりにいるはずです。
 　気をつけてください。
-> CONTEXT: Map146/events/26/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map146/events/26/pages/0/3/Dialogue
+「However, I expect succubi 
+　are still around. 
+　Please be careful.
 > END STRING

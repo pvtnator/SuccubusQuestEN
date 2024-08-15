@@ -1,69 +1,71 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 "シトリー/Sitri"
-> CONTEXT: Map341/events/3/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map340/events/3/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map339/events/3/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map338/events/3/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map337/events/14/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map336/events/3/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map335/events/3/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map334/events/3/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map251/events/4/pages/0/110/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map251/events/4/pages/2/6/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map251/events/12/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/253/22/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/253/32/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/256/3/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/256/20/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/256/28/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/251/11/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/251/30/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/251/51/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/251/70/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/251/91/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/251/110/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/251/131/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/251/150/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/251/171/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/251/190/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/251/210/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/251/228/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/251/236/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/251/253/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/251/271/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/251/292/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/251/313/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/251/322/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map341/events/3/pages/0/0/InlineScript/1:4
+> CONTEXT: Map340/events/3/pages/0/0/InlineScript/1:4
+> CONTEXT: Map339/events/3/pages/0/0/InlineScript/1:4
+> CONTEXT: Map338/events/3/pages/0/0/InlineScript/1:4
+> CONTEXT: Map337/events/14/pages/0/0/InlineScript/1:4
+> CONTEXT: Map336/events/3/pages/0/0/InlineScript/1:4
+> CONTEXT: Map335/events/3/pages/0/0/InlineScript/1:4
+> CONTEXT: Map334/events/3/pages/0/0/InlineScript/1:4
+> CONTEXT: Map251/events/4/pages/0/110/InlineScript/1:4
+> CONTEXT: Map251/events/4/pages/2/6/InlineScript/1:4
+> CONTEXT: Map251/events/12/pages/0/0/InlineScript/1:4
+> CONTEXT: Commonevents/253/22/InlineScript/1:4
+> CONTEXT: Commonevents/253/32/InlineScript/1:4
+> CONTEXT: Commonevents/256/3/InlineScript/1:4
+> CONTEXT: Commonevents/256/20/InlineScript/1:4
+> CONTEXT: Commonevents/256/28/InlineScript/1:4
+> CONTEXT: Commonevents/251/11/InlineScript/1:4
+> CONTEXT: Commonevents/251/30/InlineScript/1:4
+> CONTEXT: Commonevents/251/51/InlineScript/1:4
+> CONTEXT: Commonevents/251/70/InlineScript/1:4
+> CONTEXT: Commonevents/251/91/InlineScript/1:4
+> CONTEXT: Commonevents/251/110/InlineScript/1:4
+> CONTEXT: Commonevents/251/131/InlineScript/1:4
+> CONTEXT: Commonevents/251/150/InlineScript/1:4
+> CONTEXT: Commonevents/251/171/InlineScript/1:4
+> CONTEXT: Commonevents/251/190/InlineScript/1:4
+> CONTEXT: Commonevents/251/210/InlineScript/1:4
+> CONTEXT: Commonevents/251/228/InlineScript/1:4
+> CONTEXT: Commonevents/251/236/InlineScript/1:4
+> CONTEXT: Commonevents/251/253/InlineScript/1:4
+> CONTEXT: Commonevents/251/271/InlineScript/1:4
+> CONTEXT: Commonevents/251/292/InlineScript/1:4
+> CONTEXT: Commonevents/251/313/InlineScript/1:4
+> CONTEXT: Commonevents/251/322/InlineScript/1:4
+"Sitri/Sitri"
 > END STRING
 
 > BEGIN STRING
 「前のデータを上書きすると、
 　もう舞台には戻れんぞ！
-> CONTEXT: Map341/events/3/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map340/events/3/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map339/events/3/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map338/events/3/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map337/events/14/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map336/events/3/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map335/events/3/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map334/events/3/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map251/events/12/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map341/events/3/pages/0/1/Dialogue
+> CONTEXT: Map340/events/3/pages/0/1/Dialogue
+> CONTEXT: Map339/events/3/pages/0/1/Dialogue
+> CONTEXT: Map338/events/3/pages/0/1/Dialogue
+> CONTEXT: Map337/events/14/pages/0/1/Dialogue
+> CONTEXT: Map336/events/3/pages/0/1/Dialogue
+> CONTEXT: Map335/events/3/pages/0/1/Dialogue
+> CONTEXT: Map334/events/3/pages/0/1/Dialogue
+> CONTEXT: Map251/events/12/pages/0/1/Dialogue
+「If you overwrite the previous data,
+　you'll never be able to go back to the stage!
 > END STRING
 
 > BEGIN STRING
 「注意するんだな！
 　ふふふ！
-> CONTEXT: Map341/events/3/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map340/events/3/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map339/events/3/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map338/events/3/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map337/events/14/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map336/events/3/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map335/events/3/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map334/events/3/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map251/events/12/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map341/events/3/pages/0/3/Dialogue
+> CONTEXT: Map340/events/3/pages/0/3/Dialogue
+> CONTEXT: Map339/events/3/pages/0/3/Dialogue
+> CONTEXT: Map338/events/3/pages/0/3/Dialogue
+> CONTEXT: Map337/events/14/pages/0/3/Dialogue
+> CONTEXT: Map336/events/3/pages/0/3/Dialogue
+> CONTEXT: Map335/events/3/pages/0/3/Dialogue
+> CONTEXT: Map334/events/3/pages/0/3/Dialogue
+> CONTEXT: Map251/events/12/pages/0/3/Dialogue
+「Pay attention!
+　Hehehe!
 > END STRING

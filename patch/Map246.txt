@@ -1,8 +1,8 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 「ふふふふふふふ！
-> CONTEXT: Map246/events/4/pages/0/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map246/events/4/pages/0/5/Dialogue
+「Hehehehehe!
 > END STRING
 
 > BEGIN STRING

@@ -227,7 +227,6 @@
 > CONTEXT: Scripts/RPG::Skill (message)/908:27 < UNTRANSLATED
 > CONTEXT: Scripts/RPG::Skill (message)/912:27 < UNTRANSLATED
 > CONTEXT: Scripts/Window_Skill_TAB/91:47 < UNTRANSLATED
-> CONTEXT: Scripts/Window_Skill_SWD/77:47 < UNTRANSLATED
 > CONTEXT: Scripts/RPG::Skill (message)/938:18 < UNTRANSLATED
 > CONTEXT: Scripts/RPG::Skill (message)/962:27 < UNTRANSLATED
 > CONTEXT: Scripts/Window_EquipRight/65:46 < UNTRANSLATED
@@ -243,16 +242,6 @@
 > CONTEXT: Scripts/Window_NameEdit/26:13 < UNTRANSLATED
 > CONTEXT: Scripts/Window_NameEdit/49:44 < UNTRANSLATED
 > CONTEXT: Scripts/Window_NameEdit/63:15 < UNTRANSLATED
-> CONTEXT: Scripts/Window_Speaker/17:10 < UNTRANSLATED
-> CONTEXT: Scripts/Window_Speaker/18:15 < UNTRANSLATED
-> CONTEXT: Scripts/Window_Speaker/19:13 < UNTRANSLATED
-> CONTEXT: Scripts/Window_Speaker/20:13 < UNTRANSLATED
-> CONTEXT: Scripts/Window_Speaker/21:18 < UNTRANSLATED
-> CONTEXT: Scripts/Window_Speaker/38:13 < UNTRANSLATED
-> CONTEXT: Scripts/Window_Speaker/42:40 < UNTRANSLATED
-> CONTEXT: Scripts/Window_Speaker/47:17 < UNTRANSLATED
-> CONTEXT: Scripts/Window_Speaker/48:19 < UNTRANSLATED
-> CONTEXT: Scripts/Window_Speaker/56:17 < UNTRANSLATED
 > CONTEXT: Scripts/Window_SaveFile/103:12 < UNTRANSLATED
 > CONTEXT: Scripts/Window_NameInput/17:10 < UNTRANSLATED
 > CONTEXT: Scripts/Window_NameInput/17:19 < UNTRANSLATED
@@ -3052,6 +3041,17 @@
 > CONTEXT: Commonevents/253/70/InlineScript/1:4 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Event/43:27 < UNTRANSLATED
 > CONTEXT: Scripts/Game_Event/127:25 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Skill_SWD/77:47 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Speaker/17:10 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Speaker/18:15 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Speaker/19:13 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Speaker/20:13 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Speaker/21:18 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Speaker/38:13 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Speaker/42:40 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Speaker/47:17 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Speaker/48:19 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Speaker/56:17 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Battle 4/12:10 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Battle 4/92:66 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Battle 4/215:10 < UNTRANSLATED
@@ -3160,7 +3160,6 @@
 > CONTEXT: Scripts/Game_Battler 3-1/580:32 < UNTRANSLATED
 > CONTEXT: Scripts/Window_Skill/70:63 < UNTRANSLATED
 > CONTEXT: Scripts/Window_Skill_TAB/84:63 < UNTRANSLATED
-> CONTEXT: Scripts/Window_Skill_SWD/70:63 < UNTRANSLATED
 > CONTEXT: Scripts/Window_Item/124:62 < UNTRANSLATED
 > CONTEXT: Scripts/Sprite_Battler/387:35 < UNTRANSLATED
 > CONTEXT: Scripts/Window_EquipItem/98:62 < UNTRANSLATED
@@ -3175,9 +3174,6 @@
 > CONTEXT: Scripts/Window_ShopSell/93:62 < UNTRANSLATED
 > CONTEXT: Scripts/Window_ShopBuy/87:62 < UNTRANSLATED
 > CONTEXT: Scripts/Window_BattleEquip/102:62 < UNTRANSLATED
-> CONTEXT: Scripts/Window_Speaker/37:22 < UNTRANSLATED
-> CONTEXT: Scripts/Window_Speaker/40:22 < UNTRANSLATED
-> CONTEXT: Scripts/Window_Speaker/41:27 < UNTRANSLATED
 > CONTEXT: Scripts/Window_ShopStatus/98:66 < UNTRANSLATED
 > CONTEXT: Scripts/Window_ShopStatus/111:68 < UNTRANSLATED
 > CONTEXT: Scripts/Interpreter 4/231:68 < UNTRANSLATED
@@ -3197,6 +3193,10 @@
 > CONTEXT: Commonevents/314/10/InlineScript/3:21 < UNTRANSLATED
 > CONTEXT: Commonevents/314/16/InlineScript/4:21 < UNTRANSLATED
 > CONTEXT: Scripts/Window_Base/482:62 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Skill_SWD/70:63 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Speaker/37:22 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Speaker/40:22 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Speaker/41:27 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Battle 4/793:54 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Battle 4/795:30 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Battle 4/798:30 < UNTRANSLATED
@@ -6518,8 +6518,8 @@
 
 > BEGIN STRING
 "\#{myname}は幻覚から解放された！"
-> CONTEXT: Scripts/RPG::State (message)/169:19 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/169:19
+"\#{myname} is free from hallucinations!"
 > END STRING
 
 > BEGIN STRING
@@ -7818,8 +7818,8 @@
 
 > BEGIN STRING
 "ムーディーメディウム"
-> CONTEXT: Scripts/RPG::Item(detail)/161:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/161:12
+"Moody Medium"
 > END STRING
 
 > BEGIN STRING
@@ -7872,8 +7872,8 @@
 
 > BEGIN STRING
 "カースドアイアン"
-> CONTEXT: Scripts/RPG::Item(detail)/168:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/168:12
+"Cursed Iron"
 > END STRING
 
 > BEGIN STRING
@@ -7946,8 +7946,8 @@
 
 > BEGIN STRING
 "ルゥインローション"
-> CONTEXT: Scripts/RPG::Item(detail)/175:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/175:12
+"Luin Lotion"
 > END STRING
 
 > BEGIN STRING
@@ -7970,8 +7970,8 @@
 
 > BEGIN STRING
 "悪意の触手"
-> CONTEXT: Scripts/RPG::Item(detail)/178:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/178:12
+"Malice Tentacle"
 > END STRING
 
 > BEGIN STRING
@@ -8006,8 +8006,8 @@
 
 > BEGIN STRING
 "レベルリミッター"
-> CONTEXT: Scripts/RPG::Item(detail)/182:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/182:12
+"Level Limiter"
 > END STRING
 
 > BEGIN STRING
@@ -8025,12 +8025,12 @@
 > BEGIN STRING
 "\\n"
 > CONTEXT: Scripts/RPG::Item(detail)/184:15 < UNTRANSLATED
-> CONTEXT: Scripts/Interpreter 7/258:44 < UNTRANSLATED
-> CONTEXT: Scripts/Interpreter 7/264:51 < UNTRANSLATED
 > CONTEXT: Scripts/Interpreter 1/234:41 < UNTRANSLATED
 > CONTEXT: Scripts/Interpreter 3/22:61 < UNTRANSLATED
 > CONTEXT: Scripts/Interpreter 3/29:68 < UNTRANSLATED
 > CONTEXT: Scripts/Window_Message/296:17 < UNTRANSLATED
+> CONTEXT: Scripts/Interpreter 7/258:44 < UNTRANSLATED
+> CONTEXT: Scripts/Interpreter 7/264:51 < UNTRANSLATED
 
 > END STRING
 
@@ -8981,7 +8981,7 @@
 
 > BEGIN STRING
 "蝶のホロス風"
-> CONTEXT: Scripts/RPG::Item(detail)/344:12 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Item(detail)/344:12
 "Holos Butterfly"
 > END STRING
 
@@ -10363,8 +10363,8 @@
 
 > BEGIN STRING
 "「あはぁんっ\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-nude(E))/89:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-nude(E))/89:17
+"「Ahaah\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
@@ -10548,7 +10548,6 @@
 > CONTEXT: Scripts/Game_Enemy 2(analyze)/88:10
 > CONTEXT: Scripts/Game_Enemy/210:11
 > CONTEXT: Scripts/RPG::Skill (message)/603:63
-> CONTEXT: Scripts/Window_Speaker/44:17
 > CONTEXT: Scripts/★ステート付与成功率計算/88:26
 > CONTEXT: Scripts/★ステート付与成功率計算/193:26
 > CONTEXT: Scripts/★図鑑用詳細データ/828:10
@@ -10646,13 +10645,14 @@
 > CONTEXT: Map231/events/29/pages/0/409/InlineScript/1:4
 > CONTEXT: Map231/events/30/pages/0/78/InlineScript/1:4
 > CONTEXT: Troops/8/pages/1/1/InlineScript/2:5
+> CONTEXT: Scripts/Window_Speaker/44:17
 "Christine"
 > END STRING
 
 > BEGIN STRING
 "「\\\\n[1]さん……、\\n　私、もう………っ！"
-> CONTEXT: Scripts/Game_Battler(msg-nude(E))/99:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-nude(E))/99:17
+"「\\\\n[1]...\\n　I, already...!"
 > END STRING
 
 > BEGIN STRING
@@ -11421,8 +11421,8 @@
 
 > BEGIN STRING
 "「脱いじゃえ～～っ♪"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/74:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/74:14
+"「Take it off~~♪"
 > END STRING
 
 > BEGIN STRING
@@ -11447,8 +11447,8 @@
 
 > BEGIN STRING
 "「\\\\n[1]さん………"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/76:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/76:14
+"「\\\\n[1]..."
 > END STRING
 
 > BEGIN STRING
@@ -11986,8 +11986,8 @@
 
 > BEGIN STRING
 "「やぁん……"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/165:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/165:12
+"「Sigh..."
 > END STRING
 
 > BEGIN STRING
@@ -12483,9 +12483,9 @@
 
 > BEGIN STRING
 "「あら、避けられちゃった？"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/213:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/192:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/213:12
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/192:12
+"「Oh, you avoided it?"
 > END STRING
 
 > BEGIN STRING
@@ -12509,15 +12509,15 @@
 
 > BEGIN STRING
 "「避けてんじゃないわよっ！"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/216:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/195:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/216:12
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/195:12
+"「Don't avoid me!"
 > END STRING
 
 > BEGIN STRING
 "「うわぁ～……"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/218:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/218:12
+"「Wow~..."
 > END STRING
 
 > BEGIN STRING
@@ -12541,20 +12541,20 @@
 
 > BEGIN STRING
 "「ああっ…、す、すごい……"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/221:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/221:12
+"Ohhh...a-amazing..."
 > END STRING
 
 > BEGIN STRING
 "「あ…まって………"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/170:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/170:12
+"「Ah...wait..."
 > END STRING
 
 > BEGIN STRING
 "　どうしちゃおうかしら……ふふ\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/182:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/182:12
+"　What to do...hehe\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
@@ -12845,14 +12845,14 @@
 
 > BEGIN STRING
 "「あぁっ、\\\\n[1]さん……一緒に……\\n\\\\w[\\\\v[104]]"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/232:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/232:12
+"「Aah,\\\\n[1]...together...\\n\\\\w[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
 "　一緒に…一緒にイってください……っ！"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/233:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/233:12
+"　Please...let's cum...together...!"
 > END STRING
 
 > BEGIN STRING
@@ -13185,8 +13185,8 @@
 
 > BEGIN STRING
 "「\\\\n[1]さん…ください……っ！"
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/61:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/61:14
+"「\\\\n[1]... Please...!"
 > END STRING
 
 > BEGIN STRING
@@ -13522,21 +13522,21 @@
 
 > BEGIN STRING
 "「やぁんっ、はいってるぅ\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/188:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(A))/121:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/188:12
+> CONTEXT: Scripts/Game_Battler(msg-insert(A))/121:12
+"「Aaah, it's in there\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
 "「あぁんっ"
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/189:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/189:12
+"「Aaah"
 > END STRING
 
 > BEGIN STRING
 "「ふふ…いじめてあげる……\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-insert(A))/104:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-insert(A))/104:12
+"「Hehe...I'll tease you...\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
@@ -13560,16 +13560,16 @@
 
 > BEGIN STRING
 "「あ…あぁンッ！"
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/200:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(A))/124:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(A))/140:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/200:12
+> CONTEXT: Scripts/Game_Battler(msg-insert(A))/124:12
+> CONTEXT: Scripts/Game_Battler(msg-insert(A))/140:12
+"「Ah, aahh!"
 > END STRING
 
 > BEGIN STRING
 "「まだダメ………ッ"
-> CONTEXT: Scripts/Game_Battler(msg-insert(A))/115:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-insert(A))/115:12
+"「Not yet..."
 > END STRING
 
 > BEGIN STRING
@@ -14732,10 +14732,10 @@
 
 > BEGIN STRING
 "しかし\#{target}には効かなかった！"
-> CONTEXT: Scripts/RPG::Skill (message)/278:17 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/289:17 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Skill (message)/293:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/278:17
+> CONTEXT: Scripts/RPG::Skill (message)/289:17
+> CONTEXT: Scripts/RPG::Skill (message)/293:17
+"But it didn't work on \#{target}!"
 > END STRING
 
 > BEGIN STRING
@@ -15828,9 +15828,9 @@
 
 > BEGIN STRING
 "メフィスト"
-> CONTEXT: Scripts/Game_Enemy/484:17 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/521:10 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Enemy/484:17
+> CONTEXT: Scripts/★図鑑用詳細データ/521:10
+"Mephisto"
 > END STRING
 
 > BEGIN STRING
@@ -15995,9 +15995,9 @@
 
 > BEGIN STRING
 "アルラウネ"
-> CONTEXT: Scripts/Game_Enemy/488:20 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/83:10 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Enemy/488:20
+> CONTEXT: Scripts/★図鑑用詳細データ/83:10
+"Alraune"
 > END STRING
 
 > BEGIN STRING
@@ -16593,9 +16593,9 @@
 
 > BEGIN STRING
 "エルズリー"
-> CONTEXT: Scripts/Game_Enemy/506:20 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/156:10 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Enemy/506:20
+> CONTEXT: Scripts/★図鑑用詳細データ/156:10
+"Erzulie"
 > END STRING
 
 > BEGIN STRING
@@ -16833,8 +16833,8 @@
 
 > BEGIN STRING
 "%02d:%02d:%02d"
-> CONTEXT: Scripts/Window_PlayTime/27:20 < UNTRANSLATED
 > CONTEXT: Scripts/Window_SaveFile/88:29 < UNTRANSLATED
+> CONTEXT: Scripts/Window_PlayTime/27:20 < UNTRANSLATED
 
 > END STRING
 

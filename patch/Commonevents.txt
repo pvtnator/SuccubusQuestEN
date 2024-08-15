@@ -265,16 +265,18 @@
 
 > BEGIN STRING
 「あの子、ちゃんとついてきてるわね。
-> CONTEXT: Commonevents/23/173/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/23/173/Dialogue
+「This girl is following diligently.
 > END STRING
 
 > BEGIN STRING
 「あんな純情な子を
 　こんなことに巻き込んで……
 　悪い男ね\\e[0]
-> CONTEXT: Commonevents/23/174/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/23/174/Dialogue
+「You're a bad guy, 
+　dragging such an innocent girl 
+　into something like this...\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -295,15 +297,18 @@
 「参ったわね。
 　\\dかけら\\dのありかが分かったのはいいけど、
 　数日足止めされるなんて……
-> CONTEXT: Commonevents/23/196/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/23/196/Dialogue
+「This is bad.
+　It's good that we found the location of the \\dfragment\\d,
+　but now we're stuck there for days...
 > END STRING
 
 > BEGIN STRING
 「あのハグロフスって人、
 　とんだ親バカね。
-> CONTEXT: Commonevents/23/199/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/23/199/Dialogue
+「That Haglofs guy,
+　he's such a doting parent.
 > END STRING
 
 > BEGIN STRING
@@ -1468,16 +1473,6 @@ pours into \\n[1]!
 > END STRING
 
 > BEGIN STRING
-「今まで知らなかったのよ。
-　アタシがこんなにきれいなんて。
-　アタシにこんなことができるなんて
-> CONTEXT: None < UNUSED
-「I never knew.
-　I never knew I was this beautiful. 
-　I never knew I could do this.
-> END STRING
-
-> BEGIN STRING
 「男の子に話しかけられるのさえ
 　こわかったのに………
 > CONTEXT: Commonevents/104/10/Dialogue
@@ -2351,11 +2346,11 @@ took off \\n[27]'s clothes off!
 
 > BEGIN STRING
 \\a[\\v[105]]\\n[28]は\\v[1]を呼び出した！
-> CONTEXT: Commonevents/149/9/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/152/8/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/152/19/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/157/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/149/9/Dialogue
+> CONTEXT: Commonevents/152/8/Dialogue
+> CONTEXT: Commonevents/152/19/Dialogue
+> CONTEXT: Commonevents/157/12/Dialogue
+\\a[\\v[105]]\\n[28] summoned \\v[1]!
 > END STRING
 
 > BEGIN STRING
@@ -3086,29 +3081,33 @@ Villager
 > BEGIN STRING
 「…そんな言葉で
 　惑わされるとでも思って？
-> CONTEXT: Commonevents/170/17/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/170/17/Dialogue
+「...Do you think those words 
+　will confuse me?
 > END STRING
 
 > BEGIN STRING
 「え？ やだ、
 　アタシに言ってんの？
-> CONTEXT: Commonevents/170/31/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/170/31/Dialogue
+「Eh? Oh no,
+　are you talking to me?
 > END STRING
 
 > BEGIN STRING
 「ええっ、そんなこと言われたの初めて……
 　どうしよう……\\e[0]
-> CONTEXT: Commonevents/170/33/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/170/33/Dialogue
+「Huh? That's the first time I've been told that...
+　What should I do...\\e[0]
 > END STRING
 
 > BEGIN STRING
 「や……もっと…………
 　もっとぉ………っ！
-> CONTEXT: Commonevents/170/40/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/170/40/Dialogue
+「Oh...more...
+　more...!
 > END STRING
 
 > BEGIN STRING
@@ -3200,22 +3199,24 @@ Villager
 
 > BEGIN STRING
 「ナンだよ、命乞いか？
-> CONTEXT: Commonevents/170/101/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/170/101/Dialogue
+「What is it, begging for your life?
 > END STRING
 
 > BEGIN STRING
 「命乞いか？」
-> CONTEXT: Commonevents/170/103/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/170/103/Dialogue
+「Begging for your life?」
 > END STRING
 
 > BEGIN STRING
 「あはははっ！
 　動けないのに必死でもがく奴を
 　ヤるのがいいんだよ\\e[0]
-> CONTEXT: Commonevents/170/107/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/170/107/Dialogue
+「Ahahaha!
+　It's good to have sex with someone 
+　who is struggling desperately\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -3227,26 +3228,27 @@ Villager
 > BEGIN STRING
 「なぁにぃ？
 　アタシを口説きたいのぉ？
-> CONTEXT: Commonevents/170/132/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/170/132/Dialogue
+「What?
+　Are you trying to woo me?
 > END STRING
 
 > BEGIN STRING
 「アタシを口説きたいのぉ？」
-> CONTEXT: Commonevents/170/135/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/170/135/Dialogue
+「Are you trying to woo me?」
 > END STRING
 
 > BEGIN STRING
 「やん、かわいぃ～\\e[0]
-> CONTEXT: Commonevents/170/139/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/170/139/Dialogue
+「Mmh, cute~\\e[0]
 > END STRING
 
 > BEGIN STRING
 「やん、生意気ぃ。
-> CONTEXT: Commonevents/170/145/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/170/145/Dialogue
+「Mmh, cheeky.
 > END STRING
 
 > BEGIN STRING
@@ -3259,8 +3261,9 @@ Villager
 > BEGIN STRING
 「あぁっ………、
 　\\n[1]さんッ……\\e[0]
-> CONTEXT: Commonevents/170/160/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/170/160/Dialogue
+「Ahh....
+　\\n[1]...\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -3312,21 +3315,22 @@ Villager
 > BEGIN STRING
 「…いままで、いろんな男のひとが
 　あたしにそういうこと言ってきたわ。
-> CONTEXT: Commonevents/170/240/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/170/240/Dialogue
+「...So many guys have said that to me.
 > END STRING
 
 > BEGIN STRING
 「でも、こわくて逃げちゃってたの…
 　だけど今なら……
-> CONTEXT: Commonevents/170/242/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/170/242/Dialogue
+「But I was scared and ran away...
+　But now...
 > END STRING
 
 > BEGIN STRING
 「今なら、素直に受け止められるわ…\\e[0]
-> CONTEXT: Commonevents/170/244/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/170/244/Dialogue
+「Now I can accept it honestly...\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -3416,18 +3420,19 @@ Villager
 > BEGIN STRING
 「あン、あ…あンっ！
 　あぁぁんっ\\e[0]
-> CONTEXT: Commonevents/171/12/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/172/12/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/173/12/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/174/12/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/175/12/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/176/24/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/177/12/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/180/25/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/181/11/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/182/12/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/183/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/171/12/Dialogue
+> CONTEXT: Commonevents/172/12/Dialogue
+> CONTEXT: Commonevents/173/12/Dialogue
+> CONTEXT: Commonevents/174/12/Dialogue
+> CONTEXT: Commonevents/175/12/Dialogue
+> CONTEXT: Commonevents/176/24/Dialogue
+> CONTEXT: Commonevents/177/12/Dialogue
+> CONTEXT: Commonevents/180/25/Dialogue
+> CONTEXT: Commonevents/181/11/Dialogue
+> CONTEXT: Commonevents/182/12/Dialogue
+> CONTEXT: Commonevents/183/19/Dialogue
+「Mhm, ah, ahh!
+　Aaaaah\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -3794,8 +3799,9 @@ Villager
 > BEGIN STRING
 「やぁん、
 　\\n[27]うれしぃ～っ\\e[0]
-> CONTEXT: Commonevents/172/175/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/172/175/Dialogue
+「Ah,
+　\\n[27] is so happy\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -4165,7 +4171,7 @@ Donate an item
 > CONTEXT: Commonevents/180/68/Dialogue
 > CONTEXT: Commonevents/181/48/Dialogue
 > CONTEXT: Commonevents/183/60/Dialogue
-\\a[\\v[105]]But\\n[27]
+\\a[\\v[105]]But \\n[27]
 is looking with cold eyes!
 > END STRING
 
@@ -5278,8 +5284,8 @@ It seems like it's not enough
 「\\c[7]メローナ\\c[0]は\\c[7]ストゥーナ\\c[0]としか
 　一緒に呼べないがどうする？
 > CONTEXT: Commonevents/251/12/Dialogue
-「What should \\c[7]Merona\\c[0] and \\c[7]Stona\\c[0]
-　be called combined?
+「Should \\c[7]Merona\\c[0] and \\c[7]Stona\\c[0]
+　be called together?
 > END STRING
 
 > BEGIN STRING
@@ -5328,8 +5334,8 @@ Nevermind
 「\\c[7]ストゥーナ\\c[0]は\\c[7]メローナ\\c[0]としか
 　一緒に呼べないがどうする？
 > CONTEXT: Commonevents/251/52/Dialogue
-「What should \\c[7]Stona\\c[0] and \\c[7]Merona\\c[0]
-　be called combined?
+「Should \\c[7]Stona\\c[0] and \\c[7]Merona\\c[0]
+　be called together?
 > END STRING
 
 > BEGIN STRING
@@ -5349,168 +5355,180 @@ Stona and Merona
 > BEGIN STRING
 「\\c[7]エスプラーナ\\c[0]は姉妹としか
 　一緒に呼べないがどうする？
-> CONTEXT: Commonevents/251/92/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/251/92/Dialogue
+「\\c[7]Esplana\\c[0] can be called alone, 
+　or her sisters, so what should we do?
 > END STRING
 
 > BEGIN STRING
 エスプラーナだけ呼ぶ
-> CONTEXT: Commonevents/251/95/Choice/0 < UNTRANSLATED
-> CONTEXT: Commonevents/251/95/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Commonevents/251/95/Choice/0
+> CONTEXT: Commonevents/251/95/Choice/0
+Call only Esplana
 > END STRING
 
 > BEGIN STRING
 ハーピー三姉妹を呼ぶ
-> CONTEXT: Commonevents/251/95/Choice/1 < UNTRANSLATED
-> CONTEXT: Commonevents/251/95/Choice/1 < UNTRANSLATED
-> CONTEXT: Commonevents/251/135/Choice/1 < UNTRANSLATED
-> CONTEXT: Commonevents/251/135/Choice/1 < UNTRANSLATED
-> CONTEXT: Commonevents/251/175/Choice/1 < UNTRANSLATED
-> CONTEXT: Commonevents/251/175/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Commonevents/251/95/Choice/1
+> CONTEXT: Commonevents/251/95/Choice/1
+> CONTEXT: Commonevents/251/135/Choice/1
+> CONTEXT: Commonevents/251/135/Choice/1
+> CONTEXT: Commonevents/251/175/Choice/1
+> CONTEXT: Commonevents/251/175/Choice/1
+Summon the Harpy Sisters
 > END STRING
 
 > BEGIN STRING
 「\\c[7]リズ・ラズ\\c[0]は姉妹としか
 　一緒に呼べないがどうする？
-> CONTEXT: Commonevents/251/132/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/251/132/Dialogue
+「\\c[7]Liz-Raz\\c[0] can be called with sisters, 
+　so what do you think?
 > END STRING
 
 > BEGIN STRING
 リズ・ラズだけ呼ぶ
-> CONTEXT: Commonevents/251/135/Choice/0 < UNTRANSLATED
-> CONTEXT: Commonevents/251/135/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Commonevents/251/135/Choice/0
+> CONTEXT: Commonevents/251/135/Choice/0
+Call only Liz-Raz.
 > END STRING
 
 > BEGIN STRING
 「\\c[7]ロッコ・バロッコ\\c[0]は姉妹としか
 　一緒に呼べないがどうする？
-> CONTEXT: Commonevents/251/172/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/251/172/Dialogue
+「\\c[7]Rocco-Barocco\\c[0] can be called with sisters, 
+　so what do you think?
 > END STRING
 
 > BEGIN STRING
 ロッコ・バロッコだけ呼ぶ
-> CONTEXT: Commonevents/251/175/Choice/0 < UNTRANSLATED
-> CONTEXT: Commonevents/251/175/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Commonevents/251/175/Choice/0
+> CONTEXT: Commonevents/251/175/Choice/0
+Call only Rocco-Barocco
 > END STRING
 
 > BEGIN STRING
 「\\c[7]\\v[1]\\c[0]は他の者と
 　一緒に呼べないがどうする？
-> CONTEXT: Commonevents/251/211/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/251/211/Dialogue
+「\\c[7]\\v[1]\\c[0] can't be called with others, 
+　so what should we do?
 > END STRING
 
 > BEGIN STRING
 \\v[1]を呼ぶ
-> CONTEXT: Commonevents/251/214/Choice/0 < UNTRANSLATED
-> CONTEXT: Commonevents/251/214/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Commonevents/251/214/Choice/0
+> CONTEXT: Commonevents/251/214/Choice/0
+Call \\v[1]
 > END STRING
 
 > BEGIN STRING
 「\\c[7]\\v[1]\\c[0]を呼ぶのだな？
-> CONTEXT: Commonevents/251/229/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/251/229/Dialogue
+「You're calling \\c[7]\\v[1]\\c[0]?
 > END STRING
 
 > BEGIN STRING
 「\\c[7]\\v[1]\\c[0]を呼ぶのだな？」
-> CONTEXT: Commonevents/251/231/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/251/231/Dialogue
+「You're calling \\c[7]\\v[1]\\c[0]?」
 > END STRING
 
 > BEGIN STRING
 「他に呼びたい者はいるか？
-> CONTEXT: Commonevents/251/237/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/251/237/Dialogue
+「Anyone else you wish to call?
 > END STRING
 
 > BEGIN STRING
 「他に呼びたい者はいるか？」
-> CONTEXT: Commonevents/251/239/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/251/239/Dialogue
+「Anyone else you wish to call?」
 > END STRING
 
 > BEGIN STRING
 「\\c[7]\\v[1]\\c[0]と\\c[7]\\v[2]\\c[0]
 　でよいのだな？
-> CONTEXT: Commonevents/251/254/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/251/254/Dialogue
+「Is \\c[7]\\v[1]\\c[0] and \\c[7]\\v[2]\\c[0]
+　Okay?
 > END STRING
 
 > BEGIN STRING
 「\\c[7]\\v[1]\\c[0]と\\c[7]\\v[2]\\c[0]と
 　\\c[7]\\v[3]\\c[0]でよいのだな？
-> CONTEXT: Commonevents/251/272/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/251/293/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/251/272/Dialogue
+> CONTEXT: Commonevents/251/293/Dialogue
+「Is \\c[7]\\v[1]\\c[0], \\c[7]\\v[2]\\c[0], and
+\\c[7]\\v[3]\\c[0] correct?
 > END STRING
 
 > BEGIN STRING
 「ではもう一度
 　選びなおすがいいだろう。
-> CONTEXT: Commonevents/251/314/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/251/314/Dialogue
+「Then you should choose again.
 > END STRING
 
 > BEGIN STRING
 「キキッ！
 　ナンか要るモンがあったら売ってやるゼ！
-> CONTEXT: Commonevents/252/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/252/1/Dialogue
+「Kiki! If there's anything you need, 
+　I'll sell it to you!
 > END STRING
 
 > BEGIN STRING
 「キキッ！
 　もう帰りたイか？
-> CONTEXT: Commonevents/253/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/253/1/Dialogue
+「Kiki! 
+　Going home already?
 > END STRING
 
 > BEGIN STRING
 「帰りたイか？」
-> CONTEXT: Commonevents/253/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/253/4/Dialogue
+「Are you going home?」
 > END STRING
 
 > BEGIN STRING
 「キキッ！
 　また会おうゼ！
-> CONTEXT: Commonevents/253/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/253/8/Dialogue
+「Kiki!
+　See you again!
 > END STRING
 
 > BEGIN STRING
 「ふふ……夢から覚めるか、
 　覚めた先が夢か………
-> CONTEXT: Commonevents/253/23/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/253/23/Dialogue
+「Fufu... Waking up from a dream,
+　but waking up is just a dream...
 > END STRING
 
 > BEGIN STRING
 「どちらでもよかろう。
 　君こそは我が親愛なる主人公。
-> CONTEXT: Commonevents/253/25/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/253/25/Dialogue
+「Either way is fine.
+　You are my dear hero.
 > END STRING
 
 > BEGIN STRING
 「ふふ…！
 　いつでも戻ってくるがいい！
-> CONTEXT: Commonevents/253/33/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/253/33/Dialogue
+「Hehe...!
+　You can come back anytime!
 > END STRING
 
 > BEGIN STRING
 「また　会おう！！
-> CONTEXT: Commonevents/253/35/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/253/35/Dialogue
+「See you again!!
 > END STRING
 
 > BEGIN STRING
@@ -6062,6 +6080,8 @@ More power flows from the\\a[\\v[105]]\\c[4]Demon Lord's fragment\\c[0]
 「今まで知らなかったのよ。
 　アタシがこんなにきれいなんて。
 　アタシにこんなことができるなんて。
-> CONTEXT: Commonevents/104/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/104/7/Dialogue
+「I never knew.
+　I never knew I was this beautiful. 
+　I never knew I could do this.
 > END STRING

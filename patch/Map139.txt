@@ -2,62 +2,71 @@
 > BEGIN STRING
 「お父さんたちが探し回ってるはずです。
 　今はホロスに戻らない方がいいでしょう。
-> CONTEXT: Map139/events/5/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map139/events/5/pages/1/1/Dialogue
+「Dad and family are probably searching. 
+　It would be best not to return to Holos right now.
 > END STRING
 
 > BEGIN STRING
 「魔導院は、
 　ここから南東にある
 　テレポーターの先です。
-> CONTEXT: Map139/events/7/pages/1/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map139/events/7/pages/1/3/Dialogue
+「The Magic Academy is located 
+　southeast from here, 
+　past the teleporter.
 > END STRING
 
 > BEGIN STRING
 「夢魔………
 　という魔物が道中出るそうですけど、
-> CONTEXT: Map139/events/7/pages/1/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map139/events/7/pages/1/6/Dialogue
+「Succubi...
+　Demons will appear along the way,
 > END STRING
 
 > BEGIN STRING
 「私は魔法で透明になって
 　ついていきますから……、
 　その…………、
-> CONTEXT: Map139/events/7/pages/1/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map139/events/7/pages/1/8/Dialogue
+「I'll become invisible with magic
+　and follow you, so... 
+　well.....
 > END STRING
 
 > BEGIN STRING
 「……私に遠慮しないで、
 　戦って下さい……。
-> CONTEXT: Map139/events/7/pages/1/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map139/events/7/pages/1/11/Dialogue
+「Don't be shy because of me,
+　Please fight...
 > END STRING
 
 > BEGIN STRING
 "きままな羊"
-> CONTEXT: Map139/events/15/pages/1/2/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map139/events/15/pages/1/2/InlineScript/1:4
+"Wayward Sheep"
 > END STRING
 
 > BEGIN STRING
 （ぼくは　ひつじだぜ
 　ちょうちょじゃないぜ！
-> CONTEXT: Map139/events/15/pages/1/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map139/events/15/pages/1/3/Dialogue
+(I'm a sheep, 
+ not a butterfly!
 > END STRING
 
 > BEGIN STRING
 （きままに　さんぽしてるんだ
 　ほっといておくれよ。
-> CONTEXT: Map139/events/15/pages/1/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map139/events/15/pages/1/5/Dialogue
+(I'm just taking a leisurely stroll. 
+ Leave me alone.
 > END STRING
 
 > BEGIN STRING
 テレポーターは動いていないようだ…
-> CONTEXT: Map139/events/19/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map139/events/19/pages/1/1/Dialogue
+The teleporter doesn't seem to be working...
 > END STRING

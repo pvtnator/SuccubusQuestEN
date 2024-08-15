@@ -2744,15 +2744,18 @@ EV_クリスティン
 「あぁんっ………！
 　\\n[1]さん…
 　\\n[1]さん………っ！！
-> CONTEXT: Troops/313/pages/2/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/313/pages/2/2/Dialogue
+「Ahhh...!
+　\\n[1]...
+　\\n[1]...!!
 > END STRING
 
 > BEGIN STRING
 \\a[1]クリスティンは絶頂に達すると同時に、
 \\w[\\v[104]]強くアソコを締め付けてきた！\\k
-> CONTEXT: Troops/313/pages/2/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/313/pages/2/6/Dialogue
+\\a[1]As Christine reaches orgasm,
+\\w[\\v[104]]she squeezes her pussy tightly!\\k
 > END STRING
 
 > BEGIN STRING
@@ -2760,24 +2763,27 @@ EV_クリスティン
 ラグジャラスヒット！\\w[\\v[105]]
 \\n[1]は\\b \\v[1] \\fの快感を受けた！
 \\k
-> CONTEXT: Troops/313/pages/2/17/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/328/pages/3/27/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/331/pages/6/17/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/313/pages/2/17/Dialogue
+> CONTEXT: Troops/328/pages/3/27/Dialogue
+> CONTEXT: Troops/331/pages/6/17/Dialogue
+\\a[\\v[105]]\\w[\\v[104]]
+Luxorious hit!\\w[\\v[105]]
+\\n[1] received\\b \\v[1] \\fpleasure!
+\\k
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]クリスティンは絶頂に達した！
-> CONTEXT: Troops/313/pages/2/22/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/313/pages/2/22/Dialogue
+\\a[\\v[105]]Christine reached climax!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]\\n[1]は絶頂に達した！\\w[20]
-> CONTEXT: Troops/313/pages/2/32/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/328/pages/3/43/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/331/pages/6/34/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/313/pages/2/32/Dialogue
+> CONTEXT: Troops/328/pages/3/43/Dialogue
+> CONTEXT: Troops/331/pages/6/34/Dialogue
+\\a[\\v[105]]\\n[1] reached climax!\\w[20]
 > END STRING
 
 > BEGIN STRING

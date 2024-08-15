@@ -14,12 +14,12 @@ cannot pass through this gate
 
 > BEGIN STRING
 「私に任せてください。
-> CONTEXT: Map145/events/1/pages/1/23/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map145/events/1/pages/1/23/Dialogue
+「Leave it to me.
 > END STRING
 
 > BEGIN STRING
 「さあ、行きましょう。
-> CONTEXT: Map145/events/1/pages/1/57/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map145/events/1/pages/1/57/Dialogue
+「Come on, let's go.
 > END STRING

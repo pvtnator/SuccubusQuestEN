@@ -425,14 +425,14 @@ Ether Lotion
 
 > BEGIN STRING
 ムーディーメディウム
-> CONTEXT: Items/49/name/ < UNTRANSLATED
-
+> CONTEXT: Items/49/name/
+Moody Medium
 > END STRING
 
 > BEGIN STRING
 魔導人形用の特殊触媒　興奮作用がある
-> CONTEXT: Items/49/description/ < UNTRANSLATED
-
+> CONTEXT: Items/49/description/
+Special catalyst for magical dolls. Has a stimulating effect.
 > END STRING
 
 > BEGIN STRING
@@ -533,13 +533,13 @@ Lembas Bread
 
 > BEGIN STRING
 蝶のホロス風
-> CONTEXT: Items/64/name/ < UNTRANSLATED
+> CONTEXT: Items/64/name/
 Holos Butterfly
 > END STRING
 
 > BEGIN STRING
 〔食事〕 美しい羽根の蝶をその形を保ったまま魔法でローストした料理
-> CONTEXT: Items/64/description/ < UNTRANSLATED
+> CONTEXT: Items/64/description/
 [Food] A magically roasted butterfly with beautiful wings.
 > END STRING
 
@@ -1124,50 +1124,50 @@ Barley berries with hangover-relief properties
 
 > BEGIN STRING
 カースドアイアン
-> CONTEXT: Items/210/name/ < UNTRANSLATED
-
+> CONTEXT: Items/210/name/
+Cursed Iron
 > END STRING
 
 > BEGIN STRING
 〔ツール〕 呪われた拘束具
-> CONTEXT: Items/210/description/ < UNTRANSLATED
-
+> CONTEXT: Items/210/description/
+[Tool] Cursed Restraints
 > END STRING
 
 > BEGIN STRING
 ルゥインローション
-> CONTEXT: Items/211/name/ < UNTRANSLATED
-
+> CONTEXT: Items/211/name/
+Luin Lotion
 > END STRING
 
 > BEGIN STRING
 〔ツール〕 呪われた媚薬
-> CONTEXT: Items/211/description/ < UNTRANSLATED
-
+> CONTEXT: Items/211/description/
+[Tool] Cursed Love Potion
 > END STRING
 
 > BEGIN STRING
 悪意の触手
-> CONTEXT: Items/212/name/ < UNTRANSLATED
-
+> CONTEXT: Items/212/name/
+Malice Tentacle
 > END STRING
 
 > BEGIN STRING
 〔ツール〕 呪われた触手
-> CONTEXT: Items/212/description/ < UNTRANSLATED
-
+> CONTEXT: Items/212/description/
+[Tool] Cursed Tentacle
 > END STRING
 
 > BEGIN STRING
 レベルリミッター
-> CONTEXT: Items/213/name/ < UNTRANSLATED
-
+> CONTEXT: Items/213/name/
+Level Limiter
 > END STRING
 
 > BEGIN STRING
 相手に合わせて自分のレベルを制限する
-> CONTEXT: Items/213/description/ < UNTRANSLATED
-
+> CONTEXT: Items/213/description/
+Limit your level to match your opponent
 > END STRING
 
 > BEGIN STRING
