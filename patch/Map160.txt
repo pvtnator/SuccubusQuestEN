@@ -485,7 +485,7 @@ You live your life the way you want to.
 　 ひとすじの光芒、我が\\r[眼,まなこ]を射抜け！
 　 虚は実に、正は奇に………"
 > CONTEXT: Map160/events/6/pages/0/481/Dialogue
-「"May eternal darkness cover all things!
+「"Eternal darkness, cover all things!
 　 May a single ray of light strike my eye!
 　 Falsehood is real, truth is peculiar..."
 > END STRING

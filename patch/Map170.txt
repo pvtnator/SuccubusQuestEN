@@ -11,22 +11,24 @@
 
 > BEGIN STRING
 「……\\v[1]……\\v[2]……………
-> CONTEXT: Map170/events/1/pages/0/35/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map170/events/1/pages/0/35/Dialogue
+「...\\v[1]...\\v[2].....
 > END STRING
 
 > BEGIN STRING
 「まだこんなところにいたのか。
 　賢王様も待ってるぜ。
-> CONTEXT: Map170/events/1/pages/0/71/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map170/events/1/pages/0/71/Dialogue
+「So you're still here? 
+　The Wise King is waiting for you.
 > END STRING
 
 > BEGIN STRING
 「世界の運命が俺たちにかかってるんだ。
 　気合入れていこうぜ。
-> CONTEXT: Map170/events/1/pages/0/73/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map170/events/1/pages/0/73/Dialogue
+「The fate of the world rests on us. 
+　Let's fight.
 > END STRING
 
 > BEGIN STRING
@@ -35,39 +37,39 @@
 > CONTEXT: Map171/events/8/pages/1/17/Dialogue
 > CONTEXT: Map160/events/6/pages/0/213/Dialogue
 > CONTEXT: Troops/331/pages/3/13/Dialogue
-「\\n[1]！
+「\\n[1]!
 > END STRING
 
 > BEGIN STRING
 「\\n[1]、あたしね、
 　リスヴェグで魔法を勉強してきたのよ！
-> CONTEXT: Map170/events/1/pages/0/131/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map170/events/1/pages/0/131/Dialogue
+「\\n[1], I studied magic in Lisveig!
 > END STRING
 
 > BEGIN STRING
 「これからは、あたしも
 　\\n[1]の力になれるわ！
-> CONTEXT: Map170/events/1/pages/0/133/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map170/events/1/pages/0/133/Dialogue
+「From now on, I can help you too!
 > END STRING
 
 > BEGIN STRING
 「だから、ずっと………
-> CONTEXT: Map170/events/1/pages/0/139/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map170/events/1/pages/0/139/Dialogue
+「So, all the way...
 > END STRING
 
 > BEGIN STRING
 「これから、ずっと………
-> CONTEXT: Map170/events/1/pages/0/148/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map170/events/1/pages/0/148/Dialogue
+「From now on, all the way...
 > END STRING
 
 > BEGIN STRING
 「一…緒………に………………
-> CONTEXT: Map170/events/1/pages/0/151/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map170/events/1/pages/0/151/Dialogue
+「...together.......
 > END STRING
 
 > BEGIN STRING
@@ -82,21 +84,23 @@
 > BEGIN STRING
 「ねえ、\\n[1]も
 　夢魔が憎いでしょう？
-> CONTEXT: Map170/events/1/pages/0/254/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map170/events/1/pages/0/254/Dialogue
+「Hey, \\n[1], 
+　you hate succubi too, right?
 > END STRING
 
 > BEGIN STRING
 「\\n[1]・オヴェルーク。
 　お前に『勇者』の称号を与える。
-> CONTEXT: Map170/events/1/pages/0/302/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map170/events/1/pages/0/302/Dialogue
+「\\n[1] Overlorg.
+　I grant you the title of 'Hero.'
 > END STRING
 
 > BEGIN STRING
 「勇者さまーっ\\e[0]
-> CONTEXT: Map170/events/1/pages/0/328/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map170/events/1/pages/0/328/Dialogue
+「Hero\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -107,82 +111,86 @@
 
 > BEGIN STRING
 「勇者様、ばんざぁいっ！
-> CONTEXT: Map170/events/1/pages/0/352/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map170/events/1/pages/0/352/Dialogue
+「Hero, hurrah!
 > END STRING
 
 > BEGIN STRING
 「魔王を殺せ！
 　みんなのカタキを！！
-> CONTEXT: Map170/events/1/pages/0/376/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map170/events/1/pages/0/376/Dialogue
+「Kill the Demon Lord! 
+　Vengeance for everyone!
 > END STRING
 
 > BEGIN STRING
 \\a[25]「あなたが魔王です！！
-> CONTEXT: Map170/events/1/pages/0/425/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map170/events/1/pages/0/425/Dialogue
+\\a[25]「You're the Demon Lord!!
 > END STRING
 
 > BEGIN STRING
 「もうやめにしたら？
-> CONTEXT: Map170/events/1/pages/0/456/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map170/events/1/pages/0/456/Dialogue
+「Why don't you just stop?
 > END STRING
 
 > BEGIN STRING
 「オリビアはもう、元に戻らないわよ。
-> CONTEXT: Map170/events/1/pages/0/473/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map170/events/1/pages/0/473/Dialogue
+「Olivia will never be the same again.
 > END STRING
 
 > BEGIN STRING
 「夢魔を倒してその後どうするつもり？
-> CONTEXT: Map170/events/1/pages/0/474/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map170/events/1/pages/0/474/Dialogue
+「What will you do after defeating the succubi?
 > END STRING
 
 > BEGIN STRING
 「あなたの力は、魔王の力。
-> CONTEXT: Map170/events/1/pages/0/475/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map170/events/1/pages/0/475/Dialogue
+「Your power is the power of the Demon Lord.
 > END STRING
 
 > BEGIN STRING
 「あなたは、魔王。
-> CONTEXT: Map170/events/1/pages/0/476/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map170/events/1/pages/0/476/Dialogue
+「You are the Demon Lord.
 > END STRING
 
 > BEGIN STRING
 「全てが終わった後、
 　世界にどうされちゃうのかしらね……？
-> CONTEXT: Map170/events/1/pages/0/477/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map170/events/1/pages/0/477/Dialogue
+「After this is all over, 
+　what will happen to the world...?
 > END STRING
 
 > BEGIN STRING
 「ふふ、何をしているの？
-> CONTEXT: Map170/events/1/pages/0/535/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map170/events/1/pages/0/535/Dialogue
+「Hehe, what are you doing?
 > END STRING
 
 > BEGIN STRING
 「\\r[夢魔,あたし]がそんなに憎い？
-> CONTEXT: Map170/events/1/pages/0/536/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map170/events/1/pages/0/536/Dialogue
+「Do you hate succubi that much?
 > END STRING
 
 > BEGIN STRING
 「\\dいいわ\\d。
 　\\dならばそうやって\\d、
-> CONTEXT: Map170/events/1/pages/0/538/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map170/events/1/pages/0/538/Dialogue
+「\\dThat's fine\\d.
+\\dThen keep at it\\d,
 > END STRING
 
 > BEGIN STRING
 「\\dずっとその剣を\\d
 　\\d振り回してなさい\\d………。
-> CONTEXT: Map170/events/1/pages/0/540/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map170/events/1/pages/0/540/Dialogue
+「\\dThat sword\\d
+　\\dKeep swinging it\\d.....
 > END STRING

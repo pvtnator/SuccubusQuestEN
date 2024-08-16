@@ -8,38 +8,41 @@ SQ_Dungeon07
 
 > BEGIN STRING
 "猫"
-> CONTEXT: Map164/events/1/pages/0/1/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map164/events/1/pages/1/1/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map164/events/1/pages/2/1/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map164/events/1/pages/0/1/InlineScript/1:4
+> CONTEXT: Map164/events/1/pages/1/1/InlineScript/1:4
+> CONTEXT: Map164/events/1/pages/2/1/InlineScript/1:4
+"Cat"
 > END STRING
 
 > BEGIN STRING
 （ベルナドット様、
 　いつになくスゴかったニャ～\\e[0]
-> CONTEXT: Map164/events/1/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/1/pages/0/2/Dialogue
+(Bernadotte,
+ Amazing as usual~\\e[0]
 > END STRING
 
 > BEGIN STRING
 （魔王城は広いニャ～
 　行くならしっかり
 　準備を整えてくニャ～～
-> CONTEXT: Map164/events/1/pages/1/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/1/pages/1/2/Dialogue
+(The Demon Lord's Castle is big, nya~
+ If you go, make sure you're well prepared, nya~
 > END STRING
 
 > BEGIN STRING
 （遊びに来たニャ？
 　嬉しいニャ～～\\e[0]
-> CONTEXT: Map164/events/1/pages/2/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/1/pages/2/2/Dialogue
+(You came to play?
+ I'm so happy~\\e[0]
 > END STRING
 
 > BEGIN STRING
 「……いよいよね。
-> CONTEXT: Map164/events/4/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/4/pages/1/1/Dialogue
+「...Finally here.
 > END STRING
 
 > BEGIN STRING
@@ -66,9 +69,9 @@ SQ_Dungeon07
 
 > BEGIN STRING
 「準備はできたかい？
-> CONTEXT: Map164/events/7/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map164/events/7/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/7/pages/0/1/Dialogue
+> CONTEXT: Map164/events/7/pages/1/1/Dialogue
+「Are you ready?
 > END STRING
 
 > BEGIN STRING
@@ -81,8 +84,9 @@ SQ_Dungeon07
 > BEGIN STRING
 「何がテレポトを失敗させているのか、
 　あの村でゆっくり考えておいで。
-> CONTEXT: Map164/events/7/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/7/pages/0/4/Dialogue
+「Go and think about 
+　what is causing the teleport to fail.
 > END STRING
 
 > BEGIN STRING
@@ -95,33 +99,36 @@ SQ_Dungeon07
 > BEGIN STRING
 「その魔方陣に、
 　あらかじめ魔力を込めておいたよ。
-> CONTEXT: Map164/events/7/pages/1/6/Dialogue < UNTRANSLATED
-> CONTEXT: Map164/events/7/pages/2/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/7/pages/1/6/Dialogue
+> CONTEXT: Map164/events/7/pages/2/1/Dialogue
+「I've already imbued that magic circle 
+　with magical power.
 > END STRING
 
 > BEGIN STRING
 「今のあんたなら
 　一人でテレポトを発動できるはずさ。
-> CONTEXT: Map164/events/7/pages/1/8/Dialogue < UNTRANSLATED
-> CONTEXT: Map164/events/7/pages/2/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/7/pages/1/8/Dialogue
+> CONTEXT: Map164/events/7/pages/2/3/Dialogue
+「You should be able to teleport on your own now.
 > END STRING
 
 > BEGIN STRING
 「ただし一方通行だ。
 　一度行ったら簡単には戻れないからね。
 　注意おし。
-> CONTEXT: Map164/events/7/pages/1/12/Dialogue < UNTRANSLATED
-> CONTEXT: Map164/events/7/pages/2/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/7/pages/1/12/Dialogue
+> CONTEXT: Map164/events/7/pages/2/5/Dialogue
+「But it's a one-way street.
+　Once you go, it's not easy to go back.
+　Be careful.
 > END STRING
 
 > BEGIN STRING
 「それじゃ、気をつけて行っといで。
-> CONTEXT: Map164/events/7/pages/1/15/Dialogue < UNTRANSLATED
-> CONTEXT: Map164/events/7/pages/2/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/7/pages/1/15/Dialogue
+> CONTEXT: Map164/events/7/pages/2/8/Dialogue
+「Well then, be careful and go.
 > END STRING
 
 > BEGIN STRING
@@ -143,41 +150,45 @@ SQ_Dungeon07
 > BEGIN STRING
 「おや、珍しいねえ。
 　お客さんかい。
-> CONTEXT: Map164/events/8/pages/0/15/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/8/pages/0/15/Dialogue
+「Oh, how unusual. 
+　A visitor?
 > END STRING
 
 > BEGIN STRING
 「何そんなとこに突っ立ってんだい？
 　アタシに用があって来たんだろ？
-> CONTEXT: Map164/events/8/pages/0/17/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/8/pages/0/17/Dialogue
+「What are you just standing there? 
+　You came here because you need me, right?
 > END STRING
 
 > BEGIN STRING
 「アタシに用があって来たんだろ？」
-> CONTEXT: Map164/events/8/pages/0/20/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/8/pages/0/20/Dialogue
+「You came here because you need me, right?」
 > END STRING
 
 > BEGIN STRING
 「それじゃあこっちへおいで。
-> CONTEXT: Map164/events/8/pages/0/25/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/8/pages/0/25/Dialogue
+「Well then, come over here.
 > END STRING
 
 > BEGIN STRING
 「……若いねえ。
 　素直だねえ。
-> CONTEXT: Map164/events/8/pages/0/40/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/8/pages/0/40/Dialogue
+「...You're so young.
+　You're so honest.
 > END STRING
 
 > BEGIN STRING
 「それじゃ、
 　いただきますかねえ\\e[0]
-> CONTEXT: Map164/events/8/pages/0/50/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/8/pages/0/50/Dialogue
+「Well then,
+　I'll have a taste\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -203,322 +214,363 @@ SQ_Dungeon07
 
 > BEGIN STRING
 「………はあ\\e[0]
-> CONTEXT: Map164/events/8/pages/1/48/Dialogue < UNTRANSLATED
-> CONTEXT: Map164/events/8/pages/0/125/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/8/pages/1/48/Dialogue
+> CONTEXT: Map164/events/8/pages/0/125/Dialogue
+「...Haa\\e[0]
 > END STRING
 
 > BEGIN STRING
 「やっぱり若い男はイイねえ\\e[0]
-> CONTEXT: Map164/events/8/pages/1/49/Dialogue < UNTRANSLATED
-> CONTEXT: Map164/events/8/pages/0/126/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/8/pages/1/49/Dialogue
+> CONTEXT: Map164/events/8/pages/0/126/Dialogue
+「Young men are the best after all\\e[0]
 > END STRING
 
 > BEGIN STRING
 「……あなた、
 　夢魔じゃなかったの？
-> CONTEXT: Map164/events/8/pages/1/73/Dialogue < UNTRANSLATED
-> CONTEXT: Map164/events/8/pages/0/150/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/8/pages/1/73/Dialogue
+> CONTEXT: Map164/events/8/pages/0/150/Dialogue
+「...Are you,
+　a succubus?
 > END STRING
 
 > BEGIN STRING
 「あ？
 　何だいこの小娘は。
-> CONTEXT: Map164/events/8/pages/1/78/Dialogue < UNTRANSLATED
-> CONTEXT: Map164/events/8/pages/0/155/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/8/pages/1/78/Dialogue
+> CONTEXT: Map164/events/8/pages/0/155/Dialogue
+「Huh?
+　What's with this little girl?
 > END STRING
 
 > BEGIN STRING
 「初対面で人を魔物扱いとは
 　いい度胸じゃないかね。
-> CONTEXT: Map164/events/8/pages/1/80/Dialogue < UNTRANSLATED
-> CONTEXT: Map164/events/8/pages/0/157/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/8/pages/1/80/Dialogue
+> CONTEXT: Map164/events/8/pages/0/157/Dialogue
+「It takes a lot of guts 
+　to treat someone like a monster 
+　on your first meeting.
 > END STRING
 
 > BEGIN STRING
 「小っ……
-> CONTEXT: Map164/events/8/pages/1/83/Dialogue < UNTRANSLATED
-> CONTEXT: Map164/events/8/pages/0/160/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/8/pages/1/83/Dialogue
+> CONTEXT: Map164/events/8/pages/0/160/Dialogue
+「Little...
 > END STRING
 
 > BEGIN STRING
 「それより坊や、
 　アタシに用があるんだったね。
-> CONTEXT: Map164/events/8/pages/0/165/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/8/pages/0/165/Dialogue
+「More importantly, boy, 
+　you had something to talk to me about.
 > END STRING
 
 > BEGIN STRING
 「それより坊や、
 　ほんとはアタシに用があって
 　来たんだろ？
-> CONTEXT: Map164/events/8/pages/0/170/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/8/pages/0/170/Dialogue
+「More importantly, boy, 
+　you came here because 
+　you had business with me, right?
 > END STRING
 
 > BEGIN STRING
 「話してごらん。
 　聞いてあげるよ。
-> CONTEXT: Map164/events/8/pages/1/98/Dialogue < UNTRANSLATED
-> CONTEXT: Map164/events/8/pages/0/175/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/8/pages/1/98/Dialogue
+> CONTEXT: Map164/events/8/pages/0/175/Dialogue
+「Talk. 
+　I'll listen.
 > END STRING
 
 > BEGIN STRING
 「……ほお、テレポトねえ。
-> CONTEXT: Map164/events/8/pages/1/113/Dialogue < UNTRANSLATED
-> CONTEXT: Map164/events/8/pages/0/190/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/8/pages/1/113/Dialogue
+> CONTEXT: Map164/events/8/pages/0/190/Dialogue
+「...Oh, teleport, huh?
 > END STRING
 
 > BEGIN STRING
 「お安い御用…と言いたいが
 　一人じゃちと難しいねえ。
-> CONTEXT: Map164/events/8/pages/0/191/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/8/pages/0/191/Dialogue
+「It's no problem... I'd like to say, 
+　but it's a bit difficult to do alone.
 > END STRING
 
 > BEGIN STRING
 「どれ、あの坊にでも手伝ってもらうかね。
-> CONTEXT: Map164/events/8/pages/0/193/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/8/pages/0/193/Dialogue
+「Well, maybe I'll get that guy to help me.
 > END STRING
 
 > BEGIN STRING
 「何故いけないんですか、
 　クリスティンッ！！
-> CONTEXT: Map164/events/8/pages/1/131/Dialogue < UNTRANSLATED
-> CONTEXT: Map164/events/8/pages/0/208/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/8/pages/1/131/Dialogue
+> CONTEXT: Map164/events/8/pages/0/208/Dialogue
+「You can't do that, 
+　Christine!!
 > END STRING
 
 > BEGIN STRING
 「昔はあんなに仲良く、
 　一緒にお風呂に
 　入ってたじゃないですかっ！？
-> CONTEXT: Map164/events/8/pages/0/210/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/8/pages/0/210/Dialogue
+「We used to be so close 
+　and even took baths together, 
+　didn't we?
 > END STRING
 
 > BEGIN STRING
 「…………はっ。
-> CONTEXT: Map164/events/8/pages/0/215/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/8/pages/0/215/Dialogue
+「.....Oh.
 > END STRING
 
 > BEGIN STRING
 「クックックッ、
 　相変わらずだねえ。
-> CONTEXT: Map164/events/8/pages/1/140/Dialogue < UNTRANSLATED
-> CONTEXT: Map164/events/8/pages/0/217/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/8/pages/1/140/Dialogue
+> CONTEXT: Map164/events/8/pages/0/217/Dialogue
+「Kukukuku,
+　same as always.
 > END STRING
 
 > BEGIN STRING
 「…急に呼び出すのは
 　止めてもらえますか。
 　ベルナドットさん。
-> CONTEXT: Map164/events/8/pages/0/222/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/8/pages/0/222/Dialogue
+「...Could you please stop 
+　calling me out of the blue, 
+　Bernadotte?
 > END STRING
 
 > BEGIN STRING
 「こうしているということは、
 　\\n[1]さんは無事
 　試験に合格したのですね。
-> CONTEXT: Map164/events/8/pages/0/232/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/8/pages/0/232/Dialogue
+「If we are here, 
+　it must mean that \\n[1] 
+　successfully passed the test.
 > END STRING
 
 > BEGIN STRING
 「ああ。 なかなかいい男
 　\\r[寄越,よ　こ]してくれるじゃないか。
-> CONTEXT: Map164/events/8/pages/0/236/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/8/pages/0/236/Dialogue
+「Yes. He's a very good man.
+　We can send him.
 > END STRING
 
 > BEGIN STRING
 「だが魔法の使えない人間に
 　いきなりテレポトを使わせろとは、
 　ちと難儀な話だからねえ。
-> CONTEXT: Map164/events/8/pages/1/161/Dialogue < UNTRANSLATED
-> CONTEXT: Map164/events/8/pages/0/238/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/8/pages/1/161/Dialogue
+> CONTEXT: Map164/events/8/pages/0/238/Dialogue
+「But having someone who can't use magic 
+　suddenly use teleportation is a bit difficult.
 > END STRING
 
 > BEGIN STRING
 「あんたにも手伝ってもらうことにしたのさ。
-> CONTEXT: Map164/events/8/pages/1/164/Dialogue < UNTRANSLATED
-> CONTEXT: Map164/events/8/pages/0/241/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/8/pages/1/164/Dialogue
+> CONTEXT: Map164/events/8/pages/0/241/Dialogue
+「I decided to ask you to help me.
 > END STRING
 
 > BEGIN STRING
 「…それは構いませんが、
 　クリスティンも
 　ここに呼んではもらえませんか？
-> CONTEXT: Map164/events/8/pages/0/243/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/8/pages/0/243/Dialogue
+「...That's fine, 
+　but could you please call 
+　Christine here as well?
 > END STRING
 
 > BEGIN STRING
 「私がいなくなって、
 　不安がってるはずです。
-> CONTEXT: Map164/events/8/pages/1/169/Dialogue < UNTRANSLATED
-> CONTEXT: Map164/events/8/pages/0/246/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/8/pages/1/169/Dialogue
+> CONTEXT: Map164/events/8/pages/0/246/Dialogue
+「She must be worried 
+　now that I'm gone.
 > END STRING
 
 > BEGIN STRING
 「あんたの娘なら、
 　一人で風呂に入ってるようだよ。
-> CONTEXT: Map164/events/8/pages/1/172/Dialogue < UNTRANSLATED
-> CONTEXT: Map164/events/8/pages/0/249/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/8/pages/1/172/Dialogue
+> CONTEXT: Map164/events/8/pages/0/249/Dialogue
+「Sounded like your daughter
+　was taking a bath alone.
 > END STRING
 
 > BEGIN STRING
 「せいせいしたって顔してるがねえ。
 　クックックッ
-> CONTEXT: Map164/events/8/pages/1/174/Dialogue < UNTRANSLATED
-> CONTEXT: Map164/events/8/pages/0/251/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/8/pages/1/174/Dialogue
+> CONTEXT: Map164/events/8/pages/0/251/Dialogue
+「You look relieved.
+　Kukuku
 > END STRING
 
 > BEGIN STRING
 「なっ…………
-> CONTEXT: Map164/events/8/pages/0/254/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/8/pages/0/254/Dialogue
+「Ngh...
 > END STRING
 
 > BEGIN STRING
 「…ラルスさん、そう言えば
 　クリスティンの様子がおかしいのは
 　あなたと会ったあの日からです。
-> CONTEXT: Map164/events/8/pages/0/260/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/8/pages/0/260/Dialogue
+「...Lars, by the way, 
+　Christine has been acting strange 
+　ever since the day she met you.
 > END STRING
 
 > BEGIN STRING
 「妙に色気づいたり、
 　私を避け始めたり……
-> CONTEXT: Map164/events/8/pages/1/186/Dialogue < UNTRANSLATED
-> CONTEXT: Map164/events/8/pages/0/263/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/8/pages/1/186/Dialogue
+> CONTEXT: Map164/events/8/pages/0/263/Dialogue
+「Like she's had a sexual awakening,
+　and she's started avoiding me...
 > END STRING
 
 > BEGIN STRING
 「あなたまさか……
-> CONTEXT: Map164/events/8/pages/0/265/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/8/pages/0/265/Dialogue
+「Don't tell me you...
 > END STRING
 
 > BEGIN STRING
 「クックックッ、
 　おやめおやめ。
-> CONTEXT: Map164/events/8/pages/1/190/Dialogue < UNTRANSLATED
-> CONTEXT: Map164/events/8/pages/0/267/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/8/pages/1/190/Dialogue
+> CONTEXT: Map164/events/8/pages/0/267/Dialogue
+「Kukuku,
+　Oh my, oh my.
 > END STRING
 
 > BEGIN STRING
 「それよりテレポトさ。
 　早く帰りたいなら
 　早く済ませようじゃないか。
-> CONTEXT: Map164/events/8/pages/1/196/Dialogue < UNTRANSLATED
-> CONTEXT: Map164/events/8/pages/0/273/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/8/pages/1/196/Dialogue
+> CONTEXT: Map164/events/8/pages/0/273/Dialogue
+「More importantly, teleportation.
+　If you want to go home quickly,
+　let's get it done.
 > END STRING
 
 > BEGIN STRING
 「やれやれ……
 　仕方ありませんね。
-> CONTEXT: Map164/events/8/pages/1/200/Dialogue < UNTRANSLATED
-> CONTEXT: Map164/events/8/pages/0/277/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/8/pages/1/200/Dialogue
+> CONTEXT: Map164/events/8/pages/0/277/Dialogue
+「Oh well...
+　No other choice.
 > END STRING
 
 > BEGIN STRING
 「坊や、そこの魔方陣の上にお立ち。
-> CONTEXT: Map164/events/8/pages/1/206/Dialogue < UNTRANSLATED
-> CONTEXT: Map164/events/8/pages/0/283/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/8/pages/1/206/Dialogue
+> CONTEXT: Map164/events/8/pages/0/283/Dialogue
+「Boy, stand on that magic circle there.
 > END STRING
 
 > BEGIN STRING
 「いいですか、目をつぶって、
 　目的の場所を心に思い描くのです。
-> CONTEXT: Map164/events/8/pages/1/231/Dialogue < UNTRANSLATED
-> CONTEXT: Map164/events/8/pages/0/308/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/8/pages/1/231/Dialogue
+> CONTEXT: Map164/events/8/pages/0/308/Dialogue
+「Okay, close your eyes 
+　and visualize your destination 
+　in your mind.
 > END STRING
 
 > BEGIN STRING
 「できるだけはっきりと、
 　一歩前に進めば、
 　もうたどり着けるくらいにです。
-> CONTEXT: Map164/events/8/pages/1/238/Dialogue < UNTRANSLATED
-> CONTEXT: Map164/events/8/pages/0/315/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/8/pages/1/238/Dialogue
+> CONTEXT: Map164/events/8/pages/0/315/Dialogue
+「As clearly as possible, 
+　see how with just one step forward, 
+　you'll be there.
 > END STRING
 
 > BEGIN STRING
 「そして唱えるのさ。
 　アタシ達に続いて……
-> CONTEXT: Map164/events/8/pages/0/319/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/8/pages/0/319/Dialogue
+「Then chant.
+　After us...
 > END STRING
 
 > BEGIN STRING
 "ハグロフス、ベルナドット"
-> CONTEXT: Map164/events/8/pages/1/246/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map164/events/8/pages/0/323/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map164/events/8/pages/1/246/InlineScript/1:4
+> CONTEXT: Map164/events/8/pages/0/323/InlineScript/1:4
+"Haglofs, Bernadotte"
 > END STRING
 
 > BEGIN STRING
 「とこしえの闇、万物を覆え
 「とこしえの闇、万物を覆え
-> CONTEXT: Map164/events/8/pages/1/247/Dialogue < UNTRANSLATED
-> CONTEXT: Map164/events/8/pages/0/324/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/8/pages/1/247/Dialogue
+> CONTEXT: Map164/events/8/pages/0/324/Dialogue
+「Eternal darkness, cover all things
+「Eternal darkness, cover all things
 > END STRING
 
 > BEGIN STRING
 「ひとすじの光芒、わが\\r[眼,まなこ]を射抜け
 「ひとすじの光芒、わが\\r[眼,まなこ]を射抜け
-> CONTEXT: Map164/events/8/pages/1/249/Dialogue < UNTRANSLATED
-> CONTEXT: Map164/events/8/pages/0/326/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/8/pages/1/249/Dialogue
+> CONTEXT: Map164/events/8/pages/0/326/Dialogue
+「May a single ray of light strike my eye!
+「May a single ray of light strike my eye!
 > END STRING
 
 > BEGIN STRING
 「虚は実に　正は奇に
 「虚は実に　正は奇に
-> CONTEXT: Map164/events/8/pages/1/251/Dialogue < UNTRANSLATED
-> CONTEXT: Map164/events/8/pages/0/328/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/8/pages/1/251/Dialogue
+> CONTEXT: Map164/events/8/pages/0/328/Dialogue
+「Falsehood is real, truth is peculiar...
+「Falsehood is real, truth is peculiar...
 > END STRING
 
 > BEGIN STRING
 「うつろえ　わが身を移せ
 「うつろえ　わが身を移せ
-> CONTEXT: Map164/events/8/pages/1/253/Dialogue < UNTRANSLATED
-> CONTEXT: Map164/events/8/pages/0/330/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/8/pages/1/253/Dialogue
+> CONTEXT: Map164/events/8/pages/0/330/Dialogue
+「Shift, transfer me
+「Shift, transfer me
 > END STRING
 
 > BEGIN STRING
 「テレポト！！
 「テレポト！！
-> CONTEXT: Map164/events/8/pages/1/255/Dialogue < UNTRANSLATED
-> CONTEXT: Map164/events/8/pages/0/332/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map164/events/8/pages/1/255/Dialogue
+> CONTEXT: Map164/events/8/pages/0/332/Dialogue
+「Teleport!!
+「Teleport!!
 > END STRING
 
 > BEGIN STRING

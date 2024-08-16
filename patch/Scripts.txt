@@ -3232,9 +3232,9 @@
 
 > BEGIN STRING
 "エクスカリバー"
-> CONTEXT: Scripts/RPG::Weapon(detail)/11:12 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Armor(detail)/12:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Weapon(detail)/11:12
+> CONTEXT: Scripts/RPG::Armor(detail)/12:12
+"Excalibur"
 > END STRING
 
 > BEGIN STRING
@@ -3260,8 +3260,8 @@
 
 > BEGIN STRING
 "ダークランス"
-> CONTEXT: Scripts/RPG::Weapon(detail)/15:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Weapon(detail)/15:12
+"Dark Lance"
 > END STRING
 
 > BEGIN STRING
@@ -3284,8 +3284,8 @@
 
 > BEGIN STRING
 "ルナティックロッド"
-> CONTEXT: Scripts/RPG::Weapon(detail)/19:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Weapon(detail)/19:12
+"Lunatic Rod"
 > END STRING
 
 > BEGIN STRING
@@ -3308,9 +3308,9 @@
 
 > BEGIN STRING
 "ウッズマンスタイル"
-> CONTEXT: Scripts/RPG::Weapon(detail)/23:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Actor(coordinates)/96:21 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Weapon(detail)/23:12
+> CONTEXT: Scripts/Game_Actor(coordinates)/96:21
+"Woodsman Style"
 > END STRING
 
 > BEGIN STRING
@@ -3333,9 +3333,9 @@
 
 > BEGIN STRING
 "ペザントルック"
-> CONTEXT: Scripts/RPG::Weapon(detail)/27:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Actor(coordinates)/104:21 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Weapon(detail)/27:12
+> CONTEXT: Scripts/Game_Actor(coordinates)/104:21
+"Peasant Look"
 > END STRING
 
 > BEGIN STRING
@@ -3383,9 +3383,9 @@
 
 > BEGIN STRING
 "セイジ・イン・フォレスト"
-> CONTEXT: Scripts/RPG::Weapon(detail)/35:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Actor(coordinates)/100:21 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Weapon(detail)/35:12
+> CONTEXT: Scripts/Game_Actor(coordinates)/100:21
+"Sage in Forest"
 > END STRING
 
 > BEGIN STRING
@@ -3433,9 +3433,9 @@
 
 > BEGIN STRING
 "グルッペン・トラディショナル"
-> CONTEXT: Scripts/RPG::Weapon(detail)/43:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Actor(coordinates)/48:21 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Weapon(detail)/43:12
+> CONTEXT: Scripts/Game_Actor(coordinates)/48:21
+"Gruppen Traditional"
 > END STRING
 
 > BEGIN STRING
@@ -3458,9 +3458,9 @@
 
 > BEGIN STRING
 "静謐なる心"
-> CONTEXT: Scripts/RPG::Weapon(detail)/47:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Actor(coordinates)/108:21 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Weapon(detail)/47:12
+> CONTEXT: Scripts/Game_Actor(coordinates)/108:21
+"Serene Heart"
 > END STRING
 
 > BEGIN STRING
@@ -3646,9 +3646,9 @@
 
 > BEGIN STRING
 "リスヴェグ・アヴァンギャルド"
-> CONTEXT: Scripts/RPG::Weapon(detail)/77:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Actor(coordinates)/64:21 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Weapon(detail)/77:12
+> CONTEXT: Scripts/Game_Actor(coordinates)/64:21
+"Lisveg Avant-Garde"
 > END STRING
 
 > BEGIN STRING
@@ -3671,9 +3671,9 @@
 
 > BEGIN STRING
 "フェティッシュグラマー"
-> CONTEXT: Scripts/RPG::Weapon(detail)/81:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Actor(coordinates)/59:21 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Weapon(detail)/81:12
+> CONTEXT: Scripts/Game_Actor(coordinates)/59:21
+"Fetish Glamour"
 > END STRING
 
 > BEGIN STRING
@@ -3696,9 +3696,9 @@
 
 > BEGIN STRING
 "ホーリーローリーボーイ"
-> CONTEXT: Scripts/RPG::Weapon(detail)/85:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Actor(coordinates)/53:21 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Weapon(detail)/85:12
+> CONTEXT: Scripts/Game_Actor(coordinates)/53:21
+"Holy Rowley Boy"
 > END STRING
 
 > BEGIN STRING
@@ -3721,9 +3721,9 @@
 
 > BEGIN STRING
 "サウザンズ・エキセントリカ"
-> CONTEXT: Scripts/RPG::Weapon(detail)/89:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Actor(coordinates)/39:21 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Weapon(detail)/89:12
+> CONTEXT: Scripts/Game_Actor(coordinates)/39:21
+"Thousands Eccentrics"
 > END STRING
 
 > BEGIN STRING
@@ -3746,10 +3746,10 @@
 
 > BEGIN STRING
 "カバリエ・ロマンティカ"
-> CONTEXT: Scripts/RPG::Weapon(detail)/93:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Actor(coordinates)/43:21 < UNTRANSLATED
-> CONTEXT: Scripts/Scene_Battle 4/799:35 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Weapon(detail)/93:12
+> CONTEXT: Scripts/Game_Actor(coordinates)/43:21
+> CONTEXT: Scripts/Scene_Battle 4/799:35
+"Cavalier Romantica"
 > END STRING
 
 > BEGIN STRING
@@ -3772,10 +3772,10 @@
 
 > BEGIN STRING
 "ナイトロマンサー"
-> CONTEXT: Scripts/RPG::Weapon(detail)/97:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Actor(coordinates)/34:21 < UNTRANSLATED
-> CONTEXT: Scripts/Mood/144:41 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Weapon(detail)/97:12
+> CONTEXT: Scripts/Game_Actor(coordinates)/34:21
+> CONTEXT: Scripts/Mood/144:41
+"Nitromancer"
 > END STRING
 
 > BEGIN STRING
@@ -3798,9 +3798,9 @@
 
 > BEGIN STRING
 "ギャラクシー"
-> CONTEXT: Scripts/RPG::Weapon(detail)/101:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Actor(coordinates)/30:21 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Weapon(detail)/101:12
+> CONTEXT: Scripts/Game_Actor(coordinates)/30:21
+"Galaxy"
 > END STRING
 
 > BEGIN STRING
@@ -6456,8 +6456,8 @@
 
 > BEGIN STRING
 "\#{myname}は不器用になってしまった！"
-> CONTEXT: Scripts/RPG::State (message)/164:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/164:17
+"\#{myname} became clumsy!"
 > END STRING
 
 > BEGIN STRING
@@ -6475,8 +6475,8 @@
 
 > BEGIN STRING
 "\#{myname}は器用さを取り戻した！"
-> CONTEXT: Scripts/RPG::State (message)/165:19 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/165:19
+"\#{myname} regained dexterity!"
 > END STRING
 
 > BEGIN STRING
@@ -6487,8 +6487,8 @@
 
 > BEGIN STRING
 "\#{myname}は不器用になっている！"
-> CONTEXT: Scripts/RPG::State (message)/166:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/166:18
+"\#{myname} is getting clumsy!"
 > END STRING
 
 > BEGIN STRING
@@ -8362,8 +8362,8 @@
 
 > BEGIN STRING
 "グラム"
-> CONTEXT: Scripts/RPG::Item(detail)/232:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/232:12
+"Gram"
 > END STRING
 
 > BEGIN STRING
@@ -8380,8 +8380,8 @@
 
 > BEGIN STRING
 "ガルドル"
-> CONTEXT: Scripts/RPG::Item(detail)/236:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/236:12
+"Galdor"
 > END STRING
 
 > BEGIN STRING
@@ -8392,8 +8392,8 @@
 
 > BEGIN STRING
 "ヴィジャラスヴィジョン"
-> CONTEXT: Scripts/RPG::Item(detail)/239:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/239:12
+"Villalas Vision"
 > END STRING
 
 > BEGIN STRING
@@ -8449,8 +8449,8 @@
 
 > BEGIN STRING
 "トゥルーヴィジョン"
-> CONTEXT: Scripts/RPG::Item(detail)/251:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/251:12
+"True Vision"
 > END STRING
 
 > BEGIN STRING
@@ -8467,8 +8467,8 @@
 
 > BEGIN STRING
 "フォルスヴィジョン"
-> CONTEXT: Scripts/RPG::Item(detail)/254:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/254:12
+"False Vision"
 > END STRING
 
 > BEGIN STRING
@@ -9298,8 +9298,8 @@
 
 > BEGIN STRING
 "\#{self.name.split(/\\//)[0]}のステータスアップの効果が切れた！"
-> CONTEXT: Scripts/Game_Battler(message)/73:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(message)/73:16
+"\#{self.name.split(/\\//)[0]}'s status up wore off!"
 > END STRING
 
 > BEGIN STRING
@@ -9310,8 +9310,8 @@
 
 > BEGIN STRING
 "\#{self.name.split(/\\//)[0]}のステータスダウンの効果が切れた！"
-> CONTEXT: Scripts/Game_Battler(message)/75:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(message)/75:16
+"\#{self.name.split(/\\//)[0]}'s status down wore off!"
 > END STRING
 
 > BEGIN STRING
@@ -9322,8 +9322,8 @@
 
 > BEGIN STRING
 "\#{self.name.split(/\\//)[0]}全てのステータスが上がった！"
-> CONTEXT: Scripts/Game_Battler(message)/77:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(message)/77:16
+"\#{self.name.split(/\\//)[0]}'s all stats increased!"
 > END STRING
 
 > BEGIN STRING
@@ -9334,8 +9334,8 @@
 
 > BEGIN STRING
 "\#{self.name.split(/\\//)[0]}全てのステータスが下がった！"
-> CONTEXT: Scripts/Game_Battler(message)/79:16 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(message)/79:16
+"\#{self.name.split(/\\//)[0]}'s all stats decreased!"
 > END STRING
 
 > BEGIN STRING
@@ -10757,8 +10757,8 @@
 
 > BEGIN STRING
 "「さあ、楽しませておくれよ\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-nude(E))/104:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-nude(E))/104:17
+"「Come on, let's have some fun\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
@@ -10788,8 +10788,8 @@
 
 > BEGIN STRING
 "「おにぃちゃん、あそぼっ\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-nude(E))/106:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-nude(E))/106:17
+"「Hey, let's play\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
@@ -10812,22 +10812,22 @@
 
 > BEGIN STRING
 "「\\\\n[1]………"
-> CONTEXT: Scripts/Game_Battler(msg-nude(E))/108:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-nude(E))/108:17
+"「\\\\n[1]..."
 > END STRING
 
 > BEGIN STRING
 "「ふふ…見たかったわよね？\\n\\\\w[\\\\v[104]]"
-> CONTEXT: Scripts/Game_Battler(msg-nude(E))/110:17 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/172:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-nude(E))/110:17
+> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/172:12
+"「Hehe... you wanted to see, didn't you?\\n\\\\w[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
 "　私のハダカ……。"
-> CONTEXT: Scripts/Game_Battler(msg-nude(E))/111:17 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/173:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-nude(E))/111:17
+> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/173:12
+"　My naked body..."
 > END STRING
 
 > BEGIN STRING
@@ -11465,34 +11465,34 @@
 
 > BEGIN STRING
 "「んふっ、イきそうですねぇ～？\\n\\\\w[\\\\v[104]]"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/106:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/106:12
+"「Hmm, about to cum~?\\n\\\\w[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
 "「あら…そんなにハダカ見たかった？"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/90:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/90:12
+"「Ohò...did you really want to see me naked?"
 > END STRING
 
 > BEGIN STRING
 "「ふふ……"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/91:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/249:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(A))/98:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/91:12
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/249:12
+> CONTEXT: Scripts/Game_Battler(msg-insert(A))/98:12
+"「Hehe..."
 > END STRING
 
 > BEGIN STRING
 "　イっていいんですよぉ\\\\e[0] "
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/107:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/107:12
+"　It's okay to cum\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
 "「ほら、じっとしといで……"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/80:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/80:14
+"「Now, just stay still..."
 > END STRING
 
 > BEGIN STRING
@@ -11516,20 +11516,20 @@
 
 > BEGIN STRING
 "「脱がせてくれるの？\\n\\\\w[\\\\v[104]]　ありがとっ☆"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/93:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/93:12
+"「Can you take it off for me?\\n\\\\w[\\\\v[104]]　Thanks☆"
 > END STRING
 
 > BEGIN STRING
 "「脱がせてあげるぅ♪"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/82:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/82:14
+"「I'll help you take it off♪"
 > END STRING
 
 > BEGIN STRING
 "「あはっ…、イイわ……\\n\\\\w[\\\\v[104]]"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/109:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/109:12
+"「Ahhh... that's nice...\\n\\\\w[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
@@ -12597,8 +12597,8 @@
 
 > BEGIN STRING
 "「おやおや、立派だねぇ～\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/230:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/230:12
+"「Oh my, that's impressive~\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
@@ -12899,14 +12899,14 @@
 
 > BEGIN STRING
 "「あぁッ！ イイっ…！\\n\\\\w[\\\\v[104]]"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/248:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/248:12
+"「Aah! Good...!\\n\\\\w[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
 "　イイよぉっ！"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/249:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/249:12
+"　So good!"
 > END STRING
 
 > BEGIN STRING
@@ -13015,8 +13015,8 @@
 
 > BEGIN STRING
 "花ざかりの季節"
-> CONTEXT: Scripts/Game_Actor(coordinates)/72:21 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Actor(coordinates)/72:21
+"Flowering Season"
 > END STRING
 
 > BEGIN STRING
@@ -14018,14 +14018,14 @@
 
 > BEGIN STRING
 "* アストリット・ベルナドット *\\n"
-> CONTEXT: Scripts/Game_Enemy 2(analyze)/87:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Enemy 2(analyze)/87:7
+"* Astrid Bernadotte *\\n"
 > END STRING
 
 > BEGIN STRING
 "* クリスティン・バーンズ *\\n"
-> CONTEXT: Scripts/Game_Enemy 2(analyze)/90:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Enemy 2(analyze)/90:7
+"* Christine Burns *\\n"
 > END STRING
 
 > BEGIN STRING
@@ -14042,14 +14042,14 @@
 
 > BEGIN STRING
 "* エスト・モルン *\\n"
-> CONTEXT: Scripts/Game_Enemy 2(analyze)/93:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Enemy 2(analyze)/93:7
+"* Est Morn *\\n"
 > END STRING
 
 > BEGIN STRING
 "* ステラ・モルン *\\n"
-> CONTEXT: Scripts/Game_Enemy 2(analyze)/96:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Enemy 2(analyze)/96:7
+"* Stella Morn *\\n"
 > END STRING
 
 > BEGIN STRING
@@ -19988,9 +19988,9 @@
 
 > BEGIN STRING
 "レンシェット"
-> CONTEXT: Scripts/Scene_Map/240:12 < UNTRANSLATED
-> CONTEXT: Map061/events/4/pages/1/32/InlineScript/1:19 < UNTRANSLATED
-
+> CONTEXT: Scripts/Scene_Map/240:12
+> CONTEXT: Map061/events/4/pages/1/32/InlineScript/1:19
+"Renkott"
 > END STRING
 
 > BEGIN STRING

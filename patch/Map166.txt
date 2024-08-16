@@ -3,6 +3,8 @@
 　　　　　　　　　　　　　　　　　　←　ラウムの町
 　　　　　　　　　　　　　　　　　　→　シプリの町
 　　　　　　　　　　　　　　　　　　↓　レンシェットの村
-> CONTEXT: Map166/events/1/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map166/events/1/pages/0/1/Dialogue
+　　　　　　　　　　　　　　　　　　←　Raum
+　　　　　　　　　　　　　　　　　　→　Sipuli
+　　　　　　　　　　　　　　　　　　↓　Renkott
 > END STRING

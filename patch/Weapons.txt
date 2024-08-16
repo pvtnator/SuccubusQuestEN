@@ -1,38 +1,38 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 エクスカリバー/0/0
-> CONTEXT: Weapons/1/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/1/name/
+Excalibur/0/0
 > END STRING
 
 > BEGIN STRING
 攻撃+190 / 光耐性+80 / アンデッドにダメージ2倍
-> CONTEXT: Weapons/1/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/1/description/
+Attack +190 / Light Res. +80 / Double damage to undead
 > END STRING
 
 > BEGIN STRING
 ダークランス/0/0
-> CONTEXT: Weapons/3/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/3/name/
+Dark Lance/0/0
 > END STRING
 
 > BEGIN STRING
 攻撃+220 / 対象の防御力20%カット
-> CONTEXT: Weapons/3/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/3/description/
+Attack +220 / Target's defense reduced by 20%
 > END STRING
 
 > BEGIN STRING
 ルナティックロッド/0/10
-> CONTEXT: Weapons/5/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/5/name/
+Lunatic Rod/0/10
 > END STRING
 
 > BEGIN STRING
 攻撃+130 / 魔力+20 / 追加効果：混乱
-> CONTEXT: Weapons/5/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/5/description/
+Attack +130 / Magic +20 / Additional effect: Confusion
 > END STRING
 
 > BEGIN STRING
@@ -43,50 +43,50 @@
 
 > BEGIN STRING
 ウッズマンスタイル/3/0/0
-> CONTEXT: Weapons/8/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/8/name/
+Woodsman Style/3/0/0
 > END STRING
 
 > BEGIN STRING
 魅力+3 / 精力+1
-> CONTEXT: Weapons/8/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/8/description/
+Charm +3 / Energy +1
 > END STRING
 
 > BEGIN STRING
 ペザントルック/3/0/0
-> CONTEXT: Weapons/9/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/9/name/
+Peasant Look/3/0/0
 > END STRING
 
 > BEGIN STRING
 魅力+3 / 精神力+2
-> CONTEXT: Weapons/9/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/9/description/
+Charm +3 / Spirit +2
 > END STRING
 
 > BEGIN STRING
 セイジ・イン・フォレスト/1/0/0
-> CONTEXT: Weapons/10/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/10/name/
+Sage in Forest/1/0/0
 > END STRING
 
 > BEGIN STRING
 魅力+1 / 精神力+3 / 最大EP+10%
-> CONTEXT: Weapons/10/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/10/description/
+Charm +1 / Spirit +3 / Max EP +10%
 > END STRING
 
 > BEGIN STRING
 静謐なる心/3/0/0
-> CONTEXT: Weapons/11/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/11/name/
+Serene Heart/3/0/0
 > END STRING
 
 > BEGIN STRING
 守り+2 / 魅力+3 / 精神力+2 / 歌に耐性+50%
-> CONTEXT: Weapons/11/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/11/description/
+Def +2 / Charm +3 / Spirit +2 / Song Res. +50%
 > END STRING
 
 > BEGIN STRING
@@ -175,14 +175,14 @@ Def +4 / Charm +3 / Spirit +4 / Magic Res. +50%
 
 > BEGIN STRING
 花ざかりの季節/5/0/0
-> CONTEXT: Weapons/21/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/21/name/
+Flowering Season/5/0/0
 > END STRING
 
 > BEGIN STRING
 守り+3 / 魅力+5 / 精神力+2 / 最大EP+10%
-> CONTEXT: Weapons/21/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/21/description/
+Def +3 / Charm +5 / Spirit +2 / Max EP +10%
 > END STRING
 
 > BEGIN STRING
@@ -199,102 +199,96 @@ Charm +5 / Spirit +5 / Rovissa's MP +10%
 
 > BEGIN STRING
 リスヴェグ・アヴァンギャルド/3/0/0
-> CONTEXT: Weapons/23/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/23/name/
+Lisveg Avant-Garde/3/0/0
 > END STRING
 
 > BEGIN STRING
 守り+5 / 魅力+3 / 魅力+10% / TP+5
-> CONTEXT: Weapons/23/description/ < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-フェティッシュグラマー/5/0/1
-> CONTEXT: None < UNUSED
-
+> CONTEXT: Weapons/23/description/
+Def +5 / Charm +3 / Charm +10% / TP +5
 > END STRING
 
 > BEGIN STRING
 守り+4 / 魅力+5 / 精力+5 / 幸運+1
-> CONTEXT: Weapons/24/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/24/description/
+Def +4 / Charm +5 / Energy +5 / Luck +1
 > END STRING
 
 > BEGIN STRING
 ホーリーローリーボーイ/11/0/0
-> CONTEXT: Weapons/25/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/25/name/
+Holy Rowley Boy/11/0/0
 > END STRING
 
 > BEGIN STRING
 守り+7 / 魅力+11 / 精神力+3 / 精神力+10%
-> CONTEXT: Weapons/25/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/25/description/
+Def +7 / Charm +11 / Spirit +3 / Spirit +10%
 > END STRING
 
 > BEGIN STRING
 グルッペン・トラディショナル/7/0/0
-> CONTEXT: Weapons/26/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/26/name/
+Gruppen Traditional/7/0/0
 > END STRING
 
 > BEGIN STRING
 守り+9 / 魅力+7 / 精神力+7 / EP+10%
-> CONTEXT: Weapons/26/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/26/description/
+Def +9 / Charm +7 / Spirit +7 / EP +10%
 > END STRING
 
 > BEGIN STRING
 ギャラクシー/15/0/0
-> CONTEXT: Weapons/27/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/27/name/
+Galaxy/15/0/0
 > END STRING
 
 > BEGIN STRING
 魅力+15 / 全てのバッドステートに耐性+10%
-> CONTEXT: Weapons/27/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/27/description/
+Charm +15 / Resistance to all status ailments +10%
 > END STRING
 
 > BEGIN STRING
 カバリエ・ロマンティカ/3/0/0
-> CONTEXT: Weapons/28/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/28/name/
+Cavalier Romantica/3/0/0
 > END STRING
 
 > BEGIN STRING
 守り+3 / 魅力+3 / 精神力+3 / テンダーキッス効果アップ
-> CONTEXT: Weapons/28/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/28/description/
+Def +3 / Charm +3 / Spirit +3 / Increased Tender Kiss effect
 > END STRING
 
 > BEGIN STRING
 ナイトロマンサー/5/0/0
-> CONTEXT: Weapons/29/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/29/name/
+Nitromancer/5/0/0
 > END STRING
 
 > BEGIN STRING
 魅力+5 / 魅力+10% / 恍惚耐性-10% / ムード上昇率アップ
-> CONTEXT: Weapons/29/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/29/description/
+Charm +5 / Charm +10% / Ecstatic Res. -10% / Increased mood rate
 > END STRING
 
 > BEGIN STRING
 サウザンズ・エキセントリカ/0/0/0
-> CONTEXT: Weapons/30/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/30/name/
+Thousands Eccentrics/0/0/0
 > END STRING
 
 > BEGIN STRING
 相手の人数に比例して能力値アップ
-> CONTEXT: Weapons/30/description/ < UNTRANSLATED
-
+> CONTEXT: Weapons/30/description/
+Stats increase in proportion to the number of opponents
 > END STRING
 
 > BEGIN STRING
 フェティッシュグラマー/5/1/0
-> CONTEXT: Weapons/24/name/ < UNTRANSLATED
-
+> CONTEXT: Weapons/24/name/
+Fetish Glamour/5/0/1
 > END STRING

@@ -227,18 +227,19 @@
 
 > BEGIN STRING
 「…ん、何でもない……
-> CONTEXT: Commonevents/23/136/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/23/146/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/23/136/Dialogue
+> CONTEXT: Commonevents/23/146/Dialogue
+「...Hmm, it's nothing...
 > END STRING
 
 > BEGIN STRING
 「…でも、さっき目が覚めてから、
 　\\n[1]ちょっと
 　変わった気がするわ。
-> CONTEXT: Commonevents/23/137/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/23/147/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/23/137/Dialogue
+> CONTEXT: Commonevents/23/147/Dialogue
+「...But since you woke up, \\n[1],
+　I feel like something has changed a little.
 > END STRING
 
 > BEGIN STRING
@@ -1701,8 +1702,8 @@ became a plaything!\\w[\\v[104]]
 
 > BEGIN STRING
 \\a[\\v[105]]\\n[1]のストックが \\b1\\f 減ってしまった！
-> CONTEXT: Commonevents/127/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/127/12/Dialogue
+\\a[\\v[105]]\\n[1]'s stock decreased by \\b1\\f!
 > END STRING
 
 > BEGIN STRING
@@ -3341,85 +3342,91 @@ Villager
 > BEGIN STRING
 「あはっ、
 　ウソでも嬉しいわよ♪
-> CONTEXT: Commonevents/170/258/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/170/258/Dialogue
+「Ahaha,
+　I'm happy even if it's a lie♪
 > END STRING
 
 > BEGIN STRING
 「ほほっ、
 　口のきき方は心得てるみたいだねぇ\\e[0]
-> CONTEXT: Commonevents/170/273/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/170/273/Dialogue
+「Hohoo,
+　Looks like you know how to talk\\e[0]
 > END STRING
 
 > BEGIN STRING
 「あぁンッ……！
 　いい…いいわぁっ！
-> CONTEXT: Commonevents/170/281/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/170/281/Dialogue
+「Aaah...!
+　Good...so good!
 > END STRING
 
 > BEGIN STRING
 「ああ、そうよ、もっと……
-> CONTEXT: Commonevents/170/288/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/170/288/Dialogue
+「Aah, yes, more...
 > END STRING
 
 > BEGIN STRING
 「もっと…私を熱くして……っ！
-> CONTEXT: Commonevents/170/289/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/170/289/Dialogue
+「More...hotter...!
 > END STRING
 
 > BEGIN STRING
 「素敵……、
 　もっと……！
-> CONTEXT: Commonevents/170/295/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/170/295/Dialogue
+「Wonderful...
+　More...!
 > END STRING
 
 > BEGIN STRING
 「ああ…っ\\e[0]
-> CONTEXT: Commonevents/170/302/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/170/302/Dialogue
+「Aaah...\\e[0]
 > END STRING
 
 > BEGIN STRING
 「あとは…お願い……
-> CONTEXT: Commonevents/170/304/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/170/304/Dialogue
+「Do it...please...
 > END STRING
 
 > BEGIN STRING
 「もっと……
 　このカラダに…！
-> CONTEXT: Commonevents/170/305/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/170/305/Dialogue
+「More...
+　This body...!
 > END STRING
 
 > BEGIN STRING
 「いいえ…もう……、
-> CONTEXT: Commonevents/170/311/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/170/311/Dialogue
+「No...already...
 > END STRING
 
 > BEGIN STRING
 「あとは……
 　このカラダに………
-> CONTEXT: Commonevents/170/312/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/170/312/Dialogue
+「Now...
+　This body...
 > END STRING
 
 > BEGIN STRING
 「あン、素敵……\\e[0]
-> CONTEXT: Commonevents/171/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/171/4/Dialogue
+「Ah, lovely...\\e[0]
 > END STRING
 
 > BEGIN STRING
 「ね、もっとぉ～～\\e[0]
-> CONTEXT: Commonevents/171/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/171/5/Dialogue
+「Hey, do more~~\\e[0]
 > END STRING
 
 > BEGIN STRING

@@ -37,21 +37,21 @@
 
 > BEGIN STRING
 \\c[4]トゥルーヴィジョン\\c[0]を手に入れた！
-> CONTEXT: Map310/events/2/pages/0/14/Dialogue < UNTRANSLATED
-> CONTEXT: Map310/events/2/pages/0/28/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map310/events/2/pages/0/14/Dialogue
+> CONTEXT: Map310/events/2/pages/0/28/Dialogue
+\\c[4]True Vision\\c[0] obtained!
 > END STRING
 
 > BEGIN STRING
 \\c[4]フォルスヴィジョン\\c[0]を手に入れた！
-> CONTEXT: Map310/events/2/pages/0/20/Dialogue < UNTRANSLATED
-> CONTEXT: Map171/events/8/pages/1/42/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map310/events/2/pages/0/20/Dialogue
+> CONTEXT: Map171/events/8/pages/1/42/Dialogue
+\\c[4]False Vision\\c[0] obtained!
 > END STRING
 
 > BEGIN STRING
 \\n[1]の全てのステータスが上がった！
-> CONTEXT: Map310/events/2/pages/0/36/Dialogue < UNTRANSLATED
-> CONTEXT: Map264/events/3/pages/0/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map310/events/2/pages/0/36/Dialogue
+> CONTEXT: Map264/events/3/pages/0/5/Dialogue
+\\n[1]'s all stats have increased!
 > END STRING

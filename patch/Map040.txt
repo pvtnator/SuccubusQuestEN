@@ -173,16 +173,20 @@
 「キリンの国の王女様と
 　リンドヴァル正社員の座を賭けて
 　海亀の巣に乗り込むんだッて？
-> CONTEXT: Map040/events/14/pages/3/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/14/pages/3/4/Dialogue
+「You're going to raid a sea turtle's nest 
+　to bet on the princess of Kirin and
+　position as a permanent employee at Lindval?
 > END STRING
 
 > BEGIN STRING
 「穴ぐらに帰ったら
 　ハグロフスとコカトリスが交尾してて
 　怒ったシマウマが空を飛んだッて？
-> CONTEXT: Map040/events/14/pages/4/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/14/pages/4/4/Dialogue
+「Back at the cave, there was a cockatrice 
+　mating with a bush warbler, 
+　and an angry zebra flew into the sky?
 > END STRING
 
 > BEGIN STRING
@@ -524,14 +528,16 @@ Seems to be sleeping while sitting...
 「街道が復旧したら彼女と行こうって
 　約束してたんだけど、まだ変な魔物が
 　出るらしくてやっぱり行けないんだ。
-> CONTEXT: Map040/events/26/pages/1/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/26/pages/1/3/Dialogue
+「I promised to go with her once the road was restored, 
+　but it seems strange demons are still appearing, 
+　so we can't go after all.
 > END STRING
 
 > BEGIN STRING
 「いつになったら行けるのかなぁ。
-> CONTEXT: Map040/events/26/pages/1/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/26/pages/1/6/Dialogue
+「I wonder when I'll be able to go.
 > END STRING
 
 > BEGIN STRING
@@ -555,8 +561,9 @@ Seems to be sleeping while sitting...
 > BEGIN STRING
 「あの魔王ギルデンスターンも、
 　近頃はこびっている淫猥な魔物どもも、
-> CONTEXT: Map040/events/30/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/30/pages/0/1/Dialogue
+「That Demon Lord Guildenstern, 
+　and the lewd demons,
 > END STRING
 
 > BEGIN STRING
@@ -566,8 +573,8 @@ Seems to be sleeping while sitting...
 > CONTEXT: Map040/events/30/pages/0/3/Dialogue
 > CONTEXT: Map040/events/30/pages/1/3/Dialogue
 「All this happened because 
-people did not follow 
-the teachings of the great Eland.
+　people did not follow 
+　the teachings of the great Eland.
 > END STRING
 
 > BEGIN STRING
@@ -605,6 +612,7 @@ the teachings of the great Eland.
 > BEGIN STRING
 「起きなよほら……
 　……うっ、重い………
-> CONTEXT: Map040/events/31/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/31/pages/0/4/Dialogue
+「Wake up, come on...
+　...Ugh, it's heavy...
 > END STRING

@@ -2907,8 +2907,8 @@ EV_ベルナドット
 
 > BEGIN STRING
 \\a[\\v[105]]ベルナドットは絶頂に達した！
-> CONTEXT: Troops/315/pages/4/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/315/pages/4/1/Dialogue
+\\a[\\v[105]]Bernadotte reached climax!
 > END STRING
 
 > BEGIN STRING

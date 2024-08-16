@@ -30,67 +30,75 @@ Stay at the inn for \\b15G\\f?
 > BEGIN STRING
 「よかった……
 　気がついたのね。
-> CONTEXT: Map171/events/8/pages/1/22/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map171/events/8/pages/1/22/Dialogue
+「Good...
+　You're awake.
 > END STRING
 
 > BEGIN STRING
 「お墓の前で急に倒れちゃって、
 　町の人がここまで運んでくれたのよ。
-> CONTEXT: Map171/events/8/pages/1/24/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map171/events/8/pages/1/24/Dialogue
+「You suddenly collapsed in front of the grave,
+　and the townspeople carried you here.
 > END STRING
 
 > BEGIN STRING
 「え？
 　夢を見てた？
-> CONTEXT: Map171/events/8/pages/1/26/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map171/events/8/pages/1/26/Dialogue
+「Eh?
+　You saw dream?
 > END STRING
 
 > BEGIN STRING
 「…せっかく私が心配してあげてたのに……
 　呑気なものね。
-> CONTEXT: Map171/events/8/pages/1/28/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map171/events/8/pages/1/28/Dialogue
+「...I was so worried about you...
+　You're so carefree.
 > END STRING
 
 > BEGIN STRING
 「あら、それ何？
-> CONTEXT: Map171/events/8/pages/1/30/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map171/events/8/pages/1/30/Dialogue
+「Oh, what's that?
 > END STRING
 
 > BEGIN STRING
 \\n[1]の全てのステータスが上がった！
 \\n[1]のストックが \\b1\\f増えた！
-> CONTEXT: Map171/events/8/pages/1/48/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map171/events/8/pages/1/48/Dialogue
+\\n[1]'s all stats have increased!
+\\n[1]'s stock has increased by \\b1\\f!
 > END STRING
 
 > BEGIN STRING
 「さっきまでこんなの
 　なかったわよね……
-> CONTEXT: Map171/events/8/pages/1/61/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map171/events/8/pages/1/61/Dialogue
+「This is nothing
+　like we've seen before...
 > END STRING
 
 > BEGIN STRING
 「…夢の中で手に入れた……？
-> CONTEXT: Map171/events/8/pages/1/63/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map171/events/8/pages/1/63/Dialogue
+「...Did you get it in a dream...?
 > END STRING
 
 > BEGIN STRING
 「…ふぅん………
-> CONTEXT: Map171/events/8/pages/1/64/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map171/events/8/pages/1/64/Dialogue
+「...Hmm.....
 > END STRING
 
 > BEGIN STRING
 「ま、いいわ。 動けるならさっさと
 　あなたが気になってるってこと解決して、
 　魔王城へ行きましょ。
-> CONTEXT: Map171/events/8/pages/1/65/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map171/events/8/pages/1/65/Dialogue
+「Well, that's fine. If you can move, 
+　let's quickly resolve the issue that's 
+　bothering you and head to the Demon Lord's castle.
 > END STRING

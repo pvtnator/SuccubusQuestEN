@@ -1385,8 +1385,8 @@ Slash with holy power
 
 > BEGIN STRING
 エナジードレイン
-> CONTEXT: Skills/212/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/212/name/
+Energy Drain
 > END STRING
 
 > BEGIN STRING

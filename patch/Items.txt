@@ -252,7 +252,7 @@ Magic Herbal Tea
 > BEGIN STRING
 〔ティー〕 ルヴィッサのMP回復
 > CONTEXT: Items/29/description/
-[Tea] Rovissa's MP recovery
+[Tea] Recover Rovissa's MP
 > END STRING
 
 > BEGIN STRING
@@ -987,7 +987,7 @@ Red Gruppen
 > BEGIN STRING
 ブルーフリーベリ
 > CONTEXT: Items/157/name/
-Blue Freeberry
+Blue Friberg
 > END STRING
 
 > BEGIN STRING
@@ -1557,8 +1557,8 @@ A fragment of shattered Guildenstern: "Spear"
 
 > BEGIN STRING
 グラム
-> CONTEXT: Items/272/name/ < UNTRANSLATED
-
+> CONTEXT: Items/272/name/
+Gram
 > END STRING
 
 > BEGIN STRING
@@ -1575,8 +1575,8 @@ A fragment of shattered Guildenstern: "Staff"
 
 > BEGIN STRING
 ガルドル
-> CONTEXT: Items/274/name/ < UNTRANSLATED
-
+> CONTEXT: Items/274/name/
+Galdor
 > END STRING
 
 > BEGIN STRING
@@ -1587,55 +1587,55 @@ A fragment of shattered Guildenstern: "Cup"
 
 > BEGIN STRING
 手紙
-> CONTEXT: Items/275/name/ < UNTRANSLATED
-
+> CONTEXT: Items/275/name/
+Letter
 > END STRING
 
 > BEGIN STRING
 誰かからの手紙　「真夜中の教会で待ってます」と書かれている
-> CONTEXT: Items/275/description/ < UNTRANSLATED
-
+> CONTEXT: Items/275/description/
+A letter from someone: "I'll be waiting at the church at midnight"
 > END STRING
 
 > BEGIN STRING
 フォルスヴィジョン
-> CONTEXT: Items/280/name/ < UNTRANSLATED
-> CONTEXT: Items/281/name/ < UNTRANSLATED
-
+> CONTEXT: Items/280/name/
+> CONTEXT: Items/281/name/
+False Vision
 > END STRING
 
 > BEGIN STRING
 魔王のかけらの中に浮かびあがる虚のヴィジョン
-> CONTEXT: Items/280/description/ < UNTRANSLATED
-> CONTEXT: Items/281/description/ < UNTRANSLATED
-
+> CONTEXT: Items/280/description/
+> CONTEXT: Items/281/description/
+A vision of void emerges from within the Demon Lord Shard.
 > END STRING
 
 > BEGIN STRING
 トゥルーヴィジョン
-> CONTEXT: Items/282/name/ < UNTRANSLATED
-
+> CONTEXT: Items/282/name/
+True Vision
 > END STRING
 
 > BEGIN STRING
 魔王のかけらの中に浮かびあがる真のヴィジョン
-> CONTEXT: Items/282/description/ < UNTRANSLATED
-
+> CONTEXT: Items/282/description/
+True vision emerges from within the Demon Lord Shard.
 > END STRING
 
 > BEGIN STRING
 ヴィジャラスヴィジョン
-> CONTEXT: Items/283/name/ < UNTRANSLATED
-
+> CONTEXT: Items/283/name/
+Villalas Vision
 > END STRING
 
 > BEGIN STRING
 魔王のかけらの中に浮かびあがるヴィジョン
-> CONTEXT: Items/283/description/ < UNTRANSLATED
-> CONTEXT: Items/284/description/ < UNTRANSLATED
-> CONTEXT: Items/285/description/ < UNTRANSLATED
-> CONTEXT: Items/286/description/ < UNTRANSLATED
-
+> CONTEXT: Items/283/description/
+> CONTEXT: Items/284/description/
+> CONTEXT: Items/285/description/
+> CONTEXT: Items/286/description/
+A vision emerges from within the Demon Lord Shard.
 > END STRING
 
 > BEGIN STRING

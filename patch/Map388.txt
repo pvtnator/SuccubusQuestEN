@@ -1,18 +1,18 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 "羊"
-> CONTEXT: Map388/events/4/pages/0/8/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map388/events/4/pages/0/40/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map280/events/4/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map280/events/5/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map263/events/11/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map263/events/15/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map263/events/15/pages/0/5/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map263/events/15/pages/1/1/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map245/events/23/pages/0/1/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map245/events/30/pages/0/1/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map245/events/32/pages/0/1/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map388/events/4/pages/0/8/InlineScript/1:4
+> CONTEXT: Map388/events/4/pages/0/40/InlineScript/1:4
+> CONTEXT: Map280/events/4/pages/0/0/InlineScript/1:4
+> CONTEXT: Map280/events/5/pages/0/0/InlineScript/1:4
+> CONTEXT: Map263/events/11/pages/0/0/InlineScript/1:4
+> CONTEXT: Map263/events/15/pages/0/0/InlineScript/1:4
+> CONTEXT: Map263/events/15/pages/0/5/InlineScript/1:4
+> CONTEXT: Map263/events/15/pages/1/1/InlineScript/1:4
+> CONTEXT: Map245/events/23/pages/0/1/InlineScript/1:4
+> CONTEXT: Map245/events/30/pages/0/1/InlineScript/1:4
+> CONTEXT: Map245/events/32/pages/0/1/InlineScript/1:4
+"Sheep"
 > END STRING
 
 > BEGIN STRING
