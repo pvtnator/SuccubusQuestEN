@@ -534,74 +534,74 @@ Charm +18 / Energy +3 / Agility +3
 
 > BEGIN STRING
 ドリームシュラウド/23/0
-> CONTEXT: Armors/76/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/76/name/
+Dream Shroud/23/0
 > END STRING
 
 > BEGIN STRING
 魅力+23
-> CONTEXT: Armors/76/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/76/description/
+Charm +23
 > END STRING
 
 > BEGIN STRING
 カセドラルポンチョ/5/0
-> CONTEXT: Armors/83/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/83/name/
+Cathedral Poncho/5/0
 > END STRING
 
 > BEGIN STRING
 魅力+5 / 精神力+7
-> CONTEXT: Armors/83/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/83/description/
+Charm +5 / Spirit +7
 > END STRING
 
 > BEGIN STRING
 ルミナスチュニック/20/0
-> CONTEXT: Armors/84/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/84/name/
+Luminous Tunic/20/0
 > END STRING
 
 > BEGIN STRING
 魅力+20 / ナーバス耐性+20%
-> CONTEXT: Armors/84/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/84/description/
+Charm +20 / Nervous Res. +20%
 > END STRING
 
 > BEGIN STRING
 センチュリオンコート/12/0
-> CONTEXT: Armors/85/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/85/name/
+Centurion Court/12/0
 > END STRING
 
 > BEGIN STRING
 守り+3 / 魅力+12 / 精神力+5
-> CONTEXT: Armors/85/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/85/description/
+Def +3 / Charm +12 / Spirit +5
 > END STRING
 
 > BEGIN STRING
 セーブルブラウス/10/0
-> CONTEXT: Armors/86/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/86/name/
+Sable Blouse/10/0
 > END STRING
 
 > BEGIN STRING
 守り+5 / 魅力+10 / 精神力+10
-> CONTEXT: Armors/86/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/86/description/
+Def +5 / Charm +10 / Spirit +10
 > END STRING
 
 > BEGIN STRING
 ヴィンテージチュニック/17/0
-> CONTEXT: Armors/87/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/87/name/
+Vintage Tunic/17/0
 > END STRING
 
 > BEGIN STRING
 魅力+17 / 精神力+5 / 恍惚耐性+20% / 暴走耐性+20%
-> CONTEXT: Armors/87/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/87/description/
+Charm +17 / Spirit +5 / Ecstasy Res. +20% / Berserk Res. +20%
 > END STRING
 
 > BEGIN STRING
@@ -1101,157 +1101,157 @@ Old Rosary/-1/0
 > BEGIN STRING
 魅力-1 / 精神力+6
 > CONTEXT: Armors/143/description/
-Charisma -1 / Spirit +6
+Charm -1 / Spirit +6
 > END STRING
 
 > BEGIN STRING
 レギオンシール/10/0
-> CONTEXT: Armors/144/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/144/name/
+Legion Seal/10/0
 > END STRING
 
 > BEGIN STRING
 守り+10 / 魅力+10
-> CONTEXT: Armors/144/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/144/description/
+Def +10 / Charm +10
 > END STRING
 
 > BEGIN STRING
 雄兎の前足/3/2
-> CONTEXT: Armors/145/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/145/name/
+Rabbit Legs/3/2
 > END STRING
 
 > BEGIN STRING
 守り+7 / 魅力+3 / 精力+3 / 幸運+2
-> CONTEXT: Armors/145/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/145/description/
+Def+7 / Charm +3 / Energy +3 / Luck +2
 > END STRING
 
 > BEGIN STRING
 黒猫の骨/7/2
-> CONTEXT: Armors/146/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/146/name/
+Black Cat Bone/7/2
 > END STRING
 
 > BEGIN STRING
 守り+3 / 魅力+7 / 素早さ+3 / 幸運+2
-> CONTEXT: Armors/146/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/146/description/
+Def +3 / Charm +7 / Agility +3 / Luck +2
 > END STRING
 
 > BEGIN STRING
 イモリの黒焼き/0/0
-> CONTEXT: Armors/147/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/147/name/
+Charred Newt/0/0
 > END STRING
 
 > BEGIN STRING
 精力+9 / EP+20% / TP+5
-> CONTEXT: Armors/147/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/147/description/
+Energy +9 / EP +20% / TP +5
 > END STRING
 
 > BEGIN STRING
 ドッグカラー/6/0
-> CONTEXT: Armors/148/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/148/name/
+Dog Collar/6/0
 > END STRING
 
 > BEGIN STRING
 魅力+6 / 精神力-6
-> CONTEXT: Armors/148/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/148/description/
+Charm +6 / Spirit -6
 > END STRING
 
 > BEGIN STRING
 シャードオブソード/0/0
-> CONTEXT: Armors/149/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/149/name/
+Shard of Sword/0/0
 > END STRING
 
 > BEGIN STRING
 守り+7 / 精力+5 / 精神力+5 / 恍惚耐性+30%
-> CONTEXT: Armors/149/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/149/description/
+Def +7 / Energy +5 / Spirit +5 / Ecstatic Res. +30%
 > END STRING
 
 > BEGIN STRING
 シャードオブソード/5/0
-> CONTEXT: Armors/150/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/150/name/
+Shard of Sword/5/0
 > END STRING
 
 > BEGIN STRING
 守り+7 / 魅力+5 / 精神力+5 / バインド耐性+30%
-> CONTEXT: Armors/150/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/150/description/
+Def +7 / Charm +5 / Spirit +5 / Bind Res. +30%
 > END STRING
 
 > BEGIN STRING
 鼠のインタリオ/5/0
-> CONTEXT: Armors/151/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/151/name/
+Mouse Intaglio/5/0
 > END STRING
 
 > BEGIN STRING
 守り+5 / 魅力+5 / クライシス時精力、技巧、素早さ、テンションアップ
-> CONTEXT: Armors/151/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/151/description/
+Def +5 / Charm +5 / During Crisis, Energy/Skill/Agility/Tension up
 > END STRING
 
 > BEGIN STRING
 牡鹿のインタリオ/5/0
-> CONTEXT: Armors/152/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/152/name/
+Stag Intaglio/5/0
 > END STRING
 
 > BEGIN STRING
 守り+5 / 魅力+5 / クライシス時技巧、素早さ、精神力、テンションアップ
-> CONTEXT: Armors/152/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/152/description/
+Def +5 / Charm +5 / During Crisis, Skill/Agility/Spirit/Tension up
 > END STRING
 
 > BEGIN STRING
 宵闇の飾り紐/10/0
-> CONTEXT: Armors/153/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/153/name/
+Twilight Ornament/10/0
 > END STRING
 
 > BEGIN STRING
 魅力+10 / ルヴィッサのMP+10%
-> CONTEXT: Armors/153/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/153/description/
+Charm +10 / Rovissa's MP +10%
 > END STRING
 
 > BEGIN STRING
 白蝶貝のネックレス/3/0
-> CONTEXT: Armors/154/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/154/name/
+White Pearl Necklace/3/0
 > END STRING
 
 > BEGIN STRING
 赤い靴/20/0
-> CONTEXT: Armors/155/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/155/name/
+Red Shoes/20/0
 > END STRING
 
 > BEGIN STRING
 魅力+20 / 技巧+10 / 素早さ+10 / 精神力-30 / 逃げられなくなる
-> CONTEXT: Armors/155/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/155/description/
+Charm +20 / Skill +10 / Agility  +10 / Spirit -30 / Cannot escape
 > END STRING
 
 > BEGIN STRING
 アクアネックレス/0/0
-> CONTEXT: Armors/156/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/156/name/
+Aqua Necklace/0/0
 > END STRING
 
 > BEGIN STRING
 精神力+20
-> CONTEXT: Armors/156/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/156/description/
+Spirit +20
 > END STRING
 
 > BEGIN STRING
@@ -1596,13 +1596,13 @@ Learn: Ethergun / Magic +5 / Agility +5
 
 > BEGIN STRING
 契約の杖/0/0/0/
-> CONTEXT: Armors/207/name/ < UNTRANSLATED
+> CONTEXT: Armors/207/name/
 Pact Staff/0/0/0/
 > END STRING
 
 > BEGIN STRING
 魔法の消費MP-3
-> CONTEXT: Armors/207/description/ < UNTRANSLATED
+> CONTEXT: Armors/207/description/
 Magic MP consumption -3
 > END STRING
 
@@ -1614,13 +1614,13 @@ Doctor's Spellbook/0/0/0/134m116
 
 > BEGIN STRING
 サモン時にテンションアップ / MP+5%
-> CONTEXT: Armors/208/description/ < UNTRANSLATED
+> CONTEXT: Armors/208/description/
 Increase tension when summoned / MP +5%
 > END STRING
 
 > BEGIN STRING
 紫苑の薄絹/7/0/0/134m116m141
-> CONTEXT: Armors/209/name/ < UNTRANSLATED
+> CONTEXT: Armors/209/name/
 Aster Thin Silk/7/0/0/134m116m141
 > END STRING
 
@@ -1632,25 +1632,25 @@ Learn: Sigilgun / Learn: Rapture / Charm +7
 
 > BEGIN STRING
 マンドレイク/3/0/0/142m141
-> CONTEXT: Armors/210/name/ < UNTRANSLATED
+> CONTEXT: Armors/210/name/
 Mandrake/3/0/0/142m141
 > END STRING
 
 > BEGIN STRING
 習得：ルート / 習得：ラプチャ / 魅力+3 / 魔力+3
-> CONTEXT: Armors/210/description/ < UNTRANSLATED
+> CONTEXT: Armors/210/description/
 Learn: Root / Learn: Rapture / Charm +3 / Magic +3
 > END STRING
 
 > BEGIN STRING
 天上のシタール/0/0/0/98
-> CONTEXT: Armors/211/name/ < UNTRANSLATED
+> CONTEXT: Armors/211/name/
 Heavenly Sitar/0/0/0/98
 > END STRING
 
 > BEGIN STRING
 習得：モル・ロギン / 素早さ+5 / 魔力+5
-> CONTEXT: Armors/211/description/ < UNTRANSLATED
+> CONTEXT: Armors/211/description/
 Learn: Mor-Rogin / Agility +5 / Magic +5
 > END STRING
 
@@ -1668,85 +1668,85 @@ Learn: Luin / Agility +5
 
 > BEGIN STRING
 ストームワンド/0/0/0/152
-> CONTEXT: Armors/213/name/ < UNTRANSLATED
+> CONTEXT: Armors/213/name/
 Storm Wand/0/0/0/152
 > END STRING
 
 > BEGIN STRING
 習得：ストームクロス / 魔力+5
-> CONTEXT: Armors/213/description/ < UNTRANSLATED
+> CONTEXT: Armors/213/description/
 Learn: Storm Cross / Magic +5
 > END STRING
 
 > BEGIN STRING
 エンジェルハロ/0/0/0/98m105
-> CONTEXT: Armors/214/name/ < UNTRANSLATED
+> CONTEXT: Armors/214/name/
 Angel Halo/0/0/0/98m105
 > END STRING
 
 > BEGIN STRING
 習得：モル・ロギン / 習得：マインイーサ
-> CONTEXT: Armors/214/description/ < UNTRANSLATED
+> CONTEXT: Armors/214/description/
 Learn: Mor-Rogin / Learn: Mine Ether
 > END STRING
 
 > BEGIN STRING
 月光の翼/0/0/0/134m157
-> CONTEXT: Armors/215/name/ < UNTRANSLATED
+> CONTEXT: Armors/215/name/
 Moonlight Wings/0/0/0/134m157
 > END STRING
 
 > BEGIN STRING
 習得：リスティル / 習得：サック / MP+5%
-> CONTEXT: Armors/215/description/ < UNTRANSLATED
+> CONTEXT: Armors/215/description/
 Learn: Listil / Learn: Suck / MP +5%
 > END STRING
 
 > BEGIN STRING
 悲恋のアミュレット/0/0/0/123
-> CONTEXT: Armors/216/name/ < UNTRANSLATED
+> CONTEXT: Armors/216/name/
 Tragic Love Amulet/0/0/0/123
 > END STRING
 
 > BEGIN STRING
 習得：ファル・シギルグン / MP-30% / 魔力-10
-> CONTEXT: Armors/216/description/ < UNTRANSLATED
+> CONTEXT: Armors/216/description/
 Learn: Far-Sigilgun / MP -30% / Magic -10
 > END STRING
 
 > BEGIN STRING
 弔辞のタリスマン/0/0/0/131m125m126
-> CONTEXT: Armors/217/name/ < UNTRANSLATED
+> CONTEXT: Armors/217/name/
 Eulogy Talisman/0/0/0/131m125m126
 > END STRING
 
 > BEGIN STRING
 習得：イーサグン /  習得：ウルズフニ / 習得：ラグズフニ
-> CONTEXT: Armors/217/description/ < UNTRANSLATED
+> CONTEXT: Armors/217/description/
 Learn: Ethergun / Learn: Urzufuni / Learn: Raguzfuni
 > END STRING
 
 > BEGIN STRING
 夏至の魔力/7/0/0/116
-> CONTEXT: Armors/218/name/ < UNTRANSLATED
+> CONTEXT: Armors/218/name/
 Summersolstice Magic/7/0/0/116
 > END STRING
 
 > BEGIN STRING
 習得：シギルグン / MP+10% / 魅力+7 / 魔力+7 / 素早さ+7
-> CONTEXT: Armors/218/description/ < UNTRANSLATED
+> CONTEXT: Armors/218/description/
 Learn: Sigilgun / MP +10% / Charm +7 / Magic +7 / Agility +7
 > END STRING
 
 > BEGIN STRING
 ブラッディミョッズ/0/0/0/154m141
-> CONTEXT: Armors/219/name/ < UNTRANSLATED
+> CONTEXT: Armors/219/name/
 Bloody Mijoz/0/0/0/154m141
 > END STRING
 
 > BEGIN STRING
 習得：セション / 習得：ラプチャ
-> CONTEXT: Armors/219/description/ < UNTRANSLATED
+> CONTEXT: Armors/219/description/
 Learn: Session / Learn: Rapture
 > END STRING
 

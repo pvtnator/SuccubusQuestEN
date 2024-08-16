@@ -231,98 +231,98 @@ Alraune/23/D/0000010/47
 
 > BEGIN STRING
 キンナリー/23/L/0010000/51
-> CONTEXT: Enemies/63/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/63/name/
+Kinnaree/23/L/0010000/51
 > END STRING
 
 > BEGIN STRING
 エアリアル/22/J/0011000/48
-> CONTEXT: Enemies/64/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/64/name/
+Aerial/22/J/0011000/48
 > END STRING
 
 > BEGIN STRING
 エンジェル/25/O/0011000/50
-> CONTEXT: Enemies/67/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/67/name/
+Angel/25/O/0011000/50
 > END STRING
 
 > BEGIN STRING
 アスタロテ/26/A/1100000/54
-> CONTEXT: Enemies/68/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/68/name/
+Astaroth/26/A/1100000/54
 > END STRING
 
 > BEGIN STRING
 メリュジーヌ/24/L/0100010/53
-> CONTEXT: Enemies/69/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/69/name/
+Melusine/24/L/0100010/53
 > END STRING
 
 > BEGIN STRING
 バンシー/24/C/0201000/50
-> CONTEXT: Enemies/70/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/70/name/
+Banshee/24/C/0201000/50
 > END STRING
 
 > BEGIN STRING
 ティターニア/26/H/0011000/51
-> CONTEXT: Enemies/71/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/71/name/
+Titania/26/H/0011000/51
 > END STRING
 
 > BEGIN STRING
 クィーンメイヴ/25/Q/0100100/52
-> CONTEXT: Enemies/72/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/72/name/
+Queen Maeve/25/Q/0100100/52
 > END STRING
 
 > BEGIN STRING
 ユキジョロウ/25/D/0000010/54
-> CONTEXT: Enemies/75/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/75/name/
+Yukijorou/25/D/0000010/54
 > END STRING
 
 > BEGIN STRING
 ルサルカ/24/J/0011000/53
-> CONTEXT: Enemies/76/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/76/name/
+Rusalka/24/J/0011000/53
 > END STRING
 
 > BEGIN STRING
 ルーガルー/25/F/0100020/52
-> CONTEXT: Enemies/77/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/77/name/
+Lougarou/25/F/0100020/52
 > END STRING
 
 > BEGIN STRING
 カリュブディス/26/D/0022000/53
-> CONTEXT: Enemies/78/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/78/name/
+Charybdis/26/D/0022000/53
 > END STRING
 
 > BEGIN STRING
 サラマンダー/27/K/0102000/54
-> CONTEXT: Enemies/81/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/81/name/
+Salamander/27/K/0102000/54
 > END STRING
 
 > BEGIN STRING
 シェロブ/28/N/0100000/56
-> CONTEXT: Enemies/82/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/82/name/
+Shelob/28/N/0100000/56
 > END STRING
 
 > BEGIN STRING
 ヤクシニー/26/R/0100000/54
-> CONTEXT: Enemies/83/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/83/name/
+Yakshini/26/R/0100000/54
 > END STRING
 
 > BEGIN STRING
 ダーキニー/27/R/1100000/56
-> CONTEXT: Enemies/84/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/84/name/
+Dakini/27/R/1100000/56
 > END STRING
 
 > BEGIN STRING
@@ -441,26 +441,26 @@ Clara/21/X15/0000210/47
 
 > BEGIN STRING
 ベルナドット/23/X16/0100010/49
-> CONTEXT: Enemies/120/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/120/name/
+Bernadotte/23/X16/0100010/49
 > END STRING
 
 > BEGIN STRING
 ナイトメア/24/A/1100000/52
-> CONTEXT: Enemies/121/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/121/name/
+Nightmare/24/A/1100000/52
 > END STRING
 
 > BEGIN STRING
 エスト/28/X18/1100000/55
-> CONTEXT: Enemies/122/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/122/name/
+Est/28/X18/1100000/55
 > END STRING
 
 > BEGIN STRING
 フィムブルヴェト/30/X19/0000011/54
-> CONTEXT: Enemies/123/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/123/name/
+Fimbulvet/30/X19/0000011/54
 > END STRING
 
 > BEGIN STRING
@@ -495,8 +495,8 @@ Rocco-Barocco/31/X09/0010020/58
 
 > BEGIN STRING
 ステラ/37/X20/0010000/63
-> CONTEXT: Enemies/129/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/129/name/
+Stella/37/X20/0010000/63
 > END STRING
 
 > BEGIN STRING
@@ -514,9 +514,9 @@ Est/41/X22/1100000/70
 
 > BEGIN STRING
 ウィル・ルヴィッサ/40/X23/0000000/69
-> CONTEXT: Enemies/133/name/ < UNTRANSLATED
-> CONTEXT: Enemies/233/name/ < UNTRANSLATED
-
+> CONTEXT: Enemies/133/name/
+> CONTEXT: Enemies/233/name/
+Will Rovissa/40/X23/0000000/69
 > END STRING
 
 > BEGIN STRING

@@ -849,14 +849,14 @@ is taking shape...
 
 > BEGIN STRING
 \\a[\\v[105]]「逃げちゃ嫌ぁ……
-> CONTEXT: Commonevents/50/30/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/50/30/Dialogue
+\\a[\\v[105]]「Don't run away...
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「逃がしませんわよ……
-> CONTEXT: Commonevents/50/34/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/50/34/Dialogue
+\\a[\\v[105]]「I won't let you get away...
 > END STRING
 
 > BEGIN STRING
@@ -875,8 +875,8 @@ is taking shape...
 
 > BEGIN STRING
 \\a[\\v[105]]「ふふ…つかまえた…\\e[0]
-> CONTEXT: Commonevents/50/48/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/50/48/Dialogue
+\\a[\\v[105]]「Fufu...got you...\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -887,8 +887,8 @@ is taking shape...
 
 > BEGIN STRING
 \\a[\\v[105]]「に…逃げないでよ……
-> CONTEXT: Commonevents/50/68/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/50/68/Dialogue
+\\a[\\v[105]]「Don't...run away...
 > END STRING
 
 > BEGIN STRING
@@ -905,8 +905,8 @@ is taking shape...
 
 > BEGIN STRING
 \\a[\\v[105]]「逃げちゃ嫌……
-> CONTEXT: Commonevents/50/81/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/50/81/Dialogue
+\\a[\\v[105]]「Don't run away...
 > END STRING
 
 > BEGIN STRING
@@ -1725,14 +1725,14 @@ became a plaything!\\w[\\v[104]]
 
 > BEGIN STRING
 \\a[\\v[105]]\\b\\v[1]\\f の精力をエストに吸い取られた！
-> CONTEXT: Commonevents/128/21/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/128/21/Dialogue
+\\a[\\v[105]]Est sucked \\b\\v[1]\\f energy!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]\\b\\v[1]\\f の精力を\\n[27]に吸い取られた！
-> CONTEXT: Commonevents/129/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/129/19/Dialogue
+\\a[\\v[105]]\\n[27] sucked \\b\\v[1]\\f energy!
 > END STRING
 
 > BEGIN STRING
@@ -1770,22 +1770,25 @@ became a plaything!\\w[\\v[104]]
 > BEGIN STRING
 \\a[\\v[105]]ミミックの精力が
 \\n[1]と同じになった！
-> CONTEXT: Commonevents/131/15/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/131/15/Dialogue
+\\a[\\v[105]]Mimic's energy 
+is now equal to \\n[1]!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]ミミックの技巧が
 \\n[1]と同じになった！
-> CONTEXT: Commonevents/131/21/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/131/21/Dialogue
+\\a[\\v[105]]Mimic's skill 
+is now equal to \\n[1]!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]ミミックの素早さが
 \\n[1]と同じになった！
-> CONTEXT: Commonevents/131/27/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/131/27/Dialogue
+\\a[\\v[105]]Mimic's agility 
+is now equal to \\n[1]!
 > END STRING
 
 > BEGIN STRING
@@ -3019,9 +3022,9 @@ Villager
 
 > BEGIN STRING
 \\a[\\v[105]]\\n[2]のMPが \\b\\v[1]\\f 奪い取られた！
-> CONTEXT: Commonevents/162/8/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/168/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/162/8/Dialogue
+> CONTEXT: Commonevents/168/8/Dialogue
+\\a[\\v[105]]\\n[2] lost \\b\\v[1]\\f MP!
 > END STRING
 
 > BEGIN STRING

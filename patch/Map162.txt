@@ -13,12 +13,12 @@
 
 > BEGIN STRING
 石像が行く手をふさいでいる
-> CONTEXT: Map162/events/50/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map162/events/50/pages/0/1/Dialogue
+A stone statue blocks the way
 > END STRING
 
 > BEGIN STRING
 \\c[4]ハグロフスの紹介状\\c[0]を掲げた！
-> CONTEXT: Map162/events/50/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map162/events/50/pages/1/1/Dialogue
+Raised \\c[4]Haglofs' Referral\\c[0]!
 > END STRING

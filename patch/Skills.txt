@@ -627,20 +627,20 @@ EP Recovery
 
 > BEGIN STRING
 モル・ロギン/5/0/0
-> CONTEXT: Skills/98/name/ < UNTRANSLATED
+> CONTEXT: Skills/98/name/
 Mor-Rogin/5/0/0
 > END STRING
 
 > BEGIN STRING
 徐々にEP回復 [リチャージ：5ターン]
-> CONTEXT: Skills/98/description/ < UNTRANSLATED
+> CONTEXT: Skills/98/description/
 Recover EP gradually [CD: 5]
 > END STRING
 
 > BEGIN STRING
 ファル・ロギン
-> CONTEXT: Skills/99/name/ < UNTRANSLATED
-> CONTEXT: Skills/317/name/ < UNTRANSLATED
+> CONTEXT: Skills/99/name/
+> CONTEXT: Skills/317/name/
 Far-Rogin
 > END STRING
 
@@ -653,7 +653,7 @@ Ars-Rogin
 
 > BEGIN STRING
 EP全回復
-> CONTEXT: Skills/100/description/ < UNTRANSLATED
+> CONTEXT: Skills/100/description/
 Recover EP fully
 > END STRING
 
@@ -683,14 +683,14 @@ Mini / Vision / Clumsy recovery
 
 > BEGIN STRING
 マインイーサ
-> CONTEXT: Skills/105/name/ < UNTRANSLATED
+> CONTEXT: Skills/105/name/
 Mine Ether
 > END STRING
 
 > BEGIN STRING
 恍惚解除 / 暴走解除 / パニック解除
-> CONTEXT: Skills/105/description/ < UNTRANSLATED
-> CONTEXT: Skills/339/description/ < UNTRANSLATED
+> CONTEXT: Skills/105/description/
+> CONTEXT: Skills/339/description/
 Ecstasy / Berserk / Panic recovery
 > END STRING
 
@@ -708,13 +708,13 @@ Unbind
 
 > BEGIN STRING
 アルスイーサ
-> CONTEXT: Skills/110/name/ < UNTRANSLATED
+> CONTEXT: Skills/110/name/
 Ars Ether
 > END STRING
 
 > BEGIN STRING
 全てのバッドステートを元に戻す
-> CONTEXT: Skills/110/description/ < UNTRANSLATED
+> CONTEXT: Skills/110/description/
 Recover from all status ailments
 > END STRING
 
@@ -1155,7 +1155,7 @@ Occasionally act twice [CD: 10]
 
 > BEGIN STRING
 ストームクロス
-> CONTEXT: Skills/152/name/ < UNTRANSLATED
+> CONTEXT: Skills/152/name/
 Storm Cross
 > END STRING
 
@@ -1173,13 +1173,13 @@ Prevent from receiving pleasure once [CD: 3]
 
 > BEGIN STRING
 セション
-> CONTEXT: Skills/154/name/ < UNTRANSLATED
+> CONTEXT: Skills/154/name/
 Session
 > END STRING
 
 > BEGIN STRING
 ラルスのテンションを上げる
-> CONTEXT: Skills/154/description/ < UNTRANSLATED
+> CONTEXT: Skills/154/description/
 Raise Lars's tension
 > END STRING
 
@@ -1755,8 +1755,8 @@ Bind
 
 > BEGIN STRING
 ボディミミック
-> CONTEXT: Skills/272/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/272/name/
+Body Mimic
 > END STRING
 
 > BEGIN STRING
@@ -2274,26 +2274,26 @@ Wondertrip
 
 > BEGIN STRING
 花ざかり
-> CONTEXT: Skills/351/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/351/name/
+Blooming
 > END STRING
 
 > BEGIN STRING
 誘惑の調べ
-> CONTEXT: Skills/352/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/352/name/
+Alluring Tune
 > END STRING
 
 > BEGIN STRING
 混乱の調べ
-> CONTEXT: Skills/353/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/353/name/
+Chaos Tune
 > END STRING
 
 > BEGIN STRING
 ジェントリーウィープ
-> CONTEXT: Skills/354/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/354/name/
+Gently Weep
 > END STRING
 
 > BEGIN STRING

@@ -1497,14 +1497,14 @@ Magic Academy Key
 
 > BEGIN STRING
 ハグロフスの紹介状
-> CONTEXT: Items/266/name/ < UNTRANSLATED
-
+> CONTEXT: Items/266/name/
+Haglofs' Referral
 > END STRING
 
 > BEGIN STRING
 迷路の魔女、ベルナドット宛に書かれた紹介状
-> CONTEXT: Items/266/description/ < UNTRANSLATED
-
+> CONTEXT: Items/266/description/
+Referral addressed to Bernadotte, the witch of the maze
 > END STRING
 
 > BEGIN STRING
