@@ -628,33 +628,33 @@ EP Recovery
 > BEGIN STRING
 モル・ロギン/5/0/0
 > CONTEXT: Skills/98/name/ < UNTRANSLATED
-
+Mor-Rogin/5/0/0
 > END STRING
 
 > BEGIN STRING
 徐々にEP回復 [リチャージ：5ターン]
 > CONTEXT: Skills/98/description/ < UNTRANSLATED
-
+Recover EP gradually [CD: 5]
 > END STRING
 
 > BEGIN STRING
 ファル・ロギン
 > CONTEXT: Skills/99/name/ < UNTRANSLATED
 > CONTEXT: Skills/317/name/ < UNTRANSLATED
-
+Far-Rogin
 > END STRING
 
 > BEGIN STRING
 アルス・ロギン
 > CONTEXT: Skills/100/name/
 > CONTEXT: Skills/330/name/
-Ars Rogin
+Ars-Rogin
 > END STRING
 
 > BEGIN STRING
 EP全回復
 > CONTEXT: Skills/100/description/ < UNTRANSLATED
-
+Recover EP fully
 > END STRING
 
 > BEGIN STRING
@@ -684,14 +684,14 @@ Mini / Vision / Clumsy recovery
 > BEGIN STRING
 マインイーサ
 > CONTEXT: Skills/105/name/ < UNTRANSLATED
-
+Mine Ether
 > END STRING
 
 > BEGIN STRING
 恍惚解除 / 暴走解除 / パニック解除
 > CONTEXT: Skills/105/description/ < UNTRANSLATED
 > CONTEXT: Skills/339/description/ < UNTRANSLATED
-
+Ecstasy / Berserk / Panic recovery
 > END STRING
 
 > BEGIN STRING
@@ -709,13 +709,13 @@ Unbind
 > BEGIN STRING
 アルスイーサ
 > CONTEXT: Skills/110/name/ < UNTRANSLATED
-
+Ars Ether
 > END STRING
 
 > BEGIN STRING
 全てのバッドステートを元に戻す
 > CONTEXT: Skills/110/description/ < UNTRANSLATED
-
+Recover from all status ailments
 > END STRING
 
 > BEGIN STRING
@@ -1156,7 +1156,7 @@ Occasionally act twice [CD: 10]
 > BEGIN STRING
 ストームクロス
 > CONTEXT: Skills/152/name/ < UNTRANSLATED
-
+Storm Cross
 > END STRING
 
 > BEGIN STRING
@@ -1174,13 +1174,13 @@ Prevent from receiving pleasure once [CD: 3]
 > BEGIN STRING
 セション
 > CONTEXT: Skills/154/name/ < UNTRANSLATED
-
+Session
 > END STRING
 
 > BEGIN STRING
 ラルスのテンションを上げる
 > CONTEXT: Skills/154/description/ < UNTRANSLATED
-
+Raise Lars's tension
 > END STRING
 
 > BEGIN STRING

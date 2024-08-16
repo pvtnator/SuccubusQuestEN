@@ -3214,13 +3214,13 @@
 > BEGIN STRING
 "契約の杖"
 > CONTEXT: Scripts/RPG::Skill/47:35 < UNTRANSLATED
-
+"Pact Staff"
 > END STRING
 
 > BEGIN STRING
 "博士の呪文書"
 > CONTEXT: Scripts/RPG::Skill/52:35 < UNTRANSLATED
-
+"Doctor's Spellbook"
 > END STRING
 
 > BEGIN STRING
