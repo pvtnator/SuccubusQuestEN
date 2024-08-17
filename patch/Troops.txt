@@ -2812,7 +2812,7 @@ EV_クララ
 「\\n[1]・オヴェルーク様、
 　ご奉仕させていただきます。
 > CONTEXT: Troops/314/pages/0/2/Dialogue
-「Mr. \\n[1] Overlorg, 
+「Mr. \\n[1] Ovelorg, 
 　I will be at your service.
 > END STRING
 
@@ -2927,37 +2927,42 @@ EV_3獣人(2)
 \\a[\\v[105]]エルヴィンは\\c[4]グングニル\\c[0]を構え、
 \\w[\\v[104]]\\v[1]に向けた！
 \\k
-> CONTEXT: Troops/317/pages/2/10/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/317/pages/3/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/317/pages/2/10/Dialogue
+> CONTEXT: Troops/317/pages/3/10/Dialogue
+\\a[\\v[105]]Elvin readied \\c[4]グングニル\\c[0],
+\\w[\\v[104]]and aimed at \\v[1]!
+\\k
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]妖しい光が\\v[1]を貫く！
-> CONTEXT: Troops/317/pages/2/18/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/317/pages/3/17/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/317/pages/2/18/Dialogue
+> CONTEXT: Troops/317/pages/3/17/Dialogue
+\\a[\\v[105]]A mysterious light pierces \\v[1]!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]\\v[1]のEPが \\b\\v[2]\\f 回復した！
 \\w[\\v[104]]\\v[1]のテンションが上がった！
-> CONTEXT: Troops/317/pages/2/21/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/317/pages/2/21/Dialogue
+\\a[\\v[105]]\\v[1] recovered \\b\\v[2]\\f EP!
+\\w[\\v[104]]\\v[1]'s tension increased!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]\\v[1]のEPが \\b\\v[2]\\f 回復した！
 \\w[\\v[104]]\\v[1]のテンションが上がった！
 \\k
-> CONTEXT: Troops/317/pages/3/26/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/317/pages/3/26/Dialogue
+\\a[\\v[105]]\\v[1] recovered \\b\\v[2]\\f EP!
+\\w[\\v[104]]\\v[1]'s tension increased!
+\\k
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]\\v[1]は我を取り戻した！
-> CONTEXT: Troops/317/pages/3/30/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/317/pages/3/30/Dialogue
+\\a[\\v[105]]\\v[1] has regained senses!
 > END STRING
 
 > BEGIN STRING

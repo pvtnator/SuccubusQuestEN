@@ -276,16 +276,16 @@ Invincible
 
 > BEGIN STRING
 てかげん
-> CONTEXT: States/47/name/ < UNTRANSLATED
-> CONTEXT: Skills/36/name/ < UNTRANSLATED
-
+> CONTEXT: States/47/name/
+> CONTEXT: Skills/36/name/
+Adjust
 > END STRING
 
 > BEGIN STRING
 パッション
-> CONTEXT: States/48/name/ < UNTRANSLATED
-> CONTEXT: Skills/156/name/ < UNTRANSLATED
-
+> CONTEXT: States/48/name/
+> CONTEXT: Skills/156/name/
+Passion
 > END STRING
 
 > BEGIN STRING

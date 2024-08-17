@@ -1,8 +1,8 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 「…そうか……
-> CONTEXT: Map192/events/11/pages/0/104/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/104/Dialogue
+「...Alright...
 > END STRING
 
 > BEGIN STRING
@@ -15,156 +15,172 @@
 > BEGIN STRING
 「ニャ！
 　アレ～～っ！
-> CONTEXT: Map192/events/11/pages/0/112/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/112/Dialogue
+「Meow!
+　Arr~~!
 > END STRING
 
 > BEGIN STRING
 「お前が先かッ！
 　\\n[1]！
-> CONTEXT: Map192/events/11/pages/0/140/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/140/Dialogue
+「You again!
+　\\n[1]!
 > END STRING
 
 > BEGIN STRING
 「フニャーッ！
-> CONTEXT: Map192/events/11/pages/0/145/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/145/Dialogue
+「Hmeow!
 > END STRING
 
 > BEGIN STRING
 「ガルルルルルル！！
-> CONTEXT: Map192/events/11/pages/0/149/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/149/Dialogue
+「Grrrrr!!
 > END STRING
 
 > BEGIN STRING
 「その言い方からすると、
 　あなたが持っているのもまだ
 　『槍』のかけら一つだけね。
-> CONTEXT: Map192/events/11/pages/0/173/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/173/Dialogue
+「From the way you're talking,
+　sounds like you only have
+　the 'Spear' fragment.
 > END STRING
 
 > BEGIN STRING
 「残念だわ\\e[0]
 　他の二つもあれば、ここで
 　全部揃ったのに。
-> CONTEXT: Map192/events/11/pages/0/176/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/176/Dialogue
+「A pity\\e[0] 
+　If you had the other two, 
+　we'd have everything here.
 > END STRING
 
 > BEGIN STRING
 「ハッ！
 　こっちのセリフだぜ！
-> CONTEXT: Map192/events/11/pages/0/180/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/180/Dialogue
+「Ha!
+　That's what I should say!
 > END STRING
 
 > BEGIN STRING
 「俺をナメるなよ、
 　この\\c[4]グングニル\\c[0]の……
-> CONTEXT: Map192/events/11/pages/0/182/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/182/Dialogue
+「Don't underestimate me, 
+　this \\c[4]Gungnir\\c[0]...
 > END STRING
 
 > BEGIN STRING
 「…いや………
-> CONTEXT: Map192/events/11/pages/0/184/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/184/Dialogue
+「..No.....
 > END STRING
 
 > BEGIN STRING
 「このエルヴィン・レイグラフの強さ！
 　お前にもう一度教えてやる！
 　\\n[1]ッ！！
-> CONTEXT: Map192/events/11/pages/0/185/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/185/Dialogue
+「This Elvin Leygraf is strong!
+　I'll show you once more!
+　\\n[1]!!
 > END STRING
 
 > BEGIN STRING
 「ご主人様！
 　アタシ達に！
-> CONTEXT: Map192/events/11/pages/0/193/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/193/Dialogue
+「Master!
+　To us!
 > END STRING
 
 > BEGIN STRING
 「ここは任せるニャぁっ！
-> CONTEXT: Map192/events/11/pages/0/201/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/201/Dialogue
+「Leave this to us nyaa!
 > END STRING
 
 > BEGIN STRING
 「ガオォンッ！！
-> CONTEXT: Map192/events/11/pages/0/208/Dialogue < UNTRANSLATED
-> CONTEXT: Map175/events/2/pages/0/108/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/208/Dialogue
+> CONTEXT: Map175/events/2/pages/0/108/Dialogue
+「Gaooooo!!
 > END STRING
 
 > BEGIN STRING
 「ご主人様は、\\dかけら\\dをっ！
-> CONTEXT: Map192/events/11/pages/0/210/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/210/Dialogue
+「Master, the \\dfragment\\!
 > END STRING
 
 > BEGIN STRING
 「させないわっ！
-> CONTEXT: Map192/events/11/pages/0/216/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/216/Dialogue
+「I won't let you!
 > END STRING
 
 > BEGIN STRING
 「いいや！ 行くのは見届けてからだ！
 　こいつが崩れ落ちるのをなッ！
-> CONTEXT: Map192/events/11/pages/0/219/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/219/Dialogue
+「No! I won't go until I've seen it through!
+　Once this all crumbles!
 > END STRING
 
 > BEGIN STRING
 「\\n[1]ッ！
 　ここで\\dけり\\dをつけようぜッ！！
-> CONTEXT: Map192/events/11/pages/0/224/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/224/Dialogue
+「\\n[1]!
+　Let's finish this here!!
 > END STRING
 
 > BEGIN STRING
 「あぁンッ………………
-> CONTEXT: Map192/events/11/pages/0/286/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/286/Dialogue
+「Aahh......
 > END STRING
 
 > BEGIN STRING
 "バンダスナッチ"
-> CONTEXT: Map192/events/11/pages/0/287/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/287/InlineScript/1:4
+"Bandersnatch"
 > END STRING
 
 > BEGIN STRING
 「ニャ…ニャぁ…………
-> CONTEXT: Map192/events/11/pages/0/288/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/288/Dialogue
+「Meow...meoow.....
 > END STRING
 
 > BEGIN STRING
 「チッ！
 　やはり俺がッ………
-> CONTEXT: Map192/events/11/pages/0/294/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/294/Dialogue
+「Tch!
+　It's up to me now...
 > END STRING
 
 > BEGIN STRING
 「あ…あぁ……
 　ご主人様……
-> CONTEXT: Map192/events/11/pages/0/345/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/345/Dialogue
+「Ah...aah...
+　Master...
 > END STRING
 
 > BEGIN STRING
 「き………
 　消え…る……
-> CONTEXT: Map192/events/11/pages/0/347/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/347/Dialogue
+「I'm...
+　disappearing...
 > END STRING
 
 > BEGIN STRING
@@ -176,188 +192,205 @@
 > BEGIN STRING
 「何だ……
 　どういうことだ！？
-> CONTEXT: Map192/events/11/pages/0/356/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/356/Dialogue
+「What... 
+　What's going on?!
 > END STRING
 
 > BEGIN STRING
 「……\\dかけら\\dの力よ。
-> CONTEXT: Map192/events/11/pages/0/364/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/364/Dialogue
+「...the \\dfragment's\\d power.
 > END STRING
 
 > BEGIN STRING
 「夢魔の存在を、
 　文字通り完全に消し去る
 　魔王の本当の力。
-> CONTEXT: Map192/events/11/pages/0/365/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/365/Dialogue
+「The true power of the Demon Lord,
+　to completely erase 
+　the existence of succubi.
 > END STRING
 
 > BEGIN STRING
 「私だけじゃその力はないけど……、
-> CONTEXT: Map192/events/11/pages/0/368/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/368/Dialogue
+「You don't have that power yourself, but...
 > END STRING
 
 > BEGIN STRING
 「その子たちはあまりに長く、
 　\\c[4]グングニル\\c[0]の影響を
 　受けすぎたのね。
-> CONTEXT: Map192/events/11/pages/0/369/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/369/Dialogue
+「Those girls have been under the influence 
+　of \\c[4]Gungnir\\c[0] for too long.
 > END STRING
 
 > BEGIN STRING
 「な…に……
-> CONTEXT: Map192/events/11/pages/0/373/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/373/Dialogue
+「Wh..at...
 > END STRING
 
 > BEGIN STRING
 「ご主人……様………
-> CONTEXT: Map192/events/11/pages/0/380/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/380/Dialogue
+「Master...
 > END STRING
 
 > BEGIN STRING
 「ガ…ガルゥ…………
-> CONTEXT: Map192/events/11/pages/0/385/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/385/Dialogue
+「G...grr....
 > END STRING
 
 > BEGIN STRING
 「どうしようもないわね。
-> CONTEXT: Map192/events/11/pages/0/388/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/388/Dialogue
+「No way around it.
 > END STRING
 
 > BEGIN STRING
 「\\n[1]がその子たちに与えている
 　\\dかけら\\dの力を弱めれば
 　消えないですむかも知れないけど、
-> CONTEXT: Map192/events/11/pages/0/389/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/389/Dialogue
+「If \\n[1] weakens the power the \\dfragment\\d
+　is giving to the girls, 
+　they might not disappear, but
 > END STRING
 
 > BEGIN STRING
 「\\n[1]には
 　そんな器用なことできないし、
 　大体そんな義理もないわ。
-> CONTEXT: Map192/events/11/pages/0/392/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/392/Dialogue
+「But for \\n[1], 
+　it's too difficult to do,
+　nor does he have an obligation to do so.
 > END STRING
 
 > BEGIN STRING
 「でもいいじゃない。
 　夢魔なんて別にどうなったって。
-> CONTEXT: Map192/events/11/pages/0/398/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/398/Dialogue
+「But it doesn't matter.
+　It doesn't matter what happens to the succubi.
 > END STRING
 
 > BEGIN STRING
 「\\n[1]と\\dけり\\dをつけるんでしょう？
 　早くしなさいよ。
-> CONTEXT: Map192/events/11/pages/0/400/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/400/Dialogue
+「\\n[1] and I will put an \\dend\\d to this, right?
+　Hurry up.
 > END STRING
 
 > BEGIN STRING
 「それともまさか……、
 　夢魔に情でも移ったの？
-> CONTEXT: Map192/events/11/pages/0/402/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/402/Dialogue
+「Unless...
+　you've developed feelings for the succubi?
 > END STRING
 
 > BEGIN STRING
 「\\n[1]……？
-> CONTEXT: Map192/events/11/pages/0/414/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/414/Dialogue
+「\\n[1]...?
 > END STRING
 
 > BEGIN STRING
 「………そんな……！
-> CONTEXT: Map192/events/11/pages/0/499/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/499/Dialogue
+「...What...!
 > END STRING
 
 > BEGIN STRING
 「お前……ら………
-> CONTEXT: Map192/events/11/pages/0/502/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/502/Dialogue
+「You...guys...
 > END STRING
 
 > BEGIN STRING
 「ああっ、ご主人様……！
-> CONTEXT: Map192/events/11/pages/0/511/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/511/Dialogue
+「Ahh, master...!
 > END STRING
 
 > BEGIN STRING
 「よかったニャぁ……
 　まだ一緒にいられるニャあっ！
-> CONTEXT: Map192/events/11/pages/0/516/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/516/Dialogue
+「I'm so happy...
+　We can still be together!
 > END STRING
 
 > BEGIN STRING
 「…\\n[1]…………
-> CONTEXT: Map192/events/11/pages/0/525/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/525/Dialogue
+「..\\n[1]....
 > END STRING
 
 > BEGIN STRING
 「そうか……それが……………
 　お前の手に入れた……………
-> CONTEXT: Map192/events/11/pages/0/533/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/533/Dialogue
+「I see... that's... 
+　what you have......
 > END STRING
 
 > BEGIN STRING
 「……強さ…………
 　…………か………………
-> CONTEXT: Map192/events/11/pages/0/535/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/535/Dialogue
+「...Power.....
+　.....or.....
 > END STRING
 
 > BEGIN STRING
 「\\c[4]グングニル\\c[0]………
 　お前が持っていけ。
-> CONTEXT: Map192/events/11/pages/0/542/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/542/Dialogue
+「\\c[4]Gungnir\\c[0]...
+　You take it.
 > END STRING
 
 > BEGIN STRING
 「一応教えておいてあげるけどさ。
-> CONTEXT: Map192/events/11/pages/0/552/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/552/Dialogue
+「I'll let you know just in case.
 > END STRING
 
 > BEGIN STRING
 「魔王のかけらを急に手放したら、
 　反動で衰弱がくるわよ。
-> CONTEXT: Map192/events/11/pages/0/553/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/553/Dialogue
+「If you suddenly let go of Demon Lord's fragments,
+　you'll end up weakened as a reaction.
 > END STRING
 
 > BEGIN STRING
 「その子たちも
 　\\c[4]グングニル\\c[0]の支配から
 　解かれるだろうし……
-> CONTEXT: Map192/events/11/pages/0/555/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/555/Dialogue
+「These girls will also be freed 
+　from \\c[4]Gungnir's\\c[0] control...
 > END STRING
 
 > BEGIN STRING
 「どうされちゃうのかしらね？
-> CONTEXT: Map192/events/11/pages/0/558/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/558/Dialogue
+「I wonder what you will do?
 > END STRING
 
 > BEGIN STRING
 「ま、自業自得かしら。
-> CONTEXT: Map192/events/11/pages/0/566/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/566/Dialogue
+「Well, I guess it's your own fault.
 > END STRING
 
 > BEGIN STRING
@@ -370,8 +403,9 @@
 > BEGIN STRING
 「\\n[1]！
 　受け取れッ！！
-> CONTEXT: Map192/events/11/pages/0/576/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/576/Dialogue
+「\\n[1]!
+　Take it!!
 > END STRING
 
 > BEGIN STRING
@@ -383,62 +417,70 @@
 > BEGIN STRING
 「ご主人様ぁ………、
 　大丈夫……？
-> CONTEXT: Map192/events/11/pages/0/616/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/616/Dialogue
+「Master...
+　Are you okay...?
 > END STRING
 
 > BEGIN STRING
 「クゥン………
-> CONTEXT: Map192/events/11/pages/0/621/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/621/Dialogue
+「Oooww...
 > END STRING
 
 > BEGIN STRING
 「……\\n[1]………………
-> CONTEXT: Map192/events/11/pages/0/625/Dialogue < UNTRANSLATED
-> CONTEXT: Map015/events/2/pages/0/28/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/625/Dialogue
+> CONTEXT: Map015/events/2/pages/0/28/Dialogue
+「...\\n[1]......
 > END STRING
 
 > BEGIN STRING
 「俺の…………
 　…\\r[敗,ま]けだ………。
-> CONTEXT: Map192/events/11/pages/0/626/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/626/Dialogue
+「I...
+　..lost...
 > END STRING
 
 > BEGIN STRING
 「俺も体が動くようになったら、
 　お前の後を追う。
-> CONTEXT: Map192/events/11/pages/0/654/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/654/Dialogue
+「Once I can move again, 
+　I'll follow you.
 > END STRING
 
 > BEGIN STRING
 「\\c[4]魔王のかけら\\c[0]が無くても
 　少しは力になれるつもりだ。
-> CONTEXT: Map192/events/11/pages/0/656/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/656/Dialogue
+「Even without the \\c[4]Demon Lord Shards\\c[0], 
+　I think I can still be of some help.
 > END STRING
 
 > BEGIN STRING
 「\\n[1]、お前は先に行け。
 　賢王より先に
 　\\dかけら\\dを手に入れるんだ。
-> CONTEXT: Map192/events/11/pages/0/658/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/658/Dialogue
+「\\n[1], go on ahead.
+　Get the \\dfragment\\d 
+　before the Wise King does.
 > END STRING
 
 > BEGIN STRING
 「賢王には気をつけろ。
 　あいつは……何か企んでる……
-> CONTEXT: Map192/events/11/pages/0/661/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/661/Dialogue
+「Beware of the Wise King. 
+　He's up to something...
 > END STRING
 
 > BEGIN STRING
 「無事でいろよ。
 　\\n[1]。
-> CONTEXT: Map192/events/11/pages/0/663/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/663/Dialogue
+「Stay safe.
+　\\n[1].
 > END STRING

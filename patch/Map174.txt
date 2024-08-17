@@ -2,27 +2,30 @@
 > BEGIN STRING
 「切り裂け！
 　\\c[4]グラム\\c[0]ッ！！
-> CONTEXT: Map174/events/5/pages/0/34/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map174/events/5/pages/0/34/Dialogue
+「Cut them!
+　\\c[4]Gram\\c[0]!!
 > END STRING
 
 > BEGIN STRING
 「くっ、
 　『剣』のかけら、\\c[4]グラム\\c[0]……
-> CONTEXT: Map174/events/5/pages/0/94/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map174/events/5/pages/0/94/Dialogue
+「Ugh,
+　The 'Sword' fragment, \\c[4]Gram\\c[0]...
 > END STRING
 
 > BEGIN STRING
 「やはりまだ、
 　夢魔を直接斬るには
 　力が足りんか……
-> CONTEXT: Map174/events/5/pages/0/96/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map174/events/5/pages/0/96/Dialogue
+「I guess I still don't have enough power 
+　to slay the succubi directly...
 > END STRING
 
 > BEGIN STRING
 「ならば……！
-> CONTEXT: Map174/events/5/pages/0/130/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map174/events/5/pages/0/130/Dialogue
+「In that case...!
 > END STRING

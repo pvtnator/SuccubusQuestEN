@@ -292,31 +292,35 @@
 「夢魔がこの世界を
 　犯そうとするのは、
 　これが初めてではない。
-> CONTEXT: Map313/events/16/pages/0/203/Dialogue < UNTRANSLATED
-> CONTEXT: Map316/events/16/pages/0/203/Dialogue < UNTRANSLATED
-> CONTEXT: Map193/events/16/pages/0/203/Dialogue < UNTRANSLATED
-> CONTEXT: Map193/events/17/pages/0/441/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map313/events/16/pages/0/203/Dialogue
+> CONTEXT: Map316/events/16/pages/0/203/Dialogue
+> CONTEXT: Map193/events/16/pages/0/203/Dialogue
+> CONTEXT: Map193/events/17/pages/0/441/Dialogue
+「This is not the first time 
+　that a succubus has tried to 
+　violate this world.
 > END STRING
 
 > BEGIN STRING
 「それは永きに渡り
 　繰り返し行われてきたこと……。
-> CONTEXT: Map313/events/16/pages/0/206/Dialogue < UNTRANSLATED
-> CONTEXT: Map316/events/16/pages/0/206/Dialogue < UNTRANSLATED
-> CONTEXT: Map193/events/16/pages/0/206/Dialogue < UNTRANSLATED
-> CONTEXT: Map193/events/17/pages/0/444/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map313/events/16/pages/0/206/Dialogue
+> CONTEXT: Map316/events/16/pages/0/206/Dialogue
+> CONTEXT: Map193/events/16/pages/0/206/Dialogue
+> CONTEXT: Map193/events/17/pages/0/444/Dialogue
+「It's something that's 
+　been going on for a long time...
 > END STRING
 
 > BEGIN STRING
 「そして常に…、夢魔と入れ替わりに
 　世界現れる存在がある。
-> CONTEXT: Map313/events/16/pages/0/208/Dialogue < UNTRANSLATED
-> CONTEXT: Map316/events/16/pages/0/208/Dialogue < UNTRANSLATED
-> CONTEXT: Map193/events/16/pages/0/208/Dialogue < UNTRANSLATED
-> CONTEXT: Map193/events/17/pages/0/446/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map313/events/16/pages/0/208/Dialogue
+> CONTEXT: Map316/events/16/pages/0/208/Dialogue
+> CONTEXT: Map193/events/16/pages/0/208/Dialogue
+> CONTEXT: Map193/events/17/pages/0/446/Dialogue
+「And always...there is something that appears 
+　in the world to replace the succubi.
 > END STRING
 
 > BEGIN STRING
@@ -331,29 +335,31 @@
 > BEGIN STRING
 「魔王とは……夢魔を世界から
 　追い出すための代償！
-> CONTEXT: Map313/events/16/pages/0/216/Dialogue < UNTRANSLATED
-> CONTEXT: Map316/events/16/pages/0/216/Dialogue < UNTRANSLATED
-> CONTEXT: Map193/events/16/pages/0/216/Dialogue < UNTRANSLATED
-> CONTEXT: Map193/events/17/pages/0/451/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map313/events/16/pages/0/216/Dialogue
+> CONTEXT: Map316/events/16/pages/0/216/Dialogue
+> CONTEXT: Map193/events/16/pages/0/216/Dialogue
+> CONTEXT: Map193/events/17/pages/0/451/Dialogue
+「The Demon Lord is...the price to pay 
+　for banishing succubi from the world!
 > END STRING
 
 > BEGIN STRING
 「\\dかけら\\dを再び集めし時手に入る
 　\\d夢魔に対抗する力\\dというのは……
-> CONTEXT: Map313/events/16/pages/0/218/Dialogue < UNTRANSLATED
-> CONTEXT: Map316/events/16/pages/0/218/Dialogue < UNTRANSLATED
-> CONTEXT: Map193/events/16/pages/0/218/Dialogue < UNTRANSLATED
-> CONTEXT: Map193/events/17/pages/0/453/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map313/events/16/pages/0/218/Dialogue
+> CONTEXT: Map316/events/16/pages/0/218/Dialogue
+> CONTEXT: Map193/events/16/pages/0/218/Dialogue
+> CONTEXT: Map193/events/17/pages/0/453/Dialogue
+「The \\dpower to resist succubi\\d that can be obtained 
+　by collecting the \\dfragments\\d again is...
 > END STRING
 
 > BEGIN STRING
 「\\d魔王そのもののことだ\\d！！
-> CONTEXT: Map313/events/16/pages/0/220/Dialogue < UNTRANSLATED
-> CONTEXT: Map316/events/16/pages/0/220/Dialogue < UNTRANSLATED
-> CONTEXT: Map193/events/16/pages/0/220/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map313/events/16/pages/0/220/Dialogue
+> CONTEXT: Map316/events/16/pages/0/220/Dialogue
+> CONTEXT: Map193/events/16/pages/0/220/Dialogue
+「\\dIt's the Demon Lord himself\\d!!
 > END STRING
 
 > BEGIN STRING
@@ -368,10 +374,11 @@
 > BEGIN STRING
 「……そしてこの\\c[4]ガルドル\\c[0]こそは、
 　魔王の復活を執り行うための『盃』。
-> CONTEXT: Map313/events/16/pages/0/225/Dialogue < UNTRANSLATED
-> CONTEXT: Map316/events/16/pages/0/225/Dialogue < UNTRANSLATED
-> CONTEXT: Map193/events/16/pages/0/225/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map313/events/16/pages/0/225/Dialogue
+> CONTEXT: Map316/events/16/pages/0/225/Dialogue
+> CONTEXT: Map193/events/16/pages/0/225/Dialogue
+「...And this \\c[4]Galdor\\c[0] is the 'Cup' that will
+　carry out the resurrection of the Demon Lord.
 > END STRING
 
 > BEGIN STRING

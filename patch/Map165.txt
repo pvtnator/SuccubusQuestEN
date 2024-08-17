@@ -5,8 +5,8 @@
 　　　　　　　　　　　　　　　　　　　　　　ここに眠る
 > CONTEXT: Map165/events/5/pages/0/2/Dialogue
 > CONTEXT: Map165/events/5/pages/1/1/Dialogue
-　　　　　　　　　　　　　　　　　　Stig Overlorg
-　　　　　　　　　　　　　　　　　　Sofia Overlorg
+　　　　　　　　　　　　　　　　　　Stig Ovelorg
+　　　　　　　　　　　　　　　　　　Sofia Ovelorg
 　　　　　　　　　　　　　　　　　　　　　　Rest here
 > END STRING
 

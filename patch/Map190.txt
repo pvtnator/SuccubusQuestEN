@@ -1,53 +1,58 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 「うえーん　うえーん
-> CONTEXT: Map190/events/19/pages/0/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map190/events/19/pages/0/12/Dialogue
+「Uuu, uaaa
 > END STRING
 
 > BEGIN STRING
 「泣くなよ、オリビア！
-> CONTEXT: Map190/events/19/pages/0/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map190/events/19/pages/0/16/Dialogue
+「Don't cry, Olivia!
 > END STRING
 
 > BEGIN STRING
 「魔物はもうやっつけたぜ！
-> CONTEXT: Map190/events/19/pages/0/17/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map190/events/19/pages/0/17/Dialogue
+「The demons have already been defeated!
 > END STRING
 
 > BEGIN STRING
 「ぐすん……
 　ありがとう…エルヴィン……
-> CONTEXT: Map190/events/19/pages/0/21/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map190/events/19/pages/0/21/Dialogue
+「*Sniff*...
+　Thank you...Elvin...
 > END STRING
 
 > BEGIN STRING
 「ラルス、お前も立てよ！
 　街まで帰ろうぜ！
-> CONTEXT: Map190/events/19/pages/0/26/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map190/events/19/pages/0/26/Dialogue
+「Lars, you get up too! 
+　Let's go back to town!
 > END STRING
 
 > BEGIN STRING
 「うん………。
 　\\n[1]、いこ……。
-> CONTEXT: Map190/events/19/pages/0/31/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map190/events/19/pages/0/31/Dialogue
+「Mmh....
+　\\n[1], let's go....
 > END STRING
 
 > BEGIN STRING
 「オリビア！
 　お前は俺が守ってやるよ！
-> CONTEXT: Map190/events/19/pages/0/36/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map190/events/19/pages/0/36/Dialogue
+「Olivia! 
+　I'll protect you!
 > END STRING
 
 > BEGIN STRING
 「これからも、
 　ずっとな！
-> CONTEXT: Map190/events/19/pages/0/40/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map190/events/19/pages/0/40/Dialogue
+「From now on,
+　forever!
 > END STRING

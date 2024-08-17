@@ -1504,15 +1504,17 @@ pours into \\n[1]!
 > BEGIN STRING
 「ほら…きれいでしょ？
 　目をそらさないで。
-> CONTEXT: Commonevents/104/60/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/104/60/Dialogue
+「Look...beautiful, aren't I?
+　Don't look away.
 > END STRING
 
 > BEGIN STRING
 「いいのよ。
 　あなたの好きなようにして…\\e[0]
-> CONTEXT: Commonevents/104/62/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/104/62/Dialogue
+「It's okay.
+　Do whatever you like...\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -1709,8 +1711,9 @@ became a plaything!\\w[\\v[104]]
 > BEGIN STRING
 \\a[\\v[105]]「さァ……、
 　\\w[\\v[104]]注いで……\\e[0]
-> CONTEXT: Commonevents/128/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/128/13/Dialogue
+\\a[\\v[105]]「Now....
+\\w[\\v[104]]　Pour it...\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -3301,8 +3304,10 @@ Villager
 「ふふ………
 　ステキなこと言うように
 　なったじゃない\\e[0]
-> CONTEXT: Commonevents/170/195/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/170/195/Dialogue
+「Hehe... 
+　You've become a lovely person 
+　to say such wonderful things\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -4519,20 +4524,20 @@ is looking with cold eyes!
 
 > BEGIN STRING
 「や……っ\\e[0]
-> CONTEXT: Commonevents/177/67/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/177/67/Dialogue
+「Aa...\\e[0]
 > END STRING
 
 > BEGIN STRING
 「きゃ……っ！？
-> CONTEXT: Commonevents/177/74/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/177/74/Dialogue
+「Kya...!?
 > END STRING
 
 > BEGIN STRING
 しかしお金を\\b1G\\fも持っていない！
-> CONTEXT: Commonevents/177/95/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/177/95/Dialogue
+But I don't even have \\b1G\\f of money!
 > END STRING
 
 > BEGIN STRING
@@ -4658,20 +4663,20 @@ is looking with cold eyes!
 
 > BEGIN STRING
 「アオォンッ\\e[0]
-> CONTEXT: Commonevents/178/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/178/4/Dialogue
+「Awooo\\e[0]
 > END STRING
 
 > BEGIN STRING
 「アオォンッ！
-> CONTEXT: Commonevents/178/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/178/11/Dialogue
+「Awoooo!
 > END STRING
 
 > BEGIN STRING
 「グルルルルル！
-> CONTEXT: Commonevents/178/22/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/178/22/Dialogue
+「Grrrrrrr!
 > END STRING
 
 > BEGIN STRING
@@ -4682,14 +4687,14 @@ is looking with cold eyes!
 
 > BEGIN STRING
 「ガルルルル……
-> CONTEXT: Commonevents/178/28/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/178/28/Dialogue
+「Grrr...
 > END STRING
 
 > BEGIN STRING
 「ガォンッ！！
-> CONTEXT: Commonevents/178/29/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/178/29/Dialogue
+「Gaooo!!
 > END STRING
 
 > BEGIN STRING
@@ -5222,34 +5227,37 @@ It seems like it's not enough
 > BEGIN STRING
 \\a[\\v[105]]ピンクの液体が\\n[1]を濡らす！
 \\w[\\v[104]]\\n[1]は感じやすくなってしまった！
-> CONTEXT: Commonevents/206/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/206/4/Dialogue
+\\a[\\v[105]]Pink liquid makes \\n[1] wet!
+\\w[\\v[104]]\\n[1] has become very sensitive!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]無数の触手が\\n[1]を襲う！
 \\w[\\v[104]]\\n[1]は触手にとりつかれた！
-> CONTEXT: Commonevents/207/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/207/4/Dialogue
+\\a[\\v[105]]Countless tentacles attack \\n[1]!
+\\w[\\v[104]]\\n[1] has been possessed by tentacles!
 > END STRING
 
 > BEGIN STRING
 レベルを制限しますか？
-> CONTEXT: Commonevents/208/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/208/3/Dialogue
+Limit your level?
 > END STRING
 
 > BEGIN STRING
 レベルは制限されています。
 制限を解除しますか？
-> CONTEXT: Commonevents/208/26/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/208/26/Dialogue
+Your level is restricted.
+Remove the restriction?
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]クララの思考回路が僅かに乱れた！
-> CONTEXT: Commonevents/209/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/209/2/Dialogue
+\\a[\\v[105]]Clara's thought process was slightly disrupted!
 > END STRING
 
 > BEGIN STRING
@@ -5600,8 +5608,9 @@ Call \\v[1]
 > BEGIN STRING
 「ふふ！ さあ！ \\c[4]夜の絵本\\c[0]から
 　呼び出したい者を選ぶといい！
-> CONTEXT: Commonevents/256/29/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/256/29/Dialogue
+「Hehe! Come on! Choose who you want to summon 
+　from the \\c[4]Night Picture Book\\c[0]!
 > END STRING
 
 > BEGIN STRING

@@ -1495,7 +1495,7 @@ Cursed Tentacle/0/0/0/151
 > BEGIN STRING
 習得：トワイス / MP-30%
 > CONTEXT: Armors/198/description/
-Learn: Twice / MP-30%
+Learn: Twice / MP -30%
 > END STRING
 
 > BEGIN STRING
@@ -1788,14 +1788,14 @@ Learn: Dalish
 
 > BEGIN STRING
 花冷えの霜/0/0/0/125m129
-> CONTEXT: Armors/223/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/223/name/
+Cold Frost/0/0/0/125m129
 > END STRING
 
 > BEGIN STRING
 習得：ウルズフニ / 習得：シギルフニ
-> CONTEXT: Armors/223/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/223/description/
+Learn: Urzufuni / Learn: Sigilfuni
 > END STRING
 
 > BEGIN STRING
@@ -1824,14 +1824,14 @@ Learn: Dalish
 
 > BEGIN STRING
 ポリモフサッシュ/0/0/0/137
-> CONTEXT: Armors/226/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/226/name/
+Polymorph Sash/0/0/0/137
 > END STRING
 
 > BEGIN STRING
 習得：パースヴァル
-> CONTEXT: Armors/226/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/226/description/
+Learn: Percival
 > END STRING
 
 > BEGIN STRING

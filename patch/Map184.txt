@@ -1,107 +1,121 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 「\\n[1]！
-> CONTEXT: Map184/events/49/pages/1/5/Dialogue < UNTRANSLATED
-> CONTEXT: Map170/events/1/pages/0/67/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map184/events/49/pages/1/5/Dialogue
+> CONTEXT: Map170/events/1/pages/0/67/Dialogue
+「\\n[1]!
 > END STRING
 
 > BEGIN STRING
 「街道に、
 　お城の王様と兵隊さんたちが
 　来てるわよ！
-> CONTEXT: Map184/events/49/pages/1/37/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map184/events/49/pages/1/37/Dialogue
+「The king from the castle
+　and his soldiers are coming!
 > END STRING
 
 > BEGIN STRING
 「森を抜けてすぐよ！
 　一緒に見にいきましょ！
-> CONTEXT: Map184/events/49/pages/1/40/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map184/events/49/pages/1/40/Dialogue
+「It's just past the forest! 
+　Let's go see it together!
 > END STRING
 
 > BEGIN STRING
 「よせよ、オリビア！
-> CONTEXT: Map184/events/49/pages/1/52/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map184/events/49/pages/1/52/Dialogue
+「Come on, Olivia!
 > END STRING
 
 > BEGIN STRING
 「どうせ魔物が出るとか言って、
 　こわがって来やしないぜ！
-> CONTEXT: Map184/events/49/pages/1/56/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map184/events/49/pages/1/56/Dialogue
+「Apparently demons will appear,
+　but I'm not scared!
 > END STRING
 
 > BEGIN STRING
 「それに\\n[1]は、
 　兵隊が好きじゃないんだろ？
-> CONTEXT: Map184/events/49/pages/1/58/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map184/events/49/pages/1/58/Dialogue
+「But \\n[1], 
+　you don't like soldiers, do you?
 > END STRING
 
 > BEGIN STRING
 「こわがりなんだよ！
-> CONTEXT: Map184/events/49/pages/1/60/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map184/events/49/pages/1/60/Dialogue
+「Scaredy-cat!
 > END STRING
 
 > BEGIN STRING
 「そんな言い方ないわ！
 　エルヴィン！
-> CONTEXT: Map184/events/49/pages/1/62/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map184/events/49/pages/1/62/Dialogue
+「Don't say it like that!
+　Elvin!
 > END STRING
 
 > BEGIN STRING
 「\\n[1]は、
 　こわがりなんかじゃないわ！
 　やさしいだけよ！
-> CONTEXT: Map184/events/49/pages/1/64/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map184/events/49/pages/1/64/Dialogue
+「\\n[1] is no coward,
+　he's just kind!
 > END STRING
 
 > BEGIN STRING
 「ね、\\n[1]！
-> CONTEXT: Map184/events/49/pages/1/69/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map184/events/49/pages/1/69/Dialogue
+「Right, \\n[1]?
 > END STRING
 
 > BEGIN STRING
 「どうしたの？
 　急に立ち止まっちゃって。
-> CONTEXT: Map184/events/49/pages/1/116/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map184/events/49/pages/1/116/Dialogue
+「What happened? 
+　You suddenly stopped.
 > END STRING
 
 > BEGIN STRING
 「……また夢？
 　………幻……？
-> CONTEXT: Map184/events/49/pages/1/118/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map184/events/49/pages/1/118/Dialogue
+「...Another dream?
+　......An illusion...?
 > END STRING
 
 > BEGIN STRING
 「………もしかしたら、
 　このあたりを覆う
 　夜の国の影響かも知れないわね。
-> CONTEXT: Map184/events/49/pages/1/120/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map184/events/49/pages/1/120/Dialogue
+「...Perhaps it's the influence 
+　of the Land of Night 
+　that covers this area.
 > END STRING
 
 > BEGIN STRING
 「人の夢や、記憶が、
 　この世界の現実と
 　少しずつ混ざってきているのかも……
-> CONTEXT: Map184/events/49/pages/1/123/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map184/events/49/pages/1/123/Dialogue
+「Maybe people's dreams and memories 
+　are gradually blending 
+　with the reality of this world...
 > END STRING
 
 > BEGIN STRING
 「……………急ぎましょう。
 　\\dかけら\\dの力があれば、
 　そんなもの消えてなくなるわ。
-> CONTEXT: Map184/events/49/pages/1/126/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map184/events/49/pages/1/126/Dialogue
+「......Let's hurry.
+　With the power of the \\dshard\\d,
+　that will disappear.
 > END STRING

@@ -71,9 +71,9 @@
 > BEGIN STRING
 \\a[140]「これより、ラルス・オヴェルーク、
 　オリビア・ヴァルカーレ両名の
-> CONTEXT: Map360/events/17/pages/0/36/Dialogue < UNTRANSLATED
-> CONTEXT: Map361/events/17/pages/0/42/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map360/events/17/pages/0/36/Dialogue
+> CONTEXT: Map361/events/17/pages/0/42/Dialogue
+\\a[140]「From now on, Lars Ovelorg and Olivia Valkare,
 > END STRING
 
 > BEGIN STRING

@@ -13,11 +13,11 @@
 
 > BEGIN STRING
 "エルヴィン"
-> CONTEXT: Map284/events/3/pages/0/18/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map190/events/19/pages/0/15/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map190/events/19/pages/0/25/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map190/events/19/pages/0/35/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map284/events/3/pages/0/18/InlineScript/1:4
+> CONTEXT: Map190/events/19/pages/0/15/InlineScript/1:4
+> CONTEXT: Map190/events/19/pages/0/25/InlineScript/1:4
+> CONTEXT: Map190/events/19/pages/0/35/InlineScript/1:4
+"Elvin"
 > END STRING
 
 > BEGIN STRING

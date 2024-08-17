@@ -7,48 +7,54 @@
 
 > BEGIN STRING
 「\\n[1]、大丈夫？
-> CONTEXT: Map208/events/4/pages/0/35/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map208/events/4/pages/0/35/Dialogue
+「\\n[1], you okay?
 > END STRING
 
 > BEGIN STRING
 「\\r[私,かけら]なら無事よ。
 　\\c[4]グングニル\\c[0]もあるわ。
-> CONTEXT: Map208/events/4/pages/0/36/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map208/events/4/pages/0/36/Dialogue
+「\\r[I,Fragment] will be fine.
+\\c[4]Gungnir\\c[0] is also there.
 > END STRING
 
 > BEGIN STRING
 「何が起こったのかしら。
 　ここは……
-> CONTEXT: Map208/events/4/pages/0/38/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map208/events/4/pages/0/38/Dialogue
+「I wonder what happened.
+　This place is...
 > END STRING
 
 > BEGIN STRING
 「……山脈の北側ね。
 　向こうの尾根に、
 　魔王城が見えるわ……。
-> CONTEXT: Map208/events/4/pages/0/50/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map208/events/4/pages/0/50/Dialogue
+「...it's on the north side of the mountain range.
+　On the ridge over there,
+　I can see the Demon Lord's castle...
 > END STRING
 
 > BEGIN STRING
 「……\\d寒い\\d…………
-> CONTEXT: Map208/events/4/pages/0/69/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map208/events/4/pages/0/69/Dialogue
+「...It's \\dcold\\d.....
 > END STRING
 
 > BEGIN STRING
 「変ね……、
 　私、寒さなんて感じないはずなのに……
-> CONTEXT: Map208/events/4/pages/0/70/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map208/events/4/pages/0/70/Dialogue
+「Strange...
+　I shouldn't feel cold at all...
 > END STRING
 
 > BEGIN STRING
 「山を降りて町を探しましょう……。
 　凍えちゃいそうだわ。
-> CONTEXT: Map208/events/4/pages/0/91/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map208/events/4/pages/0/91/Dialogue
+「Let's go down the mountain and look for a town....
+　Or we'll freeze to death.
 > END STRING

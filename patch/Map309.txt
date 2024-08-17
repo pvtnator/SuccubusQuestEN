@@ -60,13 +60,13 @@ SQ_Town09
 
 > BEGIN STRING
 "インキュバス"
-> CONTEXT: Map309/events/7/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map309/events/8/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/252/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/253/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/253/7/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Commonevents/253/67/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map309/events/7/pages/0/0/InlineScript/1:4
+> CONTEXT: Map309/events/8/pages/0/0/InlineScript/1:4
+> CONTEXT: Commonevents/252/0/InlineScript/1:4
+> CONTEXT: Commonevents/253/0/InlineScript/1:4
+> CONTEXT: Commonevents/253/7/InlineScript/1:4
+> CONTEXT: Commonevents/253/67/InlineScript/1:4
+"Incubus"
 > END STRING
 
 > BEGIN STRING

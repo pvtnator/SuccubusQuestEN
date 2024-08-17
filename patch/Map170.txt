@@ -93,7 +93,7 @@
 「\\n[1]・オヴェルーク。
 　お前に『勇者』の称号を与える。
 > CONTEXT: Map170/events/1/pages/0/302/Dialogue
-「\\n[1] Overlorg.
+「\\n[1] Ovelorg.
 　I grant you the title of 'Hero.'
 > END STRING
 

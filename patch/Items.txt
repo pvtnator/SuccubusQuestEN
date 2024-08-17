@@ -282,8 +282,8 @@ Sedatives
 
 > BEGIN STRING
 強化鎮静剤
-> CONTEXT: Items/32/name/ < UNTRANSLATED
-
+> CONTEXT: Items/32/name/
+Enhanced Sedative
 > END STRING
 
 > BEGIN STRING

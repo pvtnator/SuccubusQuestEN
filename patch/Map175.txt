@@ -1,31 +1,32 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 「オラオラオラァッ！！
-> CONTEXT: Map175/events/2/pages/0/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map175/events/2/pages/0/16/Dialogue
+「Ora-ora-oraa!!
 > END STRING
 
 > BEGIN STRING
 「くそっ、きりがねえぜ！
-> CONTEXT: Map175/events/2/pages/0/62/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map175/events/2/pages/0/62/Dialogue
+「Damn, there's no end to them!
 > END STRING
 
 > BEGIN STRING
 「\\c[4]グングニル\\c[0]の力も効いてねえし……
-> CONTEXT: Map175/events/2/pages/0/63/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map175/events/2/pages/0/63/Dialogue
+「The power of \\c[4]Gungnir\\c[0] isn't working either...
 > END STRING
 
 > BEGIN STRING
 「ご主人様！
 　アタシたちもっ！
-> CONTEXT: Map175/events/2/pages/0/79/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map175/events/2/pages/0/79/Dialogue
+「Master!
+　Us too!
 > END STRING
 
 > BEGIN STRING
 「手伝うニャぁっ！
-> CONTEXT: Map175/events/2/pages/0/94/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map175/events/2/pages/0/94/Dialogue
+「I'll help you nyaaa!
 > END STRING

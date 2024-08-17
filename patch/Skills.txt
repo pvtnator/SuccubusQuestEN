@@ -284,8 +284,8 @@ Become cool (Defense Up, Tension Down) [CD: 7]
 
 > BEGIN STRING
 手加減して与える快感を抑える
-> CONTEXT: Skills/36/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/36/description/
+Be gentle and limit the pleasure you give
 > END STRING
 
 > BEGIN STRING
@@ -998,14 +998,14 @@ Far-Listil
 
 > BEGIN STRING
 パースヴァル
-> CONTEXT: Skills/137/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/137/name/
+Percival
 > END STRING
 
 > BEGIN STRING
 動物に変身する
-> CONTEXT: Skills/137/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/137/description/
+Transform into an animal
 > END STRING
 
 > BEGIN STRING
@@ -1197,14 +1197,14 @@ Undress / Insert success rate up
 
 > BEGIN STRING
 サック
-> CONTEXT: Skills/157/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/157/name/
+Suck
 > END STRING
 
 > BEGIN STRING
 ラルスのテンションを下げ、MPを回復する
-> CONTEXT: Skills/157/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/157/description/
+Lower Lars' tension and recover MP
 > END STRING
 
 > BEGIN STRING
@@ -1704,8 +1704,8 @@ Low Probability Ecstasy
 
 > BEGIN STRING
 フェアリーサークル
-> CONTEXT: Skills/265/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/265/name/
+Fairy Circle
 > END STRING
 
 > BEGIN STRING
@@ -1768,8 +1768,8 @@ Body Mimic
 
 > BEGIN STRING
 ラヴトラップ
-> CONTEXT: Skills/273/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/273/name/
+Love Trap
 > END STRING
 
 > BEGIN STRING
@@ -1963,8 +1963,8 @@ Hold
 
 > BEGIN STRING
 フィーブル
-> CONTEXT: Skills/311/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/311/name/
+Feeble
 > END STRING
 
 > BEGIN STRING
@@ -2323,8 +2323,8 @@ Gently Weep
 
 > BEGIN STRING
 フロストリング
-> CONTEXT: Skills/357/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/357/name/
+Frost Ring
 > END STRING
 
 > BEGIN STRING
@@ -2768,8 +2768,8 @@ Bloodsuck
 
 > BEGIN STRING
 雪の口溶け
-> CONTEXT: Skills/416/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/416/name/
+Snow Mouth
 > END STRING
 
 > BEGIN STRING
