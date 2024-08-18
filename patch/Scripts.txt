@@ -4965,7 +4965,7 @@
 "カセドラルポンチョ"
 > CONTEXT: Scripts/RPG::Armor(detail)/154:12
 > CONTEXT: Scripts/Game_Actor(coordinates)/50:23
-"Cathedral Poncho"
+"Cathedral Robe"
 > END STRING
 
 > BEGIN STRING
@@ -7172,7 +7172,7 @@
 > BEGIN STRING
 "エーランドブレンド"
 > CONTEXT: Scripts/RPG::Item(detail)/95:12
-"Oland Blend"
+"Ehland Blend"
 > END STRING
 
 > BEGIN STRING
@@ -7450,8 +7450,8 @@
 
 > BEGIN STRING
 "シンセミア"
-> CONTEXT: Scripts/RPG::Item(detail)/116:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/116:12
+"Synthesia"
 > END STRING
 
 > BEGIN STRING
@@ -12636,7 +12636,7 @@
 "「ん～、時間なくなっちゃうよぉ？"
 > CONTEXT: Scripts/Game_Battler(msg-ennude(E))/234:12
 > CONTEXT: Scripts/Game_Battler(msg-insert(E))/209:12
-"「Hmm~, running out of time?"
+"「Hmm~, is it not time?"
 > END STRING
 
 > BEGIN STRING
@@ -12863,14 +12863,14 @@
 
 > BEGIN STRING
 "「イきそぉ～？\\n\\\\w[\\\\v[104]]"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/239:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/239:12
+"「Going to cum?\\n\\\\w[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
 "　イっていいよぉ♪"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/240:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/240:12
+"　You can cum♪"
 > END STRING
 
 > BEGIN STRING
@@ -13197,26 +13197,26 @@
 
 > BEGIN STRING
 "「それじゃ、いれるよぉ…\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/65:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/65:14
+"「Okay then, let's put it in...\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
 "「そろそろいれよっか♪"
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/67:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/67:14
+"「Put it in now okay?♪"
 > END STRING
 
 > BEGIN STRING
 "「あぁ…ちょうだいっ！"
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/69:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/69:14
+"「Aah...give it to me!"
 > END STRING
 
 > BEGIN STRING
 "「いれさせてあげるぅ\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-insert(E))/71:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-insert(E))/71:14
+"「I'll let you in\\\\e[0]"
 > END STRING
 
 > BEGIN STRING

@@ -403,7 +403,7 @@ There is a note written on the side of the page
 > CONTEXT: Map046/events/14/pages/0/8/Dialogue
 > CONTEXT: Map046/events/26/pages/0/8/Dialogue
 「That test is that all humans must follow 
-　the noble teachings of Saint Eland, 
+　the noble teachings of Saint Ehland, 
 　cast off all desires, and live pure lives.
 > END STRING
 
@@ -420,7 +420,7 @@ There is a note written on the side of the page
 エーランド教会　著
 > CONTEXT: Map046/events/14/pages/0/13/Dialogue
 > CONTEXT: Map046/events/26/pages/0/13/Dialogue
-Written by Eland Church
+Written by Ehland Church
 > END STRING
 
 > BEGIN STRING
@@ -496,28 +496,29 @@ Something's stuck between the books...
 ……手に取る気も起きない
 > CONTEXT: Map046/events/23/pages/0/4/Dialogue
 > CONTEXT: Map046/events/25/pages/0/4/Dialogue
-...I don't even feel like picking it up.
+...It doesn't feel motivating to pick it up.
 > END STRING
 
 > BEGIN STRING
 ……勇気を出してページをめくってみた
-> CONTEXT: Map046/events/23/pages/1/5/Dialogue < UNTRANSLATED
-> CONTEXT: Map046/events/25/pages/1/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map046/events/23/pages/1/5/Dialogue
+> CONTEXT: Map046/events/25/pages/1/5/Dialogue
+...Mustered up the courage to turn the page.
 > END STRING
 
 > BEGIN STRING
 なんと、カバーの中身は\\c[3]エッチな本\\c[0]だった！
-> CONTEXT: Map046/events/23/pages/1/6/Dialogue < UNTRANSLATED
-> CONTEXT: Map046/events/25/pages/1/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map046/events/23/pages/1/6/Dialogue
+> CONTEXT: Map046/events/25/pages/1/6/Dialogue
+Turns out, what was inside the cover 
+was a \\c[3]Naughty Book\\c[0]!
 > END STRING
 
 > BEGIN STRING
 カバーだけがむなしく置かれている
-> CONTEXT: Map046/events/23/pages/2/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map046/events/25/pages/2/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map046/events/23/pages/2/4/Dialogue
+> CONTEXT: Map046/events/25/pages/2/4/Dialogue
+It's just a false cover on it
 > END STRING
 
 > BEGIN STRING

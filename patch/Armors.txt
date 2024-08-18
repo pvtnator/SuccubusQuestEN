@@ -547,7 +547,7 @@ Charm +23
 > BEGIN STRING
 カセドラルポンチョ/5/0
 > CONTEXT: Armors/83/name/
-Cathedral Poncho/5/0
+Cathedral Robe/5/0
 > END STRING
 
 > BEGIN STRING

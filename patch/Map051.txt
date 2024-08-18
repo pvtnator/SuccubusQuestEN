@@ -82,50 +82,56 @@ Stay for \\b100,000G\\f?
 > BEGIN STRING
 「あぁん……っ
 　イかされっちゃったぁ……\\e[0]
-> CONTEXT: Map051/events/8/pages/0/81/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map051/events/8/pages/0/81/Dialogue
+「Ahhh...
+　I came...\\e[0]
 > END STRING
 
 > BEGIN STRING
 「お客さんにイかされたことなんて
 　なかったのになぁ～。
-> CONTEXT: Map051/events/8/pages/0/85/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map051/events/8/pages/0/85/Dialogue
+「I've never been made to cum 
+　by a customer before.
 > END STRING
 
 > BEGIN STRING
 「あなたスゴいのね。
 　ご褒美にこれアゲちゃう♪
-> CONTEXT: Map051/events/8/pages/0/87/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map051/events/8/pages/0/87/Dialogue
+「You're amazing. 
+　I'll give you this as a reward.
 > END STRING
 
 > BEGIN STRING
 「隣の部屋の子が摘んできたお花よ。
 　キレイでしょ♪
-> CONTEXT: Map051/events/8/pages/0/93/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map051/events/8/pages/0/93/Dialogue
+「These flowers were picked by 
+the girl in the next room. 
+　Pretty, right?♪
 > END STRING
 
 > BEGIN STRING
 「それじゃ、また来てねぇ♪
-> CONTEXT: Map051/events/8/pages/0/97/Dialogue < UNTRANSLATED
-> CONTEXT: Map051/events/8/pages/0/120/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map051/events/8/pages/0/97/Dialogue
+> CONTEXT: Map051/events/8/pages/0/120/Dialogue
+「Well then, come again♪
 > END STRING
 
 > BEGIN STRING
 「お楽しみいただけましたか？
-> CONTEXT: Map051/events/8/pages/0/106/Dialogue < UNTRANSLATED
-> CONTEXT: Map051/events/8/pages/0/129/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map051/events/8/pages/0/106/Dialogue
+> CONTEXT: Map051/events/8/pages/0/129/Dialogue
+「Did you enjoy it?
 > END STRING
 
 > BEGIN STRING
 「んふっ、
 　おつかれさまぁ♪
-> CONTEXT: Map051/events/8/pages/0/118/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map051/events/8/pages/0/118/Dialogue
+「Mmh,
+　Thank you for your hard work♪
 > END STRING
 
 > BEGIN STRING

@@ -228,7 +228,7 @@ Chai
 > BEGIN STRING
 エーランドブレンド
 > CONTEXT: Items/26/name/
-Oland Blend
+Ehland Blend
 > END STRING
 
 > BEGIN STRING
@@ -307,14 +307,14 @@ Stimulant
 
 > BEGIN STRING
 シンセミア
-> CONTEXT: Items/36/name/ < UNTRANSLATED
-
+> CONTEXT: Items/36/name/
+Synthesia
 > END STRING
 
 > BEGIN STRING
 〔ドラッグ〕 効果：EP回復 / テンションアップ / 副作用もあるかも…？
-> CONTEXT: Items/36/description/ < UNTRANSLATED
-
+> CONTEXT: Items/36/description/
+[Drug] Effects: EP recovery / Tension up / Might have side effects...?
 > END STRING
 
 > BEGIN STRING
@@ -509,8 +509,8 @@ Lembas Bread
 
 > BEGIN STRING
 〔食事〕 寒い地方で育つルイス麦とドゥム草の葉で作ったリゾット
-> CONTEXT: Items/54/description/ < UNTRANSLATED
-
+> CONTEXT: Items/54/description/
+[Food] Risotto made with Lewis barley and dum grass leaves
 > END STRING
 
 > BEGIN STRING
@@ -545,8 +545,8 @@ Holos Butterfly
 
 > BEGIN STRING
 〔食事〕 数種のミントとリスヴェグパセリのサラダ
-> CONTEXT: Items/65/description/ < UNTRANSLATED
-
+> CONTEXT: Items/65/description/
+[Food] Salad of mint and parsley
 > END STRING
 
 > BEGIN STRING
@@ -1263,14 +1263,14 @@ Limit your level to match your opponent
 
 > BEGIN STRING
 水晶の盃
-> CONTEXT: Items/244/name/ < UNTRANSLATED
-
+> CONTEXT: Items/244/name/
+Crystal Cup
 > END STRING
 
 > BEGIN STRING
 お酒の効果アップ / 悪酔いしなくなる
-> CONTEXT: Items/244/description/ < UNTRANSLATED
-
+> CONTEXT: Items/244/description/
+Increased effect of alcohol / No more drunkenness
 > END STRING
 
 > BEGIN STRING
@@ -1540,7 +1540,7 @@ Miranda Coupon
 > BEGIN STRING
 愛の宿・ミランダに半額でお泊りできる特別割引券
 > CONTEXT: Items/269/description/
-Discount coupon for a half-price stay at Love Inn Miranda
+Discount coupon for a discounted stay at Love Inn Miranda
 > END STRING
 
 > BEGIN STRING

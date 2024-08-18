@@ -16,137 +16,152 @@
 > BEGIN STRING
 「かわいそう、
 　やっぱり変な夢見ちゃってるわ……
-> CONTEXT: Map216/events/4/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map216/events/4/pages/0/1/Dialogue
+「Poor thing,
+　I guess he's having a strange dream...
 > END STRING
 
 > BEGIN STRING
 「もう………
-> CONTEXT: Map216/events/4/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map216/events/4/pages/0/3/Dialogue
+「Already...
 > END STRING
 
 > BEGIN STRING
 「いらっしゃい。
 　暖かい食べ物をどうぞ。
-> CONTEXT: Map216/events/8/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map216/events/8/pages/0/1/Dialogue
+「Welcome.
+　Please have something hot to eat.
 > END STRING
 
 > BEGIN STRING
 「何かただならぬことが
 　起こっているようだね。
-> CONTEXT: Map216/events/8/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map216/events/8/pages/1/1/Dialogue
+「Seems like something strange is happening.
 > END STRING
 
 > BEGIN STRING
 「ともあれ、
 　暖かくておいしいものを食べて
 　落ち着いていくことだ。
-> CONTEXT: Map216/events/8/pages/1/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map216/events/8/pages/1/3/Dialogue
+「Anyway,
+　eat something warm and delicious
+　and calm down.
 > END STRING
 
 > BEGIN STRING
 「外は寒いでしょう。
 　ミルクでもあたためましょうか？
-> CONTEXT: Map216/events/9/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map216/events/9/pages/0/1/Dialogue
+「It's cold outside.
+　Would you like me to warm up some milk?
 > END STRING
 
 > BEGIN STRING
 「助けてください…
 　もうずっと眠れないのです。
-> CONTEXT: Map216/events/10/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map216/events/10/pages/0/1/Dialogue
+「Please help me... 
+　I can't sleep much anymore.
 > END STRING
 
 > BEGIN STRING
 「眠りに落ちるやあの淫らな
 　悪魔どもがやってくるのかと思うと、
 　恐ろしくて恐ろしくて……
-> CONTEXT: Map216/events/10/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map216/events/10/pages/0/3/Dialogue
+「The thought of those lewd demons 
+　coming to me as soon as I fall asleep 
+　is so terrifying...
 > END STRING
 
 > BEGIN STRING
 「…う…あぁ…………
 　やめなさい……
-> CONTEXT: Map216/events/10/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map216/events/10/pages/1/1/Dialogue
+「...Uh...Ahh.....
+　Stop it...
 > END STRING
 
 > BEGIN STRING
 「私は…私は………
-> CONTEXT: Map216/events/10/pages/1/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map216/events/10/pages/1/3/Dialogue
+「I...I.....
 > END STRING
 
 > BEGIN STRING
 「この人ったら、
 　ずっとつまらないことで
 　悩んでいるんです。
-> CONTEXT: Map216/events/11/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map216/events/11/pages/0/1/Dialogue
+「This guy is always worrying 
+　about trivial things.
 > END STRING
 
 > BEGIN STRING
 「私がそんな夢、二度と見ないように
 　してあげるって言ってるのに
 　聞いてくれなくて……
-> CONTEXT: Map216/events/11/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map216/events/11/pages/0/4/Dialogue
+「I told him he'd never have that dream again, 
+　but he didn't listen...
 > END STRING
 
 > BEGIN STRING
 「わぁ、こんなおっきいゆきだるま！
-> CONTEXT: Map216/events/12/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map216/events/12/pages/0/1/Dialogue
+「Wow, such a big snowman!
 > END STRING
 
 > BEGIN STRING
 「むにゃむにゃ……
-> CONTEXT: Map216/events/12/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map140/events/39/pages/2/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map216/events/12/pages/0/2/Dialogue
+> CONTEXT: Map140/events/39/pages/2/3/Dialogue
+「*Incomprehensible muttering*...
 > END STRING
 
 > BEGIN STRING
 楽しい夢をみているようだ……
-> CONTEXT: Map216/events/12/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map216/events/12/pages/0/4/Dialogue
+Seems like a pleasant dream...
 > END STRING
 
 > BEGIN STRING
 "エーランドの信徒"
-> CONTEXT: Map216/events/13/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map216/events/16/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map216/events/13/pages/0/0/InlineScript/1:4
+> CONTEXT: Map216/events/16/pages/0/0/InlineScript/1:4
+"Disciple of Ehland"
 > END STRING
 
 > BEGIN STRING
 「ここヴァーサは、
 　我々エーランド教の信徒が
 　集まってできた町です。
-> CONTEXT: Map216/events/13/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map216/events/13/pages/0/1/Dialogue
+「Vasa is a town that was founded 
+　by followers of the Ehland religion.
 > END STRING
 
 > BEGIN STRING
 「ここは春が短く厳しい冬が長い地域ですが、
 　肉体を戒め精神を成長させる我々には
 　むしろ都合がいいのです。
-> CONTEXT: Map216/events/13/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map216/events/13/pages/0/4/Dialogue
+「We have short springs and long, harsh winters, 
+　but this is actually ideal for us, who want to 
+　discipline our bodies and develop our minds.
 > END STRING
 
 > BEGIN STRING
 「…しかし最近の寒さは異常です……
 　なにか、精神そのものを
 　冷やされているような……
-> CONTEXT: Map216/events/13/pages/0/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map216/events/13/pages/0/7/Dialogue
+「...But it's been really cold lately... 
+　It's like my very soul is being chilled...
 > END STRING
 
 > BEGIN STRING
@@ -162,13 +177,15 @@
 > BEGIN STRING
 「町の外で眠っていた者は
 　みんなここに運びました。
-> CONTEXT: Map216/events/16/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map216/events/16/pages/0/1/Dialogue
+「Everyone who was sleeping 
+　outside the town was brought here.
 > END STRING
 
 > BEGIN STRING
 「ああ、しかし、
 　一体何が起こっているのか……
-> CONTEXT: Map216/events/16/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map216/events/16/pages/0/3/Dialogue
+「Ah, but, 
+　what on earth is going on...
 > END STRING

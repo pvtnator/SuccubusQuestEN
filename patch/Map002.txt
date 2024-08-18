@@ -13,13 +13,13 @@
 
 > BEGIN STRING
 "エーランド神殿騎士"
-> CONTEXT: Map002/events/2/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map002/events/2/pages/0/14/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map002/events/2/pages/0/28/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map002/events/2/pages/0/38/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map002/events/2/pages/0/64/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map002/events/2/pages/0/69/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map002/events/2/pages/0/0/InlineScript/1:4
+> CONTEXT: Map002/events/2/pages/0/14/InlineScript/1:4
+> CONTEXT: Map002/events/2/pages/0/28/InlineScript/1:4
+> CONTEXT: Map002/events/2/pages/0/38/InlineScript/1:4
+> CONTEXT: Map002/events/2/pages/0/64/InlineScript/1:4
+> CONTEXT: Map002/events/2/pages/0/69/InlineScript/1:4
+"Ehland Temple Knight"
 > END STRING
 
 > BEGIN STRING

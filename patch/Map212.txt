@@ -14,12 +14,14 @@
 > BEGIN STRING
 「ここのリンドヴァルって、
 　他とちょっと品揃えが違うのよね。
-> CONTEXT: Map212/events/3/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map212/events/3/pages/0/1/Dialogue
+「The Lindval here has a 
+　slightly different selection 
+　than other places.
 > END STRING
 
 > BEGIN STRING
 「教会が品揃えに口出ししてるそうよ。
-> CONTEXT: Map212/events/3/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map212/events/3/pages/0/3/Dialogue
+「Apparently the church has a say in the selection.
 > END STRING

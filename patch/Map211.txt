@@ -2,140 +2,149 @@
 > BEGIN STRING
 「ここはエーランドの祝福されし町、
 　神都ヴァーサ。
-> CONTEXT: Map211/events/1/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map211/events/1/pages/0/1/Dialogue
+「This is the blessed town of Ehland,
+　the sacred city of Vasa.
 > END STRING
 
 > BEGIN STRING
 「あなたもエーランドの庇護を受けに
 　おいでなさったのですか？
-> CONTEXT: Map211/events/1/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map211/events/1/pages/0/3/Dialogue
+「Have you come to seek 
+　Ehland's protection as well?
 > END STRING
 
 > BEGIN STRING
 「ここはね　ずっと　ゆきこんこん
 　なの！
-> CONTEXT: Map211/events/15/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map211/events/15/pages/0/1/Dialogue
+「It's always snowing here!
 > END STRING
 
 > BEGIN STRING
 「だからね　いっぱい　ゆきだるま
 　つくっちゃうの！
-> CONTEXT: Map211/events/15/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map211/events/15/pages/0/3/Dialogue
+「So I make lots of snowmen!
 > END STRING
 
 > BEGIN STRING
 「ゆきが　おおすぎて
 　みんな　こまってるから
-> CONTEXT: Map211/events/16/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map211/events/16/pages/0/1/Dialogue
+「There's too much snow 
+　and everyone is having trouble.
 > END STRING
 
 > BEGIN STRING
 「ぼくたちが　ぜんぶ　ゆきだるまに
 　してあげるんだ！
-> CONTEXT: Map211/events/16/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map211/events/16/pages/0/3/Dialogue
+「We'll turn it all into snowmen!
 > END STRING
 
 > BEGIN STRING
 「わあ………
 　見て、\\n[1]！
-> CONTEXT: Map211/events/17/pages/0/23/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/20/pages/0/23/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/21/pages/0/23/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/22/pages/0/23/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/23/pages/0/23/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map211/events/17/pages/0/23/Dialogue
+> CONTEXT: Map211/events/20/pages/0/23/Dialogue
+> CONTEXT: Map211/events/21/pages/0/23/Dialogue
+> CONTEXT: Map211/events/22/pages/0/23/Dialogue
+> CONTEXT: Map211/events/23/pages/0/23/Dialogue
+「Wow...
+　Look, \\n[1]!
 > END STRING
 
 > BEGIN STRING
 「きれいね……。
 　こんな建物、初めて見たわ。
-> CONTEXT: Map211/events/17/pages/0/36/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/20/pages/0/36/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/21/pages/0/36/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/22/pages/0/36/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/23/pages/0/36/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map211/events/17/pages/0/36/Dialogue
+> CONTEXT: Map211/events/20/pages/0/36/Dialogue
+> CONTEXT: Map211/events/21/pages/0/36/Dialogue
+> CONTEXT: Map211/events/22/pages/0/36/Dialogue
+> CONTEXT: Map211/events/23/pages/0/36/Dialogue
+「It's beautiful.... 
+　I've never seen a building like this before.
 > END STRING
 
 > BEGIN STRING
 「おや、旅の方ですか？
-> CONTEXT: Map211/events/17/pages/0/60/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/20/pages/0/60/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/21/pages/0/60/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/22/pages/0/60/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/23/pages/0/60/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map211/events/17/pages/0/60/Dialogue
+> CONTEXT: Map211/events/20/pages/0/60/Dialogue
+> CONTEXT: Map211/events/21/pages/0/60/Dialogue
+> CONTEXT: Map211/events/22/pages/0/60/Dialogue
+> CONTEXT: Map211/events/23/pages/0/60/Dialogue
+「Oh, are you travelers?
 > END STRING
 
 > BEGIN STRING
 「ここはエーランド教の本拠、
 　ヴァーサ大聖ど……
-> CONTEXT: Map211/events/17/pages/0/61/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/20/pages/0/61/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/21/pages/0/61/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/22/pages/0/61/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/23/pages/0/61/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map211/events/17/pages/0/61/Dialogue
+> CONTEXT: Map211/events/20/pages/0/61/Dialogue
+> CONTEXT: Map211/events/21/pages/0/61/Dialogue
+> CONTEXT: Map211/events/22/pages/0/61/Dialogue
+> CONTEXT: Map211/events/23/pages/0/61/Dialogue
+「This is the home of the Ehland religion,
+　Saint Vasa...
 > END STRING
 
 > BEGIN STRING
 「お……おぉっ！？
-> CONTEXT: Map211/events/17/pages/0/67/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/20/pages/0/67/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/21/pages/0/67/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/22/pages/0/67/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/23/pages/0/67/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map211/events/17/pages/0/67/Dialogue
+> CONTEXT: Map211/events/20/pages/0/67/Dialogue
+> CONTEXT: Map211/events/21/pages/0/67/Dialogue
+> CONTEXT: Map211/events/22/pages/0/67/Dialogue
+> CONTEXT: Map211/events/23/pages/0/67/Dialogue
+「O...oh!?
 > END STRING
 
 > BEGIN STRING
 「な、なんという
 　はしたない格好を！
-> CONTEXT: Map211/events/17/pages/0/68/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/20/pages/0/68/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/21/pages/0/68/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/22/pages/0/68/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/23/pages/0/68/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map211/events/17/pages/0/68/Dialogue
+> CONTEXT: Map211/events/20/pages/0/68/Dialogue
+> CONTEXT: Map211/events/21/pages/0/68/Dialogue
+> CONTEXT: Map211/events/22/pages/0/68/Dialogue
+> CONTEXT: Map211/events/23/pages/0/68/Dialogue
+「W-what an 
+　indecent outfit!
 > END STRING
 
 > BEGIN STRING
 「え？
 　…………私？
-> CONTEXT: Map211/events/17/pages/0/73/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/20/pages/0/73/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/21/pages/0/73/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/22/pages/0/73/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/23/pages/0/73/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map211/events/17/pages/0/73/Dialogue
+> CONTEXT: Map211/events/20/pages/0/73/Dialogue
+> CONTEXT: Map211/events/21/pages/0/73/Dialogue
+> CONTEXT: Map211/events/22/pages/0/73/Dialogue
+> CONTEXT: Map211/events/23/pages/0/73/Dialogue
+「Eh?
+　...Me?
 > END STRING
 
 > BEGIN STRING
 「こ、ここは神の地。
 　そのような格好で入ることは
 　まかりなりません。
-> CONTEXT: Map211/events/17/pages/0/76/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/20/pages/0/76/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/21/pages/0/76/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/22/pages/0/76/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/23/pages/0/76/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map211/events/17/pages/0/76/Dialogue
+> CONTEXT: Map211/events/20/pages/0/76/Dialogue
+> CONTEXT: Map211/events/21/pages/0/76/Dialogue
+> CONTEXT: Map211/events/22/pages/0/76/Dialogue
+> CONTEXT: Map211/events/23/pages/0/76/Dialogue
+「W-we're on God's ground. 
+　You cannot enter dressed like that.
 > END STRING
 
 > BEGIN STRING
 「こ、これをお貸ししましょう。
-> CONTEXT: Map211/events/17/pages/0/82/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/20/pages/0/82/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/21/pages/0/82/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/22/pages/0/82/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/23/pages/0/82/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map211/events/17/pages/0/82/Dialogue
+> CONTEXT: Map211/events/20/pages/0/82/Dialogue
+> CONTEXT: Map211/events/21/pages/0/82/Dialogue
+> CONTEXT: Map211/events/22/pages/0/82/Dialogue
+> CONTEXT: Map211/events/23/pages/0/82/Dialogue
+「L-let me lend you this.
 > END STRING
 
 > BEGIN STRING
@@ -151,99 +160,109 @@
 > BEGIN STRING
 「で、で、では、
 　私はこれで……！
-> CONTEXT: Map211/events/17/pages/0/89/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/20/pages/0/89/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/21/pages/0/89/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/22/pages/0/89/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/23/pages/0/89/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map211/events/17/pages/0/89/Dialogue
+> CONTEXT: Map211/events/20/pages/0/89/Dialogue
+> CONTEXT: Map211/events/21/pages/0/89/Dialogue
+> CONTEXT: Map211/events/22/pages/0/89/Dialogue
+> CONTEXT: Map211/events/23/pages/0/89/Dialogue
+「T-th-that's,
+　that's all...!
 > END STRING
 
 > BEGIN STRING
 「………変なの。
-> CONTEXT: Map211/events/17/pages/0/117/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/20/pages/0/117/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/21/pages/0/117/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/22/pages/0/117/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/23/pages/0/117/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map211/events/17/pages/0/117/Dialogue
+> CONTEXT: Map211/events/20/pages/0/117/Dialogue
+> CONTEXT: Map211/events/21/pages/0/117/Dialogue
+> CONTEXT: Map211/events/22/pages/0/117/Dialogue
+> CONTEXT: Map211/events/23/pages/0/117/Dialogue
+「...Strange.
 > END STRING
 
 > BEGIN STRING
 「あれで夢魔に襲われたりしたら
 　どうなっちゃうのかしら。
-> CONTEXT: Map211/events/17/pages/0/118/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/20/pages/0/118/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/21/pages/0/118/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/22/pages/0/118/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/23/pages/0/118/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map211/events/17/pages/0/118/Dialogue
+> CONTEXT: Map211/events/20/pages/0/118/Dialogue
+> CONTEXT: Map211/events/21/pages/0/118/Dialogue
+> CONTEXT: Map211/events/22/pages/0/118/Dialogue
+> CONTEXT: Map211/events/23/pages/0/118/Dialogue
+「I wonder how it would go 
+　if they were attacked by succubi. 
 > END STRING
 
 > BEGIN STRING
 「私こんなの着れないし、
 　\\n[1]にあげるわ。
-> CONTEXT: Map211/events/17/pages/0/122/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/20/pages/0/122/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/21/pages/0/122/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/22/pages/0/122/Dialogue < UNTRANSLATED
-> CONTEXT: Map211/events/23/pages/0/122/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map211/events/17/pages/0/122/Dialogue
+> CONTEXT: Map211/events/20/pages/0/122/Dialogue
+> CONTEXT: Map211/events/21/pages/0/122/Dialogue
+> CONTEXT: Map211/events/22/pages/0/122/Dialogue
+> CONTEXT: Map211/events/23/pages/0/122/Dialogue
+「I can't wear this,
+　I'll let you have it, \\n[1].
 > END STRING
 
 > BEGIN STRING
 「このあたりは元々寒い土地ですが、
 　最近の寒さは異常です。
-> CONTEXT: Map211/events/24/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map211/events/24/pages/0/1/Dialogue
+「This area is naturally cold, 
+　but recently it has been unusually cold.
 > END STRING
 
 > BEGIN STRING
 「寒さで倒れて、
 　大聖堂に運ばれた人もいるそうです。
-> CONTEXT: Map211/events/24/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map211/events/24/pages/0/3/Dialogue
+「Some people collapsed from the cold 
+　and had to be carried to the cathedral.
 > END STRING
 
 > BEGIN STRING
 「寒さが、心なしか和らいだ気がします。
-> CONTEXT: Map211/events/24/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map211/events/24/pages/1/1/Dialogue
+「I feel like the cold has somehow eased.
 > END STRING
 
 > BEGIN STRING
 「ニャ～、こんなに\\dうぶ\\dで
 　おいしそうな男がいっぱいいるのに、
 　一人もたべられないなんて～～
-> CONTEXT: Map211/events/25/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map211/events/25/pages/0/1/Dialogue
+「Nya~, there are so many innocent, 
+　tasty looking guys out there, 
+　and yet I can't eat any of them~~
 > END STRING
 
 > BEGIN STRING
 「ご主人様の命令といえど
 　辛いニャ～～～
-> CONTEXT: Map211/events/25/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map211/events/25/pages/0/4/Dialogue
+「Even if it's Master's order, 
+　it's still painful...
 > END STRING
 
 > BEGIN STRING
 「ガルゥ………
-> CONTEXT: Map211/events/27/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map211/events/27/pages/0/1/Dialogue
+「Grr...
 > END STRING
 
 > BEGIN STRING
 「あっ、アンタ……
-> CONTEXT: Map211/events/28/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map211/events/28/pages/0/1/Dialogue
+「Ah, you...
 > END STRING
 
 > BEGIN STRING
 「………やめとこ。
 　また消されそうになったら
 　かなわないわ……。
-> CONTEXT: Map211/events/28/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map211/events/28/pages/0/2/Dialogue
+「...I won't try anything.
+　If I start disappearing again,
+　It'll be all over...
 > END STRING
 
 > BEGIN STRING

@@ -208,21 +208,23 @@
 > BEGIN STRING
 「いいわね、みんなは
 　炎で暖を取ることができて…
-> CONTEXT: Commonevents/23/120/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/23/120/Dialogue
+「It's nice how
+　everyone can stay warm by the fire...
 > END STRING
 
 > BEGIN STRING
 「私、どうやって暖まれば
 　いいのかしら…。
-> CONTEXT: Commonevents/23/122/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/23/122/Dialogue
+「But, I wonder how I should
+　keep myself warm...
 > END STRING
 
 > BEGIN STRING
 「…寒い…………
-> CONTEXT: Commonevents/23/129/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/23/129/Dialogue
+「..Cold.....
 > END STRING
 
 > BEGIN STRING

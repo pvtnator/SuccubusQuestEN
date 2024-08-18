@@ -1,20 +1,21 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 エーランド教の聖書が置いてある
-> CONTEXT: Map220/events/3/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map220/events/4/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map220/events/3/pages/0/1/Dialogue
+> CONTEXT: Map220/events/4/pages/0/1/Dialogue
+There is a Bible of the Ehland religion.
 > END STRING
 
 > BEGIN STRING
 「いらっしゃいませ\\e[0]
 　何をお求めでしょう？
-> CONTEXT: Map220/events/5/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map220/events/5/pages/0/1/Dialogue
+「Welcome\\e[0]
+　What would you like?
 > END STRING
 
 > BEGIN STRING
 「またお越しくださいね\\e[0]
-> CONTEXT: Map220/events/5/pages/0/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map220/events/5/pages/0/9/Dialogue
+「Please come again\\e[0]
 > END STRING
