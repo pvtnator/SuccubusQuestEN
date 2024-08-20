@@ -2723,307 +2723,316 @@ Villager
 > BEGIN STRING
 「じゃあ問題～っ！
 　\\b10\\f 秒以内に答えてね\\e[0]
-> CONTEXT: Commonevents/153/8/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/153/43/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/153/147/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/153/340/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/153/8/Dialogue
+> CONTEXT: Commonevents/153/43/Dialogue
+> CONTEXT: Commonevents/153/147/Dialogue
+> CONTEXT: Commonevents/153/340/Dialogue
+「Now, here's the question~! 
+　Please answer within \\b10\\f seconds\\e[0]
 > END STRING
 
 > BEGIN STRING
 \\a[60]「\\b5\\f × \\b13\\f － \\b9\\f は幾つ？
-> CONTEXT: Commonevents/153/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/153/10/Dialogue
+\\a[60]「How much is \\b5\\f × \\b13\\f － \\b9\\f?
 > END STRING
 
 > BEGIN STRING
 「\\b5\\f ×\\b13\\f － \\b9\\f は幾つ？」
-> CONTEXT: Commonevents/153/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/153/13/Dialogue
+「How much is \\b5\\f ×\\b13\\f － \\b9\\f?」
 > END STRING
 
 > BEGIN STRING
 「ぶ～～～っ！
 　時間切れぇ～～っ！
-> CONTEXT: Commonevents/153/19/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/153/54/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/153/89/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/153/124/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/153/160/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/153/179/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/153/193/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/153/224/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/153/238/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/153/257/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/153/288/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/153/307/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/153/326/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/153/352/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/153/371/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/153/385/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/153/416/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/153/435/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/153/449/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/153/480/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/153/499/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/153/513/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/153/19/Dialogue
+> CONTEXT: Commonevents/153/54/Dialogue
+> CONTEXT: Commonevents/153/89/Dialogue
+> CONTEXT: Commonevents/153/124/Dialogue
+> CONTEXT: Commonevents/153/160/Dialogue
+> CONTEXT: Commonevents/153/179/Dialogue
+> CONTEXT: Commonevents/153/193/Dialogue
+> CONTEXT: Commonevents/153/224/Dialogue
+> CONTEXT: Commonevents/153/238/Dialogue
+> CONTEXT: Commonevents/153/257/Dialogue
+> CONTEXT: Commonevents/153/288/Dialogue
+> CONTEXT: Commonevents/153/307/Dialogue
+> CONTEXT: Commonevents/153/326/Dialogue
+> CONTEXT: Commonevents/153/352/Dialogue
+> CONTEXT: Commonevents/153/371/Dialogue
+> CONTEXT: Commonevents/153/385/Dialogue
+> CONTEXT: Commonevents/153/416/Dialogue
+> CONTEXT: Commonevents/153/435/Dialogue
+> CONTEXT: Commonevents/153/449/Dialogue
+> CONTEXT: Commonevents/153/480/Dialogue
+> CONTEXT: Commonevents/153/499/Dialogue
+> CONTEXT: Commonevents/153/513/Dialogue
+「Boooo~~~!
+　Time's up~~!
 > END STRING
 
 > BEGIN STRING
 「ぶ～～～っ！
 　ハズレぇ～～っ！
-> CONTEXT: Commonevents/153/31/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/153/66/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/153/101/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/153/136/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/153/168/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/153/201/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/153/246/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/153/265/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/153/296/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/153/315/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/153/360/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/153/393/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/153/424/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/153/457/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/153/488/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/153/521/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/153/31/Dialogue
+> CONTEXT: Commonevents/153/66/Dialogue
+> CONTEXT: Commonevents/153/101/Dialogue
+> CONTEXT: Commonevents/153/136/Dialogue
+> CONTEXT: Commonevents/153/168/Dialogue
+> CONTEXT: Commonevents/153/201/Dialogue
+> CONTEXT: Commonevents/153/246/Dialogue
+> CONTEXT: Commonevents/153/265/Dialogue
+> CONTEXT: Commonevents/153/296/Dialogue
+> CONTEXT: Commonevents/153/315/Dialogue
+> CONTEXT: Commonevents/153/360/Dialogue
+> CONTEXT: Commonevents/153/393/Dialogue
+> CONTEXT: Commonevents/153/424/Dialogue
+> CONTEXT: Commonevents/153/457/Dialogue
+> CONTEXT: Commonevents/153/488/Dialogue
+> CONTEXT: Commonevents/153/521/Dialogue
+「Booo~~~!
+　Wrong~~!
 > END STRING
 
 > BEGIN STRING
 \\a[60]「\\b36\\f ÷ \\b6\\f ＋ \\b39\\f は幾つ？
-> CONTEXT: Commonevents/153/45/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/153/45/Dialogue
+\\a[60]「How much is \\b36\\f ÷ \\b6\\f ＋ \\b39\\f?
 > END STRING
 
 > BEGIN STRING
 「\\b36\\f ÷ \\b6\\f ＋ \\b39\\f は幾つ？」
-> CONTEXT: Commonevents/153/48/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/153/48/Dialogue
+「How much is \\b36\\f ÷ \\b6\\f ＋ \\b39\\f?」
 > END STRING
 
 > BEGIN STRING
 「じゃあ問題～っ！
 　\\b5\\f 秒以内に答えてね\\e[0]
-> CONTEXT: Commonevents/153/78/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/153/113/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/153/212/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/153/276/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/153/404/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/153/468/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/153/78/Dialogue
+> CONTEXT: Commonevents/153/113/Dialogue
+> CONTEXT: Commonevents/153/212/Dialogue
+> CONTEXT: Commonevents/153/276/Dialogue
+> CONTEXT: Commonevents/153/404/Dialogue
+> CONTEXT: Commonevents/153/468/Dialogue
+「Now, here's the question~! 
+　Please answer within \\b5\\f seconds\\e[0]
 > END STRING
 
 > BEGIN STRING
 \\a[60]「\\b17\\f ＋ \\b21\\f × \\b0\\f は幾つ？
-> CONTEXT: Commonevents/153/80/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/153/80/Dialogue
+\\a[60]「How much is \\b17\\f ＋ \\b21\\f × \\b0\\f?
 > END STRING
 
 > BEGIN STRING
 「\\b17\\f ＋ \\b21\\f × \\b0\\f は幾つ？」
-> CONTEXT: Commonevents/153/83/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/153/83/Dialogue
+「How much is \\b17\\f ＋ \\b21\\f × \\b0\\f?」
 > END STRING
 
 > BEGIN STRING
 \\a[60]「\\b3\\f × \\b7\\f × \\b0\\f ÷ \\b3\\f は幾つ？
-> CONTEXT: Commonevents/153/115/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/153/115/Dialogue
+\\a[60]「How much is \\b3\\f × \\b7\\f × \\b0\\f ÷ \\b3\\f?
 > END STRING
 
 > BEGIN STRING
 「\\b3\\f × \\b7\\f × \\b0\\f ÷ \\b3\\f は幾つ？」
-> CONTEXT: Commonevents/153/118/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/153/118/Dialogue
+「How much is \\b3\\f × \\b7\\f × \\b0\\f ÷ \\b3\\f?」
 > END STRING
 
 > BEGIN STRING
 \\a[100]「次のうち、シッポの数が一番多いのは
 　どの組み合わせ？
-> CONTEXT: Commonevents/153/149/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/153/149/Dialogue
+\\a[100]「Which of the following combinations 
+　has the most tails?
 > END STRING
 
 > BEGIN STRING
 アスタロテ + エンジェル + ラミア
-> CONTEXT: Commonevents/153/154/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Commonevents/153/154/Choice/0
+Astaroth + Angel + Lamia
 > END STRING
 
 > BEGIN STRING
 キンナリー + ネコマタ + アルプ
-> CONTEXT: Commonevents/153/154/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Commonevents/153/154/Choice/1
+Kinnaree + Nekomata + Alp
 > END STRING
 
 > BEGIN STRING
 メリュジーヌ + ハーピー + ワーウルフ
-> CONTEXT: Commonevents/153/154/Choice/2 < UNTRANSLATED
-
+> CONTEXT: Commonevents/153/154/Choice/2
+Melusine + Harpy + Werewolf
 > END STRING
 
 > BEGIN STRING
 \\a[60]「次のうち、弱点がお尻じゃないのは誰？
-> CONTEXT: Commonevents/153/214/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/153/214/Dialogue
+\\a[60]「Who among these isn't weak in the butt?
 > END STRING
 
 > BEGIN STRING
 「弱点がお尻じゃないのは誰？」
-> CONTEXT: Commonevents/153/217/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/153/217/Dialogue
+「Who isn't weak in the butt?」
 > END STRING
 
 > BEGIN STRING
 キンナリー
-> CONTEXT: Commonevents/153/218/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Commonevents/153/218/Choice/0
+Kinnaree
 > END STRING
 
 > BEGIN STRING
 アルラウネ
-> CONTEXT: Commonevents/153/218/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Commonevents/153/218/Choice/1
+Alraune
 > END STRING
 
 > BEGIN STRING
 エルズリー
-> CONTEXT: Commonevents/153/218/Choice/2 < UNTRANSLATED
-
+> CONTEXT: Commonevents/153/218/Choice/2
+Erzulie
 > END STRING
 
 > BEGIN STRING
 \\a[60]「次のうち、魅力を上げる魔法はどれ？
-> CONTEXT: Commonevents/153/278/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/153/278/Dialogue
+\\a[60]「Which of the following spells increases charm?
 > END STRING
 
 > BEGIN STRING
 「魅力を上げる魔法はどれ？」
-> CONTEXT: Commonevents/153/281/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/153/281/Dialogue
+「Which spell increases charm?」
 > END STRING
 
 > BEGIN STRING
 \\a[60]「リスヴェグの統主って何て名前？
-> CONTEXT: Commonevents/153/342/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/153/342/Dialogue
+\\a[60]「What is the name of Lisveg's ruler?
 > END STRING
 
 > BEGIN STRING
 「リスヴェグの統主って何て名前？」
-> CONTEXT: Commonevents/153/345/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/153/345/Dialogue
+「What is the name of Lisveg's ruler?」
 > END STRING
 
 > BEGIN STRING
 ハクロフズ・バーンズ
-> CONTEXT: Commonevents/153/346/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Commonevents/153/346/Choice/0
+Hacklof Burns
 > END STRING
 
 > BEGIN STRING
 ハグロフス・バーンズ
-> CONTEXT: Commonevents/153/346/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Commonevents/153/346/Choice/1
+Haglofs Burns
 > END STRING
 
 > BEGIN STRING
 ハクロブス・バーンズ
-> CONTEXT: Commonevents/153/346/Choice/2 < UNTRANSLATED
-
+> CONTEXT: Commonevents/153/346/Choice/2
+Hachlobs Burns
 > END STRING
 
 > BEGIN STRING
 \\a[60]「次のうち、魅力を下げる魔法はどれ？
-> CONTEXT: Commonevents/153/406/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/153/406/Dialogue
+\\a[60]「Which of the following spells reduces charm?
 > END STRING
 
 > BEGIN STRING
 「魅力を下げる魔法はどれ？」
-> CONTEXT: Commonevents/153/409/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/153/409/Dialogue
+「While spell reduces charm?」
 > END STRING
 
 > BEGIN STRING
 \\a[60]「次のうち、羽を持ってないのは誰？
-> CONTEXT: Commonevents/153/470/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/153/470/Dialogue
+\\a[60]「Which of the following does not have wings?
 > END STRING
 
 > BEGIN STRING
 「羽を持ってないのは誰？」
-> CONTEXT: Commonevents/153/473/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/153/473/Dialogue
+「Who doesn't have wings?」
 > END STRING
 
 > BEGIN STRING
 バンシー
-> CONTEXT: Commonevents/153/474/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Commonevents/153/474/Choice/1
+Banshee
 > END STRING
 
 > BEGIN STRING
 アルプ
-> CONTEXT: Commonevents/153/474/Choice/2 < UNTRANSLATED
-
+> CONTEXT: Commonevents/153/474/Choice/2
+Alp
 > END STRING
 
 > BEGIN STRING
 「わぁ、アタリぃ～っ\\e[0]
-> CONTEXT: Commonevents/153/536/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/153/536/Dialogue
+"Wow, correct~\\e[0]
 > END STRING
 
 > BEGIN STRING
 「ごほぉびにコレあげるぅ\\e[0]
-> CONTEXT: Commonevents/153/540/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/153/540/Dialogue
+「Take this as a token of my appreciation\\e[0]
 > END STRING
 
 > BEGIN STRING
 「ごほぉびに
 　キモチよくしてあげるぅ\\e[0]
-> CONTEXT: Commonevents/153/559/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/153/559/Dialogue
+「I'll make you feel good 
+　as a token of my appreciation\\e[0]
 > END STRING
 
 > BEGIN STRING
 「答えられなかった子は
 　食べちゃうぞぉ～～\\e[0]
-> CONTEXT: Commonevents/153/570/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/153/570/Dialogue
+「Anyone who can't answer 
+　will be eaten~~\\e[0]
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]\\n[1]のテンションが下がった！
 \\w[\\v[104]]ムードが下がった！
-> CONTEXT: Commonevents/154/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/154/7/Dialogue
+\\a[\\v[105]]\\n[1]'s tension reduced!
+\\w[\\v[104]]The mood has gone down!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]\\n[1]のテクニックが制限された！
-> CONTEXT: Commonevents/155/53/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/155/53/Dialogue
+\\a[\\v[105]]\\n[1]'s techniques have been restricted!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]しかし何も起こらなかった！
-> CONTEXT: Commonevents/157/4/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/157/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/157/4/Dialogue
+> CONTEXT: Commonevents/157/19/Dialogue
+\\a[\\v[105]]But nothing happened!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]\\n[1]のテンションが下がった！
 \\w[\\v[104]]\\n[2]のMPが \\b\\v[1]\\f 回復した！
-> CONTEXT: Commonevents/159/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/159/9/Dialogue
+\\a[\\v[105]]\\n[1]'s tension decreased!
+\\w[\\v[104]]\\n[2] recovered \\b\\v[1]\\f MP!
 > END STRING
 
 > BEGIN STRING
@@ -3041,24 +3050,25 @@ Villager
 
 > BEGIN STRING
 \\a[\\v[105]]\\n[28]は別の夢魔に姿を変えた！
-> CONTEXT: Commonevents/167/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/167/19/Dialogue
+\\a[\\v[105]]\\n[28] transformed into another succubus!
 > END STRING
 
 > BEGIN STRING
 「あン……あ…あンっ、
 　ああぁあンっ！
-> CONTEXT: Commonevents/170/10/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/170/24/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/170/94/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/170/125/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/170/188/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/170/204/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/170/219/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/170/233/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/170/251/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/170/266/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/170/10/Dialogue
+> CONTEXT: Commonevents/170/24/Dialogue
+> CONTEXT: Commonevents/170/94/Dialogue
+> CONTEXT: Commonevents/170/125/Dialogue
+> CONTEXT: Commonevents/170/188/Dialogue
+> CONTEXT: Commonevents/170/204/Dialogue
+> CONTEXT: Commonevents/170/219/Dialogue
+> CONTEXT: Commonevents/170/233/Dialogue
+> CONTEXT: Commonevents/170/251/Dialogue
+> CONTEXT: Commonevents/170/266/Dialogue
+「Ah...a..aah,
+　Aaaaahh!
 > END STRING
 
 > BEGIN STRING
@@ -4489,33 +4499,35 @@ is looking with cold eyes!
 > BEGIN STRING
 「え？
 　…………………え？
-> CONTEXT: Commonevents/177/24/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/177/24/Dialogue
+「Eh?
+　.........Eh?
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]\\n[27]はきょとんとした顔で
 　こちらを見ている！
-> CONTEXT: Commonevents/177/27/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/177/27/Dialogue
+\\a[\\v[105]]\\n[27] is looking with a 
+　puzzled face!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]\\n[27]は固まってしまった！
-> CONTEXT: Commonevents/177/29/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/177/29/Dialogue
+\\a[\\v[105]]\\n[27] couldn't act!
 > END STRING
 
 > BEGIN STRING
 「え…………？
-> CONTEXT: Commonevents/177/37/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/177/37/Dialogue
+「Eh.....?
 > END STRING
 
 > BEGIN STRING
 「こ…こわい………
-> CONTEXT: Commonevents/177/38/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/177/38/Dialogue
+「S-scary...
 > END STRING
 
 > BEGIN STRING
@@ -4544,56 +4556,56 @@ But I don't even have \\b1G\\f of money!
 
 > BEGIN STRING
 \\n[27]に \\b\\v[1]G\\f 手渡した
-> CONTEXT: Commonevents/177/103/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/177/103/Dialogue
+ handed over \\b\\v[1]G\\f to \\n[27] 
 > END STRING
 
 > BEGIN STRING
 「え……、
-> CONTEXT: Commonevents/177/105/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/177/105/Dialogue
+「Eh...
 > END STRING
 
 > BEGIN STRING
 「あ、ありがとう……
-> CONTEXT: Commonevents/177/107/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/177/107/Dialogue
+「T-thanks...
 > END STRING
 
 > BEGIN STRING
 「あ、ありがとう……？
-> CONTEXT: Commonevents/177/113/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/177/113/Dialogue
+「T-thanks...?
 > END STRING
 
 > BEGIN STRING
 しかし渡せるようなものを持っていない！
-> CONTEXT: Commonevents/177/121/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/177/121/Dialogue
+But there's nothing to give!
 > END STRING
 
 > BEGIN STRING
 「えっと、それじゃ……
-> CONTEXT: Commonevents/177/129/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/177/129/Dialogue
+「Umm, then...
 > END STRING
 
 > BEGIN STRING
 「その\\c[3]\\v[2]\\c[0]…くれるの？
-> CONTEXT: Commonevents/177/130/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/177/130/Dialogue
+「That \\c[3]\\v[2]\\c[0]...can you give it to me?
 > END STRING
 
 > BEGIN STRING
 「わ…ありがと\\e[0]
-> CONTEXT: Commonevents/177/141/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/177/141/Dialogue
+「Wh...thanks\\e[0]
 > END STRING
 
 > BEGIN STRING
 「弄んだのね……
-> CONTEXT: Commonevents/177/159/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/177/159/Dialogue
+「You played with me...
 > END STRING
 
 > BEGIN STRING

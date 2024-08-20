@@ -1341,26 +1341,26 @@ Sexy Elf portrait printed with Lisveg's applied magic
 
 > BEGIN STRING
 エッチな本
-> CONTEXT: Items/253/name/ < UNTRANSLATED
-
+> CONTEXT: Items/253/name/
+Naughty Book
 > END STRING
 
 > BEGIN STRING
 グルッペンのモグリの画家が描いた女性の裸の画集
-> CONTEXT: Items/253/description/ < UNTRANSLATED
-
+> CONTEXT: Items/253/description/
+A collection of nude women drawn by Gruppen's Mugler painter
 > END STRING
 
 > BEGIN STRING
 オモチャの剣
-> CONTEXT: Items/254/name/ < UNTRANSLATED
-
+> CONTEXT: Items/254/name/
+Toy Sword
 > END STRING
 
 > BEGIN STRING
 軽い木でできたオモチャの剣
-> CONTEXT: Items/254/description/ < UNTRANSLATED
-
+> CONTEXT: Items/254/description/
+A toy sword made of light wood
 > END STRING
 
 > BEGIN STRING

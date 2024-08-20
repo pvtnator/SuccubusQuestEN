@@ -260,7 +260,7 @@ where you can draw out its powers?
 > CONTEXT: Map039/events/48/pages/0/1/Dialogue
 > CONTEXT: Map039/events/48/pages/2/1/Dialogue
 「Welcome to the royal capital of Gruppen, 
-home of the Wise King!
+　home of the Wise King!
 > END STRING
 
 > BEGIN STRING

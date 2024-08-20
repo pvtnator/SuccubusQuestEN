@@ -7253,8 +7253,8 @@
 
 > BEGIN STRING
 "\#{myname}の魔力が下がった！"
-> CONTEXT: Scripts/RPG::State (message)/257:19 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/257:19
+"\#{myname}'s magic decreased!"
 > END STRING
 
 > BEGIN STRING
@@ -7456,8 +7456,8 @@
 
 > BEGIN STRING
 "\#{myname}の攻めが下がった！"
-> CONTEXT: Scripts/RPG::State (message)/274:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/274:17
+"\#{myname}'s attack decreased!"
 > END STRING
 
 > BEGIN STRING
@@ -7940,8 +7940,8 @@
 
 > BEGIN STRING
 "\#{myname}は酔っ払ってきた…！"
-> CONTEXT: Scripts/RPG::State (message)/340:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/340:17
+"\#{myname} is drunk...!"
 > END STRING
 
 > BEGIN STRING
@@ -8202,8 +8202,8 @@
 
 > BEGIN STRING
 "水晶の盃"
-> CONTEXT: Scripts/RPG::Item(detail)/206:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/206:12
+"Crystal Cup"
 > END STRING
 
 > BEGIN STRING
@@ -11561,8 +11561,8 @@
 
 > BEGIN STRING
 "「じっとしてて……"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/84:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/84:14
+"「Stay still..."
 > END STRING
 
 > BEGIN STRING
@@ -12175,8 +12175,8 @@
 
 > BEGIN STRING
 "「や…、\\n\\\\w[\\\\v[104]]　あんまり…みないで……"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/142:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/142:12
+"「Hey...\\n\\\\w[\\\\v[104]]　Don't look too much..."
 > END STRING
 
 > BEGIN STRING
@@ -12187,14 +12187,14 @@
 
 > BEGIN STRING
 "　ね…、一緒にイってぇっ……！"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/156:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/156:12
+"　Hey...let's cum together...!"
 > END STRING
 
 > BEGIN STRING
 "「や……"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/143:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/143:12
+"「Ah..."
 > END STRING
 
 > BEGIN STRING
@@ -12243,8 +12243,8 @@
 
 > BEGIN STRING
 "「あれぇ、イきそうなの？\\n\\\\w[\\\\v[104]]"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/159:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/159:12
+"「Oh, are you about to cum?\\n\\\\w[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
@@ -12255,15 +12255,15 @@
 
 > BEGIN STRING
 "　プログラムされていません……\\n\\\\w[\\\\v[104]]　"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/147:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(A))/145:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/147:12
+> CONTEXT: Scripts/Game_Battler(msg-insert(A))/145:12
+"　Not programmed...\\n\\\\w[\\\\v[104]] "
 > END STRING
 
 > BEGIN STRING
 "　私もそろそろ一人前かなぁ\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/160:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/160:12
+"　I guess I'm about to become a real woman\\\\e[0]"
 > END STRING
 
 > BEGIN STRING
@@ -12348,8 +12348,8 @@
 
 > BEGIN STRING
 "「ダメ……\\n\\\\w[\\\\v[104]]"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/154:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/154:12
+"「No...\\n\\\\w[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
@@ -12360,8 +12360,8 @@
 
 > BEGIN STRING
 "　ダメなの…！"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/155:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/155:12
+"　No way...!"
 > END STRING
 
 > BEGIN STRING
@@ -12923,20 +12923,20 @@
 
 > BEGIN STRING
 "「あンっ…もっと……激しくしてえっ！"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/254:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/254:12
+"「Ohhh...more...harder!"
 > END STRING
 
 > BEGIN STRING
 "「そんな………\\n\\\\w[\\\\v[104]]"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/256:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/256:12
+"「No way...\\n\\\\w[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
 "　あなたも先に果ててしまうの…？"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/257:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/257:12
+"　Are you going to finish first...?"
 > END STRING
 
 > BEGIN STRING
@@ -14495,32 +14495,32 @@
 
 > BEGIN STRING
 "木の根が\#{target}の足を絡め取る！\\\\w[\\\\v[104]]　"
-> CONTEXT: Scripts/RPG::Skill (message)/189:26 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/189:26
+"Tree roots entangled \#{target}'s legs! \\\\w[\\\\v[104]] "
 > END STRING
 
 > BEGIN STRING
 "\#{target}は水の衣を身に纏った！"
-> CONTEXT: Scripts/RPG::Skill (message)/192:26 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/192:26
+"\#{target} is protected by water!"
 > END STRING
 
 > BEGIN STRING
 "\#{target}は風の衣を身に纏った！"
 > CONTEXT: Scripts/RPG::Skill (message)/195:26
-"\#{target} put on wind garments!"
+"\#{target} is protected by wind!"
 > END STRING
 
 > BEGIN STRING
 "\#{target}は嵐の衣を身に纏った！"
-> CONTEXT: Scripts/RPG::Skill (message)/198:26 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/198:26
+"\#{target} is protected by a storm!"
 > END STRING
 
 > BEGIN STRING
 "夢魔の触手を使った！\\n\\\\w[\\\\v[104]]"
-> CONTEXT: Scripts/RPG::Skill (message)/202:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/202:24
+" used a Succubus Tentacle!\\n\\\\w[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
@@ -15813,17 +15813,17 @@
 
 > BEGIN STRING
 "そのテクニックは今は使えない！"
-> CONTEXT: Scripts/Game_Battler 3-1/266:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler 3-1/266:24
+"That technique doesn't work now!"
 > END STRING
 
 > BEGIN STRING
 "今は使えない"
-> CONTEXT: Scripts/Game_Battler 3-1/271:24 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Party/508:26 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Party/598:24 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Party/603:22 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler 3-1/271:24
+> CONTEXT: Scripts/Game_Party/508:26
+> CONTEXT: Scripts/Game_Party/598:24
+> CONTEXT: Scripts/Game_Party/603:22
+"Not available now"
 > END STRING
 
 > BEGIN STRING
@@ -15868,8 +15868,8 @@
 
 > BEGIN STRING
 "どこからか凍える吹雪が吹き荒れた！\\\\w[\\\\v[104]]　"
-> CONTEXT: Scripts/RPG::Skill (message)/495:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/495:18
+"A freezing blizzard blew in from somewhere!\\\\w[\\\\v[104]] "
 > END STRING
 
 > BEGIN STRING
@@ -16607,8 +16607,8 @@
 
 > BEGIN STRING
 "部屋に宮殿中の冷気が集まる…！\\n\\\\w[\\\\v[105]]"
-> CONTEXT: Scripts/RPG::Skill (message)/551:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/551:18
+"Cold air from the entire palace gathers here...!\\n\\\\w[\\\\v[105]]"
 > END STRING
 
 > BEGIN STRING
@@ -16627,8 +16627,8 @@
 
 > BEGIN STRING
 "フィムブルヴェトは\\\\n[1]に\\n"
-> CONTEXT: Scripts/RPG::Skill (message)/552:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/552:18
+"Fimbulvet blew lightly\\n"
 > END STRING
 
 > BEGIN STRING
@@ -16640,8 +16640,8 @@
 
 > BEGIN STRING
 "軽く息を吹きかけた！\\\\w[\\\\v[104]]　"
-> CONTEXT: Scripts/RPG::Skill (message)/553:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/553:18
+" on \\\\n[1]!\\\\w[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
@@ -17024,9 +17024,9 @@
 
 > BEGIN STRING
 "今は使えない！"
-> CONTEXT: Scripts/Game_Party/477:26 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Party/500:26 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Party/477:26
+> CONTEXT: Scripts/Game_Party/500:26
+"Not available now!"
 > END STRING
 
 > BEGIN STRING
@@ -18634,7 +18634,7 @@
 > BEGIN STRING
 "万年氷の宮殿"
 > CONTEXT: Scripts/Window_SaveFile/159:14
-"The Eternal Ice Palace"
+"Eternal Ice Palace"
 > END STRING
 
 > BEGIN STRING
@@ -25791,8 +25791,8 @@
 
 > BEGIN STRING
 "万年氷の宮殿に住む"
-> CONTEXT: Scripts/★図鑑用詳細データ/896:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/896:12
+"Eternal Ice Palace Dwelling"
 > END STRING
 
 > BEGIN STRING

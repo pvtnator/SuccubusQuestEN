@@ -227,9 +227,11 @@
 「神よ、神よ、
 　悪しき淫魔どもをこの世界から
 　消し去りたまえ……
-> CONTEXT: Map350/events/10/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map213/events/10/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map350/events/10/pages/0/1/Dialogue
+> CONTEXT: Map213/events/10/pages/0/1/Dialogue
+「Oh God, oh God,
+　please erase all evil demons 
+　from this world...
 > END STRING
 
 > BEGIN STRING
@@ -297,18 +299,22 @@ Asleep with a flushed face...
 「我らエーランドの魔術士は、
 　こうして神に祈りをささげる事で
 　神の御力である魔法を行使します。
-> CONTEXT: Map350/events/12/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map213/events/12/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map350/events/12/pages/0/1/Dialogue
+> CONTEXT: Map213/events/12/pages/0/1/Dialogue
+「We, the magicians of Ehland,
+　pray to God in this way,
+　and thus exercise the magic that is God's power.
 > END STRING
 
 > BEGIN STRING
 「リスヴェグのエルフどもは
 　魔法は人間の秘めた力などと言いますが、
 　とんでもないことです。
-> CONTEXT: Map350/events/12/pages/0/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map213/events/12/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map350/events/12/pages/0/4/Dialogue
+> CONTEXT: Map213/events/12/pages/0/4/Dialogue
+「The elves of Lisveg say that 
+　magic is the hidden power of humans, 
+　but that's absurd.
 > END STRING
 
 > BEGIN STRING

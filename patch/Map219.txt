@@ -26,49 +26,52 @@
 
 > BEGIN STRING
 「……すやすや………………
-> CONTEXT: Map219/events/1/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map042/events/49/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map219/events/1/pages/1/1/Dialogue
+> CONTEXT: Map042/events/49/pages/0/1/Dialogue
+「...Zzz......
 > END STRING
 
 > BEGIN STRING
 安らかな顔で眠っている……
-> CONTEXT: Map219/events/1/pages/1/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map214/events/4/pages/1/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map045/events/5/pages/2/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map042/events/26/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map042/events/48/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map219/events/1/pages/1/3/Dialogue
+> CONTEXT: Map214/events/4/pages/1/3/Dialogue
+> CONTEXT: Map045/events/5/pages/2/3/Dialogue
+> CONTEXT: Map042/events/26/pages/0/3/Dialogue
+> CONTEXT: Map042/events/48/pages/0/3/Dialogue
+Sleeping peacefully...
 > END STRING
 
 > BEGIN STRING
 「寒くて外に出られないから、
 　本でも読んでようとしてたんだが……
-> CONTEXT: Map219/events/9/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map219/events/9/pages/0/1/Dialogue
+「It's too cold to go outside,
+　so I was going to read a book, but...
 > END STRING
 
 > BEGIN STRING
 「置いてあるのは
 　エーランド教の本ばかりで、
 　もううんざりさ
-> CONTEXT: Map219/events/9/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map219/events/9/pages/0/3/Dialogue
+「All they have are 
+　books about the Ehland religion,
+　and I'm sick of it.
 > END STRING
 
 > BEGIN STRING
 少し眠りますか？
-> CONTEXT: Map219/events/10/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map219/events/10/pages/0/1/Dialogue
+Sleep a little?
 > END STRING
 
 > BEGIN STRING
 特に興味を引く本は無いようだ
-> CONTEXT: Map219/events/11/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map219/events/12/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map219/events/13/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map219/events/14/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map219/events/15/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map219/events/16/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map219/events/11/pages/0/1/Dialogue
+> CONTEXT: Map219/events/12/pages/0/1/Dialogue
+> CONTEXT: Map219/events/13/pages/0/1/Dialogue
+> CONTEXT: Map219/events/14/pages/0/1/Dialogue
+> CONTEXT: Map219/events/15/pages/0/1/Dialogue
+> CONTEXT: Map219/events/16/pages/0/1/Dialogue
+There are no particularly interesting books here
 > END STRING

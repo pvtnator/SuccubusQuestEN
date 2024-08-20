@@ -1800,26 +1800,26 @@ Learn: Urzufuni / Learn: Sigilfuni
 
 > BEGIN STRING
 グリードテンタクル/-20/0/0/151
-> CONTEXT: Armors/224/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/224/name/
+Greed Tentacle/-20/0/0/151
 > END STRING
 
 > BEGIN STRING
 習得：トワイス / 魅力-20 / 魔力-20
-> CONTEXT: Armors/224/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/224/description/
+Learn: Twice / Charm -20 / Magic -20
 > END STRING
 
 > BEGIN STRING
 水底の花/5/0/0/141m145
-> CONTEXT: Armors/225/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/225/name/
+Underwater Flower/5/0/0/141m145
 > END STRING
 
 > BEGIN STRING
 習得：ルゥイン / 習得：ラプチャ / 魅力+5
-> CONTEXT: Armors/225/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/225/description/
+Learn: Ruin / Learn: Rapture / Charm +5
 > END STRING
 
 > BEGIN STRING

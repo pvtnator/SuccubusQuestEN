@@ -2,61 +2,68 @@
 > BEGIN STRING
 冷たい氷に
 道を塞がれている……
-> CONTEXT: Map222/events/9/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map222/events/9/pages/0/1/Dialogue
+The way is blocked by cold ice...
 > END STRING
 
 > BEGIN STRING
 「ねェ……、
 　寒いの…………
-> CONTEXT: Map222/events/9/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map222/events/9/pages/0/4/Dialogue
+「Hey... 
+　it's cold.....
 > END STRING
 
 > BEGIN STRING
 「あたためてぇ……っ！
-> CONTEXT: Map222/events/9/pages/0/54/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map222/events/9/pages/0/54/Dialogue
+「Warm me up...!
 > END STRING
 
 > BEGIN STRING
 「あぁんっ……
 　スゴい…………\\e[0]
-> CONTEXT: Map222/events/9/pages/0/59/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map222/events/9/pages/0/59/Dialogue
+「Ahhh...
+　Amazing...\\e[0]
 > END STRING
 
 > BEGIN STRING
 「……アタシの仲間も、
 　みんな凍えちゃってるの……
-> CONTEXT: Map222/events/9/pages/0/61/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map222/events/9/pages/0/61/Dialogue
+「...My friends,
+　all of them are freezing...
 > END STRING
 
 > BEGIN STRING
 「お願い、
 　みんなもあたためてあげて……
-> CONTEXT: Map222/events/9/pages/0/63/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map222/events/9/pages/0/63/Dialogue
+「Please,
+　Please warm them all too...
 > END STRING
 
 > BEGIN STRING
 「……どうなってるのかしら。
 　この寒さって、
 　夢魔のせいなんじゃ……
-> CONTEXT: Map222/events/9/pages/0/132/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map222/events/9/pages/0/132/Dialogue
+「...I wonder what's going on.
+　This cold,
+　must be the fault of a succubus...
 > END STRING
 
 > BEGIN STRING
 「……でも夢魔の言うことなんて
 　聞いてあげることないわ！
-> CONTEXT: Map222/events/9/pages/0/135/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map222/events/9/pages/0/135/Dialogue
+「...But I'm not going to listen to 
+　anything a succubus has to say!
 > END STRING
 
 > BEGIN STRING
 「先を急ぎましょ、\\n[1]。
-> CONTEXT: Map222/events/9/pages/0/137/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map222/events/9/pages/0/137/Dialogue
+「Let's hurry, \\n[1].
 > END STRING

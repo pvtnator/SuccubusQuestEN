@@ -2980,26 +2980,29 @@ SP_氷の洞窟(1)
 > BEGIN STRING
 不思議な寒さで
 \\n[1]のテンションが下がった！\\a[\\v[105]]
-> CONTEXT: Troops/319/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/319/pages/3/1/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/320/pages/0/13/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/320/pages/3/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/319/pages/0/2/Dialogue
+> CONTEXT: Troops/319/pages/3/1/Dialogue
+> CONTEXT: Troops/320/pages/0/13/Dialogue
+> CONTEXT: Troops/320/pages/3/1/Dialogue
+The strange cold weather
+lowered \\n[1]'s tension! \\a[\\v[105]]
 > END STRING
 
 > BEGIN STRING
 「あなたのアツいの………
 　ちょうだぁいっ\\e[0]
-> CONTEXT: Troops/319/pages/0/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/319/pages/0/8/Dialogue
+「Your heat...
+　Give it to me\\e[0]
 > END STRING
 
 > BEGIN STRING
 不思議な寒さで
 ムードが下がった！\\a[\\v[105]]
-> CONTEXT: Troops/319/pages/2/1/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/320/pages/2/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/319/pages/2/1/Dialogue
+> CONTEXT: Troops/320/pages/2/1/Dialogue
+The strange cold weather
+has dampened the mood! \\a[\\v[105]]
 > END STRING
 
 > BEGIN STRING
@@ -3016,14 +3019,14 @@ EV_フィムブルヴェト
 
 > BEGIN STRING
 「あァ………
-> CONTEXT: Troops/323/pages/2/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/323/pages/2/2/Dialogue
+「Aa...
 > END STRING
 
 > BEGIN STRING
 「…暑…い……
-> CONTEXT: Troops/323/pages/2/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/323/pages/2/3/Dialogue
+「...Hot...
 > END STRING
 
 > BEGIN STRING
@@ -3034,22 +3037,23 @@ EV_フィムブルヴェト
 
 > BEGIN STRING
 \\a[\\v[105]]フィムブルヴェトは服を少し脱いだ！
-> CONTEXT: Troops/323/pages/2/7/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/323/pages/3/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/323/pages/2/7/Dialogue
+> CONTEXT: Troops/323/pages/3/8/Dialogue
+\\a[\\v[105]]Fimbulvet took off some clothes!
 > END STRING
 
 > BEGIN STRING
 「やぁ…っ、
 　もっと……
-> CONTEXT: Troops/323/pages/3/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/323/pages/3/2/Dialogue
+「Ah... 
+　more...
 > END STRING
 
 > BEGIN STRING
 「熱くして…っ！
-> CONTEXT: Troops/323/pages/3/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/323/pages/3/4/Dialogue
+「Make it hot...!
 > END STRING
 
 > BEGIN STRING

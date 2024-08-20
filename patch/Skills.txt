@@ -2305,20 +2305,20 @@ Gently Weep
 
 > BEGIN STRING
 ディスペルクライ
-> CONTEXT: Skills/355/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/355/name/
+Dispel Cry
 > END STRING
 
 > BEGIN STRING
 ブリザード
-> CONTEXT: Skills/356/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/356/name/
+Blizzard
 > END STRING
 
 > BEGIN STRING
 インセンス打消し
-> CONTEXT: Skills/356/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/356/description/
+Incense Cancel
 > END STRING
 
 > BEGIN STRING
@@ -3360,8 +3360,8 @@ Machina Erotica
 
 > BEGIN STRING
 ウィンターミュート
-> CONTEXT: Skills/665/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/665/name/
+Wintermute
 > END STRING
 
 > BEGIN STRING

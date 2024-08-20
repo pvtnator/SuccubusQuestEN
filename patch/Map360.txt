@@ -1,71 +1,75 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 「ｚｚｚｚ…………
-> CONTEXT: Map360/events/2/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map361/events/2/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map360/events/6/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map361/events/6/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map213/events/6/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map360/events/2/pages/0/1/Dialogue
+> CONTEXT: Map361/events/2/pages/0/1/Dialogue
+> CONTEXT: Map360/events/6/pages/0/1/Dialogue
+> CONTEXT: Map361/events/6/pages/0/1/Dialogue
+> CONTEXT: Map213/events/6/pages/0/1/Dialogue
+「zzz.....
 > END STRING
 
 > BEGIN STRING
 "旅の商人"
-> CONTEXT: Map360/events/4/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map361/events/4/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map360/events/21/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map361/events/21/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map213/events/21/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map213/events/21/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map126/events/9/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map018/events/28/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map360/events/4/pages/0/0/InlineScript/1:4
+> CONTEXT: Map361/events/4/pages/0/0/InlineScript/1:4
+> CONTEXT: Map360/events/21/pages/0/0/InlineScript/1:4
+> CONTEXT: Map361/events/21/pages/0/0/InlineScript/1:4
+> CONTEXT: Map213/events/21/pages/0/0/InlineScript/1:4
+> CONTEXT: Map213/events/21/pages/1/0/InlineScript/1:4
+> CONTEXT: Map126/events/9/pages/0/0/InlineScript/1:4
+> CONTEXT: Map018/events/28/pages/1/0/InlineScript/1:4
+"Traveling Merchant"
 > END STRING
 
 > BEGIN STRING
 「教会とは実に良い場所ですね。
-> CONTEXT: Map360/events/4/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map361/events/4/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map360/events/21/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map361/events/21/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map213/events/21/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map360/events/4/pages/0/1/Dialogue
+> CONTEXT: Map361/events/4/pages/0/1/Dialogue
+> CONTEXT: Map360/events/21/pages/0/1/Dialogue
+> CONTEXT: Map361/events/21/pages/0/1/Dialogue
+> CONTEXT: Map213/events/21/pages/0/1/Dialogue
+「The church is a really good place.
 > END STRING
 
 > BEGIN STRING
 「タダでいくらでも休めて
 　生演奏まで聞けて。
 　こんな施設なかなかありませんよ。
-> CONTEXT: Map360/events/4/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map361/events/4/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map360/events/21/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map361/events/21/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map213/events/21/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map360/events/4/pages/0/2/Dialogue
+> CONTEXT: Map361/events/4/pages/0/2/Dialogue
+> CONTEXT: Map360/events/21/pages/0/2/Dialogue
+> CONTEXT: Map361/events/21/pages/0/2/Dialogue
+> CONTEXT: Map213/events/21/pages/0/2/Dialogue
+「You can rest for free and as much as you want, 
+　and even listen to live music. 
+　You won't find a facility like this anywhere else.
 > END STRING
 
 > BEGIN STRING
 "シスター"
-> CONTEXT: Map360/events/5/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map361/events/5/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map213/events/5/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map214/events/7/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map214/events/7/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map214/events/7/pages/2/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map214/events/17/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map214/events/20/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map214/events/20/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map360/events/5/pages/0/0/InlineScript/1:4
+> CONTEXT: Map361/events/5/pages/0/0/InlineScript/1:4
+> CONTEXT: Map213/events/5/pages/0/0/InlineScript/1:4
+> CONTEXT: Map214/events/7/pages/0/0/InlineScript/1:4
+> CONTEXT: Map214/events/7/pages/1/0/InlineScript/1:4
+> CONTEXT: Map214/events/7/pages/2/0/InlineScript/1:4
+> CONTEXT: Map214/events/17/pages/1/0/InlineScript/1:4
+> CONTEXT: Map214/events/20/pages/0/0/InlineScript/1:4
+> CONTEXT: Map214/events/20/pages/1/0/InlineScript/1:4
+"Sister"
 > END STRING
 
 > BEGIN STRING
 「昔はこの教会で結婚式をあげに、
 　わざわざ王都から来る方も
 　たくさんいらっしゃったんですよ。
-> CONTEXT: Map360/events/5/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map361/events/5/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map213/events/5/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map360/events/5/pages/0/1/Dialogue
+> CONTEXT: Map361/events/5/pages/0/1/Dialogue
+> CONTEXT: Map213/events/5/pages/0/1/Dialogue
+「In the past, many people would come 
+　all the way from the royal capital 
+　to hold their weddings at this church.
 > END STRING
 
 > BEGIN STRING
@@ -129,47 +133,51 @@
 
 > BEGIN STRING
 "青年"
-> CONTEXT: Map360/events/22/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map361/events/22/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map213/events/22/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map213/events/22/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map360/events/22/pages/0/0/InlineScript/1:4
+> CONTEXT: Map361/events/22/pages/0/0/InlineScript/1:4
+> CONTEXT: Map213/events/22/pages/0/0/InlineScript/1:4
+> CONTEXT: Map213/events/22/pages/1/0/InlineScript/1:4
+"Young Man"
 > END STRING
 
 > BEGIN STRING
 「神よ、道具屋のあの子と
 　もっと仲良くなれますように……
-> CONTEXT: Map360/events/22/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map361/events/22/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map213/events/22/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map360/events/22/pages/0/1/Dialogue
+> CONTEXT: Map361/events/22/pages/0/1/Dialogue
+> CONTEXT: Map213/events/22/pages/0/1/Dialogue
+「God, let me become closer 
+　to that girl from the tool shop...
 > END STRING
 
 > BEGIN STRING
 「よければ次行った時には、
 　さりげなく手など握らせて……
-> CONTEXT: Map360/events/22/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map361/events/22/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map213/events/22/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map360/events/22/pages/0/3/Dialogue
+> CONTEXT: Map361/events/22/pages/0/3/Dialogue
+> CONTEXT: Map213/events/22/pages/0/3/Dialogue
+「If it's okay, let me hold her hand
+　casually next time...
 > END STRING
 
 > BEGIN STRING
 「え、あ！
 　あ、今のなしです！
-> CONTEXT: Map360/events/22/pages/0/8/Dialogue < UNTRANSLATED
-> CONTEXT: Map361/events/22/pages/0/8/Dialogue < UNTRANSLATED
-> CONTEXT: Map213/events/22/pages/0/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map360/events/22/pages/0/8/Dialogue
+> CONTEXT: Map361/events/22/pages/0/8/Dialogue
+> CONTEXT: Map213/events/22/pages/0/8/Dialogue
+「Eh, ah!
+　Oh, that was nothing!
 > END STRING
 
 > BEGIN STRING
 「エーランドの教えのもと
 　人々が平和に…ぶつぶつ……
-> CONTEXT: Map360/events/22/pages/0/13/Dialogue < UNTRANSLATED
-> CONTEXT: Map361/events/22/pages/0/13/Dialogue < UNTRANSLATED
-> CONTEXT: Map213/events/22/pages/0/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map360/events/22/pages/0/13/Dialogue
+> CONTEXT: Map361/events/22/pages/0/13/Dialogue
+> CONTEXT: Map213/events/22/pages/0/13/Dialogue
+「Under Ehland's teachings, 
+　let people live in peace...*mumble*...
 > END STRING
 
 > BEGIN STRING
@@ -186,8 +194,8 @@
 
 > BEGIN STRING
 祈りに夢中で気づかないようだ
-> CONTEXT: Map360/events/23/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map361/events/23/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map213/events/23/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map360/events/23/pages/0/3/Dialogue
+> CONTEXT: Map361/events/23/pages/0/3/Dialogue
+> CONTEXT: Map213/events/23/pages/0/3/Dialogue
+Too engrossed in prayer to notice
 > END STRING

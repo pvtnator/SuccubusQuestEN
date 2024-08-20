@@ -2,8 +2,9 @@
 > BEGIN STRING
 「…………！
 　……寒い…………
-> CONTEXT: Map228/events/2/pages/0/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map228/events/2/pages/0/5/Dialogue
+「.....!
+...Cold.....
 > END STRING
 
 > BEGIN STRING
@@ -42,37 +43,38 @@
 
 > BEGIN STRING
 「ああ、やっと……
-> CONTEXT: Map228/events/2/pages/0/23/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map228/events/2/pages/0/23/Dialogue
+「Ah, finally...
 > END STRING
 
 > BEGIN STRING
 「やっと来てくれたのね………
-> CONTEXT: Map228/events/2/pages/0/24/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map228/events/2/pages/0/24/Dialogue
+「Someone finally came...
 > END STRING
 
 > BEGIN STRING
 「でも…もう……、
 　ああ………
-> CONTEXT: Map228/events/2/pages/0/25/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map228/events/2/pages/0/25/Dialogue
+「But...already...
+　Ahh...
 > END STRING
 
 > BEGIN STRING
 「やめて…私に……
-> CONTEXT: Map228/events/2/pages/0/33/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map228/events/2/pages/0/33/Dialogue
+「Stop it...for me...
 > END STRING
 
 > BEGIN STRING
 「\\dあなたをこごえさせないで\\d…！
-> CONTEXT: Map228/events/2/pages/0/34/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map228/events/2/pages/0/34/Dialogue
+「\\dDon't freeze\\d...!
 > END STRING
 
 > BEGIN STRING
 「あぁッ………\\e[0]
-> CONTEXT: Map228/events/2/pages/0/69/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map228/events/2/pages/0/69/Dialogue
+「Aah...\\e[0]
 > END STRING

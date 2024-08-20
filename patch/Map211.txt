@@ -365,5 +365,5 @@ Go back
 > CONTEXT: Map211/events/30/pages/1/2/Choice/1
 > CONTEXT: Map211/events/31/pages/1/2/Choice/1
 > CONTEXT: Map211/events/32/pages/1/2/Choice/1
-The Eternal Ice Palace
+Eternal Ice Palace
 > END STRING

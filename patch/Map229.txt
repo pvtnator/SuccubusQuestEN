@@ -2,71 +2,82 @@
 > BEGIN STRING
 「ああ……、
 　ありがとう………。
-> CONTEXT: Map229/events/5/pages/0/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map229/events/5/pages/0/5/Dialogue
+「Ahh...
+　Thank you...
 > END STRING
 
 > BEGIN STRING
 「……この寒さは
 　あなたのせいだったんじゃないの？
-> CONTEXT: Map229/events/5/pages/0/31/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map229/events/5/pages/0/31/Dialogue
+「...This cold,
+　was it because of you?
 > END STRING
 
 > BEGIN STRING
 「いいえ……。
 　これは、もっと恐ろしいものが
 　もたらした力………
-> CONTEXT: Map229/events/5/pages/0/34/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map229/events/5/pages/0/34/Dialogue
+「No...
+　This is a power brought about 
+　by something far more terrifying...
 > END STRING
 
 > BEGIN STRING
 「そう……、
 　魔王と呼ばれるものの………
-> CONTEXT: Map229/events/5/pages/0/37/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map229/events/5/pages/0/37/Dialogue
+「Yes...
+　the one called the Demon Lord...
 > END STRING
 
 > BEGIN STRING
 「私が夢魔に身を委ねたのは、
 　人々を寒さから解き放ち
 　この地に再び生を吹き込むため。
-> CONTEXT: Map229/events/5/pages/0/39/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map229/events/5/pages/0/39/Dialogue
+「I gave myself over to the succubi 
+　in order to free the people from the cold 
+　and breathe life back into this land.
 > END STRING
 
 > BEGIN STRING
 「しかしそれも届かず、
 　逆に私の力が
 　暴走してしまっていた……。
-> CONTEXT: Map229/events/5/pages/0/42/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map229/events/5/pages/0/42/Dialogue
+「But that didn't work out, 
+　and instead my powers 
+　went out of control...
 > END STRING
 
 > BEGIN STRING
 「勇者よ、あなたが来てくれて
 　ほんとうに良かった。
-> CONTEXT: Map229/events/5/pages/0/45/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map229/events/5/pages/0/45/Dialogue
+「Hero, I'm so glad you came.
 > END STRING
 
 > BEGIN STRING
 「この悦びを！
 　生のぬくもりを！
-> CONTEXT: Map229/events/5/pages/0/51/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map229/events/5/pages/0/51/Dialogue
+「This joy!
+　The warmth of life!
 > END STRING
 
 > BEGIN STRING
 「再び、この地に……
 　全ての生命に……！
-> CONTEXT: Map229/events/5/pages/0/53/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map229/events/5/pages/0/53/Dialogue
+「Once again, to this land...
+　to all life...!
 > END STRING
 
 > BEGIN STRING
 不思議な寒さが消えた！
-> CONTEXT: Map229/events/5/pages/0/62/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map229/events/5/pages/0/62/Dialogue
+The mysterious cold has disappeared!
 > END STRING

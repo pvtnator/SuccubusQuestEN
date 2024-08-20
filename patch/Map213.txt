@@ -2,305 +2,334 @@
 > BEGIN STRING
 「いけません………
 　私は……神に………
-> CONTEXT: Map213/events/5/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map213/events/5/pages/1/1/Dialogue
+「No...
+　I...to God...
 > END STRING
 
 > BEGIN STRING
 「……ぁンッ…………\\e[0]
-> CONTEXT: Map213/events/5/pages/1/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map213/events/5/pages/1/3/Dialogue
+「...Ahh.....\\e[0]
 > END STRING
 
 > BEGIN STRING
 「爺さんや……………
 　なんじゃかわし……若返って………
-> CONTEXT: Map213/events/6/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map213/events/6/pages/1/1/Dialogue
+「Old man.....
+　What's this... You've become younger...
 > END STRING
 
 > BEGIN STRING
 幸せそうな顔で眠っている……
-> CONTEXT: Map213/events/6/pages/1/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map213/events/22/pages/1/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map214/events/20/pages/1/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map042/events/8/pages/2/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map051/events/13/pages/1/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map213/events/6/pages/1/4/Dialogue
+> CONTEXT: Map213/events/22/pages/1/4/Dialogue
+> CONTEXT: Map214/events/20/pages/1/4/Dialogue
+> CONTEXT: Map042/events/8/pages/2/3/Dialogue
+> CONTEXT: Map051/events/13/pages/1/4/Dialogue
+Sleeping with a happy face...
 > END STRING
 
 > BEGIN STRING
 「早く……
 　あの…夢魔を………\\a[140]
-> CONTEXT: Map213/events/17/pages/1/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map213/events/17/pages/1/13/Dialogue
+「Hurry... 
+　that...succubus...\\a[140]
 > END STRING
 
 > BEGIN STRING
 「待てよ！
 　一体何を……\\a[100]
-> CONTEXT: Map213/events/17/pages/1/55/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map213/events/17/pages/1/55/Dialogue
+「Wait!
+　What on earth are you...\\a[100]
 > END STRING
 
 > BEGIN STRING
 「分からんのかッ！？
-> CONTEXT: Map213/events/17/pages/1/62/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map213/events/17/pages/1/62/Dialogue
+「Don't you understand?!
 > END STRING
 
 > BEGIN STRING
 「あのエストという夢魔が、
 　魔王城でしようとしていたこと……
-> CONTEXT: Map213/events/17/pages/1/63/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map213/events/17/pages/1/63/Dialogue
+「What that succubus called Est 
+　was trying to do at the Demon Lord's Castle...
 > END STRING
 
 > BEGIN STRING
 「魔力の高い者を集め、
 　邪魔な魔王の力を排除し、
-> CONTEXT: Map213/events/17/pages/1/65/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map213/events/17/pages/1/65/Dialogue
+「Is to gather those with high magical powers,
+　and eliminate the power of the Demon Lord,
 > END STRING
 
 > BEGIN STRING
 「そして……
-> CONTEXT: Map213/events/17/pages/1/67/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map213/events/17/pages/1/67/Dialogue
+「And...
 > END STRING
 
 > BEGIN STRING
 「………遅かったかッ！
-> CONTEXT: Map213/events/17/pages/1/124/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map213/events/17/pages/1/124/Dialogue
+「...too late!
 > END STRING
 
 > BEGIN STRING
 「ハァイ、
 　また会えたわね\\e[0]
-> CONTEXT: Map213/events/17/pages/1/130/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map213/events/17/pages/1/130/Dialogue
+「Hi~,
+　Mice to meet you again\\e[0]
 > END STRING
 
 > BEGIN STRING
 「あいつは…ッ！
-> CONTEXT: Map213/events/17/pages/1/217/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map213/events/17/pages/1/217/Dialogue
+「It's her!
 > END STRING
 
 > BEGIN STRING
 「夢魔が……
 　いえ、夜の国が…………
-> CONTEXT: Map213/events/17/pages/1/219/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map213/events/17/pages/1/219/Dialogue
+「The succubus... 
+　No, the Land of Night...
 > END STRING
 
 > BEGIN STRING
 「こんな街中で……！？
-> CONTEXT: Map213/events/17/pages/1/221/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map213/events/17/pages/1/221/Dialogue
+「In the middle of a city like this...?
 > END STRING
 
 > BEGIN STRING
 「始まって……しまったか……！
-> CONTEXT: Map213/events/17/pages/1/227/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map213/events/17/pages/1/227/Dialogue
+「It has already started...damnit...!
 > END STRING
 
 > BEGIN STRING
 「あら、
 　みんな無事だったのね……
-> CONTEXT: Map213/events/17/pages/1/237/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map213/events/17/pages/1/237/Dialogue
+「Oh, 
+　everyone's safe...
 > END STRING
 
 > BEGIN STRING
 「嬉しいわぁ。
 　またあなたたちを味わえるなんて\\e[0]
-> CONTEXT: Map213/events/17/pages/1/242/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map213/events/17/pages/1/242/Dialogue
+「I'm so happy. 
+　I can enjoy it with you guys again\\e[0]
 > END STRING
 
 > BEGIN STRING
 「おちょくりやがってッ！
 　やろうってのかッ！！
-> CONTEXT: Map213/events/17/pages/1/253/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map213/events/17/pages/1/253/Dialogue
+「Stop making fun of us! 
+　Go ahead and try!!
 > END STRING
 
 > BEGIN STRING
 「嫌よぉ。
 　こんな野暮な場所じゃ……
-> CONTEXT: Map213/events/17/pages/1/256/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map213/events/17/pages/1/256/Dialogue
+「I don't think so.
+　In such a boorish place...
 > END STRING
 
 > BEGIN STRING
 「もっといいところへ
 　連れてってアゲル……\\e[0]
-> CONTEXT: Map213/events/17/pages/1/258/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map213/events/17/pages/1/258/Dialogue
+「I'll take you 
+　to a better place...\\e[0]
 > END STRING
 
 > BEGIN STRING
 「……ぅ………………
-> CONTEXT: Map213/events/17/pages/1/340/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map213/events/17/pages/1/340/Dialogue
+「...!.......
 > END STRING
 
 > BEGIN STRING
 「なんだ………？
 　意識……が………………
-> CONTEXT: Map213/events/17/pages/1/341/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map213/events/17/pages/1/341/Dialogue
+「What...?
+　My...conciousness.....
 > END STRING
 
 > BEGIN STRING
 「く………！
-> CONTEXT: Map213/events/17/pages/1/365/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map213/events/17/pages/1/365/Dialogue
+「Gh...!
 > END STRING
 
 > BEGIN STRING
 「さすがに
 　\\dかけら\\dを持ってるあなたたちは
 　平気みたいね。
-> CONTEXT: Map213/events/17/pages/1/376/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map213/events/17/pages/1/376/Dialogue
+「As expected, you who possess \\dfragments\\d 
+　seem to be fine.
 > END STRING
 
 > BEGIN STRING
 「ま、いいわ。
 　お楽しみがいっぱい
 　\\dこっち\\dにきたから\\e[0]
-> CONTEXT: Map213/events/17/pages/1/379/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map213/events/17/pages/1/379/Dialogue
+「Well, that's fine.
+　There's a lot of fun to be had
+　Because I'm \\dhere\\d\\e[0]
 > END STRING
 
 > BEGIN STRING
 「あなたたちはいつまで
 　耐えられるかしら？
-> CONTEXT: Map213/events/17/pages/1/396/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map213/events/17/pages/1/396/Dialogue
+「How long can you guys endure?
 > END STRING
 
 > BEGIN STRING
 「まわりがみんな、
 　夢になっちゃっても……
-> CONTEXT: Map213/events/17/pages/1/398/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map213/events/17/pages/1/398/Dialogue
+「Even if everything all around 
+　becomes a dream...
 > END STRING
 
 > BEGIN STRING
 「ここは……
 　ここは夢ではない！
-> CONTEXT: Map213/events/17/pages/1/406/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map213/events/17/pages/1/406/Dialogue
+「This is...
+　This is not a dream!
 > END STRING
 
 > BEGIN STRING
 「ここは\\r[現世,うつしよ]だ！
 　まやかしよ去れッ！！
-> CONTEXT: Map213/events/17/pages/1/408/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map213/events/17/pages/1/408/Dialogue
+「This is reality! 
+　Take you illusion away from here!!
 > END STRING
 
 > BEGIN STRING
 「あははっ、
 　もうへろへろのくせに強がっちゃって……
 　カワイイわねぇ\\e[0]
-> CONTEXT: Map213/events/17/pages/1/411/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map213/events/17/pages/1/411/Dialogue
+「Ahahah,
+　Despite being exhausted, you're acting tough...
+　So cute\\e[0]
 > END STRING
 
 > BEGIN STRING
 「また近いうちに
 　会えるといいわね\\e[0]
-> CONTEXT: Map213/events/17/pages/1/414/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map213/events/17/pages/1/414/Dialogue
+「I hope we will
+　meet again soon\\e[0]
 > END STRING
 
 > BEGIN STRING
 「眠ってるわ……みんな……
-> CONTEXT: Map213/events/17/pages/1/436/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map213/events/17/pages/1/436/Dialogue
+「They're all...asleep...
 > END STRING
 
 > BEGIN STRING
 「何が起こったの……？
-> CONTEXT: Map213/events/17/pages/1/439/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map213/events/17/pages/1/439/Dialogue
+「What happened...?
 > END STRING
 
 > BEGIN STRING
 「………夜の国だ。
-> CONTEXT: Map213/events/17/pages/1/445/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map213/events/17/pages/1/445/Dialogue
+「...It's the Land of Night.
 > END STRING
 
 > BEGIN STRING
 「この世界が、夜の国の一部に
 　\\dなりはじめている\\dのだ。
-> CONTEXT: Map213/events/17/pages/1/446/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map213/events/17/pages/1/446/Dialogue
+「This world is \\dbeginning to become\\d
+　a part of the Land of Night.
 > END STRING
 
 > BEGIN STRING
 「まずは、こうして
 　眠る人々の意識が
 　連れ去られ……
-> CONTEXT: Map213/events/17/pages/1/448/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map213/events/17/pages/1/448/Dialogue
+「First of all, the consciousness of those 
+　who are sleeping like this is being taken away...
 > END STRING
 
 > BEGIN STRING
 「そして、いずれは
 　世界そのものが…………
-> CONTEXT: Map213/events/17/pages/1/451/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map213/events/17/pages/1/451/Dialogue
+「And eventually,
+　the world itself...
 > END STRING
 
 > BEGIN STRING
 「止める方法はないの！？
-> CONTEXT: Map213/events/17/pages/1/454/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map213/events/17/pages/1/454/Dialogue
+「Is there no way to stop it!?
 > END STRING
 
 > BEGIN STRING
 「………ここでは
 　いつ夢魔が来るか分からん。
-> CONTEXT: Map213/events/17/pages/1/456/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map213/events/17/pages/1/456/Dialogue
+「...Here, you never know 
+　when a succubus might come.
 > END STRING
 
 > BEGIN STRING
 「グルッペンへ来い。
 　そこで………
-> CONTEXT: Map213/events/17/pages/1/458/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map213/events/17/pages/1/458/Dialogue
+「Come to Gruppen.
+　There...
 > END STRING
 
 > BEGIN STRING
 「全てを……。
-> CONTEXT: Map213/events/17/pages/1/460/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map213/events/17/pages/1/460/Dialogue
+「Everything...
 > END STRING
 
 > BEGIN STRING
 「……行きましょう、\\n[1]。
-> CONTEXT: Map213/events/17/pages/1/498/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map213/events/17/pages/1/498/Dialogue
+「...Let's go, \\n[1].
 > END STRING
 
 > BEGIN STRING
 「…………神様…………
 　……………ありがとう……
-> CONTEXT: Map213/events/22/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map213/events/22/pages/1/1/Dialogue
+「.....God.....
+　......Thank you...
 > END STRING
 
 > BEGIN STRING
 安らかな顔で眠っている
-> CONTEXT: Map213/events/23/pages/1/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map213/events/23/pages/1/3/Dialogue
+Sleeping with a peaceful face
 > END STRING
