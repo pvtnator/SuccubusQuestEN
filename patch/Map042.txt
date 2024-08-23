@@ -254,9 +254,9 @@
 　まさか賢王様がお一人で
 　夢魔に立ち向かっていたとは…！
 > CONTEXT: Map042/events/5/pages/3/21/Dialogue
-「What a thing to happen! 
+「What a turn of events! 
 　I can't believe that the Wise King 
-　was facing off against the succubus all by himself!
+　was facing off against the succubi all by himself!
 > END STRING
 
 > BEGIN STRING
@@ -278,7 +278,7 @@
 　これを使い賢王様のもとへ……！
 > CONTEXT: Map042/events/5/pages/3/30/Dialogue
 「For now, 
-　let's use this and go to the Wise King...!
+　use this and go to the Wise King...!
 > END STRING
 
 > BEGIN STRING
@@ -314,7 +314,7 @@
 　どうすればいいの？
 > CONTEXT: Map042/events/5/pages/3/59/Dialogue
 「What is this? 
-　What should I do?
+　What do we do with it?
 > END STRING
 
 > BEGIN STRING

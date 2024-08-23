@@ -7,21 +7,22 @@
 
 > BEGIN STRING
 もうこれ以上夢は見れない
-> CONTEXT: Commonevents/13/22/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/13/22/Dialogue
+Can't dream anymore
 > END STRING
 
 > BEGIN STRING
 ここでは使えない
-> CONTEXT: Commonevents/13/31/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/13/31/Dialogue
+Not available here
 > END STRING
 
 > BEGIN STRING
 ビトルを連れたまま
 それを使うことはできない
-> CONTEXT: Commonevents/13/40/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/13/40/Dialogue
+Can't use while 
+Vitor is with you
 > END STRING
 
 > BEGIN STRING
@@ -55,47 +56,48 @@
 
 > BEGIN STRING
 現在のマップ：\\v[1]
-> CONTEXT: Commonevents/21/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/21/8/Dialogue
+Current map: \\v[1]
 > END STRING
 
 > BEGIN STRING
 レベル設定
-> CONTEXT: Commonevents/21/9/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Commonevents/21/9/Choice/0
+Level Settings
 > END STRING
 
 > BEGIN STRING
 所持金設定
-> CONTEXT: Commonevents/21/9/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Commonevents/21/9/Choice/1
+Money Settings
 > END STRING
 
 > BEGIN STRING
 全回復
-> CONTEXT: Commonevents/21/9/Choice/2 < UNTRANSLATED
-
+> CONTEXT: Commonevents/21/9/Choice/2
+Full recovery
 > END STRING
 
 > BEGIN STRING
 ビトルを連れて
 そこに行くことはできない
-> CONTEXT: Commonevents/22/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/22/5/Dialogue
+Can't take Vitor there.
 > END STRING
 
 > BEGIN STRING
 クリスティンを連れて
 そこに行くことはできない
-> CONTEXT: Commonevents/22/17/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/22/17/Dialogue
+Can't take Christine there.
 > END STRING
 
 > BEGIN STRING
 「\\n[1]…
 　いっぱい話しかけてくれたわね。
-> CONTEXT: Commonevents/23/22/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/23/22/Dialogue
+「\\n[1]...
+　You talked to me a lot.
 > END STRING
 
 > BEGIN STRING
@@ -146,63 +148,70 @@
 > BEGIN STRING
 「どうしてかしら、ここ、
 　いるだけで楽しくてわくわくして……
-> CONTEXT: Commonevents/23/77/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/23/77/Dialogue
+「I don't know why, 
+　but just being here makes me feel happy and excited...
 > END STRING
 
 > BEGIN STRING
 「…だけど、すごく嫌な気分……。
-> CONTEXT: Commonevents/23/79/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/23/79/Dialogue
+「But I feel so bad...
 > END STRING
 
 > BEGIN STRING
 「どんどん人が眠っていってるわ……
-> CONTEXT: Commonevents/23/84/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/23/84/Dialogue
+「More and more people are falling asleep...
 > END STRING
 
 > BEGIN STRING
 「みんな夜の国へ
 　連れ去られてるのよ。
 　早く助けなきゃ。
-> CONTEXT: Commonevents/23/85/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/23/85/Dialogue
+「Everyone's been taken away 
+　to the Land of Night. 
+　We must rescue them quickly.
 > END STRING
 
 > BEGIN STRING
 「魔法の準備ができたら、
 　いよいよ夜の国へ向かうのね…
-> CONTEXT: Commonevents/23/95/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/23/95/Dialogue
+「Once the magic is ready,
+　it's time to head to the Land of Night...
 > END STRING
 
 > BEGIN STRING
 「\\n[1]……、
 　\\n[1]は負けないわよね。
 　夢魔にも、\\dかけら\\dの力にも…。
-> CONTEXT: Commonevents/23/97/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/23/97/Dialogue
+「\\n[1]...
+　\\n[1] won't lose.
+　Not to the succubi, nor the power of the \\dfragments\\d...
 > END STRING
 
 > BEGIN STRING
 「自分でグルッペンに来いとか
 　言っときながら……
 　一体どこ行ったのかしら？
-> CONTEXT: Commonevents/23/105/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/23/105/Dialogue
+「He told us to come to Gruppen... 
+　but where on earth did he go?
 > END STRING
 
 > BEGIN STRING
 「みんな…みんな眠ってるわ……
-> CONTEXT: Commonevents/23/113/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/23/113/Dialogue
+「Everyone...everyone is asleep...
 > END STRING
 
 > BEGIN STRING
 「はやく連れ戻さなきゃ…\\n[1]！
-> CONTEXT: Commonevents/23/114/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/23/114/Dialogue
+「We must bring them back quickly...\\n[1]!
 > END STRING
 
 > BEGIN STRING
@@ -254,16 +263,19 @@
 > BEGIN STRING
 「早く気になってること解決して、
 　魔王城へいきましょ！
-> CONTEXT: Commonevents/23/157/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/23/157/Dialogue
+「Let's quickly resolve whatever is bothering you 
+　and then head to the Demon Lord's Castle!
 > END STRING
 
 > BEGIN STRING
 「あの男…
 　人間のクセに夢魔に味方するなんて
 　信じらんないわ！
-> CONTEXT: Commonevents/23/164/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/23/164/Dialogue
+「That man...
+　I can't believe he's a human, 
+　but he's siding with the succubi!
 > END STRING
 
 > BEGIN STRING
@@ -5588,8 +5600,10 @@ Call \\v[1]
 「おお！
 　なんと\\c[4]夜の絵本\\c[0]の頁を
 　全て埋めてしまったのか！
-> CONTEXT: Commonevents/256/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/256/5/Dialogue
+「Wow!
+  You've filled up all the pages 
+  of the \\c[4]Night Picture Book\\c[0]!
 > END STRING
 
 > BEGIN STRING

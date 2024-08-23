@@ -219,8 +219,8 @@ Cooldown
 
 > BEGIN STRING
 アキュレイ
-> CONTEXT: States/38/name/ < UNTRANSLATED
-
+> CONTEXT: States/38/name/
+Accuracy
 > END STRING
 
 > BEGIN STRING

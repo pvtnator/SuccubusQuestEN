@@ -1389,14 +1389,14 @@ Ferry ticket from Friberg to Poppana
 
 > BEGIN STRING
 デフィーラの花
-> CONTEXT: Items/257/name/ < UNTRANSLATED
-
+> CONTEXT: Items/257/name/
+Defira Flower
 > END STRING
 
 > BEGIN STRING
 セーデル砂漠の奥地に咲く魔力を秘めた花
-> CONTEXT: Items/257/description/ < UNTRANSLATED
-
+> CONTEXT: Items/257/description/
+A flower with magical powers that blooms deep in the Seder Desert.
 > END STRING
 
 > BEGIN STRING
@@ -1407,56 +1407,56 @@ Magic Academy Key
 
 > BEGIN STRING
 魔導院の地下へ降りるためのカギ
-> CONTEXT: Items/258/description/ < UNTRANSLATED
-
+> CONTEXT: Items/258/description/
+A key to descend into the basement of the Magic Academy.
 > END STRING
 
 > BEGIN STRING
 グルッペン章
-> CONTEXT: Items/259/name/ < UNTRANSLATED
-
+> CONTEXT: Items/259/name/
+Gruppen Badge
 > END STRING
 
 > BEGIN STRING
 グルッペンの紋章が刻印された重厚な金属板
-> CONTEXT: Items/259/description/ < UNTRANSLATED
-
+> CONTEXT: Items/259/description/
+A heavy metal plate engraved with the Gruppen coat of arms
 > END STRING
 
 > BEGIN STRING
 トネリコのたいまつ
-> CONTEXT: Items/260/name/ < UNTRANSLATED
-
+> CONTEXT: Items/260/name/
+Ash Torch
 > END STRING
 
 > BEGIN STRING
 トネリコの木でつくられたたいまつ
-> CONTEXT: Items/260/description/ < UNTRANSLATED
-
+> CONTEXT: Items/260/description/
+Torch made out of ash wood
 > END STRING
 
 > BEGIN STRING
 ビトルの火種
-> CONTEXT: Items/261/name/ < UNTRANSLATED
-
+> CONTEXT: Items/261/name/
+Vitor's Coal
 > END STRING
 
 > BEGIN STRING
 生ける炎ビトルの宿ったたいまつ
-> CONTEXT: Items/261/description/ < UNTRANSLATED
-
+> CONTEXT: Items/261/description/
+Dwelling of the Living Flame Vitor
 > END STRING
 
 > BEGIN STRING
 ビトルの炎
-> CONTEXT: Items/262/name/ < UNTRANSLATED
-
+> CONTEXT: Items/262/name/
+Vitor's Flame
 > END STRING
 
 > BEGIN STRING
 激しい魔力を宿した生ける炎
-> CONTEXT: Items/262/description/ < UNTRANSLATED
-
+> CONTEXT: Items/262/description/
+A living flame imbued with intense magic
 > END STRING
 
 > BEGIN STRING

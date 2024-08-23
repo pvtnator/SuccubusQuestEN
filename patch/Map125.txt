@@ -18,7 +18,7 @@
 　東の洞窟、その奥深くに咲いています。
 > CONTEXT: Map125/events/3/pages/1/1/Dialogue
 「The \\c[4]Defira Flower\\c[0] blooms 
-deep in a cave in the east of \\c[2]Seder Desert\\c[0].
+　deep in a cave in the east of \\c[2]Seder Desert\\c[0].
 > END STRING
 
 > BEGIN STRING
@@ -86,7 +86,7 @@ You're the hero \\n[1], right?
 　ホロスから来たのですが、
 > CONTEXT: Map125/events/7/pages/0/23/Dialogue
 「I came from Holos in search of the 
-　\\c[4]Defila Flower\\c[0] that blooms in the Seder, 
+　\\c[4]Defira Flower\\c[0] that blooms in the Seder, 
 　which is a miracle cure.
 > END STRING
 
@@ -211,7 +211,7 @@ You're the hero \\n[1], right?
 > CONTEXT: Map125/events/7/pages/2/49/Dialogue
 「Well then,
 　I should make medicine 
-　from the \\c[4]Defira flower\\c[0] right away.
+　from the \\c[4]Defira Flower\\c[0] right away.
 > END STRING
 
 > BEGIN STRING

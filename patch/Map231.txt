@@ -12,23 +12,23 @@ SQ_Castel01
 
 > BEGIN STRING
 魔術のために使う燭台のようだ
-> CONTEXT: Map231/events/2/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/12/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/2/pages/0/1/Dialogue
+> CONTEXT: Map231/events/12/pages/0/1/Dialogue
+It looks like a candlestick used for magic
 > END STRING
 
 > BEGIN STRING
 \\c[4]ビトルの炎\\c[0]を燭台に点けますか？
-> CONTEXT: Map231/events/2/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/12/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/2/pages/1/1/Dialogue
+> CONTEXT: Map231/events/12/pages/1/1/Dialogue
+Light \\c[4]Vitor's Flame\\c[0] in the candlestick?
 > END STRING
 
 > BEGIN STRING
 「ッホォゥ！
-> CONTEXT: Map231/events/2/pages/1/11/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/12/pages/1/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/2/pages/1/11/Dialogue
+> CONTEXT: Map231/events/12/pages/1/11/Dialogue
+「Hooo!
 > END STRING
 
 > BEGIN STRING
@@ -62,26 +62,26 @@ SQ_Castel01
 
 > BEGIN STRING
 「何かしら、これ……
-> CONTEXT: Map231/events/3/pages/0/47/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/49/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/49/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/47/Dialogue
+> CONTEXT: Map231/events/28/pages/0/49/Dialogue
+> CONTEXT: Map231/events/29/pages/0/49/Dialogue
+「What the, this...
 > END STRING
 
 > BEGIN STRING
 「\\n[1]さん！
-> CONTEXT: Map231/events/3/pages/0/80/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/82/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/82/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/80/Dialogue
+> CONTEXT: Map231/events/28/pages/0/82/Dialogue
+> CONTEXT: Map231/events/29/pages/0/82/Dialogue
+「\\n[1]!
 > END STRING
 
 > BEGIN STRING
 「お久しぶりですね、\\n[1]さん。
-> CONTEXT: Map231/events/3/pages/0/84/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/86/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/86/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/84/Dialogue
+> CONTEXT: Map231/events/28/pages/0/86/Dialogue
+> CONTEXT: Map231/events/29/pages/0/86/Dialogue
+「It's been a long time, \\n[1].
 > END STRING
 
 > BEGIN STRING
@@ -129,686 +129,756 @@ SQ_Castel01
 > BEGIN STRING
 「おお、ラルス殿！
 　申し訳ない！
-> CONTEXT: Map231/events/3/pages/0/97/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/99/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/99/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/97/Dialogue
+> CONTEXT: Map231/events/28/pages/0/99/Dialogue
+> CONTEXT: Map231/events/29/pages/0/99/Dialogue
+「Oh, Mr. Lars! 
+　I'm so sorry!
 > END STRING
 
 > BEGIN STRING
 「うっかりカギの使い方を
 　言い忘れるとは！
 　このグランマル不覚なり！
-> CONTEXT: Map231/events/3/pages/0/99/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/101/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/101/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/99/Dialogue
+> CONTEXT: Map231/events/28/pages/0/101/Dialogue
+> CONTEXT: Map231/events/29/pages/0/101/Dialogue
+「I forgot to say how to use the key! 
+　How careless of old Granmal!
 > END STRING
 
 > BEGIN STRING
 「……客って、
 　あなたたちのことだったの。
-> CONTEXT: Map231/events/3/pages/0/103/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/105/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/105/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/103/Dialogue
+> CONTEXT: Map231/events/28/pages/0/105/Dialogue
+> CONTEXT: Map231/events/29/pages/0/105/Dialogue
+「...So,
+　you were invited too.
 > END STRING
 
 > BEGIN STRING
 「何かご不満でも？
-> CONTEXT: Map231/events/3/pages/0/106/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/108/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/108/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/106/Dialogue
+> CONTEXT: Map231/events/28/pages/0/108/Dialogue
+> CONTEXT: Map231/events/29/pages/0/108/Dialogue
+「Are you dissatisfied?
 > END STRING
 
 > BEGIN STRING
 「世界最高の魔導士の魔術が
 　必要と聞きましてね。
-> CONTEXT: Map231/events/3/pages/0/107/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/109/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/109/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/107/Dialogue
+> CONTEXT: Map231/events/28/pages/0/109/Dialogue
+> CONTEXT: Map231/events/29/pages/0/109/Dialogue
+「I heard that they needed magic 
+　from the world's greatest wizard.
 > END STRING
 
 > BEGIN STRING
 「………あ、そう。
-> CONTEXT: Map231/events/3/pages/0/110/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/112/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/112/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/110/Dialogue
+> CONTEXT: Map231/events/28/pages/0/112/Dialogue
+> CONTEXT: Map231/events/29/pages/0/112/Dialogue
+「...Ah, I see.
 > END STRING
 
 > BEGIN STRING
 「そんなことより……、
 　これ一体何よ？
-> CONTEXT: Map231/events/3/pages/0/122/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/124/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/124/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/122/Dialogue
+> CONTEXT: Map231/events/28/pages/0/124/Dialogue
+> CONTEXT: Map231/events/29/pages/0/124/Dialogue
+「More importantly...
+　What on earth is this?
 > END STRING
 
 > BEGIN STRING
 「夜の国へ行くための魔法陣だ。
-> CONTEXT: Map231/events/3/pages/0/136/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/138/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/138/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/136/Dialogue
+> CONTEXT: Map231/events/28/pages/0/138/Dialogue
+> CONTEXT: Map231/events/29/pages/0/138/Dialogue
+「A magic circle to go to the Land of Night.
 > END STRING
 
 > BEGIN STRING
 「ここまで深く、この世界に夜の国が
 　入り込んでしまった以上、
-> CONTEXT: Map231/events/3/pages/0/159/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/161/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/161/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/159/Dialogue
+> CONTEXT: Map231/events/28/pages/0/161/Dialogue
+> CONTEXT: Map231/events/29/pages/0/161/Dialogue
+「Now that the Land of Night 
+　has penetrated so deeply into this world,
 > END STRING
 
 > BEGIN STRING
 「それを進めている
 　最も魔力の高い夢魔……
-> CONTEXT: Map231/events/3/pages/0/161/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/163/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/163/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/161/Dialogue
+> CONTEXT: Map231/events/28/pages/0/163/Dialogue
+> CONTEXT: Map231/events/29/pages/0/163/Dialogue
+「the one behind this,
+　a most powerful succubus...
 > END STRING
 
 > BEGIN STRING
 「……あのエストという夢魔を、
 　魔王の力で倒す他ない。
-> CONTEXT: Map231/events/3/pages/0/163/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/165/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/165/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/163/Dialogue
+> CONTEXT: Map231/events/28/pages/0/165/Dialogue
+> CONTEXT: Map231/events/29/pages/0/165/Dialogue
+「...that succubus called Est,
+　cannot be defeated by anything 
+　other than the power of the Demon Lord.
 > END STRING
 
 > BEGIN STRING
 「それには、我々が
 　直に夜の国へ
 　乗り込む必要があるのだ。
-> CONTEXT: Map231/events/3/pages/0/165/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/167/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/167/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/165/Dialogue
+> CONTEXT: Map231/events/28/pages/0/167/Dialogue
+> CONTEXT: Map231/events/29/pages/0/167/Dialogue
+「To do that, the only option is to 
+　go directly into the Land of Night.
 > END STRING
 
 > BEGIN STRING
 「……そのために、
 　私の魔術の出番というわけです。
-> CONTEXT: Map231/events/3/pages/0/177/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/179/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/179/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/177/Dialogue
+> CONTEXT: Map231/events/28/pages/0/179/Dialogue
+> CONTEXT: Map231/events/29/pages/0/179/Dialogue
+「...That's why
+　my magic comes into play.
 > END STRING
 
 > BEGIN STRING
 「魔王のことも気がかりですが、
 　この世界が別なものになってしまうのを
 　見過ごすわけにもいきませんからね。
-> CONTEXT: Map231/events/3/pages/0/179/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/181/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/181/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/179/Dialogue
+> CONTEXT: Map231/events/28/pages/0/181/Dialogue
+> CONTEXT: Map231/events/29/pages/0/181/Dialogue
+「I'm worried about the Demon Lord, 
+　but I can't just stand by and watch this world 
+　change into something completely different.
 > END STRING
 
 > BEGIN STRING
 「でも、今寝ちゃってる人たちは
 　もう夜の国にいるんでしょう？
-> CONTEXT: Map231/events/3/pages/0/183/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/185/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/185/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/183/Dialogue
+> CONTEXT: Map231/events/28/pages/0/185/Dialogue
+> CONTEXT: Map231/events/29/pages/0/185/Dialogue
+「But the people who are asleep right now 
+　are already in the Land of Night, right?
 > END STRING
 
 > BEGIN STRING
 「私たちも一緒に
 　寝ちゃえばいいんじゃないの？
-> CONTEXT: Map231/events/3/pages/0/185/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/187/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/187/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/185/Dialogue
+> CONTEXT: Map231/events/28/pages/0/187/Dialogue
+> CONTEXT: Map231/events/29/pages/0/187/Dialogue
+「Why don't we all just sleep?
 > END STRING
 
 > BEGIN STRING
 「ルヴィッサさん、
 　あなたは
 　見かけ通り頭が悪いようですね。
-> CONTEXT: Map231/events/3/pages/0/188/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/190/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/190/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/188/Dialogue
+> CONTEXT: Map231/events/28/pages/0/190/Dialogue
+> CONTEXT: Map231/events/29/pages/0/190/Dialogue
+「Rovissa,
+　it seems you're just as stupid as you look.
 > END STRING
 
 > BEGIN STRING
 「………ねえ、
 　私、痛い魔法も使えるんだけど。
-> CONTEXT: Map231/events/3/pages/0/192/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/194/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/194/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/192/Dialogue
+> CONTEXT: Map231/events/28/pages/0/194/Dialogue
+> CONTEXT: Map231/events/29/pages/0/194/Dialogue
+「...Hey,
+　I can use some magic that really hurts.
 > END STRING
 
 > BEGIN STRING
 「一発ブチ込んでもいい？
-> CONTEXT: Map231/events/3/pages/0/194/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/196/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/196/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/194/Dialogue
+> CONTEXT: Map231/events/28/pages/0/196/Dialogue
+> CONTEXT: Map231/events/29/pages/0/196/Dialogue
+「You wanna have a taste?
 > END STRING
 
 > BEGIN STRING
 「ほお、
 　この私と魔法で戦うつもりですか？
 　面白い。
-> CONTEXT: Map231/events/3/pages/0/198/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/200/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/200/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/198/Dialogue
+> CONTEXT: Map231/events/28/pages/0/200/Dialogue
+> CONTEXT: Map231/events/29/pages/0/200/Dialogue
+「Oh,
+　you're planning on fighting me with magic?
+　Interesting.
 > END STRING
 
 > BEGIN STRING
 「やめてよ、お父さんっ！
-> CONTEXT: Map231/events/3/pages/0/204/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/206/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/206/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/204/Dialogue
+> CONTEXT: Map231/events/28/pages/0/206/Dialogue
+> CONTEXT: Map231/events/29/pages/0/206/Dialogue
+「Stop it, dad!
 > END STRING
 
 > BEGIN STRING
 「……その方法で夜の国に行くには、
 　魔王の力を手放さなければ
 　ならないので意味が無い。
-> CONTEXT: Map231/events/3/pages/0/225/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/227/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/227/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/225/Dialogue
+> CONTEXT: Map231/events/28/pages/0/227/Dialogue
+> CONTEXT: Map231/events/29/pages/0/227/Dialogue
+「...To go to the Land of Night that way 
+　would mean giving up the power of the Demon Lord, 
+　so it's no use.
 > END STRING
 
 > BEGIN STRING
 「それに、眠りとは
 　我々の精神が限りなく
 　無防備になる世界。
-> CONTEXT: Map231/events/3/pages/0/228/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/230/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/230/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/228/Dialogue
+> CONTEXT: Map231/events/28/pages/0/230/Dialogue
+> CONTEXT: Map231/events/29/pages/0/230/Dialogue
+「Besides, sleeping is a world in which 
+　our minds become completely vulnerable.
 > END STRING
 
 > BEGIN STRING
 「魔王の力どころか、
 　夢魔を倒すという意志すら
 　保てるかあやしいだろう。
-> CONTEXT: Map231/events/3/pages/0/231/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/233/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/233/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/231/Dialogue
+> CONTEXT: Map231/events/28/pages/0/233/Dialogue
+> CONTEXT: Map231/events/29/pages/0/233/Dialogue
+「You would likely not have the will to defeat succubi, 
+　let alone use the power of the Demon Lord.
 > END STRING
 
 > BEGIN STRING
 「この魔法陣は、
 　夜の国とこの世界を
 　魔力でつなげるためのもの。
-> CONTEXT: Map231/events/3/pages/0/242/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/244/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/244/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/242/Dialogue
+> CONTEXT: Map231/events/28/pages/0/244/Dialogue
+> CONTEXT: Map231/events/29/pages/0/244/Dialogue
+「This magic circle 
+　is meant to connect the Land of Night 
+　with this world through magic.
 > END STRING
 
 > BEGIN STRING
 「これを発動することができれば、
 　覚醒した意識と力を持ったまま
 　夜の国へ行くことができる。
-> CONTEXT: Map231/events/3/pages/0/245/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/247/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/247/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/245/Dialogue
+> CONTEXT: Map231/events/28/pages/0/247/Dialogue
+> CONTEXT: Map231/events/29/pages/0/247/Dialogue
+「If you can activate this,
+　you will be able to enter the Land of Night
+　with awakened consciousness and powers.
 > END STRING
 
 > BEGIN STRING
 「私とバーンズ卿は、
 　魔法陣を発動させるための
 　魔力を蓄える。
-> CONTEXT: Map231/events/3/pages/0/248/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/250/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/250/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/248/Dialogue
+> CONTEXT: Map231/events/28/pages/0/250/Dialogue
+> CONTEXT: Map231/events/29/pages/0/250/Dialogue
+「Lord Burns and I 
+　will gather magic 
+　to activate the magic circle.
 > END STRING
 
 > BEGIN STRING
 「\\n[1]、お前には
 　発動のための触媒となる秘薬を
 　手に入れてきて欲しいのだ。
-> CONTEXT: Map231/events/3/pages/0/251/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/253/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/253/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/251/Dialogue
+> CONTEXT: Map231/events/28/pages/0/253/Dialogue
+> CONTEXT: Map231/events/29/pages/0/253/Dialogue
+「\\n[1], I want you to obtain the elixir 
+　that will act as a catalyst for its activation.
 > END STRING
 
 > BEGIN STRING
 「……それはいいけどさ。
-> CONTEXT: Map231/events/3/pages/0/255/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/257/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/257/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/255/Dialogue
+> CONTEXT: Map231/events/28/pages/0/257/Dialogue
+> CONTEXT: Map231/events/29/pages/0/257/Dialogue
+「...That's fine enough.
 > END STRING
 
 > BEGIN STRING
 「これ、ずいぶん古いものよね？
 　なんでこんなものが
 　準備してあるの？
-> CONTEXT: Map231/events/3/pages/0/256/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/258/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/258/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/256/Dialogue
+> CONTEXT: Map231/events/28/pages/0/258/Dialogue
+> CONTEXT: Map231/events/29/pages/0/258/Dialogue
+「But this is pretty old, isn't it?
+　Why do you have something like this prepared?
 > END STRING
 
 > BEGIN STRING
 「それに、どうして
 　そんなこと知ってるの？
 　\\dかけら\\dのこともそうよ。
-> CONTEXT: Map231/events/3/pages/0/260/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/262/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/262/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/260/Dialogue
+> CONTEXT: Map231/events/28/pages/0/262/Dialogue
+> CONTEXT: Map231/events/29/pages/0/262/Dialogue
+「And how do you know all this? 
+　The same goes for the \\dfragments\\d.
 > END STRING
 
 > BEGIN STRING
 「あなたは、一体…………
-> CONTEXT: Map231/events/3/pages/0/268/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/270/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/270/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/268/Dialogue
+> CONTEXT: Map231/events/28/pages/0/270/Dialogue
+> CONTEXT: Map231/events/29/pages/0/270/Dialogue
+「Who exactly are you...?
 > END STRING
 
 > BEGIN STRING
 「……これを最後に使ったのは、
 　私と私の友だからだ。
-> CONTEXT: Map231/events/3/pages/0/275/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/277/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/277/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/275/Dialogue
+> CONTEXT: Map231/events/28/pages/0/277/Dialogue
+> CONTEXT: Map231/events/29/pages/0/277/Dialogue
+「...The last time this was used, 
+　was for me and my friends.
 > END STRING
 
 > BEGIN STRING
 「夢魔が最後にこの世界に現れたのは、
 　文献にあるような大昔ではない。
-> CONTEXT: Map231/events/3/pages/0/280/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/282/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/282/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/280/Dialogue
+> CONTEXT: Map231/events/28/pages/0/282/Dialogue
+> CONTEXT: Map231/events/29/pages/0/282/Dialogue
+「The last time a succubus appeared in this world
+　was not that long ago as stated in the documents.
 > END STRING
 
 > BEGIN STRING
 「つい最近……
 　そう、十五年前のことだ。
-> CONTEXT: Map231/events/3/pages/0/282/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/284/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/284/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/282/Dialogue
+> CONTEXT: Map231/events/28/pages/0/284/Dialogue
+> CONTEXT: Map231/events/29/pages/0/284/Dialogue
+「Just recently...
+　Yes, that was 15 years ago.
 > END STRING
 
 > BEGIN STRING
 「現れたのはごく僅かな数で、
 　気づく者もほとんどいなかった。
-> CONTEXT: Map231/events/3/pages/0/284/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/286/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/286/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/284/Dialogue
+> CONTEXT: Map231/events/28/pages/0/286/Dialogue
+> CONTEXT: Map231/events/29/pages/0/286/Dialogue
+「Only a very few showed up,
+　and hardly anyone noticed.
 > END STRING
 
 > BEGIN STRING
 「……だが、
 　奴らは友の恋人を犯し……、
-> CONTEXT: Map231/events/3/pages/0/286/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/288/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/288/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/286/Dialogue
+> CONTEXT: Map231/events/28/pages/0/288/Dialogue
+> CONTEXT: Map231/events/29/pages/0/288/Dialogue
+「...But they raped my friend's lover...
 > END STRING
 
 > BEGIN STRING
 「そればかりか、彼女を
 　夜の国へ連れさらってしまった。
-> CONTEXT: Map231/events/3/pages/0/288/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/290/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/290/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/288/Dialogue
+> CONTEXT: Map231/events/28/pages/0/290/Dialogue
+> CONTEXT: Map231/events/29/pages/0/290/Dialogue
+「Not only that, 
+　but they took her away to the Land of Night.
 > END STRING
 
 > BEGIN STRING
 「私達は魔王とその力のことを調べ、
 　ひとそろいで封印されていた
 　\\dかけら\\dを手に入れ、
-> CONTEXT: Map231/events/3/pages/0/290/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/292/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/292/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/290/Dialogue
+> CONTEXT: Map231/events/28/pages/0/292/Dialogue
+> CONTEXT: Map231/events/29/pages/0/292/Dialogue
+「We researched the Demon Lord and his powers,
+　obtained the set of \\dfragments\\d
+　that were sealed away,
 > END STRING
 
 > BEGIN STRING
 「この魔法陣を用い、
 　夜の国へと向かった。
-> CONTEXT: Map231/events/3/pages/0/293/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/295/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/295/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/293/Dialogue
+> CONTEXT: Map231/events/28/pages/0/295/Dialogue
+> CONTEXT: Map231/events/29/pages/0/295/Dialogue
+「Using this magic circle,
+　we headed towards the Land of Night.
 > END STRING
 
 > BEGIN STRING
 「……魔王の力で
 　夢魔は倒され、
-> CONTEXT: Map231/events/3/pages/0/295/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/297/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/297/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/295/Dialogue
+> CONTEXT: Map231/events/28/pages/0/297/Dialogue
+> CONTEXT: Map231/events/29/pages/0/297/Dialogue
+「...With the power of the Demon Lord,
+　the succubi were defeated,
 > END STRING
 
 > BEGIN STRING
 「この世界に入ってくることも
 　できなくなった。
-> CONTEXT: Map231/events/3/pages/0/297/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/299/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/299/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/297/Dialogue
+> CONTEXT: Map231/events/28/pages/0/299/Dialogue
+> CONTEXT: Map231/events/29/pages/0/299/Dialogue
+「They could no longer
+　come to this world.
 > END STRING
 
 > BEGIN STRING
 「…しかし…………
 　……我が友もまた…………
-> CONTEXT: Map231/events/3/pages/0/305/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/307/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/307/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/305/Dialogue
+> CONTEXT: Map231/events/28/pages/0/307/Dialogue
+> CONTEXT: Map231/events/29/pages/0/307/Dialogue
+「...But...
+　...my friend...
 > END STRING
 
 > BEGIN STRING
 「人の姿で
 　戻ってくることはなかった………
-> CONTEXT: Map231/events/3/pages/0/307/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/309/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/309/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/307/Dialogue
+> CONTEXT: Map231/events/28/pages/0/309/Dialogue
+> CONTEXT: Map231/events/29/pages/0/309/Dialogue
+「He never returned 
+　in human form...
 > END STRING
 
 > BEGIN STRING
 「友の名は、
 　フランツ・ギルデンスターン。
-> CONTEXT: Map231/events/3/pages/0/319/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/321/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/321/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/319/Dialogue
+> CONTEXT: Map231/events/28/pages/0/321/Dialogue
+> CONTEXT: Map231/events/29/pages/0/321/Dialogue
+「My friend's name is 
+　Franz Guildenstern.
 > END STRING
 
 > BEGIN STRING
 「……友は、結局
 　恋人を助けることができなかった。
-> CONTEXT: Map231/events/3/pages/0/322/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/324/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/324/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/322/Dialogue
+> CONTEXT: Map231/events/28/pages/0/324/Dialogue
+> CONTEXT: Map231/events/29/pages/0/324/Dialogue
+「...In the end, 
+　my friend failed to save his lover.
 > END STRING
 
 > BEGIN STRING
 「奴はそれまで、
 　全てのかけらを手にしながらも
 　人の姿と意識を保っていたが、
-> CONTEXT: Map231/events/3/pages/0/324/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/326/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/326/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/324/Dialogue
+> CONTEXT: Map231/events/28/pages/0/326/Dialogue
+> CONTEXT: Map231/events/29/pages/0/326/Dialogue
+「Until then, he had retained 
+　his human form and consciousness 
+　even while holding all the fragments,
 > END STRING
 
 > BEGIN STRING
 「恋人を失った絶望が
 　魔王の力を呼び覚まし……、
-> CONTEXT: Map231/events/3/pages/0/327/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/329/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/329/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/327/Dialogue
+> CONTEXT: Map231/events/28/pages/0/329/Dialogue
+> CONTEXT: Map231/events/29/pages/0/329/Dialogue
+「The despair of losing a lover 
+　awakens the power of the Demon Lord...
 > END STRING
 
 > BEGIN STRING
 「夢魔を消し去り、
 　同時に友を魔王にした……。
-> CONTEXT: Map231/events/3/pages/0/329/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/331/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/331/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/329/Dialogue
+> CONTEXT: Map231/events/28/pages/0/331/Dialogue
+> CONTEXT: Map231/events/29/pages/0/331/Dialogue
+「The succubi were eradicated,
+　and at the same time,
+　my friend turned into the Demon Lord...
 > END STRING
 
 > BEGIN STRING
 「\\n[1]………………
-> CONTEXT: Map231/events/3/pages/0/338/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/340/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/340/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/338/Dialogue
+> CONTEXT: Map231/events/28/pages/0/340/Dialogue
+> CONTEXT: Map231/events/29/pages/0/340/Dialogue
+「\\n[1]......
 > END STRING
 
 > BEGIN STRING
 「似てるのだ。
 　お前とギルデンスターンは。
-> CONTEXT: Map231/events/3/pages/0/342/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/344/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/344/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/342/Dialogue
+> CONTEXT: Map231/events/28/pages/0/344/Dialogue
+> CONTEXT: Map231/events/29/pages/0/344/Dialogue
+「You two resemble each other. 
+　You and Guildenstern.
 > END STRING
 
 > BEGIN STRING
 「……でも……………
-> CONTEXT: Map231/events/3/pages/0/351/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/353/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/353/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/351/Dialogue
+> CONTEXT: Map231/events/28/pages/0/353/Dialogue
+> CONTEXT: Map231/events/29/pages/0/353/Dialogue
+「...But.....
 > END STRING
 
 > BEGIN STRING
 「それじゃやっぱり、夢魔を倒すには
 　誰かが魔王にならなきゃ
 　いけないんですか……？
-> CONTEXT: Map231/events/3/pages/0/359/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/361/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/361/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/359/Dialogue
+> CONTEXT: Map231/events/28/pages/0/361/Dialogue
+> CONTEXT: Map231/events/29/pages/0/361/Dialogue
+「So, in order to defeat the succubi, 
+　someone has to become the Demon Lord...?
 > END STRING
 
 > BEGIN STRING
 「それは\\dかけら\\dを持つ者次第だ。
-> CONTEXT: Map231/events/3/pages/0/363/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/365/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/365/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/363/Dialogue
+> CONTEXT: Map231/events/28/pages/0/365/Dialogue
+> CONTEXT: Map231/events/29/pages/0/365/Dialogue
+「That depends on who has the \\dfragments\\d.
 > END STRING
 
 > BEGIN STRING
 「私は結局、
 　その力を完全に引き出すことすら
 　できなかった……
-> CONTEXT: Map231/events/3/pages/0/364/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/366/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/366/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/364/Dialogue
+> CONTEXT: Map231/events/28/pages/0/366/Dialogue
+> CONTEXT: Map231/events/29/pages/0/366/Dialogue
+「In the end, 
+　I wasn't able to 
+　fully harness that power...
 > END STRING
 
 > BEGIN STRING
 「フッ、ギルデンスターンに
 　嫌われてしまったのかも知れんな。
-> CONTEXT: Map231/events/3/pages/0/367/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/369/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/369/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/367/Dialogue
+> CONTEXT: Map231/events/28/pages/0/369/Dialogue
+> CONTEXT: Map231/events/29/pages/0/369/Dialogue
+「Pft, maybe Guildenstern hates me.
 > END STRING
 
 > BEGIN STRING
 「そうだろう、『使い魔』よ。
-> CONTEXT: Map231/events/3/pages/0/369/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/371/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/371/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/369/Dialogue
+> CONTEXT: Map231/events/28/pages/0/371/Dialogue
+> CONTEXT: Map231/events/29/pages/0/371/Dialogue
+「That's right, 'Familiar'.
 > END STRING
 
 > BEGIN STRING
 「何で私にふるのよ？
-> CONTEXT: Map231/events/3/pages/0/376/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/378/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/378/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/376/Dialogue
+> CONTEXT: Map231/events/28/pages/0/378/Dialogue
+> CONTEXT: Map231/events/29/pages/0/378/Dialogue
+「Why are you looking at me?
 > END STRING
 
 > BEGIN STRING
 「お前はギルデンスターンの
 　意志の一部であるはずだ。
 　自覚はないのか。
-> CONTEXT: Map231/events/3/pages/0/378/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/380/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/380/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/378/Dialogue
+> CONTEXT: Map231/events/28/pages/0/380/Dialogue
+> CONTEXT: Map231/events/29/pages/0/380/Dialogue
+「You are part of Guildenstern's will. 
+　Don't you realize that?
 > END STRING
 
 > BEGIN STRING
 「……わかんないわ。　私…………
-> CONTEXT: Map231/events/3/pages/0/382/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/384/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/384/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/382/Dialogue
+> CONTEXT: Map231/events/28/pages/0/384/Dialogue
+> CONTEXT: Map231/events/29/pages/0/384/Dialogue
+「...I don't know. I...
 > END STRING
 
 > BEGIN STRING
 「…………でも、私は私よ。
-> CONTEXT: Map231/events/3/pages/0/383/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/385/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/385/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/383/Dialogue
+> CONTEXT: Map231/events/28/pages/0/385/Dialogue
+> CONTEXT: Map231/events/29/pages/0/385/Dialogue
+「.....But, I'm me.
 > END STRING
 
 > BEGIN STRING
 「だが、お前が
 　\\n[1]を選んだことには
 　意味があるはずだ。
-> CONTEXT: Map231/events/3/pages/0/385/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/387/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/387/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/385/Dialogue
+> CONTEXT: Map231/events/28/pages/0/387/Dialogue
+> CONTEXT: Map231/events/29/pages/0/387/Dialogue
+「Yet, there must be some meaning 
+　behind you choosing \\n[1].
 > END STRING
 
 > BEGIN STRING
 「……賭けるしかない。
 　\\n[1]に。
-> CONTEXT: Map231/events/3/pages/0/391/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/393/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/393/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/391/Dialogue
+> CONTEXT: Map231/events/28/pages/0/393/Dialogue
+> CONTEXT: Map231/events/29/pages/0/393/Dialogue
+「...No choice but to take a chance.
+　On \\n[1].
 > END STRING
 
 > BEGIN STRING
 「何にせよ、
 　夜の国の浸透を止めることが
 　先決です。
-> CONTEXT: Map231/events/3/pages/0/398/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/400/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/400/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/398/Dialogue
+> CONTEXT: Map231/events/28/pages/0/400/Dialogue
+> CONTEXT: Map231/events/29/pages/0/400/Dialogue
+「Whatever the case, our first priority 
+　is to stop the Land of Night's infiltration.
 > END STRING
 
 > BEGIN STRING
 「今はまだ
 　私達は平気なようですが、
-> CONTEXT: Map231/events/3/pages/0/401/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/403/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/403/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/401/Dialogue
+> CONTEXT: Map231/events/28/pages/0/403/Dialogue
+> CONTEXT: Map231/events/29/pages/0/403/Dialogue
+「For now,
+　things seems fine,
 > END STRING
 
 > BEGIN STRING
 「万一クリスティンが
 　夜の国にさらわれでもしたら……
-> CONTEXT: Map231/events/3/pages/0/403/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/405/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/405/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/403/Dialogue
+> CONTEXT: Map231/events/28/pages/0/405/Dialogue
+> CONTEXT: Map231/events/29/pages/0/405/Dialogue
+「But if Christine 
+　were to be kidnapped 
+　into the Land of Night...
 > END STRING
 
 > BEGIN STRING
 「……お父さん。
-> CONTEXT: Map231/events/3/pages/0/408/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/410/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/410/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/408/Dialogue
+> CONTEXT: Map231/events/28/pages/0/410/Dialogue
+> CONTEXT: Map231/events/29/pages/0/410/Dialogue
+「...Dad.
 > END STRING
 
 > BEGIN STRING
 「………コホン、
 　いや、失敬。
-> CONTEXT: Map231/events/3/pages/0/410/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/412/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/412/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/410/Dialogue
+> CONTEXT: Map231/events/28/pages/0/412/Dialogue
+> CONTEXT: Map231/events/29/pages/0/412/Dialogue
+「...Ahem,
+　No, excuse me.
 > END STRING
 
 > BEGIN STRING
 「\\n[1]さん、
 　そういうわけで一刻も早く
 　この魔法陣を動かす必要があります。
-> CONTEXT: Map231/events/3/pages/0/414/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/416/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/416/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/414/Dialogue
+> CONTEXT: Map231/events/28/pages/0/416/Dialogue
+> CONTEXT: Map231/events/29/pages/0/416/Dialogue
+「\\n[1],
+　That's why we need to 
+　activate this magic circle as soon as possible.
 > END STRING
 
 > BEGIN STRING
 「あなたに取ってきていただきたい触媒とは、
 　\\c[1]ロドヴィン火山\\c[0]で採れる
 　\\c[4]ビトルの炎\\c[0]というものです。
-> CONTEXT: Map231/events/3/pages/0/418/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/420/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/420/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/418/Dialogue
+> CONTEXT: Map231/events/28/pages/0/420/Dialogue
+> CONTEXT: Map231/events/29/pages/0/420/Dialogue
+「The catalyst I want you to bring 
+　is called \\c[4]Vitor's Flame\\c[0], 
+　which can be found in \\c[1]Rodvin Volcano\\c[0].
 > END STRING
 
 > BEGIN STRING
 「これはまず、
 　山の中腹にある『火の池』で
 　火種を手に入れ、
-> CONTEXT: Map231/events/3/pages/0/421/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/423/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/423/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/421/Dialogue
+> CONTEXT: Map231/events/28/pages/0/423/Dialogue
+> CONTEXT: Map231/events/29/pages/0/423/Dialogue
+「First, you need to get some coal 
+　from the Lake of Fire halfway up the mountain.
 > END STRING
 
 > BEGIN STRING
 「それを山頂の火口に投げ込むことで
 　入手できます。
-> CONTEXT: Map231/events/3/pages/0/424/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/426/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/426/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/424/Dialogue
+> CONTEXT: Map231/events/28/pages/0/426/Dialogue
+> CONTEXT: Map231/events/29/pages/0/426/Dialogue
+「Then you'll be able to get it by throwing the coal 
+　into the crater at the top of the mountain.
 > END STRING
 
 > BEGIN STRING
 「ただし、一度『火の池』から離れると
 　その魔力は徐々に弱ってしまうので、
-> CONTEXT: Map231/events/3/pages/0/426/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/4/pages/1/6/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/428/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/428/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/426/Dialogue
+> CONTEXT: Map231/events/4/pages/1/6/Dialogue
+> CONTEXT: Map231/events/28/pages/0/428/Dialogue
+> CONTEXT: Map231/events/29/pages/0/428/Dialogue
+「However, once you leave the Lake of Fire,
+　its magical power will gradually weaken,
 > END STRING
 
 > BEGIN STRING
 「手に入れたらすぐに
 　ここに持ってきてもらう
 　必要があります。
-> CONTEXT: Map231/events/3/pages/0/428/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/430/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/430/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/428/Dialogue
+> CONTEXT: Map231/events/28/pages/0/430/Dialogue
+> CONTEXT: Map231/events/29/pages/0/430/Dialogue
+「You need to bring it to the top
+　as quickly as possible.
 > END STRING
 
 > BEGIN STRING
 「採取にはこれを使ってください。
-> CONTEXT: Map231/events/3/pages/0/431/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/433/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/433/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/431/Dialogue
+> CONTEXT: Map231/events/28/pages/0/433/Dialogue
+> CONTEXT: Map231/events/29/pages/0/433/Dialogue
+「Use this for harvesting.
 > END STRING
 
 > BEGIN STRING
@@ -822,69 +892,77 @@ SQ_Castel01
 > BEGIN STRING
 「ロドヴィン火山は
 　ここグルッペンの北に位置する。
-> CONTEXT: Map231/events/3/pages/0/447/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/449/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/449/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/447/Dialogue
+> CONTEXT: Map231/events/28/pages/0/449/Dialogue
+> CONTEXT: Map231/events/29/pages/0/449/Dialogue
+「The Rodvin Volcano 
+　is located north of Gruppen.
 > END STRING
 
 > BEGIN STRING
 「ふもとまでは
 　私がテレポトで送ろう。
-> CONTEXT: Map231/events/3/pages/0/449/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/451/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/451/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/449/Dialogue
+> CONTEXT: Map231/events/28/pages/0/451/Dialogue
+> CONTEXT: Map231/events/29/pages/0/451/Dialogue
+「I'll teleport you 
+　to the base of the volcano.
 > END STRING
 
 > BEGIN STRING
 「万一のため、
 　残る三つのかけらはもう少し
 　私に預からせて欲しい。
-> CONTEXT: Map231/events/3/pages/0/451/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/453/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/453/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/451/Dialogue
+> CONTEXT: Map231/events/28/pages/0/453/Dialogue
+> CONTEXT: Map231/events/29/pages/0/453/Dialogue
+「Just in case,
+　I'd like you to leave the remaining 3 fragments 
+　with me for a little longer.
 > END STRING
 
 > BEGIN STRING
 「夜の国へ行く準備が
 　整ったならば………、
-> CONTEXT: Map231/events/3/pages/0/454/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/456/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/456/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/454/Dialogue
+> CONTEXT: Map231/events/28/pages/0/456/Dialogue
+> CONTEXT: Map231/events/29/pages/0/456/Dialogue
+「When you're ready to go to the Land of Night...
 > END STRING
 
 > BEGIN STRING
 「その時はお前に全て託そう。
-> CONTEXT: Map231/events/3/pages/0/456/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/458/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/458/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/3/pages/0/456/Dialogue
+> CONTEXT: Map231/events/28/pages/0/458/Dialogue
+> CONTEXT: Map231/events/29/pages/0/458/Dialogue
+「At that time, I will entrust everything to you.
 > END STRING
 
 > BEGIN STRING
 「\\c[4]ビトルの炎\\c[0]を手に入れるには、
 　まず山の中腹にある『火の池』で
 　火種を手に入れ、
-> CONTEXT: Map231/events/4/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/4/pages/1/1/Dialogue
+「To obtain \\c[4]Vitor's Flame\\c[0], 
+　you must first obtain coal 
+　from the Lake of Fire halfway up the mountain.
 > END STRING
 
 > BEGIN STRING
 「それを山頂の火口に
 　投げ込んでください。
-> CONTEXT: Map231/events/4/pages/1/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/4/pages/1/4/Dialogue
+「Then throw it into the crater 
+　at the top of the mountain.
 > END STRING
 
 > BEGIN STRING
 「手に入れたらなるべく早く
 　ここに持ってきてもらう
 　必要があります。
-> CONTEXT: Map231/events/4/pages/1/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/4/pages/1/8/Dialogue
+「Once you get it, 
+　bring it here as soon as possible.
 > END STRING
 
 > BEGIN STRING
@@ -982,69 +1060,77 @@ SQ_Castel01
 > BEGIN STRING
 「ロドヴィンまでテレポトで送ろう。
 　準備はいいか？
-> CONTEXT: Map231/events/24/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/24/pages/0/1/Dialogue
+「I'll teleport you to Lodvin. 
+　Are you ready?
 > END STRING
 
 > BEGIN STRING
 「準備はいいか？」
-> CONTEXT: Map231/events/24/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/24/pages/0/4/Dialogue
+「Are you ready?」
 > END STRING
 
 > BEGIN STRING
 「魔法陣を動かす準備はできている。
 　あとは\\c[4]ビトルの炎\\c[0]だけだ。
-> CONTEXT: Map231/events/24/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/24/pages/1/1/Dialogue
+「The magic circle is ready to be activated.
+　All that's left is the \\c[4]Vitor's Flame\\c[0].
 > END STRING
 
 > BEGIN STRING
 「準備ができたなら、
 　その魔法陣の中央に立つといい。
-> CONTEXT: Map231/events/24/pages/2/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/24/pages/2/1/Dialogue
+「When you're ready,
+　stand in the center of the magic circle.
 > END STRING
 
 > BEGIN STRING
 「夜の国とは、いわば夢の世界。
-> CONTEXT: Map231/events/24/pages/3/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/24/pages/3/1/Dialogue
+「The Land of Night is, so to speak, 
+　a world of dreams.
 > END STRING
 
 > BEGIN STRING
 「心の迷いは
 　お前の存在自体を不確かなものにする。
 　よく覚えておけ。
-> CONTEXT: Map231/events/24/pages/3/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/30/pages/0/156/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/24/pages/3/2/Dialogue
+> CONTEXT: Map231/events/30/pages/0/156/Dialogue
+「Confusion in the mind
+　makes your very existence uncertain.
+　Remember this well.
 > END STRING
 
 > BEGIN STRING
 「\\n[1]さん、気をつけて下さい。
-> CONTEXT: Map231/events/25/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/25/pages/0/1/Dialogue
+「\\n[1], please be careful.
 > END STRING
 
 > BEGIN STRING
 「ほんとは私も、一緒に行って
 　お手伝いしたいのですが……
-> CONTEXT: Map231/events/25/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/25/pages/0/2/Dialogue
+「Actually, I'd like to go with you 
+　and help out, but...
 > END STRING
 
 > BEGIN STRING
 「何か言いましたか、
 　クリスティン。
-> CONTEXT: Map231/events/25/pages/0/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/25/pages/0/7/Dialogue
+「Did you say something, 
+　Christine?
 > END STRING
 
 > BEGIN STRING
 「……無事をお祈りしています。
-> CONTEXT: Map231/events/25/pages/0/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/25/pages/0/10/Dialogue
+「...I'll pray for your safety.
 > END STRING
 
 > BEGIN STRING
@@ -1063,16 +1149,18 @@ SQ_Castel01
 > BEGIN STRING
 「賢王様も無事戻り！
 　そして、おお、\\n[1]殿！
-> CONTEXT: Map231/events/26/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/26/pages/0/1/Dialogue
+「The Wise King has returned safely!
+　And, ooh, Mr. \\n[1]!
 > END STRING
 
 > BEGIN STRING
 「再び世界を救うため
 　旅立たんとするその姿！
 　うむ、なんと頼もしや！
-> CONTEXT: Map231/events/26/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/26/pages/0/3/Dialogue
+「On a journey to save the world once more!
+　Mm, how reliable!
 > END STRING
 
 > BEGIN STRING

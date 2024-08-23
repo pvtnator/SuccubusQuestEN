@@ -6284,8 +6284,8 @@
 
 > BEGIN STRING
 "\#{myname}はドキドキしている！"
-> CONTEXT: Scripts/RPG::State (message)/132:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/132:18
+"\#{myname} is excited!"
 > END STRING
 
 > BEGIN STRING
@@ -6561,8 +6561,8 @@
 
 > BEGIN STRING
 "\#{myname}のエキサイトの効果が切れた！"
-> CONTEXT: Scripts/RPG::State (message)/176:19 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/176:19
+"\#{myname}'s Excite has worn off!"
 > END STRING
 
 > BEGIN STRING
@@ -6617,8 +6617,8 @@
 
 > BEGIN STRING
 "\#{myname}のテクニックはより正確になった！"
-> CONTEXT: Scripts/RPG::State (message)/195:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/195:17
+"\#{myname}'s techniques are now more precise!"
 > END STRING
 
 > BEGIN STRING
@@ -6648,8 +6648,8 @@
 
 > BEGIN STRING
 "\#{myname}は快感を感じなくなった！"
-> CONTEXT: Scripts/RPG::State (message)/198:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/198:17
+"\#{myname} no longer feels pleasure!"
 > END STRING
 
 > BEGIN STRING
@@ -6660,8 +6660,8 @@
 
 > BEGIN STRING
 "\#{myname}のダリッシュの効果が切れた！"
-> CONTEXT: Scripts/RPG::State (message)/199:19 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/199:19
+"\#{myname}'s Dalish effect has ended!"
 > END STRING
 
 > BEGIN STRING
@@ -6703,8 +6703,8 @@
 
 > BEGIN STRING
 "\#{myname}の幸運は去っていった！"
-> CONTEXT: Scripts/RPG::State (message)/205:19 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/205:19
+"\#{myname}'s good luck has run out!"
 > END STRING
 
 > BEGIN STRING
@@ -6716,8 +6716,8 @@
 
 > BEGIN STRING
 "\#{myname}は魔法を使えなくなった！"
-> CONTEXT: Scripts/RPG::State (message)/207:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/207:17
+"\#{myname} can no longer use magic!"
 > END STRING
 
 > BEGIN STRING
@@ -6818,8 +6818,8 @@
 
 > BEGIN STRING
 "\#{myname}のミリュンギルデの効果が切れた！"
-> CONTEXT: Scripts/RPG::State (message)/217:19 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/217:19
+"\#{myname}'s Mirungilde has worn off!"
 > END STRING
 
 > BEGIN STRING
@@ -6836,8 +6836,8 @@
 
 > BEGIN STRING
 "\#{myname}は少し手加減することにした！"
-> CONTEXT: Scripts/RPG::State (message)/221:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/221:17
+"\#{myname} decided to go easy on the offense!"
 > END STRING
 
 > BEGIN STRING
@@ -6848,8 +6848,8 @@
 
 > BEGIN STRING
 "\#{myname}は手加減を止めた！"
-> CONTEXT: Scripts/RPG::State (message)/222:19 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/222:19
+"\#{myname} has stopped holding back!"
 > END STRING
 
 > BEGIN STRING
@@ -6860,8 +6860,8 @@
 
 > BEGIN STRING
 "\#{myname}のテンションが上がりやすくなった！"
-> CONTEXT: Scripts/RPG::State (message)/224:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/224:17
+"\#{myname} increases tension easily now!"
 > END STRING
 
 > BEGIN STRING
@@ -6873,26 +6873,26 @@
 
 > BEGIN STRING
 "高木の皮から採れる樹脂をインセンスに加工したもの。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/71:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/71:15
+"Made from resin extracted from the bark of tall trees.\\n"
 > END STRING
 
 > BEGIN STRING
 "\#{myname}のパッションの効果が切れた！"
-> CONTEXT: Scripts/RPG::State (message)/225:19 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/225:19
+"\#{myname}'s passion has worn off!"
 > END STRING
 
 > BEGIN STRING
 "甘く高貴な香りを持ち、乳香とも呼ばれる。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/72:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/72:15
+"It has a sweet and noble fragrance.\\n"
 > END STRING
 
 > BEGIN STRING
 "古代では黄金と同等の価値を持つとされていた。"
-> CONTEXT: Scripts/RPG::Item(detail)/73:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/73:15
+"In ancient times, it was considered as valuable as gold."
 > END STRING
 
 > BEGIN STRING
@@ -18664,7 +18664,7 @@
 > BEGIN STRING
 "ロドヴィン火山"
 > CONTEXT: Scripts/Window_SaveFile/161:14
-"Lodvin Volcano"
+"Rodvin Volcano"
 > END STRING
 
 > BEGIN STRING
@@ -21134,11 +21134,11 @@
 
 > BEGIN STRING
 "　　　　　　　　　　　　　　　　　　　　　*　*　*　夜の絵本　*　*　*"
-> CONTEXT: Scripts/★シトリー/298:27 < UNTRANSLATED
-> CONTEXT: Scripts/★シトリー/431:29 < UNTRANSLATED
-> CONTEXT: Scripts/魔物図鑑/475:27 < UNTRANSLATED
-> CONTEXT: Scripts/魔物図鑑/599:29 < UNTRANSLATED
-
+> CONTEXT: Scripts/★シトリー/298:27
+> CONTEXT: Scripts/★シトリー/431:29
+> CONTEXT: Scripts/魔物図鑑/475:27
+> CONTEXT: Scripts/魔物図鑑/599:29
+"　　　　　　　　　　　　　　　　　*　*　*　Night Picture Book　*　*　*"
 > END STRING
 
 > BEGIN STRING

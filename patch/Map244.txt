@@ -3,21 +3,24 @@
 　　　　　　　　　　　　　　　　　フランツ・ギルデンスターン
 　　　　　　　　　　　　　　　　　　　リリー・フォルシウス
 　　　　　　　　　　　　　　　　　　　　　　 ここに眠る
-> CONTEXT: Map244/events/1/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map244/events/1/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map244/events/1/pages/0/1/Dialogue
+> CONTEXT: Map244/events/1/pages/1/1/Dialogue
+　　　　　　　　　　　　　　　　　Franz Guildenstern
+　　　　　　　　　　　　　　　　　　　Lily Forsius
+　　　　　　　　　　　　　　　　　　　　　　 Rest here
 > END STRING
 
 > BEGIN STRING
 「ギルデンスターンと、
 　夢魔になったその恋人の墓だ。
-> CONTEXT: Map244/events/1/pages/0/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map244/events/1/pages/0/11/Dialogue
+「The grave of Guildenstern 
+　and his succubus lover.
 > END STRING
 
 > BEGIN STRING
 「二人とも、もう人として
 　戻ってくることはないのだからな……。
-> CONTEXT: Map244/events/1/pages/0/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map244/events/1/pages/0/16/Dialogue
+「The two will never be humans agains...
 > END STRING
