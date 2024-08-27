@@ -5775,23 +5775,23 @@ Call \\v[1]
 
 > BEGIN STRING
 「食べちゃうわよぉ\\e[0]
-> CONTEXT: Commonevents/308/3/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/308/15/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/308/3/Dialogue
+> CONTEXT: Commonevents/308/15/Dialogue
+「Time to eat\\e[0]
 > END STRING
 
 > BEGIN STRING
 「まてまて～～っ♪
-> CONTEXT: Commonevents/308/9/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/308/33/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/308/9/Dialogue
+> CONTEXT: Commonevents/308/33/Dialogue
+「Can't wait~~♪
 > END STRING
 
 > BEGIN STRING
 「つーかまーえたっ\\e[0]
-> CONTEXT: Commonevents/308/21/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/308/27/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/308/21/Dialogue
+> CONTEXT: Commonevents/308/27/Dialogue
+「Caught you\\e[0]
 > END STRING
 
 > BEGIN STRING

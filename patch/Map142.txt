@@ -652,7 +652,7 @@
 　　勇者よ来たれ。
 　　　　　　　　　　　　　　　　　　－エスト　　』」
 > CONTEXT: Map142/events/19/pages/3/147/Dialogue
-「"The 'Cup' fragment is in the Demon Lord's castle.
+「"The 'Grail' fragment is in the Demon Lord's castle.
 　 Come, brave warrior.
 　　　　　　　　　　　　　　　　　　－Est　　"」
 > END STRING

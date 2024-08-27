@@ -29,7 +29,7 @@ SQ_Town02
 「………こ…これが裏の………
 　ついに……ｚｚ……………
 > CONTEXT: Map050/events/1/pages/1/1/Dialogue
-「...th...this is the back...
+「...th...that's where the back is...
 　Finally...zz...
 > END STRING
 
@@ -99,8 +99,10 @@ SQ_Town02
 「おとうさん　かえってこないし
 　みんな　おねむしちゃってるし
 　つまんない！
-> CONTEXT: Map050/events/6/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map050/events/6/pages/1/1/Dialogue
+「Dad hasn't come home yet, 
+　everyone's sleepy, 
+　it's so boring!
 > END STRING
 
 > BEGIN STRING

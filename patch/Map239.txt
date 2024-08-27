@@ -1,100 +1,112 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 「あれが『火の池』ね。
-> CONTEXT: Map239/events/4/pages/0/36/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map239/events/4/pages/0/36/Dialogue
+「That's the Lake of Fire.
 > END STRING
 
 > BEGIN STRING
 「あら？
 　誰かいる……？
-> CONTEXT: Map239/events/4/pages/0/47/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map239/events/4/pages/0/47/Dialogue
+「Oh?
+　Someone's there...?
 > END STRING
 
 > BEGIN STRING
 「ん～～、おいしっ♪
-> CONTEXT: Map239/events/4/pages/0/53/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map239/events/4/pages/0/53/Dialogue
+Mm~~, delicious♪
 > END STRING
 
 > BEGIN STRING
 「……お前よく
 　そんな熱そうなもん食えるよな……
-> CONTEXT: Map239/events/4/pages/0/57/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map239/events/4/pages/0/57/Dialogue
+「...So strong, 
+　eating something so hot...
 > END STRING
 
 > BEGIN STRING
 「え～、
 　だってアタシ\\r[火トカゲ,サラマンダー]だしぃ～～。
-> CONTEXT: Map239/events/4/pages/0/62/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map239/events/4/pages/0/62/Dialogue
+「Well~, 
+　I'm a \\r[Fire Lizard,Salamander] after all~~.
 > END STRING
 
 > BEGIN STRING
 「ストゥーナこそ、
 　よく石なんて食べられるわねぇ。
-> CONTEXT: Map239/events/4/pages/0/64/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map239/events/4/pages/0/64/Dialogue
+「But you're quite something,
+　eating hard stones like that.
 > END STRING
 
 > BEGIN STRING
 「ばっか、好きで食べてんじゃねえや。
 　消化を良くするためにやってんだよ。
-> CONTEXT: Map239/events/4/pages/0/67/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map239/events/4/pages/0/67/Dialogue
+「Idiot, it's not that I like it. 
+　I do it to improve my digestion.
 > END STRING
 
 > BEGIN STRING
 「ふ～ん、
 　でもちょっとおいしそうねぇ♪
-> CONTEXT: Map239/events/4/pages/0/70/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map239/events/4/pages/0/70/Dialogue
+「Hmm,
+　but it looks kinda tasty♪
 > END STRING
 
 > BEGIN STRING
 「よせよ、こんなもんより早く
 　人間の精が欲しいぜ。
-> CONTEXT: Map239/events/4/pages/0/73/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map239/events/4/pages/0/73/Dialogue
+「Stop it, I want human sperm fast.
 > END STRING
 
 > BEGIN STRING
 「仕方ないわよぉ。
 　まだ夜の国から戻ったばかりで、
 　チカラがついてないし……
-> CONTEXT: Map239/events/4/pages/0/76/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map239/events/4/pages/0/76/Dialogue
+「It can't be helped.
+　We've only just returned from the Land of Night,
+　and we're not strong enough...
 > END STRING
 
 > BEGIN STRING
 「またあの赤髪みたいのに
 　イかされちゃったら、
 　夜の国に逆戻りよぉ。
-> CONTEXT: Map239/events/4/pages/0/79/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map239/events/4/pages/0/79/Dialogue
+「If that red-haired boy makes me orgasm again, 
+　I'll be back in the land of night.
 > END STRING
 
 > BEGIN STRING
 「そうだな……。
 　しばらくはその辺で
 　ザコ狩ってレベル上げでも……
-> CONTEXT: Map239/events/4/pages/0/83/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map239/events/4/pages/0/83/Dialogue
+「True...
+　I guess we should just hunt some weaklings 
+　around here and level up for a while...
 > END STRING
 
 > BEGIN STRING
 「……ん、誰か来たぜ。
-> CONTEXT: Map239/events/4/pages/0/89/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map239/events/4/pages/0/89/Dialogue
+「...Hmm, someone's here.
 > END STRING
 
 > BEGIN STRING
 「人間かしらぁ？
 　ザコっぽいヒトなら食べちゃ……
-> CONTEXT: Map239/events/4/pages/0/93/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map239/events/4/pages/0/93/Dialogue
+「Is it a human?
+　If he's weak, let's eat...
 > END STRING
 
 > BEGIN STRING
@@ -138,151 +150,166 @@
 
 > BEGIN STRING
 「出たぁ～～～っ！！
-> CONTEXT: Map239/events/4/pages/0/116/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map239/events/4/pages/0/116/Dialogue
+「Run~~~~!!
 > END STRING
 
 > BEGIN STRING
 「……何こいつら…。
-> CONTEXT: Map239/events/4/pages/0/129/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map239/events/4/pages/0/129/Dialogue
+「...What's up with them...
 > END STRING
 
 > BEGIN STRING
 「どうするの？
 　無視してもよさそうだけど…。
-> CONTEXT: Map239/events/4/pages/0/130/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map239/events/4/pages/0/130/Dialogue
+「What should we do?
+　We could just ignore them...
 > END STRING
 
 > BEGIN STRING
 「や～～っ！
 　なによなによぉ～～っ！
-> CONTEXT: Map239/events/6/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map239/events/6/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map239/events/6/pages/0/1/Dialogue
+> CONTEXT: Map239/events/6/pages/1/1/Dialogue
+「Aa~~!
+　What, what~~!
 > END STRING
 
 > BEGIN STRING
 「ギャーッ！
 　こっち来んじゃねぇっ！！
-> CONTEXT: Map239/events/7/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map239/events/7/pages/1/1/Dialogue
+「Kyaa!
+　Don't come here!!
 > END STRING
 
 > BEGIN STRING
 「逃げろぉっ！！
-> CONTEXT: Map239/events/8/pages/0/11/Dialogue < UNTRANSLATED
-> CONTEXT: Map239/events/10/pages/0/11/Dialogue < UNTRANSLATED
-> CONTEXT: Map239/events/11/pages/0/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map239/events/8/pages/0/11/Dialogue
+> CONTEXT: Map239/events/10/pages/0/11/Dialogue
+> CONTEXT: Map239/events/11/pages/0/11/Dialogue
+「Run!!
 > END STRING
 
 > BEGIN STRING
 「にげろぉ～～っ！
-> CONTEXT: Map239/events/8/pages/0/53/Dialogue < UNTRANSLATED
-> CONTEXT: Map239/events/10/pages/0/53/Dialogue < UNTRANSLATED
-> CONTEXT: Map239/events/11/pages/0/53/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map239/events/8/pages/0/53/Dialogue
+> CONTEXT: Map239/events/10/pages/0/53/Dialogue
+> CONTEXT: Map239/events/11/pages/0/53/Dialogue
+「Run away~~!!
 > END STRING
 
 > BEGIN STRING
 「逃げろぉっ！
-> CONTEXT: Map239/events/8/pages/0/81/Dialogue < UNTRANSLATED
-> CONTEXT: Map239/events/10/pages/0/81/Dialogue < UNTRANSLATED
-> CONTEXT: Map239/events/11/pages/0/81/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map239/events/8/pages/0/81/Dialogue
+> CONTEXT: Map239/events/10/pages/0/81/Dialogue
+> CONTEXT: Map239/events/11/pages/0/81/Dialogue
+「Run away!!"
 > END STRING
 
 > BEGIN STRING
 \\c[4]トネリコのたいまつ\\c[0]を使いますか？
-> CONTEXT: Map239/events/9/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map239/events/9/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map239/events/9/pages/0/0/Dialogue
+> CONTEXT: Map239/events/9/pages/1/1/Dialogue
+Use the \\c[4]Ash Torch\\c[0]?
 > END STRING
 
 > BEGIN STRING
 \\c[4]トネリコのたいまつ\\c[0]を
 火の池にかざした！
-> CONTEXT: Map239/events/9/pages/0/6/Dialogue < UNTRANSLATED
-> CONTEXT: Map239/events/9/pages/1/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map239/events/9/pages/0/6/Dialogue
+> CONTEXT: Map239/events/9/pages/1/6/Dialogue
+Held \\c[4]Ash Torch\\c[0]
+over the Lake of Fire!
 > END STRING
 
 > BEGIN STRING
 「ィヤッホゥ！！
-> CONTEXT: Map239/events/9/pages/0/42/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map239/events/9/pages/0/42/Dialogue
+「Yay!!
 > END STRING
 
 > BEGIN STRING
 「んん？
 　何だ、あんまり驚いてねえな！
 　涼しい顔しやがってヨォ！
-> CONTEXT: Map239/events/9/pages/0/44/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map239/events/9/pages/0/44/Dialogue
+「Hmm?
+　Oh, you don't seem that surprised!
+　You're acting so cool!
 > END STRING
 
 > BEGIN STRING
 「用件は分かってるぜ！
 　でも何で夜の国に行きたがる奴は
 　こう無愛想な奴ばっかなんだろナァ？
-> CONTEXT: Map239/events/9/pages/0/47/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map239/events/9/pages/0/47/Dialogue
+「I know what you want! 
+　But why are all the people who want to 
+　go to the Land of Night so unfriendly?
 > END STRING
 
 > BEGIN STRING
 「ああ、いつも無愛想だから
 　女にモテねえんだろ？図星だろ？
 　ヘッヘッヘ
-> CONTEXT: Map239/events/9/pages/0/50/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map239/events/9/pages/0/50/Dialogue
+「Yeah, always so unsociable and 
+　not popular with the ladies, right? 
+　Right? Hehhehheh
 > END STRING
 
 > BEGIN STRING
 「よし、じゃあ早速
 　山頂まで連れてってもらおうか！
-> CONTEXT: Map239/events/9/pages/0/53/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map239/events/9/pages/0/53/Dialogue
+「Okay then, 
+　let's go to the 
+　top of the mountain right away!
 > END STRING
 
 > BEGIN STRING
 \\c[4]ビトルの火種\\c[0]を手に入れた！
-> CONTEXT: Map239/events/9/pages/0/74/Dialogue < UNTRANSLATED
-> CONTEXT: Map239/events/9/pages/1/62/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map239/events/9/pages/0/74/Dialogue
+> CONTEXT: Map239/events/9/pages/1/62/Dialogue
+\\c[4]Vitor's Spark\\c[0] obtained!
 > END STRING
 
 > BEGIN STRING
 「聞いてると思うけど、
 　時間が経つとオレの魔力も
 　弱まっちまうから注意してくれよな！
-> CONTEXT: Map239/events/9/pages/0/77/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map239/events/9/pages/0/77/Dialogue
+「I'm sure you've heard, but as time passes, 
+　my magic weakens, so be careful!
 > END STRING
 
 > BEGIN STRING
 「そうだな、山頂まで\\b 10 \\f分で着けば
 　なんとか間に合うかな。
-> CONTEXT: Map239/events/9/pages/0/80/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map239/events/9/pages/0/80/Dialogue
+「Well, if we can get to the top of the mountain 
+　in\\b 10 \\fminutes, that should do it.
 > END STRING
 
 > BEGIN STRING
 「よろしくたのむぜ！
-> CONTEXT: Map239/events/9/pages/0/82/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map239/events/9/pages/0/82/Dialogue
+「Nice to meet you!
 > END STRING
 
 > BEGIN STRING
 「ッホゥ！
 　今度こそ上手くやってくれよ！
-> CONTEXT: Map239/events/9/pages/1/42/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map239/events/9/pages/1/42/Dialogue
+「Hoooo!
+　Do it well this time!
 > END STRING
 
 > BEGIN STRING
 炎が激しく燃えさかっている……
-> CONTEXT: Map239/events/9/pages/1/77/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map239/events/9/pages/1/77/Dialogue
+The fire is burning fiercely...
 > END STRING

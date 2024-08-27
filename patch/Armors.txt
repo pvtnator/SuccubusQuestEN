@@ -1836,38 +1836,38 @@ Learn: Percival
 
 > BEGIN STRING
 火蜥蜴の尻尾/3/0/0/156m105
-> CONTEXT: Armors/227/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/227/name/
+Fire Lizard Tail/3/0/0/156m105
 > END STRING
 
 > BEGIN STRING
 習得：パッション / 習得：マインイーサ
-> CONTEXT: Armors/227/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/227/description/
+Learn: Passion / Learn: Mine Ether
 > END STRING
 
 > BEGIN STRING
 影の糸/0/0/0/143m126m127
-> CONTEXT: Armors/228/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/228/name/
+Shadow Thread/0/0/0/143m126m127
 > END STRING
 
 > BEGIN STRING
 習得：バインド / 習得：ハガルフニ /　習得：ラグズフニ
-> CONTEXT: Armors/228/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/228/description/
+Learn: Bind / Learn: Hagalfuni / Learn: Raguzfuni
 > END STRING
 
 > BEGIN STRING
 髑髏の首飾り/0/0/0/155m119
-> CONTEXT: Armors/229/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/229/name/
+Skull Necklace/0/0/0/155m119
 > END STRING
 
 > BEGIN STRING
 習得：フォシブル / 習得：ファル・ウルズグン
-> CONTEXT: Armors/229/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/229/description/
+Learn: Fossible / Learn: Far-Uruzgun
 > END STRING
 
 > BEGIN STRING
@@ -1884,26 +1884,26 @@ Learn: Trick / Magic +3 / Agility +3 / MP +3%
 
 > BEGIN STRING
 ホイールオブフォーチュン/0/0/0/117
-> CONTEXT: Armors/231/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/231/name/
+Wheel of Fortune/0/0/0/117
 > END STRING
 
 > BEGIN STRING
 習得：ペルスグン / 魔力+10
-> CONTEXT: Armors/231/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/231/description/
+Learn: Persgun / Magic +10
 > END STRING
 
 > BEGIN STRING
 豊穣の鞘/0/0/0/98m132
-> CONTEXT: Armors/232/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/232/name/
+Fertility Sheath/0/0/0/98m132
 > END STRING
 
 > BEGIN STRING
 習得：モル・ロギン / 習得：イーサフニ
-> CONTEXT: Armors/232/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/232/description/
+Learn: Mor-Rogin / Learn: Etherfuni
 > END STRING
 
 > BEGIN STRING

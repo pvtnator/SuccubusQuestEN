@@ -1,8 +1,8 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 グルッペンへ戻りますか？
-> CONTEXT: Map232/events/4/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map232/events/5/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map232/events/6/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map232/events/4/pages/0/1/Dialogue
+> CONTEXT: Map232/events/5/pages/0/1/Dialogue
+> CONTEXT: Map232/events/6/pages/0/1/Dialogue
+Return to Gruppen?
 > END STRING

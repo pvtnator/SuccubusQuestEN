@@ -579,7 +579,7 @@ Sleeping face down on the counter...
 　お礼にイイもの……あげちゃうわよ\\e[0]
 > CONTEXT: Map051/events/11/pages/0/6/Dialogue
 「Would you like to give that to me?
-　I'll give you something nice as a thanks\\e[0]
+　I'll give you something nice in exchange\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -692,8 +692,9 @@ Sleeping face down on the counter...
 > BEGIN STRING
 「そういう私も…ふぁ……
 　ちょっと眠い…わ………
-> CONTEXT: Map051/events/14/pages/1/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map051/events/14/pages/1/3/Dialogue
+「I feel it too... Ah...
+　I'm a bit sleepy...
 > END STRING
 
 > BEGIN STRING
@@ -713,8 +714,8 @@ Sleeping face down on the counter...
 
 > BEGIN STRING
 「…こっくり…こっくり……
-> CONTEXT: Map051/events/18/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map051/events/18/pages/1/1/Dialogue
+「...*Nod*...*Nod*...
 > END STRING
 
 > BEGIN STRING

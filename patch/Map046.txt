@@ -324,8 +324,9 @@ There is a note written on the side of the page
 > BEGIN STRING
 「『杖』のかけら\\c[4]ガンバンティン\\c[0]には
 　魔王の魔力が、
-> CONTEXT: Map046/events/12/pages/1/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map046/events/12/pages/1/6/Dialogue
+「The 'Staff' fragment \\c[4]Gambanteinn\\c[0]
+　contains the Demon Lord's magical power,
 > END STRING
 
 > BEGIN STRING

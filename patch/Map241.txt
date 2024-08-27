@@ -3,35 +3,38 @@
 「オゥオゥ！
 　なんだずいぶんたくさん
 　夢魔がいるな！
-> CONTEXT: Map241/events/1/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map241/events/1/pages/0/3/Dialogue
+「Ohhh ohh!
+　There are quite a lot of succubi!
 > END STRING
 
 > BEGIN STRING
 「さっきの二人が呼んだのかしら。
-> CONTEXT: Map241/events/1/pages/0/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map241/events/1/pages/0/7/Dialogue
+「I wonder if the two from earlier called them.
 > END STRING
 
 > BEGIN STRING
 「こっちから
 　夜の国に行ってやろうってのに、
 　せっかちな奴らだぜ！
-> CONTEXT: Map241/events/1/pages/0/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map241/events/1/pages/0/9/Dialogue
+「They came from Land of Night,
+　so now they're restless!
 > END STRING
 
 > BEGIN STRING
 「遊んでやってもいいけど、
 　時間には気をつけてくれよ！
-> CONTEXT: Map241/events/1/pages/0/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map241/events/1/pages/0/12/Dialogue
+「You can play with them, 
+　but be careful with time!
 > END STRING
 
 > BEGIN STRING
 激しい蒸気に道を塞がれている
-> CONTEXT: Map241/events/42/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map241/events/43/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map241/events/44/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map241/events/42/pages/1/1/Dialogue
+> CONTEXT: Map241/events/43/pages/1/1/Dialogue
+> CONTEXT: Map241/events/44/pages/1/1/Dialogue
+The way is blocked by intense steam.
 > END STRING

@@ -3071,8 +3071,9 @@ EV_ストゥーナ
 > BEGIN STRING
 「ちくしょぉっ！
 　もうヤケだ！ヤってやるぜ！
-> CONTEXT: Troops/324/pages/0/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/324/pages/0/13/Dialogue
+「Dammit!
+　I'm so desperate! I'll do it!
 > END STRING
 
 > BEGIN STRING
@@ -3083,79 +3084,84 @@ EV_メローナ
 
 > BEGIN STRING
 「あぁん、もぉ～～～～～っ
-> CONTEXT: Troops/325/pages/0/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/325/pages/0/13/Dialogue
+「Aah, come on~~~~
 > END STRING
 
 > BEGIN STRING
 「……せめて優しくシてねぇ？
-> CONTEXT: Troops/325/pages/0/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/325/pages/0/14/Dialogue
+「...At least be gentle, okay?
 > END STRING
 
 > BEGIN STRING
 エスプラーナは絶頂に達した！\\a[\\v[105]]
-> CONTEXT: Troops/326/pages/2/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/326/pages/2/3/Dialogue
+Esplana has reached climax!\\a[\\v[105]]
 > END STRING
 
 > BEGIN STRING
 "リズ･ラズ"
-> CONTEXT: Troops/326/pages/2/6/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Troops/326/pages/2/6/InlineScript/1:4
+"Liz-Raz"
 > END STRING
 
 > BEGIN STRING
 「ハァ…ハァ……
 　やっと戻れたわ………
-> CONTEXT: Troops/326/pages/2/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/326/pages/2/7/Dialogue
+「Haa... haa...
+　I'm finally back...
 > END STRING
 
 > BEGIN STRING
 「ね、姉さんごめん、
 　うっかり自分に………
-> CONTEXT: Troops/326/pages/2/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/326/pages/2/9/Dialogue
+「Hey, sorry, sis,
+　I accidentally...
 > END STRING
 
 > BEGIN STRING
 「あ、あれ、姉さん？
 　ロッコ？
-> CONTEXT: Troops/326/pages/2/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/326/pages/2/11/Dialogue
+「Oh, huh, sis?
+　Rocco?
 > END STRING
 
 > BEGIN STRING
 「え……えええ？？
-> CONTEXT: Troops/326/pages/2/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/326/pages/2/13/Dialogue
+「E...eeeh??
 > END STRING
 
 > BEGIN STRING
 リズ・ラズは絶頂に達した！\\a[\\v[105]]
-> CONTEXT: Troops/326/pages/3/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/326/pages/3/3/Dialogue
+Liz-Raz has reached climax!\\a[\\v[105]]
 > END STRING
 
 > BEGIN STRING
 「あぅぅ～～、
 　エス姉ごめん～～～っ！
-> CONTEXT: Troops/326/pages/3/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/326/pages/3/7/Dialogue
+「Ahhh,
+　I'm so sorry Es!
 > END STRING
 
 > BEGIN STRING
 「え…、エス姉？
 　リズ姉？
-> CONTEXT: Troops/326/pages/3/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/326/pages/3/9/Dialogue
+「Eh... Es?
+　Liz?
 > END STRING
 
 > BEGIN STRING
 「あう～～～！？
-> CONTEXT: Troops/326/pages/3/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/326/pages/3/11/Dialogue
+「Ahhh~~~!?
 > END STRING
 
 > BEGIN STRING

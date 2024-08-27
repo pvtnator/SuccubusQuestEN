@@ -1446,9 +1446,9 @@ EP回復+精神力回復
 
 > BEGIN STRING
 ガンバンティン
-> CONTEXT: Skills/239/name/ < UNTRANSLATED
-> CONTEXT: Items/273/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/239/name/
+> CONTEXT: Items/273/name/
+Gambanteinn
 > END STRING
 
 > BEGIN STRING
@@ -1611,22 +1611,22 @@ Gaze / High Probability Bind
 
 > BEGIN STRING
 鼓舞の舞
-> CONTEXT: Skills/254/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/254/name/
+Rousing Dance
 > END STRING
 
 > BEGIN STRING
 テンションアップ
-> CONTEXT: Skills/254/description/ < UNTRANSLATED
-> CONTEXT: Skills/274/description/ < UNTRANSLATED
-> CONTEXT: Skills/652/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/254/description/
+> CONTEXT: Skills/274/description/
+> CONTEXT: Skills/652/name/
+Tension Up
 > END STRING
 
 > BEGIN STRING
 セクシーウィンク
-> CONTEXT: Skills/255/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/255/name/
+Sexy Wink
 > END STRING
 
 > BEGIN STRING
@@ -1661,8 +1661,8 @@ Spirit down
 
 > BEGIN STRING
 ダリッシュスキン
-> CONTEXT: Skills/258/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/258/name/
+Dalish Skin
 > END STRING
 
 > BEGIN STRING

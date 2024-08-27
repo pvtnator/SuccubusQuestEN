@@ -377,7 +377,7 @@
 > CONTEXT: Map313/events/16/pages/0/225/Dialogue
 > CONTEXT: Map316/events/16/pages/0/225/Dialogue
 > CONTEXT: Map193/events/16/pages/0/225/Dialogue
-「...And this \\c[4]Galdor\\c[0] is the 'Cup' that will
+「...And this \\c[4]Galdor\\c[0] is the 'Grail' that will
 　carry out the resurrection of the Demon Lord.
 > END STRING
 

@@ -202,7 +202,7 @@
 > CONTEXT: Map113/events/16/pages/0/272/Dialogue
 「Got it...
 　Including the 'Staff' fragment that fell on Gruppen,
-　\\c[4]Ganbantin\\c[0], now we have two.
+　\\c[4]Gambanteinn\\c[0], now we have two.
 > END STRING
 
 > BEGIN STRING
@@ -400,7 +400,7 @@
 　『杯』のかけらは\\c[1]リスヴェグ\\c[0]にある。
 > CONTEXT: Map113/events/16/pages/0/452/Dialogue
 「Of the two remaining \\dfragments\\d, 
-　the 'Cup' is in \\c[1]Lisveg\\c[0].
+　the 'Grail' is in \\c[1]Lisveg\\c[0].
 > END STRING
 
 > BEGIN STRING

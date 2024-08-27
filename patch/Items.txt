@@ -1438,7 +1438,7 @@ Torch made out of ash wood
 > BEGIN STRING
 ビトルの火種
 > CONTEXT: Items/261/name/
-Vitor's Coal
+Vitor's Spark
 > END STRING
 
 > BEGIN STRING

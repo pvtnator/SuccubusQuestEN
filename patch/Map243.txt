@@ -2,358 +2,391 @@
 > BEGIN STRING
 「ここだここ！
 　一思いに投げ込んでくれ！
-> CONTEXT: Map243/events/1/pages/0/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/9/Dialogue
+「Here, here! 
+　Throw it right away!
 > END STRING
 
 > BEGIN STRING
 \\c[4]ビトルの火種\\c[0]を
 火口に投げ入れますか？
-> CONTEXT: Map243/events/1/pages/0/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/12/Dialogue
+Throw \\c[4]Vitor's Spark\\c[0]
+into the crater?
 > END STRING
 
 > BEGIN STRING
 「ホォォォォオオオゥッ！！
-> CONTEXT: Map243/events/1/pages/0/55/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/55/Dialogue
+「HoooooOOOOooo!!
 > END STRING
 
 > BEGIN STRING
 \\c[4]ビトルの炎\\c[0]を手に入れた！
-> CONTEXT: Map243/events/1/pages/0/84/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/84/Dialogue
+\\c[4]Vitor's Flame\\c[0] obtained!
 > END STRING
 
 > BEGIN STRING
 「よおし！
 　準備完了っ！！
-> CONTEXT: Map243/events/1/pages/0/86/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/86/Dialogue
+「All right!
+　Preparations complete!!
 > END STRING
 
 > BEGIN STRING
 「さあさあ！
 　早く魔法陣につれてってくれよ！
 　早くしないと消えちまうぜ！
-> CONTEXT: Map243/events/1/pages/0/88/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/88/Dialogue
+「Come on!
+　Please bring me to the magic circle quickly!
+　If you don't hurry, I'll disappear!
 > END STRING
 
 > BEGIN STRING
 「さ～せ～な～い～わ～よ～～っ！
-> CONTEXT: Map243/events/1/pages/0/102/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/102/Dialogue
+「N~o~t hap~pe~ning~~!
 > END STRING
 
 > BEGIN STRING
 「まにあったぁ～～っ！
-> CONTEXT: Map243/events/1/pages/0/188/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/188/Dialogue
+「We meet again~~!
 > END STRING
 
 > BEGIN STRING
 「それは持っていかせないわ！
-> CONTEXT: Map243/events/1/pages/0/190/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/190/Dialogue
+「We can't let you take that!
 > END STRING
 
 > BEGIN STRING
 「あんたら……
 　何夢魔の手先になってんのよ。
-> CONTEXT: Map243/events/1/pages/0/215/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/215/Dialogue
+「You...
+　You're just being used by the succubi.
 > END STRING
 
 > BEGIN STRING
 「う…うるさぁいっ！
-> CONTEXT: Map243/events/1/pages/0/218/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/218/Dialogue
+「S-shut up!
 > END STRING
 
 > BEGIN STRING
 「ぜんぶあなたを倒すためよ！
 　勇者\\n[1]！
-> CONTEXT: Map243/events/1/pages/0/220/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/220/Dialogue
+「Our purpose is just to defeat you!
+　Hero\\n[1]!
 > END STRING
 
 > BEGIN STRING
 「リズ・ラズ！
 　まずはその邪魔な炎を
 　吹き飛ばしておしまい！
-> CONTEXT: Map243/events/1/pages/0/222/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/222/Dialogue
+「Liz-Raz!
+　First let's blow away that annoying flame!
 > END STRING
 
 > BEGIN STRING
 「任せて、姉さん！
-> CONTEXT: Map243/events/1/pages/0/226/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/226/Dialogue
+「Leave it to me, sister!
 > END STRING
 
 > BEGIN STRING
 「な…何する気だ！？
-> CONTEXT: Map243/events/1/pages/0/236/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/236/Dialogue
+「Wh...what are you planning to do?
 > END STRING
 
 > BEGIN STRING
 「吹き飛べぇッ！！
-> CONTEXT: Map243/events/1/pages/0/248/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/248/Dialogue
+「I'll blow it away!!
 > END STRING
 
 > BEGIN STRING
 「え……………？
 　え？ えええぇ～～～？？
-> CONTEXT: Map243/events/1/pages/0/318/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/318/Dialogue
+「Eh.....?
+　Eh? Eeeehh~~~??
 > END STRING
 
 > BEGIN STRING
 「…あのバカ……
 　自分が吹き飛んでどうすんのよ……
-> CONTEXT: Map243/events/1/pages/0/321/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/321/Dialogue
+「...Idiot...
+　You blew yourself away...
 > END STRING
 
 > BEGIN STRING
 「使い慣れない魔法
 　使わせなきゃよかっ……
-> CONTEXT: Map243/events/1/pages/0/323/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/323/Dialogue
+「I shouldn't have made her use magic 
+　she's not used to...
 > END STRING
 
 > BEGIN STRING
 「リ…リズ姉～～っ！！
-> CONTEXT: Map243/events/1/pages/0/332/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/332/Dialogue
+「Li...Liz~~!!
 > END STRING
 
 > BEGIN STRING
 「え？
 　あ、こらっ！？
-> CONTEXT: Map243/events/1/pages/0/359/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/359/Dialogue
+「Eh?
+　H, hey!?
 > END STRING
 
 > BEGIN STRING
 「待ちなさい！
 　ロッコ・バロッコ！
-> CONTEXT: Map243/events/1/pages/0/364/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/364/Dialogue
+「Wait!
+　Rocco-Barocco!
 > END STRING
 
 > BEGIN STRING
 「……あんたまで行って……
 　どうすんのよ………
-> CONTEXT: Map243/events/1/pages/0/366/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/366/Dialogue
+「...With you gone too...
+　What am I to do...?
 > END STRING
 
 > BEGIN STRING
 「う……………
-> CONTEXT: Map243/events/1/pages/0/380/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/380/Dialogue
+「Uh.....
 > END STRING
 
 > BEGIN STRING
 「い…いいわよ！
 　もういいわよ！
-> CONTEXT: Map243/events/1/pages/0/383/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/383/Dialogue
+「F...fine!
+　That's enough!
 > END STRING
 
 > BEGIN STRING
 「アタシ一人でヤってやるわよ！
 　このおっ！！
-> CONTEXT: Map243/events/1/pages/0/385/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/385/Dialogue
+「I'll do it all by myself! 
+　Idiots!!
 > END STRING
 
 > BEGIN STRING
 「あうぅ～～～……
-> CONTEXT: Map243/events/1/pages/0/440/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/440/Dialogue
+「Auu~~~~...
 > END STRING
 
 > BEGIN STRING
 「あ…ん…………
-> CONTEXT: Map243/events/1/pages/0/442/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/442/Dialogue
+「A...hh...
 > END STRING
 
 > BEGIN STRING
 「しぶといわね。
 　\\n[1]、もう一押し………
-> CONTEXT: Map243/events/1/pages/0/444/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/444/Dialogue
+「How stubborn.
+　\\n[1], give it one more push...
 > END STRING
 
 > BEGIN STRING
 「お……い……………
-> CONTEXT: Map243/events/1/pages/0/451/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/451/Dialogue
+「O...i.....
 > END STRING
 
 > BEGIN STRING
 「お楽しみもいいが……
 　ヤバい………消える…ぞ……
-> CONTEXT: Map243/events/1/pages/0/452/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/452/Dialogue
+「That's fun, but...
+　It's dangerous...I'm going to disappear...
 > END STRING
 
 > BEGIN STRING
 「ええ！？
 　また点け直しに行かなきゃ……
-> CONTEXT: Map243/events/1/pages/0/455/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/455/Dialogue
+「What?! 
+　We have to light her up again...
 > END STRING
 
 > BEGIN STRING
 「……この火口の魔力…は……
 　一度使うと……数年…使えない……
-> CONTEXT: Map243/events/1/pages/0/458/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/458/Dialogue
+「...The magic of this crater...
+　Once used...it cannot be used...
+　...for several years...
 > END STRING
 
 > BEGIN STRING
 「あと数分で……消えそうだ……
-> CONTEXT: Map243/events/1/pages/0/460/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/460/Dialogue
+「I'll disappear...in a few minutes...
 > END STRING
 
 > BEGIN STRING
 「そ…そんな！？
 　どうしよう、今からじゃ
 　走ってもとても……
-> CONTEXT: Map243/events/1/pages/0/462/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/462/Dialogue
+「Wha... What can we do?! 
+　Even if we run...
 > END STRING
 
 > BEGIN STRING
 「空でも飛ばなきゃ………
-> CONTEXT: Map243/events/1/pages/0/465/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/465/Dialogue
+「We would have to fly...
 > END STRING
 
 > BEGIN STRING
 「あぅん……このキモチよさ………
-> CONTEXT: Map243/events/1/pages/0/468/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/468/Dialogue
+「Ahhh...I feel so good...
 > END STRING
 
 > BEGIN STRING
 「もしかして……
 　魔王…さま……？
-> CONTEXT: Map243/events/1/pages/0/474/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/474/Dialogue
+「Could it be...
+　The Demon Lord...?
 > END STRING
 
 > BEGIN STRING
 「え………
 　魔王様……！？
-> CONTEXT: Map243/events/1/pages/0/477/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/477/Dialogue
+「Eh....
+　Demon Lord!?
 > END STRING
 
 > BEGIN STRING
 「そ……そういえば
 　似たような魔力を感じるわ……
-> CONTEXT: Map243/events/1/pages/0/480/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/480/Dialogue
+「Well...now that you mention it, 
+　I sense a similar magical power...
 > END STRING
 
 > BEGIN STRING
 「……そ、
-> CONTEXT: Map243/events/1/pages/0/485/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/485/Dialogue
+「...So,
 > END STRING
 
 > BEGIN STRING
 「そうだ…！
 　その通り！
-> CONTEXT: Map243/events/1/pages/0/487/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/487/Dialogue
+「Yes...!
+　That's right!
 > END STRING
 
 > BEGIN STRING
 「このガキ…いや少年こそは、
 　魔王様の転生せしお姿！
-> CONTEXT: Map243/events/1/pages/0/489/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/489/Dialogue
+「This brat...no, this boy,
+　is the reincarnated form of the Demon Lord!
 > END STRING
 
 > BEGIN STRING
 「や、やっぱりぃ～！？
-> CONTEXT: Map243/events/1/pages/0/492/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/492/Dialogue
+「R-really~!?
 > END STRING
 
 > BEGIN STRING
 「そ…そうだったんですか……？
-> CONTEXT: Map243/events/1/pages/0/494/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/494/Dialogue
+「I-is that so...?
 > END STRING
 
 > BEGIN STRING
 「そうだったんですか？」
-> CONTEXT: Map243/events/1/pages/0/496/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/496/Dialogue
+「Is that so?」
 > END STRING
 
 > BEGIN STRING
 「ひ、ひええ！
 　お許しを！
-> CONTEXT: Map243/events/1/pages/0/500/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/500/Dialogue
+「H-hiee!
+　Please forgive us!
 > END STRING
 
 > BEGIN STRING
 「ハハハ！
 　魔王様も意地悪がお好きだ！
-> CONTEXT: Map243/events/1/pages/0/505/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/505/Dialogue
+「Hahaha!
+The Demon Lord loves to mess around too!
 > END STRING
 
 > BEGIN STRING
 「さあお前ら！
 　分かったら今すぐオレを、いや魔王様を、
 　グルッペンまで連れていけ！！
-> CONTEXT: Map243/events/1/pages/0/510/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/510/Dialogue
+「Come on then!
+　Since you understand now, take me, no, 
+　the Demon Lord, to Gruppen right now!!
 > END STRING
 
 > BEGIN STRING
 「……は、はいっ！
-> CONTEXT: Map243/events/1/pages/0/514/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/514/Dialogue
+「...Y-yes!
 > END STRING
 
 > BEGIN STRING
 「ただちにぃ～っ！
-> CONTEXT: Map243/events/1/pages/0/516/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/516/Dialogue
+「Right away~!
 > END STRING
 
 > BEGIN STRING
 「……………………
 　…………………
-> CONTEXT: Map243/events/1/pages/0/518/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/1/pages/0/518/Dialogue
+「........
+　.........
 > END STRING
 
 > BEGIN STRING
 「よォし！
 　火口はすぐそこだ！
-> CONTEXT: Map243/events/9/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/9/pages/0/3/Dialogue
+「All right! 
+　The crater is right there!
 > END STRING
 
 > BEGIN STRING
 「もう邪魔が入らなきゃ
 　いいんだけどな！
-> CONTEXT: Map243/events/9/pages/0/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map243/events/9/pages/0/5/Dialogue
+「No more interruptions!
 > END STRING
