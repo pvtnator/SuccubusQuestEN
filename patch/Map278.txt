@@ -7,230 +7,249 @@
 
 > BEGIN STRING
 "ぬいぐるみ？"
-> CONTEXT: Map278/events/1/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map278/events/2/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map278/events/3/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map278/events/4/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map278/events/5/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map278/events/6/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map278/events/7/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map278/events/8/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map278/events/8/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map278/events/1/pages/0/0/InlineScript/1:4
+> CONTEXT: Map278/events/2/pages/0/0/InlineScript/1:4
+> CONTEXT: Map278/events/3/pages/0/0/InlineScript/1:4
+> CONTEXT: Map278/events/4/pages/0/0/InlineScript/1:4
+> CONTEXT: Map278/events/5/pages/0/0/InlineScript/1:4
+> CONTEXT: Map278/events/6/pages/0/0/InlineScript/1:4
+> CONTEXT: Map278/events/7/pages/0/0/InlineScript/1:4
+> CONTEXT: Map278/events/8/pages/0/0/InlineScript/1:4
+> CONTEXT: Map278/events/8/pages/1/0/InlineScript/1:4
+"Stuffed Toy?"
 > END STRING
 
 > BEGIN STRING
 「なんだ、
 　また新しいオモチャが増えるのか？
-> CONTEXT: Map278/events/1/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map278/events/1/pages/0/1/Dialogue
+「What,
+　are there more toys now?
 > END STRING
 
 > BEGIN STRING
 「オレが遊んでもらう
 　機会が減るじゃないか。
 　まったく。
-> CONTEXT: Map278/events/1/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map278/events/1/pages/0/3/Dialogue
+「Then I'll have fewer opportunities to play. 
+　This sucks...
 > END STRING
 
 > BEGIN STRING
 「クソ……
 　ガキだと思って油断した………
-> CONTEXT: Map278/events/2/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map278/events/2/pages/0/1/Dialogue
+「Damn...
+　I let my guard down, 
+　thinking she was just a girl...
 > END STRING
 
 > BEGIN STRING
 「まさかあんな………
-> CONTEXT: Map278/events/2/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map278/events/2/pages/0/3/Dialogue
+「I can't believe it...
 > END STRING
 
 > BEGIN STRING
 「たすけて………
-> CONTEXT: Map278/events/3/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map278/events/3/pages/0/1/Dialogue
+「Help...
 > END STRING
 
 > BEGIN STRING
 「いや、やっぱりこのままが……
 　ああでも…………
-> CONTEXT: Map278/events/3/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map278/events/3/pages/0/2/Dialogue
+「No, I guess it's better this way...
+　Ah, but...
 > END STRING
 
 > BEGIN STRING
 「ああ……ステラ様………
-> CONTEXT: Map278/events/4/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map278/events/4/pages/0/1/Dialogue
+「Ahh... Lady Stella...
 > END STRING
 
 > BEGIN STRING
 「ずっと……お側に………
-> CONTEXT: Map278/events/4/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map278/events/4/pages/0/2/Dialogue
+「Always...by your side...
 > END STRING
 
 > BEGIN STRING
 「やあ！
-> CONTEXT: Map278/events/5/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map278/events/5/pages/0/1/Dialogue
+「Hey!
 > END STRING
 
 > BEGIN STRING
 「キミもステラ様に
 　遊んでもらいに来たのかい？
-> CONTEXT: Map278/events/5/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map278/events/5/pages/0/2/Dialogue
+「Did you come here 
+　to have Stella play with you too?
 > END STRING
 
 > BEGIN STRING
 「ここ……………
 　…………特等席です。
-> CONTEXT: Map278/events/6/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map278/events/6/pages/0/1/Dialogue
+「This......
+　......is a special place.
 > END STRING
 
 > BEGIN STRING
 「僕たちも、
 　ステラ様に遊んでもらう時は
 　人間の姿に戻してもらえるんだ。
-> CONTEXT: Map278/events/7/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map278/events/7/pages/0/1/Dialogue
+「When Stella plays with us, 
+　we are transformed back into human form.
 > END STRING
 
 > BEGIN STRING
 「何でって……
 　そうしなきゃ\\dあそべない\\dだろ？
-> CONTEXT: Map278/events/7/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map278/events/7/pages/0/4/Dialogue
+「Why...
+　Otherwise we can't \\dplay\\d, right?
 > END STRING
 
 > BEGIN STRING
 ぬいぐるみは喋らない……
-> CONTEXT: Map278/events/8/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map278/events/8/pages/1/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map278/events/8/pages/0/3/Dialogue
+> CONTEXT: Map278/events/8/pages/1/3/Dialogue
+The stuffed toy doesn't talk...
 > END STRING
 
 > BEGIN STRING
 手に何か握られている
-> CONTEXT: Map278/events/8/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map278/events/8/pages/0/4/Dialogue
+Something is being held in the hand
 > END STRING
 
 > BEGIN STRING
 取ってみますか？
-> CONTEXT: Map278/events/8/pages/0/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map278/events/8/pages/0/5/Dialogue
+Take it?
 > END STRING
 
 > BEGIN STRING
 「きゃっ！？
-> CONTEXT: Map278/events/9/pages/0/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map278/events/9/pages/0/5/Dialogue
+「Kyaa!?
 > END STRING
 
 > BEGIN STRING
 「………あれぇ？
-> CONTEXT: Map278/events/9/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map278/events/9/pages/0/6/Dialogue
+「...Huh?
 > END STRING
 
 > BEGIN STRING
 「……わぁ！
 　おにぃちゃんの方から
 　来てくれるなんて！
-> CONTEXT: Map278/events/9/pages/0/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map278/events/9/pages/0/7/Dialogue
+「...Wow!
+　You came to see me!
 > END STRING
 
 > BEGIN STRING
 「ステラうれしぃ～っ\\e[0]
-> CONTEXT: Map278/events/9/pages/0/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map278/events/9/pages/0/10/Dialogue
+「Stella is so happy~\\e[0]
 > END STRING
 
 > BEGIN STRING
 「あれぇ、
 　ステラのこと忘れちゃった？
-> CONTEXT: Map278/events/9/pages/0/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map278/events/9/pages/0/11/Dialogue
+「Oh, 
+　have you forgotten about Stella?
 > END STRING
 
 > BEGIN STRING
 「ステラのこと忘れちゃった？」
-> CONTEXT: Map278/events/9/pages/0/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map278/events/9/pages/0/14/Dialogue
+「Have you forgotten about Stella?」
 > END STRING
 
 > BEGIN STRING
 「それじゃね、自己紹介！
 　あたしステラ！
 　エストはあたしのお姉ちゃん！
-> CONTEXT: Map278/events/9/pages/0/18/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map278/events/9/pages/0/18/Dialogue
+「Well then, let me introduce myself!
+　I'm Stella!
+　Est is my big sister!
 > END STRING
 
 > BEGIN STRING
 「好きなお菓子はチェリーパイ！
 　将来の夢は……
 　ステキなおよめさんになることっ\\e[0]
-> CONTEXT: Map278/events/9/pages/0/21/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map278/events/9/pages/0/21/Dialogue
+「My favorite sweets are cherry pie!
+　My dream for the future is...
+　To become a beautiful bride\\e[0]
 > END STRING
 
 > BEGIN STRING
 「キモチよくなっちゃうとこは……
 　ひ・み・つ\\e[0]
-> CONTEXT: Map278/events/9/pages/0/24/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map278/events/9/pages/0/24/Dialogue
+「The part that makes me feel good is...
+　A s-e-c-r-e-t\\e[0]
 > END STRING
 
 > BEGIN STRING
 「あとは自分で調べてねっ！
-> CONTEXT: Map278/events/9/pages/0/26/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map278/events/9/pages/0/26/Dialogue
+「Try it yourself!
 > END STRING
 
 > BEGIN STRING
 「ほんとぉ？
 　でもウソでもうれしぃっ\\e[0]
-> CONTEXT: Map278/events/9/pages/0/32/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map278/events/9/pages/0/32/Dialogue
+「Really?
+　But even if it's a lie, I'm still happy\\e[0]
 > END STRING
 
 > BEGIN STRING
 「ねぇねぇ、あそぼあそぼ！
 　ステラとあそぼ！
-> CONTEXT: Map278/events/9/pages/0/34/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map278/events/9/pages/0/34/Dialogue
+「Hey, hey, let's play! 
+　Play with Stella!
 > END STRING
 
 > BEGIN STRING
 「ステラとあそぼ！」
-> CONTEXT: Map278/events/9/pages/0/37/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map278/events/9/pages/0/37/Dialogue
+「Play with Stella!」
 > END STRING
 
 > BEGIN STRING
 「やったぁっ\\e[0]
-> CONTEXT: Map278/events/9/pages/0/41/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map278/events/9/pages/0/41/Dialogue
+「Yay~!\\e[0]
 > END STRING
 
 > BEGIN STRING
 「それじゃムリヤリ
 　あそんじゃうんだからっ\\e[0]
-> CONTEXT: Map278/events/9/pages/0/47/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map278/events/9/pages/0/47/Dialogue
+「Well then, 
+　I'll force you to play\\e[0]
 > END STRING
 
 > BEGIN STRING
 「あぁ～んっ\\e[0]
-> CONTEXT: Map278/events/9/pages/0/78/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map278/events/9/pages/0/78/Dialogue
+「Ahhhh~\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -246,6 +265,6 @@
 
 > BEGIN STRING
 「お望みは叶いましたか？
-> CONTEXT: Map278/events/9/pages/0/91/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map278/events/9/pages/0/91/Dialogue
+「Did your wish come true?
 > END STRING

@@ -1,159 +1,173 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 "石像"
-> CONTEXT: Map271/events/6/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map271/events/6/pages/0/7/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map271/events/6/pages/0/18/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map271/events/6/pages/0/36/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map271/events/6/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map271/events/6/pages/0/0/InlineScript/1:4
+> CONTEXT: Map271/events/6/pages/0/7/InlineScript/1:4
+> CONTEXT: Map271/events/6/pages/0/18/InlineScript/1:4
+> CONTEXT: Map271/events/6/pages/0/36/InlineScript/1:4
+> CONTEXT: Map271/events/6/pages/1/0/InlineScript/1:4
+"Stone Statue"
 > END STRING
 
 > BEGIN STRING
 「おう…、よう、
 　じゃんけんしようぜ、じゃんけん。
-> CONTEXT: Map271/events/6/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map271/events/6/pages/0/1/Dialogue
+「Okay... okay,
+　let's play rock-paper-scissors, rock-paper-scissors.
 > END STRING
 
 > BEGIN STRING
 「じゃんけんしようぜ」
-> CONTEXT: Map271/events/6/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map271/events/6/pages/0/4/Dialogue
+「Let's play rock-paper-scissors」
 > END STRING
 
 > BEGIN STRING
 「おおおおぉぉぉ！
 　いくぜええぇぇぇぇ！！
-> CONTEXT: Map271/events/6/pages/0/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map271/events/6/pages/0/8/Dialogue
+「Aaaaaahhh！
+　Let's do itttt!!
 > END STRING
 
 > BEGIN STRING
 何を出しますか？
-> CONTEXT: Map271/events/6/pages/0/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map271/events/6/pages/0/12/Dialogue
+What will you choose?
 > END STRING
 
 > BEGIN STRING
 グー
-> CONTEXT: Map271/events/6/pages/0/13/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map271/events/6/pages/0/13/Choice/0
+Rock
 > END STRING
 
 > BEGIN STRING
 チョキ
-> CONTEXT: Map271/events/6/pages/0/13/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map271/events/6/pages/0/13/Choice/1
+Scissors
 > END STRING
 
 > BEGIN STRING
 パー
-> CONTEXT: Map271/events/6/pages/0/13/Choice/2 < UNTRANSLATED
-
+> CONTEXT: Map271/events/6/pages/0/13/Choice/2
+Paper
 > END STRING
 
 > BEGIN STRING
 "コムファドゥーラ"
-> CONTEXT: Map271/events/6/pages/0/15/InlineScript/1:22 < UNTRANSLATED
-> CONTEXT: Map271/events/6/pages/0/36/InlineScript/6:23 < UNTRANSLATED
-
+> CONTEXT: Map271/events/6/pages/0/15/InlineScript/1:22
+> CONTEXT: Map271/events/6/pages/0/36/InlineScript/6:23
+"Comfadora"
 > END STRING
 
 > BEGIN STRING
 「コムファドゥール
 　コムファドゥーラ
 　コムファドゥ！！
-> CONTEXT: Map271/events/6/pages/0/19/Dialogue < UNTRANSLATED
-> CONTEXT: Map271/events/6/pages/0/45/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map271/events/6/pages/0/19/Dialogue
+> CONTEXT: Map271/events/6/pages/0/45/Dialogue
+「Rock
+　Paper
+　Scissors!!
 > END STRING
 
 > BEGIN STRING
 「…ん、何だそりゃ……
-> CONTEXT: Map271/events/6/pages/0/25/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map271/events/6/pages/0/25/Dialogue
+「...Hmm, what is that...
 > END STRING
 
 > BEGIN STRING
 「ああ…、きさま、ダメだよ。
 　コムファトクゥルスなんて
 　ローカルな手出しちゃ。
-> CONTEXT: Map271/events/6/pages/0/26/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map271/events/6/pages/0/26/Dialogue
+「Ah... you idiot, that's not OK.
+　Don't mess with a local like Komfatkuurus.
 > END STRING
 
 > BEGIN STRING
 「仕切りなおしだ…いくぜ……
-> CONTEXT: Map271/events/6/pages/0/29/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map271/events/6/pages/0/29/Dialogue
+「Let's start afresh... Let's go...
 > END STRING
 
 > BEGIN STRING
 "コムファドゥール"
-> CONTEXT: Map271/events/6/pages/0/33/InlineScript/1:22 < UNTRANSLATED
-> CONTEXT: Map271/events/6/pages/0/36/InlineScript/4:23 < UNTRANSLATED
-
+> CONTEXT: Map271/events/6/pages/0/33/InlineScript/1:22
+> CONTEXT: Map271/events/6/pages/0/36/InlineScript/4:23
+"Rock"
 > END STRING
 
 > BEGIN STRING
 "コムファドゥ"
-> CONTEXT: Map271/events/6/pages/0/36/InlineScript/8:23 < UNTRANSLATED
-
+> CONTEXT: Map271/events/6/pages/0/36/InlineScript/8:23
+"Scissors"
 > END STRING
 
 > BEGIN STRING
 「きさまが出したのは\\v[1]で…
 　オレが\\v[2]か……
-> CONTEXT: Map271/events/6/pages/0/51/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map271/events/6/pages/0/51/Dialogue
+「You brought out \\v[1]...
+I have \\v[2]...
 > END STRING
 
 > BEGIN STRING
 「あいこだな。
 　もう一度いくぜ…！
-> CONTEXT: Map271/events/6/pages/0/54/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map271/events/6/pages/0/54/Dialogue
+「It's a tie. 
+　Let's try again...!
 > END STRING
 
 > BEGIN STRING
 「すると…これがこうなって……
 　うむ…計算によると……
-> CONTEXT: Map271/events/6/pages/0/59/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map271/events/6/pages/0/59/Dialogue
+「So...this is what happened...
+　Well...according to the calculations...
 > END STRING
 
 > BEGIN STRING
 「オレの勝ちだな！
 　がはははははは！
-> CONTEXT: Map271/events/6/pages/0/62/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map271/events/6/pages/0/62/Dialogue
+「I win!
+　Gahahahahaha!
 > END STRING
 
 > BEGIN STRING
 「またやろうぜ。 じゃんけんやろうぜ。
 　いつでも待ってるよ。
-> CONTEXT: Map271/events/6/pages/0/64/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map271/events/6/pages/0/64/Dialogue
+「Let's do it again. 
+　Let's play rock-paper-scissors. 
+　I'm always ready for you.
 > END STRING
 
 > BEGIN STRING
 「おおお！ オレの負けか！
 　なんてこった！
-> CONTEXT: Map271/events/6/pages/0/68/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map271/events/6/pages/0/68/Dialogue
+「Ohhh! I lost! 
+　What the heck!
 > END STRING
 
 > BEGIN STRING
 「おおお！ くやしいぜ！
 　うおぉぉおおお！！
-> CONTEXT: Map271/events/6/pages/0/70/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map271/events/6/pages/0/70/Dialogue
+「Oooh! How frustrating!
+　Uoooooh!!
 > END STRING
 
 > BEGIN STRING
 「もういいよ。
 　じゃんけんなんてやりたくないよ。
-> CONTEXT: Map271/events/6/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map271/events/6/pages/1/1/Dialogue
+「That's enough. 
+　I don't want to play rock-paper-scissors.
 > END STRING

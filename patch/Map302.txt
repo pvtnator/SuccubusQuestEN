@@ -61,29 +61,30 @@ A faint light flickers in the \\ddark\\d
 > CONTEXT: Map254/events/4/pages/0/1/Dialogue
 > CONTEXT: Map254/events/5/pages/0/1/Dialogue
 > CONTEXT: Map254/events/6/pages/0/1/Dialogue
-Would you like to reach out?
+Reach out?
 > END STRING
 
 > BEGIN STRING
 \\dむろ\\dの中は空っぽだ……
-> CONTEXT: Map302/events/21/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map302/events/23/pages/0/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map302/events/21/pages/0/0/Dialogue
+> CONTEXT: Map302/events/23/pages/0/0/Dialogue
+There's nothing inside...
 > END STRING
 
 > BEGIN STRING
 \\c[4]姫百合の花\\c[0]を中に置いてみますか？
-> CONTEXT: Map302/events/21/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map302/events/23/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map302/events/21/pages/0/2/Dialogue
+> CONTEXT: Map302/events/23/pages/0/2/Dialogue
+Put a \\c[4]Lily Flower\\c[0] inside?
 > END STRING
 
 > BEGIN STRING
 \\c[4]姫百合の花\\c[0]が
 仄かな光を放ち始めた……
-> CONTEXT: Map302/events/21/pages/0/6/Dialogue < UNTRANSLATED
-> CONTEXT: Map302/events/23/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map302/events/21/pages/0/6/Dialogue
+> CONTEXT: Map302/events/23/pages/0/6/Dialogue
+The \\c[4]Lily Flower\\c[0]
+is beginning to emit a faint light...
 > END STRING
 
 > BEGIN STRING
@@ -98,25 +99,25 @@ Would you like to reach out?
 
 > BEGIN STRING
 「クマー
-> CONTEXT: Map302/events/24/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map302/events/24/pages/4/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map302/events/24/pages/0/1/Dialogue
+> CONTEXT: Map302/events/24/pages/4/1/Dialogue
+「Bear
 > END STRING
 
 > BEGIN STRING
 「クマー？
-> CONTEXT: Map302/events/24/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map302/events/24/pages/1/1/Dialogue
+「Bear?
 > END STRING
 
 > BEGIN STRING
 「クマー……
-> CONTEXT: Map302/events/24/pages/2/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map302/events/24/pages/2/1/Dialogue
+「Bear...
 > END STRING
 
 > BEGIN STRING
 「クマー！
-> CONTEXT: Map302/events/24/pages/3/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map302/events/24/pages/3/1/Dialogue
+「Bear!
 > END STRING

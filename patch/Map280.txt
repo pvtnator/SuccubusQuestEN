@@ -2,13 +2,15 @@
 > BEGIN STRING
 「元の世界に帰りたいなら、
 　左の扉をくぐるといいよ！
-> CONTEXT: Map280/events/4/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map280/events/4/pages/0/1/Dialogue
+「If you want to go back to your world, 
+　go through the door on the left!
 > END STRING
 
 > BEGIN STRING
 「もっと奥へ進みたいなら、
 　右の扉をくぐるといいよ！
-> CONTEXT: Map280/events/5/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map280/events/5/pages/0/1/Dialogue
+「If you want to go further, 
+　go through the door on the right!
 > END STRING

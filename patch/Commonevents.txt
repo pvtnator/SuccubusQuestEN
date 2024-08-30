@@ -97,66 +97,69 @@ Can't take Christine there.
 　いっぱい話しかけてくれたわね。
 > CONTEXT: Commonevents/23/22/Dialogue
 「\\n[1]...
-　You talked to me a lot.
+　You've talked to me a lot.
 > END STRING
 
 > BEGIN STRING
 「私、\\n[1]に必要なのよね？
-> CONTEXT: Commonevents/23/24/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/23/24/Dialogue
+「I'm...important to you, right?
 > END STRING
 
 > BEGIN STRING
 「私、\\n[1]に必要なのよね？」
-> CONTEXT: Commonevents/23/26/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/23/26/Dialogue
+「I'm...important to you, right?」
 > END STRING
 
 > BEGIN STRING
 「ふふっ、
 　言われなくたって分かってるけどね\\e[0]
-> CONTEXT: Commonevents/23/30/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/23/30/Dialogue
+「Hehe,
+　I know that even without you telling me\\e[0]
 > END STRING
 
 > BEGIN STRING
 「そう…？
 　強がったりしなくていいのに。
-> CONTEXT: Commonevents/23/36/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/23/36/Dialogue
+「Really?
+　There's no need to act tough.
 > END STRING
 
 > BEGIN STRING
 「もうすぐよ………
 　…分かるわ。
-> CONTEXT: Commonevents/23/54/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/23/54/Dialogue
+「It'll be soon...
+　...I'm sure.
 > END STRING
 
 > BEGIN STRING
 「\\c[4]グラム\\c[0]も力を取り戻しつつある……
-> CONTEXT: Commonevents/23/56/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/23/56/Dialogue
+「\\c[4]Gram\\c[0] is also regaining power...
 > END STRING
 
 > BEGIN STRING
 「終わらせましょう、夢を。
-> CONTEXT: Commonevents/23/57/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/23/57/Dialogue
+「Let's end this dream.
 > END STRING
 
 > BEGIN STRING
 「どうしてかしら、ここ、
 　いるだけで楽しくてわくわくして……
 > CONTEXT: Commonevents/23/77/Dialogue
-「I don't know why, 
-　but just being here makes me feel happy and excited...
+「I don't know why, but,
+　just being here makes me feel happy and excited...
 > END STRING
 
 > BEGIN STRING
 「…だけど、すごく嫌な気分……。
 > CONTEXT: Commonevents/23/79/Dialogue
-「But I feel so bad...
+「But also really unpleasant...
 > END STRING
 
 > BEGIN STRING
@@ -955,61 +958,66 @@ pours into \\n[1]!
 
 > BEGIN STRING
 \\a[\\v[105]]「やぁん、いっぱぁ～いっ♪
-> CONTEXT: Commonevents/52/199/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/199/Dialogue
+\\a[\\v[105]]「Aaah, I'm full!♪
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「ほらほら、
 \\w[\\v[104]]　もっともっと出してぇ～～っ\\w[\\v[105]]
-> CONTEXT: Commonevents/52/200/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/200/Dialogue
+\\a[\\v[105]]「Come on, come on,
+\\w[\\v[104]]　Give me more, more, please~~\\w[\\v[105]]
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「あははははっ♪
-> CONTEXT: Commonevents/52/202/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/202/Dialogue
+\\a[\\v[105]]「Ahahahaha♪
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「ふふっ、イイわぁ……
 \\w[\\v[104]]　おいしい……\\e[0]
-> CONTEXT: Commonevents/52/206/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/206/Dialogue
+\\a[\\v[105]]「Hehe, good...
+\\w[\\v[104]]　It's delicious...\\e[0]
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「でもまだよ……
 \\w[\\v[104]]　もっと…いっぱいちょうだぁいっ！
-> CONTEXT: Commonevents/52/208/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/208/Dialogue
+\\a[\\v[105]]「But it's not enough...
+\\w[\\v[104]]　Give me more... lots more!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「あぁん、ステキっ……
-> CONTEXT: Commonevents/52/213/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/213/Dialogue
+\\a[\\v[105]]「Oh, how lovely...
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「さぁ、もっと………\\e[0]
-> CONTEXT: Commonevents/52/214/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/214/Dialogue
+\\a[\\v[105]]「Come on, more...\\e[0]
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「あら、もうおしまい…？
-> CONTEXT: Commonevents/52/218/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/218/Dialogue
+\\a[\\v[105]]「Oh, it's over already...?
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「でも私、
 　まだイってませんわよ…？
 \\w[\\v[105]]　ふふっ\\e[0]
-> CONTEXT: Commonevents/52/220/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/220/Dialogue
+\\a[\\v[105]]「But,
+　I haven't come yet...?
+\\w[\\v[105]]　Heheh\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -1021,16 +1029,18 @@ pours into \\n[1]!
 
 > BEGIN STRING
 \\a[\\v[105]]「あら、もうおしまい？
-> CONTEXT: Commonevents/52/232/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/232/Dialogue
+\\a[\\v[105]]「Oh, it's over already?
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「でもあたし、
 　まだイってないわよ…？
 \\w[\\v[105]]　ふふ\\e[0]
-> CONTEXT: Commonevents/52/234/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/234/Dialogue
+\\a[\\v[105]]「But,
+　I haven't come yet...?
+\\w[\\v[105]]　Hehe\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -1076,25 +1086,6 @@ pours into \\n[1]!
 > BEGIN STRING
 \\a[\\v[105]]「もっと…ちょうだい…\\e[0]
 > CONTEXT: Commonevents/52/260/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\a[\\v[105]]「きゃんっ、おいしぃ～っ☆
-> CONTEXT: None < UNUSED
-
-> END STRING
-
-> BEGIN STRING
-\\a[\\v[105]]「ほらほら、
-　もっともっと出してぇ～～っ\\w[\\v[105]]
-> CONTEXT: None < UNUSED
-
-> END STRING
-
-> BEGIN STRING
-\\a[\\v[105]]「あははははっ☆
-> CONTEXT: None < UNUSED
 
 > END STRING
 
@@ -1263,15 +1254,16 @@ pours into \\n[1]!
 
 > BEGIN STRING
 \\a[\\v[105]]「ふふっ、イっちゃったね\\e[0]
-> CONTEXT: Commonevents/52/343/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/343/Dialogue
+\\a[\\v[105]]「Hehe, you came\\e[0]
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「これから一生、
 　オモチャにしてかわいがってあげるぅ\\e[0]\\a[\\v[105]]
-> CONTEXT: Commonevents/52/344/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/344/Dialogue
+\\a[\\v[105]]「From now on, 
+　I'll cherish you as my toy forever\\e[0]\\a[\\v[105]]
 > END STRING
 
 > BEGIN STRING
@@ -2993,7 +2985,7 @@ Alp
 > BEGIN STRING
 「わぁ、アタリぃ～っ\\e[0]
 > CONTEXT: Commonevents/153/536/Dialogue
-"Wow, correct~\\e[0]
+「Wow, correct~\\e[0]
 > END STRING
 
 > BEGIN STRING

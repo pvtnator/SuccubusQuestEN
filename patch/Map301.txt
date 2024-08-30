@@ -1,35 +1,37 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 貝殻がぼんやりと光っている
-> CONTEXT: Map301/events/32/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map301/events/33/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map301/events/32/pages/0/1/Dialogue
+> CONTEXT: Map301/events/33/pages/0/1/Dialogue
+The shell is glowing faintly
 > END STRING
 
 > BEGIN STRING
 耳にあててみますか？
-> CONTEXT: Map301/events/32/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map301/events/33/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map301/events/32/pages/0/2/Dialogue
+> CONTEXT: Map301/events/33/pages/0/2/Dialogue
+Put it on your ear?
 > END STRING
 
 > BEGIN STRING
 貝殻から声が聞こえてきた……
-> CONTEXT: Map301/events/32/pages/0/5/Dialogue < UNTRANSLATED
-> CONTEXT: Map301/events/33/pages/0/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map301/events/32/pages/0/5/Dialogue
+> CONTEXT: Map301/events/33/pages/0/5/Dialogue
+A voice came from the shell...
 > END STRING
 
 > BEGIN STRING
 
 　　　　　　　　　　　　　　　　　　正しき道は、私より北に５
-> CONTEXT: Map301/events/32/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map301/events/32/pages/0/6/Dialogue
 
+　　　　　　　　　　　　　　　　　The path is 5 north of me
 > END STRING
 
 > BEGIN STRING
 
 　　　　　　　　　　　　　　　　　　正しき道は、私より東
-> CONTEXT: Map301/events/33/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map301/events/33/pages/0/6/Dialogue
 
+　　　　　　　　　　　　　　　　　The path is east of me
 > END STRING

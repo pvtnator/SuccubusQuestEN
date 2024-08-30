@@ -2,21 +2,24 @@
 > BEGIN STRING
 「ここが　ぼくのおうちだよ
 　ありがとう！！
-> CONTEXT: Map264/events/1/pages/0/27/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map264/events/1/pages/0/27/Dialogue
+「This is my home, 
+　thank you!!
 > END STRING
 
 > BEGIN STRING
 「じぶんじゃ　きづいてないかも
 　しれないけど、
 　きみ　すごくつよくなってるんだよ！
-> CONTEXT: Map264/events/1/pages/0/64/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map264/events/1/pages/0/64/Dialogue
+「Maybe you didn't know, 
+　but you got much stronger!
 > END STRING
 
 > BEGIN STRING
 「やりたいことも　できるさ！
 　がんばって！！
-> CONTEXT: Map264/events/1/pages/0/67/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map264/events/1/pages/0/67/Dialogue
+「You can do what you want! 
+　Do your best!
 > END STRING

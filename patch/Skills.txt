@@ -605,7 +605,7 @@ Dorumba/3/0/0
 > BEGIN STRING
 相手一人の気をそらす / 成功率：ムードに反比例 [リチャージ：3ターン]
 > CONTEXT: Skills/96/description/
-Distract 1 opponent / Success inversely proportional to mood [CD: 3]
+Distract 1 opponent / Success: Inverse to mood [CD: 3]
 > END STRING
 
 > BEGIN STRING
@@ -814,37 +814,37 @@ Luck up
 
 > BEGIN STRING
 ファル・ウルズグン
-> CONTEXT: Skills/119/name/ < UNTRANSLATED
-> CONTEXT: Skills/301/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/119/name/
+> CONTEXT: Skills/301/name/
+Far-Uruzgun
 > END STRING
 
 > BEGIN STRING
 ファル・ラグズグン
-> CONTEXT: Skills/120/name/ < UNTRANSLATED
-> CONTEXT: Skills/302/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/120/name/
+> CONTEXT: Skills/302/name/
+Far-Ragsgun
 > END STRING
 
 > BEGIN STRING
 ファル・ハガルグン
-> CONTEXT: Skills/121/name/ < UNTRANSLATED
-> CONTEXT: Skills/303/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/121/name/
+> CONTEXT: Skills/303/name/
+Far-Hagalgun
 > END STRING
 
 > BEGIN STRING
 ファル・エオルグン
-> CONTEXT: Skills/122/name/ < UNTRANSLATED
-> CONTEXT: Skills/304/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/122/name/
+> CONTEXT: Skills/304/name/
+Far-Eorgun
 > END STRING
 
 > BEGIN STRING
 ファル・シギルグン
-> CONTEXT: Skills/123/name/ < UNTRANSLATED
-> CONTEXT: Skills/305/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/123/name/
+> CONTEXT: Skills/305/name/
+Far-Sigilgun
 > END STRING
 
 > BEGIN STRING
@@ -857,9 +857,9 @@ Arsgun
 
 > BEGIN STRING
 全能力アップ
-> CONTEXT: Skills/124/description/ < UNTRANSLATED
-> CONTEXT: Skills/162/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/124/description/
+> CONTEXT: Skills/162/description/
+All abilities up
 > END STRING
 
 > BEGIN STRING
@@ -871,9 +871,9 @@ Uruzfuni
 
 > BEGIN STRING
 相手の精力ダウン
-> CONTEXT: Skills/125/description/ < UNTRANSLATED
-> CONTEXT: Skills/291/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/125/description/
+> CONTEXT: Skills/291/description/
+Opponent's energy down
 > END STRING
 
 > BEGIN STRING
@@ -885,9 +885,9 @@ Raguzfuni
 
 > BEGIN STRING
 相手の技巧ダウン
-> CONTEXT: Skills/126/description/ < UNTRANSLATED
-> CONTEXT: Skills/292/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/126/description/
+> CONTEXT: Skills/292/description/
+Opponent's skill down
 > END STRING
 
 > BEGIN STRING
@@ -899,9 +899,9 @@ Hagalfuni
 
 > BEGIN STRING
 相手の素早さダウン
-> CONTEXT: Skills/127/description/ < UNTRANSLATED
-> CONTEXT: Skills/293/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/127/description/
+> CONTEXT: Skills/293/description/
+Opponent's agility down
 > END STRING
 
 > BEGIN STRING
@@ -929,9 +929,9 @@ Sigilfuni
 
 > BEGIN STRING
 相手の魅力ダウン
-> CONTEXT: Skills/129/description/ < UNTRANSLATED
-> CONTEXT: Skills/295/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/129/description/
+> CONTEXT: Skills/295/description/
+Opponent's charm down
 > END STRING
 
 > BEGIN STRING
@@ -944,8 +944,8 @@ Arsfuni
 
 > BEGIN STRING
 相手の全能力ダウン
-> CONTEXT: Skills/130/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/130/description/
+Opponent's all abilities down
 > END STRING
 
 > BEGIN STRING
@@ -1010,14 +1010,14 @@ Transform into an animal
 
 > BEGIN STRING
 ベオクヴァル
-> CONTEXT: Skills/138/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/138/name/
+Beokval
 > END STRING
 
 > BEGIN STRING
 アイテムを生成する
-> CONTEXT: Skills/138/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/138/description/
+Generate an item
 > END STRING
 
 > BEGIN STRING
@@ -1103,8 +1103,8 @@ Far-Dorumba/5/0/0
 
 > BEGIN STRING
 相手全員の気をそらす / 成功率：ムードに反比例 [リチャージ：5ターン]
-> CONTEXT: Skills/147/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/147/description/
+Distract all enemies / Success: Inverse to mood [CD: 5]
 > END STRING
 
 > BEGIN STRING
@@ -1221,38 +1221,38 @@ Prevents all opponents from using magic
 
 > BEGIN STRING
 フレッシュ/9/0/0
-> CONTEXT: Skills/160/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/160/name/
+Fresh/9/0/0
 > END STRING
 
 > BEGIN STRING
 毎ターン全員のEP回復・テンションアップ [リチャージ：9ターン]
-> CONTEXT: Skills/160/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/160/description/
+Recover EP, tension up for all every turn [CD: 9]
 > END STRING
 
 > BEGIN STRING
 サイズ/3/0/0
-> CONTEXT: Skills/161/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/161/name/
+Size/3/0/0
 > END STRING
 
 > BEGIN STRING
 魔法を使う相手からMPを奪う [リチャージ：3ターン]
-> CONTEXT: Skills/161/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/161/description/
+Steal MP from the person casting magic. [CD: 3]
 > END STRING
 
 > BEGIN STRING
 ストック/-1/0/0
-> CONTEXT: Skills/163/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/163/name/
+Stock/-1/0/0
 > END STRING
 
 > BEGIN STRING
 ストックを1増やす [リチャージ：バトル]
-> CONTEXT: Skills/163/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/163/description/
+Increase stock by 1 [Recharge: Battle]
 > END STRING
 
 > BEGIN STRING
@@ -1491,14 +1491,14 @@ Dorumba
 
 > BEGIN STRING
 オーロラルグロウ
-> CONTEXT: Skills/244/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/244/name/
+Auroral Glow
 > END STRING
 
 > BEGIN STRING
 ディスペルソング
-> CONTEXT: Skills/245/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/245/name/
+Dispel Song
 > END STRING
 
 > BEGIN STRING
@@ -1510,8 +1510,8 @@ Dorumba
 
 > BEGIN STRING
 デイスペルソング
-> CONTEXT: Skills/246/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/246/name/
+Dispel Song
 > END STRING
 
 > BEGIN STRING
@@ -1523,8 +1523,8 @@ Dorumba
 
 > BEGIN STRING
 クリアソウル
-> CONTEXT: Skills/247/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/247/name/
+Clear Soul
 > END STRING
 
 > BEGIN STRING
@@ -1535,8 +1535,8 @@ Dorumba
 
 > BEGIN STRING
 ファンシーヴィジョン
-> CONTEXT: Skills/248/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/248/name/
+Fancy Vision
 > END STRING
 
 > BEGIN STRING
@@ -1562,8 +1562,8 @@ Gaze / High Probability Bind
 
 > BEGIN STRING
 セクシーアイ
-> CONTEXT: Skills/250/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/250/name/
+Sexy Eye
 > END STRING
 
 > BEGIN STRING
@@ -1716,14 +1716,14 @@ Sensitive Powder
 
 > BEGIN STRING
 リジェネレーション
-> CONTEXT: Skills/267/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/267/name/
+Regeneration
 > END STRING
 
 > BEGIN STRING
 センシブリキッド
-> CONTEXT: Skills/268/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/268/name/
+Sensitive Liquid
 > END STRING
 
 > BEGIN STRING
@@ -1735,8 +1735,8 @@ Roar
 
 > BEGIN STRING
 顔を洗う
-> CONTEXT: Skills/270/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/270/name/
+Wash Face
 > END STRING
 
 > BEGIN STRING
@@ -2179,9 +2179,9 @@ Sexy Pose
 
 > BEGIN STRING
 狐火
-> CONTEXT: Skills/337/name/ < UNTRANSLATED
-> CONTEXT: Skills/338/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/337/name/
+> CONTEXT: Skills/338/name/
+Foxfire
 > END STRING
 
 > BEGIN STRING
@@ -2804,8 +2804,8 @@ Snow Mouth
 
 > BEGIN STRING
 惑乱の手練
-> CONTEXT: Skills/420/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/420/name/
+Confusion Technique
 > END STRING
 
 > BEGIN STRING
@@ -2816,21 +2816,21 @@ Snow Mouth
 
 > BEGIN STRING
 くすぐる
-> CONTEXT: Skills/421/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/421/name/
+Tickle
 > END STRING
 
 > BEGIN STRING
 連続キッス/0/0/2
-> CONTEXT: Skills/422/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/422/name/
+Continuous kisses/0/0/2
 > END STRING
 
 > BEGIN STRING
 グングニル
-> CONTEXT: Skills/423/name/ < UNTRANSLATED
-> CONTEXT: Items/271/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/423/name/
+> CONTEXT: Items/271/name/
+Gungnir
 > END STRING
 
 > BEGIN STRING
@@ -3414,8 +3414,8 @@ Wintermute
 
 > BEGIN STRING
 コーラス
-> CONTEXT: Skills/670/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/670/name/
+Chorus
 > END STRING
 
 > BEGIN STRING

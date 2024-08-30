@@ -1,28 +1,29 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 光球が妖しく辺りを照らしている
-> CONTEXT: Map289/events/2/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map270/events/2/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map268/events/1/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map270/events/3/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map268/events/2/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map268/events/3/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map268/events/4/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map261/events/1/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map259/events/1/pages/0/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map289/events/2/pages/0/0/Dialogue
+> CONTEXT: Map270/events/2/pages/0/0/Dialogue
+> CONTEXT: Map268/events/1/pages/0/0/Dialogue
+> CONTEXT: Map270/events/3/pages/0/0/Dialogue
+> CONTEXT: Map268/events/2/pages/0/0/Dialogue
+> CONTEXT: Map268/events/3/pages/0/0/Dialogue
+> CONTEXT: Map268/events/4/pages/0/0/Dialogue
+> CONTEXT: Map261/events/1/pages/0/0/Dialogue
+> CONTEXT: Map259/events/1/pages/0/0/Dialogue
+The ball of light 
+mysteriously illuminates the surroundings.
 > END STRING
 
 > BEGIN STRING
 触れてみますか？
-> CONTEXT: Map289/events/2/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map270/events/2/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map268/events/1/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map270/events/3/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map268/events/2/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map268/events/3/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map268/events/4/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map261/events/1/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map259/events/1/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map289/events/2/pages/0/1/Dialogue
+> CONTEXT: Map270/events/2/pages/0/1/Dialogue
+> CONTEXT: Map268/events/1/pages/0/1/Dialogue
+> CONTEXT: Map270/events/3/pages/0/1/Dialogue
+> CONTEXT: Map268/events/2/pages/0/1/Dialogue
+> CONTEXT: Map268/events/3/pages/0/1/Dialogue
+> CONTEXT: Map268/events/4/pages/0/1/Dialogue
+> CONTEXT: Map261/events/1/pages/0/1/Dialogue
+> CONTEXT: Map259/events/1/pages/0/1/Dialogue
+Touch it?
 > END STRING

@@ -49,20 +49,22 @@
 
 > BEGIN STRING
 「エスト…様……
-> CONTEXT: Map274/events/6/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map274/events/6/pages/0/1/Dialogue
+「Est...
 > END STRING
 
 > BEGIN STRING
 「おお、さっきまでここに……
 　見えてたのに…？
-> CONTEXT: Map274/events/6/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map274/events/6/pages/0/2/Dialogue
+「Oh, you were here just a moment ago...
+　Could I not see you...?
 > END STRING
 
 > BEGIN STRING
 「ああ、何故……
 　何故………
-> CONTEXT: Map274/events/6/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map274/events/6/pages/0/4/Dialogue
+「Oh, why...
+　Why...
 > END STRING

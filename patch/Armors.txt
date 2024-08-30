@@ -1920,26 +1920,26 @@ Learn: Fossible / Agility +10
 
 > BEGIN STRING
 新緑の語り部/0/0/0/160
-> CONTEXT: Armors/234/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/234/name/
+Verdant Storyteller/0/0/0/160
 > END STRING
 
 > BEGIN STRING
 習得：フレッシュ / 魔力+7
-> CONTEXT: Armors/234/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/234/description/
+Learn: Fresh / Magic +7
 > END STRING
 
 > BEGIN STRING
 猫の髭/0/0/0/121m147
-> CONTEXT: Armors/235/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/235/name/
+Cat's Whiskers/0/0/0/121m147
 > END STRING
 
 > BEGIN STRING
 習得：ファル・ドルンバ / 習得：ファル・ハガルグン / 魔力+3
-> CONTEXT: Armors/235/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/235/description/
+Learn: Far-Dorumba / Learn: Far-Hagalgun / Magic +3
 > END STRING
 
 > BEGIN STRING
@@ -1956,62 +1956,62 @@ Learn: Fossible / Agility +10
 
 > BEGIN STRING
 深海の王笏/0/0/0/122
-> CONTEXT: Armors/237/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/237/name/
+Deep Sea Scepter/0/0/0/122
 > END STRING
 
 > BEGIN STRING
 習得：ファル・エオルグン / MP-20% / 素早さ-20
-> CONTEXT: Armors/237/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/237/description/
+Learn: Far-Eorgun / MP -20% / Agility -20
 > END STRING
 
 > BEGIN STRING
 創造の床/0/0/0/138
-> CONTEXT: Armors/238/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/238/name/
+Bed of Creation/0/0/0/138
 > END STRING
 
 > BEGIN STRING
 習得：ベオクヴァル
-> CONTEXT: Armors/238/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/238/description/
+Learn: Beokval
 > END STRING
 
 > BEGIN STRING
 メビウスリング/0/0/0/154m157
-> CONTEXT: Armors/239/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/239/name/
+Moebius Ring/0/0/0/154m157
 > END STRING
 
 > BEGIN STRING
 習得：セション / 習得：サック / 魔力+5
-> CONTEXT: Armors/239/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/239/description/
+Learn: Session / Learn: Suck / Magic +5
 > END STRING
 
 > BEGIN STRING
 ソウルガード/0/0/0/163
-> CONTEXT: Armors/240/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/240/name/
+Soulguard/0/0/0/163
 > END STRING
 
 > BEGIN STRING
 習得：ストック
-> CONTEXT: Armors/240/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/240/description/
+Learn: Stock
 > END STRING
 
 > BEGIN STRING
 淑女の冠/10/0/0/134m146
-> CONTEXT: Armors/241/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/241/name/
+Lady's Crown/10/0/0/134m146
 > END STRING
 
 > BEGIN STRING
 習得：リスティル / 習得：ファル・ルゥイン / 魅力+10 / 魔力+5
-> CONTEXT: Armors/241/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/241/description/
+Learn: Listil / Learn: Far-Luin / Charm +10 / Magic +5
 > END STRING
 
 > BEGIN STRING

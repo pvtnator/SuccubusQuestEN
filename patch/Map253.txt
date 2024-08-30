@@ -9,27 +9,30 @@
 > BEGIN STRING
 「マーシャ！
 　ああ、マーシャ！
-> CONTEXT: Map253/events/12/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map253/events/12/pages/0/1/Dialogue
+「Marsha!
+　Oh, Marsha!
 > END STRING
 
 > BEGIN STRING
 「こんなところにいたんだね！
 　やっと会えたよ！
-> CONTEXT: Map253/events/12/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map253/events/12/pages/0/3/Dialogue
+「So this is where you were! 
+　I finally got to meet you!
 > END STRING
 
 > BEGIN STRING
 「…あれ、でも、君は、
 　男じゃないか……
-> CONTEXT: Map253/events/12/pages/0/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map253/events/12/pages/0/5/Dialogue
+「...But, you're a man...
 > END STRING
 
 > BEGIN STRING
 「そうか！
 　わかったよ！！
-> CONTEXT: Map253/events/12/pages/0/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map253/events/12/pages/0/7/Dialogue
+「I see!
+　I get it!!
 > END STRING

@@ -16,18 +16,18 @@
 
 > BEGIN STRING
 「ここでは\\dまやかし\\dを売っています。
-> CONTEXT: Map279/events/1/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map279/events/1/pages/0/1/Dialogue
+「We sell \\dhoaxes\\d here.
 > END STRING
 
 > BEGIN STRING
 「\\dまやかし\\dがご入用ですか？
-> CONTEXT: Map279/events/1/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map279/events/1/pages/0/2/Dialogue
+「Want some \\dhoaxes\\d?
 > END STRING
 
 > BEGIN STRING
 「まやかしがご入用ですか？」
-> CONTEXT: Map279/events/1/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map279/events/1/pages/0/4/Dialogue
+「Want some hoaxes?」
 > END STRING

@@ -325,14 +325,14 @@ Synthesia
 
 > BEGIN STRING
 歪んだ時計
-> CONTEXT: Items/38/name/ < UNTRANSLATED
-
+> CONTEXT: Items/38/name/
+Distorted Clock
 > END STRING
 
 > BEGIN STRING
 全員のEP・TP・ムードを元に戻す
-> CONTEXT: Items/38/description/ < UNTRANSLATED
-
+> CONTEXT: Items/38/description/
+Reset everyone's EP, TP, and mood
 > END STRING
 
 > BEGIN STRING
@@ -413,14 +413,14 @@ Ether Lotion
 
 > BEGIN STRING
 人魚の竪琴
-> CONTEXT: Items/48/name/ < UNTRANSLATED
-
+> CONTEXT: Items/48/name/
+Mermaid's Harp
 > END STRING
 
 > BEGIN STRING
 美しい音色を奏でる竪琴
-> CONTEXT: Items/48/description/ < UNTRANSLATED
-
+> CONTEXT: Items/48/description/
+A harp that produces beautiful sounds
 > END STRING
 
 > BEGIN STRING
@@ -1461,38 +1461,38 @@ A living flame imbued with intense magic
 
 > BEGIN STRING
 丸皿
-> CONTEXT: Items/263/name/ < UNTRANSLATED
-
+> CONTEXT: Items/263/name/
+Round Plate
 > END STRING
 
 > BEGIN STRING
 夜の国で手に入れた何の変哲もない丸皿
-> CONTEXT: Items/263/description/ < UNTRANSLATED
-
+> CONTEXT: Items/263/description/
+An ordinary round plate from the Land of Night
 > END STRING
 
 > BEGIN STRING
 迷子の子供
-> CONTEXT: Items/264/name/ < UNTRANSLATED
-
+> CONTEXT: Items/264/name/
+Lost Child
 > END STRING
 
 > BEGIN STRING
 夜の国で迷子になっていた子供
-> CONTEXT: Items/264/description/ < UNTRANSLATED
-
+> CONTEXT: Items/264/description/
+A child lost in the Land of Night
 > END STRING
 
 > BEGIN STRING
 姫百合の花
-> CONTEXT: Items/265/name/ < UNTRANSLATED
-
+> CONTEXT: Items/265/name/
+Lily Flower
 > END STRING
 
 > BEGIN STRING
 夜の国で摘んだ、可憐な姫百合の花
-> CONTEXT: Items/265/description/ < UNTRANSLATED
-
+> CONTEXT: Items/265/description/
+A lovely lily flower picked in the Land of Night
 > END STRING
 
 > BEGIN STRING
@@ -1640,39 +1640,39 @@ A vision emerges from within the Demon Lord Shard.
 
 > BEGIN STRING
 ファシネイティヴヴィジョン
-> CONTEXT: Items/284/name/ < UNTRANSLATED
-
+> CONTEXT: Items/284/name/
+Fascinative Vision
 > END STRING
 
 > BEGIN STRING
 ノーブルヴィジョン
-> CONTEXT: Items/285/name/ < UNTRANSLATED
-
+> CONTEXT: Items/285/name/
+Noble Vision
 > END STRING
 
 > BEGIN STRING
 ジェントルヴィジョン
-> CONTEXT: Items/286/name/ < UNTRANSLATED
-
+> CONTEXT: Items/286/name/
+Gentle Vision
 > END STRING
 
 > BEGIN STRING
 幻想の指輪
-> CONTEXT: Items/298/name/ < UNTRANSLATED
-
+> CONTEXT: Items/298/name/
+Ring of Illusion
 > END STRING
 
 > BEGIN STRING
 目に見えなく手でも触れられないが、存在だけはそこにある奇妙な指輪
-> CONTEXT: Items/298/description/ < UNTRANSLATED
-> CONTEXT: Items/299/description/ < UNTRANSLATED
-
+> CONTEXT: Items/298/description/
+> CONTEXT: Items/299/description/
+A strange ring that cannot be seen or touched, but exists.
 > END STRING
 
 > BEGIN STRING
 虚構の指輪
-> CONTEXT: Items/299/name/ < UNTRANSLATED
-
+> CONTEXT: Items/299/name/
+Fictional Ring
 > END STRING
 
 > BEGIN STRING

@@ -2,30 +2,31 @@
 > BEGIN STRING
 透明な水が、どこまでも深く
 たたえられている……
-> CONTEXT: Map298/events/1/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map298/events/2/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map298/events/3/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map292/events/2/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map291/events/9/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map298/events/4/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map292/events/3/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map291/events/10/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map291/events/11/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map291/events/12/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map298/events/1/pages/0/1/Dialogue
+> CONTEXT: Map298/events/2/pages/0/1/Dialogue
+> CONTEXT: Map298/events/3/pages/0/1/Dialogue
+> CONTEXT: Map292/events/2/pages/0/1/Dialogue
+> CONTEXT: Map291/events/9/pages/0/1/Dialogue
+> CONTEXT: Map298/events/4/pages/0/1/Dialogue
+> CONTEXT: Map292/events/3/pages/0/1/Dialogue
+> CONTEXT: Map291/events/10/pages/0/1/Dialogue
+> CONTEXT: Map291/events/11/pages/0/1/Dialogue
+> CONTEXT: Map291/events/12/pages/0/1/Dialogue
+The crystal clear water 
+flows endlessly deep...
 > END STRING
 
 > BEGIN STRING
 飛び込んでみますか？
-> CONTEXT: Map298/events/1/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map298/events/2/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map298/events/3/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map292/events/2/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map291/events/9/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map298/events/4/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map292/events/3/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map291/events/10/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map291/events/11/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map291/events/12/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map298/events/1/pages/0/3/Dialogue
+> CONTEXT: Map298/events/2/pages/0/3/Dialogue
+> CONTEXT: Map298/events/3/pages/0/3/Dialogue
+> CONTEXT: Map292/events/2/pages/0/3/Dialogue
+> CONTEXT: Map291/events/9/pages/0/3/Dialogue
+> CONTEXT: Map298/events/4/pages/0/3/Dialogue
+> CONTEXT: Map292/events/3/pages/0/3/Dialogue
+> CONTEXT: Map291/events/10/pages/0/3/Dialogue
+> CONTEXT: Map291/events/11/pages/0/3/Dialogue
+> CONTEXT: Map291/events/12/pages/0/3/Dialogue
+Jump in?
 > END STRING

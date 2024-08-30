@@ -39,56 +39,59 @@
 
 > BEGIN STRING
 「回復したいのか？
-> CONTEXT: Map250/events/1/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map250/events/1/pages/0/1/Dialogue
+「Wanna recover?
 > END STRING
 
 > BEGIN STRING
 「回復したいのか？」
-> CONTEXT: Map250/events/1/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map250/events/1/pages/0/3/Dialogue
+「Wanna recover?」
 > END STRING
 
 > BEGIN STRING
 「そらっ！
-> CONTEXT: Map250/events/1/pages/0/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map250/events/1/pages/0/9/Dialogue
+「There!
 > END STRING
 
 > BEGIN STRING
 \\n[1]は回復した！
-> CONTEXT: Map250/events/1/pages/0/11/Dialogue < UNTRANSLATED
-> CONTEXT: Map150/events/6/pages/0/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map150/events/7/pages/0/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map150/events/8/pages/0/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map150/events/9/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map250/events/1/pages/0/11/Dialogue
+> CONTEXT: Map150/events/6/pages/0/4/Dialogue
+> CONTEXT: Map150/events/7/pages/0/4/Dialogue
+> CONTEXT: Map150/events/8/pages/0/4/Dialogue
+> CONTEXT: Map150/events/9/pages/0/4/Dialogue
+\\n[1] has recovered!
 > END STRING
 
 > BEGIN STRING
 「ヒュウ！
 　久しぶりに来るぜ！
-> CONTEXT: Map250/events/3/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map250/events/3/pages/0/3/Dialogue
+「Whew! 
+　It's been a while!
 > END STRING
 
 > BEGIN STRING
 「ここは夜の国でも、
 　一番元の世界に近いところだ。
-> CONTEXT: Map250/events/3/pages/0/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map250/events/3/pages/0/5/Dialogue
+「Even in the Land of Night,
+　this is the place closest to the real world.
 > END STRING
 
 > BEGIN STRING
 「エストがいるのは
 　きっともっと深いところだろうな。
-> CONTEXT: Map250/events/3/pages/0/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map250/events/3/pages/0/7/Dialogue
+「Est must be somewhere deeper.
 > END STRING
 
 > BEGIN STRING
 「ここに来れば回復してやるからな。
 　ガンバってこいよ！
-> CONTEXT: Map250/events/3/pages/0/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map250/events/3/pages/0/9/Dialogue
+「If you come here, I'll help you recover.
+　Good luck!
 > END STRING

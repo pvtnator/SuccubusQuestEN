@@ -2,27 +2,29 @@
 > BEGIN STRING
 「ぼくのおうちには
 　えんとつは　ついてないんだ！
-> CONTEXT: Map266/events/1/pages/0/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map265/events/1/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map266/events/1/pages/0/4/Dialogue
+> CONTEXT: Map265/events/1/pages/0/4/Dialogue
+「My house doesn't have a chimney!
 > END STRING
 
 > BEGIN STRING
 「ああ…もっと……
 　もっと…ああっ…激しくっ……\\e[0]
-> CONTEXT: Map266/events/4/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map266/events/4/pages/0/1/Dialogue
+「Oh...more...
+　More...ahh...harder...\\e[0]
 > END STRING
 
 > BEGIN STRING
 「ごめんなさい……
 　もう…出な………ぁぁぁ……
-> CONTEXT: Map266/events/5/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map266/events/5/pages/0/1/Dialogue
+「Sorry...
+　It's not coming out anymore...ahhhh...
 > END STRING
 
 > BEGIN STRING
 「ぁぅぁぅぁ………
-> CONTEXT: Map266/events/5/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map266/events/5/pages/0/3/Dialogue
+「aaaa.....
 > END STRING

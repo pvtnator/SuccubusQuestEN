@@ -34,72 +34,77 @@
 
 > BEGIN STRING
 「オーリョースの町へようこそ！
-> CONTEXT: Map276/events/3/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map276/events/3/pages/0/1/Dialogue
+「Welcome to the town of Olios!
 > END STRING
 
 > BEGIN STRING
 「オーリョースの町へようこそ？
-> CONTEXT: Map276/events/3/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map276/events/3/pages/0/2/Dialogue
+「Welcome to the town of Olios?
 > END STRING
 
 > BEGIN STRING
 「ここはオーリョースの町？
-> CONTEXT: Map276/events/3/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map276/events/3/pages/0/3/Dialogue
+「This is the town of Olios?
 > END STRING
 
 > BEGIN STRING
 "町の住人"
-> CONTEXT: Map276/events/6/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map276/events/11/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map276/events/11/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map276/events/11/pages/2/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map276/events/29/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map276/events/6/pages/0/0/InlineScript/1:4
+> CONTEXT: Map276/events/11/pages/0/0/InlineScript/1:4
+> CONTEXT: Map276/events/11/pages/1/0/InlineScript/1:4
+> CONTEXT: Map276/events/11/pages/2/0/InlineScript/1:4
+> CONTEXT: Map276/events/29/pages/0/0/InlineScript/1:4
+"Town Resident"
 > END STRING
 
 > BEGIN STRING
 「ちょっと前まで、
 　このあたりにこんな\\r[町,もの]は
 　なかったんだ。
-> CONTEXT: Map276/events/6/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map276/events/6/pages/0/1/Dialogue
+「Until recently, 
+　there was nothing like \\r[this,town] 
+　around here.
 > END STRING
 
 > BEGIN STRING
 「誰かが、誰かを助けようとしている…
 　…そんな気がするよ。
-> CONTEXT: Map276/events/6/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map276/events/6/pages/0/4/Dialogue
+「Someone is trying to help someone...
+　...That's how it seems.
 > END STRING
 
 > BEGIN STRING
 "ゴアデーモン"
-> CONTEXT: Map276/events/7/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map276/events/8/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map276/events/7/pages/0/0/InlineScript/1:4
+> CONTEXT: Map276/events/8/pages/0/0/InlineScript/1:4
+"Gore Demon"
 > END STRING
 
 > BEGIN STRING
 「覚えているのか？
 　オレたちのことを。
-> CONTEXT: Map276/events/7/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map276/events/7/pages/0/1/Dialogue
+「Do you remember?
+　About us.
 > END STRING
 
 > BEGIN STRING
 「オレたちも、夢を見るんだ。
-> CONTEXT: Map276/events/7/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map276/events/7/pages/0/3/Dialogue
+「We dream too.
 > END STRING
 
 > BEGIN STRING
 「ここはオマエの夢。
 　ここはオレたちの夢。
-> CONTEXT: Map276/events/8/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map276/events/8/pages/0/1/Dialogue
+「This is your dream.
+　This is our dream.
 > END STRING
 
 > BEGIN STRING
@@ -118,108 +123,120 @@ The door is firmly closed...
 
 > BEGIN STRING
 "ガラの悪い羊"
-> CONTEXT: Map276/events/10/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map276/events/10/pages/0/9/InlineScript/1:4 < UNTRANSLATED
-> CONTEXT: Map276/events/10/pages/0/16/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map276/events/10/pages/0/0/InlineScript/1:4
+> CONTEXT: Map276/events/10/pages/0/9/InlineScript/1:4
+> CONTEXT: Map276/events/10/pages/0/16/InlineScript/1:4
+"Bad Sheep"
 > END STRING
 
 > BEGIN STRING
 「ん、なんだオメェそりゃ、
 　\\c[4]魔王のかけら\\c[0]？
-> CONTEXT: Map276/events/10/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map276/events/10/pages/0/1/Dialogue
+「Hmm, what's that,
+ \\c[4]Demon Lord Shard\\c[0]?
 > END STRING
 
 > BEGIN STRING
 「物騒なモン持ってるな。
 　おれによこしな。
-> CONTEXT: Map276/events/10/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map276/events/10/pages/0/3/Dialogue
+「That's dangerous. 
+　Give it to me.
 > END STRING
 
 > BEGIN STRING
 「オレによこしな」
-> CONTEXT: Map276/events/10/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map276/events/10/pages/0/6/Dialogue
+「Give it to me」
 > END STRING
 
 > BEGIN STRING
 「はいじゃねえだろはいじゃ。
-> CONTEXT: Map276/events/10/pages/0/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map276/events/10/pages/0/10/Dialogue
+「Yes isn't yes
 > END STRING
 
 > BEGIN STRING
 「大事なモンなんだろ。
 　俺にはとれねえ。
-> CONTEXT: Map276/events/10/pages/0/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map276/events/10/pages/0/11/Dialogue
+「That's important.
+　I can't take it.
 > END STRING
 
 > BEGIN STRING
 「分かってるぜ。
 　大事なモンなんだろ。
-> CONTEXT: Map276/events/10/pages/0/17/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map276/events/10/pages/0/17/Dialogue
+「I know. 
+　It's important.
 > END STRING
 
 > BEGIN STRING
 「ステラって夢魔が来てから、
 　この白い建物には
 　入れなくなってしまったんだ。
-> CONTEXT: Map276/events/11/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map276/events/11/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map276/events/11/pages/0/1/Dialogue
+> CONTEXT: Map276/events/11/pages/1/1/Dialogue
+「Ever since the succubus Stella came, 
+　The white buildings have been closed off.
 > END STRING
 
 > BEGIN STRING
 「この町に着いた奴も、
 　もう何人も\\c[1]ステラの部屋\\c[0]に
 　行ってしまった。
-> CONTEXT: Map276/events/11/pages/0/6/Dialogue < UNTRANSLATED
-> CONTEXT: Map276/events/11/pages/1/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map276/events/11/pages/0/6/Dialogue
+> CONTEXT: Map276/events/11/pages/1/4/Dialogue
+「Many of the people who arrived in this town 
+　have already gone to \\c[1]Stella's room\\c[0].
 > END STRING
 
 > BEGIN STRING
 「俺が行ってやっつけてやっても
 　いいんだが………
-> CONTEXT: Map276/events/11/pages/0/9/Dialogue < UNTRANSLATED
-> CONTEXT: Map276/events/11/pages/1/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map276/events/11/pages/0/9/Dialogue
+> CONTEXT: Map276/events/11/pages/1/7/Dialogue
+「I could just go and beat her up, 
+　but...
 > END STRING
 
 > BEGIN STRING
 「………いや、
 　やっぱりああいうタイプは……
 　ちょっとな。
-> CONTEXT: Map276/events/11/pages/0/11/Dialogue < UNTRANSLATED
-> CONTEXT: Map276/events/11/pages/1/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map276/events/11/pages/0/11/Dialogue
+> CONTEXT: Map276/events/11/pages/1/9/Dialogue
+「...No,
+　I wouldn't want to be 
+　that type of a guy
 > END STRING
 
 > BEGIN STRING
 「この建物にも
 　入れるようになったみたいだな。
-> CONTEXT: Map276/events/11/pages/2/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map276/events/11/pages/2/1/Dialogue
+「Looks like it's possible
+　to enter these buildings now.
 > END STRING
 
 > BEGIN STRING
 「だけど、俺が入っても
 　いつのまにか元の場所に
 　戻ってるんだ。
-> CONTEXT: Map276/events/11/pages/2/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map276/events/11/pages/2/3/Dialogue
+「But even when I go in, 
+　I always end up back where I was.
 > END STRING
 
 > BEGIN STRING
 「きっと、
 　俺じゃない誰かのために
 　つくられたんだな。
-> CONTEXT: Map276/events/11/pages/2/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map276/events/11/pages/2/6/Dialogue
+「It must have been made 
+　for someone other than me.
 > END STRING
 
 > BEGIN STRING
@@ -259,14 +276,14 @@ The door is firmly closed...
 
 > BEGIN STRING
 「賢王…様………
-> CONTEXT: Map276/events/15/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map276/events/15/pages/0/1/Dialogue
+「Wise King....
 > END STRING
 
 > BEGIN STRING
 「どこ……に………
-> CONTEXT: Map276/events/15/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map276/events/15/pages/0/2/Dialogue
+「Where....
 > END STRING
 
 > BEGIN STRING
@@ -314,49 +331,55 @@ The door is firmly closed...
 
 > BEGIN STRING
 「お傍に………私を……
-> CONTEXT: Map276/events/16/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map276/events/16/pages/0/1/Dialogue
+「Keep me.....near you...
 > END STRING
 
 > BEGIN STRING
 「賢王様…………
-> CONTEXT: Map276/events/16/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map276/events/16/pages/0/2/Dialogue
+「Wise King.....
 > END STRING
 
 > BEGIN STRING
 「このあたり……
 　夢魔の気配を感じないわね。
-> CONTEXT: Map276/events/18/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map276/events/19/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map276/events/20/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/23/64/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map276/events/18/pages/0/1/Dialogue
+> CONTEXT: Map276/events/19/pages/0/1/Dialogue
+> CONTEXT: Map276/events/20/pages/0/1/Dialogue
+> CONTEXT: Commonevents/23/64/Dialogue
+「Around here...
+　I don't sense any succubi.
 > END STRING
 
 > BEGIN STRING
 「油断はできないけど……
 　どうして夜の国に
 　こんな場所があるのかしら。
-> CONTEXT: Map276/events/18/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map276/events/19/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map276/events/20/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/23/66/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map276/events/18/pages/0/3/Dialogue
+> CONTEXT: Map276/events/19/pages/0/3/Dialogue
+> CONTEXT: Map276/events/20/pages/0/3/Dialogue
+> CONTEXT: Commonevents/23/66/Dialogue
+「Can't let our guard down, but...
+　I wonder why a place like this 
+　exists in the Land of Night.
 > END STRING
 
 > BEGIN STRING
 「このところ、
 　夜の国が急速に広がっているのを
 　感じます。
-> CONTEXT: Map276/events/29/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map276/events/29/pages/0/1/Dialogue
+「Recently,
+　feels like the Land of Night 
+　has been expanding rapidly.
 > END STRING
 
 > BEGIN STRING
 「きっと、別な世界がまた
 　夜の国に取り込まれようと
 　しているのでしょう。
-> CONTEXT: Map276/events/29/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map276/events/29/pages/0/4/Dialogue
+「Perhaps another world is about to be absorbed 
+　into the Land of Night again.
 > END STRING

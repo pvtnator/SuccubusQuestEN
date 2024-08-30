@@ -1,142 +1,152 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 "眠る男"
-> CONTEXT: Map277/events/1/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map277/events/1/pages/0/0/InlineScript/1:4
+"Sleeping Man"
 > END STRING
 
 > BEGIN STRING
 幸せそうな顔で眠っている
-> CONTEXT: Map277/events/1/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map277/events/1/pages/0/3/Dialogue
+Sleeping with a happy face
 > END STRING
 
 > BEGIN STRING
 どうやら夢の中で
 また夢を見ているようだ
-> CONTEXT: Map277/events/1/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map277/events/1/pages/0/4/Dialogue
+Seems to be dreaming
+within a dream
 > END STRING
 
 > BEGIN STRING
 "目覚めた男"
-> CONTEXT: Map277/events/1/pages/1/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map277/events/1/pages/1/0/InlineScript/1:4
+"Awakened Man"
 > END STRING
 
 > BEGIN STRING
 「う～ん………
-> CONTEXT: Map277/events/1/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map277/events/1/pages/1/1/Dialogue
+「Uuuhh....
 > END STRING
 
 > BEGIN STRING
 「なんか、すごくイイ夢から
 　起こされた気がする……
-> CONTEXT: Map277/events/1/pages/1/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map277/events/1/pages/1/2/Dialogue
+「I feel as though I've been woken up 
+　from a really good dream...
 > END STRING
 
 > BEGIN STRING
 "夜の国の娘"
-> CONTEXT: Map277/events/2/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map277/events/2/pages/0/0/InlineScript/1:4
+"Land of Night Girl"
 > END STRING
 
 > BEGIN STRING
 「好きな人とやるときって、
 　やっぱり一緒にいきたいわよねぇ\\e[0]
-> CONTEXT: Map277/events/2/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map277/events/2/pages/0/1/Dialogue
+「When you do it with someone you like, 
+　you want to reach it together, right?\\e[0]
 > END STRING
 
 > BEGIN STRING
 「これって、とってもたいせつなことよ？
-> CONTEXT: Map277/events/2/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map277/events/2/pages/0/3/Dialogue
+「This is a very important thing, you know?
 > END STRING
 
 > BEGIN STRING
 「ようこそ。
 　お泊りになりますか？
-> CONTEXT: Map277/events/4/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map277/events/4/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map277/events/4/pages/2/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map277/events/4/pages/0/1/Dialogue
+> CONTEXT: Map277/events/4/pages/1/1/Dialogue
+> CONTEXT: Map277/events/4/pages/2/1/Dialogue
+「Welcome.
+　Are you staying the night?
 > END STRING
 
 > BEGIN STRING
 宿屋に泊まりますか？
-> CONTEXT: Map277/events/4/pages/0/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map277/events/4/pages/1/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map277/events/4/pages/2/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map277/events/4/pages/0/4/Dialogue
+> CONTEXT: Map277/events/4/pages/1/4/Dialogue
+> CONTEXT: Map277/events/4/pages/2/4/Dialogue
+Stay at the inn?
 > END STRING
 
 > BEGIN STRING
 「それではごゆっくり。
-> CONTEXT: Map277/events/4/pages/0/11/Dialogue < UNTRANSLATED
-> CONTEXT: Map277/events/4/pages/1/11/Dialogue < UNTRANSLATED
-> CONTEXT: Map277/events/4/pages/1/35/Dialogue < UNTRANSLATED
-> CONTEXT: Map277/events/4/pages/2/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map277/events/4/pages/0/11/Dialogue
+> CONTEXT: Map277/events/4/pages/1/11/Dialogue
+> CONTEXT: Map277/events/4/pages/1/35/Dialogue
+> CONTEXT: Map277/events/4/pages/2/11/Dialogue
+「Then please take your time.
 > END STRING
 
 > BEGIN STRING
 「夢の中で見る夢を
 　お楽しみください……。
-> CONTEXT: Map277/events/4/pages/0/12/Dialogue < UNTRANSLATED
-> CONTEXT: Map277/events/4/pages/2/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map277/events/4/pages/0/12/Dialogue
+> CONTEXT: Map277/events/4/pages/2/12/Dialogue
+「Enjoy the dream 
+　within the dream...
 > END STRING
 
 > BEGIN STRING
 「おはようございます。
 　今日もがんばって下さいね。
-> CONTEXT: Map277/events/4/pages/0/16/Dialogue < UNTRANSLATED
-> CONTEXT: Map277/events/4/pages/1/14/Dialogue < UNTRANSLATED
-> CONTEXT: Map277/events/4/pages/2/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map277/events/4/pages/0/16/Dialogue
+> CONTEXT: Map277/events/4/pages/1/14/Dialogue
+> CONTEXT: Map277/events/4/pages/2/16/Dialogue
+「Good morning.
+　Please do your best today too.
 > END STRING
 
 > BEGIN STRING
 「ではさようなら。
-> CONTEXT: Map277/events/4/pages/0/21/Dialogue < UNTRANSLATED
-> CONTEXT: Map277/events/4/pages/1/19/Dialogue < UNTRANSLATED
-> CONTEXT: Map277/events/4/pages/2/21/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map277/events/4/pages/0/21/Dialogue
+> CONTEXT: Map277/events/4/pages/1/19/Dialogue
+> CONTEXT: Map277/events/4/pages/2/21/Dialogue
+「Well then, goodbye.
 > END STRING
 
 > BEGIN STRING
 ステラの部屋の場所を聞く
-> CONTEXT: Map277/events/4/pages/1/5/Choice/2 < UNTRANSLATED
-
+> CONTEXT: Map277/events/4/pages/1/5/Choice/2
+Ask where Stella's room is
 > END STRING
 
 > BEGIN STRING
 「あら、
 　妙なことをお聞きになるのですね。
-> CONTEXT: Map277/events/4/pages/1/23/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map277/events/4/pages/1/23/Dialogue
+「Oh, 
+　that's a strange thing to ask.
 > END STRING
 
 > BEGIN STRING
 「ここは夜の国。
 　あなたが望むなら、そこはもう
 　あなたが望む場所。
-> CONTEXT: Map277/events/4/pages/1/25/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map277/events/4/pages/1/25/Dialogue
+「This is the Land of Night.
+　If that's what you want, then it's already
+　where you want it to be.
 > END STRING
 
 > BEGIN STRING
 「それでもたどり着けないのなら、
 　一晩お休みになってみますか？
-> CONTEXT: Map277/events/4/pages/1/28/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map277/events/4/pages/1/28/Dialogue
+「If you still can't get there,
+　would you like to take a night off?
 > END STRING
 
 > BEGIN STRING
 「一晩お休みになってみますか？」
-> CONTEXT: Map277/events/4/pages/1/31/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map277/events/4/pages/1/31/Dialogue
+「Do you want to take the night off?」
 > END STRING

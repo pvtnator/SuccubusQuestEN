@@ -2,73 +2,77 @@
 > BEGIN STRING
 どこかで見たことのある\\dかけら\\dが、
 きらきらと光っている
-> CONTEXT: Map290/events/1/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map289/events/1/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map288/events/1/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map287/events/1/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map286/events/1/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map285/events/1/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map284/events/1/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map283/events/1/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map281/events/1/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map280/events/1/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map281/events/3/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map062/events/4/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map290/events/1/pages/0/1/Dialogue
+> CONTEXT: Map289/events/1/pages/0/1/Dialogue
+> CONTEXT: Map288/events/1/pages/0/1/Dialogue
+> CONTEXT: Map287/events/1/pages/0/1/Dialogue
+> CONTEXT: Map286/events/1/pages/0/1/Dialogue
+> CONTEXT: Map285/events/1/pages/0/1/Dialogue
+> CONTEXT: Map284/events/1/pages/0/1/Dialogue
+> CONTEXT: Map283/events/1/pages/0/1/Dialogue
+> CONTEXT: Map281/events/1/pages/0/1/Dialogue
+> CONTEXT: Map280/events/1/pages/0/1/Dialogue
+> CONTEXT: Map281/events/3/pages/1/1/Dialogue
+> CONTEXT: Map062/events/4/pages/0/1/Dialogue
+A familiar sight in the \\dshard\\d 
+is shining brightly.
 > END STRING
 
 > BEGIN STRING
 \\dかけら\\dに触れますか？
-> CONTEXT: Map290/events/1/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map289/events/1/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map288/events/1/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map287/events/1/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map286/events/1/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map285/events/1/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map284/events/1/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map283/events/1/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map281/events/1/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map280/events/1/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map281/events/3/pages/1/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map062/events/4/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map290/events/1/pages/0/3/Dialogue
+> CONTEXT: Map289/events/1/pages/0/3/Dialogue
+> CONTEXT: Map288/events/1/pages/0/3/Dialogue
+> CONTEXT: Map287/events/1/pages/0/3/Dialogue
+> CONTEXT: Map286/events/1/pages/0/3/Dialogue
+> CONTEXT: Map285/events/1/pages/0/3/Dialogue
+> CONTEXT: Map284/events/1/pages/0/3/Dialogue
+> CONTEXT: Map283/events/1/pages/0/3/Dialogue
+> CONTEXT: Map281/events/1/pages/0/3/Dialogue
+> CONTEXT: Map280/events/1/pages/0/3/Dialogue
+> CONTEXT: Map281/events/3/pages/1/3/Dialogue
+> CONTEXT: Map062/events/4/pages/0/3/Dialogue
+Touch the \\dshard\\d?
 > END STRING
 
 > BEGIN STRING
 \\c[4]ノーブルヴィジョン\\c[0]を手に入れた！
-> CONTEXT: Map290/events/2/pages/1/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map290/events/2/pages/1/9/Dialogue
+\\c[4]Noble Vision\\c[0] obtained!
 > END STRING
 
 > BEGIN STRING
 \\n[1]の最大EPが上がった！
 \\n[1]の基本TPが上がった！
-> CONTEXT: Map290/events/2/pages/1/15/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map290/events/2/pages/1/15/Dialogue
+\\n[1]'s maximum EP has increased!
+\\n[1]'s base TP has increased!
 > END STRING
 
 > BEGIN STRING
 「絶望……憎悪……………
-> CONTEXT: Map290/events/3/pages/0/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map290/events/3/pages/0/19/Dialogue
+「Despair... Hatred.....
 > END STRING
 
 > BEGIN STRING
 「それらに支配された時、
 　お前はギルデンスターンと
 　同じ道を歩むことになる。
-> CONTEXT: Map290/events/3/pages/0/20/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map290/events/3/pages/0/20/Dialogue
+「When you are controlled by them, 
+　you will follow the same path 
+　as Guildenstern.
 > END STRING
 
 > BEGIN STRING
 「……もう、世界を救えとは言うまい。
-> CONTEXT: Map290/events/3/pages/0/23/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map290/events/3/pages/0/23/Dialogue
+「...I won't tell you to save the world anymore.
 > END STRING
 
 > BEGIN STRING
 「お前が愛する者を、助けに行け。
-> CONTEXT: Map290/events/3/pages/0/24/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map290/events/3/pages/0/24/Dialogue
+「Go help the ones you love.
 > END STRING

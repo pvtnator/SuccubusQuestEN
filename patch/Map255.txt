@@ -1,19 +1,20 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 "牛"
-> CONTEXT: Map255/events/6/pages/0/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map255/events/6/pages/0/0/InlineScript/1:4
+"Ox"
 > END STRING
 
 > BEGIN STRING
 「まあ！ なんて子だい！
 　こんなところに牛をひとりぼっちにして！
-> CONTEXT: Map255/events/6/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map255/events/6/pages/0/1/Dialogue
+「Hooh! What a kid!
+　Leaving an ox all alone in a place like this!
 > END STRING
 
 > BEGIN STRING
 「ンモォ～～～ォ
-> CONTEXT: Map255/events/6/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map255/events/6/pages/0/4/Dialogue
+「Mmmoooo~~~
 > END STRING

@@ -774,20 +774,24 @@ What happened at the Demon Lord's castle was...
 「街道が復旧したから
 　レンシェットから来たんだけど、
 　途中森に変な夢魔がいたよ。
-> CONTEXT: Map018/events/28/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map018/events/28/pages/1/1/Dialogue
+「The road has been restored, so I came from Renkott, 
+　but on the way there I encountered 
+　a strange succubus in the forest.
 > END STRING
 
 > BEGIN STRING
 「品定めでもするみたいに
 　こっちのことじっと見つめて……
-> CONTEXT: Map018/events/28/pages/1/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map018/events/28/pages/1/4/Dialogue
+「She stared at me 
+　as if checking me out...
 > END STRING
 
 > BEGIN STRING
 「結局襲ってこなかったんだが、
 　なんだったのかね、ありゃ。
-> CONTEXT: Map018/events/28/pages/1/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map018/events/28/pages/1/6/Dialogue
+「In the end she didn't attack me,
+　I wonder what that was all about.
 > END STRING

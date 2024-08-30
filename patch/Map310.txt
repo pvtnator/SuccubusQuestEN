@@ -8,31 +8,32 @@
 > BEGIN STRING
 \\c[4]魔王のかけら\\c[0]の中に、
 不思議な \\r[像,ヴィジョン] が浮かび上がっている……
-> CONTEXT: Map310/events/2/pages/0/6/Dialogue < UNTRANSLATED
-> CONTEXT: Map290/events/2/pages/1/5/Dialogue < UNTRANSLATED
-> CONTEXT: Map288/events/2/pages/1/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map286/events/2/pages/1/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map284/events/2/pages/1/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map171/events/8/pages/1/38/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map310/events/2/pages/0/6/Dialogue
+> CONTEXT: Map290/events/2/pages/1/5/Dialogue
+> CONTEXT: Map288/events/2/pages/1/4/Dialogue
+> CONTEXT: Map286/events/2/pages/1/4/Dialogue
+> CONTEXT: Map284/events/2/pages/1/4/Dialogue
+> CONTEXT: Map171/events/8/pages/1/38/Dialogue
+A mysterious \\r[image, vision] has emerged
+within the \\c[4]Demon Lord Shard\\c[0]...
 > END STRING
 
 > BEGIN STRING
 \\c[4]魔王のかけら\\c[0]の中に……
-> CONTEXT: Map310/events/2/pages/0/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map310/events/2/pages/0/9/Dialogue
+Within the \\c[4]Demon Lord Shard\\c[0]...
 > END STRING
 
 > BEGIN STRING
 オリビアがみえる
-> CONTEXT: Map310/events/2/pages/0/10/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map310/events/2/pages/0/10/Choice/0
+See Olivia
 > END STRING
 
 > BEGIN STRING
 ルヴィッサがみえる
-> CONTEXT: Map310/events/2/pages/0/10/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map310/events/2/pages/0/10/Choice/1
+See Rovissa
 > END STRING
 
 > BEGIN STRING

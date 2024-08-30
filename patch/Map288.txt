@@ -1,15 +1,16 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 \\c[4]ファシネティヴヴィジョン\\c[0]を手に入れた！
-> CONTEXT: Map288/events/2/pages/1/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map288/events/2/pages/1/8/Dialogue
+\\c[4]Fascinative Vision\\c[0] obtained!
 > END STRING
 
 > BEGIN STRING
 \\n[1]の魅力が上がった！
 \\n[1]の技巧が上がった！
-> CONTEXT: Map288/events/2/pages/1/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map288/events/2/pages/1/14/Dialogue
+\\n[1]'s charm has increased!
+\\n[1]'s skill has increased!
 > END STRING
 
 > BEGIN STRING
@@ -60,22 +61,23 @@
 
 > BEGIN STRING
 「言葉なんてものはまやかしさ。
-> CONTEXT: Map288/events/3/pages/0/34/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map288/events/3/pages/0/34/Dialogue
+「Words are just illusions.
 > END STRING
 
 > BEGIN STRING
 「だけど、それはしばしば
 　現実に人の心を動かす。
-> CONTEXT: Map288/events/3/pages/0/35/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map288/events/3/pages/0/35/Dialogue
+「But they often actually move people's hearts.
 > END STRING
 
 > BEGIN STRING
 「その力は、
 　まやかしじゃない。
-> CONTEXT: Map288/events/3/pages/0/37/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map288/events/3/pages/0/37/Dialogue
+「That power...
+　is not an illusion.
 > END STRING
 
 > BEGIN STRING
@@ -96,13 +98,15 @@
 > BEGIN STRING
 「\\n[1]君、
 　あなたなら分かるはずよね。
-> CONTEXT: Map288/events/3/pages/0/40/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map288/events/3/pages/0/40/Dialogue
+「\\n[1],
+　I think you'll understand.
 > END STRING
 
 > BEGIN STRING
 「取り戻して。
 　私たちの世界を。
-> CONTEXT: Map288/events/3/pages/0/42/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map288/events/3/pages/0/42/Dialogue
+「Take it back.
+　Our world.
 > END STRING

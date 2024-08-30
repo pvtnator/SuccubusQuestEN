@@ -1,15 +1,16 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 \\c[4]ジェントルヴィジョン\\c[0]を手に入れた！
-> CONTEXT: Map286/events/2/pages/1/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map286/events/2/pages/1/8/Dialogue
+\\c[4]Gentle Vision\\c[0] obtained!
 > END STRING
 
 > BEGIN STRING
 \\n[1]の精神力が上がった！
 \\n[1]の素早さが上がった！
-> CONTEXT: Map286/events/2/pages/1/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map286/events/2/pages/1/14/Dialogue
+\\n[1]'s spirit has increased!
+\\n[1]'s agility has increased!
 > END STRING
 
 > BEGIN STRING
@@ -142,23 +143,26 @@
 > BEGIN STRING
 「あなたが新たな魔王となるか、
 　ならないか、
-> CONTEXT: Map286/events/3/pages/0/34/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map286/events/3/pages/0/34/Dialogue
+「You will either become the new Demon Lord or not.
 > END STRING
 
 > BEGIN STRING
 「それは分からないことです。
 　誰にも、絶対に、
 　分からないことです。
-> CONTEXT: Map286/events/3/pages/0/36/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map286/events/3/pages/0/36/Dialogue
+「That's something we don't know.
+　No one, ever,
+　will know.
 > END STRING
 
 > BEGIN STRING
 「それを『希望』と呼ぶかどうかは、
 　あなた次第です。
-> CONTEXT: Map286/events/3/pages/0/39/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map286/events/3/pages/0/39/Dialogue
+「Whether you call it 'hope' 
+　is up to you.
 > END STRING
 
 > BEGIN STRING
@@ -172,12 +176,12 @@
 
 > BEGIN STRING
 「\\n[1]さん、私………
-> CONTEXT: Map286/events/3/pages/0/42/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map286/events/3/pages/0/42/Dialogue
+「\\n[1], I....
 > END STRING
 
 > BEGIN STRING
 「信じてます。
-> CONTEXT: Map286/events/3/pages/0/43/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map286/events/3/pages/0/43/Dialogue
+「I believe in you.
 > END STRING
