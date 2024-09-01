@@ -3,6 +3,8 @@
 
 　　　　　　　　　　　　　　　　　　　汝惑わされること\\r[勿,なか]れ
 　　　　　　　　　　　　　　　　　　　  ひたすらに道を\\r[往,ゆ]け
-> CONTEXT: Map296/events/1/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map296/events/1/pages/0/1/Dialogue
 
+　　　　　　　　　　　　　　　　　　　Do not be deceived
+　　　　　　　　　　　　　　　　　　　  Keep going
 > END STRING

@@ -37,70 +37,73 @@ Looks like something has fallen into the fireplace...
 > BEGIN STRING
 「いらっしゃい。
 　お茶はいかが？
-> CONTEXT: Map299/events/4/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map299/events/4/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map299/events/4/pages/2/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map299/events/4/pages/0/1/Dialogue
+> CONTEXT: Map299/events/4/pages/1/1/Dialogue
+> CONTEXT: Map299/events/4/pages/2/1/Dialogue
+「Welcome. 
+　Would you like some tea?
 > END STRING
 
 > BEGIN STRING
 「お茶はいかが？」
-> CONTEXT: Map299/events/4/pages/0/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map299/events/4/pages/1/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map299/events/4/pages/2/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map299/events/4/pages/0/4/Dialogue
+> CONTEXT: Map299/events/4/pages/1/4/Dialogue
+> CONTEXT: Map299/events/4/pages/2/4/Dialogue
+「Would you like some tea?」
 > END STRING
 
 > BEGIN STRING
 「はい、どうぞ。
-> CONTEXT: Map299/events/4/pages/0/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map299/events/4/pages/0/8/Dialogue
+「Alright, here you go.
 > END STRING
 
 > BEGIN STRING
 「またいつでもいらっしゃい。
-> CONTEXT: Map299/events/4/pages/0/13/Dialogue < UNTRANSLATED
-> CONTEXT: Map299/events/4/pages/1/17/Dialogue < UNTRANSLATED
-> CONTEXT: Map299/events/4/pages/2/23/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map299/events/4/pages/0/13/Dialogue
+> CONTEXT: Map299/events/4/pages/1/17/Dialogue
+> CONTEXT: Map299/events/4/pages/2/23/Dialogue
+「Please come again anytime.
 > END STRING
 
 > BEGIN STRING
 「あら、そう。
-> CONTEXT: Map299/events/4/pages/0/18/Dialogue < UNTRANSLATED
-> CONTEXT: Map299/events/4/pages/2/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map299/events/4/pages/0/18/Dialogue
+> CONTEXT: Map299/events/4/pages/2/13/Dialogue
+「Oh, okay.
 > END STRING
 
 > BEGIN STRING
 「遠慮の無い子はきらいよ。
-> CONTEXT: Map299/events/4/pages/1/8/Dialogue < UNTRANSLATED
-> CONTEXT: Map299/events/4/pages/2/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map299/events/4/pages/1/8/Dialogue
+> CONTEXT: Map299/events/4/pages/2/8/Dialogue
+「You should be more tactful.
 > END STRING
 
 > BEGIN STRING
 「遠慮しなくていいのよ。
-> CONTEXT: Map299/events/4/pages/1/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map299/events/4/pages/1/13/Dialogue
+「You don’t need to be shy.
 > END STRING
 
 > BEGIN STRING
 「まあ！
 　お世辞でもうれしいわ\\e[0]
-> CONTEXT: Map299/events/4/pages/2/18/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map299/events/4/pages/2/18/Dialogue
+「Well!
+　I'm happy even if it's just flattery\\e[0]
 > END STRING
 
 > BEGIN STRING
 "グレイ夫人"
-> CONTEXT: Map299/events/4/pages/3/0/InlineScript/1:4 < UNTRANSLATED
-
+> CONTEXT: Map299/events/4/pages/3/0/InlineScript/1:4
+"Mrs. Grey"
 > END STRING
 
 > BEGIN STRING
 「いらっしゃい。
 　お茶はもうないわよ。
-> CONTEXT: Map299/events/4/pages/3/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map299/events/4/pages/3/1/Dialogue
+「Come in.
+　There's no more tea.
 > END STRING

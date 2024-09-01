@@ -17348,8 +17348,8 @@
 
 > BEGIN STRING
 "\#{myname}は不思議な手つきで\\n\\\\w[\\\\v[104]]"
-> CONTEXT: Scripts/RPG::Skill (message)/753:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/753:18
+"\#{myname}, with strange methods,\\n\\\\w[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING

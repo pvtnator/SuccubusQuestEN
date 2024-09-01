@@ -1,15 +1,16 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 木の幹に文字が彫られている
-> CONTEXT: Map282/events/7/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map282/events/22/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map282/events/7/pages/0/1/Dialogue
+> CONTEXT: Map282/events/22/pages/0/1/Dialogue
+Letters are carved into the tree trunk
 > END STRING
 
 > BEGIN STRING
 
 　　　　　　　　　　　　　　　　　　　波の囁き　よくお聞き
-> CONTEXT: Map282/events/7/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map282/events/22/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map282/events/7/pages/0/2/Dialogue
+> CONTEXT: Map282/events/22/pages/0/2/Dialogue
 
+　　　　　　　　　　　　　　　　　Listen to whispers of waves
 > END STRING

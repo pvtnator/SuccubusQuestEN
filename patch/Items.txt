@@ -1594,7 +1594,7 @@ Letter
 > BEGIN STRING
 誰かからの手紙　「真夜中の教会で待ってます」と書かれている
 > CONTEXT: Items/275/description/
-A letter from someone: "I'll be waiting at the church at midnight"
+A letter from someone: "I'll be waiting at the Midnight Church"
 > END STRING
 
 > BEGIN STRING
