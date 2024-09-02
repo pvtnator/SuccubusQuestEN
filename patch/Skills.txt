@@ -1459,14 +1459,14 @@ Gambanteinn
 
 > BEGIN STRING
 サイズ
-> CONTEXT: Skills/240/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/240/name/
+Size
 > END STRING
 
 > BEGIN STRING
 魔法を使う相手からMPを奪う
-> CONTEXT: Skills/240/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/240/description/
+Steal MP from a magic using opponent
 > END STRING
 
 > BEGIN STRING

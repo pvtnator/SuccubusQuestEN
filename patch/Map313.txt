@@ -383,88 +383,93 @@
 
 > BEGIN STRING
 「古に　魔なる者在り
-> CONTEXT: Map313/events/17/pages/0/78/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map313/events/17/pages/0/78/Dialogue
+「Ages ago, there was a demon
 > END STRING
 
 > BEGIN STRING
 「いかなる刃　いかなる炎
 　魔を傷つけることかなわず
-> CONTEXT: Map313/events/17/pages/0/79/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map313/events/17/pages/0/79/Dialogue
+「No blade, no flame 
+　could harm the demon.
 > END STRING
 
 > BEGIN STRING
 「しかし、魔もまた
 　何者も傷つけることなく
-> CONTEXT: Map313/events/17/pages/0/81/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map313/events/17/pages/0/81/Dialogue
+「However, the demon
+　did no harm to anyone.
 > END STRING
 
 > BEGIN STRING
 「ただ愛を求めし
-> CONTEXT: Map313/events/17/pages/0/83/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map313/events/17/pages/0/83/Dialogue
+「Just looking for love
 > END STRING
 
 > BEGIN STRING
 「やがて　魔に抗う者在り
-> CONTEXT: Map313/events/17/pages/0/95/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map313/events/17/pages/0/95/Dialogue
+「Before long, 
+　there were those who resisted the demon.
 > END STRING
 
 > BEGIN STRING
 「その力　魔を滅ぼすも
 　彼もまた　多くを失い
-> CONTEXT: Map313/events/17/pages/0/96/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map313/events/17/pages/0/96/Dialogue
+「That power destroyed the demon,
+　but he who wields it has much to lose
 > END STRING
 
 > BEGIN STRING
 「絶望のうち　新たな魔となる
-> CONTEXT: Map313/events/17/pages/0/98/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map313/events/17/pages/0/98/Dialogue
+「In despair, a new demon emerges
 > END STRING
 
 > BEGIN STRING
 「終わらぬ螺旋　お前もまた
-> CONTEXT: Map313/events/17/pages/0/110/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map313/events/17/pages/0/110/Dialogue
+「An endless spiral, for you too
 > END STRING
 
 > BEGIN STRING
 「抜け出せなかった　その内から
-> CONTEXT: Map313/events/17/pages/0/111/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map313/events/17/pages/0/111/Dialogue
+「From it, there is no escape
 > END STRING
 
 > BEGIN STRING
 「ならばその名が　我々の
-> CONTEXT: Map313/events/17/pages/0/123/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map313/events/17/pages/0/123/Dialogue
+「And that name,
 > END STRING
 
 > BEGIN STRING
 「記憶から消えぬ間に
 　まだ輝ける間に
-> CONTEXT: Map313/events/17/pages/0/124/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map313/events/17/pages/0/124/Dialogue
+「while fresh in our memories, 
+　while it still shines
 > END STRING
 
 > BEGIN STRING
 「葬りましょう　跡形もなく
-> CONTEXT: Map313/events/17/pages/0/126/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map313/events/17/pages/0/126/Dialogue
+「We shall bury it, without a trace
 > END STRING
 
 > BEGIN STRING
 「覚悟、魔王………
-> CONTEXT: Map313/events/17/pages/0/153/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map313/events/17/pages/0/153/Dialogue
+「Prepare yourself, Demon Lord.....
 > END STRING
 
 > BEGIN STRING
 「……魔王、\\n[1]！！
-> CONTEXT: Map313/events/17/pages/0/157/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map313/events/17/pages/0/157/Dialogue
+「...Demon Lord, \\n[1]!!
 > END STRING

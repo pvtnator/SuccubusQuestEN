@@ -1944,14 +1944,14 @@ Learn: Far-Dorumba / Learn: Far-Hagalgun / Magic +3
 
 > BEGIN STRING
 血染めの牙/0/0/0/161
-> CONTEXT: Armors/236/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/236/name/
+Bloodstained Fang/0/0/0/161
 > END STRING
 
 > BEGIN STRING
 習得：サイズ
-> CONTEXT: Armors/236/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/236/description/
+Learn: Size
 > END STRING
 
 > BEGIN STRING
@@ -2016,38 +2016,26 @@ Learn: Listil / Learn: Far-Luin / Charm +10 / Magic +5
 
 > BEGIN STRING
 竜石/0/0/0/124
-> CONTEXT: Armors/242/name/ < UNTRANSLATED
-
+> CONTEXT: Armors/242/name/
+Dragon Stone/0/0/0/124
 > END STRING
 
 > BEGIN STRING
 習得：アルスグン
-> CONTEXT: Armors/242/description/ < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-嘆きの盾/0/0/0/142m153m129
-> CONTEXT: None < UNUSED
-
+> CONTEXT: Armors/242/description/
+Learn: Arsgun
 > END STRING
 
 > BEGIN STRING
 習得：バインド / 習得：ダリッシュ / 習得：シギルフニ
-> CONTEXT: Armors/243/description/ < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-愛憎のアミュレット/0/0/0/123
-> CONTEXT: None < UNUSED
-
+> CONTEXT: Armors/243/description/
+Learn: Bind / Learn: Dalish / Learn: Sigilfuni
 > END STRING
 
 > BEGIN STRING
 習得：ファル・ラグズグン / MP-30% / 魔力-10
-> CONTEXT: Armors/244/description/ < UNTRANSLATED
-
+> CONTEXT: Armors/244/description/
+Learn: Far-Ragsgun / MP -30% / Magic -10
 > END STRING
 
 > BEGIN STRING
@@ -2065,7 +2053,7 @@ Learn: Small Rogin / Magic +1 / Agility +1
 > BEGIN STRING
 夢魔の微笑み/10/0/0/148m130
 > CONTEXT: Armors/246/name/
-Succubi's Smile/10/0/0/148m130
+Succubus' Smile/10/0/0/148m130
 > END STRING
 
 > BEGIN STRING

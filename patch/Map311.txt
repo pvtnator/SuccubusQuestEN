@@ -1,136 +1,148 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 「\\n[1]………
-> CONTEXT: Map311/events/5/pages/0/28/Dialogue < UNTRANSLATED
-> CONTEXT: Map208/events/4/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map311/events/5/pages/0/28/Dialogue
+> CONTEXT: Map208/events/4/pages/0/4/Dialogue
+「\\n[1].....
 > END STRING
 
 > BEGIN STRING
 「やっぱり来てくれたね……
 　………ありがとう。
-> CONTEXT: Map311/events/5/pages/0/29/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map311/events/5/pages/0/29/Dialogue
+「You really came for me...
+　...Thank you.
 > END STRING
 
 > BEGIN STRING
 「覚えてる？
 　ラウムの廃屋でのこと……
-> CONTEXT: Map311/events/5/pages/0/52/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map311/events/5/pages/0/52/Dialogue
+「Do you remember?
+　What happened at the abandoned house in Raum...
 > END STRING
 
 > BEGIN STRING
 「あたしね、あの時\\n[1]に
 　抱いてもらって、ほんとにうれしくて、
 　だけど………
-> CONTEXT: Map311/events/5/pages/0/56/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map311/events/5/pages/0/56/Dialogue
+「You know, I was really happy 
+　when you held me that time, \\n[1],
+　but...
 > END STRING
 
 > BEGIN STRING
 「だけど……、あれは
 　本当の自分じゃないって思ってたんだ。
-> CONTEXT: Map311/events/5/pages/0/59/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map311/events/5/pages/0/59/Dialogue
+「But... 
+　I wasn't myself.
 > END STRING
 
 > BEGIN STRING
 「こんな、夢魔なんかになっちゃった
 　あたしはあたしじゃないって……
-> CONTEXT: Map311/events/5/pages/0/61/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map311/events/5/pages/0/61/Dialogue
+「With the kind of succubus I've become,
+　I'm not myself anymore...
 > END STRING
 
 > BEGIN STRING
 「それで拒んじゃったの……ごめんね。
-> CONTEXT: Map311/events/5/pages/0/63/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map311/events/5/pages/0/63/Dialogue
+「That's why I turned you down... Sorry.
 > END STRING
 
 > BEGIN STRING
 「………でももう分かったの。
-> CONTEXT: Map311/events/5/pages/0/64/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map311/events/5/pages/0/64/Dialogue
+「...But you already know.
 > END STRING
 
 > BEGIN STRING
 「レンシェットで\\n[1]と遊んでたあたしも、
 　魔法を覚えて魔王と戦ってたあたしも、
-> CONTEXT: Map311/events/5/pages/0/65/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map311/events/5/pages/0/65/Dialogue
+「I played with you in Renkott,
+　learned magic and fought the Demon Lord,
 > END STRING
 
 > BEGIN STRING
 「…夢魔になったあたしも……
-> CONTEXT: Map311/events/5/pages/0/77/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map311/events/5/pages/0/77/Dialogue
+「and became a succubus...
 > END STRING
 
 > BEGIN STRING
 「この一瞬一瞬があたしなのよ。
 　本当じゃないあたしなんて
 　どこにもいないの。
-> CONTEXT: Map311/events/5/pages/0/78/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map311/events/5/pages/0/78/Dialogue
+「Every moment was me.
+　There's no real me anywhere.
 > END STRING
 
 > BEGIN STRING
 「………でもね、
 　ずっと変わってないこともあるんだ。
-> CONTEXT: Map311/events/5/pages/0/89/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map311/events/5/pages/0/89/Dialogue
+「...But, 
+　some things never change.
 > END STRING
 
 > BEGIN STRING
 「昔からずっと、
 　あたしのまんなかにあるもの……
-> CONTEXT: Map311/events/5/pages/0/91/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map311/events/5/pages/0/91/Dialogue
+「There's something that has
+　always been inside me...
 > END STRING
 
 > BEGIN STRING
 「\\n[1]、あたしずっとあなたが大好きよ。
-> CONTEXT: Map311/events/5/pages/0/96/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map311/events/5/pages/0/96/Dialogue
+「\\n[1], I've always loved you.
 > END STRING
 
 > BEGIN STRING
 「ああ…………
-> CONTEXT: Map311/events/5/pages/0/114/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map311/events/5/pages/0/114/Dialogue
+「Aah.....
 > END STRING
 
 > BEGIN STRING
 「\\n[1]……あたし……
-> CONTEXT: Map311/events/5/pages/0/115/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map311/events/5/pages/0/115/Dialogue
+「\\n[1]...I...
 > END STRING
 
 > BEGIN STRING
 「いかされちゃった…ね………
-> CONTEXT: Map311/events/5/pages/0/116/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map311/events/5/pages/0/116/Dialogue
+「I was being used, right.....
 > END STRING
 
 > BEGIN STRING
 「でも……よかったわ………
 　最後に…………
-> CONTEXT: Map311/events/5/pages/0/117/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map311/events/5/pages/0/117/Dialogue
+「But...it was good...
+　Finally...
 > END STRING
 
 > BEGIN STRING
 「\\n[1]……と…………
 　……ひとつに………………
-> CONTEXT: Map311/events/5/pages/0/175/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map311/events/5/pages/0/175/Dialogue
+「\\n[1]...and.....
+　...became.......
 > END STRING
 
 > BEGIN STRING
 「なれ…………て……………
-> CONTEXT: Map311/events/5/pages/0/177/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map311/events/5/pages/0/177/Dialogue
+「one......
 > END STRING
 
 > BEGIN STRING

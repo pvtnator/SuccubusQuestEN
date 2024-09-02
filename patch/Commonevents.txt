@@ -4372,15 +4372,18 @@ is looking with cold eyes!
 「あはっ、
 　自分がイきそうなクセに
 　何言ってんのよ？
-> CONTEXT: Commonevents/176/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/176/3/Dialogue
+「Ahaha,
+　What are you saying 
+　when you're about to cum?
 > END STRING
 
 > BEGIN STRING
 「ばかみたい！
 　あはははははっ\\e[0]
-> CONTEXT: Commonevents/176/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/176/6/Dialogue
+「Stupid!
+　Ahahahahaha\\e[0]
 > END STRING
 
 > BEGIN STRING

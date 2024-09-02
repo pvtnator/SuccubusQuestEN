@@ -3191,35 +3191,38 @@ EV_オリビア(2)
 
 > BEGIN STRING
 「もうこわくない。
-> CONTEXT: Troops/328/pages/2/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/328/pages/2/11/Dialogue
+「I'm not scared anymore.
 > END STRING
 
 > BEGIN STRING
 「あたし、ずっとあたしでいられるわ。
-> CONTEXT: Troops/328/pages/2/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/328/pages/2/12/Dialogue
+「I can be myself.
 > END STRING
 
 > BEGIN STRING
 「あぁっ……！
 　\\n[1]ーーッ！！
-> CONTEXT: Troops/328/pages/3/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/328/pages/3/13/Dialogue
+「Aah...!
+　\\n[1]--!!
 > END STRING
 
 > BEGIN STRING
 \\a[1]オリビアは絶頂に達する寸前に
 \\w[\\v[104]]激しく腰を振ってきた！\\k
-> CONTEXT: Troops/328/pages/3/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/328/pages/3/16/Dialogue
+\\a[1]As Olivia was on the verge of climax,
+\\w[\\v[104]]she shook her hips intensely!\\k
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]オリビアは絶頂に達した！
 \\k
-> CONTEXT: Troops/328/pages/3/32/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/328/pages/3/32/Dialogue
+\\a[\\v[105]]Olivia climaxed!
+\\k
 > END STRING
 
 > BEGIN STRING

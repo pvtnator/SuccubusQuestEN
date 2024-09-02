@@ -42,7 +42,7 @@ before you go.
 > BEGIN STRING
 本当に\\c[1]真夜中の教会\\c[0]へ行きますか？
 > CONTEXT: Map062/events/3/pages/0/52/Dialogue
-Go to \\c[1]Midnight Church\\c[0]?
+Are you sure about going to \\c[1]Midnight Church\\c[0]?
 > END STRING
 
 > BEGIN STRING

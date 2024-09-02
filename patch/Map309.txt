@@ -104,7 +104,7 @@ SQ_Town09
 　もっと深いところへ落ちてって、
 > CONTEXT: Map309/events/8/pages/0/3/Dialogue
 「But don't worry!
-　The succubi you made climax feel much deeper,
+　The succubi you made climax fell much deeper,
 > END STRING
 
 > BEGIN STRING
