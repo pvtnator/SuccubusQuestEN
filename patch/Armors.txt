@@ -1435,7 +1435,7 @@ Succubus Wings/0/0/0/134
 > BEGIN STRING
 習得：リスティル / 素早さ+5
 > CONTEXT: Armors/193/description/
-Acquire: Listil / Agility +5
+Acquire: Ristil / Agility +5
 > END STRING
 
 > BEGIN STRING
@@ -1699,7 +1699,7 @@ Moonlight Wings/0/0/0/134m157
 > BEGIN STRING
 習得：リスティル / 習得：サック / MP+5%
 > CONTEXT: Armors/215/description/
-Learn: Listil / Learn: Suck / MP +5%
+Learn: Ristil / Learn: Suck / MP +5%
 > END STRING
 
 > BEGIN STRING
@@ -2011,7 +2011,7 @@ Lady's Crown/10/0/0/134m146
 > BEGIN STRING
 習得：リスティル / 習得：ファル・ルゥイン / 魅力+10 / 魔力+5
 > CONTEXT: Armors/241/description/
-Learn: Listil / Learn: Far-Luin / Charm +10 / Magic +5
+Learn: Ristil / Learn: Far-Luin / Charm +10 / Magic +5
 > END STRING
 
 > BEGIN STRING
@@ -2095,7 +2095,7 @@ Doctor's Spellbook/0/0/0/
 > BEGIN STRING
 習得：リスティル / 習得：シギルグン / 習得：ラプチャ / 魅力+7
 > CONTEXT: Armors/209/description/
-Learn: Listil / Learn: Sigilgun / Learn: Rapture / Charm +7
+Learn: Ristil / Learn: Sigilgun / Learn: Rapture / Charm +7
 > END STRING
 
 > BEGIN STRING

@@ -8042,8 +8042,8 @@
 
 > BEGIN STRING
 "\#{username}は\#{myname}を斬り裂いた！"
-> CONTEXT: Scripts/RPG::State (message)/353:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/353:17
+"\#{username} slashed \#{myname}!"
 > END STRING
 
 > BEGIN STRING

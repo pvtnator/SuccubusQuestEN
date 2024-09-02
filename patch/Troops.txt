@@ -3234,15 +3234,17 @@ EV_エスト(2a)
 > BEGIN STRING
 「\\n[1]！
 　\\c[4]グラム\\c[0]を使って！
-> CONTEXT: Troops/329/pages/2/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/329/pages/2/2/Dialogue
+「\\n[1]!
+　Use \\c[4]Gram\\c[0]!
 > END STRING
 
 > BEGIN STRING
 「今なら斬れるはずよ！
 　\\r[夢魔,そいつ]をッ！！
-> CONTEXT: Troops/329/pages/2/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/329/pages/2/4/Dialogue
+「It should be able to cut now!
+　The \\r[Succubus,h e r]!!
 > END STRING
 
 > BEGIN STRING

@@ -2,46 +2,50 @@
 > BEGIN STRING
 「そうね……。
 　アタシには分からないわ。
-> CONTEXT: Map316/events/9/pages/0/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map316/events/9/pages/0/5/Dialogue
+「You're right...
+　I don't understand.
 > END STRING
 
 > BEGIN STRING
 「あなたち、
 　何のために生きてるのかしら？
-> CONTEXT: Map316/events/9/pages/0/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map316/events/9/pages/0/7/Dialogue
+「What do you live for?
 > END STRING
 
 > BEGIN STRING
 「幸せになるためじゃないの？
-> CONTEXT: Map316/events/9/pages/0/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map316/events/9/pages/0/9/Dialogue
+「Is it not for happiness?
 > END STRING
 
 > BEGIN STRING
 「アタシたちに身を任せれば、
 　全ての幸せが手に入るのよ。
-> CONTEXT: Map316/events/9/pages/0/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map316/events/9/pages/0/10/Dialogue
+「Entrust yourself to us,
+　and you will have all the happiness you need.
 > END STRING
 
 > BEGIN STRING
 「疲れや虚しさなんて、
 　感じるヒマも与えないわ。
-> CONTEXT: Map316/events/9/pages/0/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map316/events/9/pages/0/12/Dialogue
+「There will be no room for 
+　tiredness or emptiness.
 > END STRING
 
 > BEGIN STRING
 「永遠の、究極の快楽よ……
 　どうしてそれを拒むの？
-> CONTEXT: Map316/events/9/pages/0/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map316/events/9/pages/0/14/Dialogue
+「Eternal, ultimate pleasure...
+　why would you deny it?
 > END STRING
 
 > BEGIN STRING
 「それに……………
-> CONTEXT: Map316/events/9/pages/0/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map316/events/9/pages/0/16/Dialogue
+「Besides.....
 > END STRING

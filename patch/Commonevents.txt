@@ -1419,16 +1419,17 @@ pours into \\n[1]!
 > BEGIN STRING
 \\a[\\v[105]]「ああっ、とまんない……っ
 \\w[\\v[104]]　\\n[1]…\\n[1]……ッ！\\w[\\v[105]]
-> CONTEXT: Commonevents/52/428/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/52/433/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/428/Dialogue
+> CONTEXT: Commonevents/52/433/Dialogue
+\\a[\\v[105]]「Aah, I can't stop...
+\\w[\\v[104]]　\\n[1]...\\n[1]...!\\w[\\v[105]]
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「ぜんぶ…ちょうだい……っ！\\w[\\v[105]]
-> CONTEXT: Commonevents/52/430/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/52/435/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/430/Dialogue
+> CONTEXT: Commonevents/52/435/Dialogue
+\\a[\\v[105]]「Give me everything...!\\w[\\v[105]]
 > END STRING
 
 > BEGIN STRING
@@ -3329,14 +3330,15 @@ Alp
 > BEGIN STRING
 「あら………
 　ステキなこと言ってくれるのね\\e[0]
-> CONTEXT: Commonevents/170/211/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/170/211/Dialogue
+「Oho....
+　That's a nice thing to say\\e[0]
 > END STRING
 
 > BEGIN STRING
 「\\n[1]…うれしい……
-> CONTEXT: Commonevents/170/226/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/170/226/Dialogue
+「\\n[1]...I'm happy...
 > END STRING
 
 > BEGIN STRING

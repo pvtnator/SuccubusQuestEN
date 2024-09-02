@@ -147,134 +147,140 @@
 
 > BEGIN STRING
 「あぁ……\\n[1]…………
-> CONTEXT: Map311/events/5/pages/0/268/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map311/events/5/pages/0/268/Dialogue
+「Aah...\\n[1].....
 > END STRING
 
 > BEGIN STRING
 「ありがとう……あたしを……………
-> CONTEXT: Map311/events/5/pages/0/269/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map311/events/5/pages/0/269/Dialogue
+「Thank you...I.....
 > END STRING
 
 > BEGIN STRING
 「愛して……くれ……て…………
-> CONTEXT: Map311/events/5/pages/0/270/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map311/events/5/pages/0/270/Dialogue
+「Please...love...me.....
 > END STRING
 
 > BEGIN STRING
 「ダメ…だったの………？
-> CONTEXT: Map311/events/5/pages/0/303/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map311/events/5/pages/0/303/Dialogue
+「No...how...?
 > END STRING
 
 > BEGIN STRING
 \\n[1]の持つ\\c[4]魔王のかけら\\c[0]が
 まぶしく輝きはじめた！
-> CONTEXT: Map311/events/5/pages/0/309/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map311/events/5/pages/0/309/Dialogue
+\\n[1]'s \\c[4]Demon Lord Shard\\c[0] 
+begun to shine brilliantly!
 > END STRING
 
 > BEGIN STRING
 「\\n[1]……！
-> CONTEXT: Map311/events/5/pages/0/335/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map311/events/5/pages/0/335/Dialogue
+「\\n[1]...!
 > END STRING
 
 > BEGIN STRING
 「もう……離れない………
-> CONTEXT: Map311/events/5/pages/0/351/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map311/events/5/pages/0/351/Dialogue
+「We'll...never be apart again...
 > END STRING
 
 > BEGIN STRING
 「ずっと一緒よ……！
-> CONTEXT: Map311/events/5/pages/0/352/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map311/events/5/pages/0/352/Dialogue
+「We'll always be together...!
 > END STRING
 
 > BEGIN STRING
 「…\\dかけら\\dの……力が………
-> CONTEXT: Map311/events/5/pages/0/370/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map311/events/5/pages/0/370/Dialogue
+「...the power...of the \\dfragment\\d...
 > END STRING
 
 > BEGIN STRING
 「………！
-> CONTEXT: Map311/events/5/pages/0/376/Dialogue < UNTRANSLATED
-> CONTEXT: Map090/events/5/pages/0/181/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map311/events/5/pages/0/376/Dialogue
+> CONTEXT: Map090/events/5/pages/0/181/Dialogue
+「...!
 > END STRING
 
 > BEGIN STRING
 「あら……お邪魔だった？
-> CONTEXT: Map311/events/5/pages/0/420/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map311/events/5/pages/0/420/Dialogue
+「Oho...am I disturbing you?
 > END STRING
 
 > BEGIN STRING
 「オリビア……残念ね。
-> CONTEXT: Map311/events/5/pages/0/425/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map311/events/5/pages/0/425/Dialogue
+「Olivia... How unfortunate.
 > END STRING
 
 > BEGIN STRING
 「もうお友達じゃ
 　なくなっちゃうのかしら？
-> CONTEXT: Map311/events/5/pages/0/426/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map311/events/5/pages/0/426/Dialogue
+「Are we not
+　friends anymore?
 > END STRING
 
 > BEGIN STRING
 「せっかくあなたが望むように
 　してあげたのにね。
-> CONTEXT: Map311/events/5/pages/0/428/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map311/events/5/pages/0/428/Dialogue
+「I did everything I could for you, 
+　just as you wanted.
 > END STRING
 
 > BEGIN STRING
 「エスト……ごめんなさい。
-> CONTEXT: Map311/events/5/pages/0/431/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map311/events/5/pages/0/431/Dialogue
+「Est... Sorry.
 > END STRING
 
 > BEGIN STRING
 「でもあたし、
 　もうあなたたちの誘惑には負けない。
-> CONTEXT: Map311/events/5/pages/0/432/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map311/events/5/pages/0/432/Dialogue
+「But I,
+　will never give in to your temptations again.
 > END STRING
 
 > BEGIN STRING
 「やっと見つけることができたの。
 　あたしがあたしでいられる\\r[術,すべ]。
-> CONTEXT: Map311/events/5/pages/0/434/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map311/events/5/pages/0/434/Dialogue
+「I've finally found it.
+　The way to be myself.
 > END STRING
 
 > BEGIN STRING
 「………ふうん？
-> CONTEXT: Map311/events/5/pages/0/437/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map311/events/5/pages/0/437/Dialogue
+「...Hmm?
 > END STRING
 
 > BEGIN STRING
 「……あなたには、
 　きっとわからないわ。
-> CONTEXT: Map311/events/5/pages/0/439/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map311/events/5/pages/0/439/Dialogue
+「...You wouldn't understand.
 > END STRING
 
 > BEGIN STRING
 「あたしは夢の中にはいない。
-> CONTEXT: Map311/events/5/pages/0/441/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map311/events/5/pages/0/441/Dialogue
+「I'm not in a dream.
 > END STRING
 
 > BEGIN STRING
 「あたしの立っている場所は、
 　もう、現実よ。
-> CONTEXT: Map311/events/5/pages/0/442/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map311/events/5/pages/0/442/Dialogue
+「Where I'm standing,
+　is already reality.
 > END STRING

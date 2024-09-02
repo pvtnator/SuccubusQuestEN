@@ -980,7 +980,7 @@ Cancels funi-type magic on allies
 > CONTEXT: Skills/310/name/
 > CONTEXT: Commonevents/150/279/Choice/0
 > CONTEXT: Commonevents/153/282/Choice/2
-Listil
+Ristil
 > END STRING
 
 > BEGIN STRING
@@ -993,7 +993,7 @@ Increases Rovissa's magic and charm.
 > BEGIN STRING
 ファル・リスティル
 > CONTEXT: Skills/135/name/
-Far-Listil
+Far-Ristil
 > END STRING
 
 > BEGIN STRING

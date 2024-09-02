@@ -1,34 +1,35 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 「現実？ 夢？
-> CONTEXT: Map315/events/7/pages/0/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map315/events/7/pages/0/5/Dialogue
+「Reality? Dream?
 > END STRING
 
 > BEGIN STRING
 「あなた、
 　本当にその境が分かるの？
-> CONTEXT: Map315/events/7/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map315/events/7/pages/0/6/Dialogue
+「Do you really understand that boundary?
 > END STRING
 
 > BEGIN STRING
 「アタシが教えてアゲルわ……
-> CONTEXT: Map315/events/7/pages/0/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map315/events/7/pages/0/12/Dialogue
+「I'll show you...
 > END STRING
 
 > BEGIN STRING
 「そんなもの、
 　本当は無いってコト。
-> CONTEXT: Map315/events/7/pages/0/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map315/events/7/pages/0/13/Dialogue
+「The truth is,
+　it doesn't exist.
 > END STRING
 
 > BEGIN STRING
 「あ……あ……………
-> CONTEXT: Map315/events/7/pages/0/37/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map315/events/7/pages/0/37/Dialogue
+「Ah...a.....
 > END STRING
 
 > BEGIN STRING
@@ -47,29 +48,29 @@
 
 > BEGIN STRING
 「そう……だ…………
-> CONTEXT: Map315/events/7/pages/0/61/Dialogue < UNTRANSLATED
-> CONTEXT: Map315/events/7/pages/1/283/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map315/events/7/pages/0/61/Dialogue
+> CONTEXT: Map315/events/7/pages/1/283/Dialogue
+「That's...right.....
 > END STRING
 
 > BEGIN STRING
 「憎め………………
-> CONTEXT: Map315/events/7/pages/0/67/Dialogue < UNTRANSLATED
-> CONTEXT: Map315/events/7/pages/1/289/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map315/events/7/pages/0/67/Dialogue
+> CONTEXT: Map315/events/7/pages/1/289/Dialogue
+「Hate...
 > END STRING
 
 > BEGIN STRING
 「滅ぼせ……………！
-> CONTEXT: Map315/events/7/pages/0/73/Dialogue < UNTRANSLATED
-> CONTEXT: Map315/events/7/pages/1/295/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map315/events/7/pages/0/73/Dialogue
+> CONTEXT: Map315/events/7/pages/1/295/Dialogue
+「Destroy......!
 > END STRING
 
 > BEGIN STRING
 「あ……あぁッ…………！
-> CONTEXT: Map315/events/7/pages/0/135/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map315/events/7/pages/0/135/Dialogue
+「Ah...aah.....!
 > END STRING
 
 > BEGIN STRING
@@ -87,9 +88,9 @@
 
 > BEGIN STRING
 ここまでの進行をセーブしますか？
-> CONTEXT: Map315/events/7/pages/0/153/Dialogue < UNTRANSLATED
-> CONTEXT: Map311/events/5/pages/0/358/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map315/events/7/pages/0/153/Dialogue
+> CONTEXT: Map311/events/5/pages/0/358/Dialogue
+Save your progress so far?
 > END STRING
 
 > BEGIN STRING
