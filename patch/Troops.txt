@@ -1030,9 +1030,10 @@ SP_ナイトメア
 > BEGIN STRING
 \\a[\\v[104]]見えないエストの手が\\n[1]を愛撫している！
 \\k
-> CONTEXT: Troops/26/pages/1/5/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/27/pages/1/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/26/pages/1/5/Dialogue
+> CONTEXT: Troops/27/pages/1/5/Dialogue
+\\a[\\v[104]]Est's invisible hand caressed \\n[1]!
+\\k
 > END STRING
 
 > BEGIN STRING
@@ -2553,13 +2554,13 @@ EV_オリビア
 > BEGIN STRING
 「\\n[1]、あたし………きれい？
 > CONTEXT: Troops/302/pages/4/2/Dialogue
-"\\n[1], am I... pretty?
+「\\n[1], am I... pretty?
 > END STRING
 
 > BEGIN STRING
 「あたし………きれい？」
 > CONTEXT: Troops/302/pages/4/4/Dialogue
-"Am I... pretty?"
+「Am I... pretty?"
 > END STRING
 
 > BEGIN STRING
@@ -3244,7 +3245,7 @@ EV_エスト(2a)
 　\\r[夢魔,そいつ]をッ！！
 > CONTEXT: Troops/329/pages/2/4/Dialogue
 「It should be able to cut now!
-　The \\r[Succubus,h e r]!!
+　The \\r[succubus,h  e  r]!!
 > END STRING
 
 > BEGIN STRING
@@ -3256,8 +3257,9 @@ EV_エスト(2b)
 > BEGIN STRING
 「あら、お目覚め？
 　…ふふふふ……\\e[0]
-> CONTEXT: Troops/330/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/330/pages/0/6/Dialogue
+「Oh, you're awake?
+　...Hehehe...\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -3268,32 +3270,32 @@ EV_ルヴィッサ
 
 > BEGIN STRING
 「\\n[1]……残念よ………
-> CONTEXT: Troops/331/pages/2/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/331/pages/2/5/Dialogue
+「\\n[1]... What a pity...
 > END STRING
 
 > BEGIN STRING
 「だけど……支配してあげるッ！
-> CONTEXT: Troops/331/pages/2/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/331/pages/2/6/Dialogue
+「But... I'll rule over you!
 > END STRING
 
 > BEGIN STRING
 「心も……カラダも……！
-> CONTEXT: Troops/331/pages/2/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/331/pages/2/7/Dialogue
+「Mind...and body...!
 > END STRING
 
 > BEGIN STRING
 「私の、私たちの\\r[意志,ウィル]の下にッ！！
-> CONTEXT: Troops/331/pages/2/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/331/pages/2/8/Dialogue
+「Under my, under our will!!
 > END STRING
 
 > BEGIN STRING
 どこからか声が聞こえる……
-> CONTEXT: Troops/331/pages/3/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/331/pages/3/1/Dialogue
+A voice comes from somewhere...
 > END STRING
 
 > BEGIN STRING
@@ -3305,53 +3307,57 @@ EV_ルヴィッサ
 > BEGIN STRING
 「…\\v[1]……………
 　………\\v[2]………
-> CONTEXT: Troops/331/pages/3/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/331/pages/3/10/Dialogue
+「...\\v[1]........
+　.....\\v[2]......
 > END STRING
 
 > BEGIN STRING
 「……\\n[1]…どこ…？
 　みえない……
-> CONTEXT: Troops/331/pages/3/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/331/pages/3/14/Dialogue
+「...\\n[1]...where...?
+　I can't see...
 > END STRING
 
 > BEGIN STRING
 「でも分かる…………
 　……届いてッ！
-> CONTEXT: Troops/331/pages/3/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/331/pages/3/16/Dialogue
+「But I understand...
+　...I can reach you!
 > END STRING
 
 > BEGIN STRING
 「………り………に………
-> CONTEXT: Troops/331/pages/4/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/331/pages/4/2/Dialogue
+「...Just...us two.....
 > END STRING
 
 > BEGIN STRING
 「二人きり…なのに……
-> CONTEXT: Troops/331/pages/4/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/331/pages/4/3/Dialogue
+「We're alone...but...
 > END STRING
 
 > BEGIN STRING
 「邪魔よ…邪魔よ邪魔よっ！
 　消えてっ！！
-> CONTEXT: Troops/331/pages/4/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/331/pages/4/4/Dialogue
+「Out of my way...out of my way, out of my way!
+　Get out!!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[104]]「きゃあっ！？
-> CONTEXT: Troops/331/pages/4/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/331/pages/4/9/Dialogue
+\\a[\\v[104]]「Kyaa!?
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]オリビアの意識がどこかへ飛ばされた！
-> CONTEXT: Troops/331/pages/4/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/331/pages/4/14/Dialogue
+\\a[\\v[105]]Olivia's consciousness got launched elsewhere!
 > END STRING
 
 > BEGIN STRING

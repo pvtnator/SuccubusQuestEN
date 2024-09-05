@@ -1234,13 +1234,13 @@ Recover EP, tension up for all every turn [CD: 9]
 > BEGIN STRING
 サイズ/3/0/0
 > CONTEXT: Skills/161/name/
-Size/3/0/0
+Scythe/3/0/0
 > END STRING
 
 > BEGIN STRING
 魔法を使う相手からMPを奪う [リチャージ：3ターン]
 > CONTEXT: Skills/161/description/
-Steal MP from the person casting magic. [CD: 3]
+Steal MP from a magic using opponent [CD: 3]
 > END STRING
 
 > BEGIN STRING
@@ -1460,7 +1460,7 @@ Gambanteinn
 > BEGIN STRING
 サイズ
 > CONTEXT: Skills/240/name/
-Size
+Scythe
 > END STRING
 
 > BEGIN STRING
@@ -3252,8 +3252,8 @@ Madness Song
 
 > BEGIN STRING
 ナイトメア
-> CONTEXT: Skills/651/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/651/name/
+Nightmare
 > END STRING
 
 > BEGIN STRING

@@ -3890,8 +3890,8 @@
 
 > BEGIN STRING
 "\#{itemname}を使った！\\n\\004[\\\\v[104]]あたりに高貴な香りがたちこめる！\\004[\\\\v[104]]　"
-> CONTEXT: Scripts/RPG::Item (message)/27:24 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item (message)/27:24
+" used \#{itemname}!\\n\\004[\\\\v[104]]A noble fragrance fills the air!\\004[\\\\v[104]]　"
 > END STRING
 
 > BEGIN STRING
@@ -5101,8 +5101,8 @@
 
 > BEGIN STRING
 "オリビアと\\\\n[1]の愛のしるし。"
-> CONTEXT: Scripts/RPG::Armor(detail)/177:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Armor(detail)/177:15
+"A token of Olivia's and \\\\n[1]'s love."
 > END STRING
 
 > BEGIN STRING
@@ -7536,8 +7536,8 @@
 
 > BEGIN STRING
 "あたりに官能的な香りがただよう！"
-> CONTEXT: Scripts/RPG::State (message)/284:19 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/284:19
+"There's a sensual scent in the air!"
 > END STRING
 
 > BEGIN STRING
@@ -7767,9 +7767,9 @@
 
 > BEGIN STRING
 "副作用の効果が切れた！"
-> CONTEXT: Scripts/RPG::State (message)/314:19 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::State (message)/316:19 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/314:19
+> CONTEXT: Scripts/RPG::State (message)/316:19
+"The side-effects have worn off!"
 > END STRING
 
 > BEGIN STRING
@@ -7786,9 +7786,9 @@
 
 > BEGIN STRING
 "鎮静剤の副作用！\\n\\\\w[\\\\v[104]]"
-> CONTEXT: Scripts/RPG::State (message)/318:17 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::State (message)/321:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/318:17
+> CONTEXT: Scripts/RPG::State (message)/321:17
+"Sedative side effects!\\n\\\\w[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
@@ -7860,8 +7860,8 @@
 
 > BEGIN STRING
 "ヘヴンズドアの副作用！\\n\\\\w[\\\\v[104]]"
-> CONTEXT: Scripts/RPG::State (message)/333:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/333:17
+"Heaven's Door side effect!\\n\\\\w[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
@@ -7878,8 +7878,8 @@
 
 > BEGIN STRING
 "\#{myname}の精神が飛んだ！\\n\\\\w[\\\\v[104]]"
-> CONTEXT: Scripts/RPG::State (message)/334:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/334:17
+"\#{myname}'s mind feels strange!\\n\\\\w[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
@@ -7896,8 +7896,8 @@
 
 > BEGIN STRING
 "\#{myname}は経験値を得られなくなった！"
-> CONTEXT: Scripts/RPG::State (message)/335:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/335:17
+"\#{myname} is no longer gaining experience!"
 > END STRING
 
 > BEGIN STRING
@@ -12629,7 +12629,7 @@
 > BEGIN STRING
 "「あら、もうイっちゃう？\\n\\\\w[\\\\v[104]]"
 > CONTEXT: Scripts/Game_Battler(msg-crisis)/192:12
-"「Oho, cummung already?\\n\\\\w[\\\\v[104]]"
+"「Oho, cumming already?\\n\\\\w[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
@@ -13722,8 +13722,8 @@
 
 > BEGIN STRING
 "「ごめんなさい、まって……\\n\\\\w[\\\\v[104]]"
-> CONTEXT: Scripts/Game_Battler(msg-insert(A))/170:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-insert(A))/170:12
+"「Sorry, wait...\\n\\\\w[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
@@ -13734,8 +13734,8 @@
 
 > BEGIN STRING
 "　もうすこし……"
-> CONTEXT: Scripts/Game_Battler(msg-insert(A))/171:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-insert(A))/171:12
+"　Just a bit more..."
 > END STRING
 
 > BEGIN STRING
@@ -15777,8 +15777,8 @@
 
 > BEGIN STRING
 "あと\#{$data_skills[skill_id].recast_count.to_s}ターン待たないと使えない！"
-> CONTEXT: Scripts/Game_Battler 3-1/247:7 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler 3-1/247:7
+"\#{$data_skills[skill_id].recast_count.to_s} turns before it can be used!"
 > END STRING
 
 > BEGIN STRING
@@ -17414,14 +17414,14 @@
 
 > BEGIN STRING
 "\#{myname}は\\\\c[4]グングニル\\\\c[0]を具現化させた！\\n\\\\w[\\\\v[105]]"
-> CONTEXT: Scripts/RPG::Skill (message)/770:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/770:18
+"\#{myname} materialized \\\\c[4]Gungnir\\\\c[0]!\\n\\\\w[\\\\v[105]]"
 > END STRING
 
 > BEGIN STRING
 "光の槍が\#{target}を貫く！"
-> CONTEXT: Scripts/RPG::Skill (message)/771:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Skill (message)/771:18
+"A spear of light pierces \#{target}!"
 > END STRING
 
 > BEGIN STRING
@@ -21275,14 +21275,14 @@
 
 > BEGIN STRING
 "ユビキタス・ラヴ"
-> CONTEXT: Scripts/Scene_Battle 5/92:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/Scene_Battle 5/92:17
+"Ubiquitous Love"
 > END STRING
 
 > BEGIN STRING
 "ナイトインセンス"
-> CONTEXT: Scripts/Scene_Battle 5/99:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/Scene_Battle 5/99:17
+"Night Incense"
 > END STRING
 
 > BEGIN STRING
@@ -21332,8 +21332,8 @@
 
 > BEGIN STRING
 "\#{incense}の香りが\#{$game_actors[1].name}の\\nテンションを高める！"
-> CONTEXT: Scripts/Scene_Battle 5/113:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/Scene_Battle 5/113:17
+"\#{incense} raised \#{$game_actors[1].name}'s tension!"
 > END STRING
 
 > BEGIN STRING
@@ -21356,8 +21356,8 @@
 
 > BEGIN STRING
 "魔の芳香が快感を誘う！\\n\\004[\\\\v[104]]"
-> CONTEXT: Scripts/Scene_Battle 5/131:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/Scene_Battle 5/131:17
+"The magical fragrance makes you feel good!\\n\\004[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
@@ -21368,8 +21368,8 @@
 
 > BEGIN STRING
 "夜の匂いがムードを高める！"
-> CONTEXT: Scripts/Scene_Battle 5/137:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/Scene_Battle 5/137:17
+"The scent of the night sets the mood!"
 > END STRING
 
 > BEGIN STRING

@@ -1373,14 +1373,15 @@ pours into \\n[1]!
 > BEGIN STRING
 \\a[\\v[105]]「ふふ…\\e[0]
 \\w[\\v[104]]　これでやっとあなたも……\\w[\\v[105]]
-> CONTEXT: Commonevents/52/407/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/407/Dialogue
+\\a[\\v[105]]「Hehe...\\e[0]
+\\w[\\v[104]]　Now you are finally...\\w[\\v[105]]
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「夢の…住人………\\w[\\v[105]]
-> CONTEXT: Commonevents/52/409/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/409/Dialogue
+\\a[\\v[105]]「A dream dweller...\\w[\\v[105]]
 > END STRING
 
 > BEGIN STRING
@@ -1406,14 +1407,15 @@ pours into \\n[1]!
 > BEGIN STRING
 \\a[\\v[105]]「\\n[1]！
 \\w[\\v[104]]　ああ……っ！\\w[\\v[105]]
-> CONTEXT: Commonevents/52/425/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/425/Dialogue
+\\a[\\v[105]]「\\n[1]!
+\\w[\\v[104]]　Aah...!\\w[\\v[105]]
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「\\n[1]のが…あたしの…中に……\\w[\\v[105]]
-> CONTEXT: Commonevents/52/427/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/52/427/Dialogue
+\\a[\\v[105]]「\\n[1] is...inside me...\\w[\\v[105]]
 > END STRING
 
 > BEGIN STRING
@@ -1497,15 +1499,17 @@ pours into \\n[1]!
 > BEGIN STRING
 「ほら…わかるでしょ？
 　目の前にあるのよ。
-> CONTEXT: Commonevents/104/40/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/104/40/Dialogue
+「Look...you understand, right? 
+　It's right in front of you.
 > END STRING
 
 > BEGIN STRING
 「\\d目の前に全てがあるのよ\\d。
 　ほら………
-> CONTEXT: Commonevents/104/42/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/104/42/Dialogue
+「\\dEverything is right in front of you\\d.
+　Look...
 > END STRING
 
 > BEGIN STRING
@@ -1636,15 +1640,15 @@ You may be able to obtain the \\c[4]Dream Ring\\c[0]
 
 > BEGIN STRING
 "装備なし"
-> CONTEXT: Commonevents/115/1/InlineScript/6:24 < UNTRANSLATED
-> CONTEXT: Commonevents/115/1/InlineScript/11:24 < UNTRANSLATED
-
+> CONTEXT: Commonevents/115/1/InlineScript/6:24
+> CONTEXT: Commonevents/115/1/InlineScript/11:24
+"No equipment"
 > END STRING
 
 > BEGIN STRING
 どちらの装飾品をチェンジしますか？
-> CONTEXT: Commonevents/115/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/115/13/Dialogue
+Which accessory would you like to change?
 > END STRING
 
 > BEGIN STRING
@@ -1658,39 +1662,40 @@ You may be able to obtain the \\c[4]Dream Ring\\c[0]
 
 > BEGIN STRING
 \\a[\\v[105]]ルヴィッサは\\c[3]\\v[2]\\c[0]を装備した！
-> CONTEXT: Commonevents/116/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/116/13/Dialogue
+\\a[\\v[105]]Rovissa equipped \\c[3]\\v[2]\\c[0]!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]ルヴィッサは\\c[3]\\v[1]\\c[0]を外し、
 \\c[3]\\v[2]\\c[0]を装備した！
-> CONTEXT: Commonevents/116/17/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/116/17/Dialogue
+\\a[\\v[105]]Rovissa removed \\c[3]\\v[1]\\c[0],
+and equipped \\c[3]\\v[2]\\c[0]!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]\\n[1]のEPが回復しなくなった！
-> CONTEXT: Commonevents/120/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/120/7/Dialogue
+\\a[\\v[105]]\\n[1]'s EP no longer recovers!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]あたりが官能的な香りにつつまれた！
-> CONTEXT: Commonevents/121/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/121/7/Dialogue
+\\a[\\v[105]]The area was enveloped in a sensual fragrance!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]\\n[27]のMPを \\b\\v[1]\\f 奪い取った！
-> CONTEXT: Commonevents/123/18/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/123/18/Dialogue
+\\a[\\v[105]]\\n[27]'s MP was stolen!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]\\n[27]には効果がなかった！
-> CONTEXT: Commonevents/123/21/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/123/21/Dialogue
+\\a[\\v[105]]\\n[27] had no effect!
 > END STRING
 
 > BEGIN STRING
@@ -5844,8 +5849,8 @@ You have now caught\\b \\v[59] \\f!
 
 > BEGIN STRING
 \\a[\\v[105]]「イイ夢みせてあげるわ……\\e[0]
-> CONTEXT: Commonevents/314/28/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/314/28/Dialogue
+\\a[\\v[105]]「I'll show you sweet dreams...\\e[0]
 > END STRING
 
 > BEGIN STRING

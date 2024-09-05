@@ -812,16 +812,16 @@ Frankincense
 
 > BEGIN STRING
 ユビキタス・ラヴ
-> CONTEXT: States/149/name/ < UNTRANSLATED
-> CONTEXT: Skills/260/name/ < UNTRANSLATED
-
+> CONTEXT: States/149/name/
+> CONTEXT: Skills/260/name/
+Ubiquitous Love
 > END STRING
 
 > BEGIN STRING
 ナイトインセンス
-> CONTEXT: States/150/name/ < UNTRANSLATED
-> CONTEXT: Skills/236/name/ < UNTRANSLATED
-
+> CONTEXT: States/150/name/
+> CONTEXT: Skills/236/name/
+Night Incense
 > END STRING
 
 > BEGIN STRING

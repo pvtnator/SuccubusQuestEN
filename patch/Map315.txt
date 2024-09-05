@@ -75,15 +75,16 @@
 
 > BEGIN STRING
 「そんな……\\r[夢魔,アタシ]まで………
-> CONTEXT: Map315/events/7/pages/0/145/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map315/events/7/pages/0/145/Dialogue
+「No way... That a \\r[succubus,I] would lose.....
 > END STRING
 
 > BEGIN STRING
 「愛せるって…………………
 　……言うの…………？
-> CONTEXT: Map315/events/7/pages/0/146/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map315/events/7/pages/0/146/Dialogue
+「Do you mean.......
+　...You can love me.....?
 > END STRING
 
 > BEGIN STRING
@@ -96,150 +97,159 @@ Save your progress so far?
 > BEGIN STRING
 \\n[1]の持つ\\c[4]魔王のかけら\\c[0]が
 さらにまぶしく輝きはじめた！
-> CONTEXT: Map315/events/7/pages/0/167/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map315/events/7/pages/0/167/Dialogue
+\\n[1]'s \\c[4]Demon Lord Shard\\c[0] 
+begun to shine even more brightly!
 > END STRING
 
 > BEGIN STRING
 「気持ち…いいわ……
 　包み込まれる…………
-> CONTEXT: Map315/events/7/pages/0/183/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map315/events/7/pages/0/183/Dialogue
+「It feels...good...
+　I feel enveloped in it...
 > END STRING
 
 > BEGIN STRING
 「これが…ギルデンスターンの……
 　あなたの…………
-> CONTEXT: Map315/events/7/pages/0/185/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map315/events/7/pages/0/185/Dialogue
+「This is... Guildenstern's...
+　Your...
 > END STRING
 
 > BEGIN STRING
 「ほんとうの…力…………
-> CONTEXT: Map315/events/7/pages/0/252/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map315/events/7/pages/0/252/Dialogue
+「Real...power.....
 > END STRING
 
 > BEGIN STRING
 「いいえ……
-> CONTEXT: Map315/events/7/pages/0/257/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map315/events/7/pages/0/257/Dialogue
+「No...
 > END STRING
 
 > BEGIN STRING
 「違う……違うわ、こんなの！
-> CONTEXT: Map315/events/7/pages/0/365/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map315/events/7/pages/0/365/Dialogue
+「No... No, not like this!
 > END STRING
 
 > BEGIN STRING
 「……ぜ………だ……………
-> CONTEXT: Map315/events/7/pages/0/369/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map315/events/7/pages/0/369/Dialogue
+「...It...is.....
 > END STRING
 
 > BEGIN STRING
 「\\n[1]……どうして……？
-> CONTEXT: Map315/events/7/pages/0/371/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map315/events/7/pages/0/371/Dialogue
+「\\n[1]...why...?
 > END STRING
 
 > BEGIN STRING
 「どうしてっ！？
 　どうして夢魔を許すなんて
 　できるの！？
-> CONTEXT: Map315/events/7/pages/0/372/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map315/events/7/pages/0/372/Dialogue
+「Why?! 
+　How could you 
+　forgive a succubus?!
 > END STRING
 
 > BEGIN STRING
 「忘れたの！？
 　夢魔にされたこと！
-> CONTEXT: Map315/events/7/pages/0/375/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map315/events/7/pages/0/375/Dialogue
+「Did you forget!?
+　All that they've done!
 > END STRING
 
 > BEGIN STRING
 「あなたの世界も……
 　あなたの大切な人も……
-> CONTEXT: Map315/events/7/pages/0/377/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map315/events/7/pages/0/377/Dialogue
+「Your world...
+　The people you love...
 > END STRING
 
 > BEGIN STRING
 「全部奪われるところだったのよ！
-> CONTEXT: Map315/events/7/pages/0/379/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map315/events/7/pages/0/379/Dialogue
+「They would take it all away!
 > END STRING
 
 > BEGIN STRING
 「…………を……………
 　………た………ように……
-> CONTEXT: Map315/events/7/pages/0/381/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map315/events/7/pages/0/381/Dialogue
+「.....As.....
+　.....if......
 > END STRING
 
 > BEGIN STRING
 「\\n[1]……剣を取って。
-> CONTEXT: Map315/events/7/pages/0/384/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map315/events/7/pages/0/384/Dialogue
+「\\n[1]...Pick up your sword.
 > END STRING
 
 > BEGIN STRING
 「滅ぼすのよ。
 　かつてあなたが……
-> CONTEXT: Map315/events/7/pages/0/385/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map315/events/7/pages/0/385/Dialogue
+「Destroy them.
+　Like before...
 > END STRING
 
 > BEGIN STRING
 「魔王をそうしたようにッ！
-> CONTEXT: Map315/events/7/pages/0/387/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map315/events/7/pages/0/387/Dialogue
+「Just like you did to the Demon Lord!
 > END STRING
 
 > BEGIN STRING
 「……………………
-> CONTEXT: Map315/events/7/pages/0/402/Dialogue < UNTRANSLATED
-> CONTEXT: Map313/events/16/pages/0/214/Dialogue < UNTRANSLATED
-> CONTEXT: Map316/events/16/pages/0/214/Dialogue < UNTRANSLATED
-> CONTEXT: Map278/events/8/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map278/events/8/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map214/events/4/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/3/pages/0/270/Dialogue < UNTRANSLATED
-> CONTEXT: Map193/events/16/pages/0/214/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/4/pages/5/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/12/pages/1/25/Dialogue < UNTRANSLATED
-> CONTEXT: Map144/events/2/pages/1/31/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/24/pages/4/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map140/events/34/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/25/pages/3/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/28/pages/0/272/Dialogue < UNTRANSLATED
-> CONTEXT: Map071/events/2/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/29/pages/0/272/Dialogue < UNTRANSLATED
-> CONTEXT: Map071/events/2/pages/4/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map039/events/53/pages/2/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map042/events/26/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map042/events/48/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map315/events/7/pages/0/402/Dialogue
+> CONTEXT: Map313/events/16/pages/0/214/Dialogue
+> CONTEXT: Map316/events/16/pages/0/214/Dialogue
+> CONTEXT: Map278/events/8/pages/0/1/Dialogue
+> CONTEXT: Map278/events/8/pages/1/1/Dialogue
+> CONTEXT: Map214/events/4/pages/1/1/Dialogue
+> CONTEXT: Map231/events/3/pages/0/270/Dialogue
+> CONTEXT: Map193/events/16/pages/0/214/Dialogue
+> CONTEXT: Map231/events/4/pages/5/1/Dialogue
+> CONTEXT: Map231/events/12/pages/1/25/Dialogue
+> CONTEXT: Map144/events/2/pages/1/31/Dialogue
+> CONTEXT: Map231/events/24/pages/4/1/Dialogue
+> CONTEXT: Map140/events/34/pages/1/1/Dialogue
+> CONTEXT: Map231/events/25/pages/3/1/Dialogue
+> CONTEXT: Map231/events/28/pages/0/272/Dialogue
+> CONTEXT: Map071/events/2/pages/0/1/Dialogue
+> CONTEXT: Map231/events/29/pages/0/272/Dialogue
+> CONTEXT: Map071/events/2/pages/4/1/Dialogue
+> CONTEXT: Map039/events/53/pages/2/1/Dialogue
+> CONTEXT: Map042/events/26/pages/0/1/Dialogue
+> CONTEXT: Map042/events/48/pages/0/1/Dialogue
+「..........
 > END STRING
 
 > BEGIN STRING
 「…………そう……
-> CONTEXT: Map315/events/7/pages/0/405/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map315/events/7/pages/0/405/Dialogue
+「.....I see...
 > END STRING
 
 > BEGIN STRING
 「なら……そのカラダ………
-> CONTEXT: Map315/events/7/pages/0/406/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map315/events/7/pages/0/406/Dialogue
+「Then...that body...
 > END STRING
 
 > BEGIN STRING
 「力ずくでも………！
-> CONTEXT: Map315/events/7/pages/0/407/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map315/events/7/pages/0/407/Dialogue
+「Even if by force...!
 > END STRING
 
 > BEGIN STRING
