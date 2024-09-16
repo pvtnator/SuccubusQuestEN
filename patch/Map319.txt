@@ -58,12 +58,14 @@
 \\a[140]「そうよ、これは夢……。
 　アタシたちは。 あなたも。
 > CONTEXT: Map319/events/11/pages/0/9/Dialogue < UNTRANSLATED
-
+\\a[140]「Yes, this is a dream....
+　For us. And you too.
 > END STRING
 
 > BEGIN STRING
 \\a[140]「いらっしゃい。
 　楽しみましょう…\\e[0]
 > CONTEXT: Map319/events/11/pages/0/14/Dialogue < UNTRANSLATED
-
+\\a[140]「Come on in. 
+　Let's have some fun...\\e[0]
 > END STRING

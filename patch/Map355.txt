@@ -3,12 +3,14 @@
 \\a[140]「お前が守れないなら、
 　オリビアは俺が守るッ！
 > CONTEXT: Map355/events/12/pages/0/3/Dialogue < UNTRANSLATED
-
+\\a[140]「If you can't protect her, 
+　then I will protect Olivia!
 > END STRING
 
 > BEGIN STRING
 \\a[140]「軟弱な勇者サマには
 　もう任せておけねえんだよッ！！
 > CONTEXT: Map355/events/12/pages/0/7/Dialogue < UNTRANSLATED
-
+\\a[140]「I can't leave it 
+　to a weak hero anymore!!
 > END STRING

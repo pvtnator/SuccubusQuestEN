@@ -1951,7 +1951,7 @@ Bloodstained Fang/0/0/0/161
 > BEGIN STRING
 習得：サイズ
 > CONTEXT: Armors/236/description/
-Learn: Size
+Learn: Scythe
 > END STRING
 
 > BEGIN STRING

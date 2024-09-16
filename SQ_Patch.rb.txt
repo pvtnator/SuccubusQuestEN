@@ -61,67 +61,67 @@ Mod_Scripts/*.rb
 > BEGIN STRING
 バンシー
 > CONTEXT: SQ_Patch.rb
-
+Banshee
 > END STRING
 
 > BEGIN STRING
 アイルランド伝承
 > CONTEXT: SQ_Patch.rb
-
+Irish Folklore
 > END STRING
 
 > BEGIN STRING
 家の守護妖精の一種。
 > CONTEXT: SQ_Patch.rb
-
+home guarding fairy.
 > END STRING
 
 > BEGIN STRING
 家の者の死が近づくと
 > CONTEXT: SQ_Patch.rb
-
+Death of family member
 > END STRING
 
 > BEGIN STRING
 泣きまわってそれを知らせる。
 > CONTEXT: SQ_Patch.rb
-
+brings her to lament.
 > END STRING
 
 > BEGIN STRING
 その家系の亡霊、特に若くして死んだ
 > CONTEXT: SQ_Patch.rb
-
+Ghost of that family,
 > END STRING
 
 > BEGIN STRING
 美しい乙女であるとされる。
 > CONTEXT: SQ_Patch.rb
-
+Beautiful maiden.
 > END STRING
 
 > BEGIN STRING
 泣きはらして真っ赤な目と、
 > CONTEXT: SQ_Patch.rb
-
+Crying with red eyes,
 > END STRING
 
 > BEGIN STRING
 流れるような長髪を持つ。
 > CONTEXT: SQ_Patch.rb
-
+has long, flowing hair.
 > END STRING
 
 > BEGIN STRING
 契約の杖
 > CONTEXT: SQ_Patch.rb
-
+Pact Staff
 > END STRING
 
 > BEGIN STRING
 博士の呪文書
 > CONTEXT: SQ_Patch.rb
-
+Doctor's Spellbook
 > END STRING
 
 > BEGIN STRING
@@ -137,21 +137,21 @@ P_Map%03d.rxdata
 > END STRING
 
 > BEGIN STRING
-興奮してるの？\n\\w[\\v[105]]
+「興奮してるの？\n\\w[\\v[105]]
 > CONTEXT: SQ_Patch.rb
-
+「Excited?\n\\w[\\v[105]]
 > END STRING
 
 > BEGIN STRING
 　焦らしたくなっちゃうわね…\\e[0]
 > CONTEXT: SQ_Patch.rb
-
+　I just want to tease you...\\e[0]
 > END STRING
 
 > BEGIN STRING
 #{self.name}
 > CONTEXT: SQ_Patch.rb
-
+You hate \#{self.name}...?
 > END STRING
 
 > BEGIN STRING
@@ -169,13 +169,13 @@ blue
 > BEGIN STRING
 アルケインリボン
 > CONTEXT: SQ_Patch.rb
-
+Arcane Ribbon
 > END STRING
 
 > BEGIN STRING
 クリプティリボン
 > CONTEXT: SQ_Patch.rb
-
+Crypti Ribbon
 > END STRING
 
 > BEGIN STRING
@@ -187,13 +187,13 @@ C
 > BEGIN STRING
 リンクスマフス
 > CONTEXT: SQ_Patch.rb
-
+Lynx Muffs
 > END STRING
 
 > BEGIN STRING
 グリマルキンマフス
 > CONTEXT: SQ_Patch.rb
-
+Grimalkin Muffs
 > END STRING
 
 > BEGIN STRING
@@ -205,13 +205,13 @@ M
 > BEGIN STRING
 サヴァントカチューシャ
 > CONTEXT: SQ_Patch.rb
-
+Savant Headband
 > END STRING
 
 > BEGIN STRING
 メイデンカチューシャ
 > CONTEXT: SQ_Patch.rb
-
+Maiden Headband
 > END STRING
 
 > BEGIN STRING
@@ -223,25 +223,25 @@ S
 > BEGIN STRING
 ルナバレッタ
 > CONTEXT: SQ_Patch.rb
-
+Luna Barrette
 > END STRING
 
 > BEGIN STRING
 セレスシャルバレッタ
 > CONTEXT: SQ_Patch.rb
-
+Celestial Barrette
 > END STRING
 
 > BEGIN STRING
 アルケインドレス
 > CONTEXT: SQ_Patch.rb
-
+Arcane Dress
 > END STRING
 
 > BEGIN STRING
 クリプティドレス
 > CONTEXT: SQ_Patch.rb
-
+Crypti Dress
 > END STRING
 
 > BEGIN STRING
@@ -253,13 +253,13 @@ red
 > BEGIN STRING
 コーラルドレス
 > CONTEXT: SQ_Patch.rb
-
+Coral Dress
 > END STRING
 
 > BEGIN STRING
 ダマスクドレス
 > CONTEXT: SQ_Patch.rb
-
+Damask Dress
 > END STRING
 
 > BEGIN STRING
@@ -271,49 +271,49 @@ white
 > BEGIN STRING
 アイボリードレス
 > CONTEXT: SQ_Patch.rb
-
+Ivory Dress
 > END STRING
 
 > BEGIN STRING
 アラバスタドレス
 > CONTEXT: SQ_Patch.rb
-
+Alabasta Dress
 > END STRING
 
 > BEGIN STRING
 リンクスファー
 > CONTEXT: SQ_Patch.rb
-
+Lynx Fur
 > END STRING
 
 > BEGIN STRING
 グリマルキンファー
 > CONTEXT: SQ_Patch.rb
-
+Grimalkin Fur
 > END STRING
 
 > BEGIN STRING
 サヴァントブラウス
 > CONTEXT: SQ_Patch.rb
-
+Savant Blouse
 > END STRING
 
 > BEGIN STRING
 メイデンブラウス
 > CONTEXT: SQ_Patch.rb
-
+Maiden Blouse
 > END STRING
 
 > BEGIN STRING
 ミニマルビキニ
 > CONTEXT: SQ_Patch.rb
-
+Minimal Bikini
 > END STRING
 
 > BEGIN STRING
 エンプティビキニ
 > CONTEXT: SQ_Patch.rb
-
+Empty Bikini
 > END STRING
 
 > BEGIN STRING
@@ -329,69 +329,69 @@ Succubus
 > END STRING
 
 > BEGIN STRING
-ぁン、気持ちいいわぁ…\n\\w[\\v[104]]
+「ぁン、気持ちいいわぁ…\n\\w[\\v[104]]
 > CONTEXT: SQ_Patch.rb
-
+「Ahh, that feels good...\n\\w[\\v[104]]
 > END STRING
 
 > BEGIN STRING
 　いっぱいちょうだいねぇ\\e[0]
 > CONTEXT: SQ_Patch.rb
-
+　Give me lots\\e[0]
 > END STRING
 
 > BEGIN STRING
-ぁ…あぁんっ…\\e[0]\n\\w[\\v[104]]
+「ぁ…あぁんっ…\\e[0]\n\\w[\\v[104]]
 > CONTEXT: SQ_Patch.rb
-
+「A...aaah...\\e[0]\n\\w[\\v[104]]
 > END STRING
 
 > BEGIN STRING
 　イイわぁ…もっといっぱいしてえっ
 > CONTEXT: SQ_Patch.rb
-
+　Feels good...I want more
 > END STRING
 
 > BEGIN STRING
-ふふふ…イきそう？ イっていいのよ？\n\\w[\\v[104]]
+「ふふふ…イきそう？ イっていいのよ？\n\\w[\\v[104]]
 > CONTEXT: SQ_Patch.rb
-
+「Hehe... Going to cum? Is it okay to cum?\n\\w[\\v[104]]
 > END STRING
 
 > BEGIN STRING
 　はやく精液ちょうだい\\e[0]
 > CONTEXT: SQ_Patch.rb
-
+　Give me your semen quickly\\e[0]
 > END STRING
 
 > BEGIN STRING
 シルフ
 > CONTEXT: SQ_Patch.rb
-
+Sylph
 > END STRING
 
 > BEGIN STRING
-あぁん……、\n
+「あぁん……、\n
 > CONTEXT: SQ_Patch.rb
-
+「Aaah...\n
 > END STRING
 
 > BEGIN STRING
 　気持ちいいっ………\\e[0]
 > CONTEXT: SQ_Patch.rb
-
+　Feels good...\\e[0]
 > END STRING
 
 > BEGIN STRING
-ふふふ……\n\\w[\\v[104]]
+「ふふふ……\n\\w[\\v[104]]
 > CONTEXT: SQ_Patch.rb
-
+「Hehehe...\n\\w[\\v[104]]
 > END STRING
 
 > BEGIN STRING
 　気持ちよさそうだね\\e[0]
 > CONTEXT: SQ_Patch.rb
-
+　That'll feel good\\e[0]
 > END STRING
 
 > BEGIN STRING

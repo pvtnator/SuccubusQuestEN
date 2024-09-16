@@ -3337,7 +3337,7 @@ A voice comes from somewhere...
 > BEGIN STRING
 「二人きり…なのに……
 > CONTEXT: Troops/331/pages/4/3/Dialogue
-「We're alone...but...
+「Just us...but...
 > END STRING
 
 > BEGIN STRING
@@ -3364,53 +3364,58 @@ A voice comes from somewhere...
 「ラルス…ラルス……
 　あなたを………
 > CONTEXT: Troops/331/pages/5/10/Dialogue < UNTRANSLATED
-
+「Lars...Lars...
+　You.....
 > END STRING
 
 > BEGIN STRING
 「のみこみたい……
 　のみこまれたい……
 > CONTEXT: Troops/331/pages/5/12/Dialogue < UNTRANSLATED
-
+「I want you inside...
+　Inside me...
 > END STRING
 
 > BEGIN STRING
 「ひとつに…なりたい…ッ！
 > CONTEXT: Troops/331/pages/5/14/Dialogue < UNTRANSLATED
-
+「Let's...become one..!
 > END STRING
 
 > BEGIN STRING
 「あ……あぁッ………
 　そんな………
 > CONTEXT: Troops/331/pages/6/2/Dialogue < UNTRANSLATED
-
+「Ah...aah.....
+　This.....
 > END STRING
 
 > BEGIN STRING
 「あぁーーーっ！！
 > CONTEXT: Troops/331/pages/6/4/Dialogue < UNTRANSLATED
-
+「Aaahh...!!
 > END STRING
 
 > BEGIN STRING
 \\a[1]ウィル・ルヴィッサは絶頂に達する寸前に
 \\w[\\v[104]]激しく腰を振ってきた！\\k
 > CONTEXT: Troops/331/pages/6/6/Dialogue < UNTRANSLATED
-
+\\a[1]While Will Rovissa was on the verge of climax
+\\w[\\v[104]]she started shaking hips intensely!\\k
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]ウィル・ルヴィッサは絶頂に達した！
 \\k
 > CONTEXT: Troops/331/pages/6/22/Dialogue < UNTRANSLATED
-
+\\a[\\v[105]]Will Rovissa climaxed!
+\\k
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]ウィル・ルヴィッサは絶頂に達した！
 > CONTEXT: Troops/331/pages/6/51/Dialogue < UNTRANSLATED
-
+\\a[\\v[105]]Will Rovissa climaxed!
 > END STRING
 
 > BEGIN STRING
@@ -3423,7 +3428,8 @@ ENDING_ギルデンスターン
 \\a[80]「夢に想うは人！
 　夢に棲まうは魔！
 > CONTEXT: Troops/332/pages/0/3/Dialogue < UNTRANSLATED
-
+\\a[80]「Humans see dreams!
+　Demons live in dreams!
 > END STRING
 
 > BEGIN STRING

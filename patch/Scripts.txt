@@ -10405,8 +10405,8 @@
 
 > BEGIN STRING
 "「……………………"
-> CONTEXT: Scripts/Game_Battler(msg-nude(E))/93:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(msg-nude(E))/93:17
+"「.........."
 > END STRING
 
 > BEGIN STRING
@@ -13102,7 +13102,7 @@
 > BEGIN STRING
 "「ああっ…\\\\n[1]……\\n\\\\w[\\\\v[104]]"
 > CONTEXT: Scripts/Game_Battler(msg-crisis)/288:17 < UNTRANSLATED
-
+"「Aah...\\\\n[1]...\\n\\\\w[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
@@ -13126,13 +13126,13 @@
 > BEGIN STRING
 "「イっちゃいなさい……\\n\\\\w[\\\\v[104]]"
 > CONTEXT: Scripts/Game_Battler(msg-crisis)/290:12 < UNTRANSLATED
-
+"「Cum then...\\n\\\\w[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
 "　楽に…してあげる……"
 > CONTEXT: Scripts/Game_Battler(msg-crisis)/291:12 < UNTRANSLATED
-
+"　Take in the relief..."
 > END STRING
 
 > BEGIN STRING
@@ -14206,13 +14206,13 @@
 > BEGIN STRING
 "しかし相手が小さすぎてインサートできなかった！"
 > CONTEXT: Scripts/RPG::Skill (message)/40:21 < UNTRANSLATED
-
+"But the target is too small to insert!"
 > END STRING
 
 > BEGIN STRING
 "快感を受けないよう意識を集中させた！"
 > CONTEXT: Scripts/RPG::Skill (message)/52:24 < UNTRANSLATED
-
+" concentrated to avoid pleasure!"
 > END STRING
 
 > BEGIN STRING
@@ -14791,13 +14791,13 @@
 > BEGIN STRING
 "\#{myname}は精神を集中させ、\\n\\004[\\\\v[104]]"
 > CONTEXT: Scripts/RPG::Skill (message)/284:18 < UNTRANSLATED
-
+"\#{myname} concentrates,\\n\\004[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
 "魂を一新した！"
 > CONTEXT: Scripts/RPG::Skill (message)/285:18 < UNTRANSLATED
-
+"and spirit is renewed!
 > END STRING
 
 > BEGIN STRING
@@ -15092,7 +15092,7 @@
 > CONTEXT: Scripts/RPG::Skill (message)/387:27 < UNTRANSLATED
 > CONTEXT: Scripts/RPG::Skill (message)/391:19 < UNTRANSLATED
 > CONTEXT: Scripts/RPG::Skill (message)/394:27 < UNTRANSLATED
-
+"\#{myname} was unaffected!"
 > END STRING
 
 > BEGIN STRING
@@ -15296,7 +15296,7 @@
 > CONTEXT: Scripts/RPG::Skill (message)/430:17 < UNTRANSLATED
 > CONTEXT: Scripts/RPG::Skill (message)/445:17 < UNTRANSLATED
 > CONTEXT: Scripts/RPG::Skill (message)/481:17 < UNTRANSLATED
-
+"But \#{target} was unaffected!"
 > END STRING
 
 > BEGIN STRING
@@ -15748,7 +15748,7 @@
 > BEGIN STRING
 "しかし\#{myname}には効果がなかった！"
 > CONTEXT: Scripts/RPG::Skill (message)/475:17 < UNTRANSLATED
-
+"But \#{myname} was unaffected!"
 > END STRING
 
 > BEGIN STRING
@@ -17032,7 +17032,7 @@
 > BEGIN STRING
 "夢魔のいる場所では使えない！"
 > CONTEXT: Scripts/Game_Party/482:26 < UNTRANSLATED
-
+"Cannot be used in the presence of succubi!"
 > END STRING
 
 > BEGIN STRING

@@ -21,18 +21,20 @@
 \\a[140]「ねえ\\n[1]！
 　次はどこへ行こうかしら？
 > CONTEXT: Map361/events/17/pages/0/239/Dialogue < UNTRANSLATED
-
+\\a[140]「Hey \\n[1]!
+　Where should we go next?
 > END STRING
 
 > BEGIN STRING
 \\a[140]「ずっと東に、
 　まだ行ったことのない国があるわ。
 > CONTEXT: Map361/events/17/pages/0/243/Dialogue < UNTRANSLATED
-
+\\a[140]「There's a country far to the east 
+　that we haven't been to yet.
 > END STRING
 
 > BEGIN STRING
 \\a[120]「私、また海がみたいな\\e[0]
 > CONTEXT: Map361/events/17/pages/0/245/Dialogue < UNTRANSLATED
-
+\\a[120]「I want to see the ocean again\\e[0]
 > END STRING

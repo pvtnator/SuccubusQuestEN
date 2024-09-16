@@ -2,11 +2,11 @@
 > BEGIN STRING
 \\a[100]「……つなぎ…とめて……
 > CONTEXT: Map318/events/2/pages/0/6/Dialogue < UNTRANSLATED
-
+\\a[100]「...Join...hold...
 > END STRING
 
 > BEGIN STRING
 \\a[100]「あたしを…………
 > CONTEXT: Map318/events/2/pages/0/7/Dialogue < UNTRANSLATED
-
+\\a[100]「me.....
 > END STRING

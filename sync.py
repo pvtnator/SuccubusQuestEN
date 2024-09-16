@@ -22,6 +22,14 @@ def sync(files, update, txstrdir=0):
                     while(lines[i][0] == ">"):
                         i += 1
                     trans = update.get(string)
+                    if not trans:
+                        for t in update.keys():
+                            if string.strip() in t and len(t)-len(string) < 10:
+                                string = t
+                                print(string)
+                        trans = update.get(string)
+                        if trans:
+                            trans = trans.replace('"',"").replace("「","")
                     if trans and lines[i]!=trans:
                         print(lines[i].strip()+" replaced by "+trans.strip())
                         lines[i] = trans
@@ -52,7 +60,7 @@ if __name__ == "__main__":
     #main_files = [current_dir / "patch" / "Scripts.txt", current_dir / "patch" / "Skills.txt"]
     main_files = []
     for file in (current_dir / "patch").rglob("*.txt"):
-        if not "Unused" in str(file) and not "Script" in str(file):
+        if not "Unused" in str(file):
             main_files.append(file)
 
     print("===Reading current translations===")
@@ -75,6 +83,11 @@ if __name__ == "__main__":
                 if lines[i].strip():
                     stripped = lines[i].split("/")[0]+"\n" if "/" in lines[i] else lines[i]
                     string = string.split("/")[0]+"\n" if "/" in string else string
+                    string = string.replace("\\\\", "\\")
+                    stripped = stripped.replace("\\\\", "\\")
+                    if "ぁン、気持ちいいわぁ" in string:
+                        print(string)
+                        print(stripped)
                     translations[string] = stripped
                     #print(string.strip()+" = "+lines[i].strip())
 
@@ -83,7 +96,8 @@ if __name__ == "__main__":
                 i += 1
 
     print("===Updating mod translations===")
-    main_files = [current_dir / "patch" / "Scripts.txt"]
+    #main_files = [current_dir / "patch" / "Scripts.txt"]
+    main_files = [current_dir / "SQ_Patch.rb.txt"]
     #for file in (current_dir / "patch").rglob("*.txt"):
     #    main_files.append(file)
         

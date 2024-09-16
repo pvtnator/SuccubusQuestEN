@@ -85,7 +85,9 @@
 　この壮大にして馬鹿馬鹿しき
 　悲劇的喜劇！
 > CONTEXT: Map251/events/4/pages/2/9/Dialogue < UNTRANSLATED
-
+「Well, what do you think?
+　This magnificent and ridiculous
+　tragic comedy!
 > END STRING
 
 > BEGIN STRING
@@ -93,7 +95,9 @@
 　悲劇的牧歌劇、牧歌的英雄劇、
 　英雄的牧歌的悲劇的喜劇！
 > CONTEXT: Map251/events/4/pages/2/12/Dialogue < UNTRANSLATED
-
+「Or comic tragedy,
+　tragic pastoral, pastoral heroic,
+　heroic pastoral tragic comedy!
 > END STRING
 
 > BEGIN STRING
@@ -101,19 +105,23 @@
 　全て君のお陰で無事終幕を迎え！
 　君には特別の謝辞を！！
 > CONTEXT: Map251/events/4/pages/2/15/Dialogue < UNTRANSLATED
-
+「Hehe!
+　It all came to a safe conclusion thanks to you!
+　I'd like to give you a special thank you!!
 > END STRING
 
 > BEGIN STRING
 「さあしかし、
 　此処はご存知の舞台裏。
 > CONTEXT: Map251/events/4/pages/2/18/Dialogue < UNTRANSLATED
-
+「Now, however,
+　this is behind the scenes as you know.
 > END STRING
 
 > BEGIN STRING
 「ふふふふ！
 　最後に存分に楽しんでいくがいい！！
 > CONTEXT: Map251/events/4/pages/2/20/Dialogue < UNTRANSLATED
-
+「Hehehe!
+　Have fun to the fullest!!
 > END STRING

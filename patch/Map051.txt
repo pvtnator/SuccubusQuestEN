@@ -743,7 +743,7 @@ Sleeping face down on the counter...
 　教えてぇ\\e[0]
 > CONTEXT: Map051/events/20/pages/0/11/Dialogue
 「What's your weakness?
-Tell me\\e[0]
+　Tell me\\e[0]
 > END STRING
 
 > BEGIN STRING

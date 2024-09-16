@@ -282,99 +282,103 @@ begun to shine even more brightly!
 > CONTEXT: Map315/events/7/pages/1/49/Dialogue < UNTRANSLATED
 > CONTEXT: Map037/events/2/pages/0/267/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/101/11/Dialogue < UNTRANSLATED
-
+「\\n[1]......
 > END STRING
 
 > BEGIN STRING
 「そう……………
 　私…まで……………
 > CONTEXT: Map315/events/7/pages/1/50/Dialogue < UNTRANSLATED
-
+「I see.....
+　Even I.......
 > END STRING
 
 > BEGIN STRING
 「……ありが……とう…………
 > CONTEXT: Map315/events/7/pages/1/52/Dialogue < UNTRANSLATED
-
+「...Thank...you.....
 > END STRING
 
 > BEGIN STRING
 「ねえ、答えて………
 > CONTEXT: Map315/events/7/pages/1/112/Dialogue < UNTRANSLATED
-
+「Hey, tell me...
 > END STRING
 
 > BEGIN STRING
 「\\n[1]にとって……私は………
 > CONTEXT: Map315/events/7/pages/1/113/Dialogue < UNTRANSLATED
-
+「To \\n[1]... Am I.....
 > END STRING
 
 > BEGIN STRING
 「現実………？
 　それとも……夢……？
 > CONTEXT: Map315/events/7/pages/1/114/Dialogue < UNTRANSLATED
-
+「Reality...?
+　Or...a dream...?
 > END STRING
 
 > BEGIN STRING
 「現実？それとも夢？」
 > CONTEXT: Map315/events/7/pages/1/117/Dialogue < UNTRANSLATED
-
+「Reality? Or dream?」
 > END STRING
 
 > BEGIN STRING
 現実
 > CONTEXT: Map315/events/7/pages/1/118/Choice/0 < UNTRANSLATED
-
+Reality
 > END STRING
 
 > BEGIN STRING
 夢
 > CONTEXT: Map315/events/7/pages/1/118/Choice/1 < UNTRANSLATED
-
+Dream
 > END STRING
 
 > BEGIN STRING
 「ふふ…………
 　\\n[1]…………
 > CONTEXT: Map315/events/7/pages/1/129/Dialogue < UNTRANSLATED
-
+「Hehe.....
+　\\n[1].....
 > END STRING
 
 > BEGIN STRING
 「楽しかったわ……
 　…これ、ほんとうよ………
 > CONTEXT: Map315/events/7/pages/1/131/Dialogue < UNTRANSLATED
-
+「It was pleasant...
+　...It really was...
 > END STRING
 
 > BEGIN STRING
 「\\r[現実,ほんとう]の私の気持ちよ…………
 > CONTEXT: Map315/events/7/pages/1/133/Dialogue < UNTRANSLATED
-
+「My \\r[real,true] feelings are.....
 > END STRING
 
 > BEGIN STRING
 「私、あなたを……
 > CONTEXT: Map315/events/7/pages/1/134/Dialogue < UNTRANSLATED
-
+「That I...
 > END STRING
 
 > BEGIN STRING
 「好きだった……かもね………
 > CONTEXT: Map315/events/7/pages/1/135/Dialogue < UNTRANSLATED
-
+「Loved you...I think....
 > END STRING
 
 > BEGIN STRING
 「そう…それで………
 > CONTEXT: Map315/events/7/pages/1/254/Dialogue < UNTRANSLATED
-
+「Right, I see....
 > END STRING
 
 > BEGIN STRING
 「いいの……よ………
 > CONTEXT: Map315/events/7/pages/1/255/Dialogue < UNTRANSLATED
-
+「That's...fine....
 > END STRING

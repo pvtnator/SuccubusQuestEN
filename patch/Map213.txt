@@ -222,7 +222,7 @@ Sleeping with a happy face...
 　まやかしよ去れッ！！
 > CONTEXT: Map213/events/17/pages/1/408/Dialogue
 「This is reality! 
-　Take you illusion away from here!!
+　Take your illusion away from here!!
 > END STRING
 
 > BEGIN STRING
