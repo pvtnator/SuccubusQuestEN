@@ -18,15 +18,17 @@
 > BEGIN STRING
 「今ルヴィッサが装備で覚えてる魔法を、
 　ずっと覚えてられるようにしてあげようか？
-> CONTEXT: Map388/events/4/pages/0/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map388/events/4/pages/0/9/Dialogue
+「Would you like Rovissa to keep the magic 
+　she currently knows from her equipment forever?
 > END STRING
 
 > BEGIN STRING
 今ルヴィッサが装備で覚えてる魔法を、
 ずっと覚えてられるようにしますか？
-> CONTEXT: Map388/events/4/pages/0/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map388/events/4/pages/0/12/Dialogue
+Would you like Rovissa to keep the magic 
+she currently knows from her equipment forever?
 > END STRING
 
 > BEGIN STRING
@@ -607,6 +609,7 @@ No
 > BEGIN STRING
 「だいじなことだからね。
 　ゆっくり考えるといいよ。
-> CONTEXT: Map388/events/4/pages/0/41/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map388/events/4/pages/0/41/Dialogue
+「This is an important matter.
+　Take your time and think it over.
 > END STRING

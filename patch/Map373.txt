@@ -2,6 +2,7 @@
 > BEGIN STRING
 ルヴィッサの今頭に装備しているものを
 衣装架けにかけますか？
-> CONTEXT: Map373/events/5/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map373/events/5/pages/0/3/Dialogue
+Hang Rovissa's current equipment 
+on the costume rack?
 > END STRING

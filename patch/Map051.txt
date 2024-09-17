@@ -464,7 +464,7 @@ Let's see who can reach a thousand first.
 　千人斬りやっちまうとは大した奴だ。
 > CONTEXT: Map051/events/9/pages/3/31/Dialogue
 「Even so, I can't believe you really did a thousand. 
-Quite an impressive guy.
+　Quite an impressive guy.
 > END STRING
 
 > BEGIN STRING

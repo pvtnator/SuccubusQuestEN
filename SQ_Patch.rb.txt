@@ -151,7 +151,7 @@ P_Map%03d.rxdata
 > BEGIN STRING
 #{self.name}
 > CONTEXT: SQ_Patch.rb
-You hate \#{self.name}...?
+
 > END STRING
 
 > BEGIN STRING

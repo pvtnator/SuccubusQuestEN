@@ -1172,93 +1172,93 @@ Limit your level to match your opponent
 
 > BEGIN STRING
 スペードのエース
-> CONTEXT: Items/214/name/ < UNTRANSLATED
-
+> CONTEXT: Items/214/name/
+Ace of Spades
 > END STRING
 
 > BEGIN STRING
 精力を上げる
-> CONTEXT: Items/214/description/ < UNTRANSLATED
-
+> CONTEXT: Items/214/description/
+Energy up
 > END STRING
 
 > BEGIN STRING
 ハートのクィーン
-> CONTEXT: Items/215/name/ < UNTRANSLATED
-
+> CONTEXT: Items/215/name/
+Queen of Hearts
 > END STRING
 
 > BEGIN STRING
 魅力を上げる
-> CONTEXT: Items/215/description/ < UNTRANSLATED
-
+> CONTEXT: Items/215/description/
+Charm up
 > END STRING
 
 > BEGIN STRING
 ダイアのキング
-> CONTEXT: Items/216/name/ < UNTRANSLATED
-
+> CONTEXT: Items/216/name/
+King of Diamonds
 > END STRING
 
 > BEGIN STRING
 守りを上げる
-> CONTEXT: Items/216/description/ < UNTRANSLATED
-
+> CONTEXT: Items/216/description/
+Defense up
 > END STRING
 
 > BEGIN STRING
 第十シグネット
-> CONTEXT: Items/218/name/ < UNTRANSLATED
-
+> CONTEXT: Items/218/name/
+10th Signet
 > END STRING
 
 > BEGIN STRING
 ドラウムニョルの地下、第十層へワープする
-> CONTEXT: Items/218/description/ < UNTRANSLATED
-> CONTEXT: Items/221/description/ < UNTRANSLATED
-
+> CONTEXT: Items/218/description/
+> CONTEXT: Items/221/description/
+Warp to the 10th floor of Draumnior's Underground
 > END STRING
 
 > BEGIN STRING
 第二十五シグネット
-> CONTEXT: Items/219/name/ < UNTRANSLATED
-
+> CONTEXT: Items/219/name/
+25th Signet
 > END STRING
 
 > BEGIN STRING
 ドラウムニョルの地下、第二十五層へワープする
-> CONTEXT: Items/219/description/ < UNTRANSLATED
-
+> CONTEXT: Items/219/description/
+Warp to the 25th floor of Draumnior's Underground
 > END STRING
 
 > BEGIN STRING
 第四十シグネット
-> CONTEXT: Items/220/name/ < UNTRANSLATED
-
+> CONTEXT: Items/220/name/
+40th Signet
 > END STRING
 
 > BEGIN STRING
 ドラウムニョルの地下、第四十層へワープする
-> CONTEXT: Items/220/description/ < UNTRANSLATED
-
+> CONTEXT: Items/220/description/
+Warp to the 40th floor of Draumnior's Underground
 > END STRING
 
 > BEGIN STRING
 第五十五シグネット
-> CONTEXT: Items/221/name/ < UNTRANSLATED
-
+> CONTEXT: Items/221/name/
+55th Signet
 > END STRING
 
 > BEGIN STRING
 銀のティーカップ
-> CONTEXT: Items/243/name/ < UNTRANSLATED
-
+> CONTEXT: Items/243/name/
+Silver Teacup
 > END STRING
 
 > BEGIN STRING
 ティーの効果アップ
-> CONTEXT: Items/243/description/ < UNTRANSLATED
-
+> CONTEXT: Items/243/description/
+Increased effectiveness of tea
 > END STRING
 
 > BEGIN STRING
@@ -1275,38 +1275,38 @@ Increased effect of alcohol / No more drunkenness
 
 > BEGIN STRING
 ヒールポーション
-> CONTEXT: Items/246/name/ < UNTRANSLATED
-
+> CONTEXT: Items/246/name/
+Heal Potion
 > END STRING
 
 > BEGIN STRING
 HP回復
-> CONTEXT: Items/246/description/ < UNTRANSLATED
-
+> CONTEXT: Items/246/description/
+HP Recovery
 > END STRING
 
 > BEGIN STRING
 マジックポーション
-> CONTEXT: Items/247/name/ < UNTRANSLATED
-
+> CONTEXT: Items/247/name/
+Magic Potion
 > END STRING
 
 > BEGIN STRING
 MP回復
-> CONTEXT: Items/247/description/ < UNTRANSLATED
-
+> CONTEXT: Items/247/description/
+MP Recovery
 > END STRING
 
 > BEGIN STRING
 フルリカバラー
-> CONTEXT: Items/248/name/ < UNTRANSLATED
-
+> CONTEXT: Items/248/name/
+Full Recovery
 > END STRING
 
 > BEGIN STRING
 HP・MP全回復 / 全状態異常解除
-> CONTEXT: Items/248/description/ < UNTRANSLATED
-
+> CONTEXT: Items/248/description/
+Fully recover HP and MP / Remove all abnormal conditions
 > END STRING
 
 > BEGIN STRING

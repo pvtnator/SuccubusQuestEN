@@ -873,7 +873,7 @@ Uruzfuni
 相手の精力ダウン
 > CONTEXT: Skills/125/description/
 > CONTEXT: Skills/291/description/
-Opponent's energy down
+Opponents' energy down
 > END STRING
 
 > BEGIN STRING
@@ -887,7 +887,7 @@ Raguzfuni
 相手の技巧ダウン
 > CONTEXT: Skills/126/description/
 > CONTEXT: Skills/292/description/
-Opponent's skill down
+Opponents' skill down
 > END STRING
 
 > BEGIN STRING
@@ -901,7 +901,7 @@ Hagalfuni
 相手の素早さダウン
 > CONTEXT: Skills/127/description/
 > CONTEXT: Skills/293/description/
-Opponent's agility down
+Opponents' agility down
 > END STRING
 
 > BEGIN STRING
@@ -915,7 +915,7 @@ Eorufuni
 相手の精神力ダウン
 > CONTEXT: Skills/128/description/
 > CONTEXT: Skills/294/description/
-Opponent's spirit down
+Opponents' spirit down
 > END STRING
 
 > BEGIN STRING
@@ -931,7 +931,7 @@ Sigilfuni
 相手の魅力ダウン
 > CONTEXT: Skills/129/description/
 > CONTEXT: Skills/295/description/
-Opponent's charm down
+Opponents' charm down
 > END STRING
 
 > BEGIN STRING
@@ -945,7 +945,7 @@ Arsfuni
 > BEGIN STRING
 相手の全能力ダウン
 > CONTEXT: Skills/130/description/
-Opponent's all abilities down
+Opponents' all abilities down
 > END STRING
 
 > BEGIN STRING
@@ -1988,7 +1988,7 @@ EP回復(個別)
 > BEGIN STRING
 ラル・ロギン
 > CONTEXT: Skills/316/name/ < UNTRANSLATED
-
+Far-Rogin
 > END STRING
 
 > BEGIN STRING
@@ -2756,14 +2756,14 @@ Bloodsuck
 
 > BEGIN STRING
 ウィップ
-> CONTEXT: Skills/414/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/414/name/
+Whip
 > END STRING
 
 > BEGIN STRING
 スパンク
-> CONTEXT: Skills/415/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/415/name/
+Spank
 > END STRING
 
 > BEGIN STRING
@@ -3372,8 +3372,8 @@ Wintermute
 
 > BEGIN STRING
 狐眷來々
-> CONTEXT: Skills/666/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/666/name/
+Fox arrival
 > END STRING
 
 > BEGIN STRING
@@ -3426,8 +3426,8 @@ Chorus
 
 > BEGIN STRING
 コーラス用誘惑
-> CONTEXT: Skills/671/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/671/name/
+Chorus of Temptation
 > END STRING
 
 > BEGIN STRING
@@ -3440,20 +3440,20 @@ Chorus
 
 > BEGIN STRING
 コーラス用平穏
-> CONTEXT: Skills/672/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/672/name/
+Chorus of Peace
 > END STRING
 
 > BEGIN STRING
 コーラス用魅惑
-> CONTEXT: Skills/673/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/673/name/
+Enchanting Chorus
 > END STRING
 
 > BEGIN STRING
 リアライズ
-> CONTEXT: Skills/674/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/674/name/
+Realize
 > END STRING
 
 > BEGIN STRING
@@ -3464,8 +3464,8 @@ Chorus
 
 > BEGIN STRING
 マジカルハック
-> CONTEXT: Skills/675/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/675/name/
+Magical Hack
 > END STRING
 
 > BEGIN STRING
@@ -3476,8 +3476,8 @@ Chorus
 
 > BEGIN STRING
 クリエイション
-> CONTEXT: Skills/676/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/676/name/
+Creation
 > END STRING
 
 > BEGIN STRING
@@ -3488,8 +3488,8 @@ Chorus
 
 > BEGIN STRING
 トランプ
-> CONTEXT: Skills/678/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/678/name/
+Trap
 > END STRING
 
 > BEGIN STRING

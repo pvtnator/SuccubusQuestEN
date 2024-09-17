@@ -1,14 +1,14 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 "オリビアの声"
-> CONTEXT: Map314/events/5/pages/0/7/InlineScript/1:4 < UNTRANSLATED
+> CONTEXT: Map314/events/5/pages/0/7/InlineScript/1:4
 "Olivia's Voice"
 > END STRING
 
 > BEGIN STRING
 \\a[120]「やっぱり恥ずかしいなぁ……
 　こんなヒラヒラした服…………
-> CONTEXT: Map314/events/5/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map314/events/5/pages/0/8/Dialogue
 \\a[120]「It's embarrassing...
 　In such frilly clothes...
 > END STRING
@@ -24,14 +24,14 @@
 
 > BEGIN STRING
 \\a[100]「似合ってるわよ、オリビア。
-> CONTEXT: Map314/events/5/pages/0/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map314/events/5/pages/0/11/Dialogue
 \\a[100]「It suits you, Olivia.
 > END STRING
 
 > BEGIN STRING
 \\a[140]「そう？
 　ありがとう、エスト。
-> CONTEXT: Map314/events/5/pages/0/13/Dialogue < UNTRANSLATED
+> CONTEXT: Map314/events/5/pages/0/13/Dialogue
 \\a[140]「Really?
 　Thank you, Est.
 > END STRING
@@ -39,7 +39,7 @@
 > BEGIN STRING
 \\a[120]「でもこっちのも
 　試してみようかな……
-> CONTEXT: Map314/events/5/pages/0/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map314/events/5/pages/0/20/Dialogue
 \\a[120]「But maybe 
 　I should try this one too...
 > END STRING
@@ -47,7 +47,7 @@
 > BEGIN STRING
 \\a[100]「オリビア！
 　いつまでやってんだよ？
-> CONTEXT: Map314/events/5/pages/0/47/Dialogue < UNTRANSLATED
+> CONTEXT: Map314/events/5/pages/0/47/Dialogue
 \\a[100]「Olivia!
 　How long are you going to keep doing this?
 > END STRING
@@ -55,20 +55,20 @@
 > BEGIN STRING
 \\a[100]「早くしないと
 　式が……
-> CONTEXT: Map314/events/5/pages/0/49/Dialogue < UNTRANSLATED
+> CONTEXT: Map314/events/5/pages/0/49/Dialogue
 \\a[100]「We have to hurry.
 　The ceremony...
 > END STRING
 
 > BEGIN STRING
 \\a[40]「きゃあっ！
-> CONTEXT: Map314/events/5/pages/0/52/Dialogue < UNTRANSLATED
+> CONTEXT: Map314/events/5/pages/0/52/Dialogue
 \\a[40]「Kyaa!
 > END STRING
 
 > BEGIN STRING
 \\a[80]「あ……わり…………
-> CONTEXT: Map314/events/5/pages/0/62/Dialogue < UNTRANSLATED
+> CONTEXT: Map314/events/5/pages/0/62/Dialogue
 \\a[80]「Ah...I...
 > END STRING
 
@@ -76,7 +76,7 @@
 \\a[160]「あらあら。
 　欲求不満なら
 　アタシがお相手してあげる？
-> CONTEXT: Map314/events/5/pages/0/64/Dialogue < UNTRANSLATED
+> CONTEXT: Map314/events/5/pages/0/64/Dialogue
 \\a[160]「Oh dear.
 　If you're frustrated,
 　Should I satisfy you?
@@ -84,14 +84,14 @@
 
 > BEGIN STRING
 \\a[100]「…………遠慮しとくぜ。
-> CONTEXT: Map314/events/5/pages/0/68/Dialogue < UNTRANSLATED
+> CONTEXT: Map314/events/5/pages/0/68/Dialogue
 \\a[100]「...I'll pass.
 > END STRING
 
 > BEGIN STRING
 \\a[120]「準備ができたらすぐ来いよ！
 　あいつも待ってるぜ！
-> CONTEXT: Map314/events/5/pages/0/77/Dialogue < UNTRANSLATED
+> CONTEXT: Map314/events/5/pages/0/77/Dialogue
 \\a[120]「When you're ready, come!
 　We're waiting!
 > END STRING

@@ -1,27 +1,27 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 \\a[100]「でも………
-> CONTEXT: Map362/events/3/pages/0/27/Dialogue < UNTRANSLATED
+> CONTEXT: Map362/events/3/pages/0/27/Dialogue
 \\a[100]「But.....
 > END STRING
 
 > BEGIN STRING
 \\a[140]「\\n[1]となら、私、
 　どこでも……
-> CONTEXT: Map362/events/3/pages/0/28/Dialogue < UNTRANSLATED
-\\a[140]「\\n[1] and I
+> CONTEXT: Map362/events/3/pages/0/28/Dialogue
+\\a[140]「Now \\n[1] and I
 　can go anywhere...
 > END STRING
 
 > BEGIN STRING
 \\a[100]「ほら、早く……
-> CONTEXT: Map362/events/3/pages/0/35/Dialogue < UNTRANSLATED
+> CONTEXT: Map362/events/3/pages/0/35/Dialogue
 \\a[100]「Come on, hurry up...
 > END STRING
 
 > BEGIN STRING
 \\a[100]「行きましょう！
-> CONTEXT: Map362/events/3/pages/0/36/Dialogue < UNTRANSLATED
+> CONTEXT: Map362/events/3/pages/0/36/Dialogue
 \\a[100]「Let's go!
 > END STRING
 
@@ -35,16 +35,16 @@
 
 > BEGIN STRING
 「ふふ………
-> CONTEXT: Map362/events/3/pages/0/79/Dialogue < UNTRANSLATED
-> CONTEXT: Map360/events/17/pages/0/92/Dialogue < UNTRANSLATED
+> CONTEXT: Map362/events/3/pages/0/79/Dialogue
+> CONTEXT: Map360/events/17/pages/0/92/Dialogue
 「Hehe.....
 > END STRING
 
 > BEGIN STRING
 「ふ……ふふふ………
 　ふふふふふふふ！
-> CONTEXT: Map362/events/3/pages/0/80/Dialogue < UNTRANSLATED
-> CONTEXT: Map360/events/17/pages/0/93/Dialogue < UNTRANSLATED
+> CONTEXT: Map362/events/3/pages/0/80/Dialogue
+> CONTEXT: Map360/events/17/pages/0/93/Dialogue
 「Heh....hehehe....
 　Hehehehehehe!
 > END STRING

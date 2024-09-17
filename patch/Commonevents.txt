@@ -1023,7 +1023,7 @@ pours into \\n[1]!
 > BEGIN STRING
 \\a[\\v[105]]「それじゃ、後は連れ帰って……
 \\w[\\v[104]]　ふふふふっ\\e[0]
-> CONTEXT: Commonevents/52/225/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/52/225/Dialogue
 \\a[\\v[105]]「Well then, all that's left is to return...
 \\w[\\v[104]]　Hehehehe\\e[0]
 > END STRING
@@ -1047,7 +1047,7 @@ pours into \\n[1]!
 > BEGIN STRING
 \\a[\\v[105]]「それじゃ、後は連れ帰って……
 \\w[\\v[104]]　ふふふふ…\\e[0]
-> CONTEXT: Commonevents/52/239/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/52/239/Dialogue
 \\a[\\v[105]]「Well then, all that's left is to return...
 \\w[\\v[104]]　Hehehehe...\\e[0]
 > END STRING
@@ -1055,7 +1055,7 @@ pours into \\n[1]!
 > BEGIN STRING
 \\a[\\v[105]]「あはははっ、
 　もうイっちゃったぁ？\\w[\\v[105]]
-> CONTEXT: Commonevents/52/246/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/52/246/Dialogue
 \\a[\\v[105]]「Ahahaha,
 　you came already?\\w[\\v[105]]
 > END STRING
@@ -1063,61 +1063,61 @@ pours into \\n[1]!
 > BEGIN STRING
 \\a[\\v[105]]「このまま搾りつくしてアゲル……
 　\\w[\\v[104]]あははははっ\\e[0]\\w[\\v[105]]
-> CONTEXT: Commonevents/52/248/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/52/248/Dialogue
 \\a[\\v[105]]「I'll keep on squeezing you dry...
 　\\w[\\v[104]]Ahahahahaha\\e[0]\\w[\\v[105]]
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「え～っ、イっちゃったのぉ～？
-> CONTEXT: Commonevents/52/253/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/52/253/Dialogue
 \\a[\\v[105]]「Eh, did you cum~?
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「つまんなぁい、
 \\w[\\v[104]]　もっと遊んでぇ～～っ！\\w[\\v[105]]
-> CONTEXT: Commonevents/52/254/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/52/254/Dialogue
 \\a[\\v[105]]「How boring.
 \\w[\\v[104]]　Let's play some more!\\w[\\v[105]]
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「ああ…もっと……
-> CONTEXT: Commonevents/52/259/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/52/259/Dialogue
 \\a[\\v[105]]「Aah...more...
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「もっと…ちょうだい…\\e[0]
-> CONTEXT: Commonevents/52/260/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/52/260/Dialogue
 \\a[\\v[105]]「Give me...more...\\e[0]
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「ふふ…美味しい……\\e[0]
-> CONTEXT: Commonevents/52/264/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/52/264/Dialogue
 \\a[\\v[105]]"Fufu... Delicious...\\e[0]
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「さあ、
 　共に果てまでいきましょう…\\e[0]
-> CONTEXT: Commonevents/52/265/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/52/265/Dialogue
 \\a[\\v[105]]「Come on,
 　let's finish together...\\e[0]
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「あぁん、もうイっちゃったの？
-> CONTEXT: Commonevents/52/270/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/52/270/Dialogue
 \\a[\\v[105]]「Ahhh, did you cum already?
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「でもまだまだ許さないけど…\\e[0]
 \\w[\\v[104]]　搾り尽くしてあげるわっ
-> CONTEXT: Commonevents/52/271/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/52/271/Dialogue
 \\a[\\v[105]]「But I'm not going to let you go just yet...\\e[0]
 \\w[\\v[104]]　I'll milk you dry!
 > END STRING
@@ -1125,20 +1125,20 @@ pours into \\n[1]!
 > BEGIN STRING
 \\a[\\v[105]]「やだっ、
 　何勝手にイってんのよっ！？
-> CONTEXT: Commonevents/52/276/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/52/276/Dialogue
 \\a[\\v[105]]「Oh no,
 　Why are you cumming without permission?!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「ま…まだ許さないんだからっ！
-> CONTEXT: Commonevents/52/278/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/52/278/Dialogue
 \\a[\\v[105]]「Well... I still can't forgive you!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「アオオオォォォンッ\\e[0]
-> CONTEXT: Commonevents/52/289/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/52/289/Dialogue
 \\a[\\v[105]]「Awoooooo\\e[0]
 > END STRING
 
@@ -1158,14 +1158,14 @@ pours into \\n[1]!
 
 > BEGIN STRING
 \\a[\\v[105]]「え…やだ……イっちゃった？
-> CONTEXT: Commonevents/52/299/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/52/299/Dialogue
 \\a[\\v[105]]「Oh... You came?
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「あたしでイったのね…？
 \\w[\\v[104]]　……うれしいっ\\e[0]
-> CONTEXT: Commonevents/52/300/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/52/300/Dialogue
 \\a[\\v[105]]「You came because of me...?
 \\w[\\v[104]]　...I'm so happy\\e[0]
 > END STRING
@@ -1173,7 +1173,7 @@ pours into \\n[1]!
 > BEGIN STRING
 \\a[\\v[105]]「ふふ…
 　まだまだ終わらせないぜ……
-> CONTEXT: Commonevents/52/305/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/52/305/Dialogue
 \\a[\\v[105]]「Hehe...
 　I'm not done yet...
 > END STRING
@@ -1181,28 +1181,28 @@ pours into \\n[1]!
 > BEGIN STRING
 \\a[\\v[105]]「搾り尽くしてやるよ…
 \\w[\\v[104]]　ほらほらほらっ！
-> CONTEXT: Commonevents/52/307/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/52/307/Dialogue
 \\a[\\v[105]]「I'll squeeze you dry...
 \\w[\\v[104]]　Come on, come on!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「勝った……？
-> CONTEXT: Commonevents/52/312/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/52/312/Dialogue
 \\a[\\v[105]]「I won...?
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「勝ったわ……！
 \\w[\\v[104]]　勇者に勝ったのよっ！
-> CONTEXT: Commonevents/52/313/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/52/313/Dialogue
 \\a[\\v[105]]「I won...!
 \\w[\\v[104]]　I defeated the hero!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「ほ～ほっほっほっほっほ！
-> CONTEXT: Commonevents/52/315/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/52/315/Dialogue
 \\a[\\v[105]]「Hohhohhohhohhoo!
 > END STRING
 
@@ -1234,14 +1234,14 @@ pours into \\n[1]!
 \\a[\\v[105]]「あぅ～～っ\\\\e[0]
 \\w[\\v[104]]　イかせちゃったぁ～\\\\e[0]
 > CONTEXT: None < UNUSED
-\\a[\\v[105]]「Ahhhhh\\\e[0]
-\\w[\\v[104]]　Made you cum~\\\e[0]
+\\a[\\v[105]]「Ahhhhh\\\\e[0]
+\\w[\\v[104]]　Made you cum~\\\\e[0]
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「ん～っと……
 \\w[\\v[104]]　これであたしたちの勝ちぃ？
-> CONTEXT: Commonevents/52/330/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/52/330/Dialogue
 \\a[\\v[105]]「Hmmmm...
 \\w[\\v[104]]　So does this mean we won?
 > END STRING
@@ -1256,14 +1256,14 @@ pours into \\n[1]!
 
 > BEGIN STRING
 \\a[\\v[105]]「放出…確認……
-> CONTEXT: Commonevents/52/337/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/52/337/Dialogue
 \\a[\\v[105]]「Emission...confirmed...
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「ご命令により、
 　限界までイかせ続けて差し上げます……\\a[\\v[105]]
-> CONTEXT: Commonevents/52/338/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/52/338/Dialogue
 \\a[\\v[105]]「By command,
 　I will continue to make you cum to your limits...\\a[\\v[105]]
 > END STRING
@@ -1284,20 +1284,20 @@ pours into \\n[1]!
 
 > BEGIN STRING
 \\a[\\v[105]]「あはっ、いっぱい出たね～っ\\e[0]
-> CONTEXT: Commonevents/52/349/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/52/349/Dialogue
 \\a[\\v[105]]「Ahaha, a lot came out~\\e[0]
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「もっとサービスしてあげよっか\\e[0]
-> CONTEXT: Commonevents/52/350/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/52/350/Dialogue
 \\a[\\v[105]]「Shall I give you more service?\\e[0]
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「気持ちよかった…？
 \\a[\\v[104]]　みんな、そうして溺れていくのよ……
-> CONTEXT: Commonevents/52/354/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/52/354/Dialogue
 \\a[\\v[105]]「Did it feel good...?
 \\a[\\v[104]]　That's how everyone drowns...
 > END STRING
@@ -1305,21 +1305,21 @@ pours into \\n[1]!
 > BEGIN STRING
 \\a[\\v[105]]「さあ、
 　もっと深くへ…快感の果てへ………\\a[\\v[105]]
-> CONTEXT: Commonevents/52/356/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/52/356/Dialogue
 \\a[\\v[105]]「Now, go deeper...
 　to the edge of pleasure.....\\a[\\v[105]]
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「あン、イっちゃったのぉ？
-> CONTEXT: Commonevents/52/361/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/52/361/Dialogue
 \\a[\\v[105]]「Ah, you came?
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「でもまだ
 　抜いてあげないからぁ\\e[0]
-> CONTEXT: Commonevents/52/363/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/52/363/Dialogue
 \\a[\\v[105]]「But,
 　I won't take it out yet\\e[0]
 > END STRING
@@ -1327,7 +1327,7 @@ pours into \\n[1]!
 > BEGIN STRING
 \\a[\\v[105]]「でもまだ
 　終わらせてあげないからぁ\\e[0]
-> CONTEXT: Commonevents/52/367/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/52/367/Dialogue
 \\a[\\v[105]]「But,
 　it's not over yet\\e[0]
 > END STRING
@@ -1350,7 +1350,7 @@ pours into \\n[1]!
 \\a[\\v[105]]「あら………\\w[\\v[104]]
 　村の外の\\r[男,ひと]も
 　案外大したことないのね。\\w[\\v[105]]
-> CONTEXT: Commonevents/52/380/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/52/380/Dialogue
 \\a[\\v[105]]「Oh...\\w[\\v[104]]
 　The men outside the village
 　are not so great after all.\\w[\\v[105]]
@@ -1360,7 +1360,7 @@ pours into \\n[1]!
 \\a[\\v[105]]「ま、いいわ。
 　\\w[\\v[104]]あなたもこの森で、
 　ずっと楽しみましょう…\\e[0]\\w[\\v[105]]
-> CONTEXT: Commonevents/52/383/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/52/383/Dialogue
 \\a[\\v[105]]「Well, that's fine.
 \\w[\\v[104]]You too can have a lot of fun 
 　in this forest...\\e[0]\\w[\\v[105]]
@@ -1369,7 +1369,7 @@ pours into \\n[1]!
 > BEGIN STRING
 \\a[\\v[105]]「あン…ッ、やあっ、
 \\w[\\v[104]]　もっと………\\e[0]
-> CONTEXT: Commonevents/52/392/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/52/392/Dialogue
 \\a[\\v[105]]「Ahh... ah,
 \\w[\\v[104]]　More.....\\e[0]
 > END STRING
@@ -1377,7 +1377,7 @@ pours into \\n[1]!
 > BEGIN STRING
 \\a[\\v[105]]「まだ終わらせないわ……
 \\w[\\v[104]]　もっとぉっ！
-> CONTEXT: Commonevents/52/394/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/52/394/Dialogue
 \\a[\\v[105]]「I'm not done yet...
 \\w[\\v[104]]　More!
 > END STRING
@@ -1385,7 +1385,7 @@ pours into \\n[1]!
 > BEGIN STRING
 \\a[\\v[105]]「あはっ、
 \\w[\\v[104]]　もうイっちゃったぁ？\\w[\\v[105]]
-> CONTEXT: Commonevents/52/398/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/52/398/Dialogue
 \\a[\\v[105]]「Ahhh,
 \\w[\\v[104]]　you came already?\\w[\\v[105]]
 > END STRING
@@ -1393,7 +1393,7 @@ pours into \\n[1]!
 > BEGIN STRING
 \\a[\\v[105]]「大したことなかったわね……
 \\w[\\v[104]]　搾り尽くしてアゲルわ\\e[0]\\w[\\v[105]]
-> CONTEXT: Commonevents/52/400/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/52/400/Dialogue
 \\a[\\v[105]]「That wasn't much at all...
 \\w[\\v[104]]　I'll squeeze you dry\\e[0]\\w[\\v[105]]
 > END STRING
@@ -1415,7 +1415,7 @@ pours into \\n[1]!
 > BEGIN STRING
 \\a[\\v[105]]「ほほ、これぞ美貌の秘訣…
 \\w[\\v[105]]　さあ、いただくよぉ\\e[0]\\w[\\v[105]]
-> CONTEXT: Commonevents/52/413/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/52/413/Dialogue
 \\a[\\v[105]]「Oh, this is the secret to beauty...
 \\w[\\v[105]]　Now, time to eat\\e[0]\\w[\\v[105]]
 > END STRING
@@ -1423,14 +1423,14 @@ pours into \\n[1]!
 > BEGIN STRING
 \\a[\\v[105]]「ああ、あなたも………
 \\w[\\v[104]]　ダメだったのね…せめて……\\w[\\v[105]]
-> CONTEXT: Commonevents/52/418/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/52/418/Dialogue
 \\a[\\v[105]]「Oh, you too...
 \\w[\\v[104]]　No good, it seems...\\w[\\v[105]]
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]「気持ちよく…いかせてあげるわ…\\w[\\v[105]]
-> CONTEXT: Commonevents/52/420/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/52/420/Dialogue
 \\a[\\v[105]]「I'll make you feel good...\\w[\\v[105]]
 > END STRING
 
@@ -1467,7 +1467,7 @@ pours into \\n[1]!
 > BEGIN STRING
 \\a[\\v[104]]アリスは\\c[3]スペードのエース\\c[0]を使った！
 \\k
-> CONTEXT: Commonevents/100/10/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/100/10/Dialogue
 \\a[\\v[104]]Alice used \\c[3]Ace of Spades\\c[0]!
 \\k
 > END STRING
@@ -1475,7 +1475,7 @@ pours into \\n[1]!
 > BEGIN STRING
 \\a[\\v[105]]アリスの精力が　\\b\\v[1]\\f 上がった！
 \\w[\\v[104]]アリスのEPが \\b\\v[2]\\f 回復した！
-> CONTEXT: Commonevents/100/13/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/100/13/Dialogue
 \\a[\\v[105]]Alice's energy increased by \\b\\v[1]\\f!
 \\w[\\v[104]]Alice recovered \\b\\v[2]\\f EP!
 > END STRING
@@ -1483,7 +1483,7 @@ pours into \\n[1]!
 > BEGIN STRING
 \\a[\\v[104]]アリスは\\c[3]ハートのクイーン\\c[0]を使った！
 \\k
-> CONTEXT: Commonevents/100/20/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/100/20/Dialogue
 \\a[\\v[104]]Alice used \\c[3]Queen of Hearts\\c[0]!
 \\k
 > END STRING
@@ -1491,7 +1491,7 @@ pours into \\n[1]!
 > BEGIN STRING
 \\a[\\v[105]]アリスの魅力が　\\b\\v[1]\\f 上がった！
 \\w[\\v[104]]アリスのEPが \\b\\v[2]\\f 回復した！
-> CONTEXT: Commonevents/100/23/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/100/23/Dialogue
 \\a[\\v[105]]Alice's charm increased by \\b\\v[1]\\f!
 \\w[\\v[104]]Alice recovered \\b\\v[2]\\f EP!
 > END STRING
@@ -1499,7 +1499,7 @@ pours into \\n[1]!
 > BEGIN STRING
 \\a[\\v[104]]アリスは\\c[3]ダイアのキング\\c[0]を使った！
 \\k
-> CONTEXT: Commonevents/100/30/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/100/30/Dialogue
 \\a[\\v[104]]Alice used \\c[3]King of Diamonds\\c[0]!
 \\k
 > END STRING
@@ -1507,7 +1507,7 @@ pours into \\n[1]!
 > BEGIN STRING
 \\a[\\v[105]]アリスの守りが　\\b\\v[1]\\f 上がった！
 \\w[\\v[104]]アリスのEPが \\b\\v[2]\\f 回復した！
-> CONTEXT: Commonevents/100/33/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/100/33/Dialogue
 \\a[\\v[105]]Alice's defense increased by \\b\\v[1]\\f!
 \\w[\\v[104]]Alice recovered \\b\\v[2]\\f EP!
 > END STRING
@@ -1663,7 +1663,7 @@ You may be able to obtain the \\c[4]Dream Ring\\c[0]
 > BEGIN STRING
 \\a[\\v[105]]\\n[27]は話を聞ける状態じゃない！
 > CONTEXT: Commonevents/111/4/Dialogue < UNTRANSLATED
-
+\\a[\\v[105]]\\n[27] is in no state to listen!
 > END STRING
 
 > BEGIN STRING
@@ -2300,8 +2300,9 @@ took off \\n[27]'s clothes off!
 > BEGIN STRING
 \\a[\\v[105]]「ふふ…ずっとあたしの
 　胸ばっかり見てたでしょ？\\w[\\v[104]]
-> CONTEXT: Commonevents/145/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/145/11/Dialogue
+\\a[\\v[105]]「Hehe... You've been staring at my breasts 
+　all this time, haven't you?\\w[\\v[104]]
 > END STRING
 
 > BEGIN STRING
@@ -2381,15 +2382,15 @@ took off \\n[27]'s clothes off!
 
 > BEGIN STRING
 \\a[\\v[105]]「ふふふふっ\\e[0]
-> CONTEXT: Commonevents/147/22/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/147/22/Dialogue
+\\a[\\v[105]]「Heheheh\\e[0]
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]\\n[28]は\\v[1]をうみだした！
-> CONTEXT: Commonevents/148/9/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/148/26/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/148/9/Dialogue
+> CONTEXT: Commonevents/148/26/Dialogue
+\\a[\\v[105]]\\n[28] created \\v[1]!
 > END STRING
 
 > BEGIN STRING
@@ -5326,42 +5327,43 @@ Remove the restriction?
 
 > BEGIN STRING
 \\a[\\v[105]]しかし\\n[27]には効果がなかった！
-> CONTEXT: Commonevents/209/6/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/210/7/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/210/16/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/209/6/Dialogue
+> CONTEXT: Commonevents/210/7/Dialogue
+> CONTEXT: Commonevents/210/16/Dialogue
 \\a[\\v[105]]But it had no effect on \\n[27]!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]拙い音色が\\n[27]の心を
 微かに動かした！
-> CONTEXT: Commonevents/210/2/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/210/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/210/2/Dialogue
+> CONTEXT: Commonevents/210/11/Dialogue
+\\a[\\v[105]]The clumsy tone of the music 
+slightly moved \\n[27]'s heart!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]全員のEP・TPが元に戻った！
-> CONTEXT: Commonevents/211/17/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/211/17/Dialogue
+\\a[\\v[105]]Everyone's EP and TP have been restored!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]\\n[1]の精力が \\b\\v[1]\\f 上がった！
-> CONTEXT: Commonevents/212/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/212/3/Dialogue
+\\a[\\v[105]]\\n[1]'s energy increased by \\b\\v[1]\\f!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]\\n[1]の魅力が \\b\\v[1]\\f 上がった！
-> CONTEXT: Commonevents/213/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/213/3/Dialogue
+\\a[\\v[105]]\\n[1]'s charm increased by \\b\\v[1]\\f!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]\\n[1]の守りが \\b\\v[1]\\f 上がった！
-> CONTEXT: Commonevents/214/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/214/3/Dialogue
+\\a[\\v[105]]\\n[1]'s defense increased by \\b\\v[1]\\f!
 > END STRING
 
 > BEGIN STRING

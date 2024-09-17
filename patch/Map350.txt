@@ -170,7 +170,7 @@
 > BEGIN STRING
 \\a[140]「ここは……
 　ここは夢ではない！
-> CONTEXT: Map350/events/2/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map350/events/2/pages/0/3/Dialogue
 \\a[140]「This is...
 　This is not a dream!
 > END STRING
@@ -178,7 +178,7 @@
 > BEGIN STRING
 \\a[140]「ここは\\r[現世,うつしよ]だ！
 　まやかしよ去れッ！！
-> CONTEXT: Map350/events/2/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map350/events/2/pages/0/7/Dialogue
 \\a[140]「This is reality! 
 　Take your illusion away from here!!
 > END STRING
