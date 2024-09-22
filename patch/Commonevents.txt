@@ -1662,7 +1662,7 @@ You may be able to obtain the \\c[4]Dream Ring\\c[0]
 
 > BEGIN STRING
 \\a[\\v[105]]\\n[27]は話を聞ける状態じゃない！
-> CONTEXT: Commonevents/111/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/111/4/Dialogue
 \\a[\\v[105]]\\n[27] is in no state to listen!
 > END STRING
 
@@ -3337,26 +3337,27 @@ Alp
 > BEGIN STRING
 「…ずっと…………
 > CONTEXT: Commonevents/170/173/Dialogue < UNTRANSLATED
-
+「...Always.....
 > END STRING
 
 > BEGIN STRING
 「ずっと、私にも…って
 　思ってたのに……
 > CONTEXT: Commonevents/170/174/Dialogue < UNTRANSLATED
-
+「I've always thought...
+　that I too should...
 > END STRING
 
 > BEGIN STRING
 「何よ今ごろ……しらないっ！
 > CONTEXT: Commonevents/170/176/Dialogue < UNTRANSLATED
-
+「You know...whatever!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]ウィル・ルヴィッサは話を聞く気がない！
 > CONTEXT: Commonevents/170/182/Dialogue < UNTRANSLATED
-
+\\a[\\v[105]]Will Rovissa isn't willing to listen!
 > END STRING
 
 > BEGIN STRING

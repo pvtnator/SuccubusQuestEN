@@ -7492,7 +7492,7 @@
 
 > BEGIN STRING
 "\#{myname}の守りアップの効果が切れた！"
-> CONTEXT: Scripts/RPG::State (message)/278:19 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::State (message)/278:19
 "\#{myname}'s defense boost wore off!"
 > END STRING
 
@@ -11427,14 +11427,14 @@
 
 > BEGIN STRING
 "「あぁっ、やぁっ……\\n\\\\w[\\\\v[104]]"
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/103:12 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/103:12
 "「Ahh, ahhh...\\n\\\\w[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
 "　あはははっ\\\\e[0]"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/87:12 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Battler(msg-insert(A))/69:12 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler(msg-ennude(A))/87:12
+> CONTEXT: Scripts/Game_Battler(msg-insert(A))/69:12
 "　Ahahahah\\\\e[0]"
 > END STRING
 
@@ -11453,7 +11453,7 @@
 
 > BEGIN STRING
 "　イっちゃいますぅ～～っ "
-> CONTEXT: Scripts/Game_Battler(msg-crisis)/104:12 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler(msg-crisis)/104:12
 "　I'm gonna cum~~"
 > END STRING
 
@@ -12706,7 +12706,7 @@
 
 > BEGIN STRING
 "「ダメよ…今さら拒まないで。"
-> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/244:12 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler(msg-ennude(E))/244:12
 "「No... Don't refuse now."
 > END STRING
 
@@ -21338,8 +21338,8 @@
 
 > BEGIN STRING
 "出典 : "
-> CONTEXT: Scripts/魔物図鑑/422:45 < UNTRANSLATED
-
+> CONTEXT: Scripts/魔物図鑑/422:45
+"Origin: "
 > END STRING
 
 > BEGIN STRING
@@ -21587,20 +21587,20 @@
 
 > BEGIN STRING
 "ギリシャ神話"
-> CONTEXT: Scripts/★図鑑用詳細データ/52:12 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/144:12 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/182:12 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/269:12 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/322:12 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/333:12 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/351:12 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/375:12 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/404:12 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/420:12 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/436:12 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/491:12 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/592:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/52:12
+> CONTEXT: Scripts/★図鑑用詳細データ/144:12
+> CONTEXT: Scripts/★図鑑用詳細データ/182:12
+> CONTEXT: Scripts/★図鑑用詳細データ/269:12
+> CONTEXT: Scripts/★図鑑用詳細データ/322:12
+> CONTEXT: Scripts/★図鑑用詳細データ/333:12
+> CONTEXT: Scripts/★図鑑用詳細データ/351:12
+> CONTEXT: Scripts/★図鑑用詳細データ/375:12
+> CONTEXT: Scripts/★図鑑用詳細データ/404:12
+> CONTEXT: Scripts/★図鑑用詳細データ/420:12
+> CONTEXT: Scripts/★図鑑用詳細データ/436:12
+> CONTEXT: Scripts/★図鑑用詳細データ/491:12
+> CONTEXT: Scripts/★図鑑用詳細データ/592:12
+"Greek Legend"
 > END STRING
 
 > BEGIN STRING
@@ -21884,46 +21884,46 @@
 
 > BEGIN STRING
 "ヨーロッパ伝承"
-> CONTEXT: Scripts/★図鑑用詳細データ/106:12 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/112:12 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/127:12 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/136:12 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/246:12 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/279:12 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/295:12 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/311:12 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/345:12 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/477:12 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/506:12 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/650:12 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/676:12 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/856:12 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/909:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/106:12
+> CONTEXT: Scripts/★図鑑用詳細データ/112:12
+> CONTEXT: Scripts/★図鑑用詳細データ/127:12
+> CONTEXT: Scripts/★図鑑用詳細データ/136:12
+> CONTEXT: Scripts/★図鑑用詳細データ/246:12
+> CONTEXT: Scripts/★図鑑用詳細データ/279:12
+> CONTEXT: Scripts/★図鑑用詳細データ/295:12
+> CONTEXT: Scripts/★図鑑用詳細データ/311:12
+> CONTEXT: Scripts/★図鑑用詳細データ/345:12
+> CONTEXT: Scripts/★図鑑用詳細データ/477:12
+> CONTEXT: Scripts/★図鑑用詳細データ/506:12
+> CONTEXT: Scripts/★図鑑用詳細データ/650:12
+> CONTEXT: Scripts/★図鑑用詳細データ/676:12
+> CONTEXT: Scripts/★図鑑用詳細データ/856:12
+> CONTEXT: Scripts/★図鑑用詳細データ/909:12
+"European Legend"
 > END STRING
 
 > BEGIN STRING
 "イタズラ好きな子供の悪魔。"
-> CONTEXT: Scripts/★図鑑用詳細データ/107:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/107:12
+"A mischievous child demon."
 > END STRING
 
 > BEGIN STRING
 "イタズラの程度は様々だが、どこか"
-> CONTEXT: Scripts/★図鑑用詳細データ/108:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/108:12
+"Does different kinds of tricks, but"
 > END STRING
 
 > BEGIN STRING
 "間が抜けているため失敗も多い。"
-> CONTEXT: Scripts/★図鑑用詳細データ/109:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/109:12
+"often fails due to not being that smart."
 > END STRING
 
 > BEGIN STRING
 "しばしば魔女の使い魔として使役される。"
-> CONTEXT: Scripts/★図鑑用詳細データ/110:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/110:12
+"Often witches' familiars."
 > END STRING
 
 > BEGIN STRING
@@ -22836,50 +22836,50 @@
 
 > BEGIN STRING
 "男性の夢の中にあらわれ、"
-> CONTEXT: Scripts/★図鑑用詳細データ/280:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/280:12
+"Appearing in men's dreams,"
 > END STRING
 
 > BEGIN STRING
 "誘惑し性的な交わりをもつ悪魔。"
-> CONTEXT: Scripts/★図鑑用詳細データ/281:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/281:12
+"seduces and engages in sex."
 > END STRING
 
 > BEGIN STRING
 "「淫魔」、あるいは「夢魔」とも呼ばれる。"
-> CONTEXT: Scripts/★図鑑用詳細データ/282:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/282:12
+"Called 'Inma' or 'Muma' in Japanese."
 > END STRING
 
 > BEGIN STRING
 "サキュバスに魅入られた男性は"
-> CONTEXT: Scripts/★図鑑用詳細データ/283:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/283:12
+"A man who is bewitched by a succubus"
 > END STRING
 
 > BEGIN STRING
 "毎晩夢で性交を通して精気を奪われ、"
-> CONTEXT: Scripts/★図鑑用詳細データ/284:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/284:12
+"has their energy stolen through sex in dreams,"
 > END STRING
 
 > BEGIN STRING
 "やがて衰弱して死ぬか、"
-> CONTEXT: Scripts/★図鑑用詳細データ/285:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/285:12
+"growing weaker or even dying,"
 > END STRING
 
 > BEGIN STRING
 "あるいは飽きられるかするまで"
-> CONTEXT: Scripts/★図鑑用詳細データ/286:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/286:12
+"unable to become free"
 > END STRING
 
 > BEGIN STRING
 "彼女たちから解放されることはない。"
-> CONTEXT: Scripts/★図鑑用詳細データ/287:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/287:12
+"until she's sated."
 > END STRING
 
 > BEGIN STRING
@@ -23425,44 +23425,44 @@
 
 > BEGIN STRING
 "樫の木に宿るニンフ。"
-> CONTEXT: Scripts/★図鑑用詳細データ/405:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/405:12
+"A nymph who dwells in oak trees."
 > END STRING
 
 > BEGIN STRING
 "緑の髪をもつ美しい女性の姿をしている。"
-> CONTEXT: Scripts/★図鑑用詳細データ/406:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/406:12
+"Appears as a beautiful woman with green hair."
 > END STRING
 
 > BEGIN STRING
 "性格は温厚だが、森の木を傷つける者には"
-> CONTEXT: Scripts/★図鑑用詳細データ/407:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/407:12
+"Despite her gentle disposition,"
 > END STRING
 
 > BEGIN STRING
 "容赦ない罰を与える。"
-> CONTEXT: Scripts/★図鑑用詳細データ/408:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/408:12
+"she mercilessly punishes those who harm the trees."
 > END STRING
 
 > BEGIN STRING
 "また、美しい男性を見つけると"
-> CONTEXT: Scripts/★図鑑用詳細データ/409:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/409:12
+"Also, when she finds a pretty man,"
 > END STRING
 
 > BEGIN STRING
 "魔法とその美貌で虜にし、木の中へ"
-> CONTEXT: Scripts/★図鑑用詳細データ/410:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/410:12
+"she captivates him with magic and beauty,"
 > END STRING
 
 > BEGIN STRING
 "連れて帰ってしまうこともある。"
-> CONTEXT: Scripts/★図鑑用詳細データ/411:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/411:12
+"and takes him into the tree."
 > END STRING
 
 > BEGIN STRING
@@ -23715,50 +23715,50 @@
 
 > BEGIN STRING
 "イングランド伝承"
-> CONTEXT: Scripts/★図鑑用詳細データ/461:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/461:12
+"English Legend"
 > END STRING
 
 > BEGIN STRING
 "イングランド南西部で見られる小柄な妖精。"
-> CONTEXT: Scripts/★図鑑用詳細データ/462:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/462:12
+"A small fairy from southwest of England."
 > END STRING
 
 > BEGIN STRING
 "陽気でイタズラ好き。"
-> CONTEXT: Scripts/★図鑑用詳細データ/463:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/463:12
+"Cheerful and mischievous."
 > END STRING
 
 > BEGIN STRING
 "好んで旅人を道に迷わせる。"
-> CONTEXT: Scripts/★図鑑用詳細データ/464:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/464:12
+"Enjoys leading travelers astray."
 > END STRING
 
 > BEGIN STRING
 "歌と踊りも大好きで、彼女達が輪になって"
-> CONTEXT: Scripts/★図鑑用詳細データ/465:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/465:12
+"They love singing and dancing,"
 > END STRING
 
 > BEGIN STRING
 "踊った場所には翌朝フェアリー・リングが"
-> CONTEXT: Scripts/★図鑑用詳細データ/466:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/466:12
+"and when they dance in a circle,"
 > END STRING
 
 > BEGIN STRING
 "でき、そこに両足を踏み入れた者は"
-> CONTEXT: Scripts/★図鑑用詳細データ/467:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/467:12
+"a fairy ring appears next morning, and"
 > END STRING
 
 > BEGIN STRING
 "妖精の国に捕らわれてしまう。"
-> CONTEXT: Scripts/★図鑑用詳細データ/468:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/468:12
+"stepping on it with both feet takes you to fairyland."
 > END STRING
 
 > BEGIN STRING

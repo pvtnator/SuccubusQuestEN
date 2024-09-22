@@ -1987,7 +1987,7 @@ EP回復(個別)
 
 > BEGIN STRING
 ラル・ロギン
-> CONTEXT: Skills/316/name/ < UNTRANSLATED
+> CONTEXT: Skills/316/name/
 Far-Rogin
 > END STRING
 

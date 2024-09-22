@@ -3870,66 +3870,66 @@ G_ストゥーナ+メローナ
 
 > BEGIN STRING
 \\a[\\v[105]]バンダースナッチは絶頂に達した！
-> CONTEXT: Troops/434/pages/2/4/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/434/pages/2/14/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/434/pages/2/4/Dialogue
+> CONTEXT: Troops/434/pages/2/14/Dialogue
 \\a[\\v[105]]Bandersnatch reached climax!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]どこからかアリスがあらわれた！
-> CONTEXT: Troops/434/pages/2/9/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/434/pages/3/8/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/434/pages/4/8/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/434/pages/2/9/Dialogue
+> CONTEXT: Troops/434/pages/3/8/Dialogue
+> CONTEXT: Troops/434/pages/4/8/Dialogue
 \\a[\\v[105]]Alice appeared from somewhere!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]バンダースナッチは場に
 \\c[3]ハートのクィーン\\c[0]を残していった！
-> CONTEXT: Troops/434/pages/2/20/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/434/pages/2/20/Dialogue
 \\a[\\v[105]]Bandersnatch left behind a
 \\c[3]Queen of Hearts\\c[0] on the field!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]ジャバウォックは絶頂に達した！
-> CONTEXT: Troops/434/pages/3/3/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/434/pages/3/12/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/434/pages/3/3/Dialogue
+> CONTEXT: Troops/434/pages/3/12/Dialogue
 \\a[\\v[105]]Jabberwock reached climax!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]ジャバウォックは場に
 \\c[3]スペードのエース\\c[0]を残していった！
-> CONTEXT: Troops/434/pages/3/18/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/434/pages/3/18/Dialogue
 \\a[\\v[105]]Jabberwock left behind an
 \\c[3]Ace of Spades\\c[0]!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]ジャブジャブは絶頂に達した！
-> CONTEXT: Troops/434/pages/4/3/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/434/pages/4/12/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/434/pages/4/3/Dialogue
+> CONTEXT: Troops/434/pages/4/12/Dialogue
 \\a[\\v[105]]Jabjab reached climax!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]ジャブジャブは場に
 \\c[3]ダイアのキング\\c[0]を残していった！
-> CONTEXT: Troops/434/pages/4/18/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/434/pages/4/18/Dialogue
 \\a[\\v[105]]Jabjab left behind a
 \\c[3]King of Diamonds\\c[0]!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]アリスは絶頂に達した！
-> CONTEXT: Troops/434/pages/5/1/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/434/pages/5/1/Dialogue
 \\a[\\v[105]]Alice reached climax!
 > END STRING
 
 > BEGIN STRING
 リリス
-> CONTEXT: Troops/435/name/ < UNTRANSLATED
+> CONTEXT: Troops/435/name/
 Lilith
 > END STRING
 

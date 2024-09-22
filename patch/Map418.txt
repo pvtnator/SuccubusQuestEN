@@ -1,26 +1,26 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 「…だれ……？
-> CONTEXT: Map418/events/14/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map418/events/14/pages/0/3/Dialogue
 「...Who...?
 > END STRING
 
 > BEGIN STRING
 「あの人じゃ…ないのね。
-> CONTEXT: Map418/events/14/pages/0/22/Dialogue < UNTRANSLATED
+> CONTEXT: Map418/events/14/pages/0/22/Dialogue
 「No, not him.
 > END STRING
 
 > BEGIN STRING
 「もう人間なんて、興味ないんだけど……
-> CONTEXT: Map418/events/14/pages/0/27/Dialogue < UNTRANSLATED
+> CONTEXT: Map418/events/14/pages/0/27/Dialogue
 「I'm not interested in humans anymore...
 > END STRING
 
 > BEGIN STRING
 「いいわ。
 　食べてあげる。
-> CONTEXT: Map418/events/14/pages/0/31/Dialogue < UNTRANSLATED
+> CONTEXT: Map418/events/14/pages/0/31/Dialogue
 「Fine. 
 　I'll eat you.
 > END STRING

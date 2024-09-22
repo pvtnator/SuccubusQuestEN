@@ -948,3 +948,20 @@ class Window_Message < Window_Selectable
     end
   end
 end
+
+class Game_Enemy_Book < Game_Enemy
+  def initialize(enemy_id)
+    super(1, 0)#ダミー
+    @enemy_id = enemy_id
+    enemy = $data_enemies[@enemy_id]
+	@battler_name = enemy.battler_name
+    @battler_hue = enemy.battler_hue
+	if @enemy_id == 133
+		enemy = $game_actors[2]
+		enemy.rovissa_update()
+		@battler_name = "Boss-"+enemy.battler_name.sub("_","")
+	end
+    @hp = maxhp
+    @sp = maxsp
+  end
+end
