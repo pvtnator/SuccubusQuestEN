@@ -3231,26 +3231,27 @@ Alp
 > BEGIN STRING
 「あァ……もう……………
 > CONTEXT: Commonevents/170/71/Dialogue < UNTRANSLATED
-
+「Ahh...already...
 > END STRING
 
 > BEGIN STRING
 「好きに……
 　して……………
 > CONTEXT: Commonevents/170/72/Dialogue < UNTRANSLATED
-
+「Do...
+　Whatever you like.......
 > END STRING
 
 > BEGIN STRING
 「…言葉はもう…たくさん……
 > CONTEXT: Commonevents/170/79/Dialogue < UNTRANSLATED
-
+「...Too many words...
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]フレデリカは話を聞く気がない！
 > CONTEXT: Commonevents/170/81/Dialogue < UNTRANSLATED
-
+\\a[\\v[105]]Frederica isn't willing to listen!
 > END STRING
 
 > BEGIN STRING
@@ -3290,7 +3291,7 @@ Alp
 > BEGIN STRING
 「へっ、生意気言うぜ。
 > CONTEXT: Commonevents/170/117/Dialogue < UNTRANSLATED
-
+「Heh, how cheeky.
 > END STRING
 
 > BEGIN STRING
@@ -3323,7 +3324,8 @@ Alp
 「あぁンッ……！
 　\\n[1]さん…\\n[1]さん……ッ！
 > CONTEXT: Commonevents/170/154/Dialogue < UNTRANSLATED
-
+「Ahhh...!
+　\\n[1]...\\n[1]...!
 > END STRING
 
 > BEGIN STRING
