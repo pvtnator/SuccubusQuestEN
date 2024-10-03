@@ -73,43 +73,43 @@ Irish Folklore
 > BEGIN STRING
 家の守護妖精の一種。
 > CONTEXT: SQ_Patch.rb
-home guarding fairy.
+Home guarding fairy.
 > END STRING
 
 > BEGIN STRING
 家の者の死が近づくと
 > CONTEXT: SQ_Patch.rb
-Death of family member
+When a family member's death approaches
 > END STRING
 
 > BEGIN STRING
 泣きまわってそれを知らせる。
 > CONTEXT: SQ_Patch.rb
-brings her to lament.
+she cries to let them know.
 > END STRING
 
 > BEGIN STRING
 その家系の亡霊、特に若くして死んだ
 > CONTEXT: SQ_Patch.rb
-Ghost of that family,
+Said to be a ghost from that family,
 > END STRING
 
 > BEGIN STRING
 美しい乙女であるとされる。
 > CONTEXT: SQ_Patch.rb
-Beautiful maiden.
+a beautiful maiden who died young.
 > END STRING
 
 > BEGIN STRING
 泣きはらして真っ赤な目と、
 > CONTEXT: SQ_Patch.rb
-Crying with red eyes,
+Has red eyes from crying,
 > END STRING
 
 > BEGIN STRING
 流れるような長髪を持つ。
 > CONTEXT: SQ_Patch.rb
-has long, flowing hair.
+and long, flowing hair.
 > END STRING
 
 > BEGIN STRING

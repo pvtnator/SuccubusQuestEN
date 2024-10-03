@@ -3230,27 +3230,27 @@ Alp
 
 > BEGIN STRING
 「あァ……もう……………
-> CONTEXT: Commonevents/170/71/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/170/71/Dialogue
 「Ahh...already...
 > END STRING
 
 > BEGIN STRING
 「好きに……
 　して……………
-> CONTEXT: Commonevents/170/72/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/170/72/Dialogue
 「Do...
 　Whatever you like.......
 > END STRING
 
 > BEGIN STRING
 「…言葉はもう…たくさん……
-> CONTEXT: Commonevents/170/79/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/170/79/Dialogue
 「...Too many words...
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]フレデリカは話を聞く気がない！
-> CONTEXT: Commonevents/170/81/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/170/81/Dialogue
 \\a[\\v[105]]Frederica isn't willing to listen!
 > END STRING
 
@@ -3290,7 +3290,7 @@ Alp
 
 > BEGIN STRING
 「へっ、生意気言うぜ。
-> CONTEXT: Commonevents/170/117/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/170/117/Dialogue
 「Heh, how cheeky.
 > END STRING
 
@@ -3323,7 +3323,7 @@ Alp
 > BEGIN STRING
 「あぁンッ……！
 　\\n[1]さん…\\n[1]さん……ッ！
-> CONTEXT: Commonevents/170/154/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/170/154/Dialogue
 「Ahhh...!
 　\\n[1]...\\n[1]...!
 > END STRING
@@ -3338,27 +3338,27 @@ Alp
 
 > BEGIN STRING
 「…ずっと…………
-> CONTEXT: Commonevents/170/173/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/170/173/Dialogue
 「...Always.....
 > END STRING
 
 > BEGIN STRING
 「ずっと、私にも…って
 　思ってたのに……
-> CONTEXT: Commonevents/170/174/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/170/174/Dialogue
 「I've always thought...
 　that I too should...
 > END STRING
 
 > BEGIN STRING
 「何よ今ごろ……しらないっ！
-> CONTEXT: Commonevents/170/176/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/170/176/Dialogue
 「You know...whatever!
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]ウィル・ルヴィッサは話を聞く気がない！
-> CONTEXT: Commonevents/170/182/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/170/182/Dialogue
 \\a[\\v[105]]Will Rovissa isn't willing to listen!
 > END STRING
 
