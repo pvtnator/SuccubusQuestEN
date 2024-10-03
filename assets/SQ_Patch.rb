@@ -949,6 +949,8 @@ class Window_Message < Window_Selectable
   end
 end
 
+# Fix Rovissa in the book
+# ----------------------------------
 class Game_Enemy_Book < Game_Enemy
   def initialize(enemy_id)
     super(1, 0)#ダミー
@@ -964,4 +966,50 @@ class Game_Enemy_Book < Game_Enemy
     @hp = maxhp
     @sp = maxsp
   end
+end
+
+class Window_MonsterBook_Info < Window_Base
+  def draw_enemy_data(enemy, x, y, opacity = 255)
+    fcolor = 0
+    #名前
+    self.draw_text_enemy_name(x, y, 180, 32, enemy.name, fcolor, 0)
+    #レベル
+    exceptions = ["Mimic","Familiar","Jabberwocky","Bandersnatch","Jubjub"]
+    unless enemy.boss? or exceptions.include?(enemy.name)
+      self.draw_text_skill(x, y + 50, 300, 32, "Level:", 15, 0)
+      if analyze?(enemy.id)
+        self.draw_text_num(x + 60, y + 50, 300, 32, enemy.level.to_s, 0, 0)
+      else
+        self.draw_text_skill(x + 60, y + 50, 300, 32, "？", 0, 0)
+      end
+    end
+    #性格
+    self.draw_text_skill(x, y+50+25, 300, 32, "Personality: ", 15, 0)
+    if analyze?(enemy.id)
+      self.draw_text_skill(x+60, y+50+25, 300, 32, enemy.description(1), 0, 0)
+    else
+      self.draw_text_skill(x+60, y+50+25, 300, 32, "？", 0, 0)
+    end
+    #弱点
+    self.draw_text_skill(x, y+50+50, 300, 32, "Weakness:", 15, 0)
+    if analyze?(enemy.id)
+      self.draw_text_skill(x+60, y+50+50, 300, 32, enemy.description(2), 0, 0)
+    else
+      self.draw_text_skill(x+60, y+50+50, 300, 32, "？", 0, 0)
+    end
+    #出典
+    self.draw_text_skill(x, y+155, 300, 32, "Origin:", 15, 0)
+    self.draw_text_skill(x+50, y+155, 300, 32, enemy.comment(0), 0, 0)
+    #コメント
+    self.draw_text_skill(x, y + 165+25, 320, 32, enemy.comment(1), 0, 0)
+    self.draw_text_skill(x, y + 165+50, 320, 32, enemy.comment(2), 0, 0)
+    self.draw_text_skill(x, y + 165+75, 320, 32, enemy.comment(3), 0, 0)
+    self.draw_text_skill(x, y + 165+100, 320, 32, enemy.comment(4), 0, 0)
+    self.draw_text_skill(x, y + 165+125, 320, 32, enemy.comment(5), 0, 0)
+    self.draw_text_skill(x, y + 165+150, 320, 32, enemy.comment(6), 0, 0)
+    self.draw_text_skill(x, y + 165+175, 320, 32, enemy.comment(7), 0, 0)
+    self.draw_text_skill(x, y + 165+200, 320, 32, enemy.comment(8), 0, 0)
+    self.draw_text_skill(x, y + 165+225, 320, 32, enemy.comment(9), 0, 0)
+    self.draw_text_skill(x, y + 165+250, 320, 32, enemy.comment(10), 0, 0)
+  end 
 end

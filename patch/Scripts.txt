@@ -13985,7 +13985,7 @@
 > CONTEXT: Map136/events/1/pages/0/357/InlineScript/1:4
 > CONTEXT: Troops/308/pages/0/0/InlineScript/1:4
 > CONTEXT: Troops/311/pages/0/14/InlineScript/1:4
-"Jabjab"
+"Jubjub"
 > END STRING
 
 > BEGIN STRING
@@ -16025,7 +16025,7 @@
 "アスカフロア"
 > CONTEXT: Scripts/Game_Enemy/488:28
 > CONTEXT: Scripts/★図鑑用詳細データ/18:10
-"Askafuroa"
+"Askafroa"
 > END STRING
 
 > BEGIN STRING
@@ -16160,7 +16160,7 @@
 "ヴィヴィアン"
 > CONTEXT: Scripts/Game_Enemy/492:35
 > CONTEXT: Scripts/★図鑑用詳細データ/707:10
-"Vivian"
+"Viviane"
 > END STRING
 
 > BEGIN STRING
@@ -16363,7 +16363,7 @@
 "モーリアン"
 > CONTEXT: Scripts/Game_Enemy/498:36
 > CONTEXT: Scripts/★図鑑用詳細データ/562:10
-"Maurian"
+"Morrigan"
 > END STRING
 
 > BEGIN STRING
@@ -21408,33 +21408,33 @@
 
 > BEGIN STRING
 "ゲルマン伝承"
-> CONTEXT: Scripts/★図鑑用詳細データ/19:12 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/669:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/19:12
+> CONTEXT: Scripts/★図鑑用詳細データ/669:12
+"Germanic Legend"
 > END STRING
 
 > BEGIN STRING
 "トネリコの木の守護精霊。"
-> CONTEXT: Scripts/★図鑑用詳細データ/20:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/20:12
+"The guardian spirit of the Ash Tree."
 > END STRING
 
 > BEGIN STRING
 "トネリコの木の妻。"
-> CONTEXT: Scripts/★図鑑用詳細データ/21:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/21:12
+"The ash tree's wife."
 > END STRING
 
 > BEGIN STRING
 "木の精霊の中でも特に意地悪な性格であると"
-> CONTEXT: Scripts/★図鑑用詳細データ/22:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/22:12
+"Said to be one of the spiteful"
 > END STRING
 
 > BEGIN STRING
 "言われている。"
-> CONTEXT: Scripts/★図鑑用詳細データ/23:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/23:12
+"tree spirits."
 > END STRING
 
 > BEGIN STRING
@@ -21551,38 +21551,38 @@
 
 > BEGIN STRING
 "ルイス・キャロル『不思議の国のアリス』"
-> CONTEXT: Scripts/★図鑑用詳細データ/45:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/45:12
+"Lewis Carroll's 'Alice in Wonderland'"
 > END STRING
 
 > BEGIN STRING
 "白ウサギに導かれ、現実から"
-> CONTEXT: Scripts/★図鑑用詳細データ/46:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/46:12
+"A girl led by the white rabbit"
 > END STRING
 
 > BEGIN STRING
 "ワンダーランド（不思議の国）に"
-> CONTEXT: Scripts/★図鑑用詳細データ/47:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/47:12
+"from reality to Wonderland."
 > END STRING
 
 > BEGIN STRING
 "迷い込んだ少女。"
-> CONTEXT: Scripts/★図鑑用詳細データ/48:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/48:12
+"After a mysterious and absurd adventure,"
 > END STRING
 
 > BEGIN STRING
 "不可思議と不条理に満ちた冒険の後、"
-> CONTEXT: Scripts/★図鑑用詳細データ/49:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/49:12
+"she 'woke up from the dream' and returned to her world."
 > END STRING
 
 > BEGIN STRING
 "「夢から覚め」て元いた世界へと帰った。"
-> CONTEXT: Scripts/★図鑑用詳細データ/50:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/50:12
+""
 > END STRING
 
 > BEGIN STRING
@@ -21733,44 +21733,44 @@
 
 > BEGIN STRING
 "ロシア伝承"
-> CONTEXT: Scripts/★図鑑用詳細データ/76:12 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/661:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/76:12
+> CONTEXT: Scripts/★図鑑用詳細データ/661:12
 "Russian Legend"
 > END STRING
 
 > BEGIN STRING
 "多情な男性または女性のもとにあらわれ"
-> CONTEXT: Scripts/★図鑑用詳細データ/77:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/77:12
 "A fairy who appears to lustful men or women"
 > END STRING
 
 > BEGIN STRING
 "性的な関係を持つ妖精。"
-> CONTEXT: Scripts/★図鑑用詳細データ/78:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/78:12
 "to have sexual relations with them."
 > END STRING
 
 > BEGIN STRING
 "アルバスタと交わった人間は徐々に"
-> CONTEXT: Scripts/★図鑑用詳細データ/79:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/79:12
 "Anyone having sex with her will have their life"
 > END STRING
 
 > BEGIN STRING
 "生命を削られ、遠からず死に至る。"
-> CONTEXT: Scripts/★図鑑用詳細データ/80:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/80:12
 "slowly drained away and die thereafter."
 > END STRING
 
 > BEGIN STRING
 "洗礼を受けずに死んだ私生児の魂が"
-> CONTEXT: Scripts/★図鑑用詳細データ/81:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/81:12
 "Souls of bastards who die without being baptized"
 > END STRING
 
 > BEGIN STRING
 "怨念を持ちアルバスタになると言われる。"
-> CONTEXT: Scripts/★図鑑用詳細データ/82:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/82:12
 "are said to become Albasty, carrying a grudge."
 > END STRING
 
@@ -21966,43 +21966,43 @@
 
 > BEGIN STRING
 "長髪に海草をからませた"
-> CONTEXT: Scripts/★図鑑用詳細データ/119:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/119:12
 "A demon looking like a mermaid"
 > END STRING
 
 > BEGIN STRING
 "人魚の姿であらわれる悪魔。"
-> CONTEXT: Scripts/★図鑑用詳細データ/120:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/120:12
 "with long hair tangled in seaweed."
 > END STRING
 
 > BEGIN STRING
 "海洋公。"
-> CONTEXT: Scripts/★図鑑用詳細データ/121:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/121:12
 "Ocean royalty."
 > END STRING
 
 > BEGIN STRING
 "その鱗はエメラルドである。"
-> CONTEXT: Scripts/★図鑑用詳細データ/122:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/122:12
 "Scales of emerald."
 > END STRING
 
 > BEGIN STRING
 "美しい人間の女性の姿を取ることもできる。"
-> CONTEXT: Scripts/★図鑑用詳細データ/123:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/123:12
 "Can also take the form of a beautiful human female."
 > END STRING
 
 > BEGIN STRING
 "海を支配し、嵐を自在に操り、また"
-> CONTEXT: Scripts/★図鑑用詳細データ/124:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/124:12
 "Ruler of seas, controls storms"
 > END STRING
 
 > BEGIN STRING
 "幻影の船を作りだす。"
-> CONTEXT: Scripts/★図鑑用詳細データ/125:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/125:12
 "and creates phantom ships."
 > END STRING
 
@@ -22088,59 +22088,59 @@
 
 > BEGIN STRING
 "ギリシャ神話の怪物たちの母。"
-> CONTEXT: Scripts/★図鑑用詳細データ/145:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/145:12
+"The mother of all the monsters in Greek mythology."
 > END STRING
 
 > BEGIN STRING
 "兄である悪竜テュフォンと交わり"
-> CONTEXT: Scripts/★図鑑用詳細データ/146:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/146:12
+"Mated with her brother, evil dragon Typhon,"
 > END STRING
 
 > BEGIN STRING
 "スフィンクスなど多くの怪物を生み出し、"
-> CONTEXT: Scripts/★図鑑用詳細データ/147:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/147:12
+"and produced many monsters, including Sphinx,"
 > END STRING
 
 > BEGIN STRING
 "それらを退治したヘラクレスとの間にも"
-> CONTEXT: Scripts/★図鑑用詳細データ/148:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/148:12
+"and had 3 children with Hercules,"
 > END STRING
 
 > BEGIN STRING
 "３人の子供をもうけた。"
-> CONTEXT: Scripts/★図鑑用詳細データ/149:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/149:12
+"who defeated them."
 > END STRING
 
 > BEGIN STRING
 "名は「蝮」を意味し、上半身は豊満な体の"
-> CONTEXT: Scripts/★図鑑用詳細データ/150:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/150:12
+"Her name means 'viper', with a lower body of a"
 > END STRING
 
 > BEGIN STRING
 "美しい女性だが、下半身は名の通り"
-> CONTEXT: Scripts/★図鑑用詳細データ/151:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/151:12
+"giant green snake with blue/black markings,"
 > END STRING
 
 > BEGIN STRING
 "青黒い斑を持つ緑の大蛇である。"
-> CONTEXT: Scripts/★図鑑用詳細データ/152:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/152:12
+"and beautiful voluptous female upper body."
 > END STRING
 
 > BEGIN STRING
 "リリスの別名の一つ。"
-> CONTEXT: Scripts/★図鑑用詳細データ/155:12 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/290:12 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/293:12 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/590:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/155:12
+> CONTEXT: Scripts/★図鑑用詳細データ/290:12
+> CONTEXT: Scripts/★図鑑用詳細データ/293:12
+> CONTEXT: Scripts/★図鑑用詳細データ/590:12
+"Another name for Lilith."
 > END STRING
 
 > BEGIN STRING
@@ -22271,134 +22271,134 @@
 
 > BEGIN STRING
 "スキュラと共にメッシーナ海峡に棲み、"
-> CONTEXT: Scripts/★図鑑用詳細データ/183:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/183:12
 "Female monster living in the Strait of Messina"
 > END STRING
 
 > BEGIN STRING
 "渦潮をひきおこす女性の怪物。"
-> CONTEXT: Scripts/★図鑑用詳細データ/184:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/184:12
 "with Scylla, creating whirlpools."
 > END STRING
 
 > BEGIN STRING
 "元は海神ポセイドンの娘であったが、"
-> CONTEXT: Scripts/★図鑑用詳細データ/185:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/185:12
 "Originally daughter of the sea god Poseidon,"
 > END STRING
 
 > BEGIN STRING
 "その貪欲さからゼウスに罰せられ"
-> CONTEXT: Scripts/★図鑑用詳細データ/186:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/186:12
 "but punished by Zeus for her greed"
 > END STRING
 
 > BEGIN STRING
 "海の魔物となった。"
-> CONTEXT: Scripts/★図鑑用詳細データ/187:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/187:12
 "and turned into a sea monster."
 > END STRING
 
 > BEGIN STRING
 "中国・日本伝承"
-> CONTEXT: Scripts/★図鑑用詳細データ/189:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/189:12
+"Chinese/Japanese Legend"
 > END STRING
 
 > BEGIN STRING
 "九尾の狐。"
-> CONTEXT: Scripts/★図鑑用詳細データ/190:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/190:12
+"The Nine-Tailed Fox."
 > END STRING
 
 > BEGIN STRING
 "美女や巫女に化け、権力者を色香で惑わせ"
-> CONTEXT: Scripts/★図鑑用詳細データ/191:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/191:12
+"Fox yokai disguised as a beautiful maiden, seducing"
 > END STRING
 
 > BEGIN STRING
 "その権力を欲しいままにする狐の妖怪。"
-> CONTEXT: Scripts/★図鑑用詳細データ/192:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/192:12
+"and taking control of those with power."
 > END STRING
 
 > BEGIN STRING
 "古代から中国、インドで暴虐の限りを尽くし、"
-> CONTEXT: Scripts/★図鑑用詳細データ/193:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/193:12
+"Did much in China and India, and in 8th century,"
 > END STRING
 
 > BEGIN STRING
 "八世紀には遣唐使を誘惑し遣唐使船で"
-> CONTEXT: Scripts/★図鑑用詳細データ/194:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/194:12
+"seduced Japanese envoys to the Tang Dynasty"
 > END STRING
 
 > BEGIN STRING
 "日本へと渡った。"
-> CONTEXT: Scripts/★図鑑用詳細データ/195:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/195:12
+"and traveled to Japan on their ships."
 > END STRING
 
 > BEGIN STRING
 "その後鳥羽上皇に取り入り寵愛を受けるが、"
-> CONTEXT: Scripts/★図鑑用詳細データ/196:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/196:12
+"Thereafter gained Emperor Toba's favor,"
 > END STRING
 
 > BEGIN STRING
 "正体がばれて追い詰められた末"
-> CONTEXT: Scripts/★図鑑用詳細データ/197:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/197:12
+"but after her true identity was discovered,"
 > END STRING
 
 > BEGIN STRING
 "巨大な殺生石に姿を変えた。"
-> CONTEXT: Scripts/★図鑑用詳細データ/198:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/198:12
+"she was turned into a giant killing stone."
 > END STRING
 
 > BEGIN STRING
 "中国伝承"
-> CONTEXT: Scripts/★図鑑用詳細データ/200:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/200:12
+"Chinese Legend"
 > END STRING
 
 > BEGIN STRING
 "九尾の狐が変身した姿の一つとされる、"
-> CONTEXT: Scripts/★図鑑用詳細データ/201:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/201:12
+"One of the forms of the nine-tailed fox,"
 > END STRING
 
 > BEGIN STRING
 "前十一世紀の殷の紂王の妃。"
-> CONTEXT: Scripts/★図鑑用詳細データ/202:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/202:12
+"wife of King Chu of Shang Dynasty in 11th century BCE."
 > END STRING
 
 > BEGIN STRING
 "性格は残忍かつ好色であり、"
-> CONTEXT: Scripts/★図鑑用詳細データ/203:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/203:12
+"Cruel and lustful personality, enjoying"
 > END STRING
 
 > BEGIN STRING
 "残酷な刑を執行させてはそれを眺めて楽しみ、"
-> CONTEXT: Scripts/★図鑑用詳細データ/204:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/204:12
+"watching cruel punishments carried out."
 > END STRING
 
 > BEGIN STRING
 "また酒池肉林の庭園を造らせ"
-> CONTEXT: Scripts/★図鑑用詳細データ/205:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/205:12
+"Also has a garden for feasting"
 > END STRING
 
 > BEGIN STRING
 "そこで何人もの男女と飽食と性交を楽しんだ。"
-> CONTEXT: Scripts/★図鑑用詳細データ/206:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/206:12
+"and having sex with many men and women."
 > END STRING
 
 > BEGIN STRING
@@ -22546,14 +22546,14 @@
 
 > BEGIN STRING
 "ケルト神話"
-> CONTEXT: Scripts/★図鑑用詳細データ/227:12 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/563:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/227:12
+> CONTEXT: Scripts/★図鑑用詳細データ/563:12
 "Celtic Legend"
 > END STRING
 
 > BEGIN STRING
 "元は神話に登場する尊大な女王。"
-> CONTEXT: Scripts/★図鑑用詳細データ/228:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/228:12
 "Originally an arrogant queen from mythology."
 > END STRING
 
@@ -22565,31 +22565,31 @@
 
 > BEGIN STRING
 "サキュバスなどの夢魔と同一視されていたが、"
-> CONTEXT: Scripts/★図鑑用詳細データ/229:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/229:12
 "Viewed same as succubi,"
 > END STRING
 
 > BEGIN STRING
 "のちにティターニアと混同され"
-> CONTEXT: Scripts/★図鑑用詳細データ/230:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/230:12
 "but later confused with Titania"
 > END STRING
 
 > BEGIN STRING
 "妖精の女王としても扱われるようになる。"
-> CONTEXT: Scripts/★図鑑用詳細データ/231:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/231:12
 "and treated as the queen of fairies."
 > END STRING
 
 > BEGIN STRING
 "多数の夫を持ち、彼らに自身の経血を配合した"
-> CONTEXT: Scripts/★図鑑用詳細データ/232:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/232:12
 "Asserted dominance over many husbands"
 > END STRING
 
 > BEGIN STRING
 "赤い蜂蜜酒を配り、支配権を分け与えていた。"
-> CONTEXT: Scripts/★図鑑用詳細データ/233:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/233:12
 "by serving red mead with her menstrual blood."
 > END STRING
 
@@ -22649,25 +22649,25 @@
 
 > BEGIN STRING
 "魔女集会や流血の場にあらわれる悪魔。"
-> CONTEXT: Scripts/★図鑑用詳細データ/247:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/247:12
 "A demon at witches' gatherings and places of bloodshed."
 > END STRING
 
 > BEGIN STRING
 "猫の姿を取る。"
-> CONTEXT: Scripts/★図鑑用詳細データ/248:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/248:12
 "Takes the form of a cat."
 > END STRING
 
 > BEGIN STRING
 "召喚者に先立たれた使い魔ともされ、"
-> CONTEXT: Scripts/★図鑑用詳細データ/249:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/249:12
 "Said to be familiars outliving their summoners,"
 > END STRING
 
 > BEGIN STRING
 "人間に取り憑き精気を得ている。"
-> CONTEXT: Scripts/★図鑑用詳細データ/250:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/250:12
 "and haunt humans to obtain their energy."
 > END STRING
 
@@ -22758,80 +22758,80 @@
 
 > BEGIN STRING
 "冠を携えラクダに乗った美しい女性の姿で"
-> CONTEXT: Scripts/★図鑑用詳細データ/263:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/263:12
 "A demon looking like a beautiful demon"
 > END STRING
 
 > BEGIN STRING
 "現れる悪魔。吟詠公爵。"
-> CONTEXT: Scripts/★図鑑用詳細データ/264:12 < UNTRANSLATED
-"riding a camel and carrying a crown. Duke of Gin'yo.
+> CONTEXT: Scripts/★図鑑用詳細データ/264:12
+"riding a camel and carrying a crown. Duke of Gin'yo."
 > END STRING
 
 > BEGIN STRING
 "ソロモン７２の悪魔で唯一女性の姿で現れる。"
-> CONTEXT: Scripts/★図鑑用詳細データ/265:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/265:12
 "The only one of Solomon's 72 demons to appear as a woman."
 > END STRING
 
 > BEGIN STRING
 "過去と未来、隠された財宝の在処、そして"
-> CONTEXT: Scripts/★図鑑用詳細データ/266:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/266:12
 "Gives the summoner knowledge of the past and future,"
 > END STRING
 
 > BEGIN STRING
 "全ての女性の愛を得る方法を召喚者に授ける。"
-> CONTEXT: Scripts/★図鑑用詳細データ/267:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/267:12
 "hidden treasure, and how to win the love of all women."
 > END STRING
 
 > BEGIN STRING
 "「恐ろしい女」の意。"
-> CONTEXT: Scripts/★図鑑用詳細データ/270:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/270:12
+"It means 'a frightening woman.'"
 > END STRING
 
 > BEGIN STRING
 "ステンノー、エウリュアレー、メデューサの"
-> CONTEXT: Scripts/★図鑑用詳細データ/271:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/271:12
+"Stheno, Euryale, and Medusa"
 > END STRING
 
 > BEGIN STRING
 "三姉妹を指す。"
-> CONTEXT: Scripts/★図鑑用詳細データ/272:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/272:12
+"are the three sisters."
 > END STRING
 
 > BEGIN STRING
 "元はみな美しい娘だったが、主神ゼウスと"
-> CONTEXT: Scripts/★図鑑用詳細データ/273:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/273:12
+"Originally beautiful young women, but after"
 > END STRING
 
 > BEGIN STRING
 "不義を働いたため、女神アテナの嫉妬で"
-> CONTEXT: Scripts/★図鑑用詳細データ/274:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/274:12
+"adultery with Zeus, jealous goddess"
 > END STRING
 
 > BEGIN STRING
 "怪物に変えられてしまった。"
-> CONTEXT: Scripts/★図鑑用詳細データ/275:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/275:12
+"Athena transformed them into monsters."
 > END STRING
 
 > BEGIN STRING
 "頭には頭髪の代わりに蛇が生え、毒牙を持ち、"
-> CONTEXT: Scripts/★図鑑用詳細データ/276:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/276:12
+"Instead of hair, fanged snakes grow from their heads,"
 > END STRING
 
 > BEGIN STRING
 "その目は見た者を石に変えてしまう。"
-> CONTEXT: Scripts/★図鑑用詳細データ/277:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/277:12
+"and their eyes can turn anyone who looks to stone."
 > END STRING
 
 > BEGIN STRING
@@ -22908,25 +22908,25 @@
 
 > BEGIN STRING
 "その姿は多くの場合炎を纏ったトカゲであるが、"
-> CONTEXT: Scripts/★図鑑用詳細データ/298:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/298:12
 "Usually seen as a lizard clad in fire,"
 > END STRING
 
 > BEGIN STRING
 "しばしば人間の姿にもなる。"
-> CONTEXT: Scripts/★図鑑用詳細データ/299:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/299:12
 "but also takes a human form often."
 > END STRING
 
 > BEGIN STRING
 "情熱的な女性が死後生まれ変わった"
-> CONTEXT: Scripts/★図鑑用詳細データ/300:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/300:12
 "It is said she's a passionate woman"
 > END STRING
 
 > BEGIN STRING
 "姿であるとも言われている。"
-> CONTEXT: Scripts/★図鑑用詳細データ/301:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/301:12
 "reborn after death."
 > END STRING
 
@@ -22938,43 +22938,43 @@
 
 > BEGIN STRING
 "J.R.R.トールキン『指輪物語』"
-> CONTEXT: Scripts/★図鑑用詳細データ/303:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/303:12
 "The Lord of the Rings by J.R.R. Tolkien"
 > END STRING
 
 > BEGIN STRING
 "作中キリス・ウンゴル（蜘蛛の裂け目）"
-> CONTEXT: Scripts/★図鑑用詳細データ/304:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/304:12
 "A giant spider-like female monster"
 > END STRING
 
 > BEGIN STRING
 "と呼ばれる洞窟に棲みつく、"
-> CONTEXT: Scripts/★図鑑用詳細データ/305:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/305:12
 "that lives in Cirith Ungol (Spider's Cleft)"
 > END STRING
 
 > BEGIN STRING
 "巨大な蜘蛛の姿をした女性の魔物。"
-> CONTEXT: Scripts/★図鑑用詳細データ/306:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/306:12
 "in the story."
 > END STRING
 
 > BEGIN STRING
 "「黒い恐怖」と呼ばれる。"
-> CONTEXT: Scripts/★図鑑用詳細データ/307:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/307:12
 "Called 'dark terror.'"
 > END STRING
 
 > BEGIN STRING
 "食欲旺盛で、洞窟に入り込んだ者を"
-> CONTEXT: Scripts/★図鑑用詳細データ/308:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/308:12
 "Captures all who enter her cave with threads"
 > END STRING
 
 > BEGIN STRING
 "影の糸で捕らえ、毒針で弱らせ食べてしまう。"
-> CONTEXT: Scripts/★図鑑用詳細データ/309:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/309:12
 "weaknes with poisonous spines and eats them."
 > END STRING
 
@@ -23130,25 +23130,25 @@
 
 > BEGIN STRING
 "雌犬や鳥に変身する女性の吸血鬼。"
-> CONTEXT: Scripts/★図鑑用詳細データ/346:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/346:12
 "A female vampire who can transform into a dog or a bird."
 > END STRING
 
 > BEGIN STRING
 "深夜に徘徊し、若い男や眠る赤ん坊の"
-> CONTEXT: Scripts/★図鑑用詳細データ/347:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/347:12
 "Roams streets at night, sucking blood"
 > END STRING
 
 > BEGIN STRING
 "生き血をすする。"
-> CONTEXT: Scripts/★図鑑用詳細データ/348:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/348:12
 "of young men and sleeping babies."
 > END STRING
 
 > BEGIN STRING
 "美女に変身し男を喰らう悪魔とも言われる。"
-> CONTEXT: Scripts/★図鑑用詳細データ/349:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/349:12
 "Transforms into a beautiful woman and devours men."
 > END STRING
 
@@ -23202,68 +23202,68 @@
 
 > BEGIN STRING
 "性力の化身、愛と性愛の女神。"
-> CONTEXT: Scripts/★図鑑用詳細データ/362:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/362:12
 "Embodiment of sexual power, goddess of love and sexuality."
 > END STRING
 
 > BEGIN STRING
 "名は「空の遊歩者」の意。"
-> CONTEXT: Scripts/★図鑑用詳細データ/363:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/363:12
 "The name means 'Wanderer of the Sky.'"
 > END STRING
 
 > BEGIN STRING
 "かつては人間を喰らいその骨を身に纏う"
-> CONTEXT: Scripts/★図鑑用詳細データ/364:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/364:12
 "Once a terrifying demon who ate humans"
 > END STRING
 
 > BEGIN STRING
 "恐ろしい鬼女であったが、"
-> CONTEXT: Scripts/★図鑑用詳細データ/365:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/365:12
 "and wore their bones on herself,"
 > END STRING
 
 > BEGIN STRING
 "マハーカーラーに破れ改心した。"
-> CONTEXT: Scripts/★図鑑用詳細データ/366:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/366:12
 "but was defeated by Mahakala and reformed."
 > END STRING
 
 > BEGIN STRING
 "北欧神話"
-> CONTEXT: Scripts/★図鑑用詳細データ/368:12 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/684:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/368:12
+> CONTEXT: Scripts/★図鑑用詳細データ/684:12
 "Norse Legend"
 > END STRING
 
 > BEGIN STRING
 "運命を司る三相一体の女神。"
-> CONTEXT: Scripts/★図鑑用詳細データ/369:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/369:12
 "The three goddesses who govern fate."
 > END STRING
 
 > BEGIN STRING
 "それぞれウルズ（運命）、スクルド（必要）、"
-> CONTEXT: Scripts/★図鑑用詳細データ/370:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/370:12
 "They are called Urðr (Fate), Skuld (Future)"
 > END STRING
 
 > BEGIN STRING
 "ヴェルザンディ（存在）の名で呼ばれる。"
-> CONTEXT: Scripts/★図鑑用詳細データ/371:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/371:12
 "and Verðandi (Present)."
 > END STRING
 
 > BEGIN STRING
 "人間だけでなく神々の運命も支配し、"
-> CONTEXT: Scripts/★図鑑用詳細データ/372:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/372:12
 "They control the fate of humans and gods,"
 > END STRING
 
 > BEGIN STRING
 "主神オーディンすらその支配下にある。"
-> CONTEXT: Scripts/★図鑑用詳細データ/373:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/373:12
 "with even chief god Odin under their control."
 > END STRING
 
@@ -23371,55 +23371,55 @@
 
 > BEGIN STRING
 "バビロニア神話"
-> CONTEXT: Scripts/★図鑑用詳細データ/394:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/394:12
 "Babylonian Legend"
 > END STRING
 
 > BEGIN STRING
 "海水を象徴する原初の女神。"
-> CONTEXT: Scripts/★図鑑用詳細データ/395:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/395:12
 "The primordial goddess who represents seawater."
 > END STRING
 
 > BEGIN STRING
 "淡水の神アプスーと交わり多くの神を生んだ。"
-> CONTEXT: Scripts/★図鑑用詳細データ/396:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/396:12
 "Mated with Abzu and gave birth to many gods."
 > END STRING
 
 > BEGIN STRING
 "しかし、やがてその神々と諍いを起こし、"
-> CONTEXT: Scripts/★図鑑用詳細データ/397:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/397:12
 "But, she eventually came into conflict with the gods,"
 > END STRING
 
 > BEGIN STRING
 "１１の魔物を生み出し戦うが敗れ、"
-> CONTEXT: Scripts/★図鑑用詳細データ/398:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/398:12
 "created 11 demons to fight with, but lost, and her corpse"
 > END STRING
 
 > BEGIN STRING
 "ティアマトの亡骸が天地創造の礎となる。"
-> CONTEXT: Scripts/★図鑑用詳細データ/399:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/399:12
 "became the foundation of the creation of heaven and earth."
 > END STRING
 
 > BEGIN STRING
 "その姿はしばしば生み出した怪物たちと"
-> CONTEXT: Scripts/★図鑑用詳細データ/400:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/400:12
 "Her appearance often melds with her monsters,"
 > END STRING
 
 > BEGIN STRING
 "混合され、海蛇又は七頭の竜の下半身を持つ"
-> CONTEXT: Scripts/★図鑑用詳細データ/401:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/401:12
 "often a sea serpent, a woman with 7-headed dragon's"
 > END STRING
 
 > BEGIN STRING
 "女性、あるいはドラゴンとされる。"
-> CONTEXT: Scripts/★図鑑用詳細データ/402:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/402:12
 "lower body, or a dragon."
 > END STRING
 
@@ -23515,32 +23515,32 @@
 
 > BEGIN STRING
 "夜の女神。混沌から生まれ、光と昼を生んだ。"
-> CONTEXT: Scripts/★図鑑用詳細データ/421:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/421:12
+"Night goddess. Born from chaos, gave birth to light and day."
 > END STRING
 
 > BEGIN STRING
 "世界の西の果てに館を構え、娘のヘメラ（昼）と"
-> CONTEXT: Scripts/★図鑑用詳細データ/422:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/422:12
+"With a mansion at the west edge of the world,"
 > END STRING
 
 > BEGIN STRING
 "交代で世界を回ることで昼夜を交代させる。"
-> CONTEXT: Scripts/★図鑑用詳細データ/423:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/423:12
+"alternates day and night traveling with daughter Hemera (day)."
 > END STRING
 
 > BEGIN STRING
 "夜の闇そのものを体現し、陰鬱で激しい性格を"
-> CONTEXT: Scripts/★図鑑用詳細データ/424:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/424:12
+"Embodying the darkness of the night, she has a fierce,"
 > END STRING
 
 > BEGIN STRING
 "持つ一方、人々に安らかな眠りを与える。"
-> CONTEXT: Scripts/★図鑑用詳細データ/425:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/425:12
+"gloomy personality, but also provides peaceful sleep."
 > END STRING
 
 > BEGIN STRING
@@ -23793,19 +23793,19 @@
 
 > BEGIN STRING
 "「親しき者」の意。 英語で「使い魔」を指す。"
-> CONTEXT: Scripts/★図鑑用詳細データ/478:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/478:12
 "A familiar means someone who's 'close.'"
 > END STRING
 
 > BEGIN STRING
 "魔女や魔術士に使役される低級の精霊で、"
-> CONTEXT: Scripts/★図鑑用詳細データ/479:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/479:12
 "A low-level spirit used by witches and wizards"
 > END STRING
 
 > BEGIN STRING
 "術者の用事を代行したり手伝ったりする。"
-> CONTEXT: Scripts/★図鑑用詳細データ/480:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/480:12
 "to assist with errands on their behalf."
 > END STRING
 
@@ -23813,55 +23813,55 @@
 "フーリー"
 > CONTEXT: Scripts/★図鑑用詳細データ/481:10
 > CONTEXT: Commonevents/34/20/InlineScript/2:42
-"Fuuri"
+"Houri"
 > END STRING
 
 > BEGIN STRING
 "イスラム神話"
-> CONTEXT: Scripts/★図鑑用詳細データ/482:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/482:12
+"Islamic Mythology"
 > END STRING
 
 > BEGIN STRING
 "死後の楽園で性の悦びをもって"
-> CONTEXT: Scripts/★図鑑用詳細データ/483:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/483:12
+"Heavenly maiden who welcomes male believers"
 > END STRING
 
 > BEGIN STRING
 "楽園に着いた男性信者を歓待する天女。"
-> CONTEXT: Scripts/★図鑑用詳細データ/484:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/484:12
+"in paradise after death with sexual pleasure."
 > END STRING
 
 > BEGIN STRING
 "彼女たちはみな清純無垢な美女であり、"
-> CONTEXT: Scripts/★図鑑用詳細データ/485:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/485:12
+"Pure and innocent beauties,"
 > END STRING
 
 > BEGIN STRING
 "永遠に処女であるとされる。"
-> CONTEXT: Scripts/★図鑑用詳細データ/486:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/486:12
+"said to remain virgins forever."
 > END STRING
 
 > BEGIN STRING
 "男性一人につき７２人のフーリーがつくが、"
-> CONTEXT: Scripts/★図鑑用詳細データ/487:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/487:12
+"Each man has 72 Houris, getting their company,"
 > END STRING
 
 > BEGIN STRING
 "彼女たちと交われる回数は生前に行った"
-> CONTEXT: Scripts/★図鑑用詳細データ/488:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/488:12
+"a number of times depending on good deeds"
 > END STRING
 
 > BEGIN STRING
 "善行の数と断食の日数で決められる。"
-> CONTEXT: Scripts/★図鑑用詳細データ/489:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/489:12
+"and the number of days fasted."
 > END STRING
 
 > BEGIN STRING
@@ -23892,61 +23892,61 @@
 "マイェストレ"
 > CONTEXT: Scripts/★図鑑用詳細データ/495:10
 > CONTEXT: Commonevents/34/56/InlineScript/4:16
-"Majestre"
+"Măiestre"
 > END STRING
 
 > BEGIN STRING
 "ルーマニア伝承"
-> CONTEXT: Scripts/★図鑑用詳細データ/496:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/496:12
+"Romanian Legend"
 > END STRING
 
 > BEGIN STRING
 "カトリーナ、マリーナ、ザリーナの"
-> CONTEXT: Scripts/★図鑑用詳細データ/497:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/497:12
+"Katrina, Marina, Zarina,"
 > END STRING
 
 > BEGIN STRING
 "三人の邪悪な女性の妖精。"
-> CONTEXT: Scripts/★図鑑用詳細データ/498:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/498:12
+"the three evil female fairies, who"
 > END STRING
 
 > BEGIN STRING
 "天空を支配し、邪悪な風を使役し嵐を起こし、"
-> CONTEXT: Scripts/★図鑑用詳細データ/499:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/499:12
+"rule the skies, control evil winds, create storms,"
 > END STRING
 
 > BEGIN STRING
 "また若者を不能にしてしまう。"
-> CONTEXT: Scripts/★図鑑用詳細データ/500:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/500:12
+"and render the young unable to function."
 > END STRING
 
 > BEGIN STRING
 "危険な存在であるため名前では呼ばれず、"
-> CONTEXT: Scripts/★図鑑用詳細データ/501:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/501:12
+"Because they are dangerous, they are not"
 > END STRING
 
 > BEGIN STRING
 "イェル（彼女たち）、フルモワセレ（美女たち）、"
-> CONTEXT: Scripts/★図鑑用詳細データ/502:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/502:12
+"called by their names, but rather Iele (them),"
 > END STRING
 
 > BEGIN STRING
 "マイェストレ（女王様たち）、"
-> CONTEXT: Scripts/★図鑑用詳細データ/503:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/503:12
+"Frumoase (beauties), Măiestre (queens),"
 > END STRING
 
 > BEGIN STRING
 "ディンセレ（乙女たち）と呼ばれる。"
-> CONTEXT: Scripts/★図鑑用詳細データ/504:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/504:12
+"and Dânse (maidens)."
 > END STRING
 
 > BEGIN STRING
@@ -23994,37 +23994,37 @@
 
 > BEGIN STRING
 "宝箱の姿で待ちうけ、"
-> CONTEXT: Scripts/★図鑑用詳細データ/515:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/515:12
 "A monster disguised as a treasure chest,"
 > END STRING
 
 > BEGIN STRING
 "騙されて開けようとする獲物を襲う魔物。"
-> CONTEXT: Scripts/★図鑑用詳細データ/516:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/516:12
 "attacking those who are tricked into opening it."
 > END STRING
 
 > BEGIN STRING
 "名前は英語のミミクリー（mimicry : 擬態）"
-> CONTEXT: Scripts/★図鑑用詳細データ/517:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/517:12
 "The name comes from the English word"
 > END STRING
 
 > BEGIN STRING
 "に由来する。"
-> CONTEXT: Scripts/★図鑑用詳細データ/518:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/518:12
 "'mimicry.'"
 > END STRING
 
 > BEGIN STRING
 "神話などの伝承には登場しない、"
-> CONTEXT: Scripts/★図鑑用詳細データ/519:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/519:12
 "This monster does not appear in myths or legends,"
 > END STRING
 
 > BEGIN STRING
 "近代になって考え出された魔物。"
-> CONTEXT: Scripts/★図鑑用詳細データ/520:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/520:12
 "but was invented in modern times."
 > END STRING
 
@@ -24224,121 +24224,121 @@
 
 > BEGIN STRING
 "破壊と情欲を司る女神。戦いの三女神の一人。"
-> CONTEXT: Scripts/★図鑑用詳細データ/564:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/564:12
+"Goddess of destruction and lust. 3 goddesses of war"
 > END STRING
 
 > BEGIN STRING
 "長身の美しい女性で、戦場においては"
-> CONTEXT: Scripts/★図鑑用詳細データ/565:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/565:12
+"Tall, beautiful woman in the form of a crow"
 > END STRING
 
 > BEGIN STRING
 "ワタリガラスの姿で血を求めて飛び回る。"
-> CONTEXT: Scripts/★図鑑用詳細データ/566:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/566:12
+"in battle, flying in search of blood."
 > END STRING
 
 > BEGIN STRING
 "英雄クーフーリンに想いを寄せるが"
-> CONTEXT: Scripts/★図鑑用詳細データ/567:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/567:12
+"Fell in love with the hero Cú Chulainn,"
 > END STRING
 
 > BEGIN STRING
 "拒絶されたため彼に死の呪いをかけた。"
-> CONTEXT: Scripts/★図鑑用詳細データ/568:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/568:12
+"but rejected, so she cursed him with death."
 > END STRING
 
 > BEGIN STRING
 "しかし実際彼が死ぬと、烏の姿で肩にとまり"
-> CONTEXT: Scripts/★図鑑用詳細データ/569:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/569:12
+"But when he died, a crow sat on his shoulder"
 > END STRING
 
 > BEGIN STRING
 "嘆き悲しんだとも。"
-> CONTEXT: Scripts/★図鑑用詳細データ/570:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/570:12
+"and lamented for him."
 > END STRING
 
 > BEGIN STRING
 "水と樹木の精霊。地母神。"
-> CONTEXT: Scripts/★図鑑用詳細データ/573:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/573:12
 "Spirit of water and trees. Earth Mother."
 > END STRING
 
 > BEGIN STRING
 "豊満な肉体を持つ裸の女性の姿をし、"
-> CONTEXT: Scripts/★図鑑用詳細データ/574:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/574:12
 "Nude female figure with a voluptuous body,"
 > END STRING
 
 > BEGIN STRING
 "自然の恵みを象徴する。"
-> CONTEXT: Scripts/★図鑑用詳細データ/575:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/575:12
 "symbolizing the bounty of nature."
 > END STRING
 
 > BEGIN STRING
 "善人に対しては友好的だが"
-> CONTEXT: Scripts/★図鑑用詳細データ/576:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/576:12
 "These beautiful women are friendly to those who are good,"
 > END STRING
 
 > BEGIN STRING
 "悪人は食い殺してしまう"
-> CONTEXT: Scripts/★図鑑用詳細データ/577:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/577:12
 "but they have a terrifying side of"
 > END STRING
 
 > BEGIN STRING
 "恐ろしい側面も持つ美女たち。"
-> CONTEXT: Scripts/★図鑑用詳細データ/578:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/578:12
 "killing and eating those who are bad."
 > END STRING
 
 > BEGIN STRING
 "雪女。雪の精霊。"
-> CONTEXT: Scripts/★図鑑用詳細データ/581:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/581:12
 "Yuki-onna. Snow spirit."
 > END STRING
 
 > BEGIN STRING
 "雪の中で道に迷った男性の前に美しい"
-> CONTEXT: Scripts/★図鑑用詳細データ/582:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/582:12
 "Appears as a beautiful woman in front of men"
 > END STRING
 
 > BEGIN STRING
 "女性の姿で現れ、息を吹きかけ殺してしまう。"
-> CONTEXT: Scripts/★図鑑用詳細データ/583:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/583:12
 "lost in the snow and kills them with her breath."
 > END STRING
 
 > BEGIN STRING
 "逆に凍死寸前の男を助けることもあり、"
-> CONTEXT: Scripts/★図鑑用詳細データ/584:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/584:12
 "Conversly, she has rescued men freezing to death,"
 > END STRING
 
 > BEGIN STRING
 "その場合その事は固く口止めされる。"
-> CONTEXT: Scripts/★図鑑用詳細データ/585:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/585:12
 "but strictly told them not to tell anyone."
 > END STRING
 
 > BEGIN STRING
 "約束を守るかどうか確かめるため"
-> CONTEXT: Scripts/★図鑑用詳細データ/586:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/586:12
 "Sometimes marries and lives with the man"
 > END STRING
 
 > BEGIN STRING
 "男と通婚し共に暮らすこともある。"
-> CONTEXT: Scripts/★図鑑用詳細データ/587:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/587:12
 "to see if he keeps the promise."
 > END STRING
 
@@ -24398,49 +24398,49 @@
 
 > BEGIN STRING
 "バリ・ヒンドゥー伝承"
-> CONTEXT: Scripts/★図鑑用詳細データ/602:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/602:12
 "Bali Hindu Legend"
 > END STRING
 
 > BEGIN STRING
 "バリ島の強大な魔女。全ての黒魔術の使い手。"
-> CONTEXT: Scripts/★図鑑用詳細データ/603:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/603:12
 "A powerful witch from Bali. Master of all black magic."
 > END STRING
 
 > BEGIN STRING
 "悪そのものの象徴であり、善の象徴バロンと"
-> CONTEXT: Scripts/★図鑑用詳細データ/604:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/604:12
 "Symbol of evil, paired symbol of good Barong,"
 > END STRING
 
 > BEGIN STRING
 "対を成し、互いに決して滅びることがない。"
-> CONTEXT: Scripts/★図鑑用詳細データ/605:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/605:12
 "they cannot destroy each other."
 > END STRING
 
 > BEGIN STRING
 "変幻自在で、善人にとっては恐怖の対象であり"
-> CONTEXT: Scripts/★図鑑用詳細データ/606:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/606:12
 "Shape-shifting unattractive old woman,"
 > END STRING
 
 > BEGIN STRING
 "醜い老婆だが、黒魔術を志す者にとっては"
-> CONTEXT: Scripts/★図鑑用詳細データ/607:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/607:12
 "source of fear for good people, but admired"
 > END STRING
 
 > BEGIN STRING
 "憧れであり、誰もが一夜を共にすることを"
-> CONTEXT: Scripts/★図鑑用詳細データ/608:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/608:12
 "by black magic students, and turns into a"
 > END STRING
 
 > BEGIN STRING
 "夢に見る官能的な美少女となる。"
-> CONTEXT: Scripts/★図鑑用詳細データ/609:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/609:12
 "girl everyone dreams of spending a night with."
 > END STRING
 
@@ -24536,230 +24536,230 @@
 
 > BEGIN STRING
 "アダムの最初の妻。"
-> CONTEXT: Scripts/★図鑑用詳細データ/629:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/629:12
+"Adam's first wife."
 > END STRING
 
 > BEGIN STRING
 "男性上位の性交を強要するアダムを捨てて"
-> CONTEXT: Scripts/★図鑑用詳細データ/630:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/630:12
+"Abandoned Adam who forced her to sex and fled Eden."
 > END STRING
 
 > BEGIN STRING
 "エデンから逃げ出し、紅海のそばで"
-> CONTEXT: Scripts/★図鑑用詳細データ/631:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/631:12
+"Consorted with demons near the Red Sea and"
 > END STRING
 
 > BEGIN STRING
 "悪魔たちと交合し毎日１００人の娘を産んだ。"
-> CONTEXT: Scripts/★図鑑用詳細データ/632:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/632:12
+"gave birth to 100 girls daily."
 > END STRING
 
 > BEGIN STRING
 "この娘たちはリリムと呼ばれ、リリスと共に"
-> CONTEXT: Scripts/★図鑑用詳細データ/633:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/633:12
+"The girls were called Lilim, and together,"
 > END STRING
 
 > BEGIN STRING
 "夢魔のルーツとなり、以後１０００年以上に渡り"
-> CONTEXT: Scripts/★図鑑用詳細データ/634:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/634:12
+"they became the original succubi, and for over 1000 years"
 > END STRING
 
 > BEGIN STRING
 "男性の夢の中に現れ彼らを誘惑している。"
-> CONTEXT: Scripts/★図鑑用詳細データ/635:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/635:12
+"they appeared in men's dreams and seduced them."
 > END STRING
 
 > BEGIN STRING
 "彼女たちの名を由来とする百合（リリィ）は"
-> CONTEXT: Scripts/★図鑑用詳細データ/636:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/636:12
+"Lily, which their name is based on, is a"
 > END STRING
 
 > BEGIN STRING
 "女陰のシンボルであり、純潔の花でもある。"
-> CONTEXT: Scripts/★図鑑用詳細データ/637:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/637:12
+"symbol of vagina, and the flower of purity."
 > END STRING
 
 > BEGIN STRING
 "元はオリエントの太母神であったと考えられる。"
-> CONTEXT: Scripts/★図鑑用詳細データ/638:13 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/638:13
+"Originally the Great Mother Goddess of Orient."
 > END STRING
 
 > BEGIN STRING
 "アダムの最初の妻とされるリリスと"
-> CONTEXT: Scripts/★図鑑用詳細データ/641:12 < UNTRANSLATED
-"Beautiful girls born from Lilith, 
+> CONTEXT: Scripts/★図鑑用詳細データ/641:12
+"Beautiful girls born from Lilith,"
 > END STRING
 
 > BEGIN STRING
 "悪魔との間に生まれた美しい娘たち。"
-> CONTEXT: Scripts/★図鑑用詳細データ/642:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/642:12
 "Adam's first wife and the devil."
 > END STRING
 
 > BEGIN STRING
 "母親の性質を受け継ぎ多淫多情で、"
-> CONTEXT: Scripts/★図鑑用詳細データ/643:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/643:12
 "Inheriting from mother, they are very lustful,"
 > END STRING
 
 > BEGIN STRING
 "男性を夢の中で誘惑し性交へ導く。"
-> CONTEXT: Scripts/★図鑑用詳細データ/644:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/644:12
 "seducing mein in dreams to sex."
 > END STRING
 
 > BEGIN STRING
 "この時彼女たちが取る体勢は決まって"
-> CONTEXT: Scripts/★図鑑用詳細データ/645:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/645:12
 "They always assume cowgirl position on the man,"
 > END STRING
 
 > BEGIN STRING
 "被害者の上にしゃがみこむ騎乗位で、これは"
-> CONTEXT: Scripts/★図鑑用詳細データ/646:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/646:12
 "which was considered disgraceful and cursed"
 > END STRING
 
 > BEGIN STRING
 "男性優位のイスラム・キリスト教社会では"
-> CONTEXT: Scripts/★図鑑用詳細データ/647:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/647:12
 "in the male-dominant Islamic"
 > END STRING
 
 > BEGIN STRING
 "忌むべき、呪われた体位とされていた。"
-> CONTEXT: Scripts/★図鑑用詳細データ/648:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/648:12
 "and Christian societies."
 > END STRING
 
 > BEGIN STRING
 "人狼の一種。名前の語源はフランス語で"
-> CONTEXT: Scripts/★図鑑用詳細データ/651:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/651:12
 "A type of werewolf. The name comes from French,"
 > END STRING
 
 > BEGIN STRING
 "「姿を変える者」「避けるべき狼」。"
-> CONTEXT: Scripts/★図鑑用詳細データ/652:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/652:12
 "meaning 'shapeshifter' or 'wolf to avoid.'"
 > END STRING
 
 > BEGIN STRING
 "一般に女性、特に魔女の変身した牝狼とされる。"
-> CONTEXT: Scripts/★図鑑用詳細データ/653:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/653:12
 "Typically a female wolf transformed into woman or witch."
 > END STRING
 
 > BEGIN STRING
 "人間の血を悪魔に捧げるのと引き換えに"
-> CONTEXT: Scripts/★図鑑用詳細データ/654:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/654:12
 "Obtains magical power by offering human blood to the devil,"
 > END STRING
 
 > BEGIN STRING
 "魔力を得ており、夜になると狼の姿で"
-> CONTEXT: Scripts/★図鑑用詳細データ/655:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/655:12
 "and transforms into a wolf at night,"
 > END STRING
 
 > BEGIN STRING
 "人や家畜の生き血を吸い、生肉を貪る。"
-> CONTEXT: Scripts/★図鑑用詳細データ/656:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/656:12
 "sucking blood and eating flesh of people and livestock."
 > END STRING
 
 > BEGIN STRING
 "家の前に砂と米粒を撒いておくと、"
-> CONTEXT: Scripts/★図鑑用詳細データ/657:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/657:12
 "If you scatter sand and rice in front of your house,"
 > END STRING
 
 > BEGIN STRING
 "彼女たちがそれを拾い集めている間に"
-> CONTEXT: Scripts/★図鑑用詳細データ/658:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/658:12
 "it is said morning will come as they are picking it up"
 > END STRING
 
 > BEGIN STRING
 "朝が来るので襲われずに済むという。"
-> CONTEXT: Scripts/★図鑑用詳細データ/659:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/659:12
 "and thus you won't be attacked."
 > END STRING
 
 > BEGIN STRING
 "ロシアの河川に住む水の妖精。"
-> CONTEXT: Scripts/★図鑑用詳細データ/662:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/662:12
 "A water sprite that lives in Russian rivers."
 > END STRING
 
 > BEGIN STRING
 "若くして水死した少女の亡霊で、"
-> CONTEXT: Scripts/★図鑑用詳細データ/663:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/663:12
 "Ghost of a young girl who drowned"
 > END STRING
 
 > BEGIN STRING
 "美しい容姿と歌で男性を誘惑し"
-> CONTEXT: Scripts/★図鑑用詳細データ/664:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/664:12
 "who seduces men with beautiful looks and singing,"
 > END STRING
 
 > BEGIN STRING
 "水の中に誘い込んで溺死させてしまう。"
-> CONTEXT: Scripts/★図鑑用詳細データ/665:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/665:12
 "luring them into the water, causing them to drown."
 > END STRING
 
 > BEGIN STRING
 "謎かけが好きで、謎を解ければ"
-> CONTEXT: Scripts/★図鑑用詳細データ/666:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/666:12
 "It is said she likes riddles, and will set you free"
 > END STRING
 
 > BEGIN STRING
 "解放してくれるともいう。"
-> CONTEXT: Scripts/★図鑑用詳細データ/667:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/667:12
 "if you can solve them."
 > END STRING
 
 > BEGIN STRING
 "ライン川の大岩にあらわれる精霊。"
-> CONTEXT: Scripts/★図鑑用詳細データ/670:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/670:12
+"A spirit that appears on a large rock in the Rhine."
 > END STRING
 
 > BEGIN STRING
 "元は美しい人間の娘だったが"
-> CONTEXT: Scripts/★図鑑用詳細データ/671:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/671:12
+"Originally a beautiful human girl,"
 > END STRING
 
 > BEGIN STRING
 "悲恋の末にライン川に身を投げ、"
-> CONTEXT: Scripts/★図鑑用詳細データ/672:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/672:12
+"but after an unhappy affair, jumped into Rhine river"
 > END STRING
 
 > BEGIN STRING
 "歌で水上を行く者を誘惑し"
-> CONTEXT: Scripts/★図鑑用詳細データ/673:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/673:12
+"and became a spirit who seduces people on the water"
 > END STRING
 
 > BEGIN STRING
 "溺死させる精霊となった。"
-> CONTEXT: Scripts/★図鑑用詳細データ/674:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/674:12
+"with her song and drowns them."
 > END STRING
 
 > BEGIN STRING
@@ -24806,32 +24806,32 @@
 
 > BEGIN STRING
 "主神オーディーンの従者。死と戦いの女神。"
-> CONTEXT: Scripts/★図鑑用詳細データ/685:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/685:12
+"Servant of Odin. Goddess of death and battle."
 > END STRING
 
 > BEGIN STRING
 "鎧兜を身に着け馬で戦場を駆け回り、"
-> CONTEXT: Scripts/★図鑑用詳細データ/686:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/686:12
+"Wearing armor and galloping horseback in battle,"
 > END STRING
 
 > BEGIN STRING
 "戦死した者をヴァルハラへと運ぶ役割を持つ。"
-> CONTEXT: Scripts/★図鑑用詳細データ/687:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/687:12
+"carries those who have fallen in battle to Valhalla."
 > END STRING
 
 > BEGIN STRING
 "ヴァルハラに召された戦士たちは"
-> CONTEXT: Scripts/★図鑑用詳細データ/688:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/688:12
+"Warriors brought to Valhalla"
 > END STRING
 
 > BEGIN STRING
 "そこで彼女たちの歓待を受けることができる。"
-> CONTEXT: Scripts/★図鑑用詳細データ/689:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/689:12
+"can enjoy their hospitality there."
 > END STRING
 
 > BEGIN STRING
@@ -24842,32 +24842,32 @@
 
 > BEGIN STRING
 "メスしか存在しない珍しいドラゴン。"
-> CONTEXT: Scripts/★図鑑用詳細データ/692:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/692:12
+"A rare dragon that only exists as a female."
 > END STRING
 
 > BEGIN STRING
 "普段は美しい人間の姿をしている。"
-> CONTEXT: Scripts/★図鑑用詳細データ/693:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/693:12
+"Usually takes on the form of a beautiful human."
 > END STRING
 
 > BEGIN STRING
 "額もしくは瞳に宝石を持ち、"
-> CONTEXT: Scripts/★図鑑用詳細データ/694:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/694:12
+"Has a jewel on the forehead or eye,"
 > END STRING
 
 > BEGIN STRING
 "それを奪われると奪った者に服従するか、"
-> CONTEXT: Scripts/★図鑑用詳細データ/695:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/695:12
+"and if it is stolen,"
 > END STRING
 
 > BEGIN STRING
 "あるいは死んでしまう。"
-> CONTEXT: Scripts/★図鑑用詳細データ/696:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/696:12
+"she will either submit to the stealer or die."
 > END STRING
 
 > BEGIN STRING
@@ -24932,169 +24932,169 @@
 
 > BEGIN STRING
 "アーサー王伝説"
-> CONTEXT: Scripts/★図鑑用詳細データ/708:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/708:12
+"The Legend of King Arthur"
 > END STRING
 
 > BEGIN STRING
 "「湖の貴婦人」と呼ばれる美しい女性の精霊。"
-> CONTEXT: Scripts/★図鑑用詳細データ/709:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/709:12
+"A beautiful spirit known as the 'Lady of the Lake.'"
 > END STRING
 
 > BEGIN STRING
 "蜃気楼の湖の中にある館に住む。"
-> CONTEXT: Scripts/★図鑑用詳細データ/710:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/710:12
+"Lives in a mansion in the middle of Mirage Lake."
 > END STRING
 
 > BEGIN STRING
 "魔術師マーリンの弟子であったが、彼を"
-> CONTEXT: Scripts/★図鑑用詳細データ/711:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/711:12
+"Apprentice of megician Merlin, but seduced him"
 > END STRING
 
 > BEGIN STRING
 "色香で誘惑し、決して解けない魔法を習い、"
-> CONTEXT: Scripts/★図鑑用詳細データ/712:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/712:12
+"learned a spell that couldn't be undone,"
 > END STRING
 
 > BEGIN STRING
 "その魔法で彼を二度と出られない空間に"
-> CONTEXT: Scripts/★図鑑用詳細データ/713:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/713:12
+"and used that spell to imprison him"
 > END STRING
 
 > BEGIN STRING
 "幽閉してしまう。"
-> CONTEXT: Scripts/★図鑑用詳細データ/714:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/714:12
+"to a space he could never escape."
 > END STRING
 
 > BEGIN STRING
 "円卓の騎士ランスロットの守護精霊。"
-> CONTEXT: Scripts/★図鑑用詳細データ/715:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/★図鑑用詳細データ/715:12
+"Guardian spirit of Lancelot, Knight of the Round Table."
 > END STRING
 
 > BEGIN STRING
 "森に住む植物の精霊の一種。"
-> CONTEXT: Scripts/★図鑑用詳細データ/718:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/718:12
 "A type of plant spirit that lives in the forest."
 > END STRING
 
 > BEGIN STRING
 "その姿は小さく可憐な少女であり、"
-> CONTEXT: Scripts/★図鑑用詳細データ/719:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/719:12
 "Appears as a small, pretty girl,"
 > END STRING
 
 > BEGIN STRING
 "時には植物そのものでもある。"
-> CONTEXT: Scripts/★図鑑用詳細データ/720:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/720:12
 "and at times, as a plant."
 > END STRING
 
 > BEGIN STRING
 "名前にヴェル（緑）や花の名前を冠する"
-> CONTEXT: Scripts/★図鑑用詳細データ/721:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/721:12
 "The name contains 'Ver', which means green,"
 > END STRING
 
 > BEGIN STRING
 "多くの仲間がいる。"
-> CONTEXT: Scripts/★図鑑用詳細データ/722:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/722:12
 "and flower."
 > END STRING
 
 > BEGIN STRING
 "冒険を求めに森に入った騎士と"
-> CONTEXT: Scripts/★図鑑用詳細データ/723:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/723:12
 "There are many romances between them"
 > END STRING
 
 > BEGIN STRING
 "彼女たちとのロマンスも数多い。"
-> CONTEXT: Scripts/★図鑑用詳細データ/724:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/724:12
 "and knights in forests in search of adventure."
 > END STRING
 
 > BEGIN STRING
 "ルイス・キャロル『鏡の国のアリス』"
-> CONTEXT: Scripts/★図鑑用詳細データ/726:12 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/736:12 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/741:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/726:12
+> CONTEXT: Scripts/★図鑑用詳細データ/736:12
+> CONTEXT: Scripts/★図鑑用詳細データ/741:12
 "Lewis Carroll's 'Through the Looking Glass'"
 > END STRING
 
 > BEGIN STRING
 "作中詩『ジャバウォックの詩』に登場する"
-> CONTEXT: Scripts/★図鑑用詳細データ/727:12 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/737:12 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/742:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/727:12
+> CONTEXT: Scripts/★図鑑用詳細データ/737:12
+> CONTEXT: Scripts/★図鑑用詳細データ/742:12
 "An unidentified monster that appears"
 > END STRING
 
 > BEGIN STRING
 "正体不明の怪物。"
-> CONTEXT: Scripts/★図鑑用詳細データ/728:12 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/738:12 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/743:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/728:12
+> CONTEXT: Scripts/★図鑑用詳細データ/738:12
+> CONTEXT: Scripts/★図鑑用詳細データ/743:12
 "in the poem 'The Jabberwocky'"
 > END STRING
 
 > BEGIN STRING
 "『ジャバウォックの詩』はそれ自体が"
-> CONTEXT: Scripts/★図鑑用詳細データ/729:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/729:12
 "The Jabberwocky is known as"
 > END STRING
 
 > BEGIN STRING
 "秀逸なナンセンス詩として知られている。"
-> CONTEXT: Scripts/★図鑑用詳細データ/730:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/730:12
 "a brilliant piece of nonsense poetry."
 > END STRING
 
 > BEGIN STRING
 "ジャバウォックという言葉はキャロルの造語だが"
-> CONTEXT: Scripts/★図鑑用詳細データ/731:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/731:12
 "The Jabberwocky was coined by Carroll,"
 > END STRING
 
 > BEGIN STRING
 "現在では英単語“jabberwocky”は"
-> CONTEXT: Scripts/★図鑑用詳細データ/732:12 < UNTRANSLATED
-"but he word "jabberwocky" in today's English"
+> CONTEXT: Scripts/★図鑑用詳細データ/732:12
+"but he word 'jabberwocky' in today's English"
 > END STRING
 
 > BEGIN STRING
 "しばしば「ナンセンスな言葉」を指すのに"
-> CONTEXT: Scripts/★図鑑用詳細データ/733:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/733:12
 "is often used to refer to"
 > END STRING
 
 > BEGIN STRING
 "使用される。"
-> CONTEXT: Scripts/★図鑑用詳細データ/734:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/734:12
 "nonsense words."
 > END STRING
 
 > BEGIN STRING
 "非常に俊敏な生物とされる。"
-> CONTEXT: Scripts/★図鑑用詳細データ/739:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/739:12
 "Said to be extremely agile creatures."
 > END STRING
 
 > BEGIN STRING
 "「一年中発情しているやけっぱちな鳥」"
-> CONTEXT: Scripts/★図鑑用詳細データ/744:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/744:12
 "Described as a bird that's in heat"
 > END STRING
 
 > BEGIN STRING
 "と記される。"
-> CONTEXT: Scripts/★図鑑用詳細データ/745:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/745:12
 "all year round."
 > END STRING
 
@@ -25106,44 +25106,44 @@
 
 > BEGIN STRING
 "グルッペン王国、シプリ出身。"
-> CONTEXT: Scripts/★図鑑用詳細データ/749:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/749:12
 "From Sipuli, Kingdom of Gruppen."
 > END STRING
 
 > BEGIN STRING
 "ベルツェリーの森で夢魔に襲われ、"
-> CONTEXT: Scripts/★図鑑用詳細データ/750:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/750:12
 "Attacked by a succubus in the forest of Belzelly,"
 > END STRING
 
 > BEGIN STRING
 "夢魔になってしまった。"
-> CONTEXT: Scripts/★図鑑用詳細データ/751:12 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/787:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/751:12
+> CONTEXT: Scripts/★図鑑用詳細データ/787:12
 "she turned into a succubus herself."
 > END STRING
 
 > BEGIN STRING
 "元々異性に対してはかなり奥手で"
-> CONTEXT: Scripts/★図鑑用詳細データ/752:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/752:12
 "Originally quite shy around the opposite sex"
 > END STRING
 
 > BEGIN STRING
 "自分でもそのことをもどかしく思っていたが、"
-> CONTEXT: Scripts/★図鑑用詳細データ/753:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/753:12
 "and frustrated by it, but after becoming"
 > END STRING
 
 > BEGIN STRING
 "夢魔になってからはその反動か、"
-> CONTEXT: Scripts/★図鑑用詳細データ/754:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/754:12
 "a succubus, perhaps as a reaction to that,"
 > END STRING
 
 > BEGIN STRING
 "町の男を次々と森に誘っては交わっていた。"
-> CONTEXT: Scripts/★図鑑用詳細データ/755:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/755:12
 "started inviting men to the forest to have sex."
 > END STRING
 
@@ -25155,115 +25155,115 @@
 
 > BEGIN STRING
 "グルッペン王国、レンシェット出身。"
-> CONTEXT: Scripts/★図鑑用詳細データ/759:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/759:12
 "Originally from Renkott, Kingdom of Gruppen."
 > END STRING
 
 > BEGIN STRING
 "ラルスとエルヴィンの幼馴染。"
-> CONTEXT: Scripts/★図鑑用詳細データ/760:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/760:12
 "Childhood friend of Lars and Elvin."
 > END STRING
 
 > BEGIN STRING
 "魔法の素質を持ち、リスヴェグで魔術士としての"
-> CONTEXT: Scripts/★図鑑用詳細データ/761:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/761:12
 "Having magical talents, after mage training"
 > END STRING
 
 > BEGIN STRING
 "修行を積んだ後、エルヴィンと共に"
-> CONTEXT: Scripts/★図鑑用詳細データ/762:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/762:12
 "in Lisveg, she accompanied Elvin and Lars"
 > END STRING
 
 > BEGIN STRING
 "ラルスの魔王退治の旅に同行していた。"
-> CONTEXT: Scripts/★図鑑用詳細データ/763:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/763:12
 "on the journey to defeat the Demon Lord."
 > END STRING
 
 > BEGIN STRING
 "魔王城でエストに襲われ、夢魔になってしまう。"
-> CONTEXT: Scripts/★図鑑用詳細データ/764:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/764:12
 "Attacked by Est, she became a succubus."
 > END STRING
 
 > BEGIN STRING
 "夜の国から来た夢魔の一人。バジリスク。"
-> CONTEXT: Scripts/★図鑑用詳細データ/767:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/767:12
 "A succubus from the Land of Night. Basilisk."
 > END STRING
 
 > BEGIN STRING
 "ペトラアイズで睨まれた獲物は"
-> CONTEXT: Scripts/★図鑑用詳細データ/768:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/768:12
 "When faced with Petra Eyes,"
 > END STRING
 
 > BEGIN STRING
 "体が石のように硬くなり、"
-> CONTEXT: Scripts/★図鑑用詳細データ/769:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/769:12
 "the victim's body becomes hard as stone,"
 > END STRING
 
 > BEGIN STRING
 "抵抗できないまま犯されてしまう。"
-> CONTEXT: Scripts/★図鑑用詳細データ/770:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/770:12
 "and they are violated while unable to resist."
 > END STRING
 
 > BEGIN STRING
 "しかし相棒のメローナに"
-> CONTEXT: Scripts/★図鑑用詳細データ/771:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/771:12
 "However, seems to often get in the way of"
 > END STRING
 
 > BEGIN STRING
 "邪魔されることも多いらしい。"
-> CONTEXT: Scripts/★図鑑用詳細データ/772:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/772:12
 "her partner, Merona."
 > END STRING
 
 > BEGIN STRING
 "夜の国から来た夢魔の一人。サラマンダー。"
-> CONTEXT: Scripts/★図鑑用詳細データ/775:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/775:12
 "A succubus from the Land of Night. Salamander."
 > END STRING
 
 > BEGIN STRING
 "メルティキッスを受けた獲物は"
-> CONTEXT: Scripts/★図鑑用詳細データ/776:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/776:12
 "When she uses Melty Kiss,"
 > END STRING
 
 > BEGIN STRING
 "心も体もとろけてしまい、"
-> CONTEXT: Scripts/★図鑑用詳細データ/777:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/777:12
 "the victim's mind and body melt,"
 > END STRING
 
 > BEGIN STRING
 "抵抗する意思すら失ってしまう。"
-> CONTEXT: Scripts/★図鑑用詳細データ/778:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/778:12
 "and they lose all will to resist."
 > END STRING
 
 > BEGIN STRING
 "ストゥーナとは仲良しでいつも一緒にいるが、"
-> CONTEXT: Scripts/★図鑑用詳細データ/779:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/779:12
 "Good friends with Stona, always together,"
 > END STRING
 
 > BEGIN STRING
 "獲物の食べ方に関しては"
-> CONTEXT: Scripts/★図鑑用詳細データ/780:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/780:12
 "but when it comes to prey,"
 > END STRING
 
 > BEGIN STRING
 "いまいち趣味が合わないようだ。"
-> CONTEXT: Scripts/★図鑑用詳細データ/781:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/781:12
 "they don't seem to share the same tastes."
 > END STRING
 
@@ -25275,517 +25275,517 @@
 
 > BEGIN STRING
 "グルッペン王国、フリーベリ出身の女戦士。"
-> CONTEXT: Scripts/★図鑑用詳細データ/785:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/785:12
 "A female warrior from Friberg in the Kingdom of Gruppen."
 > END STRING
 
 > BEGIN STRING
 "ドゥヂチの塔を警備中に夢魔に襲われ"
-> CONTEXT: Scripts/★図鑑用詳細データ/786:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/786:12
 "Attacked by a succubus while guarding Dodichi Tower,"
 > END STRING
 
 > BEGIN STRING
 "心に壁を持ち、他人を寄せ付けない性格は"
-> CONTEXT: Scripts/★図鑑用詳細データ/788:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/788:12
 "her personality of keeping others a distance"
 > END STRING
 
 > BEGIN STRING
 "夢魔になっても変わっていない。"
-> CONTEXT: Scripts/★図鑑用詳細データ/789:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/789:12
 "has not changed from becoming a succubus."
 > END STRING
 
 > BEGIN STRING
 "彼女を悦ばせるには、まずその心の壁を"
-> CONTEXT: Scripts/★図鑑用詳細データ/790:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/790:12
 "To please her, one must first break"
 > END STRING
 
 > BEGIN STRING
 "崩す必要があるだろう。"
-> CONTEXT: Scripts/★図鑑用詳細データ/791:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/791:12
 "the walls around her heart."
 > END STRING
 
 > BEGIN STRING
 "ハーピー三姉妹の長女。"
-> CONTEXT: Scripts/★図鑑用詳細データ/794:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/794:12
 "The eldest of the three Harpy sisters."
 > END STRING
 
 > BEGIN STRING
 "元々魔王の配下として勇者と戦っていたが"
-> CONTEXT: Scripts/★図鑑用詳細データ/795:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/795:12
 "Originally the Demon Lord's subordinate,"
 > END STRING
 
 > BEGIN STRING
 "力では勝てないと悟り、"
-> CONTEXT: Scripts/★図鑑用詳細データ/796:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/796:12
 "fighting against the hero, but couldn't win"
 > END STRING
 
 > BEGIN STRING
 "妹二人と共に夢魔に身をゆだねた。"
-> CONTEXT: Scripts/★図鑑用詳細データ/797:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/797:12
 "and thus succumbed to succubi powers with her 2 sisters."
 > END STRING
 
 > BEGIN STRING
 "どこか抜けてる妹たちをまとめあげ、"
-> CONTEXT: Scripts/★図鑑用詳細データ/798:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/798:12
 "Brings her absent-minded sisters, challenging the hero,"
 > END STRING
 
 > BEGIN STRING
 "いつか勝てる日を夢見て勇者に戦いを挑む。"
-> CONTEXT: Scripts/★図鑑用詳細データ/799:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/799:12
 "dreaming of the day she will be victorious."
 > END STRING
 
 > BEGIN STRING
 "ハーピー三姉妹の次女。"
-> CONTEXT: Scripts/★図鑑用詳細データ/802:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/802:12
 "The second of the three Harpy sisters."
 > END STRING
 
 > BEGIN STRING
 "三人の中では最も魔力が高く"
-> CONTEXT: Scripts/★図鑑用詳細データ/803:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/803:12
 "Most magically talented of the three,"
 > END STRING
 
 > BEGIN STRING
 "知能派を気取ってはいるが、"
-> CONTEXT: Scripts/★図鑑用詳細データ/804:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/804:12
 "pretending to be the most intelligent,"
 > END STRING
 
 > BEGIN STRING
 "ちょっと難しい魔法を唱えようとすると"
-> CONTEXT: Scripts/★図鑑用詳細データ/805:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/805:12
 "but when attempting a more difficult spell,"
 > END STRING
 
 > BEGIN STRING
 "すぐに失敗する。"
-> CONTEXT: Scripts/★図鑑用詳細データ/806:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/806:12
 "she immediately fails."
 > END STRING
 
 > BEGIN STRING
 "よく妹のアホっぷりを嘆いているが、"
-> CONTEXT: Scripts/★図鑑用詳細データ/807:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/807:12
 "Often complains about her sister's stupidity,"
 > END STRING
 
 > BEGIN STRING
 "実は自分もあまり大差ない。"
-> CONTEXT: Scripts/★図鑑用詳細データ/808:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/808:12
 "but frankly isn't much different."
 > END STRING
 
 > BEGIN STRING
 "ハーピー三姉妹の三女。"
-> CONTEXT: Scripts/★図鑑用詳細データ/811:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/811:12
 "The third of the three Harpy sisters."
 > END STRING
 
 > BEGIN STRING
 "いつもマイペースののんびり屋。"
-> CONTEXT: Scripts/★図鑑用詳細データ/812:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/812:12
 "Always laid back and does things at her own pace."
 > END STRING
 
 > BEGIN STRING
 "三人の中で一番抜けているが、"
-> CONTEXT: Scripts/★図鑑用詳細データ/813:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/813:12
 "Although the most absent-minded of the three,"
 > END STRING
 
 > BEGIN STRING
 "熱くなりがちな二人の姉に"
-> CONTEXT: Scripts/★図鑑用詳細データ/814:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/814:12
 "she sometimes lets her two sisters know"
 > END STRING
 
 > BEGIN STRING
 "突っ込みを入れることも。"
-> CONTEXT: Scripts/★図鑑用詳細データ/815:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/815:12
 "when they get too hot-headed."
 > END STRING
 
 > BEGIN STRING
 "彼女たちの名前は途中で区切って"
-> CONTEXT: Scripts/★図鑑用詳細データ/816:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/816:12
 "Their names are pronounced with a break in the middle,"
 > END STRING
 
 > BEGIN STRING
 "発音すること自体が名前の一部であって、"
-> CONTEXT: Scripts/★図鑑用詳細データ/817:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/817:12
 "which is a part of the name,"
 > END STRING
 
 > BEGIN STRING
 "ファミリーネームという概念はない。"
-> CONTEXT: Scripts/★図鑑用詳細データ/818:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/818:12
 "but they don't have the concept of a family name."
 > END STRING
 
 > BEGIN STRING
 "フレデリカ・ローランド"
-> CONTEXT: Scripts/★図鑑用詳細データ/821:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/821:12
 "Frederica Roland"
 > END STRING
 
 > BEGIN STRING
 "王国の西の小さな村、ココスコーク出身。"
-> CONTEXT: Scripts/★図鑑用詳細データ/822:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/822:12
 "From Cocoskoek, a small village in the west of the kingdom."
 > END STRING
 
 > BEGIN STRING
 "旅の吟遊詩人ローズニルと恋に落ち、"
-> CONTEXT: Scripts/★図鑑用詳細データ/823:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/823:12
 "Fell in love with the traveling bard Rosenil,"
 > END STRING
 
 > BEGIN STRING
 "二人で諸国を旅して回っていた。"
-> CONTEXT: Scripts/★図鑑用詳細データ/824:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/824:12
 "and they traveled the world together."
 > END STRING
 
 > BEGIN STRING
 "フリーベリ近郊の浜辺で夢魔に襲われ、"
-> CONTEXT: Scripts/★図鑑用詳細データ/825:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/825:12
 "Attacked by a succubus on the beach near Friberg,"
 > END STRING
 
 > BEGIN STRING
 "自身も人魚の姿の夢魔となってしまう。"
-> CONTEXT: Scripts/★図鑑用詳細データ/826:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/826:12
 "and turned into mermaid type succubus."
 > END STRING
 
 > BEGIN STRING
 "美しい歌の歌い手。"
-> CONTEXT: Scripts/★図鑑用詳細データ/827:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/827:12
 "A lovely singer."
 > END STRING
 
 > BEGIN STRING
 "クリスティン・バーンズ"
-> CONTEXT: Scripts/★図鑑用詳細データ/830:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/830:12
 "Christine Burns"
 > END STRING
 
 > BEGIN STRING
 "リスヴェグ共和国、魔都ホロス出身。"
-> CONTEXT: Scripts/★図鑑用詳細データ/831:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/831:12
 "From Magic City Holos, in the republic of Lisveg."
 > END STRING
 
 > BEGIN STRING
 "魔導士ハグロフスの一人娘。エルフ。"
-> CONTEXT: Scripts/★図鑑用詳細データ/832:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/832:12
 "The only daughter of the mage Haglofs. An elf."
 > END STRING
 
 > BEGIN STRING
 "病弱なこともあり過保護に育てられたが、"
-> CONTEXT: Scripts/★図鑑用詳細データ/833:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/833:12
 "Due to being sickly, she hed overprotective upbringing,"
 > END STRING
 
 > BEGIN STRING
 "最近では自分を過度に子供扱いする父を"
-> CONTEXT: Scripts/★図鑑用詳細データ/834:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/834:12
 "but recently begun to feel annoyed at her father"
 > END STRING
 
 > BEGIN STRING
 "少し疎ましくも思っている。"
-> CONTEXT: Scripts/★図鑑用詳細データ/835:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/835:12
 "for treating her overly childish."
 > END STRING
 
 > BEGIN STRING
 "魔導人形型式CR-18X"
-> CONTEXT: Scripts/★図鑑用詳細データ/838:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/838:12
 "Magic Doll Model CR-18X"
 > END STRING
 
 > BEGIN STRING
 "リスヴェグ魔導院が開発した"
-> CONTEXT: Scripts/★図鑑用詳細データ/839:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/839:12
 "A magically powered automaton"
 > END STRING
 
 > BEGIN STRING
 "魔力で動く自動人形。"
-> CONTEXT: Scripts/★図鑑用詳細データ/840:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/840:12
 "developed by the Lisveg Magic Academy."
 > END STRING
 
 > BEGIN STRING
 "元々家事から夜伽までこなす万能型だが、"
-> CONTEXT: Scripts/★図鑑用詳細データ/841:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/841:12
 "Originally made for both housework and companionship,"
 > END STRING
 
 > BEGIN STRING
 "夢魔の魔力を注がれたことで"
-> CONTEXT: Scripts/★図鑑用詳細データ/842:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/842:12
 "the latter was greatly enhanced"
 > END STRING
 
 > BEGIN STRING
 "特に後者の機能が大幅に強化されている。"
-> CONTEXT: Scripts/★図鑑用詳細データ/843:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/843:12
 "by the succubus power infused into her."
 > END STRING
 
 > BEGIN STRING
 "実はグスタフスの私物であるとの"
-> CONTEXT: Scripts/★図鑑用詳細データ/844:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/844:12
 "Rumoured to be Gustavus's personal property,"
 > END STRING
 
 > BEGIN STRING
 "噂もあるが、真相は定かでない。"
-> CONTEXT: Scripts/★図鑑用詳細データ/845:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/845:12
 "but it is unclear whether this is true."
 > END STRING
 
 > BEGIN STRING
 "アストリット・ベルナドット"
-> CONTEXT: Scripts/★図鑑用詳細データ/848:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/848:12
 "Astrid Bernadotte"
 > END STRING
 
 > BEGIN STRING
 "ルグブロード南の大迷路に住む魔女。"
-> CONTEXT: Scripts/★図鑑用詳細データ/849:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/849:12
 "A witch who lives in the Great Maze south of Rugbrod."
 > END STRING
 
 > BEGIN STRING
 "年齢不詳。"
-> CONTEXT: Scripts/★図鑑用詳細データ/850:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/850:12
 "Age unknown."
 > END STRING
 
 > BEGIN STRING
 "夢魔ではないが、迷路に迷い込んだ男から"
-> CONTEXT: Scripts/★図鑑用詳細データ/851:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/851:12
 "Although not a succubus, she maintain youth an beauty"
 > END STRING
 
 > BEGIN STRING
 "精を奪って若さと美貌を保っている。"
-> CONTEXT: Scripts/★図鑑用詳細データ/852:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/852:12
 "by taking semen of men lost in her maze."
 > END STRING
 
 > BEGIN STRING
 "高い魔力をロクなことに使わないのは"
-> CONTEXT: Scripts/★図鑑用詳細データ/853:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/853:12
 "It seems common among Lisveg's mages"
 > END STRING
 
 > BEGIN STRING
 "リスヴェグの魔術士に共通した性質らしい。"
-> CONTEXT: Scripts/★図鑑用詳細データ/854:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/854:12
 "to misuse their high magical powers."
 > END STRING
 
 > BEGIN STRING
 "英語で「夢魔」の意。"
-> CONTEXT: Scripts/★図鑑用詳細データ/857:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/857:12
 "Japanese word 'muma' means both nightmare and succubus."
 > END STRING
 
 > BEGIN STRING
 "悪魔を表す言葉である古英語“mare”や"
-> CONTEXT: Scripts/★図鑑用詳細データ/858:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/858:12
 "Considered a demon of the night originating from"
 > END STRING
 
 > BEGIN STRING
 "古代北欧語“mara”から生まれた"
-> CONTEXT: Scripts/★図鑑用詳細データ/859:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/859:12
 "the old English word 'mare' or Norse word 'mara',"
 > END STRING
 
 > BEGIN STRING
 "夜の魔物と考えられる。"
-> CONTEXT: Scripts/★図鑑用詳細データ/860:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/860:12
 "both of which are words for demon."
 > END STRING
 
 > BEGIN STRING
 "人に悪夢を見せる。"
-> CONTEXT: Scripts/★図鑑用詳細データ/861:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/861:12
 "Gives people nightmares."
 > END STRING
 
 > BEGIN STRING
 "サキュバス、インキュバスと"
-> CONTEXT: Scripts/★図鑑用詳細データ/862:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/862:12
 "Sometimes equated"
 > END STRING
 
 > BEGIN STRING
 "同一視されることもある。"
-> CONTEXT: Scripts/★図鑑用詳細データ/863:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/863:12
 "with succubi and incubi."
 > END STRING
 
 > BEGIN STRING
 "エスト・モルン"
-> CONTEXT: Scripts/★図鑑用詳細データ/866:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/866:12
 "Est Morn"
 > END STRING
 
 > BEGIN STRING
 "最も強大な魔力を持つ夢魔の一人。"
-> CONTEXT: Scripts/★図鑑用詳細データ/867:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/867:12
 "One of the strongest succubi in terms of magic."
 > END STRING
 
 > BEGIN STRING
 "エルダーサキュバスという種族に属する。"
-> CONTEXT: Scripts/★図鑑用詳細データ/868:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/868:12
 "Belongs to the race known as Elder Succubi."
 > END STRING
 
 > BEGIN STRING
 "夢魔に組織というものは存在しないが、"
-> CONTEXT: Scripts/★図鑑用詳細データ/869:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/869:12
 "Succubi are not organized,"
 > END STRING
 
 > BEGIN STRING
 "目的が一致した夢魔の間では"
-> CONTEXT: Scripts/★図鑑用詳細データ/870:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/870:12
 "but among those who share a common goal,"
 > END STRING
 
 > BEGIN STRING
 "自然と彼女のような能力の高い者が"
-> CONTEXT: Scripts/★図鑑用詳細データ/871:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/871:12
 "strong individuals like her"
 > END STRING
 
 > BEGIN STRING
 "リーダー的存在となる。"
-> CONTEXT: Scripts/★図鑑用詳細データ/872:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/872:12
 "naturally take the role of a leader."
 > END STRING
 
 > BEGIN STRING
 "ラルスたちの住む世界を夜の国の一部に"
-> CONTEXT: Scripts/★図鑑用詳細データ/873:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/873:12
 "Tries to make the world Lars and others live in"
 > END STRING
 
 > BEGIN STRING
 "しようとしている。"
-> CONTEXT: Scripts/★図鑑用詳細データ/874:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/874:12
 "part of the Land of Night."
 > END STRING
 
 > BEGIN STRING
 "ステラ・モルン"
-> CONTEXT: Scripts/★図鑑用詳細データ/877:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/877:12
 "Stella Morn"
 > END STRING
 
 > BEGIN STRING
 "エルダーサキュバスの一人。"
-> CONTEXT: Scripts/★図鑑用詳細データ/878:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/878:12
 "One of the Elder Succubi."
 > END STRING
 
 > BEGIN STRING
 "エストとは同じ男性の精液から生まれた姉妹。"
-> CONTEXT: Scripts/★図鑑用詳細データ/879:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/879:12
 "Born from the same sperm as her sister Est."
 > END STRING
 
 > BEGIN STRING
 "ステラは妹にあたり、姉とは仲がいい。"
-> CONTEXT: Scripts/★図鑑用詳細データ/880:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/880:12
 "Stella is the little sister, and they get along well."
 > END STRING
 
 > BEGIN STRING
 "幼い容姿とは裏腹に、非常に高い魔力と"
-> CONTEXT: Scripts/★図鑑用詳細データ/881:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/881:12
 "Despite her young appearance, she has"
 > END STRING
 
 > BEGIN STRING
 "夢魔としての能力を持つ。"
-> CONTEXT: Scripts/★図鑑用詳細データ/882:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/882:12
 "very high magic power and succubus abilities."
 > END STRING
 
 > BEGIN STRING
 "外見に騙され油断してかかった男は"
-> CONTEXT: Scripts/★図鑑用詳細データ/883:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/883:12
 "Those fooled by her appearance and aren't careful"
 > END STRING
 
 > BEGIN STRING
 "文字通りオモチャに変えられ、"
-> CONTEXT: Scripts/★図鑑用詳細データ/884:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/884:12
 "get turned into literal toys,"
 > END STRING
 
 > BEGIN STRING
 "一生弄ばれ続けることになる。"
-> CONTEXT: Scripts/★図鑑用詳細データ/885:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/885:12
 "and will be toyed with for the rest of their lives."
 > END STRING
 
 > BEGIN STRING
 "愛の宿、ミランダの高級娼婦。"
-> CONTEXT: Scripts/★図鑑用詳細データ/888:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/888:12
 "Luxury prostitute at Miranda, the Inn of Love."
 > END STRING
 
 > BEGIN STRING
 "本名、年齢、出身不詳。"
-> CONTEXT: Scripts/★図鑑用詳細データ/889:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/889:12
 "Real name, age, and origin unknown."
 > END STRING
 
 > BEGIN STRING
 "キアズマから来たと本人は言っている。"
-> CONTEXT: Scripts/★図鑑用詳細データ/890:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/890:12
 "Says to be from Kiasma."
 > END STRING
 
 > BEGIN STRING
 "あどけない容姿や話し方と"
-> CONTEXT: Scripts/★図鑑用詳細データ/891:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/891:12
 "Has an innocent appearance,"
 > END STRING
 
 > BEGIN STRING
 "高い技巧を併せ持ち、一部の客に"
-> CONTEXT: Scripts/★図鑑用詳細データ/892:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/892:12
 "and her way of speaking and high skill"
 > END STRING
 
 > BEGIN STRING
 "非常に人気が高い。"
-> CONTEXT: Scripts/★図鑑用詳細データ/893:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/893:12
 "makes her very popular with customers."
 > END STRING
 
@@ -25797,31 +25797,31 @@
 
 > BEGIN STRING
 "ヴィドヴィン以北の天候を司る精霊。"
-> CONTEXT: Scripts/★図鑑用詳細データ/897:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/897:12
 "The spirit that controls the weather north of Vidvin."
 > END STRING
 
 > BEGIN STRING
 "本来は寒さを通じて精神と生命をより強く"
-> CONTEXT: Scripts/★図鑑用詳細データ/898:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/898:12
 "Originally her spirit and life grew stronger from cold,"
 > END STRING
 
 > BEGIN STRING
 "成長させる存在だったが、"
-> CONTEXT: Scripts/★図鑑用詳細データ/899:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/899:12
 "but to resist the deadly cold from the Demon Lord,"
 > END STRING
 
 > BEGIN STRING
 "魔王の力がもたらした死の寒さに抗うため"
-> CONTEXT: Scripts/★図鑑用詳細データ/900:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/900:12
 "she surrendered herself"
 > END STRING
 
 > BEGIN STRING
 "自ら夢魔に身をゆだねた。"
-> CONTEXT: Scripts/★図鑑用詳細データ/901:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/901:12
 "to the status of a succubus."
 > END STRING
 
@@ -25833,25 +25833,25 @@
 
 > BEGIN STRING
 "魔王のかけらの一つ、使い魔のかけら"
-> CONTEXT: Scripts/★図鑑用詳細データ/904:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/904:12
 "One of the fragments of the Demon Lord,"
 > END STRING
 
 > BEGIN STRING
 "「ルヴィッサ」が具現化した姿。"
-> CONTEXT: Scripts/★図鑑用詳細データ/905:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/905:12
 "Embodiment of the 'familiar' fragment, Rovissa."
 > END STRING
 
 > BEGIN STRING
 "全てのかけらの力が解放され、"
-> CONTEXT: Scripts/★図鑑用詳細データ/906:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/906:12
 "With the power of the fragments released,"
 > END STRING
 
 > BEGIN STRING
 "夢魔を深く憎む魔王の意思が色濃く表れた。"
-> CONTEXT: Scripts/★図鑑用詳細データ/907:12 < UNTRANSLATED
+> CONTEXT: Scripts/★図鑑用詳細データ/907:12
 "the Demon Lord's hatred towards succubi is evident."
 > END STRING
 
