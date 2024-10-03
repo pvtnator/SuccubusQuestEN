@@ -91,7 +91,7 @@
 > CONTEXT: Map034/events/1/pages/0/108/Dialogue
 > CONTEXT: Map034/events/11/pages/0/99/Dialogue
 「Let's go!
-　Liz-Raz! Rocco-Barocco!
+　Riz-Raz! Rocco-Barocco!
 > END STRING
 
 > BEGIN STRING

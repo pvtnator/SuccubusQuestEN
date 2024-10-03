@@ -58,7 +58,7 @@
 　リズ・ラズ！　ロッコ・バロッコ！
 > CONTEXT: Map031/events/3/pages/0/49/Dialogue
 「Let's go!
-　Liz-Raz! Rocco-Barocco!
+　Riz-Raz! Rocco-Barocco!
 > END STRING
 
 > BEGIN STRING

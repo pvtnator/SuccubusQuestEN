@@ -1939,7 +1939,7 @@ took off \\n[27]'s clothes off!
 「リズ・ラズ！ ロッコ・バロッコ！
 　準備はいい！？
 > CONTEXT: Commonevents/140/22/Dialogue
-「Liz-Raz! Rocco-Barocco! 
+「Riz-Raz! Rocco-Barocco! 
 　Ready!?
 > END STRING
 
@@ -2034,7 +2034,7 @@ took off \\n[27]'s clothes off!
 「リズ・ラズ！ ロッコ・バロッコ！
 　今度こそいくわよ！？
 > CONTEXT: Commonevents/141/22/Dialogue
-「Liz-Raz! Rocco-Barocco!
+「Riz-Raz! Rocco-Barocco!
 　Let's get it this time!?
 > END STRING
 
@@ -2070,7 +2070,7 @@ took off \\n[27]'s clothes off!
 　あと一息よっ！
 > CONTEXT: Commonevents/141/46/Dialogue
 > CONTEXT: Commonevents/142/69/Dialogue
-「Liz-Raz! Rocco-Barocco!
+「Riz-Raz! Rocco-Barocco!
 　Just a little more!
 > END STRING
 
@@ -2089,7 +2089,7 @@ took off \\n[27]'s clothes off!
 「リズ・ラズ！ ロッコ・バロッコ！
 　一気にいくわよっ！
 > CONTEXT: Commonevents/142/22/Dialogue
-「Liz-Raz! Rocco-Barocco! 
+「Riz-Raz! Rocco-Barocco! 
 　Let's go!
 > END STRING
 
@@ -2097,7 +2097,7 @@ took off \\n[27]'s clothes off!
 「リズ・ラズ！
 　一気にいくわよっ！
 > CONTEXT: Commonevents/142/28/Dialogue
-「Liz-Raz!
+「Riz-Raz!
 　Let's go!
 > END STRING
 
@@ -2123,7 +2123,7 @@ took off \\n[27]'s clothes off!
 「リズ・ラズ！
 　あと一息よっ！
 > CONTEXT: Commonevents/142/95/Dialogue
-「Liz-Raz!
+「Riz-Raz!
 　Just a little more!
 > END STRING
 
@@ -5471,7 +5471,7 @@ Summon the Harpy Sisters
 「\\c[7]リズ・ラズ\\c[0]は姉妹としか
 　一緒に呼べないがどうする？
 > CONTEXT: Commonevents/251/132/Dialogue
-「\\c[7]Liz-Raz\\c[0] can be called with sisters, 
+「\\c[7]Riz-Raz\\c[0] can be called with sisters, 
 　so what do you think?
 > END STRING
 
@@ -5479,7 +5479,7 @@ Summon the Harpy Sisters
 リズ・ラズだけ呼ぶ
 > CONTEXT: Commonevents/251/135/Choice/0
 > CONTEXT: Commonevents/251/135/Choice/0
-Call only Liz-Raz.
+Call only Riz-Raz.
 > END STRING
 
 > BEGIN STRING

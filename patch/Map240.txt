@@ -51,7 +51,7 @@
 > BEGIN STRING
 （……でもね、リズ・ラズ。
 > CONTEXT: Map240/events/5/pages/0/33/Dialogue
-(...But, Liz-Raz.
+(...But, Riz-Raz.
 > END STRING
 
 > BEGIN STRING

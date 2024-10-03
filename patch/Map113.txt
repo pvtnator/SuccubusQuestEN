@@ -139,7 +139,7 @@
 「いくわよ！　リズ・ラズ！
 　ロッコ・バロッコ！
 > CONTEXT: Map113/events/16/pages/0/178/Dialogue
-「Let's go! Liz-Raz! Rocco-Barocco!
+「Let's go! Riz-Raz! Rocco-Barocco!
 > END STRING
 
 > BEGIN STRING

@@ -3104,7 +3104,7 @@ Esplana has reached climax!\\a[\\v[105]]
 > BEGIN STRING
 "リズ･ラズ"
 > CONTEXT: Troops/326/pages/2/6/InlineScript/1:4
-"Liz-Raz"
+"Riz-Raz"
 > END STRING
 
 > BEGIN STRING
@@ -3140,7 +3140,7 @@ Esplana has reached climax!\\a[\\v[105]]
 > BEGIN STRING
 リズ・ラズは絶頂に達した！\\a[\\v[105]]
 > CONTEXT: Troops/326/pages/3/3/Dialogue
-Liz-Raz has reached climax!\\a[\\v[105]]
+Riz-Raz has reached climax!\\a[\\v[105]]
 > END STRING
 
 > BEGIN STRING

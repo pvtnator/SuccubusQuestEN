@@ -90,7 +90,7 @@ into the crater?
 　まずはその邪魔な炎を
 　吹き飛ばしておしまい！
 > CONTEXT: Map243/events/1/pages/0/222/Dialogue
-「Liz-Raz!
+「Riz-Raz!
 　First let's blow away that annoying flame!
 > END STRING
 
