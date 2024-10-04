@@ -3239,22 +3239,22 @@
 
 > BEGIN STRING
 "グルッペンに伝わる聖剣。\\n"
-> CONTEXT: Scripts/RPG::Weapon(detail)/12:15 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Armor(detail)/13:15 < UNTRANSLATED
-"A holy sword passed down through the Gruppen clan.\n"
+> CONTEXT: Scripts/RPG::Weapon(detail)/12:15
+> CONTEXT: Scripts/RPG::Armor(detail)/13:15
+"A holy sword passed down through the Gruppen clan.\\n"
 > END STRING
 
 > BEGIN STRING
 "魔王討伐に際し賢王から勇者に託された。\\n"
-> CONTEXT: Scripts/RPG::Weapon(detail)/13:15 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Armor(detail)/14:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/13:15
+> CONTEXT: Scripts/RPG::Armor(detail)/14:15
 "The Wise King entrusted it to the hero for defeating the Demon Lord.\\n"
 > END STRING
 
 > BEGIN STRING
 "聖なる力で全ての魔を切り裂くとされる。"
-> CONTEXT: Scripts/RPG::Weapon(detail)/14:15 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Armor(detail)/15:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/14:15
+> CONTEXT: Scripts/RPG::Armor(detail)/15:15
 "It is said to cut through all evil with its holy power."
 > END STRING
 
@@ -3266,19 +3266,19 @@
 
 > BEGIN STRING
 "黒く輝く長大な槍。\\n"
-> CONTEXT: Scripts/RPG::Weapon(detail)/16:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/16:15
 "A long, shiny black spear.\\n"
 > END STRING
 
 > BEGIN STRING
 "通常のランスの2倍の重量、3倍の強度を誇る。\\n"
-> CONTEXT: Scripts/RPG::Weapon(detail)/17:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/17:15
 "It is twice as heavy as a normal lance and 3 times stronger.\\n"
 > END STRING
 
 > BEGIN STRING
 "スヴ鉱山で発掘される特殊な鉱石から精製された。"
-> CONTEXT: Scripts/RPG::Weapon(detail)/18:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/18:15
 "Refined from special ores excavated in the Suvu Mines."
 > END STRING
 
@@ -3290,19 +3290,19 @@
 
 > BEGIN STRING
 "ユダリルの森で、もっとも強く月の光に\\n"
-> CONTEXT: Scripts/RPG::Weapon(detail)/20:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/20:15
 "A wand made from the oak tree\\n"
 > END STRING
 
 > BEGIN STRING
 "照らされていた樫から作られた杖。\\n"
-> CONTEXT: Scripts/RPG::Weapon(detail)/21:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/21:15
 "that was strongly lit by moonlight in the Yudalir Forest.\\n"
 > END STRING
 
 > BEGIN STRING
 "月の魔力が持つ者に神秘的な力を与える。"
-> CONTEXT: Scripts/RPG::Weapon(detail)/22:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/22:15
 "Bestows mystical powers of the moon on those who possess it."
 > END STRING
 
@@ -3315,19 +3315,19 @@
 
 > BEGIN STRING
 "●野鳥の羽飾り + ●リーヴスヴェスト\\n"
-> CONTEXT: Scripts/RPG::Weapon(detail)/24:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/24:15
 "●Bird Feathers + ●Leavesvest\\n"
 > END STRING
 
 > BEGIN STRING
 "古くからグルッペン森林地方で親しまれているスタイル。\\n"
-> CONTEXT: Scripts/RPG::Weapon(detail)/25:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/25:15
 "Classic, popular style in the Gruppen forest region.\\n"
 > END STRING
 
 > BEGIN STRING
 "エキゾチックな風合いは王都の若者にも人気が高い。"
-> CONTEXT: Scripts/RPG::Weapon(detail)/26:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/26:15
 "Its exotic look is popular among the young in the Royal Capital."
 > END STRING
 
@@ -3340,19 +3340,19 @@
 
 > BEGIN STRING
 "●ストローハット + ●ペザントブラウス\\n"
-> CONTEXT: Scripts/RPG::Weapon(detail)/28:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/28:15
 "●Straw Hat + ●Peasant Blouse\\n"
 > END STRING
 
 > BEGIN STRING
 "応用魔術の発達により一度は姿を消した農夫風スタイルが\\n"
-> CONTEXT: Scripts/RPG::Weapon(detail)/29:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/29:15
 "The peasant style lost from the development of applied magic,\\n"
 > END STRING
 
 > BEGIN STRING
 "次第に洗練され、ファッションとして取り入れられた。"
-> CONTEXT: Scripts/RPG::Weapon(detail)/30:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/30:15
 "then became more refined and adopted as fashion."
 > END STRING
 
@@ -3365,19 +3365,19 @@
 
 > BEGIN STRING
 "●シルクシャツ + ●シルクガントレット\\n"
-> CONTEXT: Scripts/RPG::Weapon(detail)/32:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/32:15
 "●Silk Shirt + ●Silk Gauntlets\\n"
 > END STRING
 
 > BEGIN STRING
 "シルクのすべすべの素材感が\\n"
-> CONTEXT: Scripts/RPG::Weapon(detail)/33:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/33:15
 "The smooth texture of silk\\n"
 > END STRING
 
 > BEGIN STRING
 "見る者の気持ちまですべすべにするだろう。"
-> CONTEXT: Scripts/RPG::Weapon(detail)/34:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/34:15
 "makes the viewer's mind feel smooth as well."
 > END STRING
 
@@ -3390,19 +3390,19 @@
 
 > BEGIN STRING
 "●枝のかんむり + ●リーヴスヴェスト\\n"
-> CONTEXT: Scripts/RPG::Weapon(detail)/36:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/36:15
 "●Branch Crown + ●Leavesvest\\n"
 > END STRING
 
 > BEGIN STRING
 "森の緑を思わせる服に特殊なアイテムを合わせることで、\\n"
-> CONTEXT: Scripts/RPG::Weapon(detail)/37:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/37:15
 "Combines forest green looking clothes with special items,\\n"
 > END STRING
 
 > BEGIN STRING
 "森の哲人のような雰囲気を作り出した。"
-> CONTEXT: Scripts/RPG::Weapon(detail)/38:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/38:15
 "creating an impression of a forest sage."
 > END STRING
 
@@ -3415,19 +3415,19 @@
 
 > BEGIN STRING
 "●羽帽子 + ●ノーブルチュニック\\n"
-> CONTEXT: Scripts/RPG::Weapon(detail)/40:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/40:15
 "●Feather Hat + ●Noble Tunic\\n"
 > END STRING
 
 > BEGIN STRING
 "かつての貴族のスタイルを現代風にアレンジした、\\n"
-> CONTEXT: Scripts/RPG::Weapon(detail)/41:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/41:15
 "A modern take on the aristocratic style of the past,\\n"
 > END STRING
 
 > BEGIN STRING
 "グルッペンの若者の間で流行のスタイル。"
-> CONTEXT: Scripts/RPG::Weapon(detail)/42:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/42:15
 "this style is popular among the young of Gruppen."
 > END STRING
 
@@ -3440,19 +3440,19 @@
 
 > BEGIN STRING
 "●スカーレットフェザー + ●ヴィンテージチュニック + \\n"
-> CONTEXT: Scripts/RPG::Weapon(detail)/44:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/44:15
 "●Scarlet Feather + ●Vintage Tunic + \\n"
 > END STRING
 
 > BEGIN STRING
 "●クリムゾンバッヂ\\n"
-> CONTEXT: Scripts/RPG::Weapon(detail)/45:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/45:15
 "●Crimson Badge\\n"
 > END STRING
 
 > BEGIN STRING
 "かつてのグルッペン貴族を彷彿とさせる伝統のスタイル。"
-> CONTEXT: Scripts/RPG::Weapon(detail)/46:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/46:15
 "Traditional style reminiscent of the old Gruppen aristocracy."
 > END STRING
 
@@ -3465,25 +3465,25 @@
 
 > BEGIN STRING
 "\\\\r[静謐,せいひつ]なる心"
-> CONTEXT: Scripts/RPG::Weapon(detail)/48:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/48:15
 "Serene Heart"
 > END STRING
 
 > BEGIN STRING
 "●細波の衣 + ●清流の腕輪\\n"
-> CONTEXT: Scripts/RPG::Weapon(detail)/49:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/49:15
 "●Ripple Clothes + ●Clear Stream Bracelet\\n"
 > END STRING
 
 > BEGIN STRING
 "水をモチーフとしたアイテムの生み出すイメージが、\\n"
-> CONTEXT: Scripts/RPG::Weapon(detail)/50:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/50:15
 "The water motif of the items brings tranquility\\n"
 > END STRING
 
 > BEGIN STRING
 "現実の声すらかき消す静けさを心にもたらす。"
-> CONTEXT: Scripts/RPG::Weapon(detail)/51:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/51:15
 "that drowns out the voices of reality."
 > END STRING
 
@@ -3498,19 +3498,19 @@
 
 > BEGIN STRING
 "●セーラーキャップ + ●フリーベリボーダー\\n"
-> CONTEXT: Scripts/RPG::Weapon(detail)/53:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/53:15
 "●Sailor Cap + ●Friberg Border\\n"
 > END STRING
 
 > BEGIN STRING
 "フリーベリの船乗りの格好を真似たファッション。\\n"
-> CONTEXT: Scripts/RPG::Weapon(detail)/54:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/54:15
 "Fashion that imitates the sailor attire of Friberg.\\n"
 > END STRING
 
 > BEGIN STRING
 "比較的新しいスタイルのため、特に決まった型は無い。"
-> CONTEXT: Scripts/RPG::Weapon(detail)/55:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/55:15
 "Since this is a relatively new style, there is no set pattern."
 > END STRING
 
@@ -3523,19 +3523,19 @@
 
 > BEGIN STRING
 "●ジェットグラス + ●ハパピィシャツ\\n"
-> CONTEXT: Scripts/RPG::Weapon(detail)/57:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/57:15
 "●Jet Glasses + ●Hapapi Shirt\\n"
 > END STRING
 
 > BEGIN STRING
 "ポッパナの若者の間で流行のスタイル。\\n"
-> CONTEXT: Scripts/RPG::Weapon(detail)/58:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/58:15
 "A popular style among young people in Poppana.\\n"
 > END STRING
 
 > BEGIN STRING
 "強い日差しに極彩色が映える。"
-> CONTEXT: Scripts/RPG::Weapon(detail)/59:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/59:15
 "The vivid colors stand out in strong sunlight."
 > END STRING
 
@@ -3548,19 +3548,19 @@
 
 > BEGIN STRING
 "●ポッパナハット + ●ホワイトリネン\\n"
-> CONTEXT: Scripts/RPG::Weapon(detail)/61:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/61:15
 "●Poppana Hat + ●White Linen\\n"
 > END STRING
 
 > BEGIN STRING
 "太陽の下で映える白い素材でまとめたスタイル。\\n"
-> CONTEXT: Scripts/RPG::Weapon(detail)/62:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/62:15
 "White materials that stand out in the sunlight.\\n"
 > END STRING
 
 > BEGIN STRING
 "爽やかさとクラシックな雰囲気が同居する。"
-> CONTEXT: Scripts/RPG::Weapon(detail)/63:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/63:15
 "A refreshing yet classic feel."
 > END STRING
 
@@ -3573,43 +3573,43 @@
 
 > BEGIN STRING
 "●インディゴジャケット + ●銀のピアス\\n"
-> CONTEXT: Scripts/RPG::Weapon(detail)/65:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/65:15
 "●Indigo Jacket + ●Silver Earrings\\n"
 > END STRING
 
 > BEGIN STRING
 "東の王国キアズマから輸入された独特のスタイル。\\n"
-> CONTEXT: Scripts/RPG::Weapon(detail)/66:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/66:15
 "A unique style imported from the eastern kingdom of Kiasma.\\n"
 > END STRING
 
 > BEGIN STRING
 "特に新しもの好きなリスヴェグの人々に人気。"
-> CONTEXT: Scripts/RPG::Weapon(detail)/67:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/67:15
 "It's especially popular among the early adopters in Lisvegg."
 > END STRING
 
 > BEGIN STRING
 "花盛りの季節"
-> CONTEXT: Scripts/RPG::Weapon(detail)/68:12 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/68:12
 "Flowering Season"
 > END STRING
 
 > BEGIN STRING
 "●花のかんむり + ●新緑のシャツ\\n"
-> CONTEXT: Scripts/RPG::Weapon(detail)/69:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/69:15
 "●Flower Crown + ●Green Leaf Shirt\\n"
 > END STRING
 
 > BEGIN STRING
 "まるで花の精を思わせるような独特のファッション。\\n"
-> CONTEXT: Scripts/RPG::Weapon(detail)/70:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/70:15
 "A unique style that reminds of a flower fairy.\\n"
 > END STRING
 
 > BEGIN STRING
 "出るところに出れば変態扱いかも知れない。"
-> CONTEXT: Scripts/RPG::Weapon(detail)/71:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/71:15
 "If you go out in public, you might be treated like a pervert."
 > END STRING
 
@@ -3622,25 +3622,25 @@
 
 > BEGIN STRING
 "\\\\r[灰燼,かいじん]の賢者"
-> CONTEXT: Scripts/RPG::Weapon(detail)/73:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/73:15
 "Ash Sage"
 > END STRING
 
 > BEGIN STRING
 "●幻灰のローブ + ●もえさしの首飾り\\n"
-> CONTEXT: Scripts/RPG::Weapon(detail)/74:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/74:15
 "●Phantom Robe + ●Moesashi Necklace\\n"
 > END STRING
 
 > BEGIN STRING
 "リスヴェグの研究者に多く見られるスタイル。\\n"
-> CONTEXT: Scripts/RPG::Weapon(detail)/75:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/75:15
 "A style commonly seen among Lisveg's researchers.\\n"
 > END STRING
 
 > BEGIN STRING
 "見た目だけでなく実用性（？）も備える。"
-> CONTEXT: Scripts/RPG::Weapon(detail)/76:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/76:15
 "It's not just good looking, it's also practical (?)."
 > END STRING
 
@@ -3653,19 +3653,19 @@
 
 > BEGIN STRING
 "●プリズムサークレット + ●ルミナスチュニック + \\n"
-> CONTEXT: Scripts/RPG::Weapon(detail)/78:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/78:15
 "●Prism Circlet + ●Luminous Tunic + \\n"
 > END STRING
 
 > BEGIN STRING
 "●コンプレクススカーフ\\n"
-> CONTEXT: Scripts/RPG::Weapon(detail)/79:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/79:15
 "●Complex Scarf\\n"
 > END STRING
 
 > BEGIN STRING
 "様々な視覚効果を駆使したリスヴェグ最前線スタイル。"
-> CONTEXT: Scripts/RPG::Weapon(detail)/80:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/80:15
 "Lisveg's frontline style uses a variety of visual features."
 > END STRING
 
@@ -3678,19 +3678,19 @@
 
 > BEGIN STRING
 "●フェティッシュヴェスト + ●雄兎の前足\\n"
-> CONTEXT: Scripts/RPG::Weapon(detail)/82:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/82:15
 "●Fetish Vest + ●Rabbit Legs\\n"
 > END STRING
 
 > BEGIN STRING
 "素肌を強調する上衣と呪術的なアイテムの組み合わせで\\n"
-> CONTEXT: Scripts/RPG::Weapon(detail)/83:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/83:15
 "The combination of a showy top and magical items\\n"
 > END STRING
 
 > BEGIN STRING
 "妖しく蠱惑的な雰囲気を作り出した。"
-> CONTEXT: Scripts/RPG::Weapon(detail)/84:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/84:15
 "creates a mysterious and seductive look."
 > END STRING
 
@@ -3703,19 +3703,19 @@
 
 > BEGIN STRING
 "●ヴォヤージュキャップ + ●カセドラルポンチョ + \\n"
-> CONTEXT: Scripts/RPG::Weapon(detail)/86:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/86:15
 "●Voyage Cap + ●Cathedral Poncho + \\n"
 > END STRING
 
 > BEGIN STRING
 "●古びたロザリオ\\n"
-> CONTEXT: Scripts/RPG::Weapon(detail)/87:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/87:15
 "●Old Rosary\\n"
 > END STRING
 
 > BEGIN STRING
 "旅の宣教師をイメージした厳かにして活動的なスタイル。"
-> CONTEXT: Scripts/RPG::Weapon(detail)/88:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/88:15
 "A dignified and active style inspired by traveling missionaries."
 > END STRING
 
@@ -3728,19 +3728,19 @@
 
 > BEGIN STRING
 "●トリブヌスマスク + ●センチュリオンコート + \\n"
-> CONTEXT: Scripts/RPG::Weapon(detail)/90:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/90:15
 "●Tribunus Mask + ●Centurion Coat + \\n"
 > END STRING
 
 > BEGIN STRING
 "●レギオンシール\\n"
-> CONTEXT: Scripts/RPG::Weapon(detail)/91:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/91:15
 "●Legion Seal\\n"
 > END STRING
 
 > BEGIN STRING
 "千人を制した境地にある者にのみ許されるスタイル。"
-> CONTEXT: Scripts/RPG::Weapon(detail)/92:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/92:15
 "A style for one who has conquered 1000."
 > END STRING
 
@@ -3754,19 +3754,19 @@
 
 > BEGIN STRING
 "●ロマンスティアラ + ●カバリエブラウス\\n"
-> CONTEXT: Scripts/RPG::Weapon(detail)/94:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/94:15
 "●Romance Tiara + ●Cavalier Blouse\\n"
 > END STRING
 
 > BEGIN STRING
 "社交界における騎士のスタイルを真似たファッション。\\n"
-> CONTEXT: Scripts/RPG::Weapon(detail)/95:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/95:15
 "A fashion imitating the style of knights in high society.\\n"
 > END STRING
 
 > BEGIN STRING
 "屈強な身体と華美な装飾が互いに互いを引き立てる。"
-> CONTEXT: Scripts/RPG::Weapon(detail)/96:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/96:15
 "Strong body and gorgeous decorations complement each other."
 > END STRING
 
@@ -3780,19 +3780,19 @@
 
 > BEGIN STRING
 "●ドリームシュラウド + ●宵闇の飾り紐\\n"
-> CONTEXT: Scripts/RPG::Weapon(detail)/98:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/98:15
 "●Dream Shroud + ●Twilight Ornament\\n"
 > END STRING
 
 > BEGIN STRING
 "夜の国のアイテムを身に着けることで、\\n"
-> CONTEXT: Scripts/RPG::Weapon(detail)/99:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/99:15
 "By wearing items from the Land of Night,\\n"
 > END STRING
 
 > BEGIN STRING
 "夢魔に一歩近づくことができた。"
-> CONTEXT: Scripts/RPG::Weapon(detail)/100:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/100:15
 "one gets a step closer to being a succubus."
 > END STRING
 
@@ -3805,19 +3805,19 @@
 
 > BEGIN STRING
 "●セーブルブラウス + ○宝石×２ +\\n"
-> CONTEXT: Scripts/RPG::Weapon(detail)/102:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/102:15
 "●Sable Blouse + ○Jewelry x 2 +\\n"
 > END STRING
 
 > BEGIN STRING
 "宝石のアクセサリーが夜空に輝く星のように見える\\n"
-> CONTEXT: Scripts/RPG::Weapon(detail)/103:15 < UNTRANSLATED
-"Glittering, gorgeous style,\\"
+> CONTEXT: Scripts/RPG::Weapon(detail)/103:15
+"Glittering, gorgeous style,\\n"
 > END STRING
 
 > BEGIN STRING
 "きらびやかでゴージャスなスタイル。"
-> CONTEXT: Scripts/RPG::Weapon(detail)/104:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Weapon(detail)/104:15
 "with jeweled accessories like stars in the night sky."
 > END STRING
 
@@ -3902,7 +3902,7 @@
 
 > BEGIN STRING
 "\#{itemname}をほおばった！"
-> CONTEXT: Scripts/RPG::Item (message)/31:24 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Item (message)/31:24
 " munched on \#{itemname}!"
 > END STRING
 
@@ -3914,7 +3914,7 @@
 
 > BEGIN STRING
 "しかし意味がなかった！"
-> CONTEXT: Scripts/RPG::Item (message)/45:19 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Item (message)/45:19
 "But it was pointless!"
 > END STRING
 
@@ -4128,58 +4128,58 @@
 
 > BEGIN STRING
 "ブレイブクラウン"
-> CONTEXT: Scripts/RPG::Armor(detail)/16:12 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/16:12
 "Brave Crown"
 > END STRING
 
 > BEGIN STRING
 "『勇者』の証として賢王から与えられた冠。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/17:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/17:15
 "A crown given by the wise king as proof of being a hero.\\n"
 > END STRING
 
 > BEGIN STRING
 "グルッペンの彫金師が七日七晩休まず制作し、\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/18:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/18:15
 "Gruppen's engravers worked on it for 7 days and nights without rest,\\n"
 > END STRING
 
 > BEGIN STRING
 "ヴァーサの司祭により祝福された。"
-> CONTEXT: Scripts/RPG::Armor(detail)/19:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/19:15
 "and it was blessed by the priests of Vasa."
 > END STRING
 
 > BEGIN STRING
 "ディバインプレート"
-> CONTEXT: Scripts/RPG::Armor(detail)/20:12 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/20:12
 "Divine Plate"
 > END STRING
 
 > BEGIN STRING
 "魔王討伐に際し際賢王から与えられた重鎧。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/21:15 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Armor(detail)/25:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/21:15
+> CONTEXT: Scripts/RPG::Armor(detail)/25:15
 "Heavy armor given by the Wise King for defeating the Demon Lord.\\n"
 > END STRING
 
 > BEGIN STRING
 "素材には貴重なオリハルコンが使われ、\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/22:15 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Armor(detail)/26:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/22:15
+> CONTEXT: Scripts/RPG::Armor(detail)/26:15
 "The material used is precious Orichalcum.\\n"
 > END STRING
 
 > BEGIN STRING
 "グルッペン近衛騎士でも一握りしか着用が許されていない。"
-> CONTEXT: Scripts/RPG::Armor(detail)/23:15 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Armor(detail)/27:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/23:15
+> CONTEXT: Scripts/RPG::Armor(detail)/27:15
 "Only a handful of Gruppen Guard knights are allowed to wear it."
 > END STRING
 
 > BEGIN STRING
 "ホーリーシールド"
-> CONTEXT: Scripts/RPG::Armor(detail)/24:12 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/24:12
 "Holy Shield"
 > END STRING
 
@@ -4191,14 +4191,14 @@
 
 > BEGIN STRING
 "オリビアがラルスに贈った手作りの護符。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/29:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/29:15
 "A handmade amulet given to Lars by Olivia.\\n"
 > END STRING
 
 > BEGIN STRING
 "オリビアの淡い想いがこもっている。"
-> CONTEXT: Scripts/RPG::Armor(detail)/30:15 < UNTRANSLATED
-"Olivia's faint thoughts are contained within."
+> CONTEXT: Scripts/RPG::Armor(detail)/30:15
+"Olivia's thoughts are contained faintly within."
 > END STRING
 
 > BEGIN STRING
@@ -4210,19 +4210,19 @@
 
 > BEGIN STRING
 "小さな野鳥の羽をあしらった頭飾り。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/33:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/33:15
 "A headdress decorated with small wild bird feathers.\\n"
 > END STRING
 
 > BEGIN STRING
 "グルッペン森林地方に古くから伝わるアクセサリーで、\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/34:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/34:15
 "Passed down since ancient times in the Gruppen Forest region,\\n"
 > END STRING
 
 > BEGIN STRING
 "今でもシプリやレンシェットで人気がある。"
-> CONTEXT: Scripts/RPG::Armor(detail)/35:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/35:15
 "it's still popular in Sipuli and Renkott."
 > END STRING
 
@@ -4235,19 +4235,19 @@
 
 > BEGIN STRING
 "農作業に用いられていた藁で編まれた帽子。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/37:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/37:15
 "A straw hat used for farm work.\\n"
 > END STRING
 
 > BEGIN STRING
 "農業にリスヴェグの魔術が応用されはじめてからは、実用性より\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/38:15 < UNTRANSLATED
-"With Lisveg's magic applied to agriculture,\\n.
+> CONTEXT: Scripts/RPG::Armor(detail)/38:15
+"With Lisveg's magic applied to agriculture,\\n"
 > END STRING
 
 > BEGIN STRING
 "ファッション性を重視したデザインに変化した。"
-> CONTEXT: Scripts/RPG::Armor(detail)/39:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/39:15
 "the designs changed to emphasize fashion over practicality."
 > END STRING
 
@@ -4260,13 +4260,13 @@
 
 > BEGIN STRING
 "森の木の枝を組み合わせた冠。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/41:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/41:15
 "A crown made from the branches of forest trees.\\n"
 > END STRING
 
 > BEGIN STRING
 "森の魔力が身に付ける者の精神を落ち着かせる。"
-> CONTEXT: Scripts/RPG::Armor(detail)/42:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/42:15
 "The magical power of the forest soothes the spirit of the wearer."
 > END STRING
 
@@ -4279,19 +4279,19 @@
 
 > BEGIN STRING
 "クリスティンが自分で摘んだ花を\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/44:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/44:15
 "A headdress made by Christine\\n"
 > END STRING
 
 > BEGIN STRING
 "丁寧に編み合わせた頭飾り。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/45:15 < UNTRANSLATED
-"using carefully woven flowers she picked herself.\\n
+> CONTEXT: Scripts/RPG::Armor(detail)/45:15
+"using carefully woven flowers she picked herself.\\n"
 > END STRING
 
 > BEGIN STRING
 "魔法が施され、いつまでも枯れることがない。"
-> CONTEXT: Scripts/RPG::Armor(detail)/46:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/46:15
 "Enchanted, it will never wither."
 > END STRING
 
@@ -4304,19 +4304,19 @@
 
 > BEGIN STRING
 "幅広の帽子に鳥の羽をあしらったもの。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/48:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/48:15
 "A wide-brimmed hat decorated with bird feathers.\\n"
 > END STRING
 
 > BEGIN STRING
 "装飾性が高く、昔はグルッペンの貴族に好んで用いられていた。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/49:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/49:15
 "Highly decorative, once favored by the Gruppen nobility.\\n"
 > END STRING
 
 > BEGIN STRING
 "今では羽も帽子も小ぶりで、使いやすくなっている。"
-> CONTEXT: Scripts/RPG::Armor(detail)/50:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/50:15
 "The feathers and hats are now smaller and easier to use."
 > END STRING
 
@@ -4329,13 +4329,13 @@
 
 > BEGIN STRING
 "グルッペンのシンボルカラーである真紅に染めた羽帽子。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/52:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/52:15
 "A feathered hat dyed crimson, the symbolic color of Gruppen.\\n"
 > END STRING
 
 > BEGIN STRING
 "羽も昔ながらの大ぶりのものが使われている。"
-> CONTEXT: Scripts/RPG::Armor(detail)/53:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/53:15
 "The feathers used are large, traditional ones."
 > END STRING
 
@@ -4350,7 +4350,7 @@
 
 > BEGIN STRING
 "フリーベリの船乗りが被る円形の帽子。"
-> CONTEXT: Scripts/RPG::Armor(detail)/55:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/55:15
 "A circular hat worn by Friberg sailors."
 > END STRING
 
@@ -4362,19 +4362,19 @@
 
 > BEGIN STRING
 "小さな金属製の頭冠。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/57:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/57:15
 "A small metal crown.\\n"
 > END STRING
 
 > BEGIN STRING
 "形状はシンプルだが魔術的な力が宿っているとされ、\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/58:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/58:15
 "Although its shape is simple, it is said to have magical powers.\\n"
 > END STRING
 
 > BEGIN STRING
 "一昔前までは高貴な身分の者のみが着用を許されていた。"
-> CONTEXT: Scripts/RPG::Armor(detail)/59:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/59:15
 "A long time ago, only those of noble status were allowed to wear it."
 > END STRING
 
@@ -4386,13 +4386,13 @@
 
 > BEGIN STRING
 "ヴィドヴィンの鉱山から産出される銀を用いて作られた頭飾り。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/61:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/61:15
 "A headdress made from silver mined in the mines of Vidvin.\\n"
 > END STRING
 
 > BEGIN STRING
 "雪のような独特の輝きを持つ。"
-> CONTEXT: Scripts/RPG::Armor(detail)/62:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/62:15
 "It has a unique shine like snow."
 > END STRING
 
@@ -4405,19 +4405,19 @@
 
 > BEGIN STRING
 "虹色の光を放つ頭飾り。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/64:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/64:15
 "A headpiece that emits rainbow light.\\n"
 > END STRING
 
 > BEGIN STRING
 "既成のサークレットに付与魔術を施して作られたもので、\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/65:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/65:15
 "Made by applying enchantment magic to a ready-made circlet,\\n"
 > END STRING
 
 > BEGIN STRING
 "ありふれた形状がいっそう非日常的な雰囲気を高める。"
-> CONTEXT: Scripts/RPG::Armor(detail)/66:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/66:15
 "the ordinary shape enhances the extraordinary atmosphere."
 > END STRING
 
@@ -4430,19 +4430,19 @@
 
 > BEGIN STRING
 "黒色の色眼鏡。元は魔物の使う幻覚から\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/68:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/68:15
 "Black tinted glasses. Originally to protect against\\n"
 > END STRING
 
 > BEGIN STRING
 "身を守るため作られた。これを装備して\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/69:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/69:15
 "hallucinations from monsters. Walking along the beach\\n"
 > END STRING
 
 > BEGIN STRING
 "浜辺を歩くのが今ポッパナで一番おしゃれ、らしい。"
-> CONTEXT: Scripts/RPG::Armor(detail)/70:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/70:15
 "with these is most fashionable in Poppana right now."
 > END STRING
 
@@ -4455,19 +4455,19 @@
 
 > BEGIN STRING
 "干草を編んでつくられた純白の帽子。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/72:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/72:15
 "A pure white hat made from woven hay.\\n"
 > END STRING
 
 > BEGIN STRING
 "涼しげな雰囲気をかもし出すが、\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/73:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/73:15
 "It gives off a cool vibe, but\\n"
 > END STRING
 
 > BEGIN STRING
 "シルエットはあくまでエレガント。"
-> CONTEXT: Scripts/RPG::Armor(detail)/74:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/74:15
 "the silhouette is simply elegant."
 > END STRING
 
@@ -4480,19 +4480,19 @@
 
 > BEGIN STRING
 "旅人に好んで用いられる丈夫な帽子。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/76:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/76:15
 "A sturdy hat favored by travelers.\\n"
 > END STRING
 
 > BEGIN STRING
 "エーランド教の宣教師が異国へ旅立つ際\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/77:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/77:15
 "When an Ehland missionary leaves for a foreign land,\\n"
 > END STRING
 
 > BEGIN STRING
 "よく被っていたことでも知られる。"
-> CONTEXT: Scripts/RPG::Armor(detail)/78:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/78:15
 "they would often wear this."
 > END STRING
 
@@ -4505,19 +4505,19 @@
 
 > BEGIN STRING
 "古くに魔術士がパーティーなどの場でかぶっていた \\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/80:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/80:15
 "A decorative wig worn by magicians at parties and events\\n"
 > END STRING
 
 > BEGIN STRING
 "装飾的なかつら。 適度な緊張感を得るために\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/81:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/81:15
 "in the past. Some wear it when studying magic\\n"
 > END STRING
 
 > BEGIN STRING
 "一人で魔法の研究をする際かぶる者もいる。"
-> CONTEXT: Scripts/RPG::Armor(detail)/82:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/82:15
 "to create an appropriate tension."
 > END STRING
 
@@ -4530,7 +4530,7 @@
 
 > BEGIN STRING
 "五百人を制する者にのみ着用が許されるビロードのマスク。"
-> CONTEXT: Scripts/RPG::Armor(detail)/84:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/84:15
 "A velvet mask for one who has conquered 500."
 > END STRING
 
@@ -4543,43 +4543,43 @@
 
 > BEGIN STRING
 "特別な席で身に着けられる華奢な装飾のついた頭飾り。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/86:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/86:15
 "An ornate headpiece worn on special occasions.\\n"
 > END STRING
 
 > BEGIN STRING
 "普段は屈強な騎士ですら、これを被ると一転して\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/87:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/87:15
 "Even a normal brawny knight will take on\\n"
 > END STRING
 
 > BEGIN STRING
 "幻想的な雰囲気を纏う。"
-> CONTEXT: Scripts/RPG::Armor(detail)/88:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/88:15
 "a fantastical aura when wearing this."
 > END STRING
 
 > BEGIN STRING
 "鶺鴒の羽帽子"
-> CONTEXT: Scripts/RPG::Armor(detail)/89:12 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/89:12
 "Wagtail Feather Hat"
 > END STRING
 
 > BEGIN STRING
 "\\\\r[鶺鴒,セキレイ]の羽帽子"
-> CONTEXT: Scripts/RPG::Armor(detail)/90:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/90:15
 "Wagtail Feather Hat"
 > END STRING
 
 > BEGIN STRING
 "古代の神々に性の悦びを教えた鳥であるとされる、\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/91:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/91:15
 "The bird that taught the ancient gods the joys of sex.\\n"
 > END STRING
 
 > BEGIN STRING
 "セキレイの尾羽根が添えられた飾り帽子。"
-> CONTEXT: Scripts/RPG::Armor(detail)/92:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/92:15
 "A decorative hat with a wagtail tail feather."
 > END STRING
 
@@ -4591,13 +4591,13 @@
 
 > BEGIN STRING
 "木綿で織られたシンプルなシャツ。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/95:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/95:15
 "A simple shirt woven from cotton.\\n"
 > END STRING
 
 > BEGIN STRING
 "グルッペンの庶民が着る一般的なもの。"
-> CONTEXT: Scripts/RPG::Armor(detail)/96:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/96:15
 "A typical item worn by commoners of the Gruppen."
 > END STRING
 
@@ -4611,19 +4611,19 @@
 
 > BEGIN STRING
 "グルッペン森林地方で古くから好んで着られる\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/98:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/98:15
 "Short garment made of coarse linen\\n"
 > END STRING
 
 > BEGIN STRING
 "荒目の麻で織られた短衣。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/99:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/99:15
 "that has long been popular in the Gruppen forest region.\\n"
 > END STRING
 
 > BEGIN STRING
 "木の葉と藍を用い、味のある深緑色に染められている。"
-> CONTEXT: Scripts/RPG::Armor(detail)/100:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/100:15
 "It is dyed a tasteful deep green using leaves and indigo."
 > END STRING
 
@@ -4636,19 +4636,19 @@
 
 > BEGIN STRING
 "ゆったりとした農夫風の胴衣。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/102:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/102:15
 "A loose-fitting peasant-style vest.\\n"
 > END STRING
 
 > BEGIN STRING
 "昔は作業着として用いられていたが、今では落ち着いた雰囲気を\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/103:15 < UNTRANSLATED
-"Uses as workwear in the past, but now street wear\\"
+> CONTEXT: Scripts/RPG::Armor(detail)/103:15
+"Uses as workwear in the past, but now street wear\\n"
 > END STRING
 
 > BEGIN STRING
 "演出する街着としても着られるようになった。"
-> CONTEXT: Scripts/RPG::Armor(detail)/104:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/104:15
 "resulting in a relaxed look."
 > END STRING
 
@@ -4661,19 +4661,19 @@
 
 > BEGIN STRING
 "絹で織られた高級シャツ。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/106:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/106:15
 "A high-quality shirt woven from silk.\\n"
 > END STRING
 
 > BEGIN STRING
 "特に装飾はついていないが、絹の発する光沢が\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/107:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/107:15
 "Doesn't have any particular decoration,\\n"
 > END STRING
 
 > BEGIN STRING
 "とてもセクシーである。"
-> CONTEXT: Scripts/RPG::Armor(detail)/108:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/108:15
 "but the sheen of the silk is quite sexy."
 > END STRING
 
@@ -4686,19 +4686,19 @@
 
 > BEGIN STRING
 "昔グルッペンの貴族が好んで着ていた丈長の日常着を\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/110:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/110:15
 "A modern remake of the everyday clothing\\n"
 > END STRING
 
 > BEGIN STRING
 "現代風にリメイクしたもの。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/111:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/111:15
 "favored by the Gruppen aristocrats of the past.\\n"
 > END STRING
 
 > BEGIN STRING
 "シンプルで活動的なデザインになっている。"
-> CONTEXT: Scripts/RPG::Armor(detail)/112:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/112:15
 "It has a simple and dynamic design."
 > END STRING
 
@@ -4711,20 +4711,20 @@
 
 > BEGIN STRING
 "\\\\r[細波,さざなみ]の衣"
-> CONTEXT: Scripts/RPG::Armor(detail)/114:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/114:15
 "Ripple Clothes"
 > END STRING
 
 > BEGIN STRING
 "特殊な染め方により、波のような模様がついた胴衣。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/115:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/115:15
 "Wave-like pattern from a special dyeing method.\\n"
 > END STRING
 
 > BEGIN STRING
 "どこからか水の音が聞こえる。"
-> CONTEXT: Scripts/RPG::Armor(detail)/116:15 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Armor(detail)/199:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/116:15
+> CONTEXT: Scripts/RPG::Armor(detail)/199:15
 "You can hear the sound of water coming from somewhere."
 > END STRING
 
@@ -4739,19 +4739,19 @@
 
 > BEGIN STRING
 "フリーベリで船乗りの間で昔から用いられている\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/118:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/118:15
 "A cobalt blue and white striped shirt\\n"
 > END STRING
 
 > BEGIN STRING
 "コバルトブルーとホワイトの縞柄のシャツ。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/119:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/119:15
 "traditionally worn by Friberg's sailors.\\n"
 > END STRING
 
 > BEGIN STRING
 "今でもこの縞柄は船乗りのシンボルとして見られている。"
-> CONTEXT: Scripts/RPG::Armor(detail)/120:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/120:15
 "Today, the stripes are seen as a symbol of sailors."
 > END STRING
 
@@ -4764,19 +4764,19 @@
 
 > BEGIN STRING
 "麻で織られた純白のシャツ。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/122:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/122:15
 "A pure white shirt woven from linen.\\n"
 > END STRING
 
 > BEGIN STRING
 "クラシックな落ち着いたフォルムだが、その色と質感は\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/123:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/123:15
 "Its form is classic and subdued, but the color and\\n"
 > END STRING
 
 > BEGIN STRING
 "爽やかな清涼感を感じさせる。"
-> CONTEXT: Scripts/RPG::Armor(detail)/124:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/124:15
 "texture give it a refreshing feel."
 > END STRING
 
@@ -4789,19 +4789,19 @@
 
 > BEGIN STRING
 "東の王国キアズマで用いられている藍染の上衣。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/126:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/126:15
 "An indigo-dyed jacket used in the eastern kingdom of Kiasma.\\n"
 > END STRING
 
 > BEGIN STRING
 "綿を粗く織った丈夫な生地が使われ、\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/127:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/127:15
 "Made of strong, coarsely woven cotton fabric,\\n"
 > END STRING
 
 > BEGIN STRING
 "独特のラフな質感を持つ。"
-> CONTEXT: Scripts/RPG::Armor(detail)/128:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/128:15
 "giving it a unique, rough texture."
 > END STRING
 
@@ -4814,19 +4814,19 @@
 
 > BEGIN STRING
 "応用魔術を用いて極彩色に染められたシャツ。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/130:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/130:15
 "A shirt dyed in brilliant colors using applied magic.\\n"
 > END STRING
 
 > BEGIN STRING
 "名前はこの染色法を発明した魔導士が命名した。 \\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/131:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/131:15
 "Named by the magician who invented this dyeing method.\\n"
 > END STRING
 
 > BEGIN STRING
 "沿岸地方の若者に特に人気がある。"
-> CONTEXT: Scripts/RPG::Armor(detail)/132:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/132:15
 "Especially popular among the young in coastal areas."
 > END STRING
 
@@ -4839,19 +4839,19 @@
 
 > BEGIN STRING
 "空中都市ホロスで育った植物で染められたシャツ。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/134:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/134:15
 "A shirt dyed with plants grown in the floating city of Holos."
 > END STRING
 
 > BEGIN STRING
 "仕上げにかけられる魔法により、\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/135:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/135:15
 "The finishing touches are done with magic,\\n"
 > END STRING
 
 > BEGIN STRING
 "いつまでも鮮やかな緑色を保っている。"
-> CONTEXT: Scripts/RPG::Armor(detail)/136:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/136:15
 "retaining its vibrant green color forever."
 > END STRING
 
@@ -4865,55 +4865,55 @@
 
 > BEGIN STRING
 "マジックハーブを炎の魔法で焼き尽くし、\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/138:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/138:15
 "Dyed using the ashes of magic herbs\\n"
 > END STRING
 
 > BEGIN STRING
 "その灰を用いて染められたローブ。"
-> CONTEXT: Scripts/RPG::Armor(detail)/139:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/139:15
 "burned with fire magic."
 > END STRING
 
 > BEGIN STRING
 "雄鳩のシャツ"
-> CONTEXT: Scripts/RPG::Armor(detail)/140:12 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/140:12
 "Rooster Shirt"
 > END STRING
 
 > BEGIN STRING
 "古くからグルッペンで用いられている\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/141:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/141:15
 "Shirt with a rooster design\\n"
 > END STRING
 
 > BEGIN STRING
 "雄鳩の意匠を織り込んだシャツ。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/142:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/142:15
 "used in Gruppen for a long time.\\n"
 > END STRING
 
 > BEGIN STRING
 "雄鳩を大きく、ランダムに配置した大胆な構図が新しい。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/143:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/143:15
 "Bold new design of randomly placed large male doves.\\n"
 > END STRING
 
 > BEGIN STRING
 "タイダイシャツ"
-> CONTEXT: Scripts/RPG::Armor(detail)/144:12 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/144:12
 "Tie-dye Shirt"
 > END STRING
 
 > BEGIN STRING
 "「絞り染め」と呼ばれる新しい手法で染色されたシャツ。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/145:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/145:15
 "A shirt dyed using a new technique called 'tie-dye'.\\n"
 > END STRING
 
 > BEGIN STRING
 "美しい色と独特の紋様を持つ。"
-> CONTEXT: Scripts/RPG::Armor(detail)/146:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/146:15
 "It has beautiful colors and unique patterns."
 > END STRING
 
@@ -4926,13 +4926,13 @@
 
 > BEGIN STRING
 "最新の応用魔術で作られた布を用いた胴衣。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/148:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/148:15
 "Made from fabric created using the latest applied magic.\\n"
 > END STRING
 
 > BEGIN STRING
 "光を吸収し、色相をずらして再び発散する効果がある。"
-> CONTEXT: Scripts/RPG::Armor(detail)/149:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/149:15
 "Absorbs light, shifts its hue, then disperses it."
 > END STRING
 
@@ -4945,19 +4945,19 @@
 
 > BEGIN STRING
 "百年以上前、グルッペンの貴族のために\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/151:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/151:15
 "Over a 100 year old tunic for a Gruppen noble.\\n"
 > END STRING
 
 > BEGIN STRING
 "作られたチュニック。 今では失われた染色法で\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/152:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/152:15
 "Dyed with a deep, vibrant crimson\\n"
 > END STRING
 
 > BEGIN STRING
 "深みがあり力強い真紅に染められている。"
-> CONTEXT: Scripts/RPG::Armor(detail)/153:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/153:15
 "using a now-lost dyeing technique."
 > END STRING
 
@@ -4970,19 +4970,19 @@
 
 > BEGIN STRING
 "エーランド教会謹製のポンチョ。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/155:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/155:15
 "A poncho made by the Ehland Church.\\n"
 > END STRING
 
 > BEGIN STRING
 "見た目より丈夫な生地でつくられており、\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/156:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/156:15
 "It's made of a stronger material than it looks,\\n"
 > END STRING
 
 > BEGIN STRING
 "防寒性も高い。"
-> CONTEXT: Scripts/RPG::Armor(detail)/157:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/157:15
 "and protects well against cold."
 > END STRING
 
@@ -4995,7 +4995,7 @@
 
 > BEGIN STRING
 "百人を制する者にのみ着用が許される外套付きの上衣。"
-> CONTEXT: Scripts/RPG::Armor(detail)/159:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/159:15
 "A cloaked jacket for one who has conquered 100."
 > END STRING
 
@@ -5008,19 +5008,19 @@
 
 > BEGIN STRING
 "高位の騎士が着用する、フリルやレースのついた\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/161:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/161:15
 "Decorative, slim-fitting blouse with ruffles and lace,\\n"
 > END STRING
 
 > BEGIN STRING
 "装飾的な細身のブラウス。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/162:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/162:15
 "worn by high-ranking knights.\\n"
 > END STRING
 
 > BEGIN STRING
 "華奢で、ロマンチックなムードさえ感じさせる。"
-> CONTEXT: Scripts/RPG::Armor(detail)/163:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/163:15
 "Delicate, even exuding a romantic mood."
 > END STRING
 
@@ -5033,19 +5033,19 @@
 
 > BEGIN STRING
 "目に見えて、身に着けることもできるのに\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/165:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/165:15
 "You can see and wear it,\\n"
 > END STRING
 
 > BEGIN STRING
 "なぜか意識して触れることはできず、\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/166:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/166:15
 "but somehow you can't consciously touch it,\\n"
 > END STRING
 
 > BEGIN STRING
 "色や形をはっきりと確認することもできない不思議な胴衣。"
-> CONTEXT: Scripts/RPG::Armor(detail)/167:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/167:15
 "and its color and shape aren't clear to see."
 > END STRING
 
@@ -5058,13 +5058,13 @@
 
 > BEGIN STRING
 "まるで星の無い夜空のように、\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/169:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/169:15
 "Like a starless night sky,\\n"
 > END STRING
 
 > BEGIN STRING
 "真っ黒に染められたゆったりめの胴衣。"
-> CONTEXT: Scripts/RPG::Armor(detail)/170:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/170:15
 "it's a loose-fitting vest dyed jet black."
 > END STRING
 
@@ -5077,19 +5077,19 @@
 
 > BEGIN STRING
 "小さくカットした布を細い鎖で繋ぎ合わせた\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/172:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/172:15
 "A revealing vest made of small pieces of fabric\\n"
 > END STRING
 
 > BEGIN STRING
 "露出の多い胴衣。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/173:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/173:15
 "connected by thin chains.\\n"
 > END STRING
 
 > BEGIN STRING
 "古代の儀式で使われた衣装をモチーフにしている。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/174:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/174:15
 "The motif is the costumes used in ancient ceremonies.\\n"
 > END STRING
 
@@ -5113,19 +5113,19 @@
 
 > BEGIN STRING
 "銀製の小さな鎖を繋げたネックレス。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/179:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/179:15
 "A necklace with small silver chains.\\n"
 > END STRING
 
 > BEGIN STRING
 "小ぶりで、純度の低い銀が使われているため光沢も鈍いが、\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/180:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/180:15
 "It's small and uses low-purity silver, making it less shiny,\\n"
 > END STRING
 
 > BEGIN STRING
 "その分主張しすぎずどんな服にも無難に合う。"
-> CONTEXT: Scripts/RPG::Armor(detail)/181:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/181:15
 "but it doesn't stand out too much and goes well with anything."
 > END STRING
 
@@ -5137,19 +5137,19 @@
 
 > BEGIN STRING
 "古い青銅で作られたブレスレット。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/183:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/183:15
 "A bracelet made from old bronze.\\n"
 > END STRING
 
 > BEGIN STRING
 "脆いため武具には使われなくなった青銅だが、\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/184:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/184:15
 "Bronze is too fragile for weapons nowadays,\\n"
 > END STRING
 
 > BEGIN STRING
 "その独特の風合いを愛する者は多い。"
-> CONTEXT: Scripts/RPG::Armor(detail)/185:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/185:15
 "but many love its unique texture."
 > END STRING
 
@@ -5161,25 +5161,25 @@
 
 > BEGIN STRING
 "\\\\r[刃,やいば]のペンダント"
-> CONTEXT: Scripts/RPG::Armor(detail)/187:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/187:15
 "Blade Pendant"
 > END STRING
 
 > BEGIN STRING
 "うねるような刃をモチーフにしたペンダント。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/188:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/188:15
 "A pendant with a undulating blade motif.\\n"
 > END STRING
 
 > BEGIN STRING
 "素材には実物の剣や槍を溶かした鉄が使われており、\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/189:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/189:15
 "Made from iron melted from swords and spears.\\n"
 > END STRING
 
 > BEGIN STRING
 "見た目とは裏腹に平和の象徴としての意味が込められている。"
-> CONTEXT: Scripts/RPG::Armor(detail)/190:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/190:15
 "Contrary to its style, it symbolizes peace."
 > END STRING
 
@@ -5192,13 +5192,13 @@
 
 > BEGIN STRING
 "絹でできたカフス付の手袋。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/192:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/192:15
 "Silk gloves with cuffs.\\n"
 > END STRING
 
 > BEGIN STRING
 "とってもすべすべである。"
-> CONTEXT: Scripts/RPG::Armor(detail)/193:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/193:15
 "Very smooth."
 > END STRING
 
@@ -5210,13 +5210,13 @@
 
 > BEGIN STRING
 "首に巻くことに特化してデザインされたスカーフ。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/195:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/195:15
 "A scarf designed to be worn around the neck.\\n"
 > END STRING
 
 > BEGIN STRING
 "特殊な織り方により、独特の光沢を放つ。"
-> CONTEXT: Scripts/RPG::Armor(detail)/196:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/196:15
 "The special weaving method gives it a unique luster."
 > END STRING
 
@@ -5229,7 +5229,7 @@
 
 > BEGIN STRING
 "長い間清流にさらされた丸石を繋げた腕輪。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/198:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/198:15
 "Made of round stones exposed to a clear stream for a long time.\\n"
 > END STRING
 
@@ -5242,19 +5242,19 @@
 
 > BEGIN STRING
 "かつて高い功績をあげた騎士に贈られた真紅の勲章。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/201:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/201:15
 "Once awarded to knights who had achieved great feats.\\n"
 > END STRING
 
 > BEGIN STRING
 "これを模した飾りをチュニックの胸元につけるのが流行り、\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/202:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/202:15
 "Wearing similar ornaments on a tunic got popular,\\n"
 > END STRING
 
 > BEGIN STRING
 "今ではグルッペンの伝統的なスタイルとなっている。"
-> CONTEXT: Scripts/RPG::Armor(detail)/203:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/203:15
 "and it has now become a traditional style for Gruppen."
 > END STRING
 
@@ -5269,7 +5269,7 @@
 
 > BEGIN STRING
 "フリーベリの船乗りが身に着ける三角形の首布。"
-> CONTEXT: Scripts/RPG::Armor(detail)/205:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/205:15
 "A triangular neckcloth worn by Friberg sailors."
 > END STRING
 
@@ -5281,14 +5281,14 @@
 
 > BEGIN STRING
 "太古の樹脂の化石を加工した腕輪。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/207:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/207:15
 "A bracelet made from ancient resin fossils.\\n"
 > END STRING
 
 > BEGIN STRING
 "封じ込められた悠久の時間が持つ者にやすらぎを与える。"
-> CONTEXT: Scripts/RPG::Armor(detail)/208:15 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Armor(detail)/211:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/208:15
+> CONTEXT: Scripts/RPG::Armor(detail)/211:15
 "Eternal time within brings peace of mind to its owner."
 > END STRING
 
@@ -5300,7 +5300,7 @@
 
 > BEGIN STRING
 "太古の竜のものと思われる牙の化石を繋げた首飾り。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/210:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/210:15
 "Made from fossilized fangs of an ancient dragon.\\n"
 > END STRING
 
@@ -5312,13 +5312,13 @@
 
 > BEGIN STRING
 "月の光を放つ宝石を\\\\r[嵌,は]め込んだ腕輪。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/213:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/213:15
 "A bracelet inlaid with a gem that emits moonlight."
 > END STRING
 
 > BEGIN STRING
 "幻想的な光が持つ者にやすらぎを与える。"
-> CONTEXT: Scripts/RPG::Armor(detail)/214:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/214:15
 "Its fantastical light brings peace to its owner."
 > END STRING
 
@@ -5330,13 +5330,13 @@
 
 > BEGIN STRING
 "蝶をかたどったステンドグラス製のブローチ。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/216:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/216:15
 "A stained glass brooch in the shape of a butterfly.\\n"
 > END STRING
 
 > BEGIN STRING
 "色とりどりのガラスで表現された羽が美しい。"
-> CONTEXT: Scripts/RPG::Armor(detail)/217:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/217:15
 "The colorful glass wings are beautiful."
 > END STRING
 
@@ -5348,13 +5348,13 @@
 
 > BEGIN STRING
 "\\\\r[蜻蛉,トンボ]をかたどったステンドグラス製のブローチ。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/219:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/219:15
 "A stained glass brooch in the shape of a dragonfly.\\n"
 > END STRING
 
 > BEGIN STRING
 "シャープなフォルムと彩度を抑えたガラスが美しい。"
-> CONTEXT: Scripts/RPG::Armor(detail)/220:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/220:15
 "The sharp form and subdued glass are beautiful."
 > END STRING
 
@@ -5366,13 +5366,13 @@
 
 > BEGIN STRING
 "蛍をかたどったステンドグラス製のブローチ。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/222:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/222:15
 "A stained glass brooch in the shape of a firefly.\\n"
 > END STRING
 
 > BEGIN STRING
 "魔法が付与されており、自ら光を放つ。"
-> CONTEXT: Scripts/RPG::Armor(detail)/223:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/223:15
 "Imbued with magic and emits light of its own accord."
 > END STRING
 
@@ -5384,13 +5384,13 @@
 
 > BEGIN STRING
 "犬の首輪によく似た襟飾り。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/225:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/225:15
 "A collar similar to a dog collar.\\n"
 > END STRING
 
 > BEGIN STRING
 "見る者によってはこの上なく魅力的、らしい。"
-> CONTEXT: Scripts/RPG::Armor(detail)/226:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/226:15
 "Apparently, some people find it very attractive."
 > END STRING
 
@@ -5402,37 +5402,37 @@
 
 > BEGIN STRING
 "浜辺の貝殻で作った耳飾り。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/228:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/228:15
 "Earrings made from seashells on the beach.\\n"
 > END STRING
 
 > BEGIN STRING
 "簡素だが美しい。 女性へのプレゼントにも。"
-> CONTEXT: Scripts/RPG::Armor(detail)/229:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/229:15
 "Simple but beautiful. Also makes a great gift for women."
 > END STRING
 
 > BEGIN STRING
 "宿命のコイン"
-> CONTEXT: Scripts/RPG::Armor(detail)/230:12 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/230:12
 "Coin of Destiny"
 > END STRING
 
 > BEGIN STRING
 "何度弾いても必ず表しか出ない不思議なコイン。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/231:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/231:15
 "Always lands heads no matter how many times you flip it.\\n"
 > END STRING
 
 > BEGIN STRING
 "グルッペンの国宝のひとつ。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/232:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/232:15
 "One of Gruppen's national treasures.\\n"
 > END STRING
 
 > BEGIN STRING
 "イカサマに使ってはいけない。"
-> CONTEXT: Scripts/RPG::Armor(detail)/233:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/233:15
 "Don't use it to cheat."
 > END STRING
 
@@ -5445,19 +5445,19 @@
 
 > BEGIN STRING
 "エーランド教徒が黙想に用いる装身具。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/235:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/235:15
 "An accessory used in Ehland for meditation.\\n"
 > END STRING
 
 > BEGIN STRING
 "使い込まれ古びている。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/236:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/236:15
 "It's worn and old.\\n"
 > END STRING
 
 > BEGIN STRING
 "あまり見栄えの良いものではない…。"
-> CONTEXT: Scripts/RPG::Armor(detail)/237:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/237:15
 "Not very pretty..."
 > END STRING
 
@@ -5469,19 +5469,19 @@
 
 > BEGIN STRING
 "かつてグルッペンが魔王の軍勢に苦戦した際\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/239:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/239:15
 "Scales of the Silver Serpent given to Gruppen's\\n"
 > END STRING
 
 > BEGIN STRING
 "決死隊に与えられたシルバーサーペントの鱗。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/240:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/240:15
 "suicide squad against the Demon Lord's army.\\n"
 > END STRING
 
 > BEGIN STRING
 "これを身に着けた者は全員生還した。"
-> CONTEXT: Scripts/RPG::Armor(detail)/241:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/241:15
 "Everyone who worn it survived."
 > END STRING
 
@@ -5495,13 +5495,13 @@
 
 > BEGIN STRING
 "ダイアモンドが\\\\r[嵌,は]め込まれたアクセサリ。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/243:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/243:15
 "An accessory inlaid with diamonds.\\n"
 > END STRING
 
 > BEGIN STRING
 "宝石の魔力が持つ者に縛られない意志を与える。"
-> CONTEXT: Scripts/RPG::Armor(detail)/244:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/244:15
 "The gem's magic grants its wielder unrestrained will."
 > END STRING
 
@@ -5515,13 +5515,13 @@
 
 > BEGIN STRING
 "クリスタルが\\\\r[嵌,は]め込まれたアクセサリ。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/246:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/246:15
 "An accessory inlaid with crystals.\\n"
 > END STRING
 
 > BEGIN STRING
 "宝石の魔力が持つ者に安らぎを与える。"
-> CONTEXT: Scripts/RPG::Armor(detail)/247:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/247:15
 "The jewel's magic brings peace to its owner."
 > END STRING
 
@@ -5535,14 +5535,14 @@
 
 > BEGIN STRING
 "エメラルドが\\\\r[嵌,は]め込まれたアクセサリ。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/249:15 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Armor(detail)/255:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/249:15
+> CONTEXT: Scripts/RPG::Armor(detail)/255:15
 "An accessory inlaid with emeralds.\\n"
 > END STRING
 
 > BEGIN STRING
 "宝石の魔力が持つ者に惑わされない眼差しを与える。"
-> CONTEXT: Scripts/RPG::Armor(detail)/250:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/250:15
 "The gem's magic bestows an unfailing gaze on the wielder."
 > END STRING
 
@@ -5556,13 +5556,13 @@
 
 > BEGIN STRING
 "サファイアが\\\\r[嵌,は]め込まれたアクセサリ。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/252:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/252:15
 "An accessory inlaid with sapphires.\\n"
 > END STRING
 
 > BEGIN STRING
 "宝石の魔力が持つ者を魔の力から守る。"
-> CONTEXT: Scripts/RPG::Armor(detail)/253:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/253:15
 "The gem's magic protects the bearer from evil powers."
 > END STRING
 
@@ -5576,7 +5576,7 @@
 
 > BEGIN STRING
 "宝石の魔力が持つ者の神経を静める。"
-> CONTEXT: Scripts/RPG::Armor(detail)/256:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/256:15
 "The gem's magic calms the nerves of its owner."
 > END STRING
 
@@ -5590,14 +5590,14 @@
 
 > BEGIN STRING
 "ターコイズが\\\\r[嵌,は]め込まれたアクセサリ。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/258:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/258:15
 "An accessory inlaid with turquoise."
 > END STRING
 
 > BEGIN STRING
 "宝石の魔力が持つ者の内なる力を呼び起こす。"
-> CONTEXT: Scripts/RPG::Armor(detail)/259:15 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Armor(detail)/262:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/259:15
+> CONTEXT: Scripts/RPG::Armor(detail)/262:15
 "The gem's magic awakens the inner strength of the wielder."
 > END STRING
 
@@ -5611,7 +5611,7 @@
 
 > BEGIN STRING
 "サードニクスが\\\\r[嵌,は]め込まれたアクセサリ。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/261:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/261:15
 "An accessory inlaid with sardonyx.\\n"
 > END STRING
 
@@ -5624,21 +5624,21 @@
 
 > BEGIN STRING
 "純銀で作られた耳環。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/264:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/264:15
 "Earrings made from pure silver.\\n"
 > END STRING
 
 > BEGIN STRING
 "耳環は魔王討伐のため訪れたキアズマ兵のものを\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/265:15 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Armor(detail)/272:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/265:15
+> CONTEXT: Scripts/RPG::Armor(detail)/272:15
 "Became popular when Gruppen soldiers copied\\n"
 > END STRING
 
 > BEGIN STRING
 "グルッペン兵が真似たことで広まったと言われる。"
-> CONTEXT: Scripts/RPG::Armor(detail)/266:15 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Armor(detail)/273:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/266:15
+> CONTEXT: Scripts/RPG::Armor(detail)/273:15
 "those worn by Kiasma soldiers fighting the Demon Lord."
 > END STRING
 
@@ -5651,13 +5651,13 @@
 
 > BEGIN STRING
 "錯綜した幾何学模様の描かれたスカーフ。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/268:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/268:15
 "A scarf with an intricate geometric pattern.\\n"
 > END STRING
 
 > BEGIN STRING
 "見る者の視覚を惑わせ、錯視的な効果を与える。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/269:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/269:15
 "Confuses the viewer's vision with an optical illusion.\\n"
 > END STRING
 
@@ -5670,8 +5670,8 @@
 
 > BEGIN STRING
 "サードニクスを用いた耳環。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/271:15 < UNTRANSLATED
-"Sardonyx Earrings.\n"
+> CONTEXT: Scripts/RPG::Armor(detail)/271:15
+"Sardonyx Earrings.\\n"
 > END STRING
 
 > BEGIN STRING
@@ -5682,19 +5682,19 @@
 
 > BEGIN STRING
 "ドゥヂチに集まる魔力を利用して精製されていた\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/275:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/275:15
 "Made from magic stones\\n"
 > END STRING
 
 > BEGIN STRING
 "魔石を用いてつくられたペンダント。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/276:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/276:15
 "refined using the magical energy gathered in Dodichi.\\n"
 > END STRING
 
 > BEGIN STRING
 "今ではドゥヂチが廃墟となっているため入手困難。"
-> CONTEXT: Scripts/RPG::Armor(detail)/277:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/277:15
 "It's hard to get hold of these now that Dodichi is in ruins."
 > END STRING
 
@@ -5707,19 +5707,19 @@
 
 > BEGIN STRING
 "応用魔術の実験で残ったもえさしを細い鎖に通して\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/279:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/279:15
 "Made from a thin chain of leftover moe stalks from\\n"
 > END STRING
 
 > BEGIN STRING
 "首飾りにしたもの。 魔法への抵抗を持つと考えられ、\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/280:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/280:15
 "a magic experiment. Believed to protect against magic,\\n"
 > END STRING
 
 > BEGIN STRING
 "危険な実験の際よくお守りとして身に着けられる。"
-> CONTEXT: Scripts/RPG::Armor(detail)/281:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/281:15
 "it is often worn during dangerous experiments."
 > END STRING
 
@@ -5731,13 +5731,13 @@
 
 > BEGIN STRING
 "シトラスの花の香りを染みこませた手袋。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/283:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/283:15
 "Gloves infused with the scent of citrus flowers.\\n"
 > END STRING
 
 > BEGIN STRING
 "芳しい香りが触れるもの全てを心地よくさせる。"
-> CONTEXT: Scripts/RPG::Armor(detail)/284:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/284:15
 "Its fragrant scent makes everything it touches pleasant."
 > END STRING
 
@@ -5750,19 +5750,19 @@
 
 > BEGIN STRING
 "炭化するまで焼いたイモリの粉末。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/286:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/286:15
 "Powdered newts roasted until charred.\\n"
 > END STRING
 
 > BEGIN STRING
 "仕切りのある籠に雌雄のつがいを別々に閉じ込め、\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/287:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/287:15
 "Male-female pairs were kept in separate cages,\\n"
 > END STRING
 
 > BEGIN STRING
 "届かぬ相手に必死に恋焦がれる雄を焼いて用いる。"
-> CONTEXT: Scripts/RPG::Armor(detail)/288:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/288:15
 "burning males desperately in love with someone out of reach."
 > END STRING
 
@@ -5775,19 +5775,19 @@
 
 > BEGIN STRING
 "精力旺盛な雄兎の前足で作った護符。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/290:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/290:15
 "A talisman made from the front paw of a vigorous male rabbit.\\n"
 > END STRING
 
 > BEGIN STRING
 "実際の効果の程は眉唾だが、応用魔術の発達した\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/291:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/291:15
 "Despite its questionable effectiveness, it remains\\n"
 > END STRING
 
 > BEGIN STRING
 "リスヴェグのエルフの間でもなお人気がある。"
-> CONTEXT: Scripts/RPG::Armor(detail)/292:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/292:15
 "popular among magically talented Lisveg's elves."
 > END STRING
 
@@ -5800,19 +5800,19 @@
 
 > BEGIN STRING
 "古代の黒魔術の儀式で用いられていた護符。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/294:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/294:15
 "An ancient talisman used in black magic rituals.\\n"
 > END STRING
 
 > BEGIN STRING
 "黒猫に特別な魔力が無いことは魔導院の研究者によって\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/295:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/295:15
 "Despite the Magic Academy proving black cats to not have\\n"
 > END STRING
 
 > BEGIN STRING
 "証明されたが、それでも護符として身に着ける者は多い。"
-> CONTEXT: Scripts/RPG::Armor(detail)/296:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/296:15
 "magic powers, people still wear these as talismans."
 > END STRING
 
@@ -5826,20 +5826,20 @@
 
 > BEGIN STRING
 "特殊な技法でサードニクスの表面に\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/298:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/298:15
 "An accessory with a rat design carved\\n"
 > END STRING
 
 > BEGIN STRING
 "鼠の図柄を彫り込んだアクセサリー。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/299:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/299:15
 "into the surface of sardonyx with a special technique.\\n"
 > END STRING
 
 > BEGIN STRING
 "彫り込まれた動物が宝石の魔力を増幅する。"
-> CONTEXT: Scripts/RPG::Armor(detail)/300:15 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Armor(detail)/304:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/300:15
+> CONTEXT: Scripts/RPG::Armor(detail)/304:15
 "The carved animal amplifies the gem's magic."
 > END STRING
 
@@ -5853,13 +5853,13 @@
 
 > BEGIN STRING
 "特殊な技法でターコイズの表面に\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/302:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/302:15
 "An accessory with a stag design carved\\n"
 > END STRING
 
 > BEGIN STRING
 "牡鹿の図柄を彫り込んだアクセサリー。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/303:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/303:15
 "into the surface of turquoise with a special technique.\\n"
 > END STRING
 
@@ -5871,19 +5871,19 @@
 
 > BEGIN STRING
 "貴重な白蝶貝をひとつひとつ\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/306:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/306:15
 "Made by connecting precious white peals\\n"
 > END STRING
 
 > BEGIN STRING
 "心を込めて繋げて作られたアクセサリー。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/307:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/307:15
 "one by one with great care.\\n"
 > END STRING
 
 > BEGIN STRING
 "プレゼントとしては最高の一つだろう。"
-> CONTEXT: Scripts/RPG::Armor(detail)/308:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/308:15
 "This would be an ideal gift."
 > END STRING
 
@@ -5895,13 +5895,13 @@
 
 > BEGIN STRING
 "夢魔を遠ざける魔力を持つ\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/310:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/310:15
 "A bouquet of small blue flowers\\n"
 > END STRING
 
 > BEGIN STRING
 "小さな青い花を集めたブーケ。"
-> CONTEXT: Scripts/RPG::Armor(detail)/311:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/311:15
 "with the power to ward off succubi."
 > END STRING
 
@@ -5914,19 +5914,19 @@
 
 > BEGIN STRING
 "いつの間にか全身に装飾的に巻きついている\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/313:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/313:15
 "Mysterious black ribbons that suddenly\\n"
 > END STRING
 
 > BEGIN STRING
 "不思議な黒いリボン。 \\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/314:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/314:15
 "wrap around the whole body decoratively.\\n"
 > END STRING
 
 > BEGIN STRING
 "体のラインを強調し、身に着ける者をセクシーにする。"
-> CONTEXT: Scripts/RPG::Armor(detail)/315:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/315:15
 "Accentuates body lines and makes the wearer look sexy."
 > END STRING
 
@@ -5939,8 +5939,8 @@
 
 > BEGIN STRING
 "千人を制した者に贈られる名誉の勲章。"
-> CONTEXT: Scripts/RPG::Armor(detail)/317:15 < UNTRANSLATED
-"A medal of honor awarded to one who conquers 1000."
+> CONTEXT: Scripts/RPG::Armor(detail)/317:15
+"A medal of honor awarded to one who conquered 1000."
 > END STRING
 
 > BEGIN STRING
@@ -5959,61 +5959,61 @@
 > BEGIN STRING
 "なにものにも縛られない強い意志が湧いてくる。"
 > CONTEXT: Scripts/RPG::Armor(detail)/321:15
-"A strong will that is not bound by anything arises."
+"A strong will arises that is not bound by anything."
 > END STRING
 
 > BEGIN STRING
 "なにものにも惑わされない強い意志が湧いてくる。"
-> CONTEXT: Scripts/RPG::Armor(detail)/324:15 < UNTRANSLATED
-"A strong will that is not swayed by anything arises."
+> CONTEXT: Scripts/RPG::Armor(detail)/324:15
+"A strong will arises that is not swayed by anything."
 > END STRING
 
 > BEGIN STRING
 "夢魔が身に着けていた指輪。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/330:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/330:15
 "A ring worn by a succubus.\\n"
 > END STRING
 
 > BEGIN STRING
 "指にはめると、持ち主の弱点をせめるための知識が\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/331:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/331:15
 "When worn, knowledge of the owner's weaknesses\\n"
 > END STRING
 
 > BEGIN STRING
 "頭に入ってくる。"
-> CONTEXT: Scripts/RPG::Armor(detail)/332:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/332:15
 "come to you."
 > END STRING
 
 > BEGIN STRING
 "\\\\c[7]\#{enemy.name.split(/\\//)[0]}\\\\c[0]の残した夢の指輪が姿を変えたもの。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/345:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/345:15
 "\\\\c[7]\#{enemy.name.split(/\\//)[0]}\\\\c[0]'s Dream Ring's new form.\\n"
 > END STRING
 
 > BEGIN STRING
 "ルヴィッサ以外には触れることもできない。"
-> CONTEXT: Scripts/RPG::Armor(detail)/346:15 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Armor(detail)/349:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/346:15
+> CONTEXT: Scripts/RPG::Armor(detail)/349:15
 "No one can touch it except Rovissa."
 > END STRING
 
 > BEGIN STRING
 "夢魔の残した夢の指輪が姿を変えたもの。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/348:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/348:15
 "Dream Ring left behind by the succubus, transformed.\\n"
 > END STRING
 
 > BEGIN STRING
 "ルヴィッサが具現化した際身に着けていた衣服。\\n"
-> CONTEXT: Scripts/RPG::Armor(detail)/352:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/352:15
 "The clothes worn by Rovissa when she materialized.\\n"
 > END STRING
 
 > BEGIN STRING
 "この世のものではない物質でできている。"
-> CONTEXT: Scripts/RPG::Armor(detail)/353:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Armor(detail)/353:15
 "Made of otherworldly materials."
 > END STRING
 
@@ -6611,7 +6611,7 @@
 
 > BEGIN STRING
 "夜の僅かな時間のみ満開になるこの花の香りは、\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/45:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Item(detail)/45:15
 "The flower's scent that only blooms for a short time at night\\n"
 > END STRING
 
@@ -6623,7 +6623,7 @@
 
 > BEGIN STRING
 "女性を魅力的にし男性をそのとりこにする。"
-> CONTEXT: Scripts/RPG::Item(detail)/46:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Item(detail)/46:15
 "makes women attractive and men fall in love."
 > END STRING
 
@@ -6636,13 +6636,13 @@
 
 > BEGIN STRING
 "\#{myname}のアキュレイの効果が切れた！"
-> CONTEXT: Scripts/RPG::State (message)/196:19 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::State (message)/196:19
 "\#{myname}'s accuracy has worn off!"
 > END STRING
 
 > BEGIN STRING
 "ラヴェンダーの花をインセンスに加工したもの。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/48:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Item(detail)/48:15
 "Lavender flowers processed into incense.\\n"
 > END STRING
 
@@ -6654,7 +6654,7 @@
 
 > BEGIN STRING
 "甘く優しい香りは万人に好まれ、\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/49:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Item(detail)/49:15
 "The sweet and gentle scent is loved by everyone,\\n"
 > END STRING
 
@@ -6666,7 +6666,7 @@
 
 > BEGIN STRING
 "浴槽から寝床まで至る所で用いられている。"
-> CONTEXT: Scripts/RPG::Item(detail)/50:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Item(detail)/50:15
 "so it's used everywhere from bathtubs to beds."
 > END STRING
 
@@ -6854,7 +6854,7 @@
 
 > BEGIN STRING
 "細かい葉が茂る見た目から、魔女のホウキの別名も持つ。"
-> CONTEXT: Scripts/RPG::Item(detail)/69:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Item(detail)/69:15
 "Also known as the witch's broom because of dense, lush leaves."
 > END STRING
 
@@ -6903,7 +6903,7 @@
 
 > BEGIN STRING
 "新鮮なミントの葉をそのまま使ったハーブティー。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/76:15 < UNTRANSLATED
+> CONTEXT: Scripts/RPG::Item(detail)/76:15
 "Herbal tea made with fresh mint leaves.\\n"
 > END STRING
 
