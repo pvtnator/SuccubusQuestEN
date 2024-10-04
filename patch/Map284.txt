@@ -2,7 +2,7 @@
 > BEGIN STRING
 \\c[4]ヴィジャラスヴィジョン\\c[0]を手に入れた！
 > CONTEXT: Map284/events/2/pages/1/8/Dialogue
-\\c[4]Villalas Vision\\c[0] obtained!
+\\c[4]Vigorous Vision\\c[0] obtained!
 > END STRING
 
 > BEGIN STRING

@@ -251,7 +251,7 @@ Charm +5 / Agility +3
 > BEGIN STRING
 ジェットグラス/6/0
 > CONTEXT: Armors/35/name/
-Jet Glass/6/0
+Jet Glasses/6/0
 > END STRING
 
 > BEGIN STRING
@@ -263,7 +263,7 @@ Charm +6 / Vision Res. +20%
 > BEGIN STRING
 ポッパナハット/5/0
 > CONTEXT: Armors/36/name/
-Poppanahat/5/0
+Poppana Hat/5/0
 > END STRING
 
 > BEGIN STRING
@@ -547,7 +547,7 @@ Charm +23
 > BEGIN STRING
 カセドラルポンチョ/5/0
 > CONTEXT: Armors/83/name/
-Cathedral Robe/5/0
+Cathedral Poncho/5/0
 > END STRING
 
 > BEGIN STRING
@@ -655,7 +655,7 @@ Charm +1 / Energy +5
 > BEGIN STRING
 シルクガントレット/2/0
 > CONTEXT: Armors/99/name/
-Silk Gauntlet/2/0
+Silk Gauntlets/2/0
 > END STRING
 
 > BEGIN STRING
@@ -1759,7 +1759,7 @@ Cave Key/0/0/0/155m128
 > BEGIN STRING
 習得：フォシブル / 習得：エオルフニ / 魔力+3
 > CONTEXT: Armors/220/description/
-Learn: Fossible / Learn: Eorufuni / Magic +3
+Learn: Forcible / Learn: Eorufuni / Magic +3
 > END STRING
 
 > BEGIN STRING
@@ -1867,7 +1867,7 @@ Skull Necklace/0/0/0/155m119
 > BEGIN STRING
 習得：フォシブル / 習得：ファル・ウルズグン
 > CONTEXT: Armors/229/description/
-Learn: Fossible / Learn: Far-Uruzgun
+Learn: Forcible / Learn: Far-Uruzgun
 > END STRING
 
 > BEGIN STRING
@@ -1915,7 +1915,7 @@ Wolvesfur/0/0/0/155
 > BEGIN STRING
 習得：フォシブル / 素早さ+10
 > CONTEXT: Armors/233/description/
-Learn: Fossible / Agility +10
+Learn: Forcible / Agility +10
 > END STRING
 
 > BEGIN STRING

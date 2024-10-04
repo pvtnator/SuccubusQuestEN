@@ -1626,7 +1626,7 @@ True vision emerges from within the Demon Lord Shard.
 > BEGIN STRING
 ヴィジャラスヴィジョン
 > CONTEXT: Items/283/name/
-Villalas Vision
+Vigorous Vision
 > END STRING
 
 > BEGIN STRING

@@ -213,8 +213,8 @@ Cooldown
 
 > BEGIN STRING
 ヴィジャラス
-> CONTEXT: States/37/name/ < UNTRANSLATED
-
+> CONTEXT: States/37/name/
+Vigor
 > END STRING
 
 > BEGIN STRING
@@ -738,7 +738,7 @@ Sandalwood
 アローズウッド
 > CONTEXT: States/138/name/
 > CONTEXT: Items/4/name/
-Arousewood
+Aloeswood
 > END STRING
 
 > BEGIN STRING
@@ -1905,7 +1905,7 @@ MP+10%(夏至の魔力)
 フォシブル
 > CONTEXT: States/373/name/
 > CONTEXT: Skills/155/name/
-Fossible
+Forcible
 > END STRING
 
 > BEGIN STRING
