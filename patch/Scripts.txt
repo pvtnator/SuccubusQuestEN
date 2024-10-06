@@ -4840,7 +4840,7 @@
 > BEGIN STRING
 "空中都市ホロスで育った植物で染められたシャツ。\\n"
 > CONTEXT: Scripts/RPG::Armor(detail)/134:15
-"A shirt dyed with plants grown in the floating city of Holos."
+"A shirt dyed with plants grown in the floating city of Holos.\\n"
 > END STRING
 
 > BEGIN STRING
@@ -5313,7 +5313,7 @@
 > BEGIN STRING
 "月の光を放つ宝石を\\\\r[嵌,は]め込んだ腕輪。\\n"
 > CONTEXT: Scripts/RPG::Armor(detail)/213:15
-"A bracelet inlaid with a gem that emits moonlight."
+"A bracelet inlaid with a gem that emits moonlight.\\n"
 > END STRING
 
 > BEGIN STRING
@@ -5591,7 +5591,7 @@
 > BEGIN STRING
 "ターコイズが\\\\r[嵌,は]め込まれたアクセサリ。\\n"
 > CONTEXT: Scripts/RPG::Armor(detail)/258:15
-"An accessory inlaid with turquoise."
+"An accessory inlaid with turquoise.\\n"
 > END STRING
 
 > BEGIN STRING
@@ -6679,14 +6679,14 @@
 
 > BEGIN STRING
 "雄鹿から採れる分泌物をインセンスに加工したもの。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/52:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/52:15
+"Secrets extracted from male deer processed into incense.\\n"
 > END STRING
 
 > BEGIN STRING
 "\\\\r[麝香,じゃこう]。 その香りは高い催淫作用を持ち、\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/53:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/53:15
+"Musk. Its scent is highly aphrodisiac,\\n"
 > END STRING
 
 > BEGIN STRING
@@ -6697,8 +6697,8 @@
 
 > BEGIN STRING
 "一種のフェロモンであると考えられている。"
-> CONTEXT: Scripts/RPG::Item(detail)/54:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/54:15
+"so it's thought to be a type of pheromone."
 > END STRING
 
 > BEGIN STRING
@@ -6711,7 +6711,7 @@
 "マージョラム"
 > CONTEXT: Scripts/RPG::Item(detail)/55:12
 > CONTEXT: Scripts/Scene_Battle 5/72:17
-"Marjoram"
+"Majoram"
 > END STRING
 
 > BEGIN STRING
@@ -6722,20 +6722,20 @@
 
 > BEGIN STRING
 "甘く温かみのある香りを持つマージョラムの葉を\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/56:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/56:15
+"Sweet and warm scented majoram leaves\\n"
 > END STRING
 
 > BEGIN STRING
 "\#{myname}は魔法を使えるようになった！"
-> CONTEXT: Scripts/RPG::State (message)/208:19 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/208:19
+"\#{myname} can now use magic!"
 > END STRING
 
 > BEGIN STRING
 "インセンスに加工したもの。 制淫作用を持つため、\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/57:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/57:15
+"processed into incense. Due to its anti-aphrodisiac effect,\\n"
 > END STRING
 
 > BEGIN STRING
@@ -6746,8 +6746,8 @@
 
 > BEGIN STRING
 "禁欲的なエーランド教徒に好んで用いられる。"
-> CONTEXT: Scripts/RPG::Item(detail)/58:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/58:15
+"it is favored by ascetic Ehland believers."
 > END STRING
 
 > BEGIN STRING
@@ -6764,8 +6764,8 @@
 
 > BEGIN STRING
 "ゼラニウムの葉から抽出されたエッセンス。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/60:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/60:15
+"An essence extracted from geranium leaves.\\n"
 > END STRING
 
 > BEGIN STRING
@@ -6776,8 +6776,8 @@
 
 > BEGIN STRING
 "ほのかに甘い香りが心のバランスを取り戻す。"
-> CONTEXT: Scripts/RPG::Item(detail)/61:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/61:15
+"The subtle sweet scent helps restore balance to the mind."
 > END STRING
 
 > BEGIN STRING
@@ -6794,8 +6794,8 @@
 
 > BEGIN STRING
 "カモミールの花から抽出されたエッセンス。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/63:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/63:15
+"An essence extracted from chamomile flowers.\\n"
 > END STRING
 
 > BEGIN STRING
@@ -6806,14 +6806,14 @@
 
 > BEGIN STRING
 "柔らかく優しい中に芯のある香りを持ち、\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/64:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/64:15
+"It has a soft, gentle yet powerful scent,\\n"
 > END STRING
 
 > BEGIN STRING
 "心身を落ち着かせ不安を取り除く。"
-> CONTEXT: Scripts/RPG::Item(detail)/65:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/65:15
+"which calms the body and mind and relieves anxiety."
 > END STRING
 
 > BEGIN STRING
@@ -6830,8 +6830,8 @@
 
 > BEGIN STRING
 "魔除けの香草ディルの葉からリスヴェグ魔導院が\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/67:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/67:15
+"An essence extracted by the Lisveg Academy\\n"
 > END STRING
 
 > BEGIN STRING
@@ -6842,8 +6842,8 @@
 
 > BEGIN STRING
 "抽出したエッセンス。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/68:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/68:15
+"from the leaves of the warding herb dill.\\n"
 > END STRING
 
 > BEGIN STRING
@@ -6909,26 +6909,26 @@
 
 > BEGIN STRING
 "\#{myname}は二回行動できるようになった！"
-> CONTEXT: Scripts/RPG::State (message)/227:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/227:17
+"\#{myname} now has double action!"
 > END STRING
 
 > BEGIN STRING
 "清涼感あふれる香りが気分を一新させる。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/77:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/77:15
+"The refreshing scent will refresh your mood.\\n"
 > END STRING
 
 > BEGIN STRING
 "\#{myname}のトワイスの効果が切れた！"
-> CONTEXT: Scripts/RPG::State (message)/228:19 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/228:19
+"\#{myname}'s Twice has ended!"
 > END STRING
 
 > BEGIN STRING
 "しばしばガラスの器で供され、見た目にも美しい。"
-> CONTEXT: Scripts/RPG::Item(detail)/78:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/78:15
+"Often served in glass, which makes it visually appealing."
 > END STRING
 
 > BEGIN STRING
@@ -6939,8 +6939,8 @@
 
 > BEGIN STRING
 "バラの花の香りをつけた紅茶。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/80:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/80:15
+"Tea scented with rose flowers.\\n"
 > END STRING
 
 > BEGIN STRING
@@ -6951,8 +6951,8 @@
 
 > BEGIN STRING
 "バラは古代から華やかな愛のシンボルとされ、\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/81:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/81:15
+"Rose has long been a glamorous symbol of love,\\n"
 > END STRING
 
 > BEGIN STRING
@@ -6965,14 +6965,14 @@
 
 > BEGIN STRING
 "その香りは最古の媚薬とも言われる。"
-> CONTEXT: Scripts/RPG::Item(detail)/82:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/82:15
+"and its scent is said to be the oldest aphrodisiac."
 > END STRING
 
 > BEGIN STRING
 /ティー/
-> CONTEXT: Scripts/Game_Battler 3-2/120:27 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler 3-2/120:27
+/Tea/
 > END STRING
 
 > BEGIN STRING
@@ -6989,8 +6989,8 @@
 
 > BEGIN STRING
 "ベルガモットの果皮を用いて香りをつけた紅茶。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/84:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/84:15
+"Black tea flavored with bergamot peel.\\n"
 > END STRING
 
 > BEGIN STRING
@@ -7002,8 +7002,8 @@
 
 > BEGIN STRING
 "シトラスの香りが沈んだ気分を高揚させ、\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/85:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/85:15
+"The citrus scent lifts spirits,\\n"
 > END STRING
 
 > BEGIN STRING
@@ -7021,8 +7021,8 @@
 
 > BEGIN STRING
 "同時に心をゆったりと落ち着かせる。"
-> CONTEXT: Scripts/RPG::Item(detail)/86:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/86:15
+"relaxes and calmes at the same time."
 > END STRING
 
 > BEGIN STRING
@@ -7052,8 +7052,8 @@
 
 > BEGIN STRING
 "ミントをベースに刺激的なハーブ・スパイスを\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/88:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/88:15
+"A mint-based herbal tea blended with\\n"
 > END STRING
 
 > BEGIN STRING
@@ -7073,20 +7073,20 @@
 "ベルモットミョッズ"
 > CONTEXT: Scripts/Game_Battler 3-2/164:43
 > CONTEXT: Scripts/RPG::Item(detail)/278:12
-"Vermouth Mijoze"
+"Vermouth Mjodz"
 > END STRING
 
 > BEGIN STRING
 "数種ブレンドしたハーブティー。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/89:15 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Item(detail)/97:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/89:15
+> CONTEXT: Scripts/RPG::Item(detail)/97:15
+"several stimulating herbs and spices.\\n"
 > END STRING
 
 > BEGIN STRING
 "リスヴェグのエルフたちに好んで飲まれている。"
-> CONTEXT: Scripts/RPG::Item(detail)/90:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/90:15
+"A favorite drink of the elves of Lisveg."
 > END STRING
 
 > BEGIN STRING
@@ -7116,8 +7116,8 @@
 
 > BEGIN STRING
 "茶葉と胡椒や肉桂などのスパイスを\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/92:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/92:15
+"Milk tea unique to Sedel, made by\\n"
 > END STRING
 
 > BEGIN STRING
@@ -7128,8 +7128,8 @@
 
 > BEGIN STRING
 "クヴァラットミルクとミレットシュガーで甘く煮出した\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/93:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/93:15
+"boiling tea leaves and spices like pepper and cinnamon\\n"
 > END STRING
 
 > BEGIN STRING
@@ -7140,8 +7140,8 @@
 
 > BEGIN STRING
 "セーデル地方独特のミルクティー。"
-> CONTEXT: Scripts/RPG::Item(detail)/94:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/94:15
+"with Kvalatte milk and millet sugar."
 > END STRING
 
 > BEGIN STRING
@@ -7199,8 +7199,8 @@
 
 > BEGIN STRING
 "カモミールをベースに心を落ち着かせるハーブを\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/96:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/96:15
+"Chamomile based calming herb with a sedative effect,\\n"
 > END STRING
 
 > BEGIN STRING
@@ -7217,8 +7217,8 @@
 
 > BEGIN STRING
 "鎮静作用だけでなく、寒さで冷えた体を温める効果も高い。"
-> CONTEXT: Scripts/RPG::Item(detail)/98:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/98:15
+"but also effective at warming a chilled body."
 > END STRING
 
 > BEGIN STRING
@@ -7241,14 +7241,14 @@
 
 > BEGIN STRING
 "遠くキアズマから送られてくる貴重な茶葉をベースに\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/100:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/100:15
+"With leaves from Kiasma and flavored with herbs\\n"
 > END STRING
 
 > BEGIN STRING
 "ルグブロードの一部で栽培されるハーブで香りをつけた\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/101:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/101:15
+"grown in Rugbrod, this high-quality black tea\\n"
 > END STRING
 
 > BEGIN STRING
@@ -7259,8 +7259,8 @@
 
 > BEGIN STRING
 "グルッペン王家御用達の高級紅茶。"
-> CONTEXT: Scripts/RPG::Item(detail)/102:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/102:15
+"is used by the royal family of Gruppen."
 > END STRING
 
 > BEGIN STRING
@@ -7277,8 +7277,8 @@
 
 > BEGIN STRING
 "リスヴェグの限られた地域で、熟練した魔術士が\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/104:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/104:15
+"Made from rare magical herbs that can only be grown\\n"
 > END STRING
 
 > BEGIN STRING
@@ -7292,8 +7292,8 @@
 
 > BEGIN STRING
 "数年がかりで魔力を注ぎこむことでのみ育つ\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/105:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/105:15
+"in a place in Lisveg by skilled mages\\n"
 > END STRING
 
 > BEGIN STRING
@@ -7334,8 +7334,8 @@
 
 > BEGIN STRING
 "貴重なマジックハーブを用いたお茶。"
-> CONTEXT: Scripts/RPG::Item(detail)/106:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/106:15
+"who spend years infusing them with magic."
 > END STRING
 
 > BEGIN STRING
@@ -7375,8 +7375,8 @@
 
 > BEGIN STRING
 "さまざまなハーブから神経を落ち着かせる成分を抽出し、\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/109:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/109:15
+"Made by extracting and compounding ingredients\\n"
 > END STRING
 
 > BEGIN STRING
@@ -7388,9 +7388,9 @@
 
 > BEGIN STRING
 "調合した薬品。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/110:15 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Item(detail)/114:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/110:15
+> CONTEXT: Scripts/RPG::Item(detail)/114:15
+"from various nerve-calming herbs.\\n"
 > END STRING
 
 > BEGIN STRING
@@ -7401,9 +7401,9 @@
 
 > BEGIN STRING
 "効果は強力だが、副作用もある。"
-> CONTEXT: Scripts/RPG::Item(detail)/111:15 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Item(detail)/115:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/111:15
+> CONTEXT: Scripts/RPG::Item(detail)/115:15
+"It's strong, but it has side effects."
 > END STRING
 
 > BEGIN STRING
@@ -7420,8 +7420,8 @@
 
 > BEGIN STRING
 "強化興奮剤"
-> CONTEXT: Scripts/RPG::Item(detail)/112:18 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/112:18
+"Enhanced Stimulant"
 > END STRING
 
 > BEGIN STRING
@@ -7432,8 +7432,8 @@
 
 > BEGIN STRING
 "さまざまなハーブから神経を高ぶらせる成分を抽出し、\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/113:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/113:15
+"Beautiful white flower with a strong euphoric effect,\\n"
 > END STRING
 
 > BEGIN STRING
@@ -7444,8 +7444,8 @@
 
 > BEGIN STRING
 "\#{myname}の攻めアップの効果が切れた！"
-> CONTEXT: Scripts/RPG::State (message)/272:19 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/272:19
+"\#{myname}'s attack boost effect has ended!"
 > END STRING
 
 > BEGIN STRING
@@ -7462,8 +7462,8 @@
 
 > BEGIN STRING
 "強い陶酔作用を持つ、白く美しい花。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/117:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/117:15
+"Made from various nerve-stimulating herbs.\\n"
 > END STRING
 
 > BEGIN STRING
@@ -7474,8 +7474,8 @@
 
 > BEGIN STRING
 "あまりの陶酔感に、なにもかもを忘れてしまうという。"
-> CONTEXT: Scripts/RPG::Item(detail)/118:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/118:15
+"The intense feeling of euphoria makes you forget all else."
 > END STRING
 
 > BEGIN STRING
@@ -7498,14 +7498,14 @@
 
 > BEGIN STRING
 "夢魔の好む不思議なキャンディ。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/121:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/121:15
+"A mysterious candy favored by succubi.\\n"
 > END STRING
 
 > BEGIN STRING
 "人が舐めようとしても、いつのまにか手に戻っていて\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/122:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/122:15
+"Even if you try to lick it, it ends up\\n"
 > END STRING
 
 > BEGIN STRING
@@ -7524,8 +7524,8 @@
 
 > BEGIN STRING
 "口に入れることができない。"
-> CONTEXT: Scripts/RPG::Item(detail)/123:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/123:15
+"back in the hand, and can't be put in the mouth."
 > END STRING
 
 > BEGIN STRING
@@ -7542,11 +7542,11 @@
 
 > BEGIN STRING
 "。"
-> CONTEXT: Scripts/RPG::Item(detail)/125:46 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Item(detail)/127:46 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Item(detail)/135:46 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Item(detail)/145:46 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/125:46
+> CONTEXT: Scripts/RPG::Item(detail)/127:46
+> CONTEXT: Scripts/RPG::Item(detail)/135:46
+> CONTEXT: Scripts/RPG::Item(detail)/145:46
+""
 > END STRING
 
 > BEGIN STRING
@@ -7569,15 +7569,15 @@
 
 > BEGIN STRING
 "。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/129:46 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Item(detail)/132:46 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/129:46
+> CONTEXT: Scripts/RPG::Item(detail)/132:46
+"\\n"
 > END STRING
 
 > BEGIN STRING
 "悪酔いしてしまった時におすすめ。"
-> CONTEXT: Scripts/RPG::Item(detail)/130:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/130:15
+"Recommended for when you get drunk."
 > END STRING
 
 > BEGIN STRING
@@ -7601,8 +7601,8 @@
 
 > BEGIN STRING
 "毒薬として栽培が禁止されていたこともある。"
-> CONTEXT: Scripts/RPG::Item(detail)/133:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/133:15
+"Once banned from cultivation for being considered poison."
 > END STRING
 
 > BEGIN STRING
@@ -7631,8 +7631,8 @@
 
 > BEGIN STRING
 "ドラウムニョルのほこらとその外の世界を\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/137:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/137:15
+"A mysterious thread that connects Draumnior Shrine\\n"
 > END STRING
 
 > BEGIN STRING
@@ -7643,14 +7643,14 @@
 
 > BEGIN STRING
 "不思議な力で繋ぐ糸。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/138:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/138:15
+"to the outside world.\\n"
 > END STRING
 
 > BEGIN STRING
 "ひとつ手繰ればいつのまにかドラウムニョルにいる。"
-> CONTEXT: Scripts/RPG::Item(detail)/139:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/139:15
+"One touch and you'll find yourself in Draumnior."
 > END STRING
 
 > BEGIN STRING
@@ -7667,8 +7667,8 @@
 
 > BEGIN STRING
 "歪んでぐにゃぐにゃになった時計。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/141:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/141:15
+"A warped and floppy clock.\\n"
 > END STRING
 
 > BEGIN STRING
@@ -7679,14 +7679,14 @@
 
 > BEGIN STRING
 "時計としてありえない形をしているが、\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/142:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/142:15
+"It has an impossible shape for a clock,\\n"
 > END STRING
 
 > BEGIN STRING
 "なぜかちゃんと動いている。"
-> CONTEXT: Scripts/RPG::Item(detail)/143:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/143:15
+"but for some reason it works just fine."
 > END STRING
 
 > BEGIN STRING
@@ -7715,16 +7715,16 @@
 
 > BEGIN STRING
 "霊銀ミスリルで作られた拘束具。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/147:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/147:15
+"Restraints made from mythril.\\n"
 > END STRING
 
 > BEGIN STRING
 "その魔力により、この世に実体を持たない者にも\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/148:15 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Item(detail)/152:15 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Item(detail)/156:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/148:15
+> CONTEXT: Scripts/RPG::Item(detail)/152:15
+> CONTEXT: Scripts/RPG::Item(detail)/156:15
+"Its magic has a particular effect on those\\n"
 > END STRING
 
 > BEGIN STRING
@@ -7735,10 +7735,10 @@
 
 > BEGIN STRING
 "一定の効果を発揮する。"
-> CONTEXT: Scripts/RPG::Item(detail)/149:15 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Item(detail)/153:15 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Item(detail)/157:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/149:15
+> CONTEXT: Scripts/RPG::Item(detail)/153:15
+> CONTEXT: Scripts/RPG::Item(detail)/157:15
+"who do not have a physical body in this world."
 > END STRING
 
 > BEGIN STRING
@@ -7755,8 +7755,8 @@
 
 > BEGIN STRING
 "霊薬エーテルが調合された媚薬。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/151:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/151:15
+"An aphrodisiac made with elixir ether.\\n"
 > END STRING
 
 > BEGIN STRING
@@ -7780,8 +7780,8 @@
 
 > BEGIN STRING
 "元は夢魔のものと思われる、ひとりでに動く触手。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/155:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/155:15
+"Autonomous tentacles thought originally belonging to a succubus.\\n"
 > END STRING
 
 > BEGIN STRING
@@ -7799,21 +7799,21 @@
 
 > BEGIN STRING
 "魅惑的な芳香を放つ美しい花束。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/159:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/159:15
+"A beautiful bouquet with an enchanting fragrance.\\n"
 > END STRING
 
 > BEGIN STRING
 "プレゼントとしても使えそうだ。"
-> CONTEXT: Scripts/RPG::Item(detail)/160:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/160:15
+"It could also be used as a gift."
 > END STRING
 
 > BEGIN STRING
 "興奮剤の副作用！\\n\\\\w[\\\\v[104]]"
-> CONTEXT: Scripts/RPG::State (message)/324:17 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::State (message)/327:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/324:17
+> CONTEXT: Scripts/RPG::State (message)/327:17
+"Stimulant side-effects!\\n\\\\w[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
@@ -7824,26 +7824,26 @@
 
 > BEGIN STRING
 "“本品は魔導人形の思考回路に直接作用し、\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/162:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/162:15
+"“Directly affects the magical doll's thoughts,\\n"
 > END STRING
 
 > BEGIN STRING
 "　よりロマンチックでエキサイティングなひとときを\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/163:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/163:15
+" allowing for a more romantic and\\n"
 > END STRING
 
 > BEGIN STRING
 "　お楽しみいただけます。”　－説明書より"
-> CONTEXT: Scripts/RPG::Item(detail)/164:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/164:15
+" exciting time.”  -Instruction manual"
 > END STRING
 
 > BEGIN STRING
 "ヘルドライヴの副作用！\\n\\\\w[\\\\v[104]]"
-> CONTEXT: Scripts/RPG::State (message)/330:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/330:17
+"Heldrive side effects!\\n\\\\w[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING
@@ -7854,8 +7854,8 @@
 
 > BEGIN STRING
 "ドゥヂチの塔の魔力を利用し、魔術士なら簡単に\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/166:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/166:15
+"Using the magical power of Dodichi Tower,\\n"
 > END STRING
 
 > BEGIN STRING
@@ -7866,8 +7866,8 @@
 
 > BEGIN STRING
 "塔までワープすることができる。"
-> CONTEXT: Scripts/RPG::Item(detail)/167:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/167:15
+"magicians can easily warp to the tower."
 > END STRING
 
 > BEGIN STRING
@@ -7884,14 +7884,14 @@
 
 > BEGIN STRING
 "夢魔に呪いをかけられた拘束具。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/169:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/169:15
+"A restraint device cursed by a succubus.\\n"
 > END STRING
 
 > BEGIN STRING
 "意志を持つかのように使用者を拘束し、\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/170:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/170:15
+"It binds the user as if it had a will of its own,\\n"
 > END STRING
 
 > BEGIN STRING
@@ -7902,8 +7902,8 @@
 
 > BEGIN STRING
 "決して解放しない。"
-> CONTEXT: Scripts/RPG::Item(detail)/171:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/171:15
+"and never releases."
 > END STRING
 
 > BEGIN STRING
@@ -7920,8 +7920,8 @@
 
 > BEGIN STRING
 "人魚が曲を奏でるのに用いる竪琴。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/173:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/173:15
+"A harp used by mermaids to play songs.\\n"
 > END STRING
 
 > BEGIN STRING
@@ -7934,8 +7934,8 @@
 
 > BEGIN STRING
 "奏でるものの想いを音色に換える魔力を持つ。"
-> CONTEXT: Scripts/RPG::Item(detail)/174:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/174:15
+"Magically turns the player's feelings into music."
 > END STRING
 
 > BEGIN STRING
@@ -7947,25 +7947,25 @@
 > BEGIN STRING
 "ルゥインローション"
 > CONTEXT: Scripts/RPG::Item(detail)/175:12
-"Luin Lotion"
+"Ruin Lotion"
 > END STRING
 
 > BEGIN STRING
 "夢魔に呪いをかけられた媚薬。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/176:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/176:15
+"A love potion cursed by a succubus.\\n"
 > END STRING
 
 > BEGIN STRING
 "\#{myname}は悪良いしてきた…！"
-> CONTEXT: Scripts/RPG::State (message)/343:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/343:17
+"\#{myname} feels wicked...!"
 > END STRING
 
 > BEGIN STRING
 "使用者の快感を何倍にも増幅し、破滅へと導く。"
-> CONTEXT: Scripts/RPG::Item(detail)/177:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/177:15
+"Multiplies the user's pleasure, leading them to ruin."
 > END STRING
 
 > BEGIN STRING
@@ -7976,8 +7976,8 @@
 
 > BEGIN STRING
 "夢魔の意思が強く残る触手。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/179:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/179:15
+"A tentacle that still retains the will of a succubus.\\n"
 > END STRING
 
 > BEGIN STRING
@@ -7988,20 +7988,20 @@
 
 > BEGIN STRING
 "使うとたちまち使用者に襲いかかり、"
-> CONTEXT: Scripts/RPG::Item(detail)/180:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/180:15
+"When used, it immediately attacks the user, "
 > END STRING
 
 > BEGIN STRING
 "快感を与え続ける。"
-> CONTEXT: Scripts/RPG::Item(detail)/181:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/181:15
+"and continues to give pleasure."
 > END STRING
 
 > BEGIN STRING
 "しかしあまり意味はなかった……"
-> CONTEXT: Scripts/RPG::State (message)/347:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/347:17
+"But it didn't amount to anything..."
 > END STRING
 
 > BEGIN STRING
@@ -8012,8 +8012,8 @@
 
 > BEGIN STRING
 "「ほどほどに愛せ。それが恋の秘訣だ。」\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/183:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/183:15
+"「Love in moderation. That's the secret of love.」\\n"
 > END STRING
 
 > BEGIN STRING
@@ -8036,8 +8036,8 @@
 
 > BEGIN STRING
 "－シェイクスピア 『ロミオとジュリエット』"
-> CONTEXT: Scripts/RPG::Item(detail)/185:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/185:15
+"- Shakespeare, Romeo and Juliet"
 > END STRING
 
 > BEGIN STRING
@@ -8048,46 +8048,46 @@
 
 > BEGIN STRING
 "スペードのエース"
-> CONTEXT: Scripts/RPG::Item(detail)/186:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/186:12
+"Ace of Spades"
 > END STRING
 
 > BEGIN STRING
 "スペードの絵柄が描かれたカード。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/187:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/187:15
+"A card with a picture of a spade on it.\\n"
 > END STRING
 
 > BEGIN STRING
 "\#{myname}は触手にとりつかれた！"
-> CONTEXT: Scripts/RPG::State (message)/356:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/356:17
+"\#{myname} is being touched by the tentacle!"
 > END STRING
 
 > BEGIN STRING
 "別な世界の魔力を宿している。"
-> CONTEXT: Scripts/RPG::Item(detail)/188:15 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Item(detail)/191:15 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Item(detail)/194:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/188:15
+> CONTEXT: Scripts/RPG::Item(detail)/191:15
+> CONTEXT: Scripts/RPG::Item(detail)/194:15
+"Contains the magic of another world."
 > END STRING
 
 > BEGIN STRING
 "\#{myname}にとりついた触手は\\n動かなくなった！"
-> CONTEXT: Scripts/RPG::State (message)/357:19 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/357:19
+"The tentacle stuck to \#{myname}\\nstopped moving!"
 > END STRING
 
 > BEGIN STRING
 "ハートのクィーン"
-> CONTEXT: Scripts/RPG::Item(detail)/189:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/189:12
+"Queen of Hearts"
 > END STRING
 
 > BEGIN STRING
 "高貴な女王の絵柄が描かれたカード。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/190:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/190:15
+"A card with a picture of a noble queen on it.\\n"
 > END STRING
 
 > BEGIN STRING
@@ -8105,21 +8105,21 @@
 
 > BEGIN STRING
 "ダイアのキング"
-> CONTEXT: Scripts/RPG::Item(detail)/192:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/192:12
+"King of Diamonds"
 > END STRING
 
 > BEGIN STRING
 "尊大な王の絵柄が描かれたカード。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/193:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/193:15
+"A card with a picture of a haughty king on it.\\n"
 > END STRING
 
 > BEGIN STRING
 "\#{myname}のリスティルの効果が切れた！"
-> CONTEXT: Scripts/RPG::State (message)/363:19 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::State (message)/374:19 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/363:19
+> CONTEXT: Scripts/RPG::State (message)/374:19
+"The effect of \#{myname}'s Ristil has worn off!"
 > END STRING
 
 > BEGIN STRING
@@ -8130,8 +8130,8 @@
 
 > BEGIN STRING
 "持ち手に「１０」と刻まれた奇妙な形の印鑑。"
-> CONTEXT: Scripts/RPG::Item(detail)/196:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/196:15
+"Strangely shaped, with '10' engraved on the handle."
 > END STRING
 
 > BEGIN STRING
@@ -8142,8 +8142,8 @@
 
 > BEGIN STRING
 "持ち手に「２５」と刻まれた奇妙な形の印鑑。"
-> CONTEXT: Scripts/RPG::Item(detail)/198:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/198:15
+"Strangely shaped, with '25' engraved on the handle."
 > END STRING
 
 > BEGIN STRING
@@ -8154,8 +8154,8 @@
 
 > BEGIN STRING
 "持ち手に「４０」と刻まれた奇妙な形の印鑑。"
-> CONTEXT: Scripts/RPG::Item(detail)/200:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/200:15
+"Strangely shaped, with '40' engraved on the handle."
 > END STRING
 
 > BEGIN STRING
@@ -8166,26 +8166,26 @@
 
 > BEGIN STRING
 "持ち手に「５５」と刻まれた奇妙な形の印鑑。"
-> CONTEXT: Scripts/RPG::Item(detail)/202:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/202:15
+"Strangely shaped, with '55' engraved on the handle."
 > END STRING
 
 > BEGIN STRING
 "銀のティーカップ"
-> CONTEXT: Scripts/RPG::Item(detail)/203:12 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/203:12
+"Silver Teacup"
 > END STRING
 
 > BEGIN STRING
 "純銀でできたティーカップ。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/204:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/204:15
+"A teacup made of pure silver.\\n"
 > END STRING
 
 > BEGIN STRING
 "グルッペン王家のティータイムにも用いられる高級品。"
-> CONTEXT: Scripts/RPG::Item(detail)/205:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/205:15
+"A luxury item, used at teatime by the Gruppen royal family."
 > END STRING
 
 > BEGIN STRING
@@ -8232,22 +8232,22 @@
 
 > BEGIN STRING
 "\#{myname}はちょっと強引になった！"
-> CONTEXT: Scripts/RPG::State (message)/381:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/381:17
+"\#{myname} has become a bit pushy!"
 > END STRING
 
 > BEGIN STRING
 "目に見えなく、手でも触れられないが\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/210:15 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Item(detail)/214:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/210:15
+> CONTEXT: Scripts/RPG::Item(detail)/214:15
+"A strange ring that cannot be seen or touched,\\n"
 > END STRING
 
 > BEGIN STRING
 "存在だけはそこにある奇妙な指輪。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/211:15 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Item(detail)/215:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/211:15
+> CONTEXT: Scripts/RPG::Item(detail)/215:15
+"yet it still exists.\\n"
 > END STRING
 
 > BEGIN STRING
@@ -8258,15 +8258,15 @@
 
 > BEGIN STRING
 "時空を超え、あらゆる場所に偏在する。"
-> CONTEXT: Scripts/RPG::Item(detail)/212:15 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Item(detail)/216:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/212:15
+> CONTEXT: Scripts/RPG::Item(detail)/216:15
+"Transcends time and space and is omnipresent everywhere."
 > END STRING
 
 > BEGIN STRING
 "若々しい力が場に満ち溢れた！"
-> CONTEXT: Scripts/RPG::State (message)/384:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/384:17
+"The place is filled with youthful energy!"
 > END STRING
 
 > BEGIN STRING
@@ -8277,8 +8277,8 @@
 
 > BEGIN STRING
 "フレッシュの効果が切れた！"
-> CONTEXT: Scripts/RPG::State (message)/385:19 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::State (message)/385:19
+"Fresh has worn off!"
 > END STRING
 
 > BEGIN STRING
@@ -8295,24 +8295,24 @@
 
 > BEGIN STRING
 "砕け散った魔王のかけらの一つ。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/221:15 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Item(detail)/225:15 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Item(detail)/229:15 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Item(detail)/233:15 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Item(detail)/237:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/221:15
+> CONTEXT: Scripts/RPG::Item(detail)/225:15
+> CONTEXT: Scripts/RPG::Item(detail)/229:15
+> CONTEXT: Scripts/RPG::Item(detail)/233:15
+> CONTEXT: Scripts/RPG::Item(detail)/237:15
+"One of the fragments of the shattered Demon Lord.\\n"
 > END STRING
 
 > BEGIN STRING
 "『使い魔』の姿に具現化し、\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/222:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/222:15
+"Embodying itself in the form of a 'familiar',\\n"
 > END STRING
 
 > BEGIN STRING
 "その知識と魔法で持ち主を助ける。"
-> CONTEXT: Scripts/RPG::Item(detail)/223:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/223:15
+"aids its owner with knowledge and magic."
 > END STRING
 
 > BEGIN STRING
@@ -8332,14 +8332,14 @@
 
 > BEGIN STRING
 "『槍』の姿に具現化し、\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/226:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/226:15
+"Embodying itself in the form of a 'spear',\\n"
 > END STRING
 
 > BEGIN STRING
 "貫いた夢魔を持ち主の支配下に置く力を持つ。"
-> CONTEXT: Scripts/RPG::Item(detail)/227:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/227:15
+"has the power to control succubi it pierces."
 > END STRING
 
 > BEGIN STRING
@@ -8350,14 +8350,14 @@
 
 > BEGIN STRING
 "『杖』の姿に具現化し、\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/230:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/230:15
+"Embodying itself in the form of a 'staff',\\n"
 > END STRING
 
 > BEGIN STRING
 "魔王の魔力を魔法として行使できる力を持つ。"
-> CONTEXT: Scripts/RPG::Item(detail)/231:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/231:15
+"has the power to use the Demon Lord's magic."
 > END STRING
 
 > BEGIN STRING
@@ -8368,14 +8368,14 @@
 
 > BEGIN STRING
 "『剣』の姿に具現化し、\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/234:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/234:15
+"Embodying itself in the form of a 'sword',\\n"
 > END STRING
 
 > BEGIN STRING
 "夢魔を切り裂く力を持つ。"
-> CONTEXT: Scripts/RPG::Item(detail)/235:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/235:15
+"has the power to cut through succubi."
 > END STRING
 
 > BEGIN STRING
@@ -8386,8 +8386,8 @@
 
 > BEGIN STRING
 "魔王の『転生』を司る役目を持つ。"
-> CONTEXT: Scripts/RPG::Item(detail)/238:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/238:15
+"Responsible for the 'reincarnation' of the Demon Lord."
 > END STRING
 
 > BEGIN STRING
@@ -8431,8 +8431,8 @@
 
 > BEGIN STRING
 "高潔な精神を持つ孤高の王の像が見える。"
-> CONTEXT: Scripts/RPG::Item(detail)/247:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/247:15
+"A statue of a lone king with a noble spirit can be seen."
 > END STRING
 
 > BEGIN STRING
@@ -8443,8 +8443,8 @@
 
 > BEGIN STRING
 "中睦まじい父娘の像が見える。"
-> CONTEXT: Scripts/RPG::Item(detail)/250:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/250:15
+"A statue of a loving father and daughter can be seen."
 > END STRING
 
 > BEGIN STRING
@@ -8455,14 +8455,14 @@
 
 > BEGIN STRING
 "正のヴィジョン。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/252:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/252:15
+"Positive vision.\\n"
 > END STRING
 
 > BEGIN STRING
 "愛すべき人の面影が見える。"
-> CONTEXT: Scripts/RPG::Item(detail)/253:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/253:15
+"A loved one can be seen."
 > END STRING
 
 > BEGIN STRING
@@ -8473,104 +8473,104 @@
 
 > BEGIN STRING
 "持ち主の強い意志が出現させた虚のヴィジョン。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/255:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/255:15
+"An empty vision brought into being by the owner's strong will.\\n"
 > END STRING
 
 > BEGIN STRING
 "小さなかけらの中に果てしない虚無が広がっている。"
-> CONTEXT: Scripts/RPG::Item(detail)/256:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/256:15
+"Within this tiny fragment lies an endless void."
 > END STRING
 
 > BEGIN STRING
 "虚のヴィジョン。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/258:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/258:17
+"Void Vision.\\n"
 > END STRING
 
 > BEGIN STRING
 "果てしない虚無が、しかし今では\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/259:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/259:17
+"Endless nothingness,\\n"
 > END STRING
 
 > BEGIN STRING
 "何かを形作っているように見える。"
-> CONTEXT: Scripts/RPG::Item(detail)/260:17 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/260:17
+"but now taking shape."
 > END STRING
 
 > BEGIN STRING
 "ヴィドヴィンに魔王が棲みついてからは、\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/265:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/265:15
+"Ever since the Demon Lord took up residence in Vidvin,\\n"
 > END STRING
 
 > BEGIN STRING
 "源泉で採れる水は貴重品となっている。"
-> CONTEXT: Scripts/RPG::Item(detail)/266:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/266:15
+"Water from the spring has become a valuable commodity."
 > END STRING
 
 > BEGIN STRING
 "世界中で愛飲されている。"
-> CONTEXT: Scripts/RPG::Item(detail)/268:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/268:15
+"It is enjoyed all over the world."
 > END STRING
 
 > BEGIN STRING
 "昔からフォルミダーグ全土で飲まれている"
-> CONTEXT: Scripts/RPG::Item(detail)/270:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/270:15
+"It has been drunk throughout Formidag for a long time."
 > END STRING
 
 > BEGIN STRING
 "一般的なお酒。"
-> CONTEXT: Scripts/RPG::Item(detail)/271:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/271:15
+"General alcohol."
 > END STRING
 
 > BEGIN STRING
 "製法が開発されたのは比較的最近だが、\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/273:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/273:15
+"A relatively recent recipe that is higly popular\\n"
 > END STRING
 
 > BEGIN STRING
 "グルッペンを中心に庶民に高い人気を誇る。"
-> CONTEXT: Scripts/RPG::Item(detail)/274:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/274:15
+"among the general public, especially Gruppen."
 > END STRING
 
 > BEGIN STRING
 "リスヴェグワイン"
 > CONTEXT: Scripts/RPG::Item(detail)/275:12
-"Lisvegwein"
+"Lisveg Wine"
 > END STRING
 
 > BEGIN STRING
 "それまで葡萄酒は庶民には手が届かない高級品であった。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/276:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/276:15
+"Before this, wine was a luxury unavailable for ordinary people.\\n"
 > END STRING
 
 > BEGIN STRING
 "応用魔術最大の成果と称す者も多い。"
-> CONTEXT: Scripts/RPG::Item(detail)/277:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/277:15
+"Many call this the greatest achievement in applied magic."
 > END STRING
 
 > BEGIN STRING
 "特にマジックハーブが使われるものは\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/279:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/279:15
+"In particular, those that contain magic herbs\\n"
 > END STRING
 
 > BEGIN STRING
 "高級酒としてリスヴェグで人気が高い。"
-> CONTEXT: Scripts/RPG::Item(detail)/280:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/280:15
+"are highly sought after in Lisveg as high-quality alcohol."
 > END STRING
 
 > BEGIN STRING
@@ -8581,26 +8581,26 @@
 
 > BEGIN STRING
 "滋養強壮に効果があり、昔は霊薬として用いられていた。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/282:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/282:15
+"Strengthens the body. A miracle medicine from the past.\\n"
 > END STRING
 
 > BEGIN STRING
 "あらゆる猫の大好物でもある。"
-> CONTEXT: Scripts/RPG::Item(detail)/283:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/283:15
+"Also a favorite of all cats."
 > END STRING
 
 > BEGIN STRING
 "キアズマから伝わった製法をもとに、\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/285:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/285:15
+"Based on the recipe passed down from Kiasma,\\n"
 > END STRING
 
 > BEGIN STRING
 "魚介に合うワインとしてつくられた。"
-> CONTEXT: Scripts/RPG::Item(detail)/286:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/286:15
+"it was created as a wine to go with seafood."
 > END STRING
 
 > BEGIN STRING
@@ -8611,44 +8611,44 @@
 
 > BEGIN STRING
 "苦味と酸味を含む玄妙な味わいがある。"
-> CONTEXT: Scripts/RPG::Item(detail)/288:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/288:15
+"Has a mysterious taste, mixing bitterness and sourness."
 > END STRING
 
 > BEGIN STRING
 "ルイスブレッド"
 > CONTEXT: Scripts/RPG::Item(detail)/290:12
-"Louis Bread"
+"Rye Bread"
 > END STRING
 
 > BEGIN STRING
 "しっかりとした食べ応えがあり、しばしば薄切りにして\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/291:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/291:15
+"Has a hearty texture and is often served thinly sliced\\n"
 > END STRING
 
 > BEGIN STRING
 "チーズや魚の酢漬けなどと共に供される。"
-> CONTEXT: Scripts/RPG::Item(detail)/292:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/292:15
+"with cheese or pickled fish."
 > END STRING
 
 > BEGIN STRING
 "シプリサンド"
 > CONTEXT: Scripts/RPG::Item(detail)/293:12
-"Sipulisand"
+"Sipuli Sandwich"
 > END STRING
 
 > BEGIN STRING
 "薄切りにしたルイスブレッドに\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/294:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/294:15
+"Thinly sliced rye bread\\n"
 > END STRING
 
 > BEGIN STRING
 "あふれんばかりの具が乗っている。"
-> CONTEXT: Scripts/RPG::Item(detail)/295:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/295:15
+"topped with a generous helping of filling."
 > END STRING
 
 > BEGIN STRING
@@ -8659,14 +8659,14 @@
 
 > BEGIN STRING
 "応用魔術で育てた小麦を使っており、\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/297:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/297:15
+"Made from wheat grown with applied magic,\\n"
 > END STRING
 
 > BEGIN STRING
 "一口食べただけでお腹がふくれる。"
-> CONTEXT: Scripts/RPG::Item(detail)/298:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/298:15
+"just one bite fills you up."
 > END STRING
 
 > BEGIN STRING
@@ -8677,8 +8677,8 @@
 
 > BEGIN STRING
 "聖職者風とも呼ばれる。"
-> CONTEXT: Scripts/RPG::Item(detail)/300:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/300:15
+"Also known as the Cleric Style."
 > END STRING
 
 > BEGIN STRING
@@ -8689,8 +8689,8 @@
 
 > BEGIN STRING
 "使われる野菜は地方によって異なる。"
-> CONTEXT: Scripts/RPG::Item(detail)/302:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/302:15
+"The vegetables used vary depending on the region."
 > END STRING
 
 > BEGIN STRING
@@ -8701,14 +8701,14 @@
 
 > BEGIN STRING
 "ナッツの風味を楽しむため、オリーブオイルと塩のみの\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/304:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/304:15
+"Served with a simple dressing of olive oil and salt,\\n"
 > END STRING
 
 > BEGIN STRING
 "シンプルなドレッシングでいただく。"
-> CONTEXT: Scripts/RPG::Item(detail)/305:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/305:15
+"you can enjoy the nutty flavor."
 > END STRING
 
 > BEGIN STRING
@@ -8719,14 +8719,14 @@
 
 > BEGIN STRING
 "アーティチョークと共にマヨネーズのドレッシングで。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/307:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/307:15
+"With artichokes and mayonnaise dressing.\\n"
 > END STRING
 
 > BEGIN STRING
 "リスヴェグワインとよく合う。"
-> CONTEXT: Scripts/RPG::Item(detail)/308:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/308:15
+"Pairs well with Lisveg wine."
 > END STRING
 
 > BEGIN STRING
@@ -8737,14 +8737,14 @@
 
 > BEGIN STRING
 "酒の肴として、あるいはルイスブレッドと共に軽食として。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/310:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/310:15
+"Great with alcohol or a light meal with some rye bread.\\n"
 > END STRING
 
 > BEGIN STRING
 "グルッペン全土で人気がある。"
-> CONTEXT: Scripts/RPG::Item(detail)/311:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/311:15
+"Popular all over Gruppen."
 > END STRING
 
 > BEGIN STRING
@@ -8755,26 +8755,26 @@
 
 > BEGIN STRING
 "トーストした薄切りのルイスブレッドに乗せ、\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/313:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/313:15
+"Served on toasted slices of rye bread,\\n"
 > END STRING
 
 > BEGIN STRING
 "ほどよく柔らかくなったブレッドと一緒にいただく。"
-> CONTEXT: Scripts/RPG::Item(detail)/314:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/314:15
+"with the bread softened to perfection."
 > END STRING
 
 > BEGIN STRING
 "シトラスソーリ"
 > CONTEXT: Scripts/RPG::Item(detail)/315:12
-"Citrus Sori"
+"Citrus Þorri"
 > END STRING
 
 > BEGIN STRING
 "焦げた皮の下で白く輝く、脂の乗った身がたまらない。"
-> CONTEXT: Scripts/RPG::Item(detail)/316:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/316:15
+"Fatty flesh glistens white beneath the charred skin irresistably."
 > END STRING
 
 > BEGIN STRING
@@ -8785,14 +8785,14 @@
 
 > BEGIN STRING
 "そのまま食べても美味だが、チーズや野菜と共に\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/318:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/318:15
+"Delicious as is, but also enjoyed with cheese or vegetables\\n"
 > END STRING
 
 > BEGIN STRING
 "パンにはさんでも、花の蕾の塩漬けなどを添えても良い。"
-> CONTEXT: Scripts/RPG::Item(detail)/319:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/319:15
+"on bread, or with pickled flower buds."
 > END STRING
 
 > BEGIN STRING
@@ -8803,14 +8803,14 @@
 
 > BEGIN STRING
 "他にライスワインやジンジャー、ミレットシュガーなどが\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/321:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/321:15
+"Other ingredients include rice wine, ginger,\\n"
 > END STRING
 
 > BEGIN STRING
 "材料に使われ、思いのほか複雑な味わいとなる。"
-> CONTEXT: Scripts/RPG::Item(detail)/322:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/322:15
+"and millet sugar, giving it a surprisingly complex flavor."
 > END STRING
 
 > BEGIN STRING
@@ -8821,8 +8821,8 @@
 
 > BEGIN STRING
 "お酒のつまみにも。"
-> CONTEXT: Scripts/RPG::Item(detail)/324:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/324:15
+"Goes well with alcohol."
 > END STRING
 
 > BEGIN STRING
@@ -8833,8 +8833,8 @@
 
 > BEGIN STRING
 "甘めの赤ワインを煮詰めたソースで。"
-> CONTEXT: Scripts/RPG::Item(detail)/326:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/326:15
+"Served with a sweet red wine reduced sauce."
 > END STRING
 
 > BEGIN STRING
@@ -8845,8 +8845,8 @@
 
 > BEGIN STRING
 "野趣溢れる風味が人気。"
-> CONTEXT: Scripts/RPG::Item(detail)/328:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/328:15
+"Its rustic flavor is popular."
 > END STRING
 
 > BEGIN STRING
@@ -8873,8 +8873,8 @@
 
 > BEGIN STRING
 "体が温まる。"
-> CONTEXT: Scripts/RPG::Item(detail)/330:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/330:15
+"Warms the body."
 > END STRING
 
 > BEGIN STRING
@@ -8893,10 +8893,10 @@
 
 > BEGIN STRING
 "バステト"
-> CONTEXT: Scripts/Game_Battler 2/60:21 < UNTRANSLATED
-> CONTEXT: Scripts/Game_Enemy/496:56 < UNTRANSLATED
-> CONTEXT: Scripts/★図鑑用詳細データ/444:10 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler 2/60:21
+> CONTEXT: Scripts/Game_Enemy/496:56
+> CONTEXT: Scripts/★図鑑用詳細データ/444:10
+"Bastet"
 > END STRING
 
 > BEGIN STRING
@@ -8909,14 +8909,14 @@
 
 > BEGIN STRING
 "赤ワインと野イチゴで作った真っ赤なソースでいただく。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/332:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/332:15
+"Served with a deep red sauce from red wine and strawberries.\\n"
 > END STRING
 
 > BEGIN STRING
 "添え物にはやはりグルッペン特産のチム茸を。"
-> CONTEXT: Scripts/RPG::Item(detail)/333:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/333:15
+"Goes with the jjim mushrooms, a local specialty of Gruppen."
 > END STRING
 
 > BEGIN STRING
@@ -8927,14 +8927,14 @@
 
 > BEGIN STRING
 "このスープはキアズマ独特のもので、辛く、とろみがあり、\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/335:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/335:15
+"Unique to Kiasma, spicy and thick,\\n"
 > END STRING
 
 > BEGIN STRING
 "伽哩とも呼ばれている。"
-> CONTEXT: Scripts/RPG::Item(detail)/336:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/336:15
+"also called curry."
 > END STRING
 
 > BEGIN STRING
@@ -8945,14 +8945,14 @@
 
 > BEGIN STRING
 "グルッペン森林地方では甘い木の実を添えて\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/338:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/338:15
+"Served with sweet nuts and rye bread or crackers\\n"
 > END STRING
 
 > BEGIN STRING
 "ルイスブレッドやクラッカーと一緒にいただく。"
-> CONTEXT: Scripts/RPG::Item(detail)/339:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/339:15
+"in Gruppen forest region"
 > END STRING
 
 > BEGIN STRING
@@ -8963,8 +8963,8 @@
 
 > BEGIN STRING
 "卵を持っているものが特に美味。"
-> CONTEXT: Scripts/RPG::Item(detail)/341:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/341:15
+"The ones with eggs are especially delicious."
 > END STRING
 
 > BEGIN STRING
@@ -8975,8 +8975,8 @@
 
 > BEGIN STRING
 "味は淡白だが、焼くことでハーブのような芳香を放つ。"
-> CONTEXT: Scripts/RPG::Item(detail)/343:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/343:15
+"It has a mild flavor, but releases an herbal aroma when roasted."
 > END STRING
 
 > BEGIN STRING
@@ -8987,8 +8987,8 @@
 
 > BEGIN STRING
 "生きている蝶が皿にとまっているのと見分けがつかない。"
-> CONTEXT: Scripts/RPG::Item(detail)/345:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/345:15
+"Indistinguishable from a live butterfly on a plate."
 > END STRING
 
 > BEGIN STRING
@@ -8999,8 +8999,8 @@
 
 > BEGIN STRING
 "レモンとガーリックのドレッシングでいただく。"
-> CONTEXT: Scripts/RPG::Item(detail)/347:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/347:15
+"Served with lemon and garlic dressing."
 > END STRING
 
 > BEGIN STRING
@@ -9011,8 +9011,8 @@
 
 > BEGIN STRING
 "手軽なおやつとして大人から子供まで広く人気がある。"
-> CONTEXT: Scripts/RPG::Item(detail)/349:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/349:15
+"Popular as a quick and easy snack with adults and children alike."
 > END STRING
 
 > BEGIN STRING
@@ -9023,14 +9023,14 @@
 
 > BEGIN STRING
 "冷めてもおいしいが、露店の焼きたてはまた格別。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/351:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/351:15
+"Delicious cold, exceptional fresh from street stalls.\\n"
 > END STRING
 
 > BEGIN STRING
 "らせん状のリボンのような形が見た目にも楽しい。"
-> CONTEXT: Scripts/RPG::Item(detail)/352:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/352:15
+"The spiral ribbon shape is visually appealing."
 > END STRING
 
 > BEGIN STRING
@@ -9041,14 +9041,14 @@
 
 > BEGIN STRING
 "まん丸の甘い生地にシナモンやカルダモンなどの\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/354:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/354:15
+"The sweet, round dough is filled with spices\\n"
 > END STRING
 
 > BEGIN STRING
 "スパイスがたっぷり入っている。"
-> CONTEXT: Scripts/RPG::Item(detail)/355:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/355:15
+"such as cinnamon and cardamom."
 > END STRING
 
 > BEGIN STRING
@@ -9059,8 +9059,8 @@
 
 > BEGIN STRING
 "甘く、すっぱい。"
-> CONTEXT: Scripts/RPG::Item(detail)/357:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/357:15
+"Sweet and sour."
 > END STRING
 
 > BEGIN STRING
@@ -9071,14 +9071,14 @@
 
 > BEGIN STRING
 "干し葡萄やラム酒を加えても美味。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/359:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/359:15
+"Delicious with raisins and rum.\\n"
 > END STRING
 
 > BEGIN STRING
 "ヴァーサなど寒い地方ではブランデーが用いられる。"
-> CONTEXT: Scripts/RPG::Item(detail)/360:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/360:15
+"Brandy is used in colder regions such as Vasa."
 > END STRING
 
 > BEGIN STRING
@@ -9089,14 +9089,14 @@
 
 > BEGIN STRING
 "生地はサクサクで、食べると滑らかなクリームが\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/362:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/362:15
+"The crust is crispy and the smooth cream\\n"
 > END STRING
 
 > BEGIN STRING
 "口の中に広がる。"
-> CONTEXT: Scripts/RPG::Item(detail)/363:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/363:15
+"spreads in your mouth when you eat it."
 > END STRING
 
 > BEGIN STRING
@@ -9107,14 +9107,14 @@
 
 > BEGIN STRING
 "ミルクとバターをたっぷり使った小さなパンケーキに\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/365:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/365:15
+"Small pancakes made with lots of milk and butter,\\n"
 > END STRING
 
 > BEGIN STRING
 "カエデの樹液から精製したシロップをかけていただく。"
-> CONTEXT: Scripts/RPG::Item(detail)/366:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/366:15
+"drizzled with maple sap syrup."
 > END STRING
 
 > BEGIN STRING
@@ -9125,8 +9125,8 @@
 
 > BEGIN STRING
 "シスターがこっそりおやつに食べていることがよくある。"
-> CONTEXT: Scripts/RPG::Item(detail)/368:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/368:15
+"Sisters often sneak them in as a snack."
 > END STRING
 
 > BEGIN STRING
@@ -9137,8 +9137,8 @@
 
 > BEGIN STRING
 "血のしたたる真っ赤な赤身と白いソースの対比が美しい。"
-> CONTEXT: Scripts/RPG::Item(detail)/370:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/370:15
+"Contrast between blood-dripping red meat and white sauce is beautiful."
 > END STRING
 
 > BEGIN STRING
@@ -9149,8 +9149,8 @@
 
 > BEGIN STRING
 "噛んだ後のトロッとした食感がまた素敵である。"
-> CONTEXT: Scripts/RPG::Item(detail)/372:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/372:15
+"The soft, gooey texture after you bite into it is also wonderful."
 > END STRING
 
 > BEGIN STRING
@@ -9161,14 +9161,14 @@
 
 > BEGIN STRING
 "よく冷やしていただく。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/374:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/374:15
+"Serve well chilled.\\n"
 > END STRING
 
 > BEGIN STRING
 "暑い日に冷たいお酒と一緒にいただくとまた美味。"
-> CONTEXT: Scripts/RPG::Item(detail)/375:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/375:15
+"Delicious with a cold drink on a hot day."
 > END STRING
 
 > BEGIN STRING
@@ -9179,14 +9179,14 @@
 
 > BEGIN STRING
 "調理中に雨蛙の放つ美しい音が雨の音のようで\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/377:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/377:15
+"The beautiful cooking sound that the tree frogs make\\n"
 > END STRING
 
 > BEGIN STRING
 "風流とされる。"
-> CONTEXT: Scripts/RPG::Item(detail)/378:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/378:15
+"is said to be elegant, like the sound of rain."
 > END STRING
 
 > BEGIN STRING
@@ -9197,47 +9197,47 @@
 
 > BEGIN STRING
 "香辛料には赤く辛味を持つものが多く使われ、\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/380:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/380:15
+"Has many red hot spices,\\n"
 > END STRING
 
 > BEGIN STRING
 "悪魔風と呼ばれる所以となっている。"
-> CONTEXT: Scripts/RPG::Item(detail)/381:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/381:15
+"which is why it's called Demon Wind."
 > END STRING
 
 > BEGIN STRING
 "夜の国の住人が残した指輪。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/389:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/389:15
+"A ring left behind by a resident of the Land of Night.\\n"
 > END STRING
 
 > BEGIN STRING
 "夢と\\\\r[現世,うつしよ]の間に浮かび、二つを繋げる力を持つ。"
-> CONTEXT: Scripts/RPG::Item(detail)/390:15 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/390:15
+"Floats between dreams and reality, with the power to connect them."
 > END STRING
 
 > BEGIN STRING
 "〔食事〕 "
-> CONTEXT: Scripts/RPG::Item(detail)/396:46 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/396:46
+"〔Food〕 "
 > END STRING
 
 > BEGIN STRING
 "\#{e}。\\n"
-> CONTEXT: Scripts/RPG::Item(detail)/397:13 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Item(detail)/403:13 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Item(detail)/409:13 < UNTRANSLATED
-> CONTEXT: Scripts/RPG::Item(detail)/412:13 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/397:13
+> CONTEXT: Scripts/RPG::Item(detail)/403:13
+> CONTEXT: Scripts/RPG::Item(detail)/409:13
+> CONTEXT: Scripts/RPG::Item(detail)/412:13
+"\#{e}\\n"
 > END STRING
 
 > BEGIN STRING
 "〔ドリンク〕 "
-> CONTEXT: Scripts/RPG::Item(detail)/402:46 < UNTRANSLATED
-
+> CONTEXT: Scripts/RPG::Item(detail)/402:46
+"〔Drink〕 "
 > END STRING
 
 > BEGIN STRING
@@ -9595,8 +9595,8 @@
 
 > BEGIN STRING
 "\#{self.name}は我を取り戻した！\\n\\004[\\\\v[104]]"
-> CONTEXT: Scripts/Game_Battler(message)/290:14 < UNTRANSLATED
-
+> CONTEXT: Scripts/Game_Battler(message)/290:14
+"\#{self.name} has regained senses!\\n\\004[\\\\v[104]]"
 > END STRING
 
 > BEGIN STRING

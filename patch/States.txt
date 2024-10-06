@@ -793,7 +793,7 @@ Musk
 マージョラム
 > CONTEXT: States/146/name/
 > CONTEXT: Items/12/name/
-Marjoram
+Majoram
 > END STRING
 
 > BEGIN STRING
@@ -1661,14 +1661,14 @@ MP+5%(博士の呪文書)
 ルイスブレッド
 > CONTEXT: States/321/name/
 > CONTEXT: Items/51/name/
-Louis Bread
+Rye Bread
 > END STRING
 
 > BEGIN STRING
 シプリサンド
 > CONTEXT: States/322/name/
 > CONTEXT: Items/52/name/
-Sipulisand
+Sipuli Sandwich
 > END STRING
 
 > BEGIN STRING
@@ -1759,7 +1759,7 @@ Ecruvis Salad
 シトラスソーリ
 > CONTEXT: States/336/name/
 > CONTEXT: Items/74/name/
-Citrus Sori
+Citrus Þorri
 > END STRING
 
 > BEGIN STRING

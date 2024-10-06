@@ -444,7 +444,7 @@ Special catalyst for magical dolls. Has a stimulating effect.
 > BEGIN STRING
 〔食事〕 フォルミダーグ全土で食されるルイス麦で作った黒パン
 > CONTEXT: Items/51/description/
-[Food] Brown bread made from Lewis wheat, eaten throughout Formidag
+[Food] Brown bread made from rye, eaten throughout Formidag
 > END STRING
 
 > BEGIN STRING
@@ -510,7 +510,7 @@ Lembas Bread
 > BEGIN STRING
 〔食事〕 寒い地方で育つルイス麦とドゥム草の葉で作ったリゾット
 > CONTEXT: Items/54/description/
-[Food] Risotto made with Lewis barley and dum grass leaves
+[Food] Risotto made with rye and dum grass leaves
 > END STRING
 
 > BEGIN STRING
@@ -570,7 +570,7 @@ Marinated Sardines
 > BEGIN STRING
 〔食事〕 新鮮なイワシをブドウ酢とミョッズ酒に短時間漬けた料理
 > CONTEXT: Items/72/description/
-[Food] Fresh sardines soaked briefly in grape vinegar and mioz wine
+[Food] Fresh sardines soaked briefly in grape vinegar and Mjodz wine
 > END STRING
 
 > BEGIN STRING
@@ -891,7 +891,7 @@ Mjodz
 > BEGIN STRING
 ベルモットミョッズ
 > CONTEXT: Items/144/name/
-Vermouth Mijoze
+Vermouth Mjodz
 > END STRING
 
 > BEGIN STRING
@@ -915,7 +915,7 @@ Fadul Sour
 > BEGIN STRING
 リスヴェグワイン
 > CONTEXT: Items/146/name/
-Lisvegwein
+Lisveg Wine
 > END STRING
 
 > BEGIN STRING
@@ -1137,7 +1137,7 @@ Cursed Iron
 > BEGIN STRING
 ルゥインローション
 > CONTEXT: Items/211/name/
-Luin Lotion
+Ruin Lotion
 > END STRING
 
 > BEGIN STRING

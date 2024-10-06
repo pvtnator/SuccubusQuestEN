@@ -1531,7 +1531,7 @@ Pleasure Tail/6/0/0/143m145
 > BEGIN STRING
 習得：バインド / 習得：ルゥイン / 魅力+6 / 魔力-3
 > CONTEXT: Armors/201/description/
-Learn: Bind / Learn: Luin / Charm +6 / Magic -3
+Learn: Bind / Learn: Ruin / Charm +6 / Magic -3
 > END STRING
 
 > BEGIN STRING
@@ -1663,7 +1663,7 @@ Mighty Pick/0/0/0/145
 > BEGIN STRING
 習得：ルゥイン / 素早さ+5
 > CONTEXT: Armors/212/description/
-Learn: Luin / Agility +5
+Learn: Ruin / Agility +5
 > END STRING
 
 > BEGIN STRING
@@ -1741,7 +1741,7 @@ Learn: Sigilgun / MP +10% / Charm +7 / Magic +7 / Agility +7
 > BEGIN STRING
 ブラッディミョッズ/0/0/0/154m141
 > CONTEXT: Armors/219/name/
-Bloody Mijoz/0/0/0/154m141
+Bloody Mjodz/0/0/0/154m141
 > END STRING
 
 > BEGIN STRING
@@ -2011,7 +2011,7 @@ Lady's Crown/10/0/0/134m146
 > BEGIN STRING
 習得：リスティル / 習得：ファル・ルゥイン / 魅力+10 / 魔力+5
 > CONTEXT: Armors/241/description/
-Learn: Ristil / Learn: Far-Luin / Charm +10 / Magic +5
+Learn: Ristil / Learn: Far-Ruin / Charm +10 / Magic +5
 > END STRING
 
 > BEGIN STRING

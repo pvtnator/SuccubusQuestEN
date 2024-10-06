@@ -1077,7 +1077,7 @@ Put all opponents in a sensitive state
 > BEGIN STRING
 ルゥイン
 > CONTEXT: Skills/145/name/
-Luin
+Ruin
 > END STRING
 
 > BEGIN STRING
@@ -1092,7 +1092,7 @@ Defense down on one opponent
 ファル・ルゥイン
 > CONTEXT: Skills/146/name/
 > CONTEXT: Skills/242/name/
-Far-Luin
+Far-Ruin
 > END STRING
 
 > BEGIN STRING
