@@ -61,7 +61,7 @@
 　勇者\\n[1]さんですね？
 > CONTEXT: Map125/events/7/pages/0/3/Dialogue
 「Thank you for coming!
-You're the hero \\n[1], right?
+　You're the hero \\n[1], right?
 > END STRING
 
 > BEGIN STRING

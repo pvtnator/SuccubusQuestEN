@@ -45,14 +45,14 @@ There's something strange about this water...
 \\c[4]魔王のかけら\\c[0]が
 鈍い光を放っている………
 > CONTEXT: Map061/events/19/pages/0/8/Dialogue
-\\c[4]The Demon Lord's Shard\\c[0]
+The \\c[4]Demon Lord Fragment\\c[0]
 is emitting a dull light...
 > END STRING
 
 > BEGIN STRING
 かけらを水にひたしますか？
 > CONTEXT: Map061/events/19/pages/0/10/Dialogue
-Soak the shard in water?
+Soak the fragment in the water?
 > END STRING
 
 > BEGIN STRING
@@ -85,7 +85,7 @@ Soak the shard in water?
 > BEGIN STRING
 「ずっと\\n[1]と一緒にいたのよ？
 > CONTEXT: Map061/events/19/pages/0/61/Dialogue
-「I've been with you \\n[1] this whole time, you know?
+「I've been with you, \\n[1], this whole time, you know.
 > END STRING
 
 > BEGIN STRING
@@ -102,7 +102,7 @@ Soak the shard in water?
 　私は\\c[4]魔王のかけら\\c[0]。
 > CONTEXT: Map061/events/19/pages/0/106/Dialogue
 「That's right.
-　I am \\c[4]a fragment of the Demon Lord\\c[0].
+　I am a \\c[4]Demon Lord Fragment\\c[0].
 > END STRING
 
 > BEGIN STRING
@@ -121,7 +121,7 @@ Soak the shard in water?
 　追い返せるようになったのも、
 > CONTEXT: Map061/events/19/pages/0/111/Dialogue
 「\\n[1] wasn't defeated by the succubi, 
-and was able to drive it them to their original world.
+　and was able to drive it them to their original world.
 > END STRING
 
 > BEGIN STRING
@@ -184,8 +184,8 @@ and was able to drive it them to their original world.
 「\\dかけら\\dを集めるのよ。
 　私と同じ、\\c[4]魔王のかけら\\c[0]を。
 > CONTEXT: Map061/events/19/pages/0/221/Dialogue
-「Collect \\dshards\\d.
-Fragments of the Demon Lord, just like me.
+「Collect \\dfragments\\d.
+　\\c[4]Demon Lord Fragments\\c[0], just like me.
 > END STRING
 
 > BEGIN STRING
@@ -278,7 +278,7 @@ Fragments of the Demon Lord, just like me.
 　\\c[2]Xボタン（キーボードのA）\\c[0]を押してね。
 > CONTEXT: Map061/events/19/pages/0/248/Dialogue
 「If you want to talk to me outside of battle, 
-\\c[2]press the X button (A on keyboard)\\c[0]
+　\\c[2]press the X button (A on keyboard)\\c[0]
 > END STRING
 
 > BEGIN STRING
@@ -291,7 +291,7 @@ Fragments of the Demon Lord, just like me.
 \\n[1]の\\c[4]魔王のかけら\\c[0]は
 \\c[4]ルヴィッサ\\c[0]になった！
 > CONTEXT: Map061/events/19/pages/0/281/Dialogue
-\\n[1]'s \\c[4]Demon Lord Shard\\c[0] has become
+\\n[1]'s \\c[4]Demon Lord Fragment\\c[0] turned into
 \\c[4]Rovissa\\c[0]!
 > END STRING
 

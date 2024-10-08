@@ -99,7 +99,7 @@
 　何やってたんだかなぁ。
 > CONTEXT: Map086/events/8/pages/2/3/Dialogue
 「Doesn't seem like she was injured, 
-but I wonder what she was doing.
+　but I wonder what she was doing.
 > END STRING
 
 > BEGIN STRING

@@ -8290,7 +8290,7 @@
 > BEGIN STRING
 "魔王のかけら"
 > CONTEXT: Scripts/RPG::Item(detail)/218:12
-"Demon Lord's Shard"
+"Demon Lord Fragment"
 > END STRING
 
 > BEGIN STRING
@@ -8402,7 +8402,7 @@
 > CONTEXT: Scripts/RPG::Item(detail)/243:15
 > CONTEXT: Scripts/RPG::Item(detail)/246:15
 > CONTEXT: Scripts/RPG::Item(detail)/249:15
-"A vision emerges from within the Demon Lord Shard.\\n"
+"A vision emerges from within the Demon Lord Fragment.\\n"
 > END STRING
 
 > BEGIN STRING
@@ -9464,7 +9464,7 @@
 > BEGIN STRING
 "\#{myname}に\\023 \#{damage.to_s} \\024のダメージを与えた！"
 > CONTEXT: Scripts/Game_Battler(message)/211:24
-"\#{myname} dealt\\023 \#{damage.to_s} \\024damage!"
+"\#{myname} took\\023 \#{damage.to_s} \\024damage!"
 > END STRING
 
 > BEGIN STRING
@@ -18664,7 +18664,7 @@
 > BEGIN STRING
 "ロドヴィン火山"
 > CONTEXT: Scripts/Window_SaveFile/161:14
-"Lodvin Volcano"
+"Rodvin Volcano"
 > END STRING
 
 > BEGIN STRING

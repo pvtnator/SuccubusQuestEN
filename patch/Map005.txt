@@ -9,5 +9,5 @@ The treasure chest is empty...
 > BEGIN STRING
 \\c[4]魔王のかけら\\c[0]を手に入れた！
 > CONTEXT: Map005/events/4/pages/0/14/Dialogue
-You have obtained the \\c[4]Demon Lord's Shard\\c[0]!
+\\c[4]Demon Lord Fragment\\c[0] obtained!
 > END STRING

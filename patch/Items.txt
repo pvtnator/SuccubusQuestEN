@@ -1318,7 +1318,7 @@ Fully recover HP and MP / Remove all abnormal conditions
 > BEGIN STRING
 魔王のかけら
 > CONTEXT: Items/251/name/
-Demon Lord's Shard
+Demon Lord Fragment
 > END STRING
 
 > BEGIN STRING
@@ -1582,7 +1582,7 @@ Galdor
 > BEGIN STRING
 砕け散ったギルデンスターンの一部　「杯」のかけら
 > CONTEXT: Items/274/description/
-A fragment of shattered Guildenstern: "Cup"
+A fragment of shattered Guildenstern: "Grail"
 > END STRING
 
 > BEGIN STRING
@@ -1608,7 +1608,7 @@ False Vision
 魔王のかけらの中に浮かびあがる虚のヴィジョン
 > CONTEXT: Items/280/description/
 > CONTEXT: Items/281/description/
-A vision of void emerges from within the Demon Lord Shard.
+A vision of void emerges from within the Demon Lord Fragment.
 > END STRING
 
 > BEGIN STRING
@@ -1620,7 +1620,7 @@ True Vision
 > BEGIN STRING
 魔王のかけらの中に浮かびあがる真のヴィジョン
 > CONTEXT: Items/282/description/
-True vision emerges from within the Demon Lord Shard.
+True vision emerges from within the Demon Lord Fragment.
 > END STRING
 
 > BEGIN STRING
@@ -1635,7 +1635,7 @@ Vigorous Vision
 > CONTEXT: Items/284/description/
 > CONTEXT: Items/285/description/
 > CONTEXT: Items/286/description/
-A vision emerges from within the Demon Lord Shard.
+A vision emerges from within the Demon Lord Fragment.
 > END STRING
 
 > BEGIN STRING

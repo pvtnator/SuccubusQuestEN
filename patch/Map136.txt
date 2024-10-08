@@ -210,7 +210,7 @@
 > BEGIN STRING
 「…\\c[4]魔王のかけら\\c[0]！？
 > CONTEXT: Map136/events/1/pages/0/192/Dialogue
-「...\\c[4]Demon Lord Shard\\c[0]!?
+「...\\c[4]Demon Lord Fragment\\c[0]!?
 > END STRING
 
 > BEGIN STRING
@@ -228,7 +228,7 @@
 > CONTEXT: Map136/events/1/pages/0/201/Dialogue
 「You're not the only one,
 　\\n[1],
-　who got a shard!
+　who got a \\dfragment\\d!
 > END STRING
 
 > BEGIN STRING
@@ -261,7 +261,7 @@
 　あいつの\\dかけら\\dを奪えッ！！
 > CONTEXT: Map136/events/1/pages/0/223/Dialogue
 「Attack, succubi! 
-　Take away his \\dshards\\d!!
+　Take away his \\dfragments\\d!!
 > END STRING
 
 > BEGIN STRING

@@ -2,7 +2,7 @@
 > BEGIN STRING
 「\\c[4]魔王のかけら\\c[0]！
 > CONTEXT: Map113/events/1/pages/0/6/Dialogue
-「A \\c[4]Demon Lord Shard\\c[0]!
+「A \\c[4]Demon Lord Fragment\\c[0]!
 > END STRING
 
 > BEGIN STRING
@@ -18,7 +18,7 @@
 　ほうっておくわけもないし……
 > CONTEXT: Map113/events/1/pages/0/9/Dialogue
 「But there's no way that succubi 
-　would leave the \\c[4]Demon Lord's Shard\\c[0] alone...
+　would leave the \\c[4]Demon Lord Fragment\\c[0] alone...
 > END STRING
 
 > BEGIN STRING
@@ -160,7 +160,7 @@
 > BEGIN STRING
 「でも、これで\\c[4]魔王のかけら\\c[0]だけは……
 > CONTEXT: Map113/events/16/pages/0/215/Dialogue
-「But at least the \\c[4]Demon Lord Shard\\c[0] is...
+「But at least the \\c[4]Demon Lord Fragment\\c[0] is...
 > END STRING
 
 > BEGIN STRING
@@ -186,7 +186,7 @@
 > BEGIN STRING
 「はい、間違いなく\\c[4]魔王のかけら\\c[0]。
 > CONTEXT: Map113/events/16/pages/0/260/Dialogue
-「Yes, it's definitely a \\c[4]Demon Lord Shard\\c[0].
+「Yes, it's definitely a \\c[4]Demon Lord Fragment\\c[0].
 > END STRING
 
 > BEGIN STRING
@@ -428,7 +428,7 @@
 　そのために私の力が必要なんでしょ？
 > CONTEXT: Map113/events/16/pages/0/520/Dialogue
 「You're going to save Olivia, right? 
-　You need my help to do that, right?
+　You need my help to do that, don't you?
 > END STRING
 
 > BEGIN STRING

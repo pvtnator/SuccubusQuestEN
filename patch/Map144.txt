@@ -27,7 +27,7 @@
 　魔導院に行きたいんですよね。
 > CONTEXT: Map144/events/1/pages/0/88/Dialogue
 「\\n[1],
-you want to go to the Magic Academy, right?
+　you want to go to the Magic Academy, right?
 > END STRING
 
 > BEGIN STRING

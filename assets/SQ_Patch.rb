@@ -563,6 +563,9 @@ class Window_Message < Window_Selectable
           text.sub!(/\[([0-9]+)\]/, " ")
           @message_wait_count = $1.to_i
           @keeping = true
+		  if x==0
+			x -= self.contents.text_size(" ").width
+		  end
           @last_x = x
           @last_y = y
           break

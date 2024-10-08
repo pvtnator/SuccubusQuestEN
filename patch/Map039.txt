@@ -169,7 +169,7 @@ Western Road (towards Friberg-Dodichi)
 > CONTEXT: Map039/events/18/pages/3/2/Choice/3
 > CONTEXT: Map039/events/19/pages/3/2/Choice/3
 > CONTEXT: Map039/events/20/pages/3/2/Choice/3
-Lodvin Volcano
+Rodvin Volcano
 > END STRING
 
 > BEGIN STRING
@@ -184,7 +184,7 @@ Lodvin Volcano
 　でもまだ眠ってるような……
 > CONTEXT: Map039/events/43/pages/0/4/Dialogue
 「I sense a strange magical power.
-But it seems as if it's still asleep...
+　But it seems as if it's still asleep...
 > END STRING
 
 > BEGIN STRING
@@ -192,7 +192,7 @@ But it seems as if it's still asleep...
 　力を引き出したりできるんじゃないかしら？
 > CONTEXT: Map039/events/43/pages/0/6/Dialogue
 「Maybe there's some special place 
-where you can draw out its powers?
+　where you can draw out its powers?
 > END STRING
 
 > BEGIN STRING

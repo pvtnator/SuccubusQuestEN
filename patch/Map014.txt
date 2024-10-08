@@ -703,8 +703,8 @@ The door is locked
 　まず\\c[2]精神力\\c[0]の向上に努めるべきです。
 > CONTEXT: Map014/events/37/pages/0/21/Dialogue
 「If you want to protect yourself,
-you should first work on 
-improving your \\c[2]spirit\\c[0].
+　you should first work on 
+　improving your \\c[2]spirit\\c[0].
 > END STRING
 
 > BEGIN STRING

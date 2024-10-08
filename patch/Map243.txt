@@ -343,7 +343,7 @@ into the crater?
 　魔王様も意地悪がお好きだ！
 > CONTEXT: Map243/events/1/pages/0/505/Dialogue
 「Hahaha!
-The Demon Lord loves to mess around too!
+　The Demon Lord loves to mess around too!
 > END STRING
 
 > BEGIN STRING

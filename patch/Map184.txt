@@ -116,6 +116,6 @@
 　そんなもの消えてなくなるわ。
 > CONTEXT: Map184/events/49/pages/1/126/Dialogue
 「......Let's hurry.
-　With the power of the \\dshard\\d,
+　With the power of the \\dfragment\\d,
 　that will disappear.
 > END STRING

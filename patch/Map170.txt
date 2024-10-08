@@ -184,7 +184,7 @@
 　\\dならばそうやって\\d、
 > CONTEXT: Map170/events/1/pages/0/538/Dialogue
 「\\dThat's fine\\d.
-\\dThen keep at it\\d,
+　\\dThen keep at it\\d,
 > END STRING
 
 > BEGIN STRING

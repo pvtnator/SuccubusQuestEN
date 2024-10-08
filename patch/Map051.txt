@@ -108,7 +108,7 @@ Stay for \\b100,000G\\f?
 　キレイでしょ♪
 > CONTEXT: Map051/events/8/pages/0/93/Dialogue
 「These flowers were picked by 
-the girl in the next room. 
+　the girl in the next room. 
 　Pretty, right?♪
 > END STRING
 
@@ -199,7 +199,7 @@ the girl in the next room.
 　どっちが先に百人斬り達成するかだ。
 > CONTEXT: Map051/events/9/pages/0/26/Dialogue
 「How about it? Let's have a contest.
-Let's see who can reach 100 people first.
+　Let's see who can reach 100 people first.
 > END STRING
 
 > BEGIN STRING
@@ -253,7 +253,7 @@ Let's see who can reach 100 people first.
 > CONTEXT: Map051/events/9/pages/1/32/Dialogue
 > CONTEXT: Map051/events/9/pages/1/43/Dialogue
 「But don't think this is the end.
-Next up is 500.
+　Next up is 500.
 > END STRING
 
 > BEGIN STRING
@@ -334,7 +334,7 @@ Next up is 500.
 　どっちが先に千人斬り達成するかだ。
 > CONTEXT: Map051/events/9/pages/0/108/Dialogue
 「How about it? Let's have a contest.
-Let's see who can reach a thousand first.
+　Let's see who can reach a thousand first.
 > END STRING
 
 > BEGIN STRING

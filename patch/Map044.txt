@@ -285,7 +285,7 @@ SQ_Castel02
 　…………ドゥヂチか…………
 > CONTEXT: Map044/events/7/pages/0/149/Dialogue
 「...I see.....
-.....Dodichi.....
+　.....Dodichi.....
 > END STRING
 
 > BEGIN STRING
@@ -319,8 +319,8 @@ SQ_Castel02
 　\\c[2]西の街道\\c[0]を通る必要がある。
 > CONTEXT: Map044/events/7/pages/0/166/Dialogue
 「No, it's not possible.
-To get to Dodichi,
-you need to take the \\c[2]West Highway\\c[0].
+　To get to Dodichi,
+　you need to take the \\c[2]West Highway\\c[0].
 > END STRING
 
 > BEGIN STRING

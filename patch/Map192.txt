@@ -455,7 +455,7 @@
 「\\c[4]魔王のかけら\\c[0]が無くても
 　少しは力になれるつもりだ。
 > CONTEXT: Map192/events/11/pages/0/656/Dialogue
-「Even without the \\c[4]Demon Lord Shards\\c[0], 
+「Even without the \\c[4]Demon Lord Fragment\\c[0], 
 　I think I can still be of some help.
 > END STRING
 

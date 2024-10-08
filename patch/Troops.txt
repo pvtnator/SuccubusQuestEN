@@ -35,7 +35,7 @@ EV_ギルデンスターン
 　犯されし世界よ！
 　我が名において戒めん！！
 > CONTEXT: Troops/1/pages/0/5/Dialogue
-「Oh, far-fetched dream!
+「Oh, passing dream!
 　Oh, violated world!
 　I admonish you in my name!!
 > END STRING
@@ -723,7 +723,7 @@ EV_サキュバス*3 2
 > BEGIN STRING
 \\c[4]魔王のかけら\\c[0]から声が聞こえる……
 > CONTEXT: Troops/5/pages/1/7/Dialogue
-A voice is coming from the \\c[4]Demon Lord's Shard\\c[0]...
+A voice is coming from the \\c[4]Demon Lord Fragment\\c[0]...
 > END STRING
 
 > BEGIN STRING
@@ -820,14 +820,16 @@ pours into \\n[1]!
 \\a[\\v[105]]辺りに残る魔王の力が
 \\n[1]にそそぎ込む！
 \\k
-> CONTEXT: Troops/6/pages/5/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/6/pages/5/0/Dialogue
+\\a[\\v[105]]The lingering power of the Demon Lord
+pours into \\n[1]!
+\\k
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]\\n[1]のEPが\\b \\v[1] \\f回復した！
-> CONTEXT: Troops/6/pages/5/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/6/pages/5/5/Dialogue
+\\a[\\v[105]]\\n[1] recovered \\b \\v[1] \\fEP!
 > END STRING
 
 > BEGIN STRING
@@ -852,8 +854,8 @@ pours into \\n[1]!
 
 > BEGIN STRING
 「どうして消えてくれないの……？
-> CONTEXT: Troops/306/pages/1/27/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/306/pages/1/27/Dialogue
+「Why won't you go away...?
 > END STRING
 
 > BEGIN STRING
@@ -976,13 +978,6 @@ the sound of Rosenil's harp can be heard...
 「やめて……………っ！
 > CONTEXT: Troops/306/pages/2/21/Dialogue
 「Stop.....!
-> END STRING
-
-> BEGIN STRING
-「いくわよ！ リズ・ラズ！
-　ロッコ・バロッコ！
-> CONTEXT: None < UNUSED
-
 > END STRING
 
 > BEGIN STRING

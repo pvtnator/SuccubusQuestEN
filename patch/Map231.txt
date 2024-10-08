@@ -1073,7 +1073,7 @@ Light \\c[4]Vitor's Flame\\c[0] in the candlestick?
 「ロドヴィンまでテレポトで送ろう。
 　準備はいいか？
 > CONTEXT: Map231/events/24/pages/0/1/Dialogue
-「I'll teleport you to Lodvin. 
+「I'll teleport you to Rodvin. 
 　Are you ready?
 > END STRING
 

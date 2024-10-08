@@ -111,7 +111,7 @@
 　魔術で手伝いまでさせて……
 > CONTEXT: Map160/events/6/pages/0/156/Dialogue
 「As a human, she got you to take 
-　the troublesome \\dshard\\d 
+　the troublesome \\dfragment\\d 
 　and even help out with magic...
 > END STRING
 
@@ -263,8 +263,8 @@
 　自分の好きなように生きてるあんたにはな。
 > CONTEXT: Map160/events/6/pages/0/277/Dialogue
 「Your love for your daughter has you neglecting duties 
-to the county and the trouble you cause others. 
-You live your life the way you want to.
+　to the county and the trouble you cause others. 
+　You live your life the way you want to.
 > END STRING
 
 > BEGIN STRING

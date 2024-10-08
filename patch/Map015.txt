@@ -27,8 +27,8 @@
 　大丈夫か？
 > CONTEXT: Map015/events/2/pages/0/64/Dialogue
 「...What's going on?
-You seem pretty spaced out.
-Are you okay?
+　You seem pretty spaced out.
+　Are you okay?
 > END STRING
 
 > BEGIN STRING

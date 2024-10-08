@@ -134,7 +134,7 @@ The door is firmly closed...
 　\\c[4]魔王のかけら\\c[0]？
 > CONTEXT: Map276/events/10/pages/0/1/Dialogue
 「Hmm, what's that,
- \\c[4]Demon Lord Shard\\c[0]?
+　\\c[4]Demon Lord Fragment\\c[0]?
 > END STRING
 
 > BEGIN STRING

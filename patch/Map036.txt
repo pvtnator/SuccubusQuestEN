@@ -51,7 +51,7 @@ Yelbel Gorge
 「\\n[1]、もう日も暮れたし
 　どこか休めそうな場所を探そうぜ。
 > CONTEXT: Map036/events/4/pages/0/19/Dialogue
-\\n[1], it's already dark, 
+「\\n[1], it's already dark, 
 　so let's find a place to rest.
 > END STRING
 

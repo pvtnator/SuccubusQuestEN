@@ -296,8 +296,8 @@ restored the destroyed Gruppen.
 　集めさせておいたのじゃ。
 > CONTEXT: Map043/events/18/pages/0/28/Dialogue
 「I had the materials relating to 
-succubi and Demon Lords collected 
-at the \\c[1]Royal Library\\c[0].
+　succubi and Demon Lords collected 
+　at the \\c[1]Royal Library\\c[0].
 > END STRING
 
 > BEGIN STRING

@@ -58,7 +58,7 @@
 　離れないでね？
 > CONTEXT: Map010/events/14/pages/0/41/Dialogue
 「Hey \\n[1], stay by my side...
-Don't leave me, okay?
+　Don't leave me, okay?
 > END STRING
 
 > BEGIN STRING

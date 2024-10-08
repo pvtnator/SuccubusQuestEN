@@ -173,7 +173,7 @@
 \\n[1]の持つ\\c[4]魔王のかけら\\c[0]が
 まぶしく輝きはじめた！
 > CONTEXT: Map311/events/5/pages/0/309/Dialogue
-\\n[1]'s \\c[4]Demon Lord Shard\\c[0] 
+\\n[1]'s \\c[4]Demon Lord Fragment\\c[0] 
 begun to shine brilliantly!
 > END STRING
 

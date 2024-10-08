@@ -98,7 +98,7 @@ Save your progress so far?
 \\n[1]の持つ\\c[4]魔王のかけら\\c[0]が
 さらにまぶしく輝きはじめた！
 > CONTEXT: Map315/events/7/pages/0/167/Dialogue
-\\n[1]'s \\c[4]Demon Lord Shard\\c[0] 
+\\n[1]'s \\c[4]Demon Lord Fragment\\c[0] 
 begun to shine even more brightly!
 > END STRING
 

@@ -76,7 +76,7 @@ There is a note written on the side of the page
 > CONTEXT: Map046/events/7/pages/0/7/Dialogue
 > CONTEXT: Map046/events/32/pages/0/7/Dialogue
 
-　　　　　　　　　　　　　Spear,　　　Cup,　　　Sword,
+　　　　　　　　　　　　　Spear,　　　Grail,　　　Sword,
 　　　　　　　　　　　　　　　　Staff,　　Familiar
 > END STRING
 

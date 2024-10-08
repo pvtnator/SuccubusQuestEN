@@ -16,7 +16,7 @@
 　\\c[4]グングニル\\c[0]もあるわ。
 > CONTEXT: Map208/events/4/pages/0/36/Dialogue
 「\\r[I,Fragment] will be fine.
-\\c[4]Gungnir\\c[0] is also there.
+　\\c[4]Gungnir\\c[0] is also there.
 > END STRING
 
 > BEGIN STRING

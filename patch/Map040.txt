@@ -328,7 +328,7 @@
 　人を殺したり傷つけたりしないって聞いたわよ？
 > CONTEXT: Map040/events/21/pages/0/1/Dialogue
 「Succubi don't kill or injure 
-like the demons we've seen so far, right?
+　like the demons we've seen so far, right?
 > END STRING
 
 > BEGIN STRING

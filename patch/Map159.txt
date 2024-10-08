@@ -81,7 +81,7 @@
 > CONTEXT: Map159/events/1/pages/0/100/Dialogue
 「Well...
 　Succubi shouldn't be able to do something like this
-　if the \\c[4]Demon Lord Shard\\c[0] is around.
+　if the \\c[4]Demon Lord Fragment\\c[0] is around.
 > END STRING
 
 > BEGIN STRING
@@ -104,7 +104,7 @@
 　\\c[4]魔王のかけら\\c[0]はこの奥にあるの？
 > CONTEXT: Map159/events/1/pages/0/108/Dialogue
 「I don't know...
-　Is there a \\c[4]Demon Lord Shard\\c[0] deeper in here?
+　Is there a \\c[4]Demon Lord Fragment\\c[0] deeper in here?
 > END STRING
 
 > BEGIN STRING

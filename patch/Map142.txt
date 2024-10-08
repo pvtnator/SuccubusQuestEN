@@ -115,7 +115,7 @@
 「\\c[4]魔王のかけら\\c[0]を探しているの。
 　魔王の魔力を持った\\dかけら\\dよ。
 > CONTEXT: Map142/events/19/pages/0/61/Dialogue
-「We're looking for \\c[4]Demon Lord Shards\\c[0]. 
+「We're looking for \\c[4]Demon Lord Fragments\\c[0]. 
 　Fragments that hold the Demon Lord's magical power.
 > END STRING
 
@@ -216,7 +216,7 @@
 　\\c[4]魔王のかけら\\c[0]でしたか。
 > CONTEXT: Map142/events/19/pages/0/149/Dialogue
 「...So,
-　\\c[4]Demon Lord Shards\\c[0].
+　\\c[4]Demon Lord Fragments\\c[0].
 > END STRING
 
 > BEGIN STRING
@@ -611,7 +611,7 @@
 　非常に特殊なものでしたからね。
 > CONTEXT: Map142/events/19/pages/3/85/Dialogue
 「Yes.
-　The magic that \\dshard\\d emitted 
+　The magic that \\dfragments\\d emitted 
 　was extremely special.
 > END STRING
 

@@ -48,7 +48,7 @@
 　そんなに激しく動かないでぇ\\e[0]
 > CONTEXT: Map193/events/17/pages/0/74/Dialogue
 「Hey, 
-don't be so violent\\e[0]
+　don't be so violent\\e[0]
 > END STRING
 
 > BEGIN STRING
@@ -96,7 +96,7 @@ don't be so violent\\e[0]
 > BEGIN STRING
 「あれ！\\c[4]魔王のかけら\\c[0]！
 > CONTEXT: Map193/events/17/pages/0/197/Dialogue
-「Hey! The \\c[4]Demon King Shard\\c[0]!
+「Hey! The \\c[4]Demon King Fragment\\c[0]!
 > END STRING
 
 > BEGIN STRING
@@ -228,7 +228,7 @@ don't be so violent\\e[0]
 　足りないわよ。その程度じゃ。
 > CONTEXT: Map193/events/17/pages/0/314/Dialogue
 「Hehe...
-It's not enough. That's all.
+　It's not enough. That's all.
 > END STRING
 
 > BEGIN STRING
