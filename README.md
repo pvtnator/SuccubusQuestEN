@@ -1,16 +1,27 @@
 # Succubus Quest translation project.
 Mostly edited MTL using a combination of many tools and some basic understanding of Japanese.
-If you encounter issues, please read below so you understand what are relevant bugs to report.
-In general, please report game logic bugs (from a fresh save).
+Feel free to report issues and provide feedback either here in the Issues section, the F95/ULMF thread or wherever you see me.
 
 ### Original work by SQDT. The official game is required to apply this patch.
 
 ## Progress
-I have done one playthrough and translated mostly everything on the way. The game should be fully playable start to finish in English, but some non-essential texts are untranslated and there are probably some things I just missed. I also haven't playtested from the start with all the updates to ensure there are no issues, but presumably it should be fine. 
+Everything is translated. I have not fully revised the translations, so some parts of the translation might not flow that well.
+
+## Installation Instructions
+You can either patch it from source or apply the latest release version.
+It is recommended to get the latest release version from the releases section on the right side of the page.
+In this case, follow these steps:
+
+1. Download and extract the zip. ApplyPatch.bat and ENPatchData should be in the game installation folder (where the .exe is).
+2. Run ApplyPatch.
+3. A prompt will open to input password.
+   Drag and drop sqicon.ico from the game folder to the input field and click decrypt, and exit when it's done.
+   This file comes with the official distribution of the game.
+4. The rest of it should complete automatically.
+
+Further details can be found in the readme included in the zip file.
 
 ## Patching Instructions
-Currently this translation is only available through the patching.
-Release versions will come later.
 This project uses RPGMaker Trans https://rpgmakertrans.bitbucket.io/index.html.
 For easier patching, get the command line (CLI) version.
 In addition, some python scripts. Make sure to have up to date Python installed (3.5+ is fine I think).
@@ -25,6 +36,6 @@ In addition, some python scripts. Make sure to have up to date Python installed 
    Now patch the game again.
 6. After updates, apply the patches the same way. No need to delete the game or anything, normally at least.
 
-Note that as things are, this won't modify your saves, and your saves contain some strings, which would lead to discrepency and then bugs.
-In other words, it's best to start a new save after applying this mod, although it may work to certain extent, or you could manually modify your saves to match.
+Note that as things are, this won't modify your saves, and your saves contain some strings, which leads to some bugs.
+In other words, it's best to start a new save after applying this mod, but as far as I know, the bugs should be minor in this case.
 Note also that when you load a save, the current map is loaded from the save and changes won't be applied until you re-enter that map.
