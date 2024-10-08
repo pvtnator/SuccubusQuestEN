@@ -1,5 +1,5 @@
 # Succubus Quest translation project.
-Mostly edited MTL using a combination of many tools and some basic understanding of Japanese.
+Mostly edited MTL using a combination of many tools and some basic understanding of Japanese, and a lot of cross-checking for names and references.
 Feel free to report issues and provide feedback either here in the Issues section, the F95/ULMF thread or wherever you see me.
 
 ### Original work by SQDT. The official game is required to apply this patch.
