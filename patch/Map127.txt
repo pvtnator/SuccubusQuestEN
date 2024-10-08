@@ -76,16 +76,19 @@
 「エルフってのはそもそも、
 　気ままで自分勝手な種族なんだ。
 　この国の統主も例外じゃないよ。
-> CONTEXT: Map127/events/23/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map127/events/23/pages/0/1/Dialogue
+「Elfs are, to begin with, a wayward and selfish race. 
+　The leader of this country is no exception.
 > END STRING
 
 > BEGIN STRING
 「みんな政治になんて興味無いから、
 　魔法のいちばんできるやつが
 　自動的に統主になってるだけなんだけどな。
-> CONTEXT: Map127/events/23/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map127/events/23/pages/0/4/Dialogue
+「No one is interested in politics, 
+　so whoever is best at magic 
+　automatically becomes the leader.
 > END STRING
 
 > BEGIN STRING

@@ -2,8 +2,9 @@
 > BEGIN STRING
 「娘は私たちの宝です。
 　勇者様、どうかよろしくお願いします。
-> CONTEXT: Map019/events/2/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/2/pages/0/1/Dialogue
+「Our daughter is our treasure.
+　Hero, please take good care of her.
 > END STRING
 
 > BEGIN STRING
@@ -18,15 +19,16 @@
 > BEGIN STRING
 「おお勇者様、
 　また来ていただけたのですか。
-> CONTEXT: Map019/events/2/pages/3/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/2/pages/3/1/Dialogue
+「Oh hero, you've come again.
 > END STRING
 
 > BEGIN STRING
 「何もおもてなしできませんが、
 　ゆっくりしていってください。
-> CONTEXT: Map019/events/2/pages/3/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/2/pages/3/3/Dialogue
+「I can't offer you anything, 
+　but please take your time.
 > END STRING
 
 > BEGIN STRING
@@ -45,6 +47,6 @@
 
 > BEGIN STRING
 「その節はどうもありがとうございました。
-> CONTEXT: Map019/events/7/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/7/pages/1/1/Dialogue
+「Thank you very much for that.
 > END STRING

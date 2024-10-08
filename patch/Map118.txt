@@ -22,9 +22,10 @@
 > BEGIN STRING
 「リスヴェグには、エルフやドーワフっていった
 　グルッペンにはいない種族がいるそうよ。
-> CONTEXT: Map118/events/6/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map118/events/6/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map118/events/6/pages/0/1/Dialogue
+> CONTEXT: Map118/events/6/pages/1/1/Dialogue
+「Apparently in Lisveg there are races such as 
+　elves and dwarves that don't exist in Gruppen.
 > END STRING
 
 > BEGIN STRING

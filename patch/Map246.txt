@@ -7,8 +7,8 @@
 
 > BEGIN STRING
 日誌とおぼしきものが壁に刻まれている
-> CONTEXT: Map246/events/5/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map246/events/5/pages/0/1/Dialogue
+What appears to be a diary is carved into the wall.
 > END STRING
 
 > BEGIN STRING
@@ -16,8 +16,11 @@
 
 　古文書に従い魔法陣と呪文による
 　召喚を試みるも失敗。
-> CONTEXT: Map246/events/5/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map246/events/5/pages/0/2/Dialogue
+「Kingdom Year 231, Snake God Month, 19th day
 
+　Attempts to summon using magic circles 
+　and spells according to ancient documents fail.
 > END STRING
 
 > BEGIN STRING
@@ -25,8 +28,11 @@
 
 　南の魔女のところからかっぱらった秘薬を
 　触媒にするも失敗。 命がけであったのに。
-> CONTEXT: Map246/events/5/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map246/events/5/pages/0/6/Dialogue
+「Kingdom Year 231, Snake God Month, 23rd day
 
+　The elixir stolen from the Southern Witch was used as a 
+　catalyst but failed. Even though it was at the risk of my life.
 > END STRING
 
 > BEGIN STRING
@@ -34,8 +40,11 @@
 
 　終日寝ずに儀式を行うも失敗。
 　少し疲れてきた。
-> CONTEXT: Map246/events/5/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map246/events/5/pages/0/10/Dialogue
+「Kingdom Year 231, Sea God Month, 2nd day
 
+　I performed the ritual all day without sleep, but it was a failure.
+　I'm starting to feel a bit tired.
 > END STRING
 
 > BEGIN STRING
@@ -43,8 +52,11 @@
 
 　召喚後の計画を立て直していたところ
 　僅かに反応がある。
-> CONTEXT: Map246/events/5/pages/0/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map246/events/5/pages/0/14/Dialogue
+「Kingdom Year 231, Sea God Month, 4th Day
 
+　I was re-planning my post-summoning plans 
+　when I noticed a slight reaction.
 > END STRING
 
 > BEGIN STRING
@@ -52,12 +64,14 @@
 
 　わかったぞ！ わかったぞ！ わかったぞ！
 　こうだ！！
-> CONTEXT: Map246/events/5/pages/0/18/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map246/events/5/pages/0/18/Dialogue
+「Kingdom Year 231, Sea God Month, 5th Day
+　I got it! I got it! I got it!
+　Here it is!!
 > END STRING
 
 > BEGIN STRING
 日誌はそこで終わっている
-> CONTEXT: Map246/events/5/pages/0/22/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map246/events/5/pages/0/22/Dialogue
+The journal ends there
 > END STRING

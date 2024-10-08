@@ -1,9 +1,9 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 炎は不気味に燃えさかっている…
-> CONTEXT: Map202/events/1/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map202/events/2/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map008/events/1/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map008/events/2/pages/0/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map202/events/1/pages/0/0/Dialogue
+> CONTEXT: Map202/events/2/pages/0/0/Dialogue
+> CONTEXT: Map008/events/1/pages/0/0/Dialogue
+> CONTEXT: Map008/events/2/pages/0/0/Dialogue
+The fire is burning ominously...
 > END STRING

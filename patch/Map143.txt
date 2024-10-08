@@ -41,10 +41,10 @@
 
 > BEGIN STRING
 「？
-> CONTEXT: Map143/events/8/pages/0/41/Dialogue < UNTRANSLATED
-> CONTEXT: Map143/events/9/pages/0/48/Dialogue < UNTRANSLATED
-> CONTEXT: Map143/events/10/pages/0/47/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map143/events/8/pages/0/41/Dialogue
+> CONTEXT: Map143/events/9/pages/0/48/Dialogue
+> CONTEXT: Map143/events/10/pages/0/47/Dialogue
+「?
 > END STRING
 
 > BEGIN STRING

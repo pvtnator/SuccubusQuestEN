@@ -12,7 +12,7 @@
 「魔王さまのかたきぃ！
 > CONTEXT: Map034/events/1/pages/0/80/Dialogue
 > CONTEXT: Map034/events/11/pages/0/72/Dialogue
-「The Demon Lord's vassal!
+「The Demon Lord's enemy!
 > END STRING
 
 > BEGIN STRING
@@ -134,72 +134,76 @@
 
 > BEGIN STRING
 「あ、そっかぁ
-> CONTEXT: Map034/events/11/pages/0/76/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map034/events/11/pages/0/76/Dialogue
+「Oh, I see.
 > END STRING
 
 > BEGIN STRING
 「先急いでんだ。
 　どいてくれねえかな
-> CONTEXT: Map034/events/11/pages/0/90/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map034/events/11/pages/0/90/Dialogue
+「We're in a hurry.
+　Can you please move out of the way?
 > END STRING
 
 > BEGIN STRING
 「お黙り！ 今日という今日こそは！
-> CONTEXT: Map034/events/11/pages/0/93/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map034/events/11/pages/0/93/Dialogue
+「Shut up! Today is the day!
 > END STRING
 
 > BEGIN STRING
 「え？
-> CONTEXT: Map034/events/11/pages/0/143/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map034/events/11/pages/0/143/Dialogue
+「Eh?
 > END STRING
 
 > BEGIN STRING
 「う？
-> CONTEXT: Map034/events/11/pages/0/145/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map034/events/11/pages/0/145/Dialogue
+「Uh?
 > END STRING
 
 > BEGIN STRING
 「…何コレ
-> CONTEXT: Map034/events/11/pages/0/147/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map034/events/11/pages/0/147/Dialogue
+「...What is this?
 > END STRING
 
 > BEGIN STRING
 \\c[4]魔王のかけら\\c[0]が鈍い光を放っている…！
-> CONTEXT: Map034/events/11/pages/0/149/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map034/events/11/pages/0/149/Dialogue
+\\c[4]Demon Lord Fragment\\c[0] is emitting a dull light...!
 > END STRING
 
 > BEGIN STRING
 「………覚えてらっしゃい。
 　また来るわよ
-> CONTEXT: Map034/events/11/pages/0/168/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map034/events/11/pages/0/168/Dialogue
+「...Remember. 
+　We'll be back.
 > END STRING
 
 > BEGIN STRING
 「………魔王の力、か？
-> CONTEXT: Map034/events/11/pages/0/236/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map034/events/11/pages/0/236/Dialogue
+「...The power of the Demon Lord, huh?
 > END STRING
 
 > BEGIN STRING
 「やれやれ、面倒な事になってるよな。
-> CONTEXT: Map034/events/11/pages/0/239/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map034/events/11/pages/0/239/Dialogue
+「Oh dear, this is getting troublesome.
 > END STRING
 
 > BEGIN STRING
 「それでも襲ってくるのが
 　あいつらみたいのばっかなら
 　楽なんだがな……。
-> CONTEXT: Map034/events/11/pages/0/240/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map034/events/11/pages/0/240/Dialogue
+「But it would be easier 
+　if the only ones attacking us 
+　were those guys...
 > END STRING
 
 > BEGIN STRING

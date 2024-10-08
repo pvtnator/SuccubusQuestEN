@@ -54,7 +54,7 @@ SQ_Castel02
 > BEGIN STRING
 「しかしお戻りになったのは……
 > CONTEXT: Map044/events/7/pages/0/43/Dialogue
-「But you made it back...
+「But just he made it back...
 > END STRING
 
 > BEGIN STRING
@@ -141,7 +141,7 @@ SQ_Castel02
 　　　 魔物もまた何者も傷つけることなく、
 > CONTEXT: Map044/events/7/pages/0/86/Dialogue
 「　　"That demon is impervious to swords and flames,
-　　　and it can't harm others,
+　　　 and it can't harm others,
 > END STRING
 
 > BEGIN STRING
@@ -154,16 +154,16 @@ SQ_Castel02
 「　　”魔物と交わりし者、男であればその精を奪われ、
 　　　 女であれば彼女もまた魔物となる
 > CONTEXT: Map044/events/7/pages/0/89/Dialogue
-「　　"If a man has intercourse with the demon, 
-　　　his essence will be stolen, and if a woman, 
-　　　she too will become a demon
+「　　"If a man has sex with the demon, 
+　　　 his essence will be stolen, and if a woman, 
+　　　 she too will become a demon
 > END STRING
 
 > BEGIN STRING
 「　　”全てを拒みし時、魔物は夢へと還る
 > CONTEXT: Map044/events/7/pages/0/91/Dialogue
 「　　"Through complete rejection 
-　　　does it return to dreams
+　　　 does it return to dreams
 > END STRING
 
 > BEGIN STRING
@@ -394,7 +394,7 @@ SQ_Castel02
 　それまで城にいるのだ。
 > CONTEXT: Map044/events/7/pages/0/188/Dialogue
 「Tell me about that in detail later. 
-　Staying at the castle until then.
+　Stay at the castle until then.
 > END STRING
 
 > BEGIN STRING

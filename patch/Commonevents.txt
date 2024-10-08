@@ -676,7 +676,7 @@ Can't take Christine there.
 　\\dかけら\\dに名前なんてつけてたのね。
 　私は『使い魔』かしら？
 > CONTEXT: Commonevents/24/11/Dialogue
-「Humans have names for the \\dfragments\\d.
+「So, humans have names for the \\dfragments\\d.
 　Am I called the 'familiar'?
 > END STRING
 
@@ -1550,7 +1550,7 @@ pours into \\n[1]!
 　こわかったのに………
 > CONTEXT: Commonevents/104/10/Dialogue
 「I was even afraid 
-　of a boy talking to me...
+　of boys talking to me...
 > END STRING
 
 > BEGIN STRING
@@ -6007,14 +6007,14 @@ Nothing happened here...
 > BEGIN STRING
 \\a[\\v[105]]\\c[4]魔王のかけら\\c[0]が妖しく光りだした……
 > CONTEXT: Commonevents/500/26/Dialogue
-\\a[\\v[105]]\\c[4]The Demon Lord's fragment\\c[0] began to glow mysteriously...
+\\a[\\v[105]]The \\c[4]Demon Lord Fragment\\c[0] began to glow mysteriously...
 > END STRING
 
 > BEGIN STRING
 \\a[\\v[105]]\\c[4]魔王のかけら\\c[0]から更なる力が
 \\n[1]に流れ込む！
 > CONTEXT: Commonevents/500/31/Dialogue
-More power flows from the\\a[\\v[105]]\\c[4]Demon Lord's fragment\\c[0]
+More power flows from the\\a[\\v[105]]\\c[4]Demon Lord Fragment\\c[0]
 \\n[1]!
 > END STRING
 

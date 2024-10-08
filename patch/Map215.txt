@@ -2,13 +2,14 @@
 > BEGIN STRING
 「ここは宝物庫。
 　勝手に入ってはなりません。
-> CONTEXT: Map215/events/9/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map215/events/9/pages/0/1/Dialogue
+「This is a treasure house.
+　You may not enter without permission.
 > END STRING
 
 > BEGIN STRING
 安らかな顔で
 眠っている……
-> CONTEXT: Map215/events/10/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map215/events/10/pages/0/3/Dialogue
+Sleeping peacefully...
 > END STRING

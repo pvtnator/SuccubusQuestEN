@@ -39,15 +39,17 @@
 > BEGIN STRING
 「魔王を倒す旅の中でも、このようなお店に
  立ち寄っていただけてたとは感激ですわ\\e[0]
-> CONTEXT: Map016/events/1/pages/0/18/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map016/events/1/pages/0/18/Dialogue
+「I'm so grateful that you stopped by a store like this 
+　even during your journey to defeat the Demon Lord\\e[0]
 > END STRING
 
 > BEGIN STRING
 「こちら、インセンスのお試しセットとなっております。
 　これからもどうぞごひいきに\\e[0]
-> CONTEXT: Map016/events/1/pages/0/20/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map016/events/1/pages/0/20/Dialogue
+「This is a free sample set of incense.
+　Please continue to support us\\e[0]
 > END STRING
 
 > BEGIN STRING

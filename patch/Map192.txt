@@ -185,8 +185,8 @@
 
 > BEGIN STRING
 「！？
-> CONTEXT: Map192/events/11/pages/0/355/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/355/Dialogue
+「!?
 > END STRING
 
 > BEGIN STRING
@@ -368,7 +368,7 @@
 「魔王のかけらを急に手放したら、
 　反動で衰弱がくるわよ。
 > CONTEXT: Map192/events/11/pages/0/553/Dialogue
-「If you suddenly let go of Demon Lord's fragments,
+「If you suddenly let go of Demon Lord Fragments,
 　you'll end up weakened as a reaction.
 > END STRING
 
@@ -396,8 +396,9 @@
 > BEGIN STRING
 「……………………………
 　……………………
-> CONTEXT: Map192/events/11/pages/0/571/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map192/events/11/pages/0/571/Dialogue
+「...........
+　..........
 > END STRING
 
 > BEGIN STRING

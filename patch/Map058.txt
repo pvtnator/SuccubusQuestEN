@@ -12,7 +12,7 @@
 　なあメローナ。
 > CONTEXT: Map058/events/6/pages/0/49/Dialogue
 「Looks like we'll never have trouble finding food here.
-　Hey, Melona.
+　Hey, Merona.
 > END STRING
 
 > BEGIN STRING
@@ -80,5 +80,5 @@
 > BEGIN STRING
 「先イくわぁ～っ
 > CONTEXT: Map058/events/6/pages/0/87/Dialogue
-「You first~
+「We came first~
 > END STRING

@@ -153,7 +153,7 @@ Soak the fragment in the water?
 > BEGIN STRING
 「夢魔が憎いでしょう？」
 > CONTEXT: Map061/events/19/pages/0/164/Dialogue
-"You hate succubi, right?"
+「You hate succubi, right?」
 > END STRING
 
 > BEGIN STRING
@@ -207,7 +207,7 @@ Soak the fragment in the water?
 > BEGIN STRING
 「そうすればまた………
 > CONTEXT: Map061/events/19/pages/0/227/Dialogue
-「Then again...
+「In that case...
 > END STRING
 
 > BEGIN STRING

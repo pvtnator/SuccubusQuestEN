@@ -4135,7 +4135,7 @@
 > BEGIN STRING
 "『勇者』の証として賢王から与えられた冠。\\n"
 > CONTEXT: Scripts/RPG::Armor(detail)/17:15
-"A crown given by the wise king as proof of being a hero.\\n"
+"A crown given by the Wise King as proof of being a hero.\\n"
 > END STRING
 
 > BEGIN STRING
@@ -16739,7 +16739,7 @@
 > BEGIN STRING
 "焦らすように\\n\\\\w[\\\\v[104]]指で\#{target}のペニスをもてあそんでいる！"
 > CONTEXT: Scripts/RPG::Skill (message)/578:26
-" teases \#{target}'s penis\\n\\\\w[\\\\v[104]]with her fingers!"
+" teased \#{target}'s penis\\n\\\\w[\\\\v[104]]with her fingers!"
 > END STRING
 
 > BEGIN STRING
@@ -16822,7 +16822,7 @@
 > BEGIN STRING
 "焦らすように\\n\\\\w[\\\\v[104]]舌先で\#{target}のペニスをもてあそんでいる！"
 > CONTEXT: Scripts/RPG::Skill (message)/594:24
-" teases \#{target}\\n\\\\w[\\\\v[104]]with her tongue!"
+" teased \#{target}\\n\\\\w[\\\\v[104]]with her tongue!"
 > END STRING
 
 > BEGIN STRING

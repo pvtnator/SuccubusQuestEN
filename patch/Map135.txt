@@ -9,13 +9,15 @@ SQ_Field02
 > BEGIN STRING
 
 　*　魔王……た……の…力……　*
-> CONTEXT: Map135/events/2/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map135/events/2/pages/0/1/Dialogue
 
+　*　Demon Lord...s...power...　*
 > END STRING
 
 > BEGIN STRING
 魔王に関する本のようだ。
 ボロボロにすりきれていて読めない。
-> CONTEXT: Map135/events/2/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map135/events/2/pages/0/3/Dialogue
+It appears to be a book about the Demon Lord.
+It's so worn out it's unreadable.
 > END STRING

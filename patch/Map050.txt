@@ -116,7 +116,7 @@ SQ_Town02
 > BEGIN STRING
 「たからさがし　しようよ！」
 > CONTEXT: Map050/events/7/pages/0/4/Dialogue
-「Let's play treasure hunt!"
+「Let's play treasure hunt!」
 > END STRING
 
 > BEGIN STRING

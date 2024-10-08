@@ -254,27 +254,28 @@ begun to shine even more brightly!
 
 > BEGIN STRING
 「………ああ……………
-> CONTEXT: Map315/events/7/pages/1/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map315/events/7/pages/1/11/Dialogue
+「...Aaa......
 > END STRING
 
 > BEGIN STRING
 「\\n[1]……残念よ………
 　ほんとうに……………
-> CONTEXT: Map315/events/7/pages/1/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map315/events/7/pages/1/12/Dialogue
+「\\n[1]... What a pity...
+　Really.....
 > END STRING
 
 > BEGIN STRING
 「でも……あなたが変わっても……
-> CONTEXT: Map315/events/7/pages/1/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map315/events/7/pages/1/14/Dialogue
+「But...even if you change...
 > END STRING
 
 > BEGIN STRING
 「ずっと…一緒……に………
-> CONTEXT: Map315/events/7/pages/1/15/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map315/events/7/pages/1/15/Dialogue
+「Together...forever...
 > END STRING
 
 > BEGIN STRING

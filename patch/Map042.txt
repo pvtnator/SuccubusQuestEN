@@ -121,7 +121,7 @@
 「\\c[4]魔王のかけら\\c[0]……
 　おお…、なんと……！
 > CONTEXT: Map042/events/5/pages/1/23/Dialogue
-「\\c[4]Fragment of the Demon Lord\\c[0]...
+「\\c[4]Demon Lord Fragment\\c[0]...
 　Oh...what...!
 > END STRING
 
@@ -132,7 +132,7 @@
 > CONTEXT: Map042/events/5/pages/1/25/Dialogue
 「Actually, in the book that the Wise King 
 　was researching, there was a passage that 
-　seemed to be about Demon Lord's fragments.
+　seemed to be about Demon Lord Fragments.
 > END STRING
 
 > BEGIN STRING
@@ -214,7 +214,7 @@
 　あるということかも知れぬ。
 > CONTEXT: Map042/events/5/pages/1/91/Dialogue
 「That may mean that Dodichi 
-　has a fragment of the Demon Lord.
+　has a Demon Lord Fragment.
 > END STRING
 
 > BEGIN STRING

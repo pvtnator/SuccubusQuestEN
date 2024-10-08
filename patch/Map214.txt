@@ -510,109 +510,124 @@ Sleeping as if dead...
 「よせよ。
 　……それに、賢王が目を覚まさないのは
 　\\dかけら\\dのせいだけじゃないみたいだぜ。
-> CONTEXT: Map214/events/16/pages/0/89/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map214/events/16/pages/0/89/Dialogue
+「Stop it.
+　...Besides, it seems that the \\dfragments\\d 
+　aren't the only reason the Wise King won't wake up.
 > END STRING
 
 > BEGIN STRING
 「……そうだぜ。
 　そのために\\n[1]を待ってたんだ。
-> CONTEXT: Map214/events/16/pages/0/116/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map214/events/16/pages/0/116/Dialogue
+「...That's right.
+　That's why I was waiting for \\n[1].
 > END STRING
 
 > BEGIN STRING
 「……『杖』のかけらと『盃』のかけらは、
 　今私たちが持っています。
-> CONTEXT: Map214/events/16/pages/0/119/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map214/events/16/pages/0/119/Dialogue
+「...We now have in our possession 
+　the 'Staff' and 'Grail' fragments.
 > END STRING
 
 > BEGIN STRING
 「しかし、『剣』のかけら
 　\\c[4]レーヴァテイン\\c[0]は……
-> CONTEXT: Map214/events/16/pages/0/121/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map214/events/16/pages/0/121/Dialogue
+「However, the 'Sword' fragment
+　\\c[4]Laevatein\\c[0]...
 > END STRING
 
 > BEGIN STRING
 「賢王様が握られたまま離しません。
 　どうか………
-> CONTEXT: Map214/events/16/pages/0/124/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map214/events/16/pages/0/124/Dialogue
+「The Wise King is holds it and won't let go. 
+　Please...
 > END STRING
 
 > BEGIN STRING
 「どうか、このままにしておいて
 　いただけませんか……
-> CONTEXT: Map214/events/16/pages/0/127/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map214/events/16/pages/0/127/Dialogue
+「Please, could you please leave it like this...
 > END STRING
 
 > BEGIN STRING
 「お前ら、
 　そいつがその\\dかけら\\dで何をしようとしたか
 　分かってんのか？
-> CONTEXT: Map214/events/16/pages/0/130/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map214/events/16/pages/0/130/Dialogue
+「You guys,
+　do you know what he was trying to do 
+　with that \\dfragment\\d?
 > END STRING
 
 > BEGIN STRING
 「違うんです！
 　賢王様は………
-> CONTEXT: Map214/events/16/pages/0/135/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map214/events/16/pages/0/135/Dialogue
+「That's not true!
+　The wise king...
 > END STRING
 
 > BEGIN STRING
 「賢王様は……
 　自ら魔王になられる
 　おつもりだったのです。
-> CONTEXT: Map214/events/16/pages/0/140/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map214/events/16/pages/0/140/Dialogue
+「The Wise King...
+　had intended to become the Demon Lord himself.
 > END STRING
 
 > BEGIN STRING
 「魔王の力を手に入れ、
 　夢魔を完全にこの世界から追い出し……
-> CONTEXT: Map214/events/16/pages/0/144/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map214/events/16/pages/0/144/Dialogue
+「Obtain the power of the Demon Lord,
+　and banish the succubi from this world once and for all...
 > END STRING
 
 > BEGIN STRING
 「……そしてもし、
 　自身がギルデンスターンのような
 　破壊の化身になるようならば、
-> CONTEXT: Map214/events/16/pages/0/147/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map214/events/16/pages/0/147/Dialogue
+「...And if you become an incarnation of destruction 
+　like Guildenstern,
 > END STRING
 
 > BEGIN STRING
 「自らの命を、私たちの手で
 　絶たせるおつもりだったのです……
-> CONTEXT: Map214/events/16/pages/0/151/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map214/events/16/pages/0/151/Dialogue
+「He intended to end his own life by our hands...
 > END STRING
 
 > BEGIN STRING
 「……信用できると思うの？
-> CONTEXT: Map214/events/16/pages/0/154/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map214/events/16/pages/0/154/Dialogue
+「...Do you believe me?
 > END STRING
 
 > BEGIN STRING
 「……賢王にそこまでする
 　理由はないはずだぜ。
-> CONTEXT: Map214/events/16/pages/0/156/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map214/events/16/pages/0/156/Dialogue
+「There's no reason for the Wise King 
+　to go to such lengths.
 > END STRING
 
 > BEGIN STRING
 「この寒さは、北の\\c[2]万年氷の宮殿\\c[0]に住む
 　精霊が、夢魔になってしまったことが
 　原因のようです。
-> CONTEXT: Map214/events/16/pages/0/197/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map214/events/16/pages/0/197/Dialogue
+「This cold weather seems to be caused 
+　by the spirits living in the \\c[2]Eternal Ice Palace\\c[0] 
+　in the north turning into succubi.
 > END STRING
 
 > BEGIN STRING

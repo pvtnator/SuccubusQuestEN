@@ -13,6 +13,6 @@ SQ_Dungeon02
 
 > BEGIN STRING
 ……？
-> CONTEXT: Map041/events/12/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map041/events/12/pages/0/3/Dialogue
+...?
 > END STRING

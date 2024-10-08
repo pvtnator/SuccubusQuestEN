@@ -193,15 +193,18 @@
 「ついに伝説のパスタ鍋を手に入れて、
 　ニンニクと雌カマキリの仲を取り持ちに
 　ルイス麦畑にダイビングするんだって？
-> CONTEXT: Map040/events/14/pages/5/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/14/pages/5/4/Dialogue
+「You finally got your hands on the legendary pasta pot,
+　and went diving into rye fields 
+　to reconcile garlic with a female praying mantis?
 > END STRING
 
 > BEGIN STRING
 「夢の悪魔が人を夢の世界に誘いこんで
 　そこで気持ちいいことしてるんだッて？
-> CONTEXT: Map040/events/14/pages/6/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/14/pages/6/4/Dialogue
+「A succubus lures people into the dream world 
+　and does pleasurable things there?
 > END STRING
 
 > BEGIN STRING

@@ -1063,10 +1063,11 @@ Light \\c[4]Vitor's Flame\\c[0] in the candlestick?
 > BEGIN STRING
 「どこ行く気だよ！？
 　早く魔法の燭台にオレを点けてくれ！
-> CONTEXT: Map231/events/18/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/19/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map231/events/20/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map231/events/18/pages/1/1/Dialogue
+> CONTEXT: Map231/events/19/pages/1/1/Dialogue
+> CONTEXT: Map231/events/20/pages/1/1/Dialogue
+「Where are you going?!
+　Hurry and light me up in the magic candlestick!
 > END STRING
 
 > BEGIN STRING

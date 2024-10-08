@@ -1,8 +1,8 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 「おいおい、山頂はそっちじゃないぜ！？
-> CONTEXT: Map235/events/2/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map235/events/3/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map235/events/4/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map235/events/2/pages/0/2/Dialogue
+> CONTEXT: Map235/events/3/pages/0/2/Dialogue
+> CONTEXT: Map235/events/4/pages/0/2/Dialogue
+「Hey, the summit isn't over there!
 > END STRING

@@ -90,7 +90,7 @@
 「グルッペンの賢王マグナス様なら
 　きっと何か知ってるはずだぜ。
 > CONTEXT: Map018/events/5/pages/0/68/Dialogue
-「I'm sure Magnus, the wise king of Gruppen, 
+「I'm sure Magnus, the Wise King of Gruppen, 
 　would know something.
 > END STRING
 
@@ -217,7 +217,7 @@
 　俺が一人で調べよう。
 　\\n[1]、こっちの件はお前に任せるぜ
 > CONTEXT: Map018/events/5/pages/0/132/Dialogue
-「Well, I guess I'll find the way 
+「Whatever, I'll find the way 
 　to Gruppen myself. 
 　\\n[1], I'll leave this to you.
 > END STRING
@@ -456,22 +456,25 @@
 > BEGIN STRING
 「あんたらグルッペンに行くらしいな？
 　だったらいいことを教えてやろう。
-> CONTEXT: Map018/events/13/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map018/events/13/pages/1/1/Dialogue
+「I hear you're going to Gruppen?
+　If so, I'll tell you something good.
 > END STRING
 
 > BEGIN STRING
 「グルッペンには、普通の宿屋のほかに
 　もう一軒裏の宿屋があるそうだ。
-> CONTEXT: Map018/events/13/pages/1/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map018/events/13/pages/1/3/Dialogue
+「In addition to the regular inn, 
+　Gruppen apparently has another secret inn.
 > END STRING
 
 > BEGIN STRING
 「ナニするとこかは……分かるよな？
 　くそぉ、俺も行ってみたいぜ。
-> CONTEXT: Map018/events/13/pages/1/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map018/events/13/pages/1/5/Dialogue
+「It's like...that kind of a place, you know?
+　Damn, I want to go too.
 > END STRING
 
 > BEGIN STRING
@@ -525,22 +528,25 @@
 「弱点をつくには
 　まず弱点を調べることだぜ。
 　……ヒック
-> CONTEXT: Map018/events/16/pages/1/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map018/events/16/pages/1/2/Dialogue
+「To exploit a weakness, 
+　you must first examine it
+　...Hic
 > END STRING
 
 > BEGIN STRING
 「なんか最近、
 　やけに人が少なくなっちまったな……
-> CONTEXT: Map018/events/16/pages/2/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map018/events/16/pages/2/1/Dialogue
+「There's been a lot less people here recently...
 > END STRING
 
 > BEGIN STRING
 「みんな家でイイことしてんだぜきっと…
 　チクショォ……ヒック……
-> CONTEXT: Map018/events/16/pages/2/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map018/events/16/pages/2/3/Dialogue
+「I bet everyone is doing nice things at home...
+　Dammit...hic...
 > END STRING
 
 > BEGIN STRING
@@ -598,41 +604,44 @@
 
 > BEGIN STRING
 「あんたら、今度はイェルベル峡谷を抜けるって？
-> CONTEXT: Map018/events/18/pages/2/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map018/events/18/pages/2/1/Dialogue
+「You're going through Yelbel Gorge?
 > END STRING
 
 > BEGIN STRING
 「あそこはまだ魔王がいたころ、
 　凶暴な魔物がすみついてた場所だ。
 　気をつけなよ。
-> CONTEXT: Map018/events/18/pages/2/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map018/events/18/pages/2/2/Dialogue
+「That place was inhabited by vicious demons 
+　back when the Demon Lord was still in power. 
+　Be careful.
 > END STRING
 
 > BEGIN STRING
 「誘拐事件も解決したし、
 　最近じゃこれといったニュースも聞かないな。
-> CONTEXT: Map018/events/18/pages/3/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map018/events/18/pages/3/1/Dialogue
+「The kidnapping case has been solved,
+　and there been nothing in the news lately.
 > END STRING
 
 > BEGIN STRING
 「ま、この町は依然平和ってことかな。
-> CONTEXT: Map018/events/18/pages/3/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map018/events/18/pages/3/3/Dialogue
+「Well, this town is still peaceful.
 > END STRING
 
 > BEGIN STRING
 「勇者様、もう次の町に行っちゃったみたいね…。
-> CONTEXT: Map018/events/19/pages/2/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map018/events/19/pages/2/1/Dialogue
+「The hero must've already gone to the next town...
 > END STRING
 
 > BEGIN STRING
 「あ～、会いたかったなぁ～～
-> CONTEXT: Map018/events/19/pages/2/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map018/events/19/pages/2/2/Dialogue
+「Ah, I missed him...
 > END STRING
 
 > BEGIN STRING
@@ -667,8 +676,10 @@
 > BEGIN STRING
 「ムードを上げるテクニックを使うなら、
 　コトが始まってすぐにやらないと効果が薄いぜ。
-> CONTEXT: Map018/events/22/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map018/events/22/pages/1/1/Dialogue
+「If you use techniques to improve the mood,
+　you'd best do it as soon as things start, 
+　or else it'll be less effective.
 > END STRING
 
 > BEGIN STRING

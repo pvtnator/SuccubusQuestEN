@@ -206,7 +206,7 @@ Mm~~, delicious♪
 > CONTEXT: Map239/events/8/pages/0/81/Dialogue
 > CONTEXT: Map239/events/10/pages/0/81/Dialogue
 > CONTEXT: Map239/events/11/pages/0/81/Dialogue
-「Run away!!"
+「Run away!!
 > END STRING
 
 > BEGIN STRING

@@ -316,6 +316,6 @@
 
 > BEGIN STRING
 「…うとうと…………
-> CONTEXT: Map017/events/24/pages/1/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map017/events/24/pages/1/2/Dialogue
+「...zzz.....
 > END STRING

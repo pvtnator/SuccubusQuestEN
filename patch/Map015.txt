@@ -174,14 +174,15 @@ Stay at the inn for \\b20G\\f?
 「もう帰ろうと思ってるのですが、
 　息子が眠ったまま
 　目を覚まさないのです。
-> CONTEXT: Map015/events/8/pages/2/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/8/pages/2/1/Dialogue
+「I was thinking about going home, 
+　but my son is asleep and won't wake up.
 > END STRING
 
 > BEGIN STRING
 「ああ、一体何が……
-> CONTEXT: Map015/events/8/pages/2/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/8/pages/2/4/Dialogue
+「Ah, what on earth is happening……
 > END STRING
 
 > BEGIN STRING
@@ -226,23 +227,27 @@ Stay at the inn for \\b20G\\f?
 > BEGIN STRING
 「息子め、夢の中の女から
 　別れたくないと見える！
-> CONTEXT: Map015/events/9/pages/2/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/9/pages/2/1/Dialogue
+「Son, the woman of your dreams
+　seems to not want to break up with you!
 > END STRING
 
 > BEGIN STRING
 「まあわしも母さんと出会ったばかりは
 　そんな夢ばかり見てたがな！
 　がっはっは
-> CONTEXT: Map015/events/9/pages/2/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/9/pages/2/3/Dialogue
+「Well, when I first met her, 
+　I had dreams like that too! 
+　Ghahaha
 > END STRING
 
 > BEGIN STRING
 「\\n[1]様！
 　お部屋にお荷物をお忘れですよ！
-> CONTEXT: Map015/events/10/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map015/events/10/pages/0/2/Dialogue
+「Mr. \\n[1]!
+　You left your luggage in your room!
 > END STRING
 
 > BEGIN STRING

@@ -77,6 +77,13 @@ def replace_strings_in_files(folder_path, mod_path, replace_dict):
                     modified_file.write(content)
                 print("Modified "+filename)
 
+def Troops(folder_path, mod_path, filename="Troops.rxdata"):
+    with open(os.path.join(folder_path, filename), 'rb') as file:
+        content = file.read()
+    content = content.replace("オリビア".encode(), "Olivia".encode())
+    with open(os.path.join(mod_path, "P_"+filename), 'wb') as modified_file:
+        modified_file.write(content)
+
 if __name__ == "__main__":
     current_dir = os.path.dirname(os.path.realpath(__file__))
     parent_dir = os.path.abspath(os.path.join(current_dir, os.pardir))
@@ -115,3 +122,4 @@ if __name__ == "__main__":
     for key in replacements.keys():
         binary_replacements[key.encode('utf-8')] = replacements[key].encode('utf-8')
     replace_strings_in_files(folder_path, mod_path, binary_replacements)
+    Troops(folder_path, mod_path)

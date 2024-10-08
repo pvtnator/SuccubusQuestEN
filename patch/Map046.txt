@@ -3,8 +3,10 @@
 「困ったわ…
 　あの人たち、すごく真剣に
 　わけわからない話してて……
-> CONTEXT: Map046/events/4/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map046/events/4/pages/0/1/Dialogue
+「I'm in trouble...
+　Those people were talking very seriously 
+　and I couldn't understand anything...
 > END STRING
 
 > BEGIN STRING
@@ -12,7 +14,7 @@
 　…なんてとても聞けない……
 > CONTEXT: Map046/events/4/pages/0/4/Dialogue
 > CONTEXT: Map046/events/4/pages/1/4/Dialogue
-「Where is the 'cheap side dish for tonight'?"
+「Where is the 'cheap side dish for tonight'?
 　...I can't bring myself to ask that...
 > END STRING
 
@@ -150,29 +152,35 @@ There is a note written on the side of the page
 > BEGIN STRING
 「少し前に、戦士風の方がいらっしゃって
 　調べ物をしていきました。
-> CONTEXT: Map046/events/9/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map046/events/9/pages/1/1/Dialogue
+「A little while ago, 
+　a warrior-like person came 
+　and did some research.
 > END STRING
 
 > BEGIN STRING
 「どうもその方もドラウムニョルのほこらに
 　興味を持っていたようです。
-> CONTEXT: Map046/events/9/pages/1/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map046/events/9/pages/1/3/Dialogue
+「It seems that this person 
+　was also interested 
+　in the Shrine of Draumnior.
 > END STRING
 
 > BEGIN STRING
 「おや、それは
 　\\c[4]グルッペン章\\c[0]ではありませんか。
-> CONTEXT: Map046/events/9/pages/2/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map046/events/9/pages/2/1/Dialogue
+「Oh, 
+　isn't that the \\c[4]Gruppen Badge\\c[0]?
 > END STRING
 
 > BEGIN STRING
 「それは、この城のどこかに通じる
 　カギの役割をしているものです。
-> CONTEXT: Map046/events/9/pages/2/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map046/events/9/pages/2/3/Dialogue
+「It serves as a key that 
+　leads to somewhere in this castle.
 > END STRING
 
 > BEGIN STRING
@@ -221,32 +229,36 @@ There is a note written on the side of the page
 > BEGIN STRING
 「おお勇者様、
 　ドラウムニョルへ行ってきたのですか？
-> CONTEXT: Map046/events/10/pages/2/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map046/events/10/pages/2/1/Dialogue
+「Oh hero, 
+　have you been to Draumnior?
 > END STRING
 
 > BEGIN STRING
 「実はあの場所には、魔王ギルデンスターンも
 　何度か訪れていたようなのです。
-> CONTEXT: Map046/events/10/pages/2/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map046/events/10/pages/2/3/Dialogue
+「Apparently, the Demon Lord Guildenstern 
+　also visited that place several times.
 > END STRING
 
 > BEGIN STRING
 「あの場所にこそ
 　魔王の力の秘密があるのではと、
 　私はにらんでおります。
-> CONTEXT: Map046/events/10/pages/2/5/Dialogue < UNTRANSLATED
-> CONTEXT: Map046/events/10/pages/3/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map046/events/10/pages/2/5/Dialogue
+> CONTEXT: Map046/events/10/pages/3/4/Dialogue
+「I suspect that it is in that place 
+　that the secret of the Demon Lord's power lies.
 > END STRING
 
 > BEGIN STRING
 「実はドラウムニョルのほこらには、
 　魔王ギルデンスターンも
 　何度か訪れていたようなのです。
-> CONTEXT: Map046/events/10/pages/3/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map046/events/10/pages/3/1/Dialogue
+「In fact, apparently the Demon Lord Guildenstern
+　also visited the Shrine of Draumnior several times.
 > END STRING
 
 > BEGIN STRING
@@ -310,15 +322,17 @@ There is a note written on the side of the page
 「以前にも、今回のように
 　倒された魔王がバラバラの\\dかけら\\dに
 　分かれたことがあるようです。
-> CONTEXT: Map046/events/12/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map046/events/12/pages/1/1/Dialogue
+「It seems that in the past, a defeated Demon Lord 
+　has split into many \\dfragments\\d like now.
 > END STRING
 
 > BEGIN STRING
 「『剣』のかけら\\c[4]グラム\\c[0]には
 　魔王の破壊の力が、
-> CONTEXT: Map046/events/12/pages/1/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map046/events/12/pages/1/4/Dialogue
+「The 'Sword' fragment\\c[4]Gram\\c[0]
+　contains the Demon Lord's destructive power,
 > END STRING
 
 > BEGIN STRING
@@ -332,23 +346,27 @@ There is a note written on the side of the page
 > BEGIN STRING
 「『槍』のかけら\\c[4]グングニル\\c[0]には
 　魔王のカリスマが、
-> CONTEXT: Map046/events/12/pages/1/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map046/events/12/pages/1/8/Dialogue
+「The 'Spear' fragment \\c[4]Gungnir\\c[0]
+　contains the Demon Lord's charm,
 > END STRING
 
 > BEGIN STRING
 「『使い魔』のかけら\\c[4]ルヴィッサ\\c[0]には
 　魔王の意志が、
-> CONTEXT: Map046/events/12/pages/1/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map046/events/12/pages/1/10/Dialogue
+「The 'Familiar' fragment \\c[4]Rovissa\\c[0]
+　contains the Demon Lord's will,
 > END STRING
 
 > BEGIN STRING
 「そして『杯』のかけら\\c[4]ガルドル\\c[0]には
 　魔王が次なる魔王を生み出すための力が、
 　それぞれ封じ込まれているといいます。
-> CONTEXT: Map046/events/12/pages/1/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map046/events/12/pages/1/12/Dialogue
+「And it is said that the power that allows 
+　one Demon Lord to give birth to the next Demon Lord 
+　is sealed within the 'Grail' fragment, \\c[4]Galdur\\c[0].
 > END STRING
 
 > BEGIN STRING
@@ -692,25 +710,26 @@ The report ends there...
 
 > BEGIN STRING
 「おかしいな……ここにあった本……
-> CONTEXT: Map046/events/43/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map046/events/43/pages/1/1/Dialogue
+「That's strange...the book here...
 > END STRING
 
 > BEGIN STRING
 「なくなっている………
 　誰かが持っていったかな………
-> CONTEXT: Map046/events/43/pages/1/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map046/events/43/pages/1/2/Dialogue
+「It's gone...
+　Maybe someone took it...
 > END STRING
 
 > BEGIN STRING
 「こっくり…こっくり……
-> CONTEXT: Map046/events/43/pages/2/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map046/events/43/pages/2/1/Dialogue
+「*Nod*...*Nod*...
 > END STRING
 
 > BEGIN STRING
 立ったまま居眠りしているようだ
-> CONTEXT: Map046/events/43/pages/2/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map046/events/43/pages/2/3/Dialogue
+Seems to be sleeping while standing.
 > END STRING

@@ -3,29 +3,35 @@
 「装備についている\\c[2]耐性\\c[0]には、
 　『恍惚耐性』のように
 　特定のステートを防ぐものと、
-> CONTEXT: Map141/events/3/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map141/events/3/pages/0/1/Dialogue
+「The \\c[2]resistances\\c[0] on equipment include those that 
+　prevent certain states, 
+　such as 'Ecstasy Res.',
 > END STRING
 
 > BEGIN STRING
 「『聴覚耐性』のように
 　特定の付与方法を防ぐものの
 　二種類があります。
-> CONTEXT: Map141/events/3/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map141/events/3/pages/0/4/Dialogue
+「There are two types of resistances 
+　that can protect against the same abilities, 
+　such as 'Hearing Res.'
 > END STRING
 
 > BEGIN STRING
 「たとえば『誘惑の歌』は
 　『恍惚耐性』と『聴覚耐性』の
 　どちらでも防げますが、
-> CONTEXT: Map141/events/3/pages/0/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map141/events/3/pages/0/7/Dialogue
+「For example, 'Song of Temptation' can be blocked 
+　by both 'Ecstasy Res.' and 'Hearing Res.',
 > END STRING
 
 > BEGIN STRING
 「『プリティキッス』は前者で、
 　『混乱の歌』は後者でしか防げません。
-> CONTEXT: Map141/events/3/pages/0/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map141/events/3/pages/0/10/Dialogue
+「But 'Pretty Kiss' can only be blocked by the former,
+　and 'Song of Confusion' can only be blocked by the latter.
 > END STRING

@@ -52,20 +52,24 @@
 「これ…夢魔の仕業でしょ？
 　町の人がつぎつぎ
 　眠らされてるの……
-> CONTEXT: Map020/events/3/pages/1/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map020/events/3/pages/1/2/Dialogue
+「Is this...the succibi's doing?
+　The townspeople are being put to sleep 
+　one after the other...
 > END STRING
 
 > BEGIN STRING
 「私もたまに意識が遠くなるの。
 　あの夢魔に襲われた時みたいに……
-> CONTEXT: Map020/events/3/pages/1/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map020/events/3/pages/1/5/Dialogue
+「Sometimes I lose consciousness too. 
+　Like when I was attacked by that succubus...
 > END STRING
 
 > BEGIN STRING
 「勇者様、お願い、助けて…
 　このままじゃ……
-> CONTEXT: Map020/events/3/pages/1/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map020/events/3/pages/1/7/Dialogue
+「Hero, please, help me... 
+　If this continues...
 > END STRING

@@ -341,11 +341,11 @@
 
 > BEGIN STRING
 「！
-> CONTEXT: Map160/events/6/pages/0/322/Dialogue < UNTRANSLATED
-> CONTEXT: Map143/events/13/pages/1/306/Dialogue < UNTRANSLATED
-> CONTEXT: Map113/events/1/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map142/events/19/pages/3/142/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map160/events/6/pages/0/322/Dialogue
+> CONTEXT: Map143/events/13/pages/1/306/Dialogue
+> CONTEXT: Map113/events/1/pages/0/1/Dialogue
+> CONTEXT: Map142/events/19/pages/3/142/Dialogue
+「!
 > END STRING
 
 > BEGIN STRING

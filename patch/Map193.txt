@@ -301,15 +301,17 @@
 
 > BEGIN STRING
 「……\\d魔王そのもののことだ\\dッ！！
-> CONTEXT: Map193/events/17/pages/0/455/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map193/events/17/pages/0/455/Dialogue
+「...\\dIt's the Demon Lord himself\\d!!
 > END STRING
 
 > BEGIN STRING
 「そしてこの\\c[4]ガルドル\\c[0]こそは、
 　魔王の復活を執り行うための『杯』。
-> CONTEXT: Map193/events/17/pages/0/457/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map193/events/17/pages/0/457/Dialogue
+「And this \\c[4]Galdur\\c[0] is the 'Grail' 
+　that will carry out the resurrection 
+　of the Demon Lord.
 > END STRING
 
 > BEGIN STRING
@@ -359,8 +361,9 @@
 > BEGIN STRING
 「…………………
 　……………………
-> CONTEXT: Map193/events/17/pages/0/487/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map193/events/17/pages/0/487/Dialogue
+「.......
+　........
 > END STRING
 
 > BEGIN STRING

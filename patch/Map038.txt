@@ -73,37 +73,40 @@
 > BEGIN STRING
 「お勤めご苦労様です
 　勇者殿ッ！
-> CONTEXT: Map038/events/9/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map038/events/9/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map038/events/9/pages/0/1/Dialogue
+> CONTEXT: Map038/events/9/pages/1/1/Dialogue
+「Thank you for your hard work, Hero!
 > END STRING
 
 > BEGIN STRING
 「勇者殿…お勤め…
 　ごくろ……
-> CONTEXT: Map038/events/9/pages/2/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map038/events/9/pages/2/1/Dialogue
+「Hero... 
+　your work...
 > END STRING
 
 > BEGIN STRING
 「zzzzz………
-> CONTEXT: Map038/events/9/pages/2/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map038/events/9/pages/2/3/Dialogue
+「zzzzz....
 > END STRING
 
 > BEGIN STRING
 「ラウム方面
 　異常な～しっ！
-> CONTEXT: Map038/events/10/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map038/events/10/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map038/events/10/pages/0/1/Dialogue
+> CONTEXT: Map038/events/10/pages/1/1/Dialogue
+「There's something going on 
+　in the direction of Raum!
 > END STRING
 
 > BEGIN STRING
 「ラウム方面…
 　異常…なぁし……
-> CONTEXT: Map038/events/10/pages/2/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map038/events/10/pages/2/1/Dialogue
+「There's nothing going on...
+　in the direction of Raum...
 > END STRING
 
 > BEGIN STRING
