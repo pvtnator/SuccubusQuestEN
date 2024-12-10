@@ -60,7 +60,7 @@ if __name__ == "__main__":
     #main_files = [current_dir / "patch" / "Scripts.txt", current_dir / "patch" / "Skills.txt"]
     main_files = []
     for file in (current_dir / "patch").rglob("*.txt"):
-        if not "Unused" in str(file):
+        if not "Unused" in str(file) and not "States" in str(file):
             main_files.append(file)
 
     print("===Reading current translations===")
@@ -97,9 +97,9 @@ if __name__ == "__main__":
 
     print("===Updating mod translations===")
     #main_files = [current_dir / "patch" / "Scripts.txt"]
-    main_files = [current_dir / "SQ_Patch.rb.txt"]
+    main_files = [current_dir / "patch" / "States.txt"]
     #for file in (current_dir / "patch").rglob("*.txt"):
     #    main_files.append(file)
         
     sync(main_files, translations, 0)
-    sync(main_files, translations, 1)
+    #sync(main_files, translations, 1)

@@ -1467,7 +1467,7 @@ MP+10%(身体)
 > BEGIN STRING
 モル・ロギン
 > CONTEXT: States/279/name/ < UNTRANSLATED
-
+Mor-Rogin
 > END STRING
 
 > BEGIN STRING
@@ -1954,7 +1954,7 @@ EP+5%TP+5(クリムゾンバッヂ)/100/100/105
 > BEGIN STRING
 フレッシュ
 > CONTEXT: States/382/name/ < UNTRANSLATED
-
+Fresh
 > END STRING
 
 > BEGIN STRING
@@ -1984,7 +1984,7 @@ MP-30%(愛憎のアミュレット)
 > BEGIN STRING
 ストック
 > CONTEXT: States/387/name/ < UNTRANSLATED
-
+Stock
 > END STRING
 
 > BEGIN STRING
@@ -2002,25 +2002,25 @@ TP+5(愛のしるし)/100/100/105
 > BEGIN STRING
 静謐なる心
 > CONTEXT: States/501/name/ < UNTRANSLATED
-
+Serene Heart
 > END STRING
 
 > BEGIN STRING
 ウッズマンスタイル
 > CONTEXT: States/502/name/ < UNTRANSLATED
-
+Woodsman Style
 > END STRING
 
 > BEGIN STRING
 セイジ・イン・フォレスト
 > CONTEXT: States/503/name/ < UNTRANSLATED
-
+Sage in Forest
 > END STRING
 
 > BEGIN STRING
 ペザントルック
 > CONTEXT: States/504/name/ < UNTRANSLATED
-
+Peasant Look
 > END STRING
 
 > BEGIN STRING
@@ -2050,25 +2050,25 @@ Summer Noble
 > BEGIN STRING
 キアズマ・トライバル
 > CONTEXT: States/509/name/ < UNTRANSLATED
-
+Kiasma Tribal
 > END STRING
 
 > BEGIN STRING
 ビーチボーイ
 > CONTEXT: States/510/name/ < UNTRANSLATED
-
+Beach Boy
 > END STRING
 
 > BEGIN STRING
 灰燼の賢者
 > CONTEXT: States/511/name/ < UNTRANSLATED
-
+Ash Sage
 > END STRING
 
 > BEGIN STRING
 花ざかりの季節
 > CONTEXT: States/512/name/ < UNTRANSLATED
-
+Flowering Season
 > END STRING
 
 > BEGIN STRING
@@ -2086,7 +2086,7 @@ Baroque Wizard
 > BEGIN STRING
 フェティッシュグラマー
 > CONTEXT: States/515/name/ < UNTRANSLATED
-
+Fetish Glamour
 > END STRING
 
 > BEGIN STRING
@@ -2098,7 +2098,7 @@ Baroque Wizard
 > BEGIN STRING
 ホーリーローリーボーイ
 > CONTEXT: States/517/name/ < UNTRANSLATED
-
+Holy Rowley Boy
 > END STRING
 
 > BEGIN STRING
@@ -2110,7 +2110,7 @@ Baroque Wizard
 > BEGIN STRING
 カバリエ・ロマンティカ
 > CONTEXT: States/519/name/ < UNTRANSLATED
-
+Cavalier Romantica
 > END STRING
 
 > BEGIN STRING
@@ -2122,5 +2122,5 @@ Baroque Wizard
 > BEGIN STRING
 ギャラクシー
 > CONTEXT: States/521/name/ < UNTRANSLATED
-
+Galaxy
 > END STRING
