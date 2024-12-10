@@ -1466,7 +1466,7 @@ MP+10%(身体)
 
 > BEGIN STRING
 モル・ロギン
-> CONTEXT: States/279/name/ < UNTRANSLATED
+> CONTEXT: States/279/name/
 Mor-Rogin
 > END STRING
 
@@ -1953,7 +1953,7 @@ EP+5%TP+5(クリムゾンバッヂ)/100/100/105
 
 > BEGIN STRING
 フレッシュ
-> CONTEXT: States/382/name/ < UNTRANSLATED
+> CONTEXT: States/382/name/
 Fresh
 > END STRING
 
@@ -1983,7 +1983,7 @@ MP-30%(愛憎のアミュレット)
 
 > BEGIN STRING
 ストック
-> CONTEXT: States/387/name/ < UNTRANSLATED
+> CONTEXT: States/387/name/
 Stock
 > END STRING
 
@@ -2001,25 +2001,25 @@ TP+5(愛のしるし)/100/100/105
 
 > BEGIN STRING
 静謐なる心
-> CONTEXT: States/501/name/ < UNTRANSLATED
+> CONTEXT: States/501/name/
 Serene Heart
 > END STRING
 
 > BEGIN STRING
 ウッズマンスタイル
-> CONTEXT: States/502/name/ < UNTRANSLATED
+> CONTEXT: States/502/name/
 Woodsman Style
 > END STRING
 
 > BEGIN STRING
 セイジ・イン・フォレスト
-> CONTEXT: States/503/name/ < UNTRANSLATED
+> CONTEXT: States/503/name/
 Sage in Forest
 > END STRING
 
 > BEGIN STRING
 ペザントルック
-> CONTEXT: States/504/name/ < UNTRANSLATED
+> CONTEXT: States/504/name/
 Peasant Look
 > END STRING
 
@@ -2049,25 +2049,25 @@ Summer Noble
 
 > BEGIN STRING
 キアズマ・トライバル
-> CONTEXT: States/509/name/ < UNTRANSLATED
+> CONTEXT: States/509/name/
 Kiasma Tribal
 > END STRING
 
 > BEGIN STRING
 ビーチボーイ
-> CONTEXT: States/510/name/ < UNTRANSLATED
+> CONTEXT: States/510/name/
 Beach Boy
 > END STRING
 
 > BEGIN STRING
 灰燼の賢者
-> CONTEXT: States/511/name/ < UNTRANSLATED
+> CONTEXT: States/511/name/
 Ash Sage
 > END STRING
 
 > BEGIN STRING
 花ざかりの季節
-> CONTEXT: States/512/name/ < UNTRANSLATED
+> CONTEXT: States/512/name/
 Flowering Season
 > END STRING
 
@@ -2079,25 +2079,25 @@ Baroque Wizard
 
 > BEGIN STRING
 リスヴェグ・アヴァンギャルド/110/100/105
-> CONTEXT: States/514/name/ < UNTRANSLATED
-
+> CONTEXT: States/514/name/
+Lisveg Avant-Garde/110/100/105
 > END STRING
 
 > BEGIN STRING
 フェティッシュグラマー
-> CONTEXT: States/515/name/ < UNTRANSLATED
+> CONTEXT: States/515/name/
 Fetish Glamour
 > END STRING
 
 > BEGIN STRING
 グルッペン・トラディショナル/100/100/100
-> CONTEXT: States/516/name/ < UNTRANSLATED
-
+> CONTEXT: States/516/name/
+Gruppen Traditional/100/100/100
 > END STRING
 
 > BEGIN STRING
 ホーリーローリーボーイ
-> CONTEXT: States/517/name/ < UNTRANSLATED
+> CONTEXT: States/517/name/
 Holy Rowley Boy
 > END STRING
 
@@ -2109,18 +2109,18 @@ Holy Rowley Boy
 
 > BEGIN STRING
 カバリエ・ロマンティカ
-> CONTEXT: States/519/name/ < UNTRANSLATED
+> CONTEXT: States/519/name/
 Cavalier Romantica
 > END STRING
 
 > BEGIN STRING
 ナイトロマンサー/110/100/100
-> CONTEXT: States/520/name/ < UNTRANSLATED
-
+> CONTEXT: States/520/name/
+Nitromancer/110/100/100
 > END STRING
 
 > BEGIN STRING
 ギャラクシー
-> CONTEXT: States/521/name/ < UNTRANSLATED
+> CONTEXT: States/521/name/
 Galaxy
 > END STRING
