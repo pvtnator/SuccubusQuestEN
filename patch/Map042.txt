@@ -1169,13 +1169,13 @@ Found a \\c[4]sexy pinup\\c[0]!
 　変わってないのかの？
 > CONTEXT: Map042/events/39/pages/6/22/Dialogue
 「Even now, 
-　has your hatred for the Demon Lord changed?
+　do you still hate the Demon Lord?
 > END STRING
 
 > BEGIN STRING
 「魔王への憎しみは変わってないのかの？」
 > CONTEXT: Map042/events/39/pages/6/25/Dialogue
-「Has your hatred for the Demon Lord changed?
+「Do you still hate the Demon Lord?」
 > END STRING
 
 > BEGIN STRING

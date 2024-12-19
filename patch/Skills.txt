@@ -290,14 +290,14 @@ Be gentle and limit the pleasure you give
 
 > BEGIN STRING
 ほんき
-> CONTEXT: Skills/37/name/ < UNTRANSLATED
-
+> CONTEXT: Skills/37/name/
+Get Serious
 > END STRING
 
 > BEGIN STRING
 手加減するのをやめる
-> CONTEXT: Skills/37/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/37/description/
+Stop going easy on the opponents
 > END STRING
 
 > BEGIN STRING
@@ -1191,8 +1191,8 @@ Undress / Insert success rate up
 
 > BEGIN STRING
 テンションが上がりやすくなる
-> CONTEXT: Skills/156/description/ < UNTRANSLATED
-
+> CONTEXT: Skills/156/description/
+Increase tension gain
 > END STRING
 
 > BEGIN STRING

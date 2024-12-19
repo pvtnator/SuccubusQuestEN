@@ -5509,7 +5509,7 @@ Stona and Merona
 　一緒に呼べないがどうする？
 > CONTEXT: Commonevents/251/92/Dialogue
 「\\c[7]Esplana\\c[0] can be called alone, 
-　or her sisters, so what should we do?
+　or with her sisters, so what should we do?
 > END STRING
 
 > BEGIN STRING
